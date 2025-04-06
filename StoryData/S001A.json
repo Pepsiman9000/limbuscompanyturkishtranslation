@@ -2,21 +2,21 @@
   "dataList": [
     {
       "id": 0,
-      "place": "A Dark Forest",
+      "place": "Karanlık Bir Orman",
       "model": "표범",
-      "teller": "Panther",
+      "teller": "Panter",
       "title": "???",
-      "content": "I don’t get it. This is what Lion struggled against?"
+      "content": "Anlamıyorum… Aslan'ın zorlandığı şey bu muydu?"
     },
     {
       "id": 1,
       "model": "그레고르",
-      "content": "W-Whoa, hang on!"
+      "content": "W-Woahh, aceleye gerek yok!"
     },
     {
       "id": 2,
       "model": "그레고르",
-      "content": "I know this is kinda weird coming from someone you were just fighting, but I’m pretty sure we can talk this o—"
+      "content": "Biliyorum, bunun az önce savaşıyor olduğunuz birinden gelmesi biraz garip. Ama eminim ki bunu konuşarak anlaşa—"
     },
     {
       "id": 3,
@@ -26,17 +26,17 @@
     {
       "id": 4,
       "model": "이상",
-      "content": "This…"
+      "content": "Bu…"
     },
     {
       "id": 5,
       "model": "이상",
-      "content": "…is unideal."
+      "content": "…Pek de ideal sayılmaz."
     },
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "Haa… I knew it was a ridiculous idea to put up a fight against them."
+      "content": "Haa… onlara karşı savaşmanın saçma bir fikir olduğu belliydi."
     },
     {
       "id": 7,
@@ -46,21 +46,21 @@
     {
       "id": -1,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "Kurt",
       "title": "???",
-      "content": "How long are you going to lie there, Lion? We don’t have time."
+      "content": "Orada daha ne kadar yatacaksın, Aslan? Zamanımız yok."
     },
     {
       "id": -1,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "Aslan",
       "title": "???",
-      "content": "…You know, you’re right. No need to make this longer than it has to be."
+      "content": "…Bir şey diyeyim mi, haklısın. Bunu gereğinden fazla uzatmaya gerek yok."
     },
     {
       "id": 8,
       "model": "로쟈",
-      "content": "Are y’all kidding? I haven’t even…"
+      "content": "Şaka mı yapıyorsunuz? Daha başlamadık bile-"
     },
     {
       "id": 9,
@@ -71,186 +71,186 @@
       "id": 10,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<What the hell is going on? You said you’ll fight in my stead!>"
+      "title": "Ben",
+      "content": "<Ne oluyor lan? Benim için savaşacağınızı söylemiştiniz!>"
     },
     {
       "id": 11,
       "model": "파우스트",
-      "content": "We never promised to win said fights."
+      "content": "Savaşı kazanacağımızı söylemedik."
     },
     {
       "id": 12,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<What…>"
+      "title": "Ben",
+      "content": "<Ne…>"
     },
     {
       "id": 13,
       "model": "파우스트",
-      "content": "And, it seems that I’m the only survivor."
+      "content": "Ve görünüşe göre hayatta kalan tek kişi benim."
     },
     {
       "id": 14,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<Oookay. So you were waiting for this?>"
+      "title": "Ben",
+      "content": "<Tamammm, yani bunun olacağını biliyordun.>"
     },
     {
       "id": 15,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<You have some hidden card up your sleeve, right?>"
+      "title": "Ben",
+      "content": "<Sakladığın özel bir kozun var, değil mi?>"
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "Not… necessarily a trump, no. Rather…"
+      "content": "Koz… zafer olarak değil, hayır. Aksine…"
     },
     {
       "id": 17,
       "model": "파우스트",
-      "content": "It’s about following the star."
+      "content": "Yıldızı takip etmek ile alakalı."
     },
     {
       "id": 18,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "Panter",
       "title": "???",
-      "content": "What is this, some kind of suicidal performance? Not the funnest lives to end."
+      "content": "Ne yani şimdi bu, bi tür intihar performansı mı? En eğlenerek bitirdiğim hayatlar olmadığı kesin."
     },
     {
       "id": 19,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<What… what am I supposed to do?>"
+      "title": "Ben",
+      "content": "<Ne… ne yapmam gerekiyor?>"
     },
     {
       "id": 20,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<They jumped in triumphantly only to die like flies…>"
+      "title": "Ben",
+      "content": "<Yalnızca sinekler gibi ölmek için azimle atladılar…>"
     },
     {
       "id": 21,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<Gah… I can’t remember a thing about the past since I repeated what she said.>"
+      "title": "Ben",
+      "content": "<Ahh… Onun dediği şeyi tekrarladığımdan beri geçmişimle alakalı hiçbir şey hatırlayamıyorum.>"
     },
     {
       "id": -1,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "Aslan",
       "title": "???",
-      "content": "Aah~ I took my sweet time. Let’s finish this for real!"
+      "content": "Aah~ Yeterince zaman harcadık. Artık harbiden bitirelim şu işi!"
     },
     {
       "id": 22,
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Me",
-      "content": "<Is this… how I die?>"
+      "content": "<Gerçekten… böyle mi öleceğim?>"
     },
     {
       "id": 23,
       "teller": "???",
       "title": "???",
-      "content": "Tell the Serpent this, false lion."
+      "content": "Yılan'a söyle bunu, sahte Aslan."
     },
     {
       "id": 24,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "This flow cannot be stopped."
+      "content": "Bu akış durdurulamaz."
     },
     {
       "id": 25,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "Aslan",
       "title": "???",
       "content": "Grh… GAAAH!!"
     },
     {
       "id": 26,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "Kurt",
       "title": "???",
-      "content": "Red…? But why?"
+      "content": "Kızıl…? Ama neden?"
     },
     {
       "id": 27,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "Kurt",
       "title": "???",
       "content": "Argh…"
     },
     {
       "id": 28,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "Do you know why I only dismembered those two?"
+      "content": "Neden sadece o ikisinin uzuvlarını kestiğimi biliyor musun?"
     },
     {
       "id": 29,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "Because at least one of you needs to be able to carry the rest out of here."
+      "content": "Çünkü en azından birinizin diğerlerini buradan dışarı taşıyabilmesi lazım."
     },
     {
       "id": 30,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "And you’re the only one left to offer them any help."
+      "content": "Ve onlara yardım edebilecek kalan tek kişi sensin."
     },
     {
       "id": 31,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "Panter",
       "title": "???",
-      "content": "…The Red Gaze."
+      "content": "…Kızıl Nazar."
     },
     {
       "id": 32,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "Don’t glare at me like that. This is nothing compared to what you did."
+      "content": "Bana öyle bakma. Bu sizin yaptığınız şeylere yakın bile değil."
     },
     {
       "id": 33,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "With wounds like those, I’m sure your boss will recognize that you did your part. Consider them a medal of honor."
+      "content": "Bu yaralarla, eminim patronunuz yeterince çabaladığınızı anlayacaktır. Onları bir onur madalyası olarak sayın."
     },
     {
       "id": 34,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "Unless…"
+      "content": "Yoksa…"
     },
     {
       "id": 35,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "You want this to be the end of your life?"
+      "content": "Bunun hayatının sonu olmasını mı istiyorsun?"
     },
     {
       "id": 36,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "Panter",
       "title": "???",
       "content": "……"
     },
@@ -258,88 +258,88 @@
       "id": 37,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<Who are… Are you one of them?>"
+      "title": "Ben",
+      "content": "<Sen de… Onlardan biri misin?>"
     },
     {
       "id": 38,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<You’re too late, they’re already…>"
+      "title": "Ben",
+      "content": "<Çok geç kaldın, onlar çoktan…>"
     },
     {
       "id": 39,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "No one is too late, Dante."
+      "content": "Kimse hiçbir yere geç kalmadı, Dante."
     },
     {
       "id": 40,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "There is only one thing we need…"
+      "content": "İhtiyacımız olan tek şey…"
     },
     {
       "id": 41,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "A little time to rewind."
+      "content": "Biraz zaman geri almak."
     },
     {
       "id": 42,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
+      "title": "Ben",
       "content": "<…!>"
     },
     {
       "id": 43,
-      "content": "<color=#b01c37>I’m suddenly overwhelmed by a sharp pain in my chest, as though my heart were being torn asunder.</color>"
+      "content": "<color=#b01c37>Aniden kalbimde keskin bir acı hissettim, sanki kalbim yarılıyormuş gibi.</color>"
     },
     {
       "id": 44,
-      "content": "<color=#b01c37>Followed by flashes in the ribs, intestines, stomach, and lungs.</color>"
+      "content": "<color=#b01c37>Ardından ise patlamalar… göğsümün, bağırsaklarımın, karnımın, ve akciğerlerimin içinde.</color>"
     },
     {
       "id": 45,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
+      "title": "Ben",
       "content": "<GAAAAAAGH!!!>"
     },
-    {
+    { 
       "id": 46,
-      "content": "Engulfed in a deluge of torment twisting and squeezing my entire body, I let out an agonizing scream."
+      "content": "Tüm vücudumu kasıp kavuran bir acı fırtınası ile sarılmış bir şekilde, avazım çıktığı kadar bağırdım."
     },
     {
       "id": 47,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<You… Grgh…>"
+      "title": "Ben",
+      "content": "<Sen… Ghhhhh…>"
     },
     {
       "id": 48,
-      "content": "In my fading consciousness, the only thing I could perceive…"
+      "content": "Gittikçe kaybolan bilincim ile, algılayabildiğim tek şey…"
     },
     {
       "id": 49,
-      "content": "…Was the deceased’s flesh reconstructing in a bizarre manner."
+      "content": "…Ölülerin vücutlarının garip bir biçimde yeniden birleşiyor olmasıydı."
     },
     {
       "id": 50,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "You’ll suffer aplenty from now on, Dante."
+      "content": "Bu andan itibaren bolca acı çekeceksin, Dante."
     },
     {
       "id": 51,
-      "content": "And the voice of the man with red eyes."
+      "content": "Ve o kızıl gözlü adamın sesi."
     }
   ]
 }
