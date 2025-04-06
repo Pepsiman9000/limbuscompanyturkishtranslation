@@ -1210,20 +1210,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Is it You?!",
-          "desc": "[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SP on self",
+          "name": "Yoksa sen misin?!",
+          "desc": "[WhenUse] Bir sonraki tur bu Özellik Yuvasına +2 [Aggro] kazan\n[WhenUse] 5 SP yenile",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] 1 [Laceration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] 1 [Laceration] ver"
                 }
               ]
             }
@@ -1231,7 +1231,7 @@
         },
         {
           "level": 2,
-          "name": "Is it You?!",
+          "name": "Yoksa sen misin?!?!",
           "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SP on self",
           "coinlist": [
             {
