@@ -9340,21 +9340,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sprouting Bud",
-          "desc": "[WhenUse] Gain +2 Tremor Count",
+          "name": "Filizlenen Dal",
+          "desc": "[WhenUse] +2 Sarsıntı Miktarı kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Sinking Count next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Batma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Sinking Count next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Batma Miktarı ver"
                 }
               ]
             }
@@ -9362,21 +9362,21 @@
         },
         {
           "level": 2,
-          "name": "Sprouting Bud",
-          "desc": "[WhenUse] Gain +3 Tremor Count",
+          "name": "Filizlenen Dal",
+          "desc": "[WhenUse] +3 Sarsıntı Miktarı kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur +1 Batma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur +1 Batma Miktarı ver"
                 }
               ]
             }
@@ -9384,21 +9384,21 @@
         },
         {
           "level": 4,
-          "name": "Sprouting Bud",
-          "desc": "[WhenUse] Gain +3 Tremor Count",
+          "name": "Filizlenen Dal",
+          "desc": "[WhenUse] +3 Sarsıntı Miktarı kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur +1 Batma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur +2 Batma Miktarı ver"
                 }
               ]
             }
@@ -9411,27 +9411,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Moment's Floral Breeze",
-          "desc": "[StartBattle] Spend 6 Tremor Count to turn this into an AoE skill with 3 Atk Weight",
+          "name": "Anın Çiçeksi Esintisi",
+          "desc": "[StartBattle] Bunu 3 Saldırı Ağırlığı olan alansal Bir saldırıya dönüştürmek için 6 Sarsıntı Miktarı kullan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Batış ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Batış ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Batış ver"
                 }
               ]
             }
@@ -9439,27 +9439,27 @@
         },
         {
           "level": 2,
-          "name": "Moment's Floral Breeze",
-          "desc": "[StartBattle] Spend 6 Tremor Count to turn this into an AoE skill with 3 Atk Weight",
+          "name": "Anın Çiçeksi Esintisi",
+          "desc": "[StartBattle] Bunu 3 Saldırı Ağırlığı olan alansal Bir saldırıya dönüştürmek için 6 Sarsıntı Miktarı kullan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ver"
                 }
               ]
             }
@@ -9467,27 +9467,27 @@
         },
         {
           "level": 4,
-          "name": "Moment's Floral Breeze",
-          "desc": "[StartBattle] Spend 6 Tremor Count to turn this into an AoE skill with 3 Atk Weight\nIf main target has 6+ Sinking Count, Coin Power +1",
+          "name": "Anın Çiçeksi Esintisi",
+          "desc": "[StartBattle] Bunu 3 Saldırı Ağırlığı olan alansal Bir saldırıya dönüştürmek için 6 Sarsıntı Miktarı kullan\nEğer hedefin 6+ Batış Miktarı varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ver"
                 }
               ]
             }
@@ -9500,30 +9500,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bloodsteeped Scent",
-          "desc": "[DefeatDuel] Lose 20 SP\n[WhenUse] Gain 6 Tremor Count",
+          "name": "Kanlı Koku",
+          "desc": "[DefeatDuel] 20 SP kaybet\n[WhenUse] +6 Sarsıntı Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] +1 Batma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] +1 Batma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], cause Sinking Deluge"
+                  "desc": "[OnSucceedAttack] Eğer hedef 6+ [Sinking]'a sahipse, Batış Tufanı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If user has 10+ Tremor Count, deal 30% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] Eğer kullanıcı 10+ Sarsıntı Miktarı'na sahipse, verilen hasarın %30'unu bonus hasar olarak ver"
                 }
               ]
             }
@@ -9531,30 +9531,30 @@
         },
         {
           "level": 4,
-          "name": "Bloodsteeped Scent",
-          "desc": "[DefeatDuel] Lose 20 SP\n[WhenUse] Gain 6 Tremor Count",
+          "name": "Kanlı Koku",
+          "desc": "[DefeatDuel] 20 SP kaybet\n[WhenUse] +6 Sarsıntı Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] +1 Batma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] +1 Batma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], cause Sinking Deluge"
+                  "desc": "[OnSucceedAttack] Eğer hedef 6+ [Sinking]'a sahipse, Batış Tufanı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If user has 10+ Tremor Count, deal 40% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] Eğer kullanıcı 10+ Sarsıntı Miktarı'na sahipse, verilen hasarın %40'ını bonus hasar olarak ver"
                 }
               ]
             }
@@ -9567,8 +9567,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scattering Aroma",
-          "desc": "[OnSucceedEvade] Inflict 1 Sinking",
+          "name": "Saçılan Aroma",
+          "desc": "[OnSucceedEvade] 1 Batış ver",
           "coinlist": [
             {}
           ]
