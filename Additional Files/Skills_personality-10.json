@@ -1211,7 +1211,7 @@
         {
           "level": 1,
           "name": "Yoksa sen misin?!",
-          "desc": "[WhenUse] Bir sonraki tur bu Özellik Yuvasına +2 [Aggro] kazan\n[WhenUse] 5 SP yenile",
+          "desc": "[WhenUse] Bir sonraki tur bu Yetenek Yuvasına +2 [Aggro] kazan\n[WhenUse] 5 SP yenile",
           "coinlist": [
             {
               "coindescs": [
@@ -1231,20 +1231,20 @@
         },
         {
           "level": 2,
-          "name": "Yoksa sen misin?!?!",
-          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SP on self",
+          "name": "Yoksa sen misin?!",
+          "desc": "<style=\"highlight\">Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1</style>\n[WhenUse] Bir sonraki tur bu Yetenek Yuvasına +<style=\"highlight\">3</style> [Aggro] Kazan \n[WhenUse] 5 SP yenile.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Inflict 1 [Laceration]"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 1 [Laceration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Inflict 1 [Laceration]"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 1 [Laceration] ver"
                 }
               ]
             }
@@ -1252,20 +1252,20 @@
         },
         {
           "level": 4,
-          "name": "Is it You?!",
-          "desc": "If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain +<style=\"highlight\">5</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SP on self\n<style=\"highlight\">- At max SP, gain Clash Power +1 instead</style>",
+          "name": "Yoksa sen misin?!",
+          "desc": "Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] Bir sonraki tur bu Yetenek Yuvasına+<style=\"highlight\">5</style> [Aggro] kazan\n[WhenUse] 5 SP yenile\n<style=\"highlight\">- Maksimum SP'de, bunun yerine +1 Çarpışma Gücü kazan</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1278,21 +1278,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Payback with Interest",
-          "desc": "[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn\n[StartBattle] This Skill gains (highest Reson. / 3) Offense Level (max 2, rounded down)",
+          "name": "Faizli Geri Dönüş",
+          "desc": "[WhenUse] Bir sonraki tur bu Yetenek Yuvasına +2 [Aggro] kazan\n[StartBattle] Bu Yetenek (En yüksek Reson. / 3) Saldırı Seviyesi kazanır (max 2, aşağı yuvarla)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "At 4+ Reson. that includes this Skill, deal +10% more damage"
+                  "desc": "4+ Reson'da, (bu Yetenek de dahil), +10% daha fazla hasar vur."
                 }
               ]
             }
@@ -1300,21 +1300,21 @@
         },
         {
           "level": 2,
-          "name": "Payback with Interest",
-          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [Aggro] to this Skill Slot next turn\n[StartBattle] This Skill gains (highest Reson. / <style=\"highlight\">2</style>) Offense Level (max <style=\"highlight\">3</style>, rounded down)",
+          "name": "Faizli Geri Dönüş",
+          "desc": "<style=\"highlight\">Eğer rakipte 6+ [Laceration] varsa, Jeton Gücü +1</style>\n[WhenUse] Bir sonraki tur bu Yetenek Yuvasına +<style=\"highlight\">3</style> [Aggro] kazan\n[StartBattle] Bu Yetenek (en yüksek Reson. / <style=\"highlight\">2</style>) Saldırı Seviyesi  kazanır (max <style=\"highlight\">3</style>, aşağı yuvarla)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Laceration]<style=\"highlight\"></style> ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "At 4+ Reson. that includes this Skill, deal <style=\"highlight\">+15%</style> more damage"
+                  "desc": "4+ Reson'da, (Bu Yetenek de dahil), <style=\"highlight\">+15%</style> daha fazla hasar vur"
                 }
               ]
             }
@@ -1322,21 +1322,21 @@
         },
         {
           "level": 4,
-          "name": "Payback with Interest",
-          "desc": "If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain +<style=\"highlight\">5</style> [Aggro] to this Skill Slot next turn\n[StartBattle] This Skill gains (highest Reson. / 2) Offense Level (max 3, rounded down)\n<style=\"highlight\">- If the said Reson. includes an A-Reson., double the Offense Level gained from the above effect</style>",
+          "name": "Faizli Geri Dönüş",
+          "desc": "Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] Bir sonraki tur bu Özellik Yuvasına +<style=\"highlight\">5</style> [Aggro] kazan\n[StartBattle] (en yüksek Reson. / 2) Saldırı Seviyesi kazan (max 3, aşağı yuvarla)\n<style=\"highlight\">- eğer bu Reson. bir A-Reson. içeriyor ise, yukarıdaki efektten kazanılan Saldırı Seviyesini ikiye katla</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Laceration]<style=\"highlight\"></style> ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "At <style=\"highlight\">3</style>+ Reson. that includes this Skill, deal <style=\"highlight\">+20%</style> more damage"
+                  "desc": "<style=\"highlight\">3</style>+ Reson'da, (bu Yetenek de dahil), <style=\"highlight\">+20%</style> daha fazla hasar vur"
                 }
               ]
             }
@@ -1349,24 +1349,24 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Write 'em all down",
-          "desc": "Deal +1% more damage for every 2 [VengeanceBookSinclair] (max 15%)\nIf target has 6+ [Laceration], Coin Power +1\n[StartBattle] This Skill gains (highest Reson. / 2) Offense Level (max 3, rounded down)",
+          "name": "Alayını Yazın Ulan",
+          "desc": "Her 2 [VengeanceBookSinclair] başına +1% daha fazla hasar vur (max 15%)\nEğer rakipte 6+ [Laceration] varsa, Jeton Gücü +1\n[StartBattle] (en yüksek Reson. / 2) Saldırı Gücü kazan (max 3, aşağı yuvarla)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2.5% more damage for every Reson. that includes this Skill (max 15%)"
+                  "desc": "Her Reson. başına +2.5% hasar vur (max 15%)"
                 },
                 {
-                  "desc": "Deal +7.5% more damage for every 10 [VengeanceBookSinclair] (max 22.5%)"
+                  "desc": "Her 10 [VengeanceBookSinclair] başına +7.5% daha fazla hasar vur (max 22.5%)"
                 }
               ]
             }
