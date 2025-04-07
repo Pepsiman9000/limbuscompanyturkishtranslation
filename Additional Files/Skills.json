@@ -9097,18 +9097,18 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Umbrella Thwack",
-          "desc": "[WhenUse] Gain +1 Sinking Count",
+          "name": "Şemsiye Darbesi",
+          "desc": "[WhenUse] +1 Batış Miktarı kazan",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] 1 Batış ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttackTail] +1 Batış Miktarı ver"
                 }
               ]
             }
@@ -9116,18 +9116,18 @@
         },
         {
           "level": 2,
-          "name": "Umbrella Thwack",
-          "desc": "[WhenUse] Gain +1 Sinking Count",
+          "name": "Şemsiye Darbesi",
+          "desc": "[WhenUse] +1 Batış Miktarı kazan",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] 2 Batış ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttackTail] +2 Batış Miktarı ver"
                 }
               ]
             }
@@ -9135,18 +9135,18 @@
         },
         {
           "level": 4,
-          "name": "Umbrella Thwack",
-          "desc": "[WhenUse] Gain +1 Sinking Count\n[DefeatDuel] Gain 3 Sinking",
+          "name": "Şemsiye Darbesi",
+          "desc": "[WhenUse] +1 Batış Miktarı kazan\n[DefeatDuel] 3 Batış Kazan",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] 2 Batış ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttackTail] +2 Batış Miktarı ver"
                 }
               ]
             }
@@ -9159,28 +9159,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Puddle Stomp",
-          "desc": "[WhenUse] When below -15 SP, Final Power +2",
+          "name": "Gölet Ezişi",
+          "desc": "[WhenUse] -15 SP'nin altında, Final Gücü +2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackTail] 2 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackTail] 2 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackTail] Sarsıntı Patlaması tetikle"
                 }
               ]
             }
@@ -9188,31 +9188,31 @@
         },
         {
           "level": 2,
-          "name": "Puddle Stomp",
-          "desc": "[WhenUse] When below -15 SP, Final Power +2",
+          "name": "Gölet Ezişi",
+          "desc": "[WhenUse] -15 SP'nin altında, Final Gücü +2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackTail] 3 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackTail] 3 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 5 Sinking to deal +20% damage"
+                  "desc": "+%20 hasar vermek için 5 Batış kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackTail] Sarsıntı Patlaması tetikle"
                 }
               ]
             }
@@ -9220,31 +9220,31 @@
         },
         {
           "level": 4,
-          "name": "Puddle Stomp",
-          "desc": "[WhenUse] When below -15 SP, Final Power +3\n[WhenUse] When below -25 SP, Final Power +2",
+          "name": "Gölet Ezişi",
+          "desc": "[WhenUse] -15 SP'nin altında, Final Gücü +3\n[WhenUse] -25 SP'nin altında, Final Gücü +2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackTail] 3 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackTail] 3 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 5 Sinking to deal +20% damage"
+                  "desc": "%20 hasar vermek için 5 Batış kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackTail] Sarsıntı Patlaması tetikle"
                 }
               ]
             }
@@ -9257,13 +9257,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spread Out!",
-          "desc": "[WhenUse] Gain 6 Sinking and +3 Sinking Count",
+          "name": "Dağılın!",
+          "desc": "[WhenUse] 6 Batış ve +3 Batış Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackTail] Sonraki tur 1 Felç ver"
                 }
               ]
             },
@@ -9271,10 +9271,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] 5 Parçalanma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackTail] Sonraki tur 1 Kırılganlık ver"
                 }
               ]
             }
@@ -9287,23 +9287,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Warning",
-          "desc": "[WhenUse] Gain 3 Sinking",
+          "name": "Uyarı",
+          "desc": "[WhenUse] 3 Batış Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Gain 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackTail] Sonraki tur 1 Felç kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] 5 Batış ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] 5 Parçalanma ver"
                 }
               ]
             }
@@ -9311,23 +9311,23 @@
         },
         {
           "level": 4,
-          "name": "Warning",
-          "desc": "[WhenUse] Gain 5 Sinking",
+          "name": "Uyarı",
+          "desc": "[WhenUse] 5 Batış kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Gain 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackTail] Sonraki tur 1 Felç kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] 5 Batış ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] 5 Parçalanma ver"
                 }
               ]
             }
