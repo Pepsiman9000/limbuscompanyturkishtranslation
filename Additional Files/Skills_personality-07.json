@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Stalk Prey",
-          "desc": "[WhenUse] Gain +2 Poise Count\n[WhenUse] Gain +2 Aggro to this Skill Slot next turn",
+          "desc": "[WhenUse] +2 [Breath] Count \n[WhenUse] Gain +2 Aggro to this Skill Slot next turn",
           "coinlist": [
             {},
             {
@@ -660,14 +660,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Beheading",
-          "desc": "[WhenUse] If target has 8+ [Sinking], Clash Power +1",
+          "name": "Kelle Uçurma",
+          "desc": "[Kullanıldığında] Hedefte +8 [Sinking] varsa, Çarpışma Gücü +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[Hedefi Vurunca] Hedefe 2 [Batış] ekle"
                 }
               ]
             }
@@ -675,14 +675,14 @@
         },
         {
           "level": 2,
-          "name": "Beheading",
-          "desc": "[WhenUse] If target has 6+ [Sinking], Clash Power +1\n<style=\"highlight\">[WhenUse] If target has 3+ [Sinking] Count, Coin Power +1</style>",
+          "name": "Kelle Uçurma",
+          "desc": "[WhenUse] Eğer hedefte 6+ [Sinking] varsa, Çarpışma Gücü +1\n<style=\"highlight\">[Kullanıldığında] Eğer hedefte 3+ [Sinking] Miktarı varsa, Para Gücü +1</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Batış] ekle"
                 }
               ]
             }
@@ -690,14 +690,14 @@
         },
         {
           "level": 4,
-          "name": "Beheading",
-          "desc": "[WhenUse] If target has 6+ [Sinking], Clash Power +1\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 3 [Sinking] Count on target (max 2)</style>",
+          "name": "Kelle Uçurma",
+          "desc": "[WhenUse] Hedefte 6+ [Sinking] varsa, Çarpışma Gücü +1\n[WhenUse] <style=\"highlight\">Hedefteki her 3 [Sinking] Miktarı için Para Gücü +1 (En Fazla 2)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Sinking] ekle"
                 }
               ]
             }
@@ -710,24 +710,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Memorial Procession",
-          "desc": "[WhenUse] If target has 5+ [Sinking], Coin Power +1\n[EndSkill] If this unit has [NightPathfinding], lose 10 SP",
+          "name": "Anma Töreni",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, Para Gücü +1\n[EndSkill] Eğer bu Günahkarda [NightPathfinding] varsa, 10 SP kaybet",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [WanderingFootsteps] next turn"
+                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] ekle "
                 }
               ]
             }
@@ -735,24 +735,24 @@
         },
         {
           "level": 2,
-          "name": "Memorial Procession",
-          "desc": "[WhenUse] If target has 5+ [Sinking], Coin Power +1\n<style=\"highlight\">[WhenUse] At 4+ [Coffin], Atk Weight +1\n[WhenUse] If this unit has [NightPathfinding], Atk Weight +1</style>\n[EndSkill] If this unit has [NightPathfinding], lose 10 SP",
+          "name": "Anma Töreni",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, Para Gücü +1\n<style=\"highlight\">[WhenUse] Eğer bu Günahkarda 4+ [Coffin] varsa, Saldırı Ağırlığı +1\n[Kullanıldığında] Eğer bu Günahkarda [NightPathfinding] varsa, Saldırı Ağırlığı +1</style>\n[Kullanım Sonrası] Eğer bu Günahkarda [NightPathfinding] varsa, 10 SP kaybet",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [WanderingFootsteps] next turn"
+                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] ekle"
                 }
               ]
             }
@@ -760,24 +760,24 @@
         },
         {
           "level": 4,
-          "name": "Memorial Procession",
-          "desc": "[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 Sinking on target (max 2)</style>\n[WhenUse] <style=\"highlight\">Atk Weight +1 for every 4 [Coffin] on self (max 2)</style>\n[WhenUse] If this unit has [NightPathfinding], Atk Weight +1\n[EndSkill] If this unit has [NightPathfinding], lose 10 SP",
+          "name": "Anma Töreni",
+          "desc": "[WhenUse] Hedefteki her 5 Sinking için <style=\"highlight\">Para Gücü +1 (max 2)</style>\n[Kullanıldığında] <style=\"highlight\">Günahkardaki her 4 [Coffin] için Saldırı Ağırlığı +1 (max 2)</style>\n[WhenUse] Eğer bu Günahkarda [NightPathfinding] varsa, Saldırı Ağırlığı +1\n[EndSkill] Eğer Günahkarda [Dullahan] varsa, 10 SP kaybet",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">3</style> [Sinking] ekle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [WanderingFootsteps] next turn"
+                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] ekle"
                 }
               ]
             }
@@ -790,26 +790,26 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Requiem",
-          "desc": "[WinDuel] Heal 10 SP\n[BeforeUse] If this unit has [NightPathfinding], activate 'Lament, Mourn, and Despair' instead\n[WhenUse] Coin Power +1 for every 6 [Sinking] on target (max 2)\n[WhenUse] Deal +7% more damage for every [Coffin] on self (max 70%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]",
+          "name": "Ağıt",
+          "desc": "[WinDuel] 10 SP iyileştir\n[BeforeUse] Eğer Günahkarda [Nightpathfinding] varsa, Ağıt yerine 'Ağıt, Yas ve Umutsuzluk' 'u kullan\n[WhenUse] Hedefteki her 6 [Sinking] için Para Gücü +1 (max 2)\n[WhenUse] Günahkardaki her bir [Coffin] için +7% daha fazla hasar (max 70%)\n[WhenUse] 1 [Coffin] kazan\n[EndSkill] Eğer bu yetenek karşısındakini öldürürse, 2 [Coffin] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Hedefe +3 [Sinking] Miktarı ekle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [WanderingFootsteps], inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Eğer hedefte [WanderingFootsteps] varsa, hedefe +2 [Batış] Miktarı ekle"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/3) Sinking on 2 random enemies (max 3)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Ölen düşmandaki [Sinking] /3) [Sinking] ekle (max 3)"
                 }
               ]
             }
@@ -817,26 +817,26 @@
         },
         {
           "level": 4,
-          "name": "Requiem",
-          "desc": "[WinDuel] Heal 10 SP\n[BeforeUse] If this unit has [NightPathfinding], activate 'Lament, Mourn, and Despair' instead\n[WhenUse] Coin Power +1 for <style=\"highlight\">every 3</style> [Sinking] on target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal +12% more damage for every [Coffin] on self (max 120%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]",
+          "name": "Ağıt",
+          "desc": "[WinDuel] 10 SP iyileştir\n[BeforeUse] Eğer Günahkarda [Nightpathfinding] varsa, Ağıt yerine 'Ağıt, Yas ve Umutsuzluk' 'u kullan\n[WhenUse] Hedefteki her 6 [Sinking] için Para Gücü +1 (max 2)\n[WhenUse] Günahkardaki her bir [Coffin] için +7% daha fazla hasar (max 70%)\n[WhenUse] 1 [Coffin] kazan\n[EndSkill] Eğer bu yetenek karşısındakini öldürürse, 2 [Coffin] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+4</style> [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">+4</style> [Sinking] Miktarı ekle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [WanderingFootsteps], inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Eğer hedefte [WanderingFootsteps] varsa, hedefe +2 [Sinking] Miktarı ekle"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">3</style> [Sinking] ekle"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) Sinking on 2 random enemies (max <style=\"highlight\">5</style>)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Ölen düşmandaki [Sinking]/<style=\"highlight\">2</style>) ekle (max <style=\"highlight\">5</style>)"
                 }
               ]
             }
@@ -850,13 +850,13 @@
         {
           "level": 1,
           "name": "O Dullahan...!",
-          "desc": "[DuelCounter]\n[StartBattle] If this unit does not have [NightPathfinding], gain 1 [NightPathfinding] next turn (once per turn)\n[EndBattle] If this unit has [NightPathfinding], lose [NightPathfinding]",
+          "desc": "[DuelCounter]\n[StartBattle] Eğer bu Günahkarda [NightPathfinding] yoksa, sonraki el 1 [NightPathfinding] kazan (her elde bir kere)\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
                 }
               ]
             }
@@ -865,13 +865,13 @@
         {
           "level": 3,
           "name": "O Dullahan...!",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] If this unit has [NightPathfinding] and has 15+ SP, use Lament, Mourn, and Despair as Counter (once per turn)</style>\n[StartBattle] If this unit does not have [NightPathfinding], gain 1 [NightPathfinding] next turn (once per turn)\n<style=\"highlight\">[WhenUse] If target has 6+ [Sinking], Coin Power +1</style>\n[EndBattle] If this unit has [NightPathfinding], lose [NightPathfinding]",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Ağıt, Yas ve Umutsuzluk'u kullan. (Elde bir kere)</style>\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki el 1 [NightPathfinding] kazan (her elde bir kere)\n<style=\"highlight\">[WhenUse] Hedefte 6+ [Sinking] varsa, Para Gücü +1</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
                 }
               ]
             }
@@ -880,13 +880,13 @@
         {
           "level": 4,
           "name": "O Dullahan...!",
-          "desc": "[DuelCounter]\n[BeforeUse] If this unit has [NightPathfinding] and has 15+ SP, use Lament, Mourn, and Despair as Counter (once per turn)\n[StartBattle] If this unit does not have [NightPathfinding], gain 1 [NightPathfinding] next turn (once per turn)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 3 [Sinking] on target (max 2)</style>\n<style=\"highlight\">[WinDuel] Gain [AttackUp] next turn equal to (# of Clashes/3) (max 3, once per turn)</style>\n[EndBattle] If this unit has [NightPathfinding], lose [NightPathfinding]",
+          "desc": "[DuelCounter]\n[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Yas, Matem ve Umutsuzluk'u kullan. (Elde bir kere)\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki el 1 [NightPathfinding] kazan (her elde bir kere)\n[WhenUse] Hedefteki her 3 [Sinking]için <style=\"highlight\">Para Gücü +1 (En Fazla 2)</style>\n<style=\"highlight\">[WinDuel] Sonraki el (# Çarpışma Sayısı/3) 'e eşit [AttackUp] kazan (En fazla 3, elde bir kere)</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking] <style=\"highlight\">and +1 [Sinking] Count</style>"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ve <style=\"highlight\"> +1 [Sinking] Miktarı</style> ekle"
                 }
               ]
             }
@@ -899,8 +899,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Lament, Mourn, and Despair",
-          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on target (max 2)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% more damage for every missing SP, max 21%)\n[WhenUse] Deal +7% more damage for every Coffin on self (max 70%)\n[WhenUse] Deal +10% more damage for every [NightPathfinding] on self (max 30%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal 1 additional SP for every missing SP; max 25)\n[EndBattle] Lose [NightPathfinding]",
+          "name": "Ağıt, Yas ve Umutsuzluk",
+          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla 2)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar ver (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +7% daha fazla hasar ver (En fazla 70%)\n[WhenUse] Kendindeki her [NightPathfinding] için +10% daha fazla hasar ver (En fazla 30%)\n[WhenUse] 1 [Coffin] elde et\n[EndSkill] Eğer bu saldırı hedefi öldürürse, 2 [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir (Her kayıp SP için 1 SP; En fazla 25)\n[EndBattle] Lose [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -929,29 +929,29 @@
         },
         {
           "level": 4,
-          "name": "Lament, Mourn, and Despair",
-          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% more damage for every missing SP, max 21%)\n[WhenUse] Deal +<style=\"highlight\">10</style>% more damage for every Coffin on self (max <style=\"highlight\">100</style>%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every [NightPathfinding] on self (max <style=\"highlight\">60</style>%)\n[WhenUse] Gain <style=\"highlight\">2</style> [Coffin]\n[EndSkill] If this Skill attack kills the target, gain <style=\"highlight\">3</style> [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal <style=\"highlight\">2</style> additional SP for every missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] Lose [NightPathfinding]",
+          "name": "Ağıt, Yas ve Umutsuzluk",
+          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla <style=\"highlight\">4</style>)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar ver (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +<style=\"highlight\">10</style>% daha fazla hasar ver (En fazla <style=\"highlight\">100</style>%)\n[WhenUse] Günahkardaki her [NightPathfinding] için +<style=\"highlight\">20</style>% daha fazla hasar ver (En fazla <style=\"highlight\">60</style>%)\n[WhenUse] <style=\"highlight\">2</style> [Coffin] kazan\n[EndSkill] Eğer bu saldırı hedefi öldürürse, <style=\"highlight\">3</style> [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir ( <style=\"highlight\">2</style> her kayıp SP için ekstra 10 SP iyileştir; en fazla <style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding] 'i kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">5</style> [Sinking] and +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">5</style> [Sinking] ve +2 [Sinking] Miktarı ekle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by <style=\"highlight\">30</style>% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hedefin Stagger Threshold'unu, verilen hasarın <style=\"highlight\">30</style>% kadar arttır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max <style=\"highlight\">30</style>)"
+                  "desc": "[OnSucceedAttack] Hedefe, hedefteki [Sinking] kadar Kasvet Affinity hasar ver (En fazla <style=\"highlight\">30</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) Sinking on 2 random enemies (max <style=\"highlight\">8</style>)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Öldürülen düşmandaki [Sinking]/<style=\"highlight\">2</style>) kadar Sinking ekle (max <style=\"highlight\">8</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] Heal 15 SP"
+                  "desc": "[EnemyKill] 15 SP iyileştir"
                 }
               ]
             }
@@ -964,8 +964,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Lament, Mourn, and Despair",
-          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on target (max 2)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% more damage for every missing SP, max 21%)\n[WhenUse] Deal +7% more damage for every Coffin on self (max 70%)\n[WhenUse] Deal +10% more damage for every [NightPathfinding] on self (max 30%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal 1 additional SP for every missing SP; max 25)\n[EndBattle] Lose [NightPathfinding]",
+          "name": "Ağıt, Yas ve Umutsuzluk",
+          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla 2)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar ver (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +7% daha fazla hasar ver (En fazla 70%)\n[WhenUse] Kendindeki her [NightPathfinding] için +10% daha fazla hasar ver (En fazla 30%)\n[WhenUse] 1 [Coffin] elde et\n[EndSkill] Eğer bu saldırı hedefi öldürürse, 2 [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir (Her kayıp SP için 1 SP; En fazla 25)\n[EndBattle] Lose [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -994,29 +994,29 @@
         },
         {
           "level": 4,
-          "name": "Lament, Mourn, and Despair",
-          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% more damage for every missing SP, max 21%)\n[WhenUse] Deal +<style=\"highlight\">10</style>% more damage for every Coffin on self (max <style=\"highlight\">100</style>%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every [NightPathfinding] on self (max <style=\"highlight\">60</style>%)\n[WhenUse] Gain <style=\"highlight\">2</style> [Coffin]\n[EndSkill] If this Skill attack kills the target, gain <style=\"highlight\">3</style> [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal <style=\"highlight\">2</style> additional SP for every missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] Lose [NightPathfinding]",
+          "name": "Ağıt, Yas ve Umutsuzluk",
+          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla <style=\"highlight\">4</style>)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar ver (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +<style=\"highlight\">10</style>% daha fazla hasar ver (En fazla <style=\"highlight\">100</style>%)\n[WhenUse] Günahkardaki her [NightPathfinding] için +<style=\"highlight\">20</style>% daha fazla hasar ver (En fazla <style=\"highlight\">60</style>%)\n[WhenUse] <style=\"highlight\">2</style> [Coffin] kazan\n[EndSkill] Eğer bu saldırı hedefi öldürürse, <style=\"highlight\">3</style> [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir ( <style=\"highlight\">2</style> her kayıp SP için ekstra 10 SP iyileştir; en fazla <style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding] 'i kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">5</style> [Sinking] and +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">5</style> [Sinking] ve +2 [Sinking] Miktarı ekle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by <style=\"highlight\">30</style>% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hedefin Stagger Threshold'unu, verilen hasarın <style=\"highlight\">30</style>% kadar arttır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max <style=\"highlight\">30</style>)"
+                  "desc": "[OnSucceedAttack] Hedefe, hedefteki [Sinking] kadar Kasvet Affinity hasar ver (En fazla <style=\"highlight\">30</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) Sinking on 2 random enemies (max <style=\"highlight\">8</style>)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Öldürülen düşmandaki [Sinking]/<style=\"highlight\">2</style>) kadar Sinking ekle (max <style=\"highlight\">8</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] Heal 15 SP"
+                  "desc": "[EnemyKill] 15 SP iyileştir"
                 }
               ]
             }
@@ -1029,27 +1029,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Return Fire",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Ateşe Karlışık",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": " 1 [Bullet] harca"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": " 1 [Bullet] harca"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": " 1 [Bullet] harca"
                 }
               ]
             }
@@ -1057,30 +1057,30 @@
         },
         {
           "level": 2,
-          "name": "Return Fire",
-          "desc": "[WhenUse] Gain +2 [Breath] Count\n<style=\"highlight\">[WhenUse] Gain 1 [Agility] next turn (once per turn)</style>",
+          "name": "Ateşe Karşılık",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan\n<style=\"highlight\">[WhenUse] Sonraki el 2 [Agility] kazan (elde bir kere)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": " 1 [Bullet]<style=\"highlight\"></style> harca"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain +1 [Breath] Count</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] +1 [Breath] Miktarı kazan</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": " 1 [Bullet]<style=\"highlight\"></style> harca"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": " 1 [Bullet]<style=\"highlight\"></style> harca"
                 }
               ]
             }
@@ -1088,30 +1088,30 @@
         },
         {
           "level": 4,
-          "name": "Return Fire",
-          "desc": "[WhenUse] Gain +2 [Breath] Count\n[WhenUse] Gain <style=\"highlight\">2</style> [Agility] next turn (once per turn)",
+          "name": "Ateşe Karşılık",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan\n[WhenUse] Sonraki el <style=\"highlight\">2</style> [Agility] kazan (Elde bir kere)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": " 1 [Bullet]<style=\"highlight\"></style> harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı <style=\"highlight\"></style> kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": " 1 [Bullet]<style=\"highlight\"></style> harca"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": " 1 [Bullet]<style=\"highlight\"></style> harca"
                 }
               ]
             }
@@ -1124,16 +1124,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Headshot",
-          "desc": "[WhenUse] Gain 3 [Breath] and +1 [Breath] Count",
+          "name": "Kafadan Vuruş",
+          "desc": "[WhenUse] 3 [Breath] ve +1 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": " 1 [Bullet] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] (2 times per turn)"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] ekle (Elde 2 kere)"
                 }
               ]
             }
@@ -1141,22 +1141,22 @@
         },
         {
           "level": 2,
-          "name": "Headshot",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 30%)</style>\n[WhenUse] Gain 3 [Breath] and +1 [Breath] Count\n<style=\"highlight\">[WhenUse] Gain 2 [Agility] next turn (once per turn)</style>",
+          "name": "Kafadan Vuruş",
+          "desc": "<style=\"highlight\">Eğer Günahkarın hızı hedeften hızlıysa, her 1 Hız farkı için +10% daha fazla hasar ver (En fazla 30%)</style>\n[WhenUse]  3 [Breath] ve +1 [Breath] Miktarı kazan\n<style=\"highlight\">[WhenUse] Sonraki el 2 [Agility] kazan (Elde bir kere)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": " 1 [Bullet]<style=\"highlight\"></style> harca"
                 },
                 {
-                  "desc": "<style=\"highlight\">+30% Damage on Critical Hit</style>"
+                  "desc": " Kritik Vuruşta <style=\"highlight\">+30%</style> daha fazla hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] (2 times per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] ekle (Elde 2 kere)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] next turn (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Hedefe sonraki el 1 [PenetrateTakeDamageUp] ekle (Elde bir kere)</style>"
                 }
               ]
             }
@@ -1164,22 +1164,22 @@
         },
         {
           "level": 4,
-          "name": "Headshot",
-          "desc": "If this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference <style=\"highlight\">(max 50%)</style>\n[WhenUse] Gain 3 [Breath] and +<style=\"highlight\">2</style> [Breath] Count\n[WhenUse] Gain 2 [Agility] next turn (once per turn)",
+          "name": "Kafadan Vuruş",
+          "desc": "Eğer Günahkarın hızı hedeften hızlıysa, her 1 Hız farkı için +10% daha fazla hasar ver (En fazla 50%)</style>\n[WhenUse] 3 [Breath] ve <style=\"highlight\">2</style> [Breath] Miktarı kazan\n[WhenUse] Sonraki el 2 [Agility] kazan (Elde bir kere)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": " 1 [Bullet]<style=\"highlight\"></style> harca"
                 },
                 {
-                  "desc": "<style=\"highlight\">+50%</style> Damage on Critical Hit"
+                  "desc": " Kritik vuruşta <style=\"highlight\">+50%</style> daha fazla Hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] (2 times per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] ekle (Elde 2 kere)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] next turn (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Hedefe sonraki el 1 [PenetrateTakeDamageUp] ekle (Elde bir kere)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1192,19 +1192,19 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Goin' for the Bullseye",
-          "desc": "[BeforeUse] If this unit has [Bullet_LogicAtelier], activate 'AL-HV Pulverisation Round' instead\nIf this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) Poise Potency, and deal +(value consumed x 12.5)% more damage",
+          "name": "Hedefin Tam Ortasına",
+          "desc": "[BeforeUse] Eğer Günahkarda [Bullet_LogicAtelier] varsa, 'AL-HV Parçalama Mermisi' ni kullan\nEğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar ver (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] ı harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 12.5)% daha fazla hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": " 1 [Bullet] harca"
                 },
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta +50% daha fazla hasar ver"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] At more than 30 [Breath] Potency, consume up to 10 of [Breath] Potency over 30 to deal +([Breath] Potency consumed x 10)% more damage"
+                  "desc": "[CriticalOnSucceedAttack] [Breath] Miktarı 30'un üstündeyken, 30'dan fazla her biri için, 10 [Breath] Miktarı'na kadar harca ve  +(Harcanan [Breath] Miktarı x 10)% daha fazla hasar ver"
                 }
               ]
             }
@@ -1212,22 +1212,22 @@
         },
         {
           "level": 4,
-          "name": "Goin' for the Bullseye",
-          "desc": "[BeforeUse] If this unit has [Bullet_LogicAtelier], activate 'AL-HV Pulverisation Round' instead\nIf this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) Poise Potency, and deal +(value consumed x 12.5)% more damage\n<style=\"highlight\">[EndSkill] Gain +2 [Breath] Count</style>",
+          "name": "Hedefin Tam Ortasına",
+          "desc": "[BeforeUse] Eğer Günahkarda [Bullet_LogicAtelier] varsa, 'AL-HV Parçalama Mermisi' ni kullan\nEğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar ver (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] ı harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 12.5)% daha fazla hasar ver\n<style=\"highlight\">[EndSkill] +2 [Breath] Miktarı kazan</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": " 1 [Bullet]<style=\"highlight\"></style> harca"
                 },
                 {
-                  "desc": "<style=\"highlight\">+80%</style> Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta <style=\"highlight\">+80%</style> daha fazla hasar ver"
                 },
                 {
-                  "desc": "<style=\"highlight\">+(target's Pierce Res. x 50)% Damage on Critical Hit</style>"
+                  "desc": "<style=\"highlight\">+Kritik Vuruşta (Hedefin Pierce Direnci x 50)% daha fazla hasar ver</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] At more than 30 [Breath] Potency, consume up to 10 of [Breath] Potency over 30 to deal +([Breath] Potency consumed x 10)% more damage<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] [Breath] Miktarı 30'un üstündeyken, 30'dan fazla her biri için, 10 [Breath] Miktarı'na kadar harca ve  +(Harcanan [Breath] Miktarı x 10)% daha fazla hasar ver<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1241,7 +1241,7 @@
         {
           "level": 1,
           "name": "Combat Poise",
-          "desc": "Turn Start: At 0 Ammo, this Skill activates as 'Taking Cover' instead\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)",
+          "desc": "El Başında: 0 Mermideyken bu yetenek yerine 'Siper Alma'yı kullan\n[WhenUse] Eğer Full-Stop Ofis Temsilcisi Hong Lu savaş alanındaysa, ondan [MeleeCover] iste (Elde 1 kere)\n[EndBattle] Sonraki el 1 [LogicAtelierAM] kazan (Elde 1 kere)",
           "coinlist": [
             {
               "coindescs": []
@@ -1251,7 +1251,7 @@
         {
           "level": 4,
           "name": "Combat Poise",
-          "desc": "Turn Start: At 0 Ammo, this Skill activates as 'Taking Cover' instead\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n<style=\"highlight\">[OnSucceedEvade] Gain 3 [Breath] (3 times per turn)</style>\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)",
+          "desc": "El Başında: 0 Mermideyken bu yetenek yerine 'Siper Alma'yı kullan\n[WhenUse] Eğer Full-Stop Ofis Temsilcisi Hong Lu savaş alanındaysa, ondan [MeleeCover] iste (Elde 1 kere)\n<style=\"highlight\">[OnSucceedEvade] 3 [Breath] kazan (Elde 3 kere)</style>\n[EndBattle] Sonraki el 1 [LogicAtelierAM] kazan (Elde 1 kere)",
           "coinlist": [
             {
               "coindescs": []
@@ -1265,19 +1265,19 @@
       "levelList": [
         {
           "level": 3,
-          "name": "AL-HV Pulverisation Round",
-          "desc": "If this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) [Breath] Potency, and deal +(value consumed x 25)% more damage",
+          "name": "AL-HV Parçalama Mermisi",
+          "desc": "Eğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar ver (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] i harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 25)% daha fazla hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet_LogicAtelier]"
+                  "desc": " 1 [Bullet_LogicAtelier] harca"
                 },
                 {
-                  "desc": "+100% Damage on Critical Hit"
+                  "desc": " Kritik Vuruşta +100% daha fazla hasar"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] At more than 30 [Breath] Potency, consume up to 10 of [Breath] Potency over 30 to deal +([Breath] Potency consumed x 10)% more damage"
+                  "desc": "[CriticalOnSucceedAttack] 30 [Breath] Miktarı'nın üstündeyken, 30'dan fazla her biri için, 10 [Breath] Miktarı'na kadar harca ve  +(Harcanan [Breath] Miktarı x 10)% daha fazla hasar ver"
                 }
               ]
             }
@@ -1285,22 +1285,22 @@
         },
         {
           "level": 4,
-          "name": "AL-HV Pulverisation Round",
-          "desc": "If this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) [Breath] Potency, and deal +(value consumed x 25)% more damage\n<style=\"highlight\">[EndSkill] Gain +5 [Breath] Count</style>",
+          "name": "AL-HV Parçalama Mermisi",
+          "desc": "Eğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar ver (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] i harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 25)% daha fazla hasar ver\n<style=\"highlight\">[EndSkill] Gain +5 [Breath] Count</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet_LogicAtelier]<style=\"highlight\"></style>"
+                  "desc": " 1 [Bullet_LogicAtelier] harca <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+130%</style> Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta <style=\"highlight\">+130%</style> daha fazla hasar"
                 },
                 {
-                  "desc": "<style=\"highlight\">+(target's Pierce Res. x 50)% Damage on Critical Hit</style>"
+                  "desc": "<style=\"highlight\">+Kritik Vuruşta (Hedefin Pierce Direnci x 50)% daha fazla hasar ver</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] At more than 30 [Breath] Potency, consume up to 10 of [Breath] Potency over 30 to deal +([Breath] Potency consumed x 10)% more damage<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] 30 [Breath] Miktarı'nın üstündeyken, 30'dan fazla her biri için, 10 [Breath] Miktarı'na kadar harca ve  +(Harcanan [Breath] Miktarı x 10)% daha fazla hasar ver<style=\"highlight\"></style>"
                 }
               ]
             }
