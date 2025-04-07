@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Stalk Prey",
-          "desc": "[WhenUse] +2 [Breath] Count \n[WhenUse] Gain +2 Aggro to this Skill Slot next turn",
+          "desc": "[WhenUse] Gain +2 Poise Count \n[WhenUse] Gain +2 Aggro to this Skill Slot next turn",
           "coinlist": [
             {},
             {
