@@ -18,37 +18,37 @@
     {
       "id": "battle_ak_8105_1-02",
       "desc": "Skill Activation",
-      "dlg": "I am the Captain of this Lake... of the City...\nI shall seize this beast's heart and sever the evil from its roots!"
+      "dlg": "Ben bu gölün kaptanıyım... bu şehrin...\nBu canavarın kalbini ele geçirmeli ve kötülüğü köklerinden ayırmalıyım!"
     },
     {
       "id": "battle_selection1_8105_1",
       "desc": "Skill Activation",
-      "dlg": "Yes... Break my heart open and impale my skull, Ishmael!"
+      "dlg": "Evet... Kalbimi yarıp aç ve kafatasımı yar, Ishmael!"
     },
     {
       "id": "battle_selection2_8105_1",
       "desc": "Skill Activation",
-      "dlg": "Once an Ahab... shall be Ahab evermore...!"
+      "dlg": "Bir Ahab... sonsuza kadar Ahab olmalı...!"
     },
     {
       "id": "battle_sacrifice_8106_1",
       "desc": "Phase Start",
-      "dlg": "Now, carve yourself in my stead!"
+      "dlg": "Şimdi, kendinizi benim yerime öldürün!"
     },
     {
       "id": "battle_sacrifice_8106_2",
       "desc": "Phase Start",
-      "dlg": "The time is finally upon us, my dear crew!"
+      "dlg": "Nihayet zamanı geldi, benim sevgili mürettebatım!"
     },
     {
       "id": "battle_order_attack_8106",
       "desc": "Assist Attack",
-      "dlg": "Cover me!"
+      "dlg": "Beni koru!"
     },
     {
       "id": "battle_order_defence_8106",
       "desc": "Assist Defense",
-      "dlg": "Defend me now!"
+      "dlg": "Şimdi beni savun!"
     },
     {
       "id": "battle_entry_10001_1",
@@ -68,42 +68,42 @@
     {
       "id": "battle_8173_phaseclear_2",
       "desc": "",
-      "dlg": "How revolting."
+      "dlg": "Ne kadar iğrenç."
     },
     {
       "id": "battle_8173_phaseclear_3",
       "desc": "",
-      "dlg": "No repose shall await us."
+      "dlg": "Bizi hiçbir huzur beklemeyecek."
     },
     {
       "id": "battle_8173_kill_1",
       "desc": "",
-      "dlg": "No, you must suffer more!"
+      "dlg": "Hayır, sen daha çok acı çekmelisin!"
     },
     {
       "id": "battle_8173_kill_2",
       "desc": "",
-      "dlg": "We do not even deserve to breathe this air."
+      "dlg": "Bu havayı solumayı bile hak etmiyoruz."
     },
     {
       "id": "battle_8173_kill_3",
       "desc": "",
-      "dlg": "Embrace this wretched death."
+      "dlg": "Bu berbat ölümü kucakla."
     },
     {
       "id": "battle_8173_skill_1",
       "desc": "",
-      "dlg": "The moment of ruin is nigh."
+      "dlg": "Yıkım anı yaklaşıyor."
     },
     {
       "id": "battle_8173_skill_2",
       "desc": "",
-      "dlg": "Let all writhe in the deepest chasm of suffering!"
+      "dlg": "Herkesin en derin acıları içerisinde kıvranmasına izin ver!"
     },
     {
       "id": "battle_8173_phase_1_1",
       "desc": "",
-      "dlg": "Where are you...? Come to my embrace, Catherine!"
+      "dlg": "Neredesin...? Yanıma gel, Catherine!"
     },
     {
       "id": "battle_8173_phase_1_2",
@@ -113,67 +113,67 @@
     {
       "id": "battle_8173_phase_1_3",
       "desc": "",
-      "dlg": "Where... where are... I can hear your voice. Oh, please..."
+      "dlg": "Nerede... nerede... Sesini duyabiliyorum. Oh, lütfen..."
     },
     {
       "id": "battle_8173_phase_2",
       "desc": "",
-      "dlg": "May you wake in torment, my dear Catherine."
+      "dlg": "Umarım azap içerisinde uyanırsın, sevgili Catherine."
     },
     {
       "id": "battle_8173_phase_3",
       "desc": "",
-      "dlg": "Please, Catherine. Appear before me and tear me asunder.\nLet me see your eyes as I expire."
+      "dlg": "Lütfen, Catherine. Önümde belir ve beni parçalara ayır.\nYok olurken gözlerini görmeme izin ver."
     },
     {
       "id": "7SV-016",
       "desc": "",
-      "dlg": "You can stop galloping onward, now."
+      "dlg": "Şimdi dörtnala ilerlemeyi bırakabilirsin."
     },
     {
       "id": "7SV-017",
       "desc": "",
-      "dlg": "What adventure could you possibly embark on, with such frail souls?"
+      "dlg": "Böylesine zayıf ruhlarla, hangi maceraya atılabilirsin?"
     },
     {
       "id": "S703V-1312",
       "desc": "",
-      "dlg": "My name... is Quixote!"
+      "dlg": "Benim adım... Quixote!"
     },
     {
       "id": "S703V-1313",
       "desc": "",
-      "dlg": "I, Don Quixote, declare upon my honor: this lance shall end that hollow, juvenile dream!"
+      "dlg": "Ben, Don Quixote, şerefim üzerine beyan ederim: bu mızrak o boş, çocuksu hayali bitirmeli!"
     },
     {
       "id": "S703V-1314",
       "desc": "",
-      "dlg": "My name is Sancho!"
+      "dlg": "Benim adım Sancho!"
     },
     {
       "id": "S703V-1314-1",
       "desc": "",
-      "dlg": "And I, Sancho, declare upon my honor: this lance shall end that festering, slothful dream!"
+      "dlg": "Ve ben, Sancho, şerefim üzerine beyan ederim: bu mızrak o çürümüş, uyuşuk hayali bitirmeli!"
     },
     {
       "id": "7SV-104-01",
       "desc": "",
-      "dlg": "No matter how impossible it may be..."
+      "dlg": "Her ne kadar imkansız olursa olsun..."
     },
     {
       "id": "7SV-104-02",
       "desc": "",
-      "dlg": "Until I reach that dream..."
+      "dlg": "O hayale ulaşana kadar ..."
     },
     {
       "id": "7SV-104-03",
       "desc": "",
-      "dlg": "I'll keep pushing to the—"
+      "dlg": "İlerlemeye devam—"
     },
     {
       "id": "7SV-104-04",
       "desc": "",
-      "dlg": "Nay... I shall gallop ever-onward, unbroken, unrelenting to the end!!"
+      "dlg": "Hayır... Sonuna kadar aralıksız, amansız bir şekilde dörtnala ilerlemeliyim!!"
     }
   ]
 }
