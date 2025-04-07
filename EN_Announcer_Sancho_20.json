@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_20_1",
+      "dlg": "Cesaretinde bir hata bulmuyorum. Ama yine hiçbir plan yapmadan onlara doğrudan saldırmayı düşünüyorsan, ben bu seferlik affını isteyeceğim." 
+    },
+    {
+      "id": "announcer_cheer_20_2",
+      "dlg": "Ne olursa olsun... asla pes...! Hayır pes ediyorum. Bunu yapmayı reddediyorum, bu çok çocukça."
+    },
+    {
+      "id": "announcer_specialcheer_20_1",
+      "dlg": "Ne, sana 'kenardan tezahürat etmemi' mi istiyorsun? ... Nngh... off... Y-yupi, bunu becerebilirsin."
+    },
+    {
+      "id": "announcer_specialcheer_20_2",
+      "dlg": "Eğer Ailemiz bunu yaptığımızı görseydi çok ama çok endişe ederlerdi. Belki de Dulcinea bunu anlamsız bulurdu."
+    },
+    {
+      "id": "announcer_enemy_break_20_1",
+      "dlg": "Onları öylece bırakmayı düşünmüyorsun, değil mi? Bitir işlerini."
+    },
+    {
+      "id": "announcer_ally_break_20_1",
+      "dlg": "Kendini savunmasız bırakmayı durdurmalısın... Ama sende bundan daha fazlası olduğunu biliyorum. Hadi tekrar deniyelim."
+    },
+    {
+      "id": "announcer_killenemy_20_1",
+      "dlg": "Bir kasvetli çatışma sona erdi."
+    },
+    {
+      "id": "announcer_ally_dead_20_1",
+      "dlg": "... Seni insanların görüşünden çıkaracağım, yani hemen iyileş ve cepheye geri dön. Bu macerayı burada bitirmeyi düşünmüyorsun, değil mi?"
+    },
+    {
+      "id": "announcer_enemy_adv_20_1",
+      "dlg": "Bu aptalça çatışma stratejisi de ne...? Hayır, neden soruyorum ki? O kitaplardan saçma bir hikayeyi yeniden canlandırmaya çalışıyorsun değil mi? Ömrümden yüzyıllar çalıyorsun, Baba."
+    },
+    {
+      "id": "announcer_ally_adv_20_1",
+      "dlg": "Endişelenmeyeceğim, zaten zaferden emin olmalısın."
+    },
+    {
+      "id": "announcer_danger_20_1",
+      "dlg": "Bu görevi bitirecek fazla zamanımız kalmadı. Eğer daha fazla zaman harcarsak zamanında bitiremeyeceğiz\n... Seni farklı bir görev almamız gerektiği konusunda uyarmıştım."
+    },
+    {
+      "id": "announcer_enemy_specialskill_20_1",
+      "dlg": "Bu sıradan bir düşman değil... Bu sefer kendine dikkat et, hareketlerine göz kulak ol."
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_20_1",
+      "dlg": "Devlerle çatışmamızı andırıyor. Eğer onların seni tekrar yere yığmasını istemiyorsan odaklan. Bu sefer seni yakalayamam."
+    },
+    {
+      "id": "announcer_advatk_physical_20_1",
+      "dlg": "Etkili bir vuruş. Belki de bu vuruş açısını tekrar denemelisin."
+    },
+    {
+      "id": "announcer_disadvatk_physical_20_1",
+      "dlg": "Baba, o silah bu düşmana karşı işe yaramaz... haah..."
+    },
+    {
+      "id": "announcer_advatk_attr_20_1",
+      "dlg": "Zayıflıklarına karşı iyi-hedeflenmiş bir saldırı. Görüyorum ki hızlıca İşçözenlerin tekniklerine alışmışsın."
+    },
+    {
+      "id": "announcer_disadvatk_attr_20_1",
+      "dlg": "... Lütfen bir daha böyle sakarca bir saldırı deneme. Koruman gereken bir namın var... en azından ben izlerken."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_20_1",
+      "dlg": "Onlarla belki de çok fazla dalga geçtin... Ciddiye benziyorlar."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_20_1",
+      "dlg": "... Senin saçma konuşma şekli, Baba.\nKafayı yiyecekmiş gibi duruyorlar."
+    },
+    {
+      "id": "announcer_ally_specialbuff_20_1",
+      "dlg": "... Onu nereden buldun? İşe yarar bir şey bulduğuna inanamıyorum. Hadi ondan faydalananım."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_20_1",
+      "dlg": "Bu da ne şimdi...? Seni sahte bir Antika almaya mı kandırdılar? Yine mi?"
+    },
+    {
+      "id": "announcer_enemy_destroy_20_1",
+      "dlg": "İyi kesiş. Bir bıçakla olan yetenklerin neredeyse Nicolina kadar mahir."
+    },
+    {
+      "id": "announcer_enemy_destroy_20_2",
+      "dlg": "Eğer gerçek gücümüzü ortaya koyarsak onları üç saniyede yok edebiliriz, ama gariptir ki onlarla kafa kafaya çatışmayı... zevkli buluyorum."
+    },
+    {
+      "id": "announcer_round_takebigdmg_20_1",
+      "dlg": "Sana kaç kere kendini savunmasız bırakmaman gerektiğini söylemedim mi...?"
+    },
+    {
+      "id": "announcer_round_takebigdmg_20_2",
+      "dlg": "Ben... böyle dertlerin ve zorlukların üstesinden gelmek isteyen İşçözen fantazilerini kabul edebilirim. Ama lütfen bizi bilerek böyle dertlerle boğmayı bırakır mısın?"
+    },
+    {
+      "id": "announcer_round_givebigdmg_20_1",
+      "dlg": "İşte, bu; gerçek gücüne biraz daha yakın. Bunu her gün yapamaz mıyız?"
+    },
+    {
+      "id": "announcer_round_givebigdmg_20_2",
+      "dlg": "Sanıyorum ki ayyaşların kulaklarını kahramanlık hikayeleriyle patlatacak...\nMm. Bari ile paylaşmaya değer bir hikaye olabilirdi."
+    },
+    {
+      "id": "announcer_multikillenemy_20_1",
+      "dlg": "...Görünüyor ki bu maceramız bu sefer bir sonuca erecek . ... Ihım, hm. Bir şey değil."
+    },
+    {
+      "id": "announcer_equip_20_1",
+      "dlg": "La Manchaland sunuculuğumdan sonra benden daha fazlasını mı istiyorsun? Ne kadar da saçma— Haah... Yaparım. Bu bir reddediş değil."
+    }
+  ]
+}
