@@ -667,7 +667,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[Hedefi Vurunca] Hedefe 2 [Batış] ekle"
+                  "desc": "[Hedefi Vurunca] Hedefe 2 [Batış] ver"
                 }
               ]
             }
@@ -682,7 +682,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Batış] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Batış] ver"
                 }
               ]
             }
@@ -697,7 +697,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Sinking] ekle"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Sinking] ver"
                 }
               ]
             }
@@ -717,17 +717,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] ekle "
+                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] ver "
                 }
               ]
             }
@@ -742,17 +742,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] ver"
                 }
               ]
             }
@@ -767,17 +767,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">3</style> [Sinking] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">3</style> [Sinking] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] ver"
                 }
               ]
             }
@@ -796,20 +796,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe +3 [Sinking] Miktarı ekle"
+                  "desc": "[OnSucceedAttack] Hedefe +3 [Sinking] Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Eğer hedefte [WanderingFootsteps] varsa, hedefe +2 [Batış] Miktarı ekle"
+                  "desc": "[OnSucceedAttack] Eğer hedefte [WanderingFootsteps] varsa, hedefe +2 [Batış] Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
                 },
                 {
-                  "desc": "[EnemyKill] 2 rastgele düşmana (Ölen düşmandaki [Sinking] /3) [Sinking] ekle (max 3)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Ölen düşmandaki [Sinking] /3) [Sinking] ver (max 3)"
                 }
               ]
             }
@@ -823,20 +823,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">+4</style> [Sinking] Miktarı ekle"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">+4</style> [Sinking] Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Eğer hedefte [WanderingFootsteps] varsa, hedefe +2 [Sinking] Miktarı ekle"
+                  "desc": "[OnSucceedAttack] Eğer hedefte [WanderingFootsteps] varsa, hedefe +2 [Sinking] Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">3</style> [Sinking] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">3</style> [Sinking] ver"
                 },
                 {
-                  "desc": "[EnemyKill] 2 rastgele düşmana (Ölen düşmandaki [Sinking]/<style=\"highlight\">2</style>) ekle (max <style=\"highlight\">5</style>)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Ölen düşmandaki [Sinking]/<style=\"highlight\">2</style>) ver (max <style=\"highlight\">5</style>)"
                 }
               ]
             }
@@ -856,7 +856,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
                 }
               ]
             }
@@ -871,7 +871,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ekle"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
                 }
               ]
             }
@@ -886,7 +886,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ve <style=\"highlight\"> +1 [Sinking] Miktarı</style> ekle"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ve <style=\"highlight\"> +1 [Sinking] Miktarı</style> ver"
                 }
               ]
             }
@@ -935,7 +935,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">5</style> [Sinking] ve +2 [Sinking] Miktarı ekle"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">5</style> [Sinking] ve +2 [Sinking] Miktarı ver"
                 },
                 {
                   "desc": "[OnSucceedAttack] Hedefin Stagger Threshold'unu, verilen hasarın <style=\"highlight\">30</style>% kadar arttır"
@@ -948,7 +948,7 @@
                   "desc": "[OnSucceedAttack] Hedefe, hedefteki [Sinking] kadar Kasvet Affinity hasar ver (En fazla <style=\"highlight\">30</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] 2 rastgele düşmana (Öldürülen düşmandaki [Sinking]/<style=\"highlight\">2</style>) kadar Sinking ekle (max <style=\"highlight\">8</style>)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Öldürülen düşmandaki [Sinking]/<style=\"highlight\">2</style>) kadar Sinking ver (max <style=\"highlight\">8</style>)"
                 },
                 {
                   "desc": "[EnemyKill] 15 SP iyileştir"
@@ -1000,7 +1000,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">5</style> [Sinking] ve +2 [Sinking] Miktarı ekle"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">5</style> [Sinking] ve +2 [Sinking] Miktarı ver"
                 },
                 {
                   "desc": "[OnSucceedAttack] Hedefin Stagger Threshold'unu, verilen hasarın <style=\"highlight\">30</style>% kadar arttır"
@@ -1013,7 +1013,7 @@
                   "desc": "[OnSucceedAttack] Hedefe, hedefteki [Sinking] kadar Kasvet Affinity hasar ver (En fazla <style=\"highlight\">30</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] 2 rastgele düşmana (Öldürülen düşmandaki [Sinking]/<style=\"highlight\">2</style>) kadar Sinking ekle (max <style=\"highlight\">8</style>)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Öldürülen düşmandaki [Sinking]/<style=\"highlight\">2</style>) kadar Sinking ver (max <style=\"highlight\">8</style>)"
                 },
                 {
                   "desc": "[EnemyKill] 15 SP iyileştir"
@@ -1133,7 +1133,7 @@
                   "desc": " 1 [Bullet] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] ekle (Elde 2 kere)"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] ver (Elde 2 kere)"
                 }
               ]
             }
@@ -1153,10 +1153,10 @@
                   "desc": " Kritik Vuruşta <style=\"highlight\">+30%</style> daha fazla hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] ekle (Elde 2 kere)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] ver (Elde 2 kere)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Hedefe sonraki el 1 [PenetrateTakeDamageUp] ekle (Elde bir kere)</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Hedefe sonraki el 1 [PenetrateTakeDamageUp] ver (Elde bir kere)</style>"
                 }
               ]
             }
@@ -1176,10 +1176,10 @@
                   "desc": " Kritik vuruşta <style=\"highlight\">+50%</style> daha fazla Hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] ekle (Elde 2 kere)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] ver (Elde 2 kere)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Hedefe sonraki el 1 [PenetrateTakeDamageUp] ekle (Elde bir kere)<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Hedefe sonraki el 1 [PenetrateTakeDamageUp] ver (Elde bir kere)<style=\"highlight\"></style>"
                 }
               ]
             }
