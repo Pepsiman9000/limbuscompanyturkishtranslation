@@ -676,7 +676,7 @@
         {
           "level": 2,
           "name": "Kelle Uçurma",
-          "desc": "[WhenUse] Eğer hedefte 6+ [Sinking] varsa, Çarpışma Gücü +1\n<style=\"highlight\">[Kullanıldığında] Eğer hedefte 3+ [Sinking] Miktarı varsa, Para Gücü +1</style>",
+          "desc": "[WhenUse] Eğer hedefte 6+ [Sinking] varsa, Çarpışma Gücü +1\n<style=\"highlight\">[Kullanıldığında] Eğer hedefte 3+ [Sinking] Miktarı varsa, Jeton Gücü +1</style>",
           "coinlist": [
             {},
             {
@@ -691,7 +691,7 @@
         {
           "level": 4,
           "name": "Kelle Uçurma",
-          "desc": "[WhenUse] Hedefte 6+ [Sinking] varsa, Çarpışma Gücü +1\n[WhenUse] <style=\"highlight\">Hedefteki her 3 [Sinking] Miktarı için Para Gücü +1 (En Fazla 2)</style>",
+          "desc": "[WhenUse] Hedefte 6+ [Sinking] varsa, Çarpışma Gücü +1\n[WhenUse] <style=\"highlight\">Hedefteki her 3 [Sinking] Miktarı için Jeton Gücü +1 (En Fazla 2)</style>",
           "coinlist": [
             {},
             {
@@ -711,7 +711,7 @@
         {
           "level": 1,
           "name": "Anma Töreni",
-          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, Para Gücü +1\n[EndSkill] Eğer bu Günahkarda [NightPathfinding] varsa, 10 SP kaybet",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, Jeton Gücü +1\n[EndSkill] Eğer bu Günahkarda [NightPathfinding] varsa, 10 SP kaybet",
           "coinlist": [
             {},
             {
@@ -736,7 +736,7 @@
         {
           "level": 2,
           "name": "Anma Töreni",
-          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, Para Gücü +1\n<style=\"highlight\">[WhenUse] Eğer bu Günahkarda 4+ [Coffin] varsa, Saldırı Ağırlığı +1\n[Kullanıldığında] Eğer bu Günahkarda [NightPathfinding] varsa, Saldırı Ağırlığı +1</style>\n[Kullanım Sonrası] Eğer bu Günahkarda [NightPathfinding] varsa, 10 SP kaybet",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, Jeton Gücü +1\n<style=\"highlight\">[WhenUse] Eğer bu Günahkarda 4+ [Coffin] varsa, Saldırı Ağırlığı +1\n[Kullanıldığında] Eğer bu Günahkarda [NightPathfinding] varsa, Saldırı Ağırlığı +1</style>\n[Kullanım Sonrası] Eğer bu Günahkarda [NightPathfinding] varsa, 10 SP kaybet",
           "coinlist": [
             {},
             {
@@ -761,7 +761,7 @@
         {
           "level": 4,
           "name": "Anma Töreni",
-          "desc": "[WhenUse] Hedefteki her 5 Sinking için <style=\"highlight\">Para Gücü +1 (max 2)</style>\n[Kullanıldığında] <style=\"highlight\">Günahkardaki her 4 [Coffin] için Saldırı Ağırlığı +1 (max 2)</style>\n[WhenUse] Eğer bu Günahkarda [NightPathfinding] varsa, Saldırı Ağırlığı +1\n[EndSkill] Eğer Günahkarda [Dullahan] varsa, 10 SP kaybet",
+          "desc": "[WhenUse] Hedefteki her 5 Sinking için <style=\"highlight\">Jeton Gücü +1 (max 2)</style>\n[Kullanıldığında] <style=\"highlight\">Günahkardaki her 4 [Coffin] için Saldırı Ağırlığı +1 (max 2)</style>\n[WhenUse] Eğer bu Günahkarda [NightPathfinding] varsa, Saldırı Ağırlığı +1\n[EndSkill] Eğer Günahkarda [Dullahan] varsa, 10 SP kaybet",
           "coinlist": [
             {},
             {
@@ -791,7 +791,7 @@
         {
           "level": 3,
           "name": "Ağıt",
-          "desc": "[WinDuel] 10 SP iyileştir\n[BeforeUse] Eğer Günahkarda [Nightpathfinding] varsa, Ağıt yerine 'Ağıt, Yas ve Umutsuzluk' 'u kullan\n[WhenUse] Hedefteki her 6 [Sinking] için Para Gücü +1 (max 2)\n[WhenUse] Günahkardaki her bir [Coffin] için +7% daha fazla hasar (max 70%)\n[WhenUse] 1 [Coffin] kazan\n[EndSkill] Eğer bu yetenek karşısındakini öldürürse, 2 [Coffin] kazan",
+          "desc": "[WinDuel] 10 SP iyileştir\n[BeforeUse] Eğer Günahkarda [Nightpathfinding] varsa, Ağıt yerine 'Ağıt, Yas ve Umutsuzluk' 'u kullan\n[WhenUse] Hedefteki her 6 [Sinking] için Jeton Gücü +1 (max 2)\n[WhenUse] Günahkardaki her bir [Coffin] için +7% daha fazla hasar (max 70%)\n[WhenUse] 1 [Coffin] kazan\n[EndSkill] Eğer bu yetenek karşısındakini öldürürse, 2 [Coffin] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -818,7 +818,7 @@
         {
           "level": 4,
           "name": "Ağıt",
-          "desc": "[WinDuel] 10 SP iyileştir\n[BeforeUse] Eğer Günahkarda [Nightpathfinding] varsa, Ağıt yerine 'Ağıt, Yas ve Umutsuzluk' 'u kullan\n[WhenUse] Hedefteki her 6 [Sinking] için Para Gücü +1 (max 2)\n[WhenUse] Günahkardaki her bir [Coffin] için +7% daha fazla hasar (max 70%)\n[WhenUse] 1 [Coffin] kazan\n[EndSkill] Eğer bu yetenek karşısındakini öldürürse, 2 [Coffin] kazan",
+          "desc": "[WinDuel] 10 SP iyileştir\n[BeforeUse] Eğer Günahkarda [Nightpathfinding] varsa, Ağıt yerine 'Ağıt, Yas ve Umutsuzluk' 'u kullan\n[WhenUse] Hedefteki her 6 [Sinking] için Jeton Gücü +1 (max 2)\n[WhenUse] Günahkardaki her bir [Coffin] için +7% daha fazla hasar (max 70%)\n[WhenUse] 1 [Coffin] kazan\n[EndSkill] Eğer bu yetenek karşısındakini öldürürse, 2 [Coffin] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -865,7 +865,7 @@
         {
           "level": 3,
           "name": "O Dullahan...!",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Ağıt, Yas ve Umutsuzluk'u kullan. (Elde bir kere)</style>\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki el 1 [NightPathfinding] kazan (her elde bir kere)\n<style=\"highlight\">[WhenUse] Hedefte 6+ [Sinking] varsa, Para Gücü +1</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Ağıt, Yas ve Umutsuzluk'u kullan. (Elde bir kere)</style>\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki el 1 [NightPathfinding] kazan (her elde bir kere)\n<style=\"highlight\">[WhenUse] Hedefte 6+ [Sinking] varsa, Jeton Gücü +1</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
           "coinlist": [
             {},
             {
@@ -880,7 +880,7 @@
         {
           "level": 4,
           "name": "O Dullahan...!",
-          "desc": "[DuelCounter]\n[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Yas, Matem ve Umutsuzluk'u kullan. (Elde bir kere)\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki el 1 [NightPathfinding] kazan (her elde bir kere)\n[WhenUse] Hedefteki her 3 [Sinking]için <style=\"highlight\">Para Gücü +1 (En Fazla 2)</style>\n<style=\"highlight\">[WinDuel] Sonraki el (# Çarpışma Sayısı/3) 'e eşit [AttackUp] kazan (En fazla 3, elde bir kere)</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
+          "desc": "[DuelCounter]\n[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Yas, Matem ve Umutsuzluk'u kullan. (Elde bir kere)\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki el 1 [NightPathfinding] kazan (her elde bir kere)\n[WhenUse] Hedefteki her 3 [Sinking]için <style=\"highlight\">Jeton Gücü +1 (En Fazla 2)</style>\n<style=\"highlight\">[WinDuel] Sonraki el (# Çarpışma Sayısı/3) 'e eşit [AttackUp] kazan (En fazla 3, elde bir kere)</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
           "coinlist": [
             {},
             {
