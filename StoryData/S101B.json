@@ -6,30 +6,30 @@
     },
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Mephistopheles'in İçerisi",
       "model": "카론",
       "content": "Verg."
     },
     {
       "id": 1,
       "model": "카론",
-      "content": "Blockage ahead. Permission to vroom-vroom?"
+      "content": "İlerde barikat var. Vroom-vroom yapmaya izin varmı?"
     },
     {
       "id": 2,
-      "content": "The chatter was what finally got me to open my eyes."
+      "content": "Charon'un sesi beni uyandırmayı başarmıştı."
     },
     {
       "id": 3,
-      "content": "After all, nothing beats blocking out your sight when you want to keep boredom at bay."
+      "content": "Zaten, habelendiğin zaman gözlerini kapamaktan daha pratik ne vardır ki?"
     },
     {
       "id": 4,
-      "content": "Not that there was much else to do on a bus whose destination was unknown to me…"
+      "content": "Gözüm yahut gördüklerime dair bir bilgim olduğundan değil de…"
     },
     {
       "id": 5,
-      "content": "My lack of head and memories certainly don’t help, either."
+      "content": "Kafamın ve anılarımın olmaması cidden hiç yardımcı olmuyordu."
     },
     {
       "id": 6,
@@ -39,7 +39,7 @@
     {
       "id": 7,
       "model": "베르길리우스",
-      "content": "Alright, let’s proceed."
+      "content": "Tamam, izin verildi."
     },
     {
       "id": 8,
@@ -53,15 +53,15 @@
     },
     {
       "id": 10,
-      "content": "The clumps stuck to the window gently dissolve, letting light through."
+      "content": "Cama yapışan et parçaları *nazikçe* çözüldüp ışığın geçişine izin verdi."
     },
     {
       "id": 11,
-      "content": "Many different sets of eyes on the bus are lethargically facing forward."
+      "content": "Otobüsün üzerindeki sürüyle göz cansızca ileri merkuzdu."
     },
     {
       "id": 12,
-      "content": "It felt like a pretty gruesome scene, but based on the others’ reactions, maybe this kind of violence is common in the City."
+      "content": "Sanki iğrençmiş gibi görünen bu manzara, etrafımdakilerin tepkilerinden yola çıkarak, bu Şehir'de olağan gibi duruyordu."
     },
     {
       "id": 13,
@@ -70,16 +70,16 @@
     },
     {
       "id": 14,
-      "content": "It felt rather awkward to close my eyes again now that I was wide awake. That’s when the conspicuously bearded man grabbed my attention."
+      "content": "Zaten uyanmışken gözlerimi kapamak istemedim. işte o zaman göze batar derece sakallı olan adam dikkatimi çekti."
     },
     {
       "id": 15,
       "model": "단테",
-      "content": "<Bu― I mean, Glasses. Know where we’re going right now?>"
+      "content": "<Bö― yani, gözlülüklü. nerye gittiğimizi biliyormusun?>"
     },
     {
       "id": 16,
-      "content": "…A feature far more conspicuous than his beard made me slip."
+      "content": "…Sakallardan daha çok göze batan bir unsur dilimin kaymasına yol açtı."
     },
     {
       "id": 17,
@@ -98,7 +98,7 @@
     },
     {
       "id": 20,
-      "content": "…I couldn’t find any excuses so I just gave back a light nod."
+      "content": "…Kendimden utanıp yaptığım yanlışlığa bir mazeret bulamadan, sadece hafifçe onayladım."
     },
     {
       "id": 21,
@@ -123,7 +123,7 @@
     {
       "id": 25,
       "model": "단테",
-      "content": "<She got you there, Gregor.>"
+      "content": "<Seni iyi yakaladı ha, Gregor.>"
     },
     {
       "id": 26,
@@ -143,12 +143,12 @@
     {
       "id": 29,
       "model": "돈키호테",
-      "content": "Whaaaat ho?! Did District 4 fall upon my ears?!"
+      "content": "NNeeeeyyy?! District 4'ün telafuzu minik kulaklarıma mı girdi?!"
     },
     {
       "id": 30,
       "model": "돈키호테",
-      "content": "That place is known to be the home of the Grass Maiden! ‘Tis the origin of the heroine’s journey. And ‘twas the…"
+      "content": "Orası Çimen Azizenin yurdu olmasıyla iftihar eder! ‘Kahramanımızın yegane memleketi burasıydı. ve..."
     },
     {
       "id": 31,
@@ -163,7 +163,7 @@
     {
       "id": 33,
       "model": "돈키호테",
-      "content": "Why, I had remained silent unto mere moments ago!"
+      "content": "Nedir bu teşeke, Deminden şimdiye eyledim sadece birkaç kelime!"
     },
     {
       "id": 34,
@@ -192,16 +192,16 @@
     },
     {
       "id": 39,
-      "content": "I contemplated for a second."
+      "content": "Biraz duraksayıp düşüncelere daldım."
     },
     {
       "id": 40,
-      "content": "Should I step in? Is this the part where I exercise my authority as the manager with dignity and grace? A faint memory urges me to do something."
+      "content": "Karışmam gerekir mi? Acaba Menajerliğmin bana verdiği vetkileri kullanmanın sırası şimdimiydi ? soluk bir anı sanki beni birşeyler yapmaya itiyordu."
     },
     {
       "id": 41,
       "model": "단테",
-      "content": "<Now now, guys, it’s inadvisable to lose your c―>"
+      "content": "<Şimdi... şimdi, Gençler, sağduyunuzu kaybetme sı->"
     },
     {
       "id": 42,
@@ -231,7 +231,7 @@
     {
       "id": 47,
       "model": "돈키호테",
-      "content": "Senseless violence shan’t be forgiven! I will bring about justice!"
+      "content": "Hunharca şiddet affedilmemeli! Adaleti sağlamalıyım!"
     },
     {
       "id": 48,
@@ -241,26 +241,26 @@
     {
       "id": 49,
       "model": "단테",
-      "content": "<I must be mad…>"
+      "content": "<Sanırım keçileri kaçırıyorum…>"
     },
     {
       "id": 50,
-      "content": "We haven’t even reached our destination and they've already killed three. Of our own, that is."
+      "content": "Daha varmadan içimizden 3 kişi öldü. Birde kendi kendilerini öldürdüler."
     },
     {
       "id": 51,
       "model": "베르길리우스",
-      "content": "Can’t take a small break without anticipating trouble, can I."
+      "content": "Sorunsuz bir ara bekleyemeyeceğim, deme."
     },
     {
       "id": 52,
       "model": "베르길리우스",
-      "content": "You four. Cleaning duty for the next month."
+      "content": "Siz dörtlü. Sonraki ay boyu temizliktesiniz."
     },
     {
       "id": 53,
       "model": "돈키호테",
-      "content": "Such unfairness! I merely sought the hand of justice!"
+      "content": "İnsafsızlık! Sadece adaletin eline Rağbet ediyordum !"
     },
     {
       "id": 54,
@@ -269,40 +269,40 @@
     },
     {
       "id": 55,
-      "content": "No one bats an eye at the lifeless janitors-to-be littering the floor."
+      "content": "Yerdeki *Yeni Hademeler*'e kimse aldırış dahi etmiyordu."
     },
     {
       "id": 56,
-      "content": "Maybe they’re already taking their indefinite revivals for granted."
+      "content": "Daha şimdiden Sonsuz canlı olmaya alışmış gibi görünüyorlar."
     },
     {
       "id": 57,
-      "content": "But, I don’t even know how exactly I’m supposed to bring them back…"
+      "content": "Ama...Onları tam olarak nasıl diriltmem gerektiğini bilmiyorum."
     },
     {
       "id": 58,
       "model": "베르길리우스",
-      "content": "Dante, I’d like you to turn the clock back."
+      "content": "Dante, senden saati geri sarmanı istemek durumundayım."
     },
     {
       "id": 59,
       "model": "단테",
-      "content": "<Turn… the clock?>"
+      "content": "<Saati… geri sarmak?>"
     },
     {
       "id": 60,
       "model": "베르길리우스",
-      "content": "…Sigh."
+      "content": "…Ahh."
     },
     {
       "id": 61,
       "model": "베르길리우스",
-      "content": "That must mean there’s a puzzled look where your face should be. I’ll keep that in mind."
+      "content": "Bu kafanın olması gerektiği yerde şaşkınlığın ifade bulması gerektiği anlamına geliyor olmalı. Bunu aklımda tutucağım."
     },
     {
       "id": 62,
       "model": "베르길리우스",
-      "content": "Ms. Faust."
+      "content": "Bayan Faust."
     },
     {
       "id": 63,
@@ -311,141 +311,141 @@
     },
     {
       "id": 64,
-      "content": "Vergilius gives Faust a tired nod and gestures to me."
+      "content": "Vergilius Faust'a yorgun bir yönelgede bulunup bana doğru yöneltiyor."
     },
     {
       "id": 65,
-      "content": "She let out a small sigh but still came to my seat, probably out of a sense of obligation."
+      "content": "Küçük bir bıkkınlık yahut çaresizlik ifadesiyle yanıma oturdu, büyük ihtimalle mecburiyetten."
     },
     {
       "id": 66,
       "model": "파우스트",
-      "content": "It’s the same thing you did the day we first met, Dante. Though, I suppose that was more of an instinctual reaction."
+      "content": "İlk tanıştığımızda yaptığına benzer, Dante. Gerçi, Sanırım o zaman daha çok *içgüdüsel* bir vaziyetti."
     },
     {
       "id": 67,
       "model": "파우스트",
-      "content": "Now, let’s try again. Close your eyes."
+      "content": "Şimdi, Tekrar deneyelim. Gözlerini kapa."
     },
     {
       "id": 68,
-      "content": "Though I have no eyes to close, blocking out my sight is something I’ve done."
+      "content": "Kapayacak gözüm olmasa bile, ruhuma iletilen görüntüyü kesmek yapabileceğimin en iyisi."
     },
     {
       "id": 69,
-      "content": "I had no reason not to follow Faust’s instruction here."
+      "content": "Faust'un direktiflerine uymamak için bir neden yoktu."
     },
     {
       "id": 70,
       "model": "파우스트",
-      "content": "In fact, the door is everywhere."
+      "content": "Dante, Kapı aslında her yerdedir."
     },
     {
       "id": 71,
       "model": "파우스트",
-      "content": "However, only you can see it. For the stars never set in your sky."
+      "content": "Ancak, Sadece sen onu görebilirsin ki senin için yıldızlar asla batmamaktalar."
     },
     {
       "id": 72,
-      "content": "At that, I felt a thread of light creep into my sight."
+      "content": "O an, bir ışık süzmesinin görüşüme girişini hissetim."
     },
     {
       "id": 73,
-      "content": "As if to open my eyes, I embraced that light."
+      "content": "Gözlerimi açmak gibi, Işığı benimsedim."
     },
     {
       "id": 74,
       "place": "???",
-      "content": "Then I saw a space."
+      "content": "Sonra, bilinmez bir yere geldim."
     },
     {
       "id": 75,
-      "content": "I was alone there."
+      "content": "Orada yanlızdım."
     },
     {
       "id": 76,
-      "content": "And a massive door stood before me."
+      "content": "Devasa bir kapı ile birlikte."
     },
     {
       "id": 77,
-      "content": "It wasn’t a pleasant sight."
+      "content": "Hoşnut olmadığımı söyleye bilirim."
     },
     {
       "id": 78,
-      "content": "Suffocating heat and agonized cries seep through the gap."
+      "content": "Kavurucu sıcaklık ile acıklı çığlıklar kapının aralığından sızıyordu."
     },
     {
       "id": 79,
-      "content": "Hearing the endless laments and wailing for even a split second makes me feel faint."
+      "content": "Sonsuz ağıtlarla inlemeleri, bir saniyeliğine bile duymak ayağımı yerden kesiyordu."
     },
     {
       "id": 80,
-      "content": "However, I’m approaching the door, grasping at its handles as if it’s what I was born to do."
+      "content": "Ancak, Kapıya yaklaştım. Kızgın tokmağını sanki yaradılışımın amacıymışçasına kavradım."
     },
     {
       "id": 81,
-      "content": "Despite being seemingly heavy, pulling it open was surprisingly easy."
+      "content": "Ağır gibi gözükmesine rağmen, açmak şaşırtıcı derecede kolaydı."
     },
     {
       "id": 82,
-      "content": "I grope about in the door. Thousands upon thousands of last wails lay within."
+      "content": "İyiden iyiye kavradım. Binlerce kat binlerce son iniltiler orada yatıyordu."
     },
     {
       "id": 83,
-      "content": "And reaching inside, I grab a few unknown hands."
+      "content": "Ve içeri girip, Birkaç yabancı eli çektim."
     },
     {
       "id": 84,
-      "content": "I can feel the histories of different sins bearing their brands crawl up my hand onto my arm."
+      "content": "Bambaşka günahların hikayelerini kollarıma ve omuzlarıma işlemesini hissedebiliyordum."
     },
     {
       "id": 85,
-      "content": "Art thou prepared to share the pain?"
+      "content": "Kim ise, hazırmıdır ki acıları paylaşmaya?"
     },
     {
       "id": 86,
-      "content": "Could that have been a question? Or rather, pressure to comply?"
+      "content": "Bu bir sorumuydu? ya da, uymam için bir zorlama?"
     },
     {
       "id": 87,
-      "content": "I pulled forth the Sinners grasping my hand with all my strength."
+      "content": "Ellerimi kavramış günahkarları var gücümle çektim."
     },
     {
       "id": 88,
       "model": "단테",
-      "content": "<…RAHHHHGH!>"
+      "content": "<…AHHHHHH!>"
     },
     {
       "id": 89,
-      "content": "A terrible pain spreads through my neck and head."
+      "content": "Akıl almaz bir acı boynumdan başıma kadar sokuluyor."
     },
     {
       "id": 90,
-      "content": "It’s so crushingly severe, it makes me wish I were dead."
+      "content": "O kadar ezici radde de fazla ki bana ölü olmayı diletiyor."
     },
     {
       "id": 91,
-      "content": "The indescribable sensation of bone and muscle twisting, entangling with each other, goes on for what feels like an eternity."
+      "content": "Kemiklerin ve Kasların yoğrulup birbirlerine geçmelerinin Tarif edilemez ızdırabı, ebediyet denilebilcek kadar uzun sürüyor."
     },
     {
       "id": 92,
-      "content": "My legs weren’t prepared to endure all this agony; I fell to kneel atop the pool of blood in helplessness."
+      "content": "Bu kadar acıya karşı hazırlıksız bacaklarım, acizce yere inip vücüdumu desteklemeyi dizlerime devrediyor."
     },
     {
       "id": 93,
-      "content": "Then I see it."
+      "content": "Sonrasında, görüyorum."
     },
     {
       "id": 94,
-      "content": "Trembles in the bloody pools, gradually growing into waves and bubbles rising from the floor."
+      "content": "Kan dolu havuzlardaki can çekişmeleri, yavaşça yerden yükseliyor."
     },
     {
       "id": 95,
-      "content": "Soon, that blood soaking the ground coalesced into three masses."
+      "content": "Çok geçmeden, yerdeki kan haznesi, üç tane suale çevriliyor."
     },
     {
       "id": 96,
-      "content": "Then the agony that seemed to last forever vanished just like that."
+      "content": "Böylelikle, sounsuz görünen acılar kesiliverdi."
     },
     {
       "id": 97,
