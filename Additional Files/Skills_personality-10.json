@@ -1374,24 +1374,24 @@
         },
         {
           "level": 4,
-          "name": "Write 'em all down",
-          "desc": "Deal +1% more damage for every <style=\"highlight\">1</style> [VengeanceBookSinclair] (max <style=\"highlight\">30%</style>)\n<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[StartBattle] This Skill gains (highest Reson. / 2) Offense Level (max 3, rounded down)\n<style=\"highlight\">- If the said Reson. includes an A-Reson., double the Offense Level gained from the above effect</style>",
+          "name": "Alayını Yazın Ulan",
+          "desc": "Her 2 [VengeanceBookSinclair] başına +1% daha fazla hasar vur <style=\"highlight\">1</style> (max <style=\"highlight\">30%</style>)\n<style=\"highlight\">Rakip üzerindeki her 6 [Laceration] başına Jeton Gücü +1 (max 2)</style>\n[StartBattle] Bu yetenek (en yüksek Reson. / 2) Saldırı Gücü kazanır (max 3, aşağı yuvarla)\n<style=\"highlight\">- eğer bu Reson. bir A-Reson. içeriyor ise, yukarıdaki efektten kazanılan Saldırı Seviyesini ikiye katla</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Laceration]"
+                  "desc": "[OnSucceedAttack]<style=\"highlight\">4</style> [Laceration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal <style=\"highlight\">+5%</style> more damage for every Reson. that includes this Skill (max <style=\"highlight\">30%</style>)"
+                  "desc": "her Reson. başına <style=\"highlight\">+5%</style> daha fazla hasar vur (max <style=\"highlight\">30%</style>)"
                 },
                 {
-                  "desc": "Deal <style=\"highlight\">+15%</style> more damage for every 10 [VengeanceBookSinclair] (max <style=\"highlight\">45%</style>)"
+                  "desc": "Her 10 [VengeanceBookSinclair] başına <style=\"highlight\">+15%</style> daha fazla hasar vur (max <style=\"highlight\">45%</style>)"
                 }
               ]
             }
@@ -1404,20 +1404,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Warmup in the East",
-          "desc": "[StartBattle] Gain 20% of missing HP as Shield (once per turn)",
+          "name": "Doğu'da İdman",
+          "desc": "[StartBattle] Eksik HP'nin 20%sini Kalkan olarak kazan (turda bir kez)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver"
                 }
               ]
             }
@@ -1425,20 +1425,20 @@
         },
         {
           "level": 4,
-          "name": "Warmup in the East",
-          "desc": "<style=\"highlight\">[StartBattle] Skill behavior changes based on the sum of Envy A-Reson.:\n- At 4+ sum of A-Reson., use 'Payback with Interest' as Counter\n- At 6+ sum of A-Reson., use 'Write 'em all down' as Counter\n(Activates from the leftmost Skill Slot. Activates 2 times per turn)</style>\n[StartBattle] Gain <style=\"highlight\">30%</style> of missing HP as Shield (once per turn)",
+          "name": "Doğu'da İdman",
+          "desc": "<style=\"highlight\">[StartBattle] Bu yetenek, Envy A-Reson'ların toplamına göre değişir.:\n- 4+ A-Reson. toplamında, karşı saldırı olarak 'Faizli Geri Dönüş'ü kullan\n- 4+ A-Reson. toplamında, karşı saldırı 'Faizli Geri Dönüş'ü kullan\n(En soldaki Yetenek Yuvasından başlar. Tur başına 2 kez aktive olur)</style>\n[StartBattle] Eksik HP'nin <style=\"highlight\">30%</style>unu Kalkan olarak kazan (turda bir kez)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Laceration]<style=\"highlight\"></style> ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Laceration]<style=\"highlight\"></style> ver"
                 }
               ]
             }
