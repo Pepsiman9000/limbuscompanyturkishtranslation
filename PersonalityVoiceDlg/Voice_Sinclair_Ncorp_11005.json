@@ -8,7 +8,7 @@
     {
       "id": "lobby_morning_11005_1",
       "desc": "Morning Greeting",
-      "dlg": "So it’s you. Have you slept well? As for me… sleep wouldn’t come."
+      "dlg": "Demek sensin. İyi uyuyabildin mi? Benim hiç… uykum gelmedi."
     },
     {
       "id": "lobby_noon_11005_1",
@@ -18,7 +18,7 @@
     {
       "id": "lobby_night_11005_1",
       "desc": "Evening Greeting",
-      "dlg": "Have you ever been afraid of dreaming? …I wish I were like you."
+      "dlg": "Hiç kabus görmekten korkmuş muydun? …Keşke senin gibi olsaydım."
     },
     {
       "id": "smalltalk_11005_1",
@@ -38,7 +38,7 @@
     {
       "id": "smalltalk_11005_4",
       "desc": "Post-Uptie Chat 1",
-      "dlg": "I skewered sixteen today. Tomorrow, I will nail and cremate twice as many. Huhu… It gets fun as you keep at it, doesn’t it?"
+      "dlg": "Bugün 16 tane şişledim. Tomorrow, I will nail and cremate twice as many. Huhu… It gets fun as you keep at it, doesn’t it?"
     },
     {
       "id": "smalltalk_11005_5",
@@ -48,12 +48,12 @@
     {
       "id": "neglect_11005_1",
       "desc": "Idle",
-      "dlg": "…If you have nothing to say, then may I go see her now?"
+      "dlg": "…Bir şey demeyeceksen, onu görmeye gidebilir miyim?"
     },
     {
       "id": "gacksung_11005_1",
       "desc": "Uptying",
-      "dlg": "This doesn’t really feel special. I have… always had talent… as the chosen one."
+      "dlg": "Bu hiç özel hissettirmiyor. Ben… hep yetenekliydim… seçilmiş kişi olarak."
     },
     {
       "id": "formation_11005_1",
@@ -68,7 +68,7 @@
     {
       "id": "battle_select_11005_1",
       "desc": "Viewed in Battle",
-      "dlg": "I’m busy right now."
+      "dlg": "Şuanda meşgulüm."
     },
     {
       "id": "battle_endcommand_11005_1",
@@ -93,12 +93,12 @@
     {
       "id": "battle_dead_11005_1",
       "desc": "Death",
-      "dlg": "Was this… not the answer…?"
+      "dlg": "Cevap bu… değil miydi…?"
     },
     {
       "id": "choice_success_p_11005_1",
       "desc": "Check Passed",
-      "dlg": "That wasn’t troublesome at all."
+      "dlg": "Hiç zorlayıcı değildi."
     },
     {
       "id": "choice_fail_n_11005_1",
