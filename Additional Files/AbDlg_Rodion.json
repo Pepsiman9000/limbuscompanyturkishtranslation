@@ -77,7 +77,7 @@
       "personalityid": 10901,
       "voicefile": 0,
       "teller": "Rodion",
-      "dialog": "Sure, why not. You trust me, yeah?",
+      "dialog": "Tabii, neden olmasın. Bana güveniyorsun, değil mi?",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
     {
@@ -85,7 +85,7 @@
       "personalityid": 10901,
       "voicefile": 0,
       "teller": "Rodion",
-      "dialog": "This might take a tiiiiny bit of luck to pull off.",
+      "dialog": "Bunu yapabilmem azzzzzıcık şans gerektirebilir.",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
     {
@@ -101,7 +101,7 @@
       "personalityid": 10901,
       "voicefile": 0,
       "teller": "Rodion",
-      "dialog": "I bet the others woulda gone bust.",
+      "dialog": "Başkası yapsa net batırırdı.",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {
