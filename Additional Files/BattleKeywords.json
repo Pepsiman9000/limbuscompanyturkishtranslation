@@ -195,33 +195,33 @@
     },
     {
       "id": "Combustion",
-      "name": "Burn",
-      "desc": "At the end of the turn, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1."
+      "name": "Yanma",
+      "desc": "Turun sonunda, bu efektin Şiddeti kadar sabit hasar al.\nArdından, Miktarı 1 azalt."
     },
     {
       "id": "Laceration",
-      "name": "Bleed",
-      "desc": "When tossing an attack Coin, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1."
+      "name": "Kanama",
+      "desc": "Bir saldırı Jetonu atarken, bu efektin Şiddeti kadar sabit hasar al.\nArdından, Miktarı 1 azalt."
     },
     {
       "id": "Vibration",
-      "name": "Tremor",
-      "desc": "When attacked by skills that trigger Tremor Burst, raise the Stagger Threshold by the effect’s Potency.\nAt the end of the turn, reduce the Count by 1."
+      "name": "Sarsıntı",
+      "desc": "Sarsıntı Patlaması tetikleyen saldırılar tarafından vurulunca, Sersemleme Eşiğini bu efektin Şiddeti kadar arttır.\nTurun sonunda, Miktarı 1 azalt."
     },
     {
       "id": "Burst",
-      "name": "Rupture",
-      "desc": "When hit by an attack, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1."
+      "name": "Parçalanma",
+      "desc": "Bir saldırı tarafından vurulunca, bu efektin Şiddeti kadar sabit hasar al.\nArdından, Miktarı 1 azalt"
     },
     {
       "id": "Sinking",
-      "name": "Sinking",
-      "desc": "When hit by an attack, take fixed SP damage by the effect’s Potency.\n(Units with no Sanity take Gloom damage instead.)\nThen, reduce its Count by 1."
+      "name": "Batış",
+      "desc": "Bir saldırı tarafından vurulunca, bu efektin Şiddeti kadar sabit SP hasarı al.\n(Akıl Sağlığına sahip olmayan düşmanlar, bunu yerine Hüzün hasarı yerler.)\nArdından, Miktarı 1 azalt"
     },
     {
       "id": "Breath",
-      "name": "Poise",
-      "desc": "On hit, gain a Potency-based chance to deal critical damage, reducing the Count by 1 if successful.\nAt the end of the turn, reduce the Count by 1."
+      "name": "Nefes",
+      "desc": "Her vuruşta, bu efektin Şiddeti ile orantılı bir şekilde Kritik hasar vurma şansına sahip ol, eğer başarılı olursa Miktarı 1 azalt.\nTurun sonunda, Miktarı 1 azalt."
     },
     {
       "id": "BloodPocket",
