@@ -8043,14 +8043,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Coerced Judgement",
-          "desc": "[WhenUse] Lose 7 SP",
+          "name": "Dayatılan Yargı",
+          "desc": "[WhenUse] 7 SP kaybet",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttackTail] 2 Burn ver"
                 }
               ]
             }
@@ -8058,17 +8058,17 @@
         },
         {
           "level": 2,
-          "name": "Coerced Judgement",
-          "desc": "[WhenUse] Lose 7 SP",
+          "name": "Dayatılan Yargı",
+          "desc": "[WhenUse] 7 SP kaybet",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Gain 1 Fanatic next turn"
+                  "desc": "[OnSucceedAttackTail] sıradaki tur 1 Fanatic Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] 2 Burn ver"
                 }
               ]
             }
@@ -8076,17 +8076,17 @@
         },
         {
           "level": 4,
-          "name": "Coerced Judgement",
-          "desc": "[WhenUse] Lose 7 SP",
+          "name": "Dayatılan Yargı",
+          "desc": "[WhenUse] 7 SP kaybet",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Gain 1 Fanatic next turn"
+                  "desc": "[OnSucceedAttackTail] sıradaki tur 1 Fanatic Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] 3 Burn ver"
                 }
               ]
             }
@@ -8099,28 +8099,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Amoral Enactment",
-          "desc": "[WhenUse] Lose 10 SP\nIf this unit is Fanatic, deal +5% damage",
+          "name": "Vicdansız İcra",
+          "desc": "[WhenUse] 10 Sp Kaybet\nEğer bu Günahkar da Fanatic varsa, +5% hasar ver",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackTail] 1 Burn Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackTail] 1 Burn Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 Bleed Ver"
                 }
               ]
             }
@@ -8128,37 +8128,37 @@
         },
         {
           "level": 2,
-          "name": "Amoral Enactment",
-          "desc": "[WhenUse] Lose 10 SP\nIf this unit is Fanatic, deal +10% damage",
+          "name": "Vicdansız İcra",
+          "desc": "[WhenUse] 10 Sp Kaybet\nEğer bu Günahkar da Fanatic varsa, +5% hasar ver",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttackTail] 2 Burn Ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Burn Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttackTail] 2 Burn Ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Burn Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttackTail] +1 Burn Count Ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 Bleed Ver"
                 }
               ]
             }
@@ -8171,24 +8171,24 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Self-destructive Purge",
-          "desc": "[WhenUse] Lose 15 SP\nIf this unit is Fanatic, deal +15% damage\nIf target is a <Mechanical Amalgam>, deal +10% damage",
+          "name": "Benliği-Yıkan Arındırma",
+          "desc": "[WhenUse] 15 SP Kaybet\nEğer bu Günahkar Fanatic ise,+15% hasar vur\nEğer hedef <Mechanical Amalgam> ise, +10% hasar vur",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini vurulan hasarın 50%'si kadar ileri çek"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Bleed, inflict 5 Burn"
+                  "desc": "[OnSucceedAttack] eğer hedefte 5+ Bleed varsa, 5 Burn ver"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 1 Blunt Power Up next turn"
+                  "desc": "[EnemyKill] sıradaki tur 1 Darbe Gücü Artışı Kazan"
                 }
               ]
             }
@@ -8196,24 +8196,24 @@
         },
         {
           "level": 4,
-          "name": "Self-destructive Purge",
-          "desc": "- [WhenUse] Lose 15 SP\n- If this unit is Fanatic, deal +15% damage\n- If target is a <Mechanical Amalgam>, deal +10% damage",
+          "name": "Benliği-Yıkan Arındırma",
+          "desc": "- [WhenUse] 15 SP Kaybet\nEğer bu Günahkar Fanatic ise,+15% hasar vur\nEğer hedef <Mechanical Amalgam> ise, +10% hasar vur",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini vurulan hasarın 50%'si kadar ileri çek"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Bleed, inflict 7 Burn"
+                  "desc": "[OnSucceedAttack] eğer hedefte 5+ Bleed varsa, 7 Burn ver"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 1 Blunt Power Up next turn"
+                  "desc": "[EnemyKill] sıradaki tur 1 Darbe Gücü Artışı Kazan"
                 }
               ]
             }
@@ -8226,8 +8226,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Enough…",
-          "desc": "[StartBattle] Heal 5~10 SP",
+          "name": "Yeter…",
+          "desc": "[StartBattle] 5~10 SP Yenile",
           "coinlist": [
             {}
           ]
