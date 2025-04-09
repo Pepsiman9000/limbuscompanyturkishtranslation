@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "announcer_cheer_1_1",
-      "dlg": "Saatim her derde deva sihirli bir araç değil… bodoslama dalmayın, tamam mı?"
+      "dlg": "Saatim her derde deva sihirli bir araç değil… bodoslama dalmayın, olur mu?"
     },
     {
       "id": "announcer_cheer_1_2",
@@ -26,7 +26,7 @@
     },
     {
       "id": "announcer_killenemy_1_1",
-      "dlg": "Güzel, bir günahkâr bir düşmanı alt etti. Hadi bunu devam ettirelim."
+      "dlg": "Güzel, bir günahkar bir düşmanı alt etti. Hadi bunu devam ettirelim."
     },
     {
       "id": "announcer_ally_dead_1_1",
@@ -66,11 +66,11 @@
     },
     {
       "id": "announcer_disadvatk_attr_1_1",
-      "dlg": "Oh... O Günah pek de etkili olmadı. Bir dahaki sefere daha iyi yaparız."
+      "dlg": "Oh… bu Günah pek de etkili olmadı. Bir dahaki sefere daha iyi yaparız."
     },
     {
       "id": "announcer_enemy_specialbuff_1_1",
-      "dlg": "Kurnaz bir şeylerin peşindeler sanki? Dikkatli ol."
+      "dlg": "Kurnazca bir şeylerin peşindeler sanki? Dikkatli ol."
     },
     {
       "id": "announcer_enemy_specialdebuff_1_1",
