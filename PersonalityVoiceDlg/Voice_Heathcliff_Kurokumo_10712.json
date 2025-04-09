@@ -58,7 +58,7 @@
         {
             "id": "formation_10712_1",
             "desc": "Deployment",
-            "dlg": "About time!"
+            "dlg": "Sonunda!"
         },
         {
             "id": "battleentry_10712_1",
@@ -88,7 +88,7 @@
         {
             "id": "battle_kill_10712_1",
             "desc": "Enemy Killed",
-            "dlg": "Next! Chop-chop!"
+            "dlg": "Sıradaki! Hemen!"
         },
         {
             "id": "battle_dead_10712_1",
@@ -98,17 +98,17 @@
         {
             "id": "choice_success_p_10712_2",
             "desc": "Check Passed",
-            "dlg": "See? I ain't a Wakashu for nothing."
+            "dlg": "Gördün mü? Boşuna Wakashu değilim."
         },
         {
             "id": "choice_fail_n_10712_1",
             "desc": "Check Failed",
-            "dlg": "... I told you, I'm a bit inexperienced in things other than slicing and dicing."
+            "dlg": "... Dediğim gibi, kesmek ve biçmek dışındaki şeylerde pek tecrübeli değilim."
         },
         {
             "id": "battle_clear_10712_1",
             "desc": "Victory Cry",
-            "dlg": "Oi, oi. That's enough. Finger bow-bell's comin' up—let's not make things too awkward for the big boys when they meet."
+            "dlg": "Hop, hop. Yeter bu kadar. Finger bow-bell's comin' up—let's not make things too awkward for the big boys when they meet."
         },
         {
             "id": "battle_clear_ex_10712_1",
