@@ -2,47 +2,47 @@
   "dataList": [
     {
       "id": "battle_battleunit_guard",
-      "content": "Guard"
+      "content": "Kalkan"
     },
     {
       "id": "popup_message_ego_seat_lack",
-      "content": "Cannot use this E.G.O. Please check available space."
+      "content": "bu E.G.O. kullanılamıyor, lütfen yeterli yer olduğundan emin olun."
     },
     {
       "id": "popup_message_ego_resources_lack",
-      "content": "Cannot use this E.G.O. Please check your resources."
+      "content": "bu E.G.O. kullanılamıyor. lütfen yeterli kaynağa sahip olduğunuzdan emin olun."
     },
     {
       "id": "option_title",
-      "content": "Settings"
+      "content": "Ayarlar"
     },
     {
       "id": "option_btn_exit",
-      "content": "Exit Stage"
+      "content": "Sahneyi Terk Et"
     },
     {
       "id": "option_btn_statistical",
-      "content": "Battle Data"
+      "content": "Savaş İstatistikleri"
     },
     {
       "id": "creature_destroy_notice",
-      "content": "Part Broken"
+      "content": "Kaybedilmiş Uzuv"
     },
     {
       "id": "oneside_attack",
-      "content": "Unopposed"
+      "content": "Karşılıksız"
     },
     {
       "id": "guard",
-      "content": "Guard"
+      "content": "Kalkan"
     },
     {
       "id": "power",
-      "content": "Potency"
+      "content": "Şiddet"
     },
     {
       "id": "require",
-      "content": "Req."
+      "content": "Gereklilikler"
     },
     {
       "id": "battle_log_atk_hp",
@@ -90,135 +90,135 @@
     },
     {
       "id": "choice_result_success",
-      "content": "Check Passed"
+      "content": "Başarılı"
     },
     {
       "id": "choice_result_fail",
-      "content": "Check Failed"
+      "content": "Başarısız"
     },
     {
       "id": "choice_result_skip",
-      "content": "Check Skipped"
+      "content": "Esgeçildi"
     },
     {
       "id": "info_button_detailinfo",
-      "content": "Details"
+      "content": "Detaylar"
     },
     {
       "id": "info_button_skill",
-      "content": "Skill"
+      "content": "Yetenek"
     },
     {
       "id": "info_button_awakenskill",
-      "content": "Awakening"
+      "content": "Uyanış"
     },
     {
       "id": "info_button_erosionskill",
-      "content": "Corrosion"
+      "content": "Korozyon"
     },
     {
       "id": "resonance",
-      "content": "Res"
+      "content": "Rezonans"
     },
     {
       "id": "perfect_resonance",
-      "content": "A-Res"
+      "content": "A-Rez"
     },
     {
       "id": "break",
-      "content": "STAGGER"
+      "content": "SERSEMLEME"
     },
     {
       "id": "mental_break",
-      "content": "BREAKDOWN"
+      "content": "ÇÖKÜŞ"
     },
     {
       "id": "low_morale",
-      "content": "Low Morale"
+      "content": "Düşük Moral"
     },
     {
       "id": "panic",
-      "content": "Panic"
+      "content": "Panik"
     },
     {
       "id": "status",
-      "content": "Status"
+      "content": "Durum"
     },
     {
       "id": "status_abnormal",
-      "content": "Effects"
+      "content": "Efektler"
     },
     {
       "id": "immunity_information",
-      "content": "Resistances"
+      "content": "Dayanıklılıklar"
     },
     {
       "id": "awaken_ego_skill",
-      "content": "Awakening"
+      "content": "Uyanış"
     },
     {
       "id": "erosion_ego_skill",
-      "content": "Corrosion"
+      "content": "Korozyon"
     },
     {
       "id": "turnplace_test_name",
-      "content": "An Abandoned LC Branch"
+      "content": "Terk Edilmiş bir LC branşı"
     },
     {
       "id": "death",
-      "content": "DEAD"
+      "content": "ÖLÜ"
     },
     {
       "id": "slash",
-      "content": "Slash"
+      "content": "Kesme"
     },
     {
       "id": "penetrate",
-      "content": "Pierce"
+      "content": "Delme"
     },
     {
       "id": "hit",
-      "content": "Blunt"
+      "content": "Darbe"
     },
     {
       "id": "action_disable",
-      "content": "Immobile"
+      "content": "Hareketsiz"
     },
     {
       "id": "ab_event_select_character",
-      "content": "Select Sinner"
+      "content": "Günahkarı Seç"
     },
     {
       "id": "ab_event_select_desc",
-      "content": "Info"
+      "content": "Bilgi"
     },
     {
       "id": "ab_event_rate",
-      "content": "Success Rate"
+      "content": "Kazanma Şansı"
     },
     {
       "id": "formet_event_rate",
-      "content": "Success Rate: {0}"
+      "content": "Kazanma Şansı: {0}"
     },
     {
       "id": "ab_event_decision",
-      "content": "Commence"
+      "content": "Başla"
     },
     {
       "id": "ab_event_need",
-      "content": "Req."
+      "content": "Gereklilikler"
     },
     {
       "id": "ab_battle_resume",
-      "content": "Resume Battle"
+      "content": "Savaşa Devam Et"
     },
     {
       "id": "info_button_choice_log",
-      "content": "Decision Log"
+      "content": "Karar Kaydı"
     },
     {
       "id": "info_button_story",
-      "content": "Story"
+      "content": "Hikaye"
     },
     {
       "id": "info_button_ego",
@@ -226,23 +226,23 @@
     },
     {
       "id": "dungeon_encounter_start",
-      "content": "Start"
+      "content": "Başla"
     },
     {
       "id": "dungeon_encounter_battle",
-      "content": "Regular Encounter"
+      "content": "Standart Karşılaşma"
     },
     {
       "id": "dungeon_encounter_ab_battle",
-      "content": "Focused Encounter"
+      "content": "Odaklı Karşılaşm"
     },
     {
       "id": "dungeon_encounter_hard_battle",
-      "content": "Risky Encounter"
+      "content": "Riskli Karşılaşm"
     },
     {
       "id": "dungeon_encounter_event",
-      "content": "Event"
+      "content": "Olay"
     },
     {
       "id": "dungeon_encounter_save",
@@ -250,47 +250,47 @@
     },
     {
       "id": "dungeon_encounter_boss",
-      "content": "Floor Boss"
+      "content": "Kat Bossu"
     },
     {
       "id": "bottom_winrate",
-      "content": "Win Rate"
+      "content": "Otomatik"
     },
     {
       "id": "bottom_dmg",
-      "content": "Damage"
+      "content": "Hasar"
     },
     {
       "id": "ab_event_next",
-      "content": "Proceed"
+      "content": "Devam"
     },
     {
       "id": "explanatory",
-      "content": "Legend"
+      "content": "Efsane"
     },
     {
       "id": "get_ego_gift",
-      "content": "E.G.O Gift GET"
+      "content": "E.G.O Gift Alındı"
     },
     {
       "id": "get_ego_gift_desc",
-      "content": "E.G.O Gift GET!"
+      "content": "E.G.O Gift Alındı!"
     },
     {
       "id": "selection",
-      "content": "Choices"
+      "content": "Seçenekler"
     },
     {
       "id": "result",
-      "content": "Result"
+      "content": "Sonuç"
     },
     {
       "id": "choice_total_rate",
-      "content": "Total Success Rate"
+      "content": "Toplam Kazanma Şansı"
     },
     {
       "id": "enter",
-      "content": "Enter"
+      "content": "Gir"
     },
     {
       "id": "recommend_level",
@@ -298,15 +298,15 @@
     },
     {
       "id": "enemy_info",
-      "content": "Enemy Info"
+      "content": "Düşman Bilgisi"
     },
     {
       "id": "enter_clear_requirement",
-      "content": "Extra Objective"
+      "content": "Ek Görev"
     },
     {
       "id": "choice_event_resume",
-      "content": "Continue"
+      "content": "Devam"
     },
     {
       "id": "crime_state_judgment",
@@ -318,27 +318,27 @@
     },
     {
       "id": "success_result",
-      "content": "Threshold"
+      "content": "Eşik"
     },
     {
       "id": "expectation_result",
-      "content": "Predicted"
+      "content": "Muhtemel Olasılık"
     },
     {
       "id": "outcome_result",
-      "content": "Outcome"
+      "content": "Sonuç"
     },
     {
       "id": "choice_event_percent",
-      "content": "Odds"
+      "content": "Olasılıklar"
     },
     {
       "id": "skill_expectition_value",
-      "content": "Predicted Range: {0}-{1}"
+      "content": "Hesaplanan Menzil: {0}-{1}"
     },
     {
       "id": "skill_expectition_or_value",
-      "content": "Predicted Value: {0} / {1}"
+      "content": "Hesaplanan Değer: {0} / {1}"
     },
     {
       "id": "skill_correction_value",
@@ -346,135 +346,135 @@
     },
     {
       "id": "correction_based_on_association",
-      "content": "{0} Faction Modifier: {1}(, )"
+      "content": "{0} Grup Bonusu: {1}(, )"
     },
     {
       "id": "action_choice_event_result_example_battle",
-      "content": "Combat Encounter"
+      "content": "Savaş"
     },
     {
       "id": "action_choice_event_result_example_event",
-      "content": "Event"
+      "content": "Olay"
     },
     {
       "id": "action_choice_event_result_example_resume",
-      "content": "Continue"
+      "content": "Devam"
     },
     {
       "id": "areaatk_attack",
-      "content": "AoE Skills"
+      "content": "AoE Yetenekler"
     },
     {
       "id": "enter_battle",
-      "content": "Commence Battle"
+      "content": "Savaşa Başla"
     },
     {
       "id": "choice_event_five_percent",
-      "content": "5% Chance"
+      "content": "5% Şans"
     },
     {
       "id": "choice_event_five_percent_success",
-      "content": "5% Chance of Success"
+      "content": "5% Başarı Şansı"
     },
     {
       "id": "skillinfo_passivetitle",
-      "content": "Passives"
+      "content": "Pasifles"
     },
     {
       "id": "skillinfo_coinabilitytitle",
-      "content": "Skill Effects"
+      "content": "Yetenek Özellikleri"
     },
     {
       "id": "dungeon_save_desc",
-      "content": "Checkpoint reached.\nDungeon progress has been saved.\nAll Sinners have been healed."
+      "content": "Checkpoint ulaşıldı.\nZindan ilerlemesi kaydedildi.\nTüm Günahkârlar iyileştirildi."
     },
     {
       "id": "battle_battleunit_evade",
-      "content": "Evade"
+      "content": "Kaçınma"
     },
     {
       "id": "battle_battleunit_counter",
-      "content": "Counter"
+      "content": "Karşı Saldırı"
     },
     {
       "id": "battle_operation_defence",
-      "content": "Defense"
+      "content": "Defans"
     },
     {
       "id": "battle_increase_mp",
-      "content": "Sanity Up"
+      "content": "Akıl Sağlığı Yükselişi"
     },
     {
       "id": "battle_decrease_mp",
-      "content": "Sanity Down"
+      "content": "Akıl Sağlığı Düşüşü"
     },
     {
       "id": "dungeon_encounter_type_start",
-      "content": "Start"
+      "content": "Başla"
     },
     {
       "id": "dungeon_encounter_type_battle",
-      "content": "Regular Encounter"
+      "content": "Standart Karşılaşma"
     },
     {
       "id": "dungeon_encounter_type_ab_battle",
-      "content": "Focused Encounter"
+      "content": "Odaklı Karşılaşma"
     },
     {
       "id": "dungeon_encounter_type_hard_battle",
-      "content": "Risky Encounter"
+      "content": "Riskli Karşılaşma"
     },
     {
       "id": "dungeon_encounter_type_event",
-      "content": "Event"
+      "content": "Olay"
     },
     {
       "id": "dungeon_encounter_type_save",
-      "content": "Saferoom"
+      "content": "Güvenli Oda"
     },
     {
       "id": "dungeon_encounter_type_boss",
-      "content": "Boss Encounter"
+      "content": "Boss Karşılaşması"
     },
     {
       "id": "battle_mp",
-      "content": "Sanity"
+      "content": "Akıl Sağlığı"
     },
     {
       "id": "abnormality_part_hp",
-      "content": "Part HP"
+      "content": "Bölge HPsi"
     },
     {
       "id": "abnormality_research_level",
-      "content": "Obs. Level"
+      "content": "Gözlem Seviyesi"
     },
     {
       "id": "abnormality_no_research_level",
-      "content": "Lacking Data"
+      "content": "Eksik Bilgi"
     },
     {
       "id": "Insufficient_conditions",
-      "content": "Conditions Unmet"
+      "content": "Karşılanmamış Gereklilikler"
     },
     {
       "id": "skillinfo_keyword",
-      "content": "Keywords"
+      "content": "Anahtar Kelimeler"
     },
     {
       "id": "ability_turn",
-      "content": "Count"
+      "content": "Miktar"
     },
     {
       "id": "ego_erosion",
-      "content": "E.G.O Corrosion"
+      "content": "E.G.O Korozyonu"
     },
     {
       "id": "continuous_turn",
-      "content": "Turns"
+      "content": "Turlar"
     },
     {
       "id": "status_buff_list",
-      "content": "Effects"
+      "content": "Özellikler"
     },
     {
       "id": "stack",
@@ -482,47 +482,47 @@
     },
     {
       "id": "slash_resistance",
-      "content": "Slash Res."
+      "content": "Kesme Dayanıklılığı"
     },
     {
       "id": "penetrate_resistance",
-      "content": "Pierce Res."
+      "content": "Delme Dayanıklılığı"
     },
     {
       "id": "hit_resistance",
-      "content": "Blunt Res."
+      "content": "Ezme Dayanıklılığı."
     },
     {
       "id": "Lack_Buff",
-      "content": "No {0}!"
+      "content": "Numara {0}!"
     },
     {
       "id": "received_the_golden_bough",
-      "content": "Golden Bough Recovered"
+      "content": "Altın Dal Alındı"
     },
     {
       "id": "destroyable",
-      "content": "Destructible"
+      "content": "Yıkılabilir"
     },
     {
       "id": "resumption",
-      "content": "Resume"
+      "content": "Devam"
     },
     {
       "id": "stage_GiveUp",
-      "content": "Give Up"
+      "content": "Pes"
     },
     {
       "id": "show_skillTool",
-      "content": "Show Skill Tools"
+      "content": "Yetenek Araçlarını Göster"
     },
     {
       "id": "auto_coinToss",
-      "content": "Auto Cointoss"
+      "content": "Otomatik Jeton At"
     },
     {
       "id": "babayaga_alert",
-      "content": "You have {0} chances left."
+      "content": "{0} şansın kaldı."
     },
     {
       "id": "battle_operation_offset",
@@ -530,7 +530,7 @@
     },
     {
       "id": "oneside_defense",
-      "content": "One-sided Guard"
+      "content": "Tek yönlü Kalkan"
     },
     {
       "id": "cantIdentify",
@@ -546,27 +546,27 @@
     },
     {
       "id": "stable",
-      "content": "Stable"
+      "content": "Stabil"
     },
     {
       "id": "un_stable",
-      "content": "Unstable"
+      "content": "Dengesiz"
     },
     {
       "id": "vibration_explosion",
-      "content": "Tremor Burst!"
+      "content": "Sarsıntı Patlaması!"
     },
     {
       "id": "sinking_surge",
-      "content": "Sinking Deluge!"
+      "content": "Batış Tufanı!"
     },
     {
       "id": "targetSlotWeight",
-      "content": "Atk Weight"
+      "content": "Saldırı Ağırlığı"
     },
     {
       "id": "EGO_ErodeProbability",
-      "content": "To Corrode"
+      "content": "Korozyon"
     },
     {
       "id": "EGOSelectUI_resources_lack",
