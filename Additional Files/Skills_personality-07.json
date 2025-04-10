@@ -667,7 +667,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[Hedefi Vurunca] Hedefe 2 [Batış] ver"
+                  "desc": "[Hedefi Vurunca] Hedefe 2 [Batış] uygula"
                 }
               ]
             }
@@ -682,7 +682,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Batış] ver"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Batış] uygula"
                 }
               ]
             }
@@ -697,7 +697,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Sinking] ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Sinking] uygula"
                 }
               ]
             }
@@ -717,17 +717,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] ver "
+                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] uygula "
                 }
               ]
             }
@@ -742,17 +742,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] ver"
+                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] uygula"
                 }
               ]
             }
@@ -767,17 +767,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">3</style> [Sinking] ver"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">3</style> [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] ver"
+                  "desc": "[OnSucceedAttack] Hedefe sonraki el 2 [WanderingFootsteps] uygula"
                 }
               ]
             }
@@ -796,20 +796,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe +3 [Sinking] Miktarı ver"
+                  "desc": "[OnSucceedAttack] Hedefe +3 [Sinking] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Eğer hedefte [WanderingFootsteps] varsa, hedefe +2 [Batış] Miktarı ver"
+                  "desc": "[OnSucceedAttack] Eğer hedefte [WanderingFootsteps] varsa, hedefe +2 [Batış] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] uygula"
                 },
                 {
-                  "desc": "[EnemyKill] 2 rastgele düşmana (Ölen düşmandaki [Sinking] /3) [Sinking] ver (max 3)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Ölen düşmandaki [Sinking] /3) [Sinking] uygula (max 3)"
                 }
               ]
             }
@@ -823,20 +823,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">+4</style> [Sinking] Miktarı ver"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">+4</style> [Sinking] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Eğer hedefte [WanderingFootsteps] varsa, hedefe +2 [Sinking] Miktarı ver"
+                  "desc": "[OnSucceedAttack] Eğer hedefte [WanderingFootsteps] varsa, hedefe +2 [Sinking] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">3</style> [Sinking] ver"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">3</style> [Sinking] uygula"
                 },
                 {
-                  "desc": "[EnemyKill] 2 rastgele düşmana (Ölen düşmandaki [Sinking]/<style=\"highlight\">2</style>) ver (max <style=\"highlight\">5</style>)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Ölen düşmandaki [Sinking]/<style=\"highlight\">2</style>) uygula (max <style=\"highlight\">5</style>)"
                 }
               ]
             }
@@ -856,7 +856,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] uygula"
                 }
               ]
             }
@@ -871,7 +871,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ver"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] uygula"
                 }
               ]
             }
@@ -886,7 +886,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ve <style=\"highlight\"> +1 [Sinking] Miktarı</style> ver"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] ve <style=\"highlight\"> +1 [Sinking] Miktarı</style> uygula"
                 }
               ]
             }
@@ -900,7 +900,7 @@
         {
           "level": 3,
           "name": "Ağıt, Yas ve Umutsuzluk",
-          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla 2)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar ver (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +7% daha fazla hasar ver (En fazla 70%)\n[WhenUse] Kendindeki her [NightPathfinding] için +10% daha fazla hasar ver (En fazla 30%)\n[WhenUse] 1 [Coffin] elde et\n[EndSkill] Eğer bu saldırı hedefi öldürürse, 2 [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir (Her kayıp SP için 1 SP; En fazla 25)\n[EndBattle] Lose [NightPathfinding]",
+          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla 2)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar uygula (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +7% daha fazla hasar uygula (En fazla 70%)\n[WhenUse] Kendindeki her [NightPathfinding] için +10% daha fazla hasar uygula (En fazla 30%)\n[WhenUse] 1 [Coffin] elde et\n[EndSkill] Eğer bu saldırı hedefi öldürürse, 2 [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir (Her kayıp SP için 1 SP; En fazla 25)\n[EndBattle] Lose [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -930,25 +930,25 @@
         {
           "level": 4,
           "name": "Ağıt, Yas ve Umutsuzluk",
-          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla <style=\"highlight\">4</style>)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar ver (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +<style=\"highlight\">10</style>% daha fazla hasar ver (En fazla <style=\"highlight\">100</style>%)\n[WhenUse] Günahkardaki her [NightPathfinding] için +<style=\"highlight\">20</style>% daha fazla hasar ver (En fazla <style=\"highlight\">60</style>%)\n[WhenUse] <style=\"highlight\">2</style> [Coffin] kazan\n[EndSkill] Eğer bu saldırı hedefi öldürürse, <style=\"highlight\">3</style> [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir ( <style=\"highlight\">2</style> her kayıp SP için ekstra 10 SP iyileştir; en fazla <style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding] 'i kaybet",
+          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla <style=\"highlight\">4</style>)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar uygula (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +<style=\"highlight\">10</style>% daha fazla hasar uygula (En fazla <style=\"highlight\">100</style>%)\n[WhenUse] Günahkardaki her [NightPathfinding] için +<style=\"highlight\">20</style>% daha fazla hasar uygula (En fazla <style=\"highlight\">60</style>%)\n[WhenUse] <style=\"highlight\">2</style> [Coffin] kazan\n[EndSkill] Eğer bu saldırı hedefi öldürürse, <style=\"highlight\">3</style> [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir ( <style=\"highlight\">2</style> her kayıp SP için ekstra 10 SP iyileştir; en fazla <style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding] 'i kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">5</style> [Sinking] ve +2 [Sinking] Miktarı ver"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">5</style> [Sinking] ve +2 [Sinking] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefin Stagger Threshold'unu, verilen hasarın <style=\"highlight\">30</style>% kadar arttır"
+                  "desc": "[OnSucceedAttack] Hedefin Stagger Threshold'unu, uygulailen hasarın <style=\"highlight\">30</style>% kadar arttır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe, hedefteki [Sinking] kadar Kasvet Affinity hasar ver (En fazla <style=\"highlight\">30</style>)"
+                  "desc": "[OnSucceedAttack] Hedefe, hedefteki [Sinking] kadar Kasvet Affinity hasar uygula (En fazla <style=\"highlight\">30</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] 2 rastgele düşmana (Öldürülen düşmandaki [Sinking]/<style=\"highlight\">2</style>) kadar Sinking ver (max <style=\"highlight\">8</style>)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Öldürülen düşmandaki [Sinking]/<style=\"highlight\">2</style>) kadar Sinking uygula (max <style=\"highlight\">8</style>)"
                 },
                 {
                   "desc": "[EnemyKill] 15 SP iyileştir"
@@ -965,7 +965,7 @@
         {
           "level": 3,
           "name": "Ağıt, Yas ve Umutsuzluk",
-          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla 2)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar ver (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +7% daha fazla hasar ver (En fazla 70%)\n[WhenUse] Kendindeki her [NightPathfinding] için +10% daha fazla hasar ver (En fazla 30%)\n[WhenUse] 1 [Coffin] elde et\n[EndSkill] Eğer bu saldırı hedefi öldürürse, 2 [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir (Her kayıp SP için 1 SP; En fazla 25)\n[EndBattle] Lose [NightPathfinding]",
+          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla 2)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar uygula (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +7% daha fazla hasar uygula (En fazla 70%)\n[WhenUse] Kendindeki her [NightPathfinding] için +10% daha fazla hasar uygula (En fazla 30%)\n[WhenUse] 1 [Coffin] elde et\n[EndSkill] Eğer bu saldırı hedefi öldürürse, 2 [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir (Her kayıp SP için 1 SP; En fazla 25)\n[EndBattle] Lose [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -995,25 +995,25 @@
         {
           "level": 4,
           "name": "Ağıt, Yas ve Umutsuzluk",
-          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla <style=\"highlight\">4</style>)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar ver (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +<style=\"highlight\">10</style>% daha fazla hasar ver (En fazla <style=\"highlight\">100</style>%)\n[WhenUse] Günahkardaki her [NightPathfinding] için +<style=\"highlight\">20</style>% daha fazla hasar ver (En fazla <style=\"highlight\">60</style>%)\n[WhenUse] <style=\"highlight\">2</style> [Coffin] kazan\n[EndSkill] Eğer bu saldırı hedefi öldürürse, <style=\"highlight\">3</style> [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir ( <style=\"highlight\">2</style> her kayıp SP için ekstra 10 SP iyileştir; en fazla <style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding] 'i kaybet",
+          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla <style=\"highlight\">4</style>)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar uygula (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +<style=\"highlight\">10</style>% daha fazla hasar uygula (En fazla <style=\"highlight\">100</style>%)\n[WhenUse] Günahkardaki her [NightPathfinding] için +<style=\"highlight\">20</style>% daha fazla hasar uygula (En fazla <style=\"highlight\">60</style>%)\n[WhenUse] <style=\"highlight\">2</style> [Coffin] kazan\n[EndSkill] Eğer bu saldırı hedefi öldürürse, <style=\"highlight\">3</style> [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir ( <style=\"highlight\">2</style> her kayıp SP için ekstra 10 SP iyileştir; en fazla <style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding] 'i kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">5</style> [Sinking] ve +2 [Sinking] Miktarı ver"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">5</style> [Sinking] ve +2 [Sinking] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefin Stagger Threshold'unu, verilen hasarın <style=\"highlight\">30</style>% kadar arttır"
+                  "desc": "[OnSucceedAttack] Hedefin Stagger Threshold'unu, uygulailen hasarın <style=\"highlight\">30</style>% kadar arttır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe, hedefteki [Sinking] kadar Kasvet Affinity hasar ver (En fazla <style=\"highlight\">30</style>)"
+                  "desc": "[OnSucceedAttack] Hedefe, hedefteki [Sinking] kadar Kasvet Affinity hasar uygula (En fazla <style=\"highlight\">30</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] 2 rastgele düşmana (Öldürülen düşmandaki [Sinking]/<style=\"highlight\">2</style>) kadar Sinking ver (max <style=\"highlight\">8</style>)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Öldürülen düşmandaki [Sinking]/<style=\"highlight\">2</style>) kadar Sinking uygula (max <style=\"highlight\">8</style>)"
                 },
                 {
                   "desc": "[EnemyKill] 15 SP iyileştir"
@@ -1133,7 +1133,7 @@
                   "desc": " 1 [Bullet] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] ver (Elde 2 kere)"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] uygula (Elde 2 kere)"
                 }
               ]
             }
@@ -1142,7 +1142,7 @@
         {
           "level": 2,
           "name": "Kafadan Vuruş",
-          "desc": "<style=\"highlight\">Eğer Günahkarın hızı hedeften hızlıysa, her 1 Hız farkı için +10% daha fazla hasar ver (En fazla 30%)</style>\n[WhenUse]  3 [Breath] ve +1 [Breath] Miktarı kazan\n<style=\"highlight\">[WhenUse] Sonraki el 2 [Agility] kazan (Elde bir kere)</style>",
+          "desc": "<style=\"highlight\">Eğer Günahkarın hızı hedeften hızlıysa, her 1 Hız farkı için +10% daha fazla hasar uygula (En fazla 30%)</style>\n[WhenUse]  3 [Breath] ve +1 [Breath] Miktarı kazan\n<style=\"highlight\">[WhenUse] Sonraki el 2 [Agility] kazan (Elde bir kere)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1153,10 +1153,10 @@
                   "desc": " Kritik Vuruşta <style=\"highlight\">+30%</style> daha fazla hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] ver (Elde 2 kere)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] uygula (Elde 2 kere)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Hedefe sonraki el 1 [PenetrateTakeDamageUp] ver (Elde bir kere)</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Hedefe sonraki el 1 [PenetrateTakeDamageUp] uygula (Elde bir kere)</style>"
                 }
               ]
             }
@@ -1165,7 +1165,7 @@
         {
           "level": 4,
           "name": "Kafadan Vuruş",
-          "desc": "Eğer Günahkarın hızı hedeften hızlıysa, her 1 Hız farkı için +10% daha fazla hasar ver (En fazla 50%)</style>\n[WhenUse] 3 [Breath] ve <style=\"highlight\">2</style> [Breath] Miktarı kazan\n[WhenUse] Sonraki el 2 [Agility] kazan (Elde bir kere)",
+          "desc": "Eğer Günahkarın hızı hedeften hızlıysa, her 1 Hız farkı için +10% daha fazla hasar uygula (En fazla 50%)</style>\n[WhenUse] 3 [Breath] ve <style=\"highlight\">2</style> [Breath] Miktarı kazan\n[WhenUse] Sonraki el 2 [Agility] kazan (Elde bir kere)",
           "coinlist": [
             {
               "coindescs": [
@@ -1176,10 +1176,10 @@
                   "desc": " Kritik vuruşta <style=\"highlight\">+50%</style> daha fazla Hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] ver (Elde 2 kere)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [PenetrateTakeDamageUp] uygula (Elde 2 kere)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Hedefe sonraki el 1 [PenetrateTakeDamageUp] ver (Elde bir kere)<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Hedefe sonraki el 1 [PenetrateTakeDamageUp] uygula (Elde bir kere)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1193,7 +1193,7 @@
         {
           "level": 3,
           "name": "Hedefin Tam Ortasına",
-          "desc": "[BeforeUse] Eğer Günahkarda [Bullet_LogicAtelier] varsa, 'AL-HV Parçalama Mermisi' ni kullan\nEğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar ver (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] ı harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 12.5)% daha fazla hasar ver",
+          "desc": "[BeforeUse] Eğer Günahkarda [Bullet_LogicAtelier] varsa, 'AL-HV Parçalama Mermisi' ni kullan\nEğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] ı harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 12.5)% daha fazla hasar uygula",
           "coinlist": [
             {
               "coindescs": [
@@ -1201,10 +1201,10 @@
                   "desc": " 1 [Bullet] harca"
                 },
                 {
-                  "desc": "Kritik Vuruşta +50% daha fazla hasar ver"
+                  "desc": "Kritik Vuruşta +50% daha fazla hasar uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] [Breath] Miktarı 30'un üstündeyken, 30'dan fazla her biri için, 10 [Breath] Miktarı'na kadar harca ve  +(Harcanan [Breath] Miktarı x 10)% daha fazla hasar ver"
+                  "desc": "[CriticalOnSucceedAttack] [Breath] Miktarı 30'un üstündeyken, 30'dan fazla her biri için, 10 [Breath] Miktarı'na kadar harca ve  +(Harcanan [Breath] Miktarı x 10)% daha fazla hasar uygula"
                 }
               ]
             }
@@ -1213,7 +1213,7 @@
         {
           "level": 4,
           "name": "Hedefin Tam Ortasına",
-          "desc": "[BeforeUse] Eğer Günahkarda [Bullet_LogicAtelier] varsa, 'AL-HV Parçalama Mermisi' ni kullan\nEğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar ver (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] ı harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 12.5)% daha fazla hasar ver\n<style=\"highlight\">[EndSkill] +2 [Breath] Miktarı kazan</style>",
+          "desc": "[BeforeUse] Eğer Günahkarda [Bullet_LogicAtelier] varsa, 'AL-HV Parçalama Mermisi' ni kullan\nEğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] ı harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 12.5)% daha fazla hasar uygula\n<style=\"highlight\">[EndSkill] +2 [Breath] Miktarı kazan</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1221,13 +1221,13 @@
                   "desc": " 1 [Bullet]<style=\"highlight\"></style> harca"
                 },
                 {
-                  "desc": "Kritik Vuruşta <style=\"highlight\">+80%</style> daha fazla hasar ver"
+                  "desc": "Kritik Vuruşta <style=\"highlight\">+80%</style> daha fazla hasar uygula"
                 },
                 {
-                  "desc": "<style=\"highlight\">+Kritik Vuruşta (Hedefin Pierce Direnci x 50)% daha fazla hasar ver</style>"
+                  "desc": "<style=\"highlight\">+Kritik Vuruşta (Hedefin Pierce Direnci x 50)% daha fazla hasar uygula</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] [Breath] Miktarı 30'un üstündeyken, 30'dan fazla her biri için, 10 [Breath] Miktarı'na kadar harca ve  +(Harcanan [Breath] Miktarı x 10)% daha fazla hasar ver<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] [Breath] Miktarı 30'un üstündeyken, 30'dan fazla her biri için, 10 [Breath] Miktarı'na kadar harca ve  +(Harcanan [Breath] Miktarı x 10)% daha fazla hasar uygula<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1266,7 +1266,7 @@
         {
           "level": 3,
           "name": "AL-HV Parçalama Mermisi",
-          "desc": "Eğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar ver (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] i harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 25)% daha fazla hasar ver",
+          "desc": "Eğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] i harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 25)% daha fazla hasar uygula",
           "coinlist": [
             {
               "coindescs": [
@@ -1277,7 +1277,7 @@
                   "desc": " Kritik Vuruşta +100% daha fazla hasar"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 30 [Breath] Miktarı'nın üstündeyken, 30'dan fazla her biri için, 10 [Breath] Miktarı'na kadar harca ve  +(Harcanan [Breath] Miktarı x 10)% daha fazla hasar ver"
+                  "desc": "[CriticalOnSucceedAttack] 30 [Breath] Miktarı'nın üstündeyken, 30'dan fazla her biri için, 10 [Breath] Miktarı'na kadar harca ve  +(Harcanan [Breath] Miktarı x 10)% daha fazla hasar uygula"
                 }
               ]
             }
@@ -1286,7 +1286,7 @@
         {
           "level": 4,
           "name": "AL-HV Parçalama Mermisi",
-          "desc": "Eğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar ver (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] i harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 25)% daha fazla hasar ver\n<style=\"highlight\">[EndSkill] Gain +5 [Breath] Count</style>",
+          "desc": "Eğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] i harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 25)% daha fazla hasar uygula\n<style=\"highlight\">[EndSkill] Gain +5 [Breath] Count</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1297,10 +1297,10 @@
                   "desc": "Kritik Vuruşta <style=\"highlight\">+130%</style> daha fazla hasar"
                 },
                 {
-                  "desc": "<style=\"highlight\">+Kritik Vuruşta (Hedefin Pierce Direnci x 50)% daha fazla hasar ver</style>"
+                  "desc": "<style=\"highlight\">+Kritik Vuruşta (Hedefin Pierce Direnci x 50)% daha fazla hasar uygula</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 30 [Breath] Miktarı'nın üstündeyken, 30'dan fazla her biri için, 10 [Breath] Miktarı'na kadar harca ve  +(Harcanan [Breath] Miktarı x 10)% daha fazla hasar ver<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] 30 [Breath] Miktarı'nın üstündeyken, 30'dan fazla her biri için, 10 [Breath] Miktarı'na kadar harca ve  +(Harcanan [Breath] Miktarı x 10)% daha fazla hasar uygula<style=\"highlight\"></style>"
                 }
               ]
             }
