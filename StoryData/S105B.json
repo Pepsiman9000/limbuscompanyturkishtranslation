@@ -4,7 +4,7 @@
       "id": 0,
       "place": "4. Eyaletin Arka Sokaklarından Biri",
       "model": "베르길리우스",
-      "content": "Hey! Yeter artık. misafirlerimiz var."
+      "content": "Hey! Tamam, yetti. misafirimiz var."
     },
     {
       "id": 1,
@@ -13,51 +13,51 @@
     {
       "id": 2,
       "model": "단테",
-      "content": "<Misafir mi? Nerde?>"
+      "content": "<Misafir mi? Kim?>"
     },
     {
       "id": 3,
       "model": "파우스트",
-      "content": "I’ve determined that we’ll need a guide as this is our first trip to a dungeon."
+      "content": "Şu an ki tecrübesizliğimizi göz önüne alarak ilk yoluluğumuz için bir rehber çağırmayı uygun gördüm."
     },
     {
       "id": 4,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Excuse me… Are you the people from Limbus Company?"
+      "title": "8. Sınıf İşbitirici",
+      "content": "Kusura bakmayın, Limbus Company'dekiler sizler misiniz??"
     },
     {
       "id": 5,
-      "content": "Someone approaches us slowly."
+      "content": "Diyerek birisi bize yaklaştı."
     },
     {
       "id": 6,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Looks like it…"
+      "title": "8. Sınıf İşbitirici",
+      "content": "Evet, öyle görünüyor…"
     },
     {
       "id": 7,
-      "content": "The bus had just about finished its meal, crunching on the last remaining bone chips."
+      "content": "Mephistopheles tam da yemeğini bitiriyordu, son kalan kemik cipslerini de yuttu."
     },
     {
       "id": 8,
-      "place": "Aboard Mephistopheles",
-      "content": "Yuri watched it indifferently before introducing herself."
+      "place": "Mephistopheles'in İçerisi",
+      "content": "Yuri, Kendini tanıtmadan önce etrafa gözgezdirdi ."
     },
     {
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "I’m Yuri, a former employee of the previous L Corp. I look forward to working with you."
+      "title": "8. Sınıf İşbitirici",
+      "content": "Ben Yuri, L Kurulu'un eski bir çalışanıyım. Sizinle çalışmak için sabırsızlanıyorum."
     },
     {
       "id": 10,
       "model": "단테",
-      "content": "<By L Corp, do you mean…>"
+      "content": "< L Kurulu, derken…>"
     },
     {
       "id": 11,
@@ -67,7 +67,7 @@
     {
       "id": 12,
       "model": "파우스트",
-      "content": "That’s right, we will explore the former branch facilities of Lobotomy Corporation—also called the old L Corp."
+      "content": "Evet, bizim görevimiz eski Lobotomy Kurulu ,eski L Kurulu da diyebilirsiniz, şubelerine yolculuk etmek."
     },
     {
       "id": 13,
@@ -92,12 +92,12 @@
     {
       "id": 17,
       "model": "파우스트",
-      "content": "Not “monsters”, Abnormalities. The rumors are true, either way. But there are more important matters."
+      "content": "*Canavarlar* değil, Anomaliler. Dedikodular doğru Amma velakin, şimdi daha elzem işlerimiz var."
     },
     {
       "id": 18,
       "model": "파우스트",
-      "content": "In the deepest reaches of these branches are neoplastic plantlike growths holding the essence of L Corp’s technology."
+      "content": "Bu şubelerde neoplastik bitkisel ."
     },
     {
       "id": 19,
@@ -193,7 +193,7 @@
       "id": 39,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "8. Sınıf İşbitirici",
       "content": "For now… I’m just a contract worker."
     },
     {
@@ -210,7 +210,7 @@
       "id": 42,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "8. Sınıf İşbitirici",
       "content": "…My contracts might get extended if I return with results."
     },
     {
