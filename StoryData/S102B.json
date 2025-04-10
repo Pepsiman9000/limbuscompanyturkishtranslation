@@ -32,7 +32,7 @@
     },
     {
       "id": 6,
-      "content": "Vergilius Ryōshū'ya ,sigarasını yeni yakmıştı, nazar ettiksen sonra..."
+      "content": "Vergilius Ryōshū'ya ,sigarasını yeni yakmıştı, nazar eyledi..."
     },
     {
       "id": 7,
@@ -51,12 +51,12 @@
     },
     {
       "id": 10,
-      "content": "Sükunet, gene Otobüse çökmüştü."
+      "content": "Otobüs iyice sessizleşmişti."
     },
     {
       "id": 11,
       "model": "베르길리우스",
-      "content": "Bir saniye, Bu kadar sessiz olmamalı. Motorun sesi nerde?"
+      "content": "Bir saniye, Bu kadar sessiz olmamalı. Motor?"
     },
     {
       "id": 12,
@@ -71,30 +71,30 @@
     {
       "id": 14,
       "model": "베르길리우스",
-      "content": "Güzel. We could use something to lift the mood."
+      "content": "Güzel. biraz eğlence hepimize iyi gelicek."
     },
     {
       "id": 15,
-      "content": "Are we dropping by a gas station?"
+      "content": "Yakıt almanın neresi eğlenceli olucak ki?"
     },
     {
       "id": 16,
-      "content": "The idea of Vergilius casually plugging a fuel nozzle into the bus like an average driver felt alien."
+      "content": "Hem Vergilius'un ahmet mehmet gibi pompanın başında yakıtın dolmasını bekleyecek olmasını düşünmek bile tuhaf geliyor insana."
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "A car needs fuel to run."
+      "content": "Her aracın yakıta ihtiyacı vardır."
     },
     {
       "id": 18,
       "model": "베르길리우스",
-      "content": "Charon, try flashing the headlights a bit. Like stage lights."
+      "content": "Charon, selektör at."
     },
     {
       "id": 19,
       "model": "카론",
-      "content": "Mhm, it’s dance timey."
+      "content": "Mhm, Parti vakti."
     },
     {
       "id": 20,
@@ -113,24 +113,24 @@
     },
     {
       "id": 23,
-      "content": "I could hear someone slam the bus outside."
+      "content": "Aracın dışından hiçte hoş olmayan sesler duyuluyordu."
     },
     {
       "id": 24,
       "teller": "Number-nuts Hooligan",
-      "title": "District 4 Backstreets",
+      "title": "4. Eyalet'in Arka Sokakları",
       "content": "Oi! Leave all ya stuff behind and get off! Y’got 30 seconds! Ten! Nine!"
     },
     {
       "id": 25,
       "teller": "Sharp Hooligan",
-      "title": "District 4 Backstreets",
+      "title": "4. Eyalet'in Arka Sokakları",
       "content": "Ey, you skipped twenty of ‘em."
     },
     {
       "id": 26,
       "teller": "Number-nuts Hooligan",
-      "title": "District 4 Backstreets",
+      "title": "4. Eyalet'in Arka Sokakları",
       "content": "Er… Uhh… Well say your prayers for the other 20!"
     },
     {
@@ -146,17 +146,17 @@
     {
       "id": 29,
       "model": "돈키호테",
-      "content": "How cowardly of them to ambush us! They must be villains without a shadow of a doubt!"
+      "content": "Pusu kurmaları ne kadar alçakca! Aynı Kutsal Cermenlerdeki *Hırsız Baronlar* gibi!"
     },
     {
       "id": 30,
       "model": "베르길리우스",
-      "content": "Alright, everyone off."
+      "content": "Haydi bakalım, herkes dışarı."
     },
     {
       "id": 31,
       "model": "베르길리우스",
-      "content": "And one more thing: we want them near death, not dead. Got it?"
+      "content": "Birde onları ölmeye yatmış istiyoruz, ölü değil. Anladınız mı?"
     }
   ]
 }
