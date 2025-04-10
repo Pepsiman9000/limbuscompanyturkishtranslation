@@ -8050,7 +8050,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 2 Burn ver"
+                  "desc": "[OnSucceedAttackTail] 2 Burn uygula"
                 }
               ]
             }
@@ -8068,7 +8068,7 @@
                   "desc": "[OnSucceedAttackTail] sıradaki tur 1 Fanatic Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 Burn ver"
+                  "desc": "[OnSucceedAttack] 2 Burn uygula"
                 }
               ]
             }
@@ -8086,7 +8086,7 @@
                   "desc": "[OnSucceedAttackTail] sıradaki tur 1 Fanatic Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 3 Burn ver"
+                  "desc": "[OnSucceedAttack] 3 Burn uygula"
                 }
               ]
             }
@@ -8100,27 +8100,27 @@
         {
           "level": 1,
           "name": "Vicdansız İcra",
-          "desc": "[WhenUse] 10 Sp Kaybet\nEğer bu Günahkar da Fanatic varsa, +5% hasar ver",
+          "desc": "[WhenUse] 10 Sp Kaybet\nEğer bu Günahkar da Fanatic varsa, +5% hasar uygula",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 1 Burn Ver"
+                  "desc": "[OnSucceedAttackTail] 1 Burn uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 1 Burn Ver"
+                  "desc": "[OnSucceedAttackTail] 1 Burn uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Bleed Ver"
+                  "desc": "[OnSucceedAttack] 2 Bleed uygula"
                 }
               ]
             }
@@ -8129,36 +8129,36 @@
         {
           "level": 2,
           "name": "Vicdansız İcra",
-          "desc": "[WhenUse] 10 Sp Kaybet\nEğer bu Günahkar da Fanatic varsa, +5% hasar ver",
+          "desc": "[WhenUse] 10 Sp Kaybet\nEğer bu Günahkar da Fanatic varsa, +5% hasar uygula",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 2 Burn Ver"
+                  "desc": "[OnSucceedAttackTail] 2 Burn uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 Burn Ver"
+                  "desc": "[OnSucceedAttack] 1 Burn uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 2 Burn Ver"
+                  "desc": "[OnSucceedAttackTail] 2 Burn uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 Burn Ver"
+                  "desc": "[OnSucceedAttack] 1 Burn uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] +1 Burn Count Ver"
+                  "desc": "[OnSucceedAttackTail] +1 Burn Count uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 Bleed Ver"
+                  "desc": "[OnSucceedAttack] 2 Bleed uygula"
                 }
               ]
             }
@@ -8185,7 +8185,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] eğer hedefte 5+ Bleed varsa, 5 Burn ver"
+                  "desc": "[OnSucceedAttack] eğer hedefte 5+ Bleed varsa, 5 Burn uygula"
                 },
                 {
                   "desc": "[EnemyKill] sıradaki tur 1 Darbe Gücü Artışı Kazan"
@@ -8210,7 +8210,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] eğer hedefte 5+ Bleed varsa, 7 Burn ver"
+                  "desc": "[OnSucceedAttack] eğer hedefte 5+ Bleed varsa, 7 Burn uygula"
                 },
                 {
                   "desc": "[EnemyKill] sıradaki tur 1 Darbe Gücü Artışı Kazan"
@@ -9105,10 +9105,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Batış ver"
+                  "desc": "[OnSucceedAttack] 1 Batış uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] +1 Batış Miktarı ver"
+                  "desc": "[OnSucceedAttackTail] +1 Batış Miktarı uygula"
                 }
               ]
             }
@@ -9124,10 +9124,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Batış ver"
+                  "desc": "[OnSucceedAttack] 2 Batış uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] +2 Batış Miktarı ver"
+                  "desc": "[OnSucceedAttackTail] +2 Batış Miktarı uygula"
                 }
               ]
             }
@@ -9143,10 +9143,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Batış ver"
+                  "desc": "[OnSucceedAttack] 2 Batış uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] +2 Batış Miktarı ver"
+                  "desc": "[OnSucceedAttackTail] +2 Batış Miktarı uygula"
                 }
               ]
             }
@@ -9166,14 +9166,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 2 Parçalanma ver"
+                  "desc": "[OnSucceedAttackTail] 2 Parçalanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 2 Parçalanma ver"
+                  "desc": "[OnSucceedAttackTail] 2 Parçalanma uygula"
                 }
               ]
             },
@@ -9195,21 +9195,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 3 Parçalanma ver"
+                  "desc": "[OnSucceedAttackTail] 3 Parçalanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 3 Parçalanma ver"
+                  "desc": "[OnSucceedAttackTail] 3 Parçalanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "+%20 hasar vermek için 5 Batış kullan"
+                  "desc": "+%20 hasar uygulamek için 5 Batış kullan"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Sarsıntı Patlaması tetikle"
@@ -9227,21 +9227,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 3 Parçalanma ver"
+                  "desc": "[OnSucceedAttackTail] 3 Parçalanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 3 Parçalanma ver"
+                  "desc": "[OnSucceedAttackTail] 3 Parçalanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "%20 hasar vermek için 5 Batış kullan"
+                  "desc": "%20 hasar uygulamek için 5 Batış kullan"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Sarsıntı Patlaması tetikle"
@@ -9263,7 +9263,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Sonraki tur 1 Felç ver"
+                  "desc": "[OnSucceedAttackTail] Sonraki tur 1 Felç uygula"
                 }
               ]
             },
@@ -9271,10 +9271,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] 5 Parçalanma uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttackTail] Sonraki tur 1 Kırılganlık uygula"
                 }
               ]
             }
@@ -9300,10 +9300,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Batış ver"
+                  "desc": "[OnSucceedAttack] 5 Batış uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 5 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] 5 Parçalanma uygula"
                 }
               ]
             }
@@ -9324,10 +9324,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Batış ver"
+                  "desc": "[OnSucceedAttack] 5 Batış uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 5 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] 5 Parçalanma uygula"
                 }
               ]
             }
@@ -9347,14 +9347,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Batma Miktarı ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Batma Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Batma Miktarı ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Batma Miktarı uygula"
                 }
               ]
             }
@@ -9369,14 +9369,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur +1 Batma Miktarı ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur +1 Batma Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur +1 Batma Miktarı ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur +1 Batma Miktarı uygula"
                 }
               ]
             }
@@ -9391,14 +9391,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur +1 Batma Miktarı ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur +1 Batma Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur +2 Batma Miktarı ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur +2 Batma Miktarı uygula"
                 }
               ]
             }
@@ -9417,21 +9417,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Batış ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Batış uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Batış ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Batış uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Batış ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Batış uygula"
                 }
               ]
             }
@@ -9445,21 +9445,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış uygula"
                 }
               ]
             }
@@ -9473,21 +9473,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış uygula"
                 }
               ]
             }
@@ -9506,14 +9506,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +1 Batma Miktarı ver"
+                  "desc": "[OnSucceedAttack] +1 Batma Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +1 Batma Miktarı ver"
+                  "desc": "[OnSucceedAttack] +1 Batma Miktarı uygula"
                 }
               ]
             },
@@ -9523,7 +9523,7 @@
                   "desc": "[OnSucceedAttack] Eğer hedef 6+ [Sinking]'a sahipse, Batış Tufanı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Eğer kullanıcı 10+ Sarsıntı Miktarı'na sahipse, verilen hasarın %30'unu bonus hasar olarak ver"
+                  "desc": "[OnSucceedAttack] Eğer kullanıcı 10+ Sarsıntı Miktarı'na sahipse, uygulailen hasarın %30'unu bonus hasar olarak uygula"
                 }
               ]
             }
@@ -9537,14 +9537,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +1 Batma Miktarı ver"
+                  "desc": "[OnSucceedAttack] +1 Batma Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +1 Batma Miktarı ver"
+                  "desc": "[OnSucceedAttack] +1 Batma Miktarı uygula"
                 }
               ]
             },
@@ -9554,7 +9554,7 @@
                   "desc": "[OnSucceedAttack] Eğer hedef 6+ [Sinking]'a sahipse, Batış Tufanı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Eğer kullanıcı 10+ Sarsıntı Miktarı'na sahipse, verilen hasarın %40'ını bonus hasar olarak ver"
+                  "desc": "[OnSucceedAttack] Eğer kullanıcı 10+ Sarsıntı Miktarı'na sahipse, uygulailen hasarın %40'ını bonus hasar olarak uygula"
                 }
               ]
             }
@@ -9568,7 +9568,7 @@
         {
           "level": 1,
           "name": "Saçılan Aroma",
-          "desc": "[OnSucceedEvade] 1 Batış ver",
+          "desc": "[OnSucceedEvade] 1 Batış uygula",
           "coinlist": [
             {}
           ]
