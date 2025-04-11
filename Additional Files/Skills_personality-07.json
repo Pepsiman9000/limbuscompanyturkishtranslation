@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Avı Takip Etme",
-          "desc": "[WhenUse] +2 Nefes Miktarı kazan \n[WhenUse] Sonraki el bu Yetenek Slotuna +2 Aggro kazan",
+          "desc": "[WhenUse] +2 Nefes Miktarı kazan \n[WhenUse] Sonraki el bu Yetenek Yuvasına +2 Aggro kazan",
           "coinlist": [
             {},
             {
@@ -21,7 +21,7 @@
         {
           "level": 2,
           "name": "Avı Takip Etme",
-          "desc": "[WhenUse] +3 Nefes Miktarı kazan\n[WhenUse] Sonraki el bu Yetenek Slotuna +3 Aggro kazan",
+          "desc": "[WhenUse] +3 Nefes Miktarı kazan\n[WhenUse] Sonraki el bu Yetenek Yuvasına +3 Aggro kazan",
           "coinlist": [
             {},
             {
@@ -36,7 +36,7 @@
         {
           "level": 4,
           "name": "Avı Takip Etme",
-          "desc": "[WhenUse] +4 Nefes Miktarı kazan\n[WhenUse] Sonraki el bu Yetenek Slotuna +5 Aggro kazan",
+          "desc": "[WhenUse] +4 Nefes Miktarı kazan\n[WhenUse] Sonraki el bu Yetenek Yuvasına +5 Aggro kazan",
           "coinlist": [
             {},
             {
@@ -56,7 +56,7 @@
         {
           "level": 1,
           "name": "Yakalama Zıpkını",
-          "desc": "[WhenUse] Sonraki el bu Yetenek Slotuna +2 Aggro kazan",
+          "desc": "[WhenUse] Sonraki el bu Yetenek Yuvasına +2 Aggro kazan",
           "coinlist": [
             {},
             {
@@ -72,7 +72,7 @@
         {
           "level": 2,
           "name": "Yakalama Zıpkını",
-          "desc": "[WhenUse] Sonraki el bu Yetenek Slotuna +3 Aggro kazan\n[WhenUse] Hedefteki her 3 Kanama için 1 Nefes kazan (En fazla 10)",
+          "desc": "[WhenUse] Sonraki el bu Yetenek Yuvasına +3 Aggro kazan\n[WhenUse] Hedefteki her 3 Kanama için 1 Nefes kazan (En fazla 10)",
           "coinlist": [
             {},
             {
@@ -88,7 +88,7 @@
         {
           "level": 4,
           "name": "Yakalama Zıpkını",
-          "desc": "[WhenUse] Sonraki el bu Yetenek Slotuna +5 Aggro kazan\n[WhenUse] Hedefteki her 3 Kanama için 1 Nefes kazan (En fazla 10)",
+          "desc": "[WhenUse] Sonraki el bu Yetenek Yuvasına +5 Aggro kazan\n[WhenUse] Hedefteki her 3 Kanama için 1 Nefes kazan (En fazla 10)",
           "coinlist": [
             {},
             {
@@ -190,7 +190,7 @@
         {
           "level": 1,
           "name": "Öç Alma",
-          "desc": "[WhenUse] Sonraki el bu Yetenek Slotuna +2 Aggro kazan\n[StartBattle] Günahkardaki her [Breath] için [DefenseUp] kazan (En fazla 10)",
+          "desc": "[WhenUse] Sonraki el bu Yetenek Yuvasına +2 Aggro kazan\n[StartBattle] Günahkardaki her [Breath] için [DefenseUp] kazan (En fazla 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -204,7 +204,7 @@
         {
           "level": 4,
           "name": "Öç Alma",
-          "desc": "[WhenUse] Sonraki el bu Yetenek Slotuna +5 Aggro kazan\n[StartBattle] Günahkardaki her [Breath] için [DefenseUp] kazan (En fazla 10)",
+          "desc": "[WhenUse] Sonraki el bu Yetenek Yuvasına +5 Aggro kazan\n[StartBattle] Günahkardaki her [Breath] için [DefenseUp] kazan (En fazla 10)",
           "coinlist": [
             {
               "coindescs": [
