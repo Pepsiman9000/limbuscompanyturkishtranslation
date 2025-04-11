@@ -5,14 +5,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stalk Prey",
-          "desc": "[WhenUse] Gain +2 Poise Count \n[WhenUse] Gain +2 Aggro to this Skill Slot next turn",
+          "name": "Avı Takip Etme",
+          "desc": "[WhenUse] +2 Nefes Miktarı kazan \n[WhenUse] Sonraki el bu Yetenek Slotuna +2 Aggro kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] Hedefe 2 Kanama uygula"
                 }
               ]
             }
@@ -20,14 +20,14 @@
         },
         {
           "level": 2,
-          "name": "Stalk Prey",
-          "desc": "[WhenUse] Gain +3 Poise Count\n[WhenUse] Gain +3 Aggro to this Skill Slot next turn",
+          "name": "Avı Takip Etme",
+          "desc": "[WhenUse] +3 Nefes Miktarı kazan\n[WhenUse] Sonraki el bu Yetenek Slotuna +3 Aggro kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Hedefe 2 Kanama uygula"
                 }
               ]
             }
@@ -35,14 +35,14 @@
         },
         {
           "level": 4,
-          "name": "Stalk Prey",
-          "desc": "[WhenUse] Gain +4 Poise Count\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn",
+          "name": "Avı Takip Etme",
+          "desc": "[WhenUse] +4 Nefes Miktarı kazan\n[WhenUse] Sonraki el bu Yetenek Slotuna +5 Aggro kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Hedefe 2 Kanama uygula"
                 }
               ]
             }
@@ -55,14 +55,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Snagharpoon",
-          "desc": "[WhenUse] Gain +2 Aggro to this Skill Slot next turn",
+          "name": "Yakalama Zıpkını",
+          "desc": "[WhenUse] Sonraki el bu Yetenek Slotuna +2 Aggro kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict Bleed Count equal to 1/4 of Bleed Potency on target (Max 10)"
+                  "desc": "[CriticalOnSucceedAttack] Hedefe, hedefteki Kanama Gücünün 1/4'ü kadar Kanama Miktarı uygula (En fazla 10)"
                 }
               ]
             },
@@ -71,14 +71,14 @@
         },
         {
           "level": 2,
-          "name": "Snagharpoon",
-          "desc": "[WhenUse] Gain +3 Aggro to this Skill Slot next turn\n[WhenUse] Gain 1 Poise for every 3 Bleed on target (Max 10)",
+          "name": "Yakalama Zıpkını",
+          "desc": "[WhenUse] Sonraki el bu Yetenek Slotuna +3 Aggro kazan\n[WhenUse] Hedefteki her 3 Kanama için 1 Nefes kazan (En fazla 10)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict Bleed Count equal to 1/4 of Bleed Potency on target (Max 10)"
+                  "desc": "[CriticalOnSucceedAttack] Hedefe, hedefteki Kanama Gücünün 1/4'ü kadar Kanama Miktarı uygula (En fazla 10)"
                 }
               ]
             },
@@ -87,14 +87,14 @@
         },
         {
           "level": 4,
-          "name": "Snagharpoon",
-          "desc": "[WhenUse] Gain +5 Aggro to this Skill Slot next turn\n[WhenUse] Gain 1 Poise for every 3 Bleed on target (Max 10)",
+          "name": "Yakalama Zıpkını",
+          "desc": "[WhenUse] Sonraki el bu Yetenek Slotuna +5 Aggro kazan\n[WhenUse] Hedefteki her 3 Kanama için 1 Nefes kazan (En fazla 10)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict Bleed Count equal to 1/3 of Bleed Potency on target (Max 10)"
+                  "desc": "[CriticalOnSucceedAttack] Hedefe, hedefteki Kanama Gücünün 1/3'ü kadar Kanama Miktarı uygula (En fazla 10)"
                 }
               ]
             },
@@ -108,26 +108,26 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Sever Knot",
-          "desc": "At 3+ Envy Reson., Clash Power +1\nAt 4+ Envy Reson., Coin Power +1",
+          "name": "Düğümü Koparma",
+          "desc": "3+ Envy Rezonansında, Çarpışma Gücü +1\n 4+ Envy Rezonansında, Para Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Hedefe 1 Kanama uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 50%- HP, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] 50% HP'nin altındayken, hedefe 1 Kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Hedefe 1 Kanama uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 50%- HP, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] 50% HP'nin altındayken, hedefe 1 Kanama uygula"
                 }
               ]
             },
@@ -135,7 +135,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] +30% Damage on Critical Hit"
+                  "desc": "[CriticalOnSucceedAttack] Kritik Vuruşta +30% daha fazla hasar uygula"
                 }
               ]
             }
@@ -143,32 +143,32 @@
         },
         {
           "level": 4,
-          "name": "Sever Knot",
-          "desc": "At 3+ Envy Reson., Clash Power +1\nAt 4+ Envy Reson., Coin Power +1\nAt 6+ Envy A-Reson., Coin Power +1",
+          "name": "Düğümü Koparma",
+          "desc": "3+ Envy Rezonansında, Çarpışma Gücü +1\n 4+ Envy Rezonansında, Para Gücü +1\nAt 6+ Envy A-Rezonansında, Para Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Hedefe 1 Kanama uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 75%- HP, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] 75% HP'nin altındayken, hedefe 1 Kanama uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 50%- HP, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] 50% HP'nin altındayken, hedefe 1 Kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Hedefe 1 Kanama uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 75%- HP, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] 75% HP'nin altındayken, hedefe 1 Kanama uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 50%- HP, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] 50% HP'nin altındayken, hedefe 1 Kanama uygula"
                 }
               ]
             },
@@ -176,7 +176,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] +50% Damage on Critical Hit"
+                  "desc": "[CriticalOnSucceedAttack] Kritik Vuruşta +50% daha fazla hasar uygula"
                 }
               ]
             }
@@ -189,8 +189,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Payback",
-          "desc": "[WhenUse] Gain +2 Aggro to this Skill Slot next turn\n[StartBattle] Gain [DefenseUp] for every [Breath] on self (Max 10)",
+          "name": "Öç Alma",
+          "desc": "[WhenUse] Sonraki el bu Yetenek Slotuna +2 Aggro kazan\n[StartBattle] Günahkardaki her [Breath] için [DefenseUp] kazan (En fazla 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -203,8 +203,8 @@
         },
         {
           "level": 4,
-          "name": "Payback",
-          "desc": "[WhenUse] Gain +5 Aggro to this Skill Slot next turn\n[StartBattle] Gain [DefenseUp] for every [Breath] on self (Max 10)",
+          "name": "Öç Alma",
+          "desc": "[WhenUse] Sonraki el bu Yetenek Slotuna +5 Aggro kazan\n[StartBattle] Günahkardaki her [Breath] için [DefenseUp] kazan (En fazla 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -676,7 +676,7 @@
         {
           "level": 2,
           "name": "Kelle Uçurma",
-          "desc": "[WhenUse] Eğer hedefte 6+ [Sinking] varsa, Çarpışma Gücü +1\n<style=\"highlight\">[Kullanıldığında] Eğer hedefte 3+ [Sinking] Miktarı varsa, Jeton Gücü +1</style>",
+          "desc": "[WhenUse] Eğer hedefte 6+ [Sinking] varsa, Çarpışma Gücü +1\n<style=\"highlight\">[Kullanıldığında] Eğer hedefte 3+ [Sinking] Miktarı varsa, Para Gücü +1</style>",
           "coinlist": [
             {},
             {
@@ -691,7 +691,7 @@
         {
           "level": 4,
           "name": "Kelle Uçurma",
-          "desc": "[WhenUse] Hedefte 6+ [Sinking] varsa, Çarpışma Gücü +1\n[WhenUse] <style=\"highlight\">Hedefteki her 3 [Sinking] Miktarı için Jeton Gücü +1 (En Fazla 2)</style>",
+          "desc": "[WhenUse] Hedefte 6+ [Sinking] varsa, Çarpışma Gücü +1\n[WhenUse] <style=\"highlight\">Hedefteki her 3 [Sinking] Miktarı için Para Gücü +1 (En Fazla 2)</style>",
           "coinlist": [
             {},
             {
@@ -711,7 +711,7 @@
         {
           "level": 1,
           "name": "Anma Töreni",
-          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, Jeton Gücü +1\n[EndSkill] Eğer bu Günahkarda [NightPathfinding] varsa, 10 SP kaybet",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, Para Gücü +1\n[EndSkill] Eğer bu Günahkarda [NightPathfinding] varsa, 10 SP kaybet",
           "coinlist": [
             {},
             {
@@ -736,7 +736,7 @@
         {
           "level": 2,
           "name": "Anma Töreni",
-          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, Jeton Gücü +1\n<style=\"highlight\">[WhenUse] Eğer bu Günahkarda 4+ [Coffin] varsa, Saldırı Ağırlığı +1\n[Kullanıldığında] Eğer bu Günahkarda [NightPathfinding] varsa, Saldırı Ağırlığı +1</style>\n[Kullanım Sonrası] Eğer bu Günahkarda [NightPathfinding] varsa, 10 SP kaybet",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, Para Gücü +1\n<style=\"highlight\">[WhenUse] Eğer bu Günahkarda 4+ [Coffin] varsa, Saldırı Ağırlığı +1\n[Kullanıldığında] Eğer bu Günahkarda [NightPathfinding] varsa, Saldırı Ağırlığı +1</style>\n[Kullanım Sonrası] Eğer bu Günahkarda [NightPathfinding] varsa, 10 SP kaybet",
           "coinlist": [
             {},
             {
@@ -761,7 +761,7 @@
         {
           "level": 4,
           "name": "Anma Töreni",
-          "desc": "[WhenUse] Hedefteki her 5 Sinking için <style=\"highlight\">Jeton Gücü +1 (max 2)</style>\n[Kullanıldığında] <style=\"highlight\">Günahkardaki her 4 [Coffin] için Saldırı Ağırlığı +1 (max 2)</style>\n[WhenUse] Eğer bu Günahkarda [NightPathfinding] varsa, Saldırı Ağırlığı +1\n[EndSkill] Eğer Günahkarda [Dullahan] varsa, 10 SP kaybet",
+          "desc": "[WhenUse] Hedefteki her 5 Sinking için <style=\"highlight\">Para Gücü +1 (max 2)</style>\n[Kullanıldığında] <style=\"highlight\">Günahkardaki her 4 [Coffin] için Saldırı Ağırlığı +1 (max 2)</style>\n[WhenUse] Eğer bu Günahkarda [NightPathfinding] varsa, Saldırı Ağırlığı +1\n[EndSkill] Eğer Günahkarda [Dullahan] varsa, 10 SP kaybet",
           "coinlist": [
             {},
             {
@@ -791,7 +791,7 @@
         {
           "level": 3,
           "name": "Ağıt",
-          "desc": "[WinDuel] 10 SP iyileştir\n[BeforeUse] Eğer Günahkarda [Nightpathfinding] varsa, Ağıt yerine 'Ağıt, Yas ve Umutsuzluk' 'u kullan\n[WhenUse] Hedefteki her 6 [Sinking] için Jeton Gücü +1 (max 2)\n[WhenUse] Günahkardaki her bir [Coffin] için +7% daha fazla hasar (max 70%)\n[WhenUse] 1 [Coffin] kazan\n[EndSkill] Eğer bu yetenek karşısındakini öldürürse, 2 [Coffin] kazan",
+          "desc": "[WinDuel] 10 SP iyileştir\n[BeforeUse] Eğer Günahkarda [Nightpathfinding] varsa, Ağıt yerine 'Ağıt, Yas ve Umutsuzluk' 'u kullan\n[WhenUse] Hedefteki her 6 [Sinking] için Para Gücü +1 (max 2)\n[WhenUse] Günahkardaki her bir [Coffin] için +7% daha fazla hasar (max 70%)\n[WhenUse] 1 [Coffin] kazan\n[EndSkill] Eğer bu yetenek karşısındakini öldürürse, 2 [Coffin] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -818,7 +818,7 @@
         {
           "level": 4,
           "name": "Ağıt",
-          "desc": "[WinDuel] 10 SP iyileştir\n[BeforeUse] Eğer Günahkarda [Nightpathfinding] varsa, Ağıt yerine 'Ağıt, Yas ve Umutsuzluk' 'u kullan\n[WhenUse] Hedefteki her 6 [Sinking] için Jeton Gücü +1 (max 2)\n[WhenUse] Günahkardaki her bir [Coffin] için +7% daha fazla hasar (max 70%)\n[WhenUse] 1 [Coffin] kazan\n[EndSkill] Eğer bu yetenek karşısındakini öldürürse, 2 [Coffin] kazan",
+          "desc": "[WinDuel] 10 SP iyileştir\n[BeforeUse] Eğer Günahkarda [Nightpathfinding] varsa, Ağıt yerine 'Ağıt, Yas ve Umutsuzluk' 'u kullan\n[WhenUse] Hedefteki her 6 [Sinking] için Para Gücü +1 (max 2)\n[WhenUse] Günahkardaki her bir [Coffin] için +7% daha fazla hasar (max 70%)\n[WhenUse] 1 [Coffin] kazan\n[EndSkill] Eğer bu yetenek karşısındakini öldürürse, 2 [Coffin] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -849,7 +849,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "O Dullahan...!",
+          "name": "Ey Dullahan...!",
           "desc": "[DuelCounter]\n[StartBattle] Eğer bu Günahkarda [NightPathfinding] yoksa, sonraki el 1 [NightPathfinding] kazan (her elde bir kere)\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
           "coinlist": [
             {},
@@ -864,8 +864,8 @@
         },
         {
           "level": 3,
-          "name": "O Dullahan...!",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Ağıt, Yas ve Umutsuzluk'u kullan. (Elde bir kere)</style>\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki el 1 [NightPathfinding] kazan (her elde bir kere)\n<style=\"highlight\">[WhenUse] Hedefte 6+ [Sinking] varsa, Jeton Gücü +1</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
+          "name": "Ey Dullahan...!",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Ağıt, Yas ve Umutsuzluk'u kullan. (Elde bir kere)</style>\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki el 1 [NightPathfinding] kazan (her elde bir kere)\n<style=\"highlight\">[WhenUse] Hedefte 6+ [Sinking] varsa, Para Gücü +1</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
           "coinlist": [
             {},
             {
@@ -879,8 +879,8 @@
         },
         {
           "level": 4,
-          "name": "O Dullahan...!",
-          "desc": "[DuelCounter]\n[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Yas, Matem ve Umutsuzluk'u kullan. (Elde bir kere)\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki el 1 [NightPathfinding] kazan (her elde bir kere)\n[WhenUse] Hedefteki her 3 [Sinking]için <style=\"highlight\">Jeton Gücü +1 (En Fazla 2)</style>\n<style=\"highlight\">[WinDuel] Sonraki el (# Çarpışma Sayısı/3) 'e eşit [AttackUp] kazan (En fazla 3, elde bir kere)</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
+          "name": "Ey Dullahan...!",
+          "desc": "[DuelCounter]\n[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Yas, Matem ve Umutsuzluk'u kullan. (Elde bir kere)\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki el 1 [NightPathfinding] kazan (her elde bir kere)\n[WhenUse] Hedefteki her 3 [Sinking]için <style=\"highlight\">Para Gücü +1 (En Fazla 2)</style>\n<style=\"highlight\">[WinDuel] Sonraki el (# Çarpışma Sayısı/3) 'e eşit [AttackUp] kazan (En fazla 3, elde bir kere)</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
           "coinlist": [
             {},
             {
@@ -938,7 +938,7 @@
                   "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">5</style> [Sinking] ve +2 [Sinking] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefin Stagger Threshold'unu, uygulailen hasarın <style=\"highlight\">30</style>% kadar arttır"
+                  "desc": "[OnSucceedAttack] Hedefin  Sersemleme Eşiği'ni, verilen hasarın <style=\"highlight\">30</style>% kadar arttır"
                 }
               ]
             },
@@ -970,23 +970,23 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking] and +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Hedefe 3 [Sinking] ve +1 [Sinking] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hedefin  Sersemleme Eşiği'ni, verilen hasarın 20%'si kadar arttır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max 15)"
+                  "desc": "[OnSucceedAttack] Hedefe, hedefteki [Sinking] kadar Hüzün Affinity hasar uygula (En fazla 15) "
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/3) Sinking on 2 random enemies (max 4)"
+                  "desc": "[EnemyKill] 2 rastgele düşmana (Öldürülen düşmandaki [Sinking]/3) kadar Batış uygula (En fazla 4)"
                 },
                 {
-                  "desc": "[EnemyKill] Heal 15 SP"
+                  "desc": "[EnemyKill] 15 SP iyileştir"
                 }
               ]
             }
@@ -1003,14 +1003,14 @@
                   "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">5</style> [Sinking] ve +2 [Sinking] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefin Stagger Threshold'unu, uygulailen hasarın <style=\"highlight\">30</style>% kadar arttır"
+                  "desc": "[OnSucceedAttack] Hedefin  Sersemleme Eşiği'ni, verilen hasarın <style=\"highlight\">30</style>%'u kadar arttır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe, hedefteki [Sinking] kadar Kasvet Affinity hasar uygula (En fazla <style=\"highlight\">30</style>)"
+                  "desc": "[OnSucceedAttack] Hedefe, hedefteki [Sinking] kadar Hüzün Affinity hasar uygula (En fazla <style=\"highlight\">30</style>)"
                 },
                 {
                   "desc": "[EnemyKill] 2 rastgele düşmana (Öldürülen düşmandaki [Sinking]/<style=\"highlight\">2</style>) kadar Sinking uygula (max <style=\"highlight\">8</style>)"
