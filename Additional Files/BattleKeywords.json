@@ -53,12 +53,12 @@
     },
     {
       "id": "Burn",
-      "name": "Burn",
+      "name": "Yanma",
       "desc": "At the end of the turn, take fixed damage by the effect’s Count, then halve it."
     },
     {
       "id": "Bleeding",
-      "name": "Bleed",
+      "name": "Kanama",
       "desc": "When attacking, take fixed damage equal to (Count)% of current HP, then halve it."
     },
     {
