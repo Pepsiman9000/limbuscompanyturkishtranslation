@@ -640,7 +640,7 @@
         {
           "level": 3,
           "name": "Blazing Strike",
-          "desc": "Coin Power +1 for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +5% more damage for every Wrath Reson. (max 30%)\n[EndSkill] Lose 15 SP",
+          "desc": "Coin Power +1 for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +5% more damage for every Wrath Rezon. (max 30%)\n[EndSkill] Lose 15 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -649,8 +649,8 @@
                   "summary": "Deal more damage based on [Combustion] on target"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ [Combustion], inflict 2 [Combustion] against (# of highest Reson.) random enemies",
-                  "summary": "[OnSucceedAttack] Inflict [Combustion] based on Reson."
+                  "desc": "[OnSucceedAttack] If target has 10+ [Combustion], inflict 2 [Combustion] against (# of highest Rezon.) random enemies",
+                  "summary": "[OnSucceedAttack] Inflict [Combustion] based on Rezon."
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
@@ -666,7 +666,7 @@
         {
           "level": 4,
           "name": "Blazing Strike",
-          "desc": "Coin Power +<style=\"highlight\">2</style> for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +<style=\"highlight\">10</style>% more damage for every Wrath Reson. (max <style=\"highlight\">60</style>%)\n<style=\"highlight\">If at 4+ highest Wrath A-Reson., deal +20% more damage for every Wrath Reson. instead (max 120%)</style>\n[EndSkill] Lose 15 SP",
+          "desc": "Coin Power +<style=\"highlight\">2</style> for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +<style=\"highlight\">10</style>% more damage for every Wrath Rezon. (max <style=\"highlight\">60</style>%)\n<style=\"highlight\">If at 4+ highest Wrath A-Rezon., deal +20% more damage for every Wrath Rezon. instead (max 120%)</style>\n[EndSkill] Lose 15 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -675,8 +675,8 @@
                   "summary": "Deal more damage based on [Combustion] on target"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ [Combustion], inflict 2 [Combustion] against (# of highest Reson.) random enemies\n<style=\"highlight\">- If the above Reson. was a Wrath Reson., inflict +1 [Combustion] Count as well</style>",
-                  "summary": "[OnSucceedAttack] Inflict [Combustion] based on Reson."
+                  "desc": "[OnSucceedAttack] If target has 10+ [Combustion], inflict 2 [Combustion] against (# of highest Rezon.) random enemies\n<style=\"highlight\">- If the above Rezon. was a Wrath Rezon., inflict +1 [Combustion] Count as well</style>",
+                  "summary": "[OnSucceedAttack] Inflict [Combustion] based on Rezon."
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
@@ -1279,7 +1279,7 @@
         {
           "level": 1,
           "name": "Faizli Geri Dönüş",
-          "desc": "[WhenUse] Bir sonraki tur bu Yetenek Yuvasına +2 [Aggro] kazan\n[StartBattle] Bu Yetenek (En yüksek Reson. / 3) Saldırı Seviyesi kazanır (max 2, aşağı yuvarla)",
+          "desc": "[WhenUse] Bir sonraki tur bu Yetenek Yuvasına +2 [Aggro] kazan\n[StartBattle] Bu Yetenek (En yüksek Rezon. / 3) Saldırı Seviyesi kazanır (max 2, aşağı yuvarla)",
           "coinlist": [
             {},
             {
@@ -1292,7 +1292,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "4+ Reson'da, (bu Yetenek de dahil), +10% daha fazla hasar vur."
+                  "desc": "4+ Rezon'da, (bu Yetenek de dahil), +10% daha fazla hasar vur."
                 }
               ]
             }
@@ -1301,7 +1301,7 @@
         {
           "level": 2,
           "name": "Faizli Geri Dönüş",
-          "desc": "<style=\"highlight\">Eğer rakipte 6+ [Laceration] varsa, Jeton Gücü +1</style>\n[WhenUse] Bir sonraki tur bu Yetenek Yuvasına +<style=\"highlight\">3</style> [Aggro] kazan\n[StartBattle] Bu Yetenek (en yüksek Reson. / <style=\"highlight\">2</style>) Saldırı Seviyesi  kazanır (max <style=\"highlight\">3</style>, aşağı yuvarla)",
+          "desc": "<style=\"highlight\">Eğer rakipte 6+ [Laceration] varsa, Jeton Gücü +1</style>\n[WhenUse] Bir sonraki tur bu Yetenek Yuvasına +<style=\"highlight\">3</style> [Aggro] kazan\n[StartBattle] Bu Yetenek (en yüksek Rezon. / <style=\"highlight\">2</style>) Saldırı Seviyesi  kazanır (max <style=\"highlight\">3</style>, aşağı yuvarla)",
           "coinlist": [
             {},
             {
@@ -1314,7 +1314,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "4+ Reson'da, (Bu Yetenek de dahil), <style=\"highlight\">+15%</style> daha fazla hasar vur"
+                  "desc": "4+ Rezon'da, (Bu Yetenek de dahil), <style=\"highlight\">+15%</style> daha fazla hasar vur"
                 }
               ]
             }
@@ -1323,7 +1323,7 @@
         {
           "level": 4,
           "name": "Faizli Geri Dönüş",
-          "desc": "Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] Bir sonraki tur bu Özellik Yuvasına +<style=\"highlight\">5</style> [Aggro] kazan\n[StartBattle] (en yüksek Reson. / 2) Saldırı Seviyesi kazan (max 3, aşağı yuvarla)\n<style=\"highlight\">- eğer bu Reson. bir A-Reson. içeriyor ise, yukarıdaki efektten kazanılan Saldırı Seviyesini ikiye katla</style>",
+          "desc": "Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] Bir sonraki tur bu Özellik Yuvasına +<style=\"highlight\">5</style> [Aggro] kazan\n[StartBattle] (en yüksek Rezon. / 2) Saldırı Seviyesi kazan (max 3, aşağı yuvarla)\n<style=\"highlight\">- eğer bu Rezon. bir A-Rezon. içeriyor ise, yukarıdaki efektten kazanılan Saldırı Seviyesini ikiye katla</style>",
           "coinlist": [
             {},
             {
@@ -1336,7 +1336,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">3</style>+ Reson'da, (bu Yetenek de dahil), <style=\"highlight\">+20%</style> daha fazla hasar vur"
+                  "desc": "<style=\"highlight\">3</style>+ Rezon'da, (bu Yetenek de dahil), <style=\"highlight\">+20%</style> daha fazla hasar vur"
                 }
               ]
             }
@@ -1350,7 +1350,7 @@
         {
           "level": 3,
           "name": "Alayını Yazın Ulan",
-          "desc": "Her 2 [VengeanceBookSinclair] başına +1% daha fazla hasar vur (max 15%)\nEğer rakipte 6+ [Laceration] varsa, Jeton Gücü +1\n[StartBattle] (en yüksek Reson. / 2) Saldırı Gücü kazan (max 3, aşağı yuvarla)",
+          "desc": "Her 2 [VengeanceBookSinclair] başına +1% daha fazla hasar vur (max 15%)\nEğer rakipte 6+ [Laceration] varsa, Jeton Gücü +1\n[StartBattle] (en yüksek Rezon. / 2) Saldırı Gücü kazan (max 3, aşağı yuvarla)",
           "coinlist": [
             {},
             {
@@ -1363,7 +1363,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Her Reson. başına +2.5% hasar vur (max 15%)"
+                  "desc": "Her Rezon. başına +2.5% hasar vur (max 15%)"
                 },
                 {
                   "desc": "Her 10 [VengeanceBookSinclair] başına +7.5% daha fazla hasar vur (max 22.5%)"
@@ -1375,7 +1375,7 @@
         {
           "level": 4,
           "name": "Alayını Yazın Ulan",
-          "desc": "Her 2 [VengeanceBookSinclair] başına +1% daha fazla hasar vur <style=\"highlight\">1</style> (max <style=\"highlight\">30%</style>)\n<style=\"highlight\">Rakip üzerindeki her 6 [Laceration] başına Jeton Gücü +1 (max 2)</style>\n[StartBattle] Bu yetenek (en yüksek Reson. / 2) Saldırı Gücü kazanır (max 3, aşağı yuvarla)\n<style=\"highlight\">- eğer bu Reson. bir A-Reson. içeriyor ise, yukarıdaki efektten kazanılan Saldırı Seviyesini ikiye katla</style>",
+          "desc": "Her 2 [VengeanceBookSinclair] başına +1% daha fazla hasar vur <style=\"highlight\">1</style> (max <style=\"highlight\">30%</style>)\n<style=\"highlight\">Rakip üzerindeki her 6 [Laceration] başına Jeton Gücü +1 (max 2)</style>\n[StartBattle] Bu yetenek (en yüksek Rezon. / 2) Saldırı Gücü kazanır (max 3, aşağı yuvarla)\n<style=\"highlight\">- eğer bu Rezon. bir A-Rezon. içeriyor ise, yukarıdaki efektten kazanılan Saldırı Seviyesini ikiye katla</style>",
           "coinlist": [
             {},
             {
@@ -1388,7 +1388,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "her Reson. başına <style=\"highlight\">+5%</style> daha fazla hasar vur (max <style=\"highlight\">30%</style>)"
+                  "desc": "her Rezon. başına <style=\"highlight\">+5%</style> daha fazla hasar vur (max <style=\"highlight\">30%</style>)"
                 },
                 {
                   "desc": "Her 10 [VengeanceBookSinclair] başına <style=\"highlight\">+15%</style> daha fazla hasar vur (max <style=\"highlight\">45%</style>)"
@@ -1426,7 +1426,7 @@
         {
           "level": 4,
           "name": "Doğu'da İdman",
-          "desc": "<style=\"highlight\">[StartBattle] Bu yetenek, Envy A-Reson'ların toplamına göre değişir.:\n- 4+ A-Reson. toplamında, karşı saldırı olarak 'Faizli Geri Dönüş'ü kullan\n- 4+ A-Reson. toplamında, karşı saldırı 'Faizli Geri Dönüş'ü kullan\n(En soldaki Yetenek Yuvasından başlar. Tur başına 2 kez aktive olur)</style>\n[StartBattle] Eksik HP'nin <style=\"highlight\">30%</style>unu Kalkan olarak kazan (turda bir kez)",
+          "desc": "<style=\"highlight\">[StartBattle] Bu yetenek, Haset A-Rezon'ların toplamına göre değişir.:\n- 4+ A-Rezon. toplamında, karşı saldırı olarak 'Faizli Geri Dönüş'ü kullan\n- 6+ A-Rezon. toplamında, karşı saldırı olarak 'Alayını Yazın Ulan'ı kullan\n(En soldaki Yetenek Yuvasından başlar. Tur başına 2 kez aktive olur)</style>\n[StartBattle] Eksik HP'nin <style=\"highlight\">30%</style>unu Kalkan olarak kazan (turda bir kez)",
           "coinlist": [
             {
               "coindescs": [
