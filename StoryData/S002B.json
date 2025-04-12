@@ -24,6 +24,7 @@
     {
       "id": 4,
       "model": "카론",
+	  "title": "Otobüs Şoförü",
       "content": "Günaydınlar. Ben otobüs şoförün Charon."
     },
     {
@@ -50,6 +51,7 @@
     {
       "id": 8,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Bana Vergilius diyebilirsin... Eğer dediklerimi anlayabiliyor isen, bir şekilde tepki ver, Dante."
     },
     {
@@ -59,11 +61,13 @@
     {
       "id": 10,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Güzel. Duyma yetilerin yerinde en azından. Sür bakalım, Charon."
     },
     {
       "id": 11,
       "model": "카론",
+	  "title": "Otobüs Şoförü",
       "content": "Kalkışa geçiyoruz. Vroom-vroom."
     },
     {
@@ -81,6 +85,7 @@
     {
       "id": 15,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Kim olduğunu hatırlıyor musun?"
     },
     {
@@ -90,6 +95,7 @@
     {
       "id": 17,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Hafızanı geri istediğini varsayıyorum. Haksız mıyım?"
     },
     {
@@ -99,21 +105,25 @@
     {
       "id": 19,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Elden bu kadarı geliyor. Sizin de böyle hareket bazlı bir iletişim yoluna başvurmanız için uygun bir zaman değil mi?"
     },
     {
       "id": 20,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Bu konuda ne düşünüyorsunuz, Bayan Faust?"
     },
     {
       "id": 21,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Faust bu teklifi kibarca reddedecek."
     },
     {
       "id": 22,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Çoğu zaman boyunca bedenlerimizde bile yeterli özgürlüğe sahip olacağımızdan şüpheliyim."
     },
     {
@@ -127,6 +137,7 @@
     {
       "id": 25,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Dante."
     },
     {
@@ -143,6 +154,7 @@
     {
       "id": 28,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Dante senin adın oluyor. Hafıza kaybın pek bir ağır olsa gerek."
     },
     {
@@ -155,6 +167,7 @@
     {
       "id": 30,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Zamanla alışacağına inanıyorum."
     },
     {
@@ -174,6 +187,7 @@
     {
       "id": 33,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Faust konuşmayı dilediklerini duyabiliyor."
     },
     {
@@ -186,11 +200,13 @@
     {
       "id": 35,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Tarihi geçmiş fikirler, kafanın değişmesinin bir yan etkisi olsa gerek."
     },
     {
       "id": 36,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Ses telleri veya dil gibi organların, iletişim için gerekli olduğunu düşünmek pek cahilce bir fikir."
     },
     {
@@ -198,16 +214,18 @@
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ben",
-      "content": "<Cahilce mi… Peki. Bu açıdan hiç bakmamıştım.>"
+      "content": "<Klişe mi… Peki. Bu açıdan hiç bakmamıştım.>"
     },
     {
       "id": 38,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "…Alıcı kişi sayısını bire indirebilir, veya herkesle aynı anda konuşabilirsin."
     },
     {
       "id": 39,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Ufak bir doğrulama yapmama izin ver: “Herkes” derken, sadece Günahkarlardan bahsediyorum."
     },
     {
@@ -220,11 +238,13 @@
     {
       "id": 41,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Arkanda oturan…"
     },
     {
       "id": 42,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Ve dakikalar önce senin adına savaşan kişiler"
     },
     {
@@ -248,21 +268,25 @@
     {
       "id": 46,
       "model": "베르길리우스",
-      "content": "Hepiniz sessiz olun. Hiç bir şey kuru gürültüden daha rahatsız edici değil."
+	  "title": "Rehber",
+      "content": "Hepiniz sessiz olun. Hiçbir şey kuru gürültüden daha rahatsız edici değil."
     },
     {
       "id": 47,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Hepiniz onunla az da olsa kaynaşsa iyi eder."
     },
     {
       "id": 48,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "En yakında oturan kişiden, birbirinizi tanıtmaya başlayabilirsiniz. Hadi bakalım."
     },
     {
       "id": 49,
       "model": "그레고르",
+	  "title": "Günahkâr #13",
       "content": "Neden her zaman önde olanlar önce gider ki… Bir şeyde başı çekmek beni hasta ediyor."
     },
     {
@@ -273,27 +297,32 @@
     {
       "id": 51,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Müdür  mü?>"
     },
     {
       "id": 52,
       "model": "그레고르",
+	  "title": "Günahkâr #13",
       "content": "Aynen, bu yüzden seninle tanışmak için çok meraklıydım, ayrıca..."
     },
     {
       "id": 53,
       "model": "그레고르",
+	  "title": "Günahkâr #13",
       "content": "Im… Hmm, tüh. kelimeleri ağzımda toplamak gerçekten de çok zor bir iş"
     },
     {
       "id": 54,
       "model": "그레고르",
+	  "title": "Günahkâr #13",
       "content": "Eski kafanla ne yaptın bilmiyorum, ama herkes gibi senin de anlatacak bir hikayen vardır."
     },
     {
       "id": 55,
       "model": "그레고르",
-      "content": "Ben Gregor. Bu yolda beraberiz, Mejaner bey."
+	  "title": "Günahkâr #13",
+      "content": "Ben Gregor. Bu yolda beraberiz, Müdür Dost."
     },
     {
       "id": 56
@@ -301,21 +330,25 @@
     {
       "id": 57,
       "model": "로쟈",
+	  "title": "Günahkâr #9",
       "content": "Greg! O sadece beyimiz veya patronumuz değil~ Bizi köpek gibi zengin edecek olan adam ile konuşuyorsun!"
     },
     {
       "id": 58,
       "model": "그레고르",
+	  "title": "Günahkâr #13",
       "content": "Greg…?"
     },
     {
       "id": 59,
       "model": "단테",
+	  "title": "Müdür"
       "content": "<Zengin mi? O ne alaka şimdi?>"
     },
     {
       "id": 60,
       "model": "로쟈",
+	  "title": "Günahkâr #9",
       "content": "Şimdi, şöyle başlasak olur... Dante! Sana isminle hitap etmemden rahatsız olma lütfen. Bana da Rodya diyebilirsin~"
     },
     {
@@ -324,11 +357,13 @@
     {
       "id": 62,
       "model": "로쟈",
+	  "title": "Günahkâr #9",
       "content": "Yani... Bana soracak olursan, müdürümüz olman için iyi bir neden muhakkak vardır."
     },
     {
       "id": 63,
       "model": "로쟈",
+	  "title": "Günahkâr #9",
       "content": "Çok eminim. Yuva'dayken çok büyük bir adamdın, değil mi? Eski alışkanlıkların geri geldiği vakit, Para içinde yüzmeye bir adım daha yaklaşacağız… Fuhu…"
     },
     {
@@ -338,21 +373,25 @@
     {
       "id": 65,
       "model": "로쟈",
+	  "title": "Günahkâr #9",
       "content": "Aman tanrım, çok fazla vakit harcıyorum. Hey, çocuk! Sıra sende!"
     },
     {
       "id": 66,
       "model": "싱클레어",
+	  "title": "Günahkâr #11",
       "content": "İyi günler…"
     },
     {
       "id": 67,
       "model": "로쟈",
+	  "title": "Günahkâr #9",
       "content": "Aw, ne sıkıcı~ Bu kadar olamaz ya?"
     },
     {
       "id": 68,
       "model": "싱클레어",
+	  "title": "Günahkâr #11",
       "content": "Oh! Benim adım Sinclair…"
     },
     {
@@ -365,21 +404,25 @@
     {
       "id": 71,
       "model": "싱클레어",
+	  "title": "Günahkâr #11",
       "content": "…D—Demem gereken başka bir şey var mı? Daha önce bir şirkette hiç çalışmamıştım…"
     },
     {
       "id": 72,
       "model": "로쟈",
+	  "title": "Günahkâr #9",
       "content": "Yani, işin aslını ileriki günlerde öğrenirsin."
     },
     {
       "id": 73,
       "model": "로쟈",
+	  "title": "Günahkâr #9",
       "content": "Peki o halde, sıra sende ucube dostum!"
     },
     {
       "id": 74,
       "model": "이상",
+	  "title": "Günahkâr #1",
       "content": "Benim adım Yi Sang."
     },
     {
@@ -388,11 +431,13 @@
     {
       "id": 76,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<…Bu kadar mı?>"
     },
     {
       "id": 77,
       "model": "이상",
+	  "title": "Günahkâr #1",
       "content": "Mhm. Yalan beyan yok."
     },
     {
@@ -406,11 +451,13 @@
     {
       "id": 80,
       "model": "이스마엘",
+	  "title": "Günahkâr #8",
       "content": "Haaa… İnanamıyorum yahu. Toplumun bir üyesi olmanın ilk şartı, kendini güzelce tanıtabilmek değil mi?"
     },
     {
       "id": 81,
       "model": "이스마엘",
+	  "title": "Günahkâr #8",
       "content": "Bana Ishmael diyin."
     },
     {
@@ -419,6 +466,7 @@
     {
       "id": 83,
       "model": "이스마엘",
+	  "title": "Günahkâr #8",
       "content": "Ceset parçalarımızı birleştirenin siz olduğunu duydum. Sizinle çalışmak için sabırsızlanıyorum."
     },
     {
@@ -432,12 +480,14 @@
     {
       "id": 86,
       "model": "히스클리프",
+	  "title": "Günahkâr #7",
       "content": "Hayal kırıklığına uğratıyorsam kusura bakma, Ortama ayak uydurmak hiç tınımda değildi de."
     },
     {
       "id": 87,
       "model": "히스클리프",
-      "content": "Adım Heathcliff. Hem insanlara hem de mala mülke çalışan profesyünel bir yıkıcıydım."
+	  "title": "Günahkâr #7",
+      "content": "Adım Heathcliff. Hem insanlara hem de mala mülke çalışan profesyonel bir yıkıcıydım."
     },
     {
       "id": 88
@@ -445,16 +495,19 @@
     {
       "id": 89,
       "model": "히스클리프",
+	  "title": "Günahkâr #7",
       "content": "Kimsenin emrine göre değil, onu bilesin. Sadece sinirimi bozan mahluklara yapıyorum."
     },
     {
       "id": 90,
       "model": "히스클리프",
+	  "title": "Günahkâr #7",
       "content": "Yani dikkat etsen iyi edersin."
     },
     {
       "id": 91,
       "model": "히스클리프",
+	  "title": "Günahkâr #7",
       "content": "Patronluk taslamaktan başka vasfı olmayan kendini beğenmişlere fena alerjim olur."
     },
     {
@@ -464,6 +517,7 @@
     {
       "id": 93,
       "model": "돈키호테",
+	  "title": "Günahkâr #3",
       "content": "Nihayet konuşma sırası bende! Bendeniz Don Quixote!"
     },
     {
@@ -472,41 +526,49 @@
     {
       "id": 95,
       "model": "돈키호테",
-      "content": "Sizin ile yan yana hayallerine koşacak bir İşçözenim. Sizinle tanıştığıma müteşekkirim."
+	  "title": "Günahkâr #3",
+      "content": "Sizin ile yan yana hayallerine koşacak bir İşbitiriciyim. Sizinle tanıştığıma müteşekkirim."
     },
     {
       "id": 96,
       "model": "단테",
-      "content": "<İşçözen mi…? Zamanında haşır neşir olduğum bir terime benziyor…>"
+	  "title": "Müdür",
+      "content": "<İşbitirici mi…? Zamanında haşır neşir olduğum bir terime benziyor…>"
     },
     {
       "id": 97,
       "model": "돈키호테",
-      "content": "Ne olduğunu mu bilmek istiyorsunuz? Sorunuzun cevabı bende! İşçözenler Şehir'in koruyucularıdır nitekim!"
+	  "title": "Günahkâr #3",
+      "content": "Ne olduğunu mu bilmek istiyorsunuz? Sorunuzun cevabı bende! İşbitiriciler Şehir'in koruyucularıdır nitekim!"
     },
     {
       "id": 98,
       "model": "돈키호테",
+	  "title": "Günahkâr #3",
       "content": "Ah! Belki de Şehir'in ne olduğunu da unutmuşsunuzdur! Şeh—"
     },
     {
       "id": 99,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Kısa bir tanışma sürdüreceğinizi söylediğimi düşünüyordum."
     },
     {
       "id": 100,
       "model": "돈키호테",
+	  "title": "Günahkâr #3",
       "content": "Ih…"
     },
     {
       "id": 101,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Sakın ikileteyim deme. Sıradaki."
     },
     {
       "id": 102,
       "model": "홍루",
+	  "title": "Günahkâr #6",
       "content": "Benim adım Hong Lu. Umarım iyi anlaşabiliriz."
     },
     {
@@ -515,21 +577,25 @@
     {
       "id": 104,
       "model": "홍루",
-      "content": "Woah! Ne kadar da büyüleyici bir kafan var! Sanıyorum ki bu aralar popüler bir model, ha?"
+	  "title": "Günahkâr #6",
+      "content": "Vay! Ne kadar da büyüleyici bir kafan var! Sanıyorum ki bu aralar popüler bir model, ha?"
     },
     {
       "id": 105,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Hayır, bu kozmetik bir şey değil…>"
     },
     {
       "id": 106,
       "model": "홍루",
+	  "title": "Günahkâr #6",
       "content": "Ama bu, beni çok da ilgilendirmiyor."
     },
     {
       "id": 107,
       "model": "히스클리프",
+	  "title": "Günahkâr #7",
       "content": "…Senin sorunun ne be?"
     },
     {
@@ -543,6 +609,7 @@
     {
       "id": 110,
       "model": "료슈",
+	  "title": "Günahkâr #4",
       "content": "Ryōshū."
     },
     {
@@ -551,11 +618,13 @@
     {
       "id": 112,
       "model": "료슈",
+	  "title": "Günahkâr #4",
       "content": "Ryōshtuğuma memnun oldum.."
     },
     {
       "id": 113,
       "model": "료슈",
+	  "title": "Günahkâr #4",
       "content": "…Pfht."
     },
     {
@@ -565,6 +634,7 @@
     {
       "id": 115,
       "model": "뫼르소",
+	  "title": "Günahkâr #5",
       "content": "Meursault. Lütfen bana böyle hitap edin."
     },
     {
@@ -573,21 +643,25 @@
     {
       "id": 117,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Pek bir kibarsın.>"
     },
     {
       "id": 118,
       "model": "뫼르소",
+	  "title": "Günahkâr #5",
       "content": "Bu özel bir muamele değil. Yalnızca normal davranıyorum."
     },
     {
       "id": 119,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Çok memnun oldum. Mersi.>"
     },
     {
       "id": 120,
       "model": "뫼르소",
+	  "title": "Günahkâr #5",
       "content": "Evet."
     },
     {
@@ -597,6 +671,7 @@
     {
       "id": 122,
       "model": "오티스",
+	  "title": "Günahkâr #12",
       "content": "……"
     },
     {
@@ -606,6 +681,7 @@
     {
       "id": 124,
       "model": "오티스",
+	  "title": "Günahkâr #12",
       "content": "Ben…"
     },
     {
@@ -615,11 +691,13 @@
     {
       "id": 126,
       "model": "오티스",
+	  "title": "Günahkâr #12",
       "content": "Lütfen, Müdürümü asla ayaklarıma kapatmazdım.."
     },
     {
       "id": 127,
       "model": "오티스",
+	  "title": "Günahkâr #12",
       "content": "Benim adım Outis. Önceki kabalığımdan dolayı sizden özür dilemek isterim."
     },
     {
@@ -628,46 +706,55 @@
     {
       "id": 129,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Kabalık mı…?>"
     },
     {
       "id": 130,
       "model": "오티스",
+	  "title": "Günahkâr #12",
       "content": "Haha, ah, lütfen. Cömertliğiniz beni alçakgönüllü ediyor."
     },
     {
       "id": 131,
       "model": "오티스",
+	  "title": "Günahkâr #12",
       "content": "İlk bakışta sizde bizi yönetecek gücün olduğunu biliyordum."
     },
     {
       "id": 132,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<…Ha? Pardon?>"
     },
     {
       "id": 133,
       "model": "오티스",
+	  "title": "Günahkâr #12",
       "content": "Çoğu insan bir karşılaşma sonucu kargaşa yaratırken..."
     },
     {
       "id": 134,
       "model": "오티스",
+	  "title": "Günahkâr #12",
       "content": "Bazıları kafa kafaya verip bu işten bir ortak pay çıkarabilir."
     },
     {
       "id": 135,
       "model": "오티스",
+	  "title": "Günahkâr #12",
       "content": "Bu, bir bıçak ve bileme taşı arasındaki ilişkiyle kıyaslanabilir."
     },
     {
       "id": 136,
       "model": "오티스",
+	  "title": "Günahkâr #12",
       "content": "Söz veriyorum ki zatıalinize rakipsiz bir biçimde hizmet edeceğim, Müdür Paşa. Kılıcım, sizin kuşanmanız içindir."
     },
     {
       "id": 137,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Bu gerçekten de rahatlatıcı… Teşekkürler.>"
     },
     {
@@ -677,6 +764,7 @@
     {
       "id": 139,
       "model": "이스마엘",
+	  "title": "Günahkâr #8",
       "content": "Ona yerde yatan bir ölü muamelesi yaptıktan hemen sonra, böylesine gür ve inançlı bir şekilde onu övmen gerçekten de çok şaşırtıcı."
     },
     {
@@ -686,6 +774,7 @@
     {
       "id": 141,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Görünen o ki, son sırada ben varum. Adım Faust."
     },
     {
@@ -694,61 +783,73 @@
     {
       "id": 143,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Yollarınız kesiştiği için kendini şanslı hissetmen gereken bir dahi."
     },
     {
       "id": 144,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Mmh…>"
     },
     {
       "id": 145,
       "model": "파우스트",
-      "content": "İkna olmamıl gibisin, Dante."
+	  "title": "Günahkâr #2",
+      "content": "İkna olmamış gibisin, Dante."
     },
     {
       "id": 146,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Hiç sorun değil. Vakti gelince öğrenmiş olacaksın."
     },
     {
       "id": 147,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Neyi öğrenmiş olacağım…?>"
     },
     {
       "id": 148,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Faust'un sahiden de bir dahi olduğunu."
     },
     {
       "id": 149,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Bir atasözünde demişler ki, Karşıdaki alıcı, sesi duymadığı sürece söylenen hiç bir şey doğruluk niteliği taşımaz."
     },
     {
       "id": 150,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Pekala…>"
     },
     {
       "id": 151,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Tamam, bu kadar yeter."
     },
     {
       "id": 152,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Dante, yeni işini anlatmama izin ver."
     },
     {
       "id": 153,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Şey… müdür olma işi mi?>"
     },
     {
       "id": 154,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Anlatacağınız işin bir müdür olmak veya olmamak olduğunu soruyor."
     },
     {
@@ -758,76 +859,91 @@
     {
       "id": 156,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Doğrudur, Müdür Dante. Sana kendini tanıtmış olan on iki Günahkar ile Inferno'ya doğru bir yolculuk yapacaksın."
     },
     {
       "id": 157,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Inferno…? Neden oraya gidiyorum ki ben?>"
     },
     {
       "id": 158,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Neden Inferno'ya gitmesi gerektiğini soruyor."
     },
     {
       "id": 159,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Hmm… Şöyle diyelim: Yolun sonunda büyük bir hazine seni bekliyor, bu seni ikna eder mi?"
     },
     {
       "id": 160,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Şey... Daha önceden bir hazine avcısı olduğumu mu ima etmeye çalışıyorsun?>"
     },
     {
       "id": 161,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Seni pek anlamışa benzemiyor."
     },
     {
       "id": 162,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Anlayışını soran kimse olmadı, Dante. Ne anlayışını, ne de bu işe olan inancını."
     },
     {
       "id": 163,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Eski kafanı ve hafızanı geri kazanmak istiyorsan beni dinlemek zorundasın."
     },
     {
       "id": 164,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Yani... Geri almayı tabii ki istiyorum, fakat…>"
     },
     {
       "id": 165,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Çekingen davranıyor."
     },
     {
       "id": 166,
       "model": "베르길리우스",
-      "content": "Bayan Faust, Dante işbirliğine yanaşmaz ise napacağın? Bu beklediğimiz bir senaryo değildi."
+	  "title": "Rehber",
+      "content": "Bayan Faust, Dante işbirliğine yanaşmaz ise napacağız? Bu beklediğimiz bir senaryo değildi."
     },
     {
       "id": 167,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Bu imkansız. Faust her ihtimali göz önüne alıyor."
     },
     {
       "id": 168,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Dante, tüm görevlerini tamamladığın zaman…"
     },
     {
       "id": 169,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "*Amacınına ulaşabilirsin*."
     },
     {
       "id": 170,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Bu kadarına söz verebilirim."
     },
     {
@@ -841,56 +957,67 @@
     {
       "id": 173,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Bak? Başını sallıyor."
     },
     {
       "id": 174,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Güzel. O halde devam edebiliriz."
     },
     {
       "id": 175,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Bu arada, Charon, otobüs neden hareket etmiyor? Uyukluyor muydun?"
     },
     {
       "id": 176,
       "model": "카론",
-      "content": "Bir otobüs Şoförü sadece dinlenme yerlerinde uyuklar, Verg."
+	  "title": "Otobüs Şoförü",
+      "content": "Bir otobüs şoförü sadece dinlenme yerlerinde uyuklar, Verg."
     },
     {
       "id": 177,
       "model": "카론",
+	  "title": "Otobüs Şoförü",
       "content": "Mephi'nin önünde garip garip elemanlar birikti."
     },
     {
       "id": 178,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Demedim mi ben, Charon. Otobüse bir şey olursa, direkt olarak bana haber vermen gerek."
     },
     {
       "id": 179,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Mephi? O kim ki?>"
     },
     {
       "id": 180,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Mephistopheles. Otobüsün ve otobüsü çalıştıran motorun adı."
     },
     {
       "id": 181,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "…Ve Faust'un Magnum Opus'u."
     },
     {
       "id": 182,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Inferno boyunca bizi taşıyabilecek, ideal bir taşıt."
     },
     {
       "id": 183,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Sence de öyle değil mi, Dante?"
     },
     {
@@ -900,56 +1027,67 @@
     {
       "id": 185,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Görünüşe bakılırsa, Arka Sokaklar'da yaşıyan bir grup fareden fazlası değiller."
     },
     {
       "id": 186,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Tam da zamanı geldi, Dante. Liderliğini test edebilmemiz için biçilmiş kaftan."
     },
     {
       "id": 187,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Dante, İlk savaşımız esnasında bir çok detayı es geçmiştim."
     },
     {
       "id": 188,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Nitekim vaktimiz oldukça kısıtlıydı."
     },
     {
       "id": 189,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Fakat, stratejini iyileştirmek isen gittiğimiz her yerde tarumar edilmekten kurtulamayacağız."
     },
     {
       "id": 190,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Ve bunun yüzünden de sürekli bizi diriltmenin acısını çekmen gerekecek."
     },
     {
       "id": 191,
       "model": "단테",
+	  "title": "Müdür",
       "content": "<Acı… Diriltmek mi? Yani daha önceden yaşadığım şey…>"
     },
     {
       "id": 192,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "Evet, “Saati geriye sardığın” için hayata geri döndük."
     },
     {
       "id": 193,
       "model": "베르길리우스",
+	  "title": "Rehber",
       "content": "Bu kadarına gerek olduğunu sanmıyorum, Bayan Faust."
     },
     {
       "id": 194,
       "model": "베르길리우스",
-      "content": "Sonra da konuşursunuz. Günahklarlar, inin bakalım otobüsten."
+	  "title": "Rehber",
+      "content": "Sonra da konuşursunuz. Günahkarlar, inin bakalım otobüsten."
     },
     {
       "id": 195,
       "model": "파우스트",
+	  "title": "Günahkâr #2",
       "content": "…Savaş konusunda detaya girmeme izin ver."
     }
   ]
