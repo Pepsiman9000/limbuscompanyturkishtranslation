@@ -2,49 +2,49 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Entryway",
-      "content": "Gregor lights his cigarette and takes a drag, followed by smoke streaming out from his mouth."
+      "place": "Eyalet 4 - LK Dal Girişi",
+      "content": "Gregor sigarasını yakıp bir yudum içine çekmiş, ve ağzından dumanlar çıkmıştı."
     },
     {
       "id": 1,
       "model": "이스마엘",
-      "content": "They’d have fared better than this if they got a job at a security company or something…"
+      "content": "Bir güvenlik şirketinde falan olsalardı çok daha iyi bir iş çıkartabilirlerdi."
     },
     {
       "id": 2,
       "model": "오티스",
-      "content": "They spent their entire lives as soldiers. The changes required for them to start a new life must have been overwhelming."
+      "content": "Tüm hayatlarını askerler olarak harcadılar. Hayatlarını değiştirmeleri için gereken yük inanılmaz yoğun olsa gerek."
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "You have no idea how stubbornly the stigma of a fallen Wing’s remnants will haunt you. If anyone’s generous enough to take you in, licking their boots is the least you can do…"
+      "content": "Düşen bir Kanat'ın izlerinin seni ne kadar peşleyeceğini küçümseme. Eğer seni işe alacak kadar iyi kalpliler ise, yapabileceğin en iyi şey onların ayakkabılarını parlatmak."
     },
     {
       "id": 4,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "Sınıf 8 İşçözen",
       "content": "……"
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "Oh… Sorry ‘bout that. Should’ve chosen my words carefully."
+      "content": "Oh… Pardon. Kelimelerimi daha dikkatli seçmeliydim."
     },
     {
       "id": 6,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "No, it’s fine. I’m sure things were rough with G Corp’s fall, too."
+      "title": "Sınıf 8 İşçözen",
+      "content": "Ah, sorun değil. Eminim ki G Kurulu'nun düşüşü de muhakkak sorun çıkartmıştır size..."
     },
     {
       "id": 7,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…The breaking of a Wing is a turbulent affair for many people."
+      "title": "Sınıf 8 İşçözen",
+      "content": "…Bir Kanat'ın çöküşü tabii ki herkes için zor zamanlardır."
     }
   ]
 }
