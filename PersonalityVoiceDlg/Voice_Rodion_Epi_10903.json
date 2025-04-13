@@ -3,82 +3,82 @@
     {
       "id": "get_10903_1",
       "desc": "Identity Acquisition",
-      "dlg": "Oh~ So it’s you? You’re the one who’ll be bossing me around?"
+      "dlg": "Oh~ Sen misin? Bana patronluk taslayacak herif?"
     },
     {
       "id": "lobby_morning_10903_1",
       "desc": "Morning Greeting",
-      "dlg": "You really woke up this late? Doesn’t your head have an alarm or something?"
+      "dlg": "Bu kadar geç mi uyandın? Kafanda bir zil falan yok mu?"
     },
     {
       "id": "lobby_noon_10903_1",
       "desc": "Afternoon Greeting",
-      "dlg": "Weather’s just right for some exercise. Are you gonna stand there and watch? Well, go right on ahead then."
+      "dlg": "Birazcık idman için hava tam yerinde. Orada durup izleyecek misin? Well, go right on ahead then."
     },
     {
       "id": "lobby_night_10903_1",
       "desc": "Evening Greeting",
-      "dlg": "A quiet night. Moon’s not too bright… Perfect for infiltration."
+      "dlg": "Sessiz bir gece. Ay’s çok da parlak değil… Sızma için fevkalade."
     },
     {
       "id": "smalltalk_10903_1",
       "desc": "Chatter #1",
-      "dlg": "You should be grateful that I joined you. You’re gabbing with a skilled worker here."
+      "dlg": "Sana katıldığıma minnettar olman lazım. Bur'da yetenekli bir işçiyle atışıyorsun."
     },
     {
       "id": "smalltalk_10903_2",
       "desc": "Chatter #2",
-      "dlg": "Gotta say~ The crew here is way below my class. Especially that one who screams all the time—ain’t that a sign of hysteria?"
+      "dlg": "Söylemem gerek~ Buradaki ekip benim sınıfımdan çoook daha düşük. Özellikle sürekli çığlık atan—o bir histeri belirtisi değil mi?"
     },
     {
       "id": "smalltalk_10903_3",
       "desc": "Chatter #3",
-      "dlg": "No need to make it long. Just tell me where to go and what to deal with. I’ll make sure to handle the rest."
+      "dlg": "Bu kadar uzatmaya gerek yok. Nereye gideceğimi ve ne yapacağımı söyle. Gerisini ben hallederim."
     },
     {
       "id": "smalltalk_10903_4",
       "desc": "Post-Uptie Chat 1",
-      "dlg": "I wasn’t this confident at the start. …I just had to become like this."
+      "dlg": "Başta bu kadar özgüvenli değildim. …Sonunda böyle bir kişiliğe büründüm."
     },
     {
       "id": "smalltalk_10903_5",
       "desc": "Post-Uptie Chat 2",
-      "dlg": "The Preliminary Observation Department’s damn expendable if we’re being real. They toss staff into danger all willy-nilly. No wonder it’s got five whole sections… Well, does pay well for what it’s worth."
+      "dlg": "Doğru konuşursak Ön Gözlem Departmanı gerçekten de kurbanlık koyun gibi. Personeli gelişigüzel tehlikeye atıyorlar. Beş ayrı bölümü olduğuna şaşmamalı... Neyse, en azından parası güzel."
     },
     {
       "id": "neglect_10903_1",
       "desc": "Idle",
-      "dlg": "Got a lot of free time on your hands, huh? Why don’tcha quit loitering and come help me document these instead, hun."
+      "dlg": "Elinde fazlaca boş vakit var, ha? Etrafta boş boş dolanmayı bırak da şu evraklarla bana yardım et, tatlım."
     },
     {
       "id": "gacksung_10903_1",
       "desc": "Uptying",
-      "dlg": "A promotion at last? What’s on the table? A raise? Transfer to the After Team? …Neither? Phooey."
+      "dlg": "Sonunda bir terfi mi? Eee, ne var şimdi? Maaşıma zam mı? Artçı Takıma transfer mi? …Hiçbiri mi? Hadi ama."
     },
     {
       "id": "formation_10903_1",
       "desc": "Deployment",
-      "dlg": "Ah, geez. Reporting in~"
+      "dlg": "Ah, Tanrım. Rapor veriyorum~"
     },
     {
       "id": "battleentry_10903_1",
       "desc": "Stage Entry",
-      "dlg": "Yeah, yeah. Heading to the mission area~ Rodya out!"
+      "dlg": "Tamam, tamam. Görev alanına yöneliyorum~ Tamam!"
     },
     {
       "id": "battle_select_10903_1",
       "desc": "Viewed in Battle",
-      "dlg": "Hm? Ya need something?"
+      "dlg": "Hm? Bir şeye mi ihtiyacın var?"
     },
     {
       "id": "battle_endcommand_10903_1",
       "desc": "Commencing Attack",
-      "dlg": "Rodya, engaging enemy forces!"
+      "dlg": "Rodya, düşman kuvvetleriyle temasta!"
     },
     {
       "id": "battle_enemy_break_10903_1",
       "desc": "Enemy Stagger",
-      "dlg": "Target’s incapacitated."
+      "dlg": "Hedef mahrum edildi."
     },
     {
       "id": "battle_break_10903_1",
@@ -88,37 +88,37 @@
     {
       "id": "battle_kill_10903_1",
       "desc": "Enemy Killed",
-      "dlg": "Target neutralization confirmed!"
+      "dlg": "Hedef öldürüldü!"
     },
     {
       "id": "battle_allydead_10903_1",
       "desc": "Ally Death",
-      "dlg": "Shoot, we’ve got an injured unit! …Or even worse?"
+      "dlg": "Hayda, yaralı bir birimimiz var! …Ya da beteri?"
     },
     {
       "id": "choice_success_p_10903_1",
       "desc": "Check Passed",
-      "dlg": "Had a gut feeling it was the red wire!"
+      "dlg": "İçimde kırmızı kablo diyen bir his vardı!"
     },
     {
       "id": "choice_fail_n_10903_1",
       "desc": "Check Failed",
-      "dlg": "Hmm… Was I supposed to cut the red wire…?"
+      "dlg": "Hmm… Kırmızı kabloyu mu kesmeliydim…?"
     },
     {
       "id": "battle_clear_10903_1",
       "desc": "Victory Cry",
-      "dlg": "Ahh, ahh. Observation complete~ Isn’t this too much of a cakewalk?"
+      "dlg": "Ahh, ahh. Gözlem tamamlandı~ İşler tıkır tıkır yürümüyor mu sence?"
     },
     {
       "id": "battle_clear_ex_10903_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "Mission objectives all met! Returning to base now~ Rodya out!"
+      "dlg": "Bütün görev gerekleri tamamlandı! Şimdi üsse dönüyoruz~ Tamam!"
     },
     {
       "id": "battle_defeat_10903_1",
       "desc": "Defeat Wail",
-      "dlg": "Pah… Mission failed. Tsk, talk about a downer."
+      "dlg": "Pah… Görev başarısız. Tsk, bi' de bu eksikti."
     }
   ]
 }
