@@ -52,11 +52,11 @@
       "id": 8,
       "model": "베르길리우스",
 	  "title": "Rehber",
-      "content": "Bana Vergilius diyebilirsin... Eğer dediklerimi anlayabiliyor isen, bir şekilde tepki ver, Dante."
+      "content": "Bana Vergilius diyebilirsin... Eğer dediklerimi anlayabiliyorsan, bir şekilde tepki ver, Dante."
     },
     {
       "id": 9,
-      "content": "Saldırganlık göstermediğine de göre, yavaşça başımı salladım."
+      "content": "Saldırganlık göstermediğini hissettiğimden, yavaşça başımı salladım."
     },
     {
       "id": 10,
@@ -76,7 +76,7 @@
     },
     {
       "id": 13,
-      "content": "Tam bu anda bir otobüsün içerisinde olduğumu anlamıştım."
+      "content": "Tam bu anda bir otobüsün içerisinde olduğumu anladım."
     },
     {
       "id": 14,
@@ -100,13 +100,13 @@
     },
     {
       "id": 18,
-      "content": "Başımı salladım. Gerçekten de aptalın teki gibi hissediyordum."
+      "content": "Onaylayarak başımı salladım. Gerçekten de aptalın teki gibi hissediyordum."
     },
     {
       "id": 19,
       "model": "베르길리우스",
 	  "title": "Rehber",
-      "content": "Elden bu kadarı geliyor. Sizin de böyle hareket bazlı bir iletişim yoluna başvurmanız için uygun bir zaman değil mi?"
+      "content": "Ne rahat. Sizin de böyle hareket bazlı bir iletişim yoluna başvurmanız için uygun bir zaman değil mi?"
     },
     {
       "id": 20,
@@ -124,7 +124,7 @@
       "id": 22,
       "model": "파우스트",
 	  "title": "Günahkâr #2",
-      "content": "Çoğu zaman boyunca bedenlerimizde bile yeterli özgürlüğe sahip olacağımızdan şüpheliyim."
+      "content": "Çoğu zaman bedenlerimiz üzerinde bile yeterli özgürlüğe sahip olacağımızdan şüpheliyim."
     },
     {
       "id": 23,
@@ -149,7 +149,7 @@
     },
     {
       "id": 27,
-      "content": "Tekrardan düşününce, kızıl gözlü adam da bana aynı şekilde sesleniyordu."
+      "content": "Tekrardan düşününce, kızıl gözlü adam da bana aynı şekilde seslenmişti."
     },
     {
       "id": 28,
@@ -214,7 +214,7 @@
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ben",
-      "content": "<Klişe mi… Peki. Bu açıdan hiç bakmamıştım.>"
+      "content": "<Cahilce mi… Peki. Bu açıdan hiç bakmamıştım.>"
     },
     {
       "id": 38,
@@ -233,7 +233,7 @@
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ben",
-      "content": "<Günahkarlar mı?>"
+      "content": "<Günahkârlar mı?>"
     },
     {
       "id": 41,
@@ -287,7 +287,7 @@
       "id": 49,
       "model": "그레고르",
 	  "title": "Günahkâr #13",
-      "content": "Neden her zaman önde olanlar önce gider ki… Bir şeyde başı çekmek beni hasta ediyor."
+      "content": "Neden her zaman önde olanlar önce gider ki… Her şeyde başı çekmek beni hasta ediyor."
     },
     {
       "id": 50,
@@ -298,7 +298,7 @@
       "id": 51,
       "model": "단테",
 	  "title": "Müdür",
-      "content": "<Müdür  mü?>"
+      "content": "<Müdür mü?>"
     },
     {
       "id": 52,
@@ -310,7 +310,7 @@
       "id": 53,
       "model": "그레고르",
 	  "title": "Günahkâr #13",
-      "content": "Im… Hmm, tüh. kelimeleri ağzımda toplamak gerçekten de çok zor bir iş"
+      "content": "Im… Hmm, tüh. Kelimeleri ağzımda toplamak gerçekten de çok zor bir iş"
     },
     {
       "id": 54,
@@ -322,7 +322,7 @@
       "id": 55,
       "model": "그레고르",
 	  "title": "Günahkâr #13",
-      "content": "Ben Gregor. Bu yolda beraberiz, Müdür Dost."
+      "content": "Ben Gregor. Bu yolda beraberiz, Müdür Ahbap."
     },
     {
       "id": 56
@@ -364,7 +364,7 @@
       "id": 63,
       "model": "로쟈",
 	  "title": "Günahkâr #9",
-      "content": "Çok eminim. Yuva'dayken çok büyük bir adamdın, değil mi? Eski alışkanlıkların geri geldiği vakit, Para içinde yüzmeye bir adım daha yaklaşacağız… Fuhu…"
+      "content": "Çok eminim. Yuvadayken çok büyük bir adamdın, değil mi? Eski alışkanlıkların geri geldiği vakit, para içinde yüzmeye bir adım daha yaklaşacağız… Fuhu…"
     },
     {
       "id": 64,
@@ -458,7 +458,7 @@
       "id": 81,
       "model": "이스마엘",
 	  "title": "Günahkâr #8",
-      "content": "Bana Ishmael diyin."
+      "content": "Bana Ishmael deyin."
     },
     {
       "id": 82
@@ -467,7 +467,7 @@
       "id": 83,
       "model": "이스마엘",
 	  "title": "Günahkâr #8",
-      "content": "Ceset parçalarımızı birleştirenin siz olduğunu duydum. Sizinle çalışmak için sabırsızlanıyorum."
+      "content": "Ceset parçalarımızı birleştirenin sen olduğunu duydum. Sizinle çalışmak için sabırsızlanıyorum."
     },
     {
       "id": 84,
@@ -481,13 +481,13 @@
       "id": 86,
       "model": "히스클리프",
 	  "title": "Günahkâr #7",
-      "content": "Hayal kırıklığına uğratıyorsam kusura bakma, Ortama ayak uydurmak hiç tınımda değildi de."
+      "content": "Hayal kırıklığına uğratıyorsam kusura bakma, ortama ayak uydurmak hiç tınımda değildi de."
     },
     {
       "id": 87,
       "model": "히스클리프",
 	  "title": "Günahkâr #7",
-      "content": "Adım Heathcliff. Hem insanlara hem de mala mülke çalışan profesyonel bir yıkıcıydım."
+      "content": "Adım Heathcliff. Profesyönel bir yıkıcı, mal ve mülk için."
     },
     {
       "id": 88
@@ -527,19 +527,19 @@
       "id": 95,
       "model": "돈키호테",
 	  "title": "Günahkâr #3",
-      "content": "Sizin ile yan yana hayallerine koşacak bir İşbitiriciyim. Sizinle tanıştığıma müteşekkirim."
+      "content": "Sizin ile yan yana hayallerine koşacak bir İşçözücüyüm. Sizinle tanıştığıma müteşekkirim."
     },
     {
       "id": 96,
       "model": "단테",
 	  "title": "Müdür",
-      "content": "<İşbitirici mi…? Zamanında haşır neşir olduğum bir terime benziyor…>"
+      "content": "<İşçözücü mü…? Zamanında haşır neşir olduğum bir terime benziyor…>"
     },
     {
       "id": 97,
       "model": "돈키호테",
 	  "title": "Günahkâr #3",
-      "content": "Ne olduğunu mu bilmek istiyorsunuz? Sorunuzun cevabı bende! İşbitiriciler Şehir'in koruyucularıdır nitekim!"
+      "content": "Ne olduğunu mu bilmek istiyorsunuz? Sorunuzun cevabı bende! İşçözücüler Şehir'in koruyucularıdır nitekim!"
     },
     {
       "id": 98,
@@ -569,7 +569,7 @@
       "id": 102,
       "model": "홍루",
 	  "title": "Günahkâr #6",
-      "content": "Benim adım Hong Lu. Umarım iyi anlaşabiliriz."
+      "content": "Benim adım Hong Lu. Umarım iyi anlaşabiliriz~"
     },
     {
       "id": 103
@@ -584,13 +584,13 @@
       "id": 105,
       "model": "단테",
 	  "title": "Müdür",
-      "content": "<Hayır, bu kozmetik bir şey değil…>"
+      "content": "<Hayır, bu kozmetik bir şey de->"
     },
     {
       "id": 106,
       "model": "홍루",
 	  "title": "Günahkâr #6",
-      "content": "Ama bu, beni çok da ilgilendirmiyor."
+      "content": "Beni çok da ilgilendirmiyor."
     },
     {
       "id": 107,
@@ -656,7 +656,7 @@
       "id": 119,
       "model": "단테",
 	  "title": "Müdür",
-      "content": "<Çok memnun oldum. Mersi.>"
+      "content": "<Çok memnun oldum. Merci.>"
     },
     {
       "id": 120,
@@ -666,7 +666,7 @@
     },
     {
       "id": 121,
-      "content": "Onda gerçekten de eksik olan bir şey var dı, ama o esnada tam bir tehşis koyamıyordum."
+      "content": "Onda gerçekten de eksik olan bir şey vardı, ama o esnada tam bir tehşis koyamıyordum."
     },
     {
       "id": 122,
@@ -713,7 +713,7 @@
       "id": 130,
       "model": "오티스",
 	  "title": "Günahkâr #12",
-      "content": "Haha, ah, lütfen. Cömertliğiniz beni alçakgönüllü ediyor."
+      "content": "Haha, ah, lütfen. Cömertliğiniz beni alçakgönüllü hissettiriyor."
     },
     {
       "id": 131,
@@ -749,7 +749,7 @@
       "id": 136,
       "model": "오티스",
 	  "title": "Günahkâr #12",
-      "content": "Söz veriyorum ki zatıalinize rakipsiz bir biçimde hizmet edeceğim, Müdür Paşa. Kılıcım, sizin kuşanmanız içindir."
+      "content": "Söz veriyorum ki zatıalinize rakipsiz bir biçimde hizmet edeceğim, İdari Müdür. Kılıcım, sizin kuşanmanız içindir."
     },
     {
       "id": 137,
@@ -775,7 +775,7 @@
       "id": 141,
       "model": "파우스트",
 	  "title": "Günahkâr #2",
-      "content": "Görünen o ki, son sırada ben varum. Adım Faust."
+      "content": "Görünen o ki, son sırada ben varım. Adım Faust."
     },
     {
       "id": 142
@@ -784,7 +784,7 @@
       "id": 143,
       "model": "파우스트",
 	  "title": "Günahkâr #2",
-      "content": "Yollarınız kesiştiği için kendini şanslı hissetmen gereken bir dahi."
+      "content": "Yolların kesiştiği için kendini şanslı hissetmen gereken bir dahi."
     },
     {
       "id": 144,
@@ -820,7 +820,7 @@
       "id": 149,
       "model": "파우스트",
 	  "title": "Günahkâr #2",
-      "content": "Bir atasözünde demişler ki, Karşıdaki alıcı, sesi duymadığı sürece söylenen hiç bir şey doğruluk niteliği taşımaz."
+      "content": "Bir atasözünde demişler ki, karşıdaki alıcı, sesi duymadığı sürece söylenen hiç bir şey doğruluk niteliği taşımaz."
     },
     {
       "id": 150,
@@ -854,25 +854,25 @@
     },
     {
       "id": 155,
-      "content": "Tekrardan düşününce, Günahkarlar aksine o kızıl gözlü adam gerçekten de beni anlamıyordu."
+      "content": "Tekrardan düşününce, Günahkârlar aksine o kızıl gözlü adam gerçekten de beni anlamıyordu."
     },
     {
       "id": 156,
       "model": "베르길리우스",
 	  "title": "Rehber",
-      "content": "Doğrudur, Müdür Dante. Sana kendini tanıtmış olan on iki Günahkar ile Inferno'ya doğru bir yolculuk yapacaksın."
+      "content": "Doğrudur, Müdür Dante. Sana kendini tanıtmış olan on iki Günahkâr ile Cehennem'e doğru bir yolculuk yapacaksın."
     },
     {
       "id": 157,
       "model": "단테",
 	  "title": "Müdür",
-      "content": "<Inferno…? Neden oraya gidiyorum ki ben?>"
+      "content": "<Cehennem…? Neden oraya gidiyorum ki ben?>"
     },
     {
       "id": 158,
       "model": "파우스트",
 	  "title": "Günahkâr #2",
-      "content": "Neden Inferno'ya gitmesi gerektiğini soruyor."
+      "content": "Neden Cehennem'e gitmesi gerektiğini soruyor."
     },
     {
       "id": 159,
@@ -938,7 +938,7 @@
       "id": 169,
       "model": "파우스트",
 	  "title": "Günahkâr #2",
-      "content": "*Amacınına ulaşabilirsin*."
+      "content": "*Amacına ulaşabilirsin*."
     },
     {
       "id": 170,
@@ -948,7 +948,7 @@
     },
     {
       "id": 171,
-      "content": "*Amaçıma ulaşmak*... Bu cümle kafamda sertçe yankılanıyordu, anılarım bana karşı erişilmez olsada... İç güdülerim mutlak bir tepki doğruyor."
+      "content": "*Amacıma ulaşmak*... Bu cümle kafamda sertçe yankılanıyordu, anılarım bana karşı erişilmez olsada... İç güdülerim mutlak bir tepki doğuruyor."
     },
     {
       "id": 172,
@@ -970,7 +970,7 @@
       "id": 175,
       "model": "베르길리우스",
 	  "title": "Rehber",
-      "content": "Bu arada, Charon, otobüs neden hareket etmiyor? Uyukluyor muydun?"
+      "content": "Bu arada; Charon, otobüs neden hareket etmiyor? Uyukluyor muydun?"
     },
     {
       "id": 176,
@@ -988,7 +988,7 @@
       "id": 178,
       "model": "베르길리우스",
 	  "title": "Rehber",
-      "content": "Demedim mi ben, Charon. Otobüse bir şey olursa, direkt olarak bana haber vermen gerek."
+      "content": "Demedim mi ben, Charon? Mephi'ye bir şey olursa, direkt olarak bana haber vermen gerek."
     },
     {
       "id": 179,
@@ -1012,7 +1012,7 @@
       "id": 182,
       "model": "베르길리우스",
 	  "title": "Rehber",
-      "content": "Inferno boyunca bizi taşıyabilecek, ideal bir taşıt."
+      "content": "Cehennem boyunca bizi taşıyabilecek, ideal bir taşıt."
     },
     {
       "id": 183,
@@ -1022,7 +1022,7 @@
     },
     {
       "id": 184,
-      "content": "Ne demeye çalıştığını anlamadığımdan, Ona cevap vermek yerine başımı cama doğrultup dışarı bakmaya başlamıştım."
+      "content": "Ne demeye çalıştığını anlamadığımdan, ona cevap vermek yerine başımı cama doğrultup dışarı bakmaya başlamıştım."
     },
     {
       "id": 185,
@@ -1040,7 +1040,7 @@
       "id": 187,
       "model": "파우스트",
 	  "title": "Günahkâr #2",
-      "content": "Dante, İlk savaşımız esnasında bir çok detayı es geçmiştim."
+      "content": "Dante, ilk savaşımız esnasında bir çok detayı es geçmiştim."
     },
     {
       "id": 188,
@@ -1052,7 +1052,7 @@
       "id": 189,
       "model": "파우스트",
 	  "title": "Günahkâr #2",
-      "content": "Fakat, stratejini iyileştirmek isen gittiğimiz her yerde tarumar edilmekten kurtulamayacağız."
+      "content": "Fakat, stratejini iyileştirmezsen gittiğimiz her yerde tarumar edilmekten kurtulamayacağız."
     },
     {
       "id": 190,
@@ -1082,7 +1082,7 @@
       "id": 194,
       "model": "베르길리우스",
 	  "title": "Rehber",
-      "content": "Sonra da konuşursunuz. Günahkarlar, inin bakalım otobüsten."
+      "content": "Sonra da konuşursunuz. Günahkârlar, inin bakalım otobüsten."
     },
     {
       "id": 195,
