@@ -30,7 +30,7 @@
     },
     {
       "id": "announcer_ally_dead_21_1",
-      "dlg": "… Seni unutmayacağım; tıpkı Müdür Efendi'nin de hatırlayacağı gibi. Cesurca savaştın. Dönüşünü heyecanla bekliyorum."
+      "dlg": "…Seni unutmayacağım; tıpkı Müdür Efendi'nin de hatırlayacağı gibi. \nCesurca savaştın. Dönüşünü heyecanla bekliyorum."
     },
     {
       "id": "announcer_enemy_adv_21_1",
@@ -46,11 +46,11 @@
     },
     {
       "id": "announcer_enemy_specialskill_21_1",
-      "dlg": "ıpkı Dulcinea'nın Festival finali için yaptığı titiz hazırlıklar gibi…\nAma zaten bunun geleceğini biliyordum, bu yüzden üzerimde pek etkisi olmadı. …İşte böyle! Böyle hilelere kapılmayacağız! Rica ediyorum, kendinizi buna göre hazırlığa koyun!"
+      "dlg": "Tıpkı Dulcinea'nın Festival finali için yaptığı titiz hazırlıklar gibi…\nAma zaten bunun geleceğini biliyordum, bu yüzden üzerimde pek etkisi olmadı. …İşte böyle! Böyle hilelere kapılmayacağız! Rica ediyorum, kendinizi buna göre hazırlığa koyun!"
     },
     {
       "id": "announcer_enemy_specialgimmick_21_1",
-      "dlg": "Hatırlıyor musun, Berber'in bol sürprizleriyle dolu numaralarını?!\nGözlerinizi iyice açarak dikkatlice bakınız, ve sakın böyle aldatmacaların sizi şaşırtmasına izin vermeyin!"
+      "dlg": "Hatırlıyor musun, Berber'in bol sürprizleriyle dolu numaralarını...\nGözlerinizi iyice açarak dikkatlice bakınız, ve sakın böyle aldatmacaların sizi şaşırtmasına izin vermeyin!"
     },
     {
       "id": "announcer_advatk_physical_21_1",
@@ -94,7 +94,7 @@
     },
     {
       "id": "announcer_round_takebigdmg_21_1",
-      "dlg": "A-Aşağlık\nAgh... Agh… Babam, o aptalı bir anda yok edebilirdi…"
+      "dlg": "A-Aşağlık\nAgh... Agh… Babam olsa, o aptalı bir anda yok ederdi…"
     },
     {
       "id": "announcer_round_takebigdmg_21_2",
@@ -114,7 +114,7 @@
     },
     {
       "id": "announcer_equip_21_1",
-      "dlg": "Hı hı! böyle bir kayda geçmeyi ne kadar kez düşlemiştim!Bütün sorumlulukları üstlenmeye tamamen hazırım!"
+      "dlg": "Hı hı! böyle bir kayda geçmeyi ne kadar kez düşlemiştim bilemezdin!\nBütün sorumlulukları üstlenmeye tamamen hazır ve nazırım!"
     }
   ]
 }
