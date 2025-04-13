@@ -2,124 +2,124 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Mephistopheles'in İçerisi",
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Umm, sorry to ask…"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Umm, sorduğum için özür dilerim…"
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "But if I have the map, how do you know what roads to take?"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Ama eğer harita bendeyse, hangi yoldan gideceğini nereden biliyorsun?"
     },
     {
       "id": 2,
-      "content": "Answerless, the bus keeps speeding anyway."
+      "content": "Cevap yok, otobüs hızlanmaya devam ediyor."
     },
     {
       "id": 3,
       "model": "카론",
-      "content": "We do have something to lead us…"
+      "content": "Bize yol gösterebilecek birşeyimiz var…"
     },
     {
       "id": 4,
       "model": "카론",
-      "content": "Intuition. Charon’s intuition."
+      "content": "Sezgi. Charon’un sezgisi."
     },
     {
       "id": 5,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Whaaat?!"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Neeee?!"
     },
     {
       "id": 6,
       "model": "카론",
-      "content": "Pinky-hair, explain why you keep rubbing that odd paper in Charon’s face."
+      "content": "Pembe saçlı, neden o yalan kağıdı Charon'un yüzüne sokmaya çalıştığını söyle."
     },
     {
       "id": 7,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Because you keep going in weird directions! Take a look at this map. Our destination is to the southeast of here…"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Çünkü sürekli saçma sapan yollara giriyorsun! Şu haritaya bir bak. Varmamız gereken yer buranın güneydoğusunda…"
     },
     {
       "id": 8,
-      "content": "Charon reluctantly gives the map a cursory glance, as she couldn’t ignore the thing right in front of her eyes."
+      "content": "Charon isteksizce kağıda üstünkörü bir bakış atar, gözlerinin önündeki şeyi yok sayamayacağını bilerek."
     },
     {
       "id": 9,
       "model": "카론",
-      "content": "Follow the heart. That’s where the true path lies."
+      "content": "Kalbi takip et. İşte doğru yol oradadır."
     },
     {
       "id": 10,
       "model": "돈키호테",
-      "content": "Hear, hear! We all must follow as our hearts lead!"
+      "content": "Dinle, dinle! Hepimiz kalplerimizin gösterdiği yolu takip etmeliyiz!"
     },
     {
       "id": 11,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…You’re just admitting that you can’t read a map."
+      "title": "8. Sınıf İşçözücü",
+      "content": "…Sadece haritayı okuyamadığını söylüyorsun."
     },
     {
       "id": 12,
       "model": "이스마엘",
-      "content": "You took the words right out of my mouth."
+      "content": "Kelimeleri ağzımdan aldın."
     },
     {
       "id": 13,
-      "content": "Yuri and Ishmael put a palm over their respective faces at the same time, almost like they were in sync."
+      "content": "Yuri ve Ishmael avuclarını yüzlerine koydular, neredeyse sanki senkronizelermiş gibi."
     },
     {
       "id": 14,
       "model": "로쟈",
-      "content": "Ooh! Did our driver make a new friend?"
+      "content": "Ooh! Sürücümüz yeni bir arkadaş mı edindi?"
     },
     {
       "id": 15,
       "model": "카론",
-      "content": "Pinky keeps on blabbing. I know the way."
+      "content": "Pembeli gevezelik edip duruyor. Yolu biliyorum."
     },
     {
       "id": 16,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "No, I mean, you’re going the wrong direction…"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Hayır, demek istediğim, yanlış yöne doğru gidiyorsun…"
     },
     {
       "id": 17,
       "model": "카론",
-      "content": "Look ahead, more obstacles. Do I vroom-vroom?"
+      "content": "İleri doğru bak, daha fazla barikat var. Vroom-Vroom'lamalı mıyım??"
     },
     {
       "id": 18,
       "model": "베르길리우스",
-      "content": "No, Charon. Wait one second."
+      "content": "Hayır, Charon. 1 saniye bekle."
     },
     {
       "id": 19,
       "teller": "Famished Hooligan",
       "title": "District 4 Backstreets",
-      "content": "Lookie! Nice bus you got there! Why don’tcha gimme a ride!"
+      "content": "Bakın! Güzel otobüsünüz varmış! Neden beni de bi bindirmiyonuz!"
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "…I guess Mephistopheles could use a helping of dessert."
+      "content": "…Yani Mephistopheles bi tatlıya hayır demez."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "Get on down… It needs to be fed just a bit more."
+      "content": "Aşağı inin… Biraz daha beslenmesi lazım."
     }
   ]
 }
