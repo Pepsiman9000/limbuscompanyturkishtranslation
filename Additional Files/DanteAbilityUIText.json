@@ -2,35 +2,35 @@
   "dataList": [
     {
       "id": "danteAbility_UIPopup_Title",
-      "content": "Select Sapling of Light Ability"
+      "content": "Işık Fidesi Yeteneğini Seç"
     },
     {
       "id": "danteAbility_UIPopup_Remain",
-      "content": "Remaining Activations"
+      "content": "Kalan Etkinleştirmeler"
     },
     {
       "id": "dnateAbiltiy_Unlock_GoldenBranch_Resonance",
-      "content": "Golden Bough Resonance"
+      "content": "Altın Bağ Rezonansı"
     },
     {
       "id": "tutorial_battle_danteAbility_title",
-      "content": "Sapling of Light Ability"
+      "content": "Işık Fidesi Yeteneğini"
     },
     {
       "id": "tutorial_battle_danteAbility_01_desc_01",
-      "content": "Select the Sapling of Light ability button on the top right."
+      "content": "Sağ üst köşedeki Işık Fidesi yeteneğini seç."
     },
     {
       "id": "tutorial_battle_danteAbility_02_desc_01",
-      "content": "Select the ability to use."
+      "content": "Kullanılacak Yeteneği Seç"
     },
     {
       "id": "tutorial_battle_danteAbility_03_desc_01",
-      "content": "Press the confirmation button to activate the Sapling of Light ability.\nSapling of Light can be used as long as there are remaining Activations.\nRemaining Activations are reset every day."
+      "content": "Işık Fidesi yeteneğini etkinleştirmek için onay butonuna basın.\nIşık Fidesi, hergün sadece bir kez etkinleştirilebilir. \nKalan etkinleştirmeler her gün sıfırlanır."
     },
     {
       "id": "ui_activated",
-      "content": "Activate"
+      "content": "Etkinleştir"
     }
   ]
 }
