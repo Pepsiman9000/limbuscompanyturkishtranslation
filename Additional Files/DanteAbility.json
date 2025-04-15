@@ -2,13 +2,13 @@
   "dataList": [
     {
       "id": 90101,
-      "desc": "- Targeting for all Skills will be reset.\n- Effects activated at Turn Start will not be updated.",
-      "rawDesc": "Halve the Speed of all enemies."
+      "desc": "- Tüm Yetenekler için hedeflemer sıfırlanır.\n- Tur Başında etkinleşen etkiler güncellenmez.",
+      "rawDesc": "Bütün Rakiplerin Hızını yarıya indirir."
     },
     {
       "id": 80101,
-      "desc": "- Resets any slotted E.G.O Skills for all characters, and targeting for all Skills will be reset.",
-      "rawDesc": "Slot in a single E.G.O Skill without consuming any E.G.O resources."
+      "desc": "- Tüm karakterler için, yerleştirilmiş olan E.G.O Yeteneklerini sıfırlanır ve tüm Yetenekler için hedeflemer sıfırlanır.",
+      "rawDesc": "Herhangi bir E.G.O kaynağı tüketmeden tek bir E.G.O Yeteneği yerleştir."
     }
   ]
 }
