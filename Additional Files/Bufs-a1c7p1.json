@@ -23,15 +23,15 @@
     },
     {
       "id": "BloodDinner",
-      "name": "Bloodfeast",
-      "desc": "- Max Value: 999\n- Stores all Bleed damage dealt in this zone\n- Resets when moving to a different zone\n- This value is shared by all characters\n- Among allies, if there is a higher Kindred who also consumes Bloodfeast in the same turn, this unit cannot consume Bloodfeast until that ally consumes it first.",
+      "name": "Kan Şöleni",
+      "desc": "- Maksimum Değer: 999\n- Bu savaşta verilen tüm Kanama hasarını depolar\n- Farklı bir bölgeye geçildiğinde sıfırlanır\n- Bu değer tüm birimler tarafından paylaşılır\n- aynı turda Kan Şöleni tüketen daha güçlü bir Soydaş varsa, bu birim o müttefik Kan Şöleni tükettikten sonra Kan Şöleni tüketebilir.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodDinner_Accumulation",
-      "name": "Bloodfeast Consumed",
-      "desc": "- Max Value: 999\n- Total Bloodfeast consumed in this Encounter: {0}",
+      "name": "Tüketilen Kan Şöleni",
+      "desc": "- Max Value: 999\n- Bu Karşılaşmada Tüketilen Toplam Kan Şöleni: {0}",
       "summary": "",
       "undefined": "-"
     },
