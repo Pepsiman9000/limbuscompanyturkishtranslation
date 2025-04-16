@@ -2,44 +2,44 @@
   "dataList": [
     {
       "id": "Enhancement",
-      "name": "Attack Power Up",
-      "desc": "Attack Skill Final Power +{0} for this turn.",
-      "summary": "ATK Skill Final Power +{0}",
+      "name": "Saldırı Gücü Artışı",
+      "desc": "Bu tur boyunca Saldırı Yeteneklerinin Final Gücü +{0}.",
+      "summary": "Saldırı Yeteneği Final Gücü +{0}",
       "undefined": "-"
     },
     {
       "id": "Agility",
-      "name": "Haste",
-      "desc": "Speed +{0} for this turn.",
-      "summary": "SPD +{0}",
+      "name": "Hızlanma",
+      "desc": "Bu tur boyunca Hız +{0}.",
+      "summary": "Hız +{0}",
       "undefined": "-"
     },
     {
       "id": "Endurance",
-      "name": "Defense Power Up",
-      "desc": "Defense Skill Final Power +{0} for this turn.",
-      "summary": "DEF Skill Final Power +{0}",
+      "name": "Defans Gücü Artışı",
+      "desc": "Bu tur boyunca Defans Yeteneklerinin Final Gücü +{0}.",
+      "summary": "Defans Yeteneği Final Gücü +{0}",
       "undefined": "-"
     },
     {
       "id": "Reduction",
-      "name": "Attack Power Down",
-      "desc": "Attack Skill Final Power -{0} for this turn.",
-      "summary": "ATK Skill Final Power -{0}",
+      "name": "Saldırı Gücü Düşüşü",
+      "desc": "Bu tur boyunca Saldırı Yeteneklerinin Final Gücü -{0}.",
+      "summary": "Saldırı Yeteneği Final Gücü -{0}",
       "undefined": "-"
     },
     {
       "id": "Binding",
-      "name": "Bind",
-      "desc": "Speed -{0} for this turn.",
-      "summary": "SPD -{0}",
+      "name": "Yavaşlama",
+      "desc": "Bu tur boyunca Hız -{0}.",
+      "summary": "Hız -{0}",
       "undefined": "-"
     },
     {
       "id": "Vulnerable",
-      "name": "Fragile",
-      "desc": "Take +{0}0% damage this turn. (Max 100%)",
-      "summary": "+{0}0% Damage Taken",
+      "name": "Kırılganlık",
+      "desc": "Bu tur boyunca alınan hasar +{0}0%. (Max 100%)",
+      "summary": "+{0}0% Alınan hasar",
       "undefined": "-"
     },
     {
@@ -105,57 +105,57 @@
     },
     {
       "id": "ResultEnhancement",
-      "name": "Power Up",
-      "desc": "Skill Final Power +{0} for this turn.",
-      "summary": "Skill Final Power +{0}"
+      "name": "Güc Artışı",
+      "desc": "bu tur boyunca Yetenek Final Gücü +{0}.",
+      "summary": "Yetenek Final Gücü +{0}"
     },
     {
       "id": "Protection",
-      "name": "Protection",
-      "desc": "Take -{0}0% damage this turn. (Max 100%)",
-      "summary": "-{0}0% Damage Taken"
+      "name": "Korunma",
+      "desc": "Bu tur boyunca alınan hasar -{0}0%. (Max 100%)",
+      "summary": "-{0}0% Alınan hasar"
     },
     {
       "id": "AttackDmgUp",
-      "name": "Damage Up",
-      "desc": "Deal +{0}0% damage with skills this turn. (Max 100%)",
-      "summary": "+{0}0% Damage Dealt"
+      "name": "Hasar Artışı",
+      "desc": "Bu tur boyunca Yeteneklerle +{0}0% daha fazla hasar vur. (Max 100%)",
+      "summary": "Vurulan hasar +{0}0%"
     },
     {
       "id": "DefenseUp",
-      "name": "Defense Level Up",
-      "desc": "Defense Level +{0} for this turn.",
-      "summary": "Defense Level +{0}"
+      "name": "Defans Seviyesi Artışı",
+      "desc": "Bu tur boyunca Defans Seviyesi +{0}.",
+      "summary": "Defans Seviyesi +{0}"
     },
     {
       "id": "PlusCoinValueUp",
-      "name": "Plus Coin Boost",
-      "desc": "Plus Coin Power +{0} for this turn.",
-      "summary": "Plus Coin Power +{0}"
+      "name": "Pozitif Jeton Gücü",
+      "desc": "Bu tur boyunca Pozitif Jeton Gücü +{0}.",
+      "summary": "Pozitif Jeton Gücü +{0}"
     },
     {
       "id": "MinusCoinValueUp",
-      "name": "Minus Coin Boost",
-      "desc": "Minus Coin Power +{0} for this turn.",
-      "summary": "Minus Coin Power +{0}"
+      "name": "Negatif Jeton Gücü",
+      "desc": "Bu tur boyunca Negatif Jeton Gücü +{0}.",
+      "summary": "Negatif Jeton Gücü +{0}"
     },
     {
       "id": "TimesCoinValueUp",
-      "name": "Multiply Coin Boost",
-      "desc": "Multiply Coin Power +{0} for this turn.",
-      "summary": "Multiply Coin Power +{0}"
+      "name": "Jeton Gücü Katlanışı",
+      "desc": "Bu tur boyunca Jeton Gücünü {0} ile katla.",
+      "summary": "Jeton Gücü Katlanışı +{0}"
     },
     {
       "id": "Disarming",
-      "name": "Defense Power Down",
-      "desc": "Defense Skill Final Power -{0} for this turn.",
-      "summary": "DEF Skill Final Power -{0}"
+      "name": "Defans Gücü Düşüşü",
+      "desc": "Bu tur boyunca Defans Yeteneklerinin Final Gücü -{0}.",
+      "summary": "Defans Yeteneği Final Gücü -{0}"
     },
     {
       "id": "ResultReduction",
-      "name": "Power Down",
-      "desc": "Skill Final Power -{0} for this turn.",
-      "summary": "Skill Final Power -{0}"
+      "name": "Güç Düşüşü",
+      "desc": "bu tur boyunca Yetenek Final Gücü -{0}.",
+      "summary": "Yetenek Final Gücü -{0}"
     },
     {
       "id": "AttackDmgDown",
@@ -165,27 +165,27 @@
     },
     {
       "id": "DefenseDown",
-      "name": "Defense Level Down",
-      "desc": "Defense Level -{0} for this turn.",
-      "summary": "Defense Level -{0}"
+      "name": "Defans Seviyesi Düşüşü",
+      "desc": "Bu tur boyunca Defans Seviyesi -{0}.",
+      "summary": "Defans Seviyesi -{0}"
     },
     {
       "id": "Paralysis",
-      "name": "Paralyze",
-      "desc": "Fix the Power of {0} Coin(s) to 0 for this turn.",
-      "summary": "{0} Coin(s) have 0 Power"
+      "name": "Felç",
+      "desc": "Bu tur boyunca {0} Jetonun gücünü 0'a sabitle.",
+      "summary": "{0} Jetonun gücü 0'a sabitlenir"
     },
     {
       "id": "PlusCoinValueDown",
-      "name": "Plus Coin Drop",
-      "desc": "Plus Coin Power -{0} for this turn.",
-      "summary": "Plus Coin Power -{0}"
+      "name": "Pozitif Jeton Gücü Düşüşü",
+      "desc": "Bu tur boyunca Pozitif Jeton Gücü -{0}.",
+      "summary": "Pozitif Jeton Gücü -{0}"
     },
     {
       "id": "MinusCoinValueDown",
-      "name": "Minus Coin Drop",
-      "desc": "Minus Coin Power -{0} for this turn.",
-      "summary": "Minus Coin Power -{0}"
+      "name": "Negatif Jeton Gücü Düşüşü",
+      "desc": "Bu tur boyunca Negatif Jeton Gücü -{0}.",
+      "summary": "Negatif Jeton Gücü -{0}"
     },
     {
       "id": "TimesCoinValueDown",
