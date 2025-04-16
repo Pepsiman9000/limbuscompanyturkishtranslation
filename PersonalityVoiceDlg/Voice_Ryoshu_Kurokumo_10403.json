@@ -8,17 +8,17 @@
     {
       "id": "lobby_morning_10403_1",
       "desc": "Morning Greeting",
-      "dlg": "I’m sharpening my sword. Nothing more meaningful to start the day with."
+      "dlg": "Kılıcımı keskinleştiriyorum. Güne başlamak için daha anlamlı bir şey yok."
     },
     {
       "id": "lobby_noon_10403_1",
       "desc": "Afternoon Greeting",
-      "dlg": "I’m cleaning my sword. Nothing more appropriate to pass the noon with."
+      "dlg": "Kılıcımı temizliyorum. Öğleni geçirmek için daha uygun bir şey yok."
     },
     {
       "id": "lobby_night_10403_1",
       "desc": "Evening Greeting",
-      "dlg": "I’m polishing my sword. Nothing more worthy to end the day with."
+      "dlg": "Kılıcımı cilalıyorum. Günü bitirmek için daha layık bir şey yok."
     },
     {
       "id": "smalltalk_10403_1",
@@ -33,32 +33,32 @@
     {
       "id": "smalltalk_10403_3",
       "desc": "Chatter #3",
-      "dlg": "Rodya is the only one I can get along with. She’s someone I can cross swords with, you dig?"
+      "dlg": "Sadece Rodya ile anlaşabiliyorum. Kılıç çarpıştırabileceğim biri, çaktın mı?"
     },
     {
       "id": "smalltalk_10403_4",
       "desc": "Post-Uptie Chat 1",
-      "dlg": "Too many people are on this bus. A quarter of what we have now would suffice. What do you think?"
+      "dlg": "Bu otobüste çok fazla kişi var. Şuankinin çeyreği yeterli olmalı. Ne düşünüyorsun?"
     },
     {
       "id": "smalltalk_10403_5",
       "desc": "Post-Uptie Chat 2",
-      "dlg": "If it’s to pursue a higher artistic caliber… I’m willing to accept this favor."
+      "dlg": "Eğer daha yüksek rütbe bir sanata ulaşma uğrunaysa… bu iyiliğe razıyım."
     },
     {
       "id": "neglect_10403_1",
       "desc": "Idle",
-      "dlg": "Hey, did you seriously vanish without a word? Some bold clock you are."
+      "dlg": "Hey, tek kelime bile etmeden yok mu oldun? Ne yürekli saatmişsin sen."
     },
     {
       "id": "gacksung_10403_1",
       "desc": "Uptying",
-      "dlg": "I’ll show you the ultimate swordsmanship."
+      "dlg": "Sana nihai kılıç ustalığını göstereceğim."
     },
     {
       "id": "formation_10403_1",
       "desc": "Deployment",
-      "dlg": "My sword’s ready."
+      "dlg": "Kılıcım hazırda."
     },
     {
       "id": "battleentry_10403_1",
@@ -73,7 +73,7 @@
     {
       "id": "battle_endcommand_10403_1",
       "desc": "Commencing Attack",
-      "dlg": "Just don’t get in the way."
+      "dlg": "Önüme geçmeyin yeter."
     },
     {
       "id": "battle_enemy_break_10403_1",
@@ -83,7 +83,7 @@
     {
       "id": "battle_break_10403_1",
       "desc": "Staggered",
-      "dlg": "Tch!"
+      "dlg": "Çh!"
     },
     {
       "id": "battle_kill_10403_1",
@@ -98,27 +98,27 @@
     {
       "id": "choice_success_p_10403_1",
       "desc": "Check Passed",
-      "dlg": "Came to an agreement."
+      "dlg": "Uzlaşmaya varıldı."
     },
     {
       "id": "choice_fail_n_10403_1",
       "desc": "Check Failed",
-      "dlg": "It was too bothersome."
+      "dlg": "Çok uğraştırıcıydı."
     },
     {
       "id": "battle_clear_10403_1",
       "desc": "Victory Cry",
-      "dlg": "Behold, idiots. This is how you use a sword."
+      "dlg": "İzleyin, aptallar. İşte kılıç dediğin böyle tutulur."
     },
     {
       "id": "battle_clear_ex_10403_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "I believe I’ve seen a satisfying amount of blood."
+      "dlg": "Bence yeterince kan gördüm."
     },
     {
       "id": "battle_defeat_10403_1",
       "desc": "Defeat Wail",
-      "dlg": "I’d have dealt with this in seconds if I did it myself."
+      "dlg": "Kendim yapıyor olsaydım bu işi birkaç saniyede halletmiştim."
     }
   ]
 }
