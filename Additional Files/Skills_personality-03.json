@@ -1050,7 +1050,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Rakibe 1 [Laceration] uygular"
+                  "desc": "[OnSucceedAttack] Rakibe 1 [Laceration] uygula"
                 }
               ]
             }
@@ -1065,7 +1065,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Rakibe 2 [Laceration] uygular"
+                  "desc": "[OnSucceedAttack] Rakibe 2 [Laceration] uygula"
                 }
               ]
             }
@@ -1124,7 +1124,7 @@
         {
           "level": 2,
           "name": "Bırakın Filizlensinler!",
-          "desc": "Bu Yetenekle Vurulduğunda: verilen HP hasarının %30'u kadar HP yenile (max 10)\n [WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 10 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazanılır\nEğer bu birim [BloodDinner] tüketemezse, Kendine 5 [Laceration] uygular<style=\"highlight\">[BeforeAttack] 10+ [BloodArmorPersonalityFirst] varsa, Atk Weight +1 kendine uygulanır (maks 2)</style>",
+          "desc": "Bu Yetenekle Vurulduğunda: verilen HP hasarının %30'u kadar HP yenile (max 10)\n [WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 10 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazanılır\nEğer bu birim [BloodDinner] tüketemezse, Kendine 5 [Laceration] uygular [BeforeAttack] 10+ [BloodArmorPersonalityFirst] varsa, Atk Weight +1 kendine uygulanır (maks 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1139,7 +1139,7 @@
                   "desc": "Hedefteki her [Laceration] için %2.5 daha fazla hasar ver (maks %25)"
                 },
                 {
-                  "desc": "Her 100 [BloodDinner_Accumulation] için %<style='highlight'>10</style> daha fazla hasar uygular (maksimum %<style='highlight'>50</style>)."
+                  "desc": "Her 100 [BloodDinner_Accumulation] için +%10 daha fazla hasar uygular (maksimum +%50)."
                 }
               ]
             }
@@ -1160,10 +1160,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Hedefteki her [Laceration] için %2.5 daha fazla hasar uygular (maks %25)"
+                  "desc": "Hedefteki her [Laceration] için %2.5 daha fazla hasar verir (maks %25)"
                 },
                 {
-                  "desc": "Kendi tarafından biriktirilen her 100 [BloodDinner_Accumulation] için %<style=&quot;highlight&quot;>15</style> daha fazla hasar uygular (maksimum %<style=&quot;highlight&quot;>75</style>)"
+                  "desc": "Kendisi tarafından biriktirilen her 100 [BloodDinner_Accumulation] için +%15</style> daha fazla hasar verir (maksimum %75)"
                 }
               ]
             }
@@ -1184,7 +1184,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 [Laceration] uygular"
+                  "desc": "[OnSucceedAttack] Rakibe 3 [Laceration] uygular"
                 }
               ]
             }
@@ -1193,14 +1193,14 @@
         {
           "level": 4,
           "name": "Seni Kazığa Geçireceğim",
-          "desc": "Bu Yetenekle Vurulduğunda: Verilen HP hasarının %50'si kadar HP yenile (maksimum 10)\n[WhenUse] Her 10 [BloodArmorPersonalityFirst] için Çarpışma Gücü +1 kazanır (maksimum 2)\n[WhenUse] Hedefteki her 5 [Laceration] için Tura Gücü +1 kazanır (maksimum 2)</style>\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve tüketilen her 10 [BloodDinner] için kendine 1 [BloodArmorPersonalityFirst] uygular\n- Eğer bu birim [BloodDinner] tüketemezse,kendine 10 [Laceration]  uygulanır\n[WhenUse] Hedefteki her [Laceration] için %5 daha fazla hasar uygular (maksimum %50)\n[WhenUse] Kendi tarafından biriktirilen her 100 [BloodDinner_Accumulation] için %20</style> daha fazla hasar uygular (maksimum %<style=\\\"highlight\\\">100</style>)\n[EndSkill] Eğer Hedef mağlup edilirse, [BloodDinner] 60 artar; 10 [BloodArmorPersonalityFirst] kazanır (tur başına bir kez)",
+          "desc": "Bu Yetenekle Vurulduğunda: Verilen HP hasarının %50'si kadar HP yenile (maksimum 10)\n[WhenUse] Her 10 [BloodArmorPersonalityFirst] için Çarpışma Gücü +1 kazanır (maksimum 2)\n[WhenUse] Hedefteki her 5 [Laceration] için Tura Gücü +1 kazanır (maksimum 2)</style>\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve tüketilen her 10 [BloodDinner] için kendine 1 [BloodArmorPersonalityFirst] uygular\n- Eğer bu birim [BloodDinner] tüketemezse,kendine 10 [Laceration]  uygulanır\n[WhenUse] Hedefteki her [Laceration] için %5 daha fazla hasar uygular (maksimum %50)\n[WhenUse] Kendi tarafından biriktirilen her 100 [BloodDinner_Accumulation] için %20</style> daha fazla hasar uygular (maksimum %)\n[EndSkill] Eğer Hedef mağlup edilirse, [BloodDinner] 60 artar; 10 [BloodArmorPersonalityFirst] kazanır (tur başına bir kez)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 [Laceration] Uygular"
+                  "desc": "[OnSucceedAttack] Rakibe 3 [Laceration] Uygula"
                 }
               ]
             }
@@ -1220,7 +1220,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygular"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -1264,7 +1264,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 [Laceration] uygular"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
@@ -1274,7 +1274,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 [Laceration] uygular"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -1283,7 +1283,7 @@
         {
           "level": 2,
           "name": "Sancho Varyantı Sertkan Teknikleri 6 – Kırbaç",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 20 [Laceration]\n[WhenUse] Inflict +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (max 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "desc": "",
           "coinlist": [
             {},
             {
@@ -1311,7 +1311,7 @@
         {
           "level": 4,
           "name": "Sancho Varyantı Sertkan Teknikleri 6 – Kırbaç",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[WhenUse] Gain 20 [Laceration]\n[WhenUse] Inflict +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (max 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "desc": "Bu Yetenekle Vurulduğunda: Verilen HP hasarının %50’si kadar HP yenile (maksimum 20)\n[WhenUse] Hedefteki her 6 [Laceration] için Tura Gücü +1 kazanır (maksimum 2\n[WhenUse] 20 [Laceration] kendine uygulanır\n[WhenUse] Her 10 [BloodArmorPersonalityFirst] için Vuruş Başına +1 ilave [Laceration] uygular (maksimum 2); Saldırı sonrası 10 [BloodArmorPersonalityFirst] tüketilir",
           "coinlist": [
             {},
             {
@@ -1320,7 +1320,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Rakibe 2 [Laceration] uygula"
                 }
               ]
             },
@@ -1330,10 +1330,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Rakibe 2 [Laceration] ugyula"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] on target once (target loses 1 [Laceration] Count)</style>"
+                  "desc": "[OnSucceedAttack] Hedefteki [Laceration] bir kez etkinleştirilir (hedef 1 [Laceration] miktarı kaybeder)"
                 }
               ]
             }
