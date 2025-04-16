@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "OnSucceedAttack",
-      "name": "[On Hit]"
+      "name": "[Vururken]"
     },
     {
       "id": "WhenUse",
-      "name": "[On Use]"
+      "name": "[Kullanırken]"
     },
     {
       "id": "WinDuel",
-      "name": "[Clash Win]"
+      "name": "[Çarpışma Kazanınca]"
     },
     {
       "id": "BeforeAttack",
-      "name": "[Before Attack]"
+      "name": "[Saldırıdan Önce]"
     },
     {
       "id": "Wide",
@@ -74,103 +74,103 @@
     },
     {
       "id": "EndSkill",
-      "name": "[After Attack]"
+      "name": "[Saldırıdan Sonra]"
     },
     {
       "id": "StartBattle",
-      "name": "[Combat Start]"
+      "name": "[Savaş Başlangıcında]"
     },
     {
       "id": "DefeatDuel",
-      "name": "[Clash Lose]"
+      "name": "[Çarpışma Kaybedince]"
     },
     {
       "id": "OnSucceedAttackHead",
-      "name": "[Heads Hit]"
+      "name": "[Turu Vuruşunda]"
     },
     {
       "id": "OnSucceedAttackTail",
-      "name": "[Tails Hit]"
+      "name": "[Yazı Vuruşunda]"
     },
     {
       "id": "OnSucceedEvade",
-      "name": "[On Evade]"
+      "name": "[Kaçınırken]"
     },
     {
       "id": "AlwaysUse",
-      "name": "[Constant]"
+      "name": "[Her Zaman]"
     },
     {
       "id": "CantDuel",
-      "name": "[Unclashable]"
+      "name": "[Çarpışılamaz]"
     },
     {
       "id": "EnemyKill",
-      "name": "[On Kill]"
+      "name": "[Öldürünce]"
     },
     {
       "id": "EnemyKillFail",
-      "name": "[Failed Kill]"
+      "name": "[Öldüremeyince]"
     },
     {
       "id": "ReUse",
-      "name": "[On Reuse]"
+      "name": "[Tekrar Kullanırken]"
     },
     {
       "id": "ReUseOnSucceedAttackHead",
-      "name": "[Reuse - Heads Hit]"
+      "name": "[Tekrar Kullanırken - Tura Vuruşunda]"
     },
     {
       "id": "CriticalOnSucceedAttack",
-      "name": "[On Crit]"
+      "name": "[Kritik Vururken]"
     },
     {
       "id": "StartDuel",
-      "name": "[Clash Start]"
+      "name": "[Çarpışma Başlangıcında]"
     },
     {
       "id": "EndBattle",
-      "name": "[Turn End]"
+      "name": "[Tur Sonunda]"
     },
     {
       "id": "OnDefeatEvade",
-      "name": "[Failed Evade]"
+      "name": "[Başarısız Kaçınmada]"
     },
     {
       "id": "EndSkillHead",
-      "name": "[Heads Attack End]"
+      "name": "[Tura Vuruşu Sonrası]"
     },
     {
       "id": "EndSkillTail",
-      "name": "[Tails Attack End]"
+      "name": "[Yazı Vuruşu Sonrası]"
     },
     {
       "id": "WinDuelAttackHead",
-      "name": "[Heads Hit after Clash Win]"
+      "name": "[Kazanılmış Çarpışma Sonrası Tura Vuruşunda]"
     },
     {
       "id": "WinDuelAttack",
-      "name": "[Hit after Clash Win]"
+      "name": "[Kazanılmış Çarpışma Sonrası Vuruşta]"
     },
     {
       "id": "CriticalActivated",
-      "name": "[On Crit]"
+      "name": "[Kritik Vururken]"
     },
     {
       "id": "CriticalEndSkill",
-      "name": "[Crit Attack End]"
+      "name": "[Kritik Vuruş Sonrası]"
     },
     {
       "id": "CantChangeTarget",
-      "name": "[Target Fixed]"
+      "name": "[Sabit Hedef]"
     },
     {
       "id": "TurnStartBattle",
-      "name": "[Turn Start]"
+      "name": "[Tur Başlangıcında]"
     },
     {
       "id": "EndSkillAll",
-      "name": "[Skill End]"
+      "name": "[Yetenek Bitişinde]"
     },
     {
       "id": "WhenUse_Force",
@@ -182,59 +182,59 @@
     },
     {
       "id": "TargetKill",
-      "name": "[On Target Kill]"
+      "name": "[Hedefi Öldürürken]"
     },
     {
       "id": "CriticalTargetKill",
-      "name": "[On Crit Kill]"
+      "name": "[Kritik Vuruş İle Öldürünce]"
     },
     {
       "id": "BeforeUse",
-      "name": "[Before Use]"
+      "name": "[Kullanmadan Önce]"
     },
     {
       "id": "DuelCounter",
-      "name": "[Clashable Counter]"
+      "name": "[Çarpışılabilir Karşı Saldırı]"
     },
     {
       "id": "CantBreak",
-      "name": "[Unbreakable Coin]"
+      "name": "[Kırılmaz Jeton]"
     },
     {
       "id": "DuelGuard",
-      "name": "[Clashable Guard]"
+      "name": "[Çarpışılabilir Korunma]"
     },
     {
       "id": "WhenUseEvade",
-      "name": "[On Evade Use]"
+      "name": "[Kaçınma Kullanınca]"
     },
     {
       "id": "EndCoin",
-      "name": "[After Current Coin Attack]"
+      "name": "[Bu Jeton Saldırısından Sonra]"
     },
     {
       "id": "CriticalEnemyTargetKillFail",
-      "name": "[On Crit Kill Fail Against Enemy]"
+      "name": "[Düşman Kritik Hasar İle Öldürülemeyince]"
     },
     {
       "id": "CriticalEnemyTargetKill",
-      "name": "[On Crit Kill Against Enemy]"
+      "name": "[Düşman Kritik Hasar İle Öldürülünce]"
     },
     {
       "id": "DefeatDuelAttack",
-      "name": "[Hit after Clash Lose]"
+      "name": "[Kaybedilmiş Çarpışma Sonrası Vuruşta]"
     },
     {
       "id": "TargetKillFail",
-      "name": "[On Target Kill Fail]"
+      "name": "[Hedef Öldürülemeyince]"
     },
     {
       "id": "AllyKill",
-      "name": "[On Ally Kill]"
+      "name": "[Müttefik Öldürürken]"
     },
     {
       "id": "AllyKillFail",
-      "name": "[On Ally Kill Fail]"
+      "name": "[Müttefik Öldürülemeyince]"
     },
     {
       "id": "TabExplain",
@@ -242,19 +242,19 @@
     },
     {
       "id": "UnBrokenCoinOnSucceedAttack",
-      "name": "[On Hit without Cracking]"
+      "name": "[Çatlamadan Vururken]"
     },
     {
       "id": "BeforeHit",
-      "name": "[Before Getting Hit]"
+      "name": "[Vurulmadan Önce]"
     },
     {
       "id": "OnDirectAttack",
-      "name": "[On Unopposed Attack]"
+      "name": "[Karşılıksız Saldırıda]"
     },
     {
       "id": "ReUseOnSucceedAttack",
-      "name": "[Reuse - On Hit]"
+      "name": "[Tekrar Kullanırken - Vuruşta]"
     }
   ]
 }
