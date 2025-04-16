@@ -34,7 +34,7 @@
     },
     {
       "id": "guard",
-      "content": "Kalkan"
+      "content": "Savunma"
     },
     {
       "id": "power",
@@ -314,7 +314,7 @@
     },
     {
       "id": "choice_personality",
-      "content": "Choose a character to perform the check with:"
+      "content": "Kontrolü gerçekleştirecek bir karakter seçin:"
     },
     {
       "id": "success_result",
@@ -498,7 +498,7 @@
     },
     {
       "id": "received_the_golden_bough",
-      "content": "Altın Dal Alındı"
+      "content": "Altın Bağ Ele geçirildi"
     },
     {
       "id": "destroyable",
@@ -530,7 +530,7 @@
     },
     {
       "id": "oneside_defense",
-      "content": "Tek yönlü Kalkan"
+      "content": "Tek Taraflı Savunma"
     },
     {
       "id": "cantIdentify",
@@ -542,7 +542,7 @@
     },
     {
       "id": "stock",
-      "content": "Owned"
+      "content": "Sahip"
     },
     {
       "id": "stable",
@@ -586,7 +586,7 @@
     },
     {
       "id": "ab_guidebook_view",
-      "content": "View Logs"
+      "content": "Kayıtları İncele"
     },
     {
       "id": "show_BattleAblityUI",
@@ -706,7 +706,7 @@
     },
     {
       "id": "battle_operation_counter",
-      "content": "Power Counter"
+      "content": "Güçlendirilmiş Savunma"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
