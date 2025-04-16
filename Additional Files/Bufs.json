@@ -44,42 +44,42 @@
     },
     {
       "id": "Taunt",
-      "name": "Taunt",
+      "name": "Kışkırtma",
       "desc": "",
       "undefined": "-"
     },
     {
       "id": "ElectricShock",
-      "name": "Shock",
-      "desc": "Take {0} more damage this turn."
+      "name": "Şok",
+      "desc": "Bu Tur {0} ekstra hasar alır."
     },
     {
       "id": "Target",
-      "name": "Marked",
-      "desc": "Targeted by the character with the Passive [Sharp Edge].",
+      "name": "İşaretlenmiş",
+      "desc": "Pasif [Sharp Edge] yeteneğine sahip karakter tarafından hedef alındı.",
       "undefined": "-"
     },
     {
       "id": "SelfHarm_LowMorale",
-      "name": "Compulsion",
-      "desc": "- Low Morale\n- Turn Start: Gain 2 Haste and 2 Fragile",
+      "name": "Baskı",
+      "desc": "- Düşük Moral\n- Tur Başı: 2 Hızlanma ve 2 Kırılganlık kazanır",
       "undefined": "-"
     },
     {
       "id": "SelfHarm_Panic",
-      "name": "Compulsion",
-      "desc": "- Panic\n- Turn Start: Lose 10 HP",
+      "name": "Baskı",
+      "desc": "- Panic\n- Tur Başı: 10 HP Kaybet",
       "undefined": "-"
     },
     {
       "id": "Blame_LowMorale",
-      "name": "Outlash",
-      "desc": "- Low Morale\n- Turn Start: Gain 2 Attack Power Up and 2 Fragile",
+      "name": "Taşkınlık",
+      "desc": "- Düşük Moral\n- Tur Başı: 2 Saldırı Gücü Artışı ve 2 Kırılganlık kazanır",
       "undefined": "-"
     },
     {
       "id": "Blame_Panic",
-      "name": "Outlash",
+      "name": "Taşkınlık",
       "desc": "- Panic\n- Turn Start: A random ally loses 20 SP",
       "undefined": "-"
     },
@@ -604,9 +604,9 @@
     },
     {
       "id": "Bullet",
-      "name": "Ammo",
-      "desc": "Spent by certain skills. Some attacks cancel if lacking Ammo.",
-      "summary": "Resource for certain skills"
+      "name": "Mermi",
+      "desc": "Belirli yetenekler tarafından harcanır. Bazı saldırılar, Mermi yoksa iptal edilir.",
+      "summary": "Belirli yetenekler için gereken bir kaynak"
     },
     {
       "id": "Meursault_Last_Remodeling",
@@ -2253,32 +2253,32 @@
     },
     {
       "id": "SwirlingBloodPersonality",
-      "name": "Shimmering【Bloodfiend】",
-      "desc": "- Max Stack: 50\n- As long as this effect exists, all Bleed damage taken by the Shield HP is converted to Bloodfeast.\n- Gain Shield HP equal to the Stack at the moment of its application\n- Expires at Turn End",
+      "name": "Parıldayan【Kan Hınzırı】",
+      "desc": "- Max Değer: 50\n- Bu etki olduğu sürece, Kalkan tarafından alınan tüm Kanama hasarı Kanşölenine dönüşür.\n- Uygulama anında Miktara eşit bir güçlükte bir Kalkan kazanılır\n- Tur Sonu sona erer",
       "summary": ""
     },
     {
       "id": "BloodArmorPersonalityFirst",
-      "name": "Hardblood",
-      "desc": "- Max Stack: 10\n- Stage 1 Hardblood\n- At 10+ Hardblood, converts to Hardblood II.\n- At 20+ Hardblood, converts to Hardblood III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Hardblood does not drop below 1.\n- Raise Min & Max Speed values by 1 for every 10 Hardblood\n- At Hardblood II, gain 1 Offense Level Up based on the Stack\n- At Hardblood III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
+      "name": "Sertkan",
+      "desc": "- Maksimum Değer: 10\n- Aşama 1 Sertkan\n- 10+ Sertkan’da, Sertkan II’ye dönüşür.\n- 20+ Sertkan’da, Sertkan III’e dönüşür.\n- Sertkan, gereksinimlerin altına düştüğünde bir önceki Aşamaya döner.\n- Sertkan 1’in altına düşmez.\n- Her 10 Sertkan için Min & Maks Hız değerleri 1 artar.\n- Sertkan II’de, miktara bağlı olarak 1 Saldırı Seviyesi Artışı kazanır.\n- Sertkan III’te, miktara bağlı olarak 1 Saldırı Seviyesi Artışı ve 1 Savunma Seviyesi Artışı kazanır.",
       "summary": ""
     },
     {
       "id": "BloodArmorPersonalitySecond",
-      "name": "Hardblood II",
-      "desc": "- Max Stack: 20\n- Stage 2 Hardblood\n- Turn Start: gain 1 Offense Level Up for every 5 Stack\n- Raise Min & Max Speed values by 1\n- At 10+ Hardblood, converts to Hardblood II.\n- At 20+ Hardblood, converts to Hardblood III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Hardblood does not drop below 1.\n- At Hardblood II, gain 1 Offense Level Up based on the Stack\n- At Hardblood III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
+      "name": "Sertkan II",
+      "desc": "- Maksimum Değer: 20\n- Aşama 2 Sertkan\n- Tur Başında: Her 5 Sertkan için 1 Saldırı Seviyesi Artışı kazanır\n- Min & Maks Hız değerleri 1 artar\n- 10+ Sertkan’da, Sertkan II’ye dönüşür.\n- 20+ Sertkan’da, Sertkan III’e dönüşür.\n- Sertkan, gereksinimlerin altına düştüğünde bir önceki Aşamaya döner.\n- Sertkan 1’in altına düşmez.\n- Sertkan II’de, miktara bağlı olarak 1 Saldırı Seviyesi Artışı kazanır.\n- Sertkan III’te, miktara bağlı olarak 1 Saldırı Seviyesi Artışı ve 1 Savunma Seviyesi Artışı kazanır.",
       "summary": ""
     },
     {
       "id": "BloodArmorPersonalityThird",
-      "name": "Hardblood III",
-      "desc": "- Max Stack: 30\n- Stage 3 Hardblood\n- Turn Start: gain 1 Offense Level Up and 1 Defense Level Up for every 5 Stack\n- Raise Min & Max Speed values by 2\n- At 10+ Hardblood, converts to Hardblood II.\n- At 20+ Hardblood, converts to Hardblood III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Hardblood does not drop below 1.\n- At Hardblood II, gain 1 Offense Level Up based on the Stack\n- At Hardblood III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
+      "name": "Sertkan III",
+      "desc": "- Maksimum Değer: 30\n- Aşama 3 Sertkan\n- Tur Başında: Her 5 Sertkan için 1 Saldırı Seviyesi Artışı ve 1 Savunma Seviyesi Artışı kazanır\n- Min & Maks Hız değerleri 2 artar\n- 10+ Sertkan’da, Sertkan II’ye dönüşür.\n- 20+ Sertkan’da, Sertkan III’e dönüşür.\n- Sertkan, gereksinimlerin altına düştüğünde bir önceki Aşamaya döner.\n- Sertkan 1’in altına düşmez.\n- Sertkan II’de, miktara bağlı olarak 1 Saldırı Seviyesi Artışı kazanır.\n- Sertkan III’te, miktara bağlı olarak 1 Saldırı Seviyesi Artışı ve 1 Savunma Seviyesi Artışı kazanır.",
       "summary": ""
     },
     {
       "id": "SadLamanchaland",
-      "name": "Responsibility",
-      "desc": "- Max Value: 1\n- Clash Power +1\n- Deal +20% damage\n- Take +20% damage",
+      "name": "Sorumluluk",
+      "desc": "- Maksimum Değer: 1\n- Çarpışma Gücü +1\n- %20 daha fazla hasar uygular\n- %20 daha fazla hasar alır",
       "summary": ""
     },
     {
@@ -2323,28 +2323,28 @@
     },
     {
       "id": "CoveringFire",
-      "name": "Target Spotted",
-      "desc": "If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with its Skill 2 against the same enemy Unit A attacked with its Skill. Activates at Unit A's Attack End.\n- The Skill used due to this effect does not affect Unit B's upcoming Skills list."
+      "name": "Hedef Tespit Edildi",
+      "desc": "Eğer birim A, birim B'ye bu etkisini uygularsa: Birim B, birim A'nın Yetenek ile saldırdığı aynı düşmana karşı, karşı koymasız bir saldırı gerçekleştirir ve bu saldırıyı Yetenek 2 ile yapar. Bu etkinlik, birim A'nın Saldırı Sonu'nda aktive olur.\n- Bu etki nedeniyle kullanılan Yetenek, birim B'nin gelecekteki Yetenekler listesine etki etmez."
     },
     {
       "id": "FullReload",
-      "name": "Reload",
-      "desc": "Lose all currently owned Ammo, and reload it back to full"
+      "name": "Yeniden Doldur",
+      "desc": "Şu anda sahip olunan tüm Mermileri kaybet ve geri doldur."
     },
     {
       "id": "Bullet_LogicAtelier",
-      "name": "Ammo - Atelier Logic",
-      "desc": "Unique Ammo\nAtelier Logic Workshop Special Ammo\n- This Ammo's count cannot be gained or lost due to external effects"
+      "name": "Mermi - Atelier Logic",
+      "desc": "Özgüm Mermi\nAtelier Logic Atölyesi Özgün Mermi\n- Bu Merminin miktarı dışsal etkiler nedeniyle kazanılamaz veya kaybolmaz"
     },
     {
       "id": "Retreat_FullStop",
-      "name": "Overwatch Assignment",
-      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)"
+      "name": "Gözetleme Görevi",
+      "desc": "Tur Sonu: Sersemlemeden kurtul ve karşılaşmadan geri çekil (zorunlu bir sersemleme değilse; ölüm olarak sayılmaz)· Zincirleme Savaşlar'da, bu birimin Slotlarını yerine geçen birime ver ve yedek birimlerin yerleşim sırasının en arkasına geç (eğer sıradaki başka bir yedek birim yoksa, gelecek turda yer değiştirme işlemi yapılmadan karşılaşmadan tamamen kaç). Savaşta geri dönerken, geri çekildikleri sırayla geri dönerler.· Savaşta geri dönerken, geri çekildiğinde sahip olduğu HP ve SP miktarıyla geri döner, ve yalnızca bazı etkiler hariç tüm etkiler kendisinden kaldırılır (eğer bu birim geri çekilirken 0 SP'nin altındaysa, SP 0'a sıfırlanır)."
     },
     {
       "id": "LogicAtelierAM",
-      "name": "Concentration【Sniper】",
-      "desc": "- Max Stack: 4\n- Turn End: gain 1 Stack"
+      "name": "Konsantrasyon【Sniper】",
+      "desc": "- Maks Değer: 4\n- Tur Sonu: 1 Artar"
     },
     {
       "id": "MeleeCover",
