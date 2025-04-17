@@ -2,35 +2,35 @@
   "dataList": [
     {
       "id": "very-high",
-      "content": "Dominating"
+      "content": "Hakimiyet!"
     },
     {
       "id": "high",
-      "content": "Favored"
+      "content": "Avantajlı"
     },
     {
       "id": "normal",
-      "content": "Neutral"
+      "content": "Nötr"
     },
     {
       "id": "low",
-      "content": "Struggling"
+      "content": "Sıkıntılı"
     },
     {
       "id": "very-low",
-      "content": "Hopeless"
+      "content": "Umutsuz"
     },
     {
       "id": "impossible",
-      "content": "Unselectable"
+      "content": "Seçilemez"
     },
     {
       "id": "event-very-high",
-      "content": "Very High"
+      "content": "Çok Yüksek"
     },
     {
       "id": "event-high",
-      "content": "High"
+      "content": "Yüksek"
     },
     {
       "id": "event-normal",
@@ -38,15 +38,15 @@
     },
     {
       "id": "event-low",
-      "content": "Low"
+      "content": "Düşük"
     },
     {
       "id": "event-very-low",
-      "content": "Very Low"
+      "content": "Çok Düşük"
     },
     {
       "id": "event-impossible",
-      "content": "Unselectable"
+      "content": "Seçilemez"
     }
   ]
 }
