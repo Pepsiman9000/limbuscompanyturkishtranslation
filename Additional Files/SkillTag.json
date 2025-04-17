@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "OnSucceedAttack",
-      "name": "[Vururken]"
+      "name": "[Vuruşta]"
     },
     {
       "id": "WhenUse",
-      "name": "[Kullanırken]"
+      "name": "[Kullanıldığında]"
     },
     {
       "id": "WinDuel",
-      "name": "[Çarpışma Kazanınca]"
+      "name": "[Çarpışma Kazanıldığında]"
     },
     {
       "id": "BeforeAttack",
@@ -82,11 +82,11 @@
     },
     {
       "id": "DefeatDuel",
-      "name": "[Çarpışma Kaybedince]"
+      "name": "[Çarpışma Kaybedildiğinde]"
     },
     {
       "id": "OnSucceedAttackHead",
-      "name": "[Turu Vuruşunda]"
+      "name": "[Tura Vuruşunda]"
     },
     {
       "id": "OnSucceedAttackTail",
@@ -122,7 +122,7 @@
     },
     {
       "id": "CriticalOnSucceedAttack",
-      "name": "[Kritik Vururken]"
+      "name": "[Kritik Vuruşta]"
     },
     {
       "id": "StartDuel",
@@ -154,7 +154,7 @@
     },
     {
       "id": "CriticalActivated",
-      "name": "[Kritik Vururken]"
+      "name": "[Kritik Vuruşta]"
     },
     {
       "id": "CriticalEndSkill",
@@ -182,7 +182,7 @@
     },
     {
       "id": "TargetKill",
-      "name": "[Hedefi Öldürürken]"
+      "name": "[Hedef Öldürüldüğünde]"
     },
     {
       "id": "CriticalTargetKill",
@@ -206,7 +206,7 @@
     },
     {
       "id": "WhenUseEvade",
-      "name": "[Kaçınma Kullanınca]"
+      "name": "[Kaçınma Kullanıldığında]"
     },
     {
       "id": "EndCoin",
@@ -230,7 +230,7 @@
     },
     {
       "id": "AllyKill",
-      "name": "[Müttefik Öldürürken]"
+      "name": "[Müttefik Öldürünce]"
     },
     {
       "id": "AllyKillFail",
@@ -242,7 +242,7 @@
     },
     {
       "id": "UnBrokenCoinOnSucceedAttack",
-      "name": "[Çatlamadan Vururken]"
+      "name": "[Çatlamadan Vuruşta]"
     },
     {
       "id": "BeforeHit",
