@@ -264,7 +264,7 @@
     },
     {
       "id": "Combustion",
-      "name": "Burn",
+      "name": "Yanma",
       "desc": "Turn End: Take {0} fixed damage. Lasts {1} turn(s).",
       "summary": "{0} fixed HP damage"
     },
@@ -282,13 +282,13 @@
     },
     {
       "id": "Burst",
-      "name": "Yırtık",
+      "name": "Parçalanma",
       "desc": "The next {1} time(s) the unit is hit, take {0} fixed damage.",
       "summary": "{0} fixed HP damage"
     },
     {
       "id": "Sinking",
-      "name": "Batma",
+      "name": "Batış",
       "desc": "The next {1} time(s) the unit is hit, take {0} fixed SP damage. (Units with no Sanity take Gloom damage.)",
       "summary": "{0} Sinking DMG"
     },
