@@ -6,23 +6,23 @@
     },
     {
       "id": "mainui_main_button1",
-      "content": "Sinners"
+      "content": "Günahkârlar"
     },
     {
       "id": "mainui_main_button2",
-      "content": "Theater"
+      "content": "Tiyatro"
     },
     {
       "id": "mainui_main_button3",
-      "content": "Drive"
+      "content": "Sür"
     },
     {
       "id": "mainui_main_button4",
-      "content": "Extract"
+      "content": "Ekstrakt"
     },
     {
       "id": "mainui_main_button5",
-      "content": "Dispense"
+      "content": "Çıkart"
     },
     {
       "id": "mainui_main_exp",
@@ -42,35 +42,35 @@
     },
     {
       "id": "mainui_battleselection_everydungeon",
-      "content": "Mirror Dungeons"
+      "content": "Ayna Zindanları"
     },
     {
       "id": "mainui_stageinfo_recommendlevel",
-      "content": "Difficulty"
+      "content": "Zorluk"
     },
     {
       "id": "mainui_stageinfo_enemyinfo",
-      "content": "Enemy Info"
+      "content": "Düşman Bilgileri"
     },
     {
       "id": "mainui_stageinfo_exclearcondition",
-      "content": "EX Objectives"
+      "content": "Ekstra Görev"
     },
     {
       "id": "mainui_stageinfo_statinfo",
-      "content": "Status"
+      "content": "Durum"
     },
     {
       "id": "mainui_stageinfo_resistinfo",
-      "content": "Resistances"
+      "content": "Dirençler"
     },
     {
       "id": "mainui_stageinfo_enterbutton",
-      "content": "Enter"
+      "content": "Başla"
     },
     {
       "id": "mainui_stageinfo_dungeonclear",
-      "content": "Main Objectives"
+      "content": "Ana Görev"
     },
     {
       "id": "mainui_sinners_battleannouncer",
@@ -82,15 +82,15 @@
     },
     {
       "id": "mainui_sinners_decklist",
-      "content": "DECK LIST"
+      "content": "DESTE LİSTESİ"
     },
     {
       "id": "mainui_sinners_deck",
-      "content": "Deck"
+      "content": "DESTE"
     },
     {
       "id": "mainui_sinners_passive",
-      "content": "PASSIVES"
+      "content": "PASİFLER"
     },
     {
       "id": "mainui_sinners_egoresource",
@@ -98,27 +98,27 @@
     },
     {
       "id": "mainui_sinners_participant",
-      "content": "Select Participants"
+      "content": "Katılımcıları Seç"
     },
     {
       "id": "mainui_sinners_startbattle",
-      "content": "To Battle!"
+      "content": "Savaşa!"
     },
     {
       "id": "mainui_common_personality",
-      "content": "Identities"
+      "content": "Kişilikler"
     },
     {
       "id": "mainui_common_filter",
-      "content": "Filter"
+      "content": "Filtre"
     },
     {
       "id": "mainui_common_state",
-      "content": "Current"
+      "content": "Şuanki"
     },
     {
       "id": "mainui_common_sort",
-      "content": "Sort"
+      "content": "Sırala"
     },
     {
       "id": "mainui_sinners_unequipego",
@@ -126,39 +126,39 @@
     },
     {
       "id": "mainui_skip_desc",
-      "content": "Are you sure you want to skip?"
+      "content": "Geçmek istediğine emin misin?"
     },
     {
       "id": "mainui_battleresult_reward",
-      "content": "Rewards"
+      "content": "Ödüller"
     },
     {
       "id": "mainui_battleresult_exclearreward",
-      "content": "EX Rewards"
+      "content": "EKSTRA Ödüller"
     },
     {
       "id": "mainui_battleresult_statistics",
-      "content": "Stats"
+      "content": "Statlar"
     },
     {
       "id": "mainui_ok",
-      "content": "Confirm"
+      "content": "Kabul Et"
     },
     {
       "id": "mainui_battleresult_victory",
-      "content": "Victory"
+      "content": "Zafer"
     },
     {
       "id": "mainui_battleresult_defeat",
-      "content": "Defeat"
+      "content": "Mağlubiyet"
     },
     {
       "id": "mainui_battleresult_return",
-      "content": "Return"
+      "content": "Geri Dön"
     },
     {
       "id": "mainui_battleresult_hint",
-      "content": "Hint"
+      "content": "İpucu"
     },
     {
       "id": "mainui_page",
@@ -166,31 +166,31 @@
     },
     {
       "id": "mainui_cancel",
-      "content": "Cancel"
+      "content": "İptal Et"
     },
     {
       "id": "mainui_select",
-      "content": "Select"
+      "content": "Şeç"
     },
     {
       "id": "mainui_select_finished",
-      "content": "Finalize"
+      "content": "Sonlandır"
     },
     {
       "id": "mainui_grade",
-      "content": "Stage {0}"
+      "content": "Sahne {0}"
     },
     {
       "id": "mainui_floor",
-      "content": "Floor {0}"
+      "content": "Kat {0}"
     },
     {
       "id": "mainui_main_enkephalin_Box",
-      "content": "Enkephalin Box"
+      "content": "Enkephalin Kutusu"
     },
     {
       "id": "mainui_main_own_count",
-      "content": "Owned"
+      "content": "Sahip Olunan"
     },
     {
       "id": "mainui_mirror_entrance_entry",
@@ -290,11 +290,11 @@
     },
     {
       "id": "mainui_support",
-      "content": "Support"
+      "content": "Destek"
     },
     {
       "id": "mainui_gacha_rateinfo",
-      "content": "Probabilities"
+      "content": "Olasılıklar"
     },
     {
       "id": "mainui_gacha_history",
@@ -1482,47 +1482,47 @@
     },
     {
       "id": "awaken",
-      "content": "Awakening"
+      "content": "Uyanış"
     },
     {
       "id": "erosion",
-      "content": "Corrosion"
+      "content": "Korozyon"
     },
     {
       "id": "formation_panel_detail",
-      "content": "Details"
+      "content": "Detaylar"
     },
     {
       "id": "ego_cost",
-      "content": "E.G.O Resources"
+      "content": "E.G.O Kaynakları"
     },
     {
       "id": "enable_count_for_battle",
-      "content": "Participant Limit"
+      "content": "Katılımcı Limiti"
     },
     {
       "id": "select_for_formation",
-      "content": "Deploy Identity"
+      "content": "Kimliği Sahaya Sür"
     },
     {
       "id": "edit_for_formation",
-      "content": "Edit Team"
+      "content": "Takımı Düzenle"
     },
     {
       "id": "full_participated",
-      "content": "Max Participants"
+      "content": "Maks Katılımcı"
     },
     {
       "id": "select_for_delete_participation",
-      "content": "Dismiss Identity"
+      "content": "Kimliği Geri Çek"
     },
     {
       "id": "clear_reward",
-      "content": "Clear Rewards"
+      "content": "Ödül"
     },
     {
       "id": "event_information",
-      "content": "Event Info."
+      "content": "Etkinlik Bilgisi"
     },
     {
       "id": "notice_not_on_sales_period",
@@ -1530,11 +1530,11 @@
     },
     {
       "id": "pc_shortcut",
-      "content": "PC Keyboard Shortcuts"
+      "content": "PC Klavye Shortcutları"
     },
     {
       "id": "shortcut_manual_popup_title",
-      "content": "Keyboard Shortcuts Guide"
+      "content": "Klavye Shortcut Rehberi"
     },
     {
       "id": "new_dungeon_update_alarm",
@@ -1770,27 +1770,27 @@
     },
     {
       "id": "mainui_exp_dungeon_7_title",
-      "content": "EXP Luxcavation #7 (Slash)"
+      "content": "EXP Luxkavasyon #7 (Kesme)"
     },
     {
       "id": "mainui_exp_dungeon_7_open_day",
-      "content": "EXP Luxcavation #7 (Slash) opens on MON, TUE, and SUN."
+      "content": "EXP Luxkavasyon #7 (Kesme) opens on MON, TUE, and SUN."
     },
     {
       "id": "mainui_exp_dungeon_8_title",
-      "content": "EXP Luxcavation #7 (Pierce)"
+      "content": "EXP Luxkavasyon #7 (Delme)"
     },
     {
       "id": "mainui_exp_dungeon_8_open_day",
-      "content": "EXP Luxcavation #7 (Pierce) opens on WED, THU, and SUN."
+      "content": "EXP Luxkavasyon #7 (Delme) opens on WED, THU, and SUN."
     },
     {
       "id": "mainui_exp_dungeon_9_title",
-      "content": "EXP Luxcavation #7 (Blunt)"
+      "content": "EXP Luxkavasyon #7 (Darbe)"
     },
     {
       "id": "mainui_exp_dungeon_9_open_day",
-      "content": "EXP Luxcavation #7 (Blunt) opens on FRI, SAT, and SUN."
+      "content": "EXP Luxkavasyon #7 (Darbe) opens on FRI, SAT, and SUN."
     },
     {
       "id": "mainui_default_personality_blocked",
@@ -1802,7 +1802,7 @@
     },
     {
       "id": "caution",
-      "content": "WARNING"
+      "content": "DİKKAT"
     },
     {
       "id": "announcer_spoiler_caution",
@@ -1814,11 +1814,11 @@
     },
     {
       "id": "select_all",
-      "content": "Select All"
+      "content": "Hepisini Seç"
     },
     {
       "id": "deselect_all",
-      "content": "Deselect All"
+      "content": "Hepsini Kaldır"
     },
     {
       "id": "story_voice_setting_ui_title",
@@ -1850,15 +1850,15 @@
     },
     {
       "id": "mainui_settings_push_notification",
-      "content": "Notification Settings"
+      "content": "Bildirim Ayarları"
     },
     {
       "id": "paid_lunacy_ui",
-      "content": "Paid Lunacy"
+      "content": "Paralı Lunacy"
     },
     {
       "id": "story_unable_to_skip",
-      "content": "This story cannot be skipped."
+      "content": "Bu Hikaye 'Atlanamaz'."
     },
     {
       "id": "remote_download_quit_game",
