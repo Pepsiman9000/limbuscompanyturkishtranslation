@@ -270,31 +270,31 @@
     },
     {
       "id": "Laceration",
-      "name": "Bleed",
+      "name": "Kanama",
       "desc": "The next {1} time(s) this unit tosses an attack skill Coin, take {0} fixed damage.",
       "summary": "{0} fixed HP damage"
     },
     {
       "id": "Vibration",
-      "name": "Tremor",
+      "name": "Sarsıntı",
       "desc": "When hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by {0}. Lasts {1} turn(s).",
       "summary": "Raise Stagger Threshold by {0}"
     },
     {
       "id": "Burst",
-      "name": "Rupture",
+      "name": "Yırtık",
       "desc": "The next {1} time(s) the unit is hit, take {0} fixed damage.",
       "summary": "{0} fixed HP damage"
     },
     {
       "id": "Sinking",
-      "name": "Sinking",
+      "name": "Batma",
       "desc": "The next {1} time(s) the unit is hit, take {0} fixed SP damage. (Units with no Sanity take Gloom damage.)",
       "summary": "{0} Sinking DMG"
     },
     {
       "id": "Breath",
-      "name": "Poise",
+      "name": "Nefes",
       "desc": "Boost critical hit chance by {0}x5% for the next {1} hit(s).",
       "summary": "{0}x5% crit chance"
     },
@@ -2254,7 +2254,7 @@
     {
       "id": "SwirlingBloodPersonality",
       "name": "Parıldayan【Kan Hınzırı】",
-      "desc": "- Max Değer: 50\n- Bu etki olduğu sürece, Kalkan tarafından alınan tüm Kanama hasarı Kanşölenine dönüşür.\n- Uygulama anında Miktara eşit bir güçlükte bir Kalkan kazanılır\n- Tur Sonu sona erer",
+      "desc": "- Maksimum Değer: 50\n- Bu etki olduğu sürece, Kalkan tarafından alınan tüm Kanama hasarı Kanşölenine dönüşür.\n- Uygulama anında Miktara eşit bir güçlükte bir Kalkan kazanılır\n- Tur Sonu sona erer",
       "summary": ""
     },
     {
