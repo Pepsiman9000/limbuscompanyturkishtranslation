@@ -46,7 +46,7 @@
     },
     {
       "id": "mainui_stageinfo_recommendlevel",
-      "content": "Zorluk"
+      "content": "Zorluk Seviyesi"
     },
     {
       "id": "mainui_stageinfo_enemyinfo",
@@ -66,7 +66,7 @@
     },
     {
       "id": "mainui_stageinfo_enterbutton",
-      "content": "Başla"
+      "content": "Savaş!"
     },
     {
       "id": "mainui_stageinfo_dungeonclear",
@@ -486,7 +486,7 @@
     },
     {
       "id": "mainui_organization",
-      "content": "TEAMS"
+      "content": "TAKIMLAR"
     },
     {
       "id": "story_ui_log_popup",
@@ -670,19 +670,19 @@
     },
     {
       "id": "mainui_before_battle",
-      "content": "Pre-battle"
+      "content": "Savaş-Öncesi"
     },
     {
       "id": "mainui_after_battle",
-      "content": "Post-battle"
+      "content": "Savaş-Sonrası"
     },
     {
       "id": "mainui_story",
-      "content": "Story"
+      "content": "Hikaye"
     },
     {
       "id": "Get_Reward",
-      "content": "Rewards Earned"
+      "content": "Kazanılan Ödüller"
     },
     {
       "id": "mainui_user_exp",
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "formation_panel_detail",
-      "content": "Detaylar"
+      "content": "Detay"
     },
     {
       "id": "ego_cost",
