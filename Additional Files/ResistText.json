@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "resist_weak",
-      "content": "Fatal"
+      "content": "Ölümcül"
     },
     {
       "id": "resist_vulnerable",
-      "content": "Weak"
+      "content": "Zayıf"
     },
     {
       "id": "resist_normal",
@@ -14,15 +14,15 @@
     },
     {
       "id": "resist_endure",
-      "content": "Endure"
+      "content": "Dayanıklı"
     },
     {
       "id": "resist_resist",
-      "content": "Ineff."
+      "content": "Etkisiz"
     },
     {
       "id": "resist_immune",
-      "content": "Immune"
+      "content": "Bağışıklı"
     }
   ]
 }
