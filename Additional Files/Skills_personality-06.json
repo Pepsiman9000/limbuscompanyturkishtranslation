@@ -601,20 +601,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Deduction Start",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count",
+          "name": "Soruşturma Başlangıcı",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttackHead] 2 [Vibration] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttackHead] +2 [Vibration] Kazan"
                 }
               ]
             }
@@ -622,20 +622,20 @@
         },
         {
           "level": 2,
-          "name": "Deduction Start",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count",
+          "name": "Soruşturma Başlangıcı",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttackHead] 2 [Vibration] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttackHead] +2 [Vibration] Kazan"
                 }
               ]
             }
@@ -643,20 +643,20 @@
         },
         {
           "level": 4,
-          "name": "Deduction Start",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">At 6+ [Vibration] Count, Coin Power +1</style>",
+          "name": "Soruşturma Başlangıcı",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı Kazan\n<style=\"highlight\">6+ [Vibration] Miktarında, Jeton Gücü +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı Kazan"
                 }
               ]
             }
@@ -669,27 +669,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Morph Cane Technique",
-          "desc": "[WhenUse] Gain +3 [Vibration] Count",
+          "name": "Baston Biçimlendirme Tekniği",
+          "desc": "[WhenUse] +3 [Vibration] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 9+ [Vibration], trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 9+ [Vibration] varsa, [VibrationExplosion] tetikle; ardından, hedefin [Vibration] Miktarını 1 azalt"
                 }
               ]
             }
@@ -697,27 +697,27 @@
         },
         {
           "level": 2,
-          "name": "Morph Cane Technique",
-          "desc": "<style=\"highlight\">[WhenUse] If target has 8+ [Vibration], Clash Power +1</style>\n[WhenUse] Gain +3 [Vibration] Count\n<style=\"highlight\">At 6+ [Vibration] Count, Coin Power +1</style>",
+          "name": "Baston Biçimlendirme Tekniği",
+          "desc": "<style=\"highlight\">[WhenUse] Eğer hedefte 8+ [Vibration] varsa, Çarpışma Gücü +1</style>\n[WhenUse] +3 [Vibration] Miktarı Kazan\n<style=\"highlight\">6+ [Vibration] Miktarında, Jeton Gücü +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Vibration] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has <style=\"highlight\">7</style>+ [Vibration], trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Eğer hedefte <style=\"highlight\">7</style>+ [Vibration] varsa, [VibrationExplosion] tetikle; ardından, hedefin [Vibration] Miktarını 1 azalt"
                 }
               ]
             }
@@ -725,27 +725,27 @@
         },
         {
           "level": 4,
-          "name": "Morph Cane Technique",
-          "desc": "[WhenUse] If target has <style=\"highlight\">6</style>+ [Vibration], Clash Power +1\n[WhenUse] Gain +3 [Vibration] Count\nAt <style=\"highlight\">5</style>+ [Vibration] Count, Coin Power +1",
+          "name": "Baston Biçimlendirme Tekniği",
+          "desc": "[WhenUse] Eğer hedefte <style=\"highlight\">6</style>+ [Vibration] varsa, Çarpışma Gücü +1\n[WhenUse] +3 [Vibration] Miktarı Kazan\n<style=\"highlight\">5</style>+ [Vibration] Miktarında, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 3 [Vibration] Uygula<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has <style=\"highlight\">6</style>+ [Vibration], trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Eğer hedefte <style=\"highlight\">6</style>+ [Vibration] varsa, [VibrationExplosion] tetikle; ardından, hedefin [Vibration] Miktarını 1 azalt"
                 }
               ]
             }
@@ -758,20 +758,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "You're the Culprit!",
-          "desc": "[WhenUse] If target has 6+ [Vibration], Clash Power +1\n[WhenUse] Consume 10 [Vibration] Count on self to gain Coin Power +2",
+          "name": "Suçlu Sensin!",
+          "desc": "[WhenUse] Eğer hedefte 6+ [Vibration] varsa, Çarpışma Gücü +1\n[WhenUse] Kendi üzerinden 10 [Vibration] Miktarı kullanarak +2 Jeton Gücü kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this Skill consumed [Vibration] Count on use, trigger [FusionVibration] into [VibrationEcho]"
+                  "desc": "[OnSucceedAttack] Eğer bu Yetenek [Vibration] Miktarı kullandıysa, [VibrationEcho] içine [FusionVibration] tetikle"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle; ardından, hedefin [Vibration] Miktarını 1 azalt"
                 }
               ]
             },
@@ -779,7 +779,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- If this unit did not consume [Vibration] Count with Skill use, activate the above effect, then trigger [VibrationExplosion] on self"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle; ardından, hedefin [Vibration] Miktarını 1 azalt\n- Eğer [Vibration] Miktarı kullanılmadıysa, üstteki efekti uygula, ardından kendi üzerinde [VibrationExplosion] tetikle"
                 }
               ]
             }
@@ -787,34 +787,34 @@
         },
         {
           "level": 4,
-          "name": "You're the Culprit!",
-          "desc": "[WhenUse] Clash Power +1 for every <style=\"highlight\">6</style> [Vibration] on target <style=\"highlight\">(max 2)</style>\n[WhenUse] At <style=\"highlight\"> less than 15 [Vibration] Count on self</style>, consume 10 [Vibration] Count to gain Coin Power +2\n<style=\"highlight\">[WhenUse] Consume 15 [Vibration] Count on self to gain Coin Power +3</style>",
+          "name": "Suçlu Sensin!",
+          "desc": "[WhenUse] Hedefteki her <style=\"highlight\">6</style> [Vibration] başına Çarpışma Gücü +1 <style=\"highlight\">(max 2)</style>\n[WhenUse]<style=\"highlight\"> Kendi üzerinde 15'den az [Vibration] Miktarı varsa</style>, +2 Jeton Gücü kazanmak için kendi üzerinden 10 [Vibration] kullan\n<style=\"highlight\">[WhenUse] +3 Jeton Gücü kazanmak için kendi üzerinden 10 [Vibration] kullan</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this Skill consumed [Vibration] Count on use, trigger [FusionVibration] into [VibrationEcho]"
+                  "desc": "[OnSucceedAttack] Eğer bu Yetenek [Vibration] Miktarı kullandıysa, [VibrationEcho] içine [FusionVibration] tetikle"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle; ardından, hedefin [Vibration] Miktarını 1 azalt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this Skill consumed 10+ [Vibration] Count on Skill Use, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Eğer bu Yetenek kendi üzerinden 10+ [Vibration] Miktarı kullandıysa, [VibrationExplosion] tetikle; ardından, hedefin [Vibration] Miktarını 1 azalt</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this Skill consumed 10+ [Vibration] Count on Skill Use, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- If this unit consumed less than 15 [Vibration] Count, trigger [VibrationExplosion] on self after activating the above effect</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Eğer bu Yetenek 10+ [Vibration] Miktarı kullandıysa, [VibrationExplosion] tetikle; ardından, hedefin [Vibration] Miktarını 1 azalt\n- Eğer 15'den az [Vibration] Miktarı kullanıldıysa, üstteki efekti uygula, ardından kendi üzerinde [VibrationExplosion] tetikle</style>"
                 }
               ]
             }
@@ -827,8 +827,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wait?!",
-          "desc": "[WhenUse] Gain 2 x ([Vibration] Count on target) as Shield HP (max 7)",
+          "name": "Yoksa?!",
+          "desc": "[WhenUse] 2 * (Hedefteki [Vibration] Miktarı) Kalkan kazan (max 7)",
           "coinlist": [
             {}
           ]
@@ -836,7 +836,7 @@
         {
           "level": 4,
           "name": "Wait?!",
-          "desc": "[WhenUse] Gain 2 x ([Vibration] Count on target) as Shield HP (max <style=\"highlight\">13</style>)",
+          "desc": "[WhenUse] 2 * (Hedefteki [Vibration] Miktarı) Kalkan kazan (max <style=\"highlight\">13</style>)",
           "coinlist": [
             {}
           ]
