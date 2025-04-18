@@ -602,19 +602,19 @@
         {
           "level": 1,
           "name": "Soruşturma Başlangıcı",
-          "desc": "[WhenUse] +2 [Vibration] Miktarı Kazan",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 2 [Vibration] Uygula"
+                  "desc": "[OnSucceedAttackHead] 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] +2 [Vibration] Kazan"
+                  "desc": "[OnSucceedAttackHead] +2 [Vibration] kazan"
                 }
               ]
             }
@@ -623,19 +623,19 @@
         {
           "level": 2,
           "name": "Soruşturma Başlangıcı",
-          "desc": "[WhenUse] +2 [Vibration] Miktarı Kazan",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 2 [Vibration] Uygula"
+                  "desc": "[OnSucceedAttackHead] 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] +2 [Vibration] Kazan"
+                  "desc": "[OnSucceedAttackHead] +2 [Vibration] kazan"
                 }
               ]
             }
@@ -644,19 +644,19 @@
         {
           "level": 4,
           "name": "Soruşturma Başlangıcı",
-          "desc": "[WhenUse] +2 [Vibration] Miktarı Kazan\n<style=\"highlight\">6+ [Vibration] Miktarında, Jeton Gücü +1</style>",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan\n<style=\"highlight\">6+ [Vibration] Miktarında, Jeton Gücü +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Vibration] Uygula"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı Kazan"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı kazan"
                 }
               ]
             }
@@ -670,19 +670,19 @@
         {
           "level": 1,
           "name": "Baston Biçimlendirme Tekniği",
-          "desc": "[WhenUse] +3 [Vibration] Miktarı Kazan",
+          "desc": "[WhenUse] +3 [Vibration] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı Kazan"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Vibration] Uygula"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 }
               ]
             },
@@ -698,19 +698,19 @@
         {
           "level": 2,
           "name": "Baston Biçimlendirme Tekniği",
-          "desc": "<style=\"highlight\">[WhenUse] Eğer hedefte 8+ [Vibration] varsa, Çarpışma Gücü +1</style>\n[WhenUse] +3 [Vibration] Miktarı Kazan\n<style=\"highlight\">6+ [Vibration] Miktarında, Jeton Gücü +1</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Eğer hedefte 8+ [Vibration] varsa, Çarpışma Gücü +1</style>\n[WhenUse] +3 [Vibration] Miktarı kazan\n<style=\"highlight\">6+ [Vibration] Miktarında, Jeton Gücü +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı Kazan"
+                  "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Vibration] Uygula"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Vibration] uygula"
                 }
               ]
             },
@@ -726,19 +726,19 @@
         {
           "level": 4,
           "name": "Baston Biçimlendirme Tekniği",
-          "desc": "[WhenUse] Eğer hedefte <style=\"highlight\">6</style>+ [Vibration] varsa, Çarpışma Gücü +1\n[WhenUse] +3 [Vibration] Miktarı Kazan\n<style=\"highlight\">5</style>+ [Vibration] Miktarında, Jeton Gücü +1",
+          "desc": "[WhenUse] Eğer hedefte <style=\"highlight\">6</style>+ [Vibration] varsa, Çarpışma Gücü +1\n[WhenUse] +3 [Vibration] Miktarı kazan\n<style=\"highlight\">5</style>+ [Vibration] Miktarında, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı Kazan"
+                  "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 [Vibration] Uygula<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 3 [Vibration] uygula<style=\"highlight\"></style>"
                 }
               ]
             },
