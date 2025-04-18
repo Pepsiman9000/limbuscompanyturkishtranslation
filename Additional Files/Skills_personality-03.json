@@ -1044,7 +1044,7 @@
         {
           "level": 1,
           "name": "Yeter Artık!",
-          "desc": "Bu Yetenekle Vurulduğunda: HP'ye verilen hasarının %30'u kadar iyileştirme sağlanır (en fazla 10)\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 5 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazanılır.\n- Eğer bu birim [BloodDinner] tüketemezse, Kendine 5 [Laceration] uygular.",
+          "desc": "Bu Yetenekle Vurulduğunda: HP'ye verilen hasarının %30'u kadar iyileştirme sağlanır (en fazla 10)\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 5 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazan.\n- Eğer bu birim [BloodDinner] tüketemezse, Kendine 5 [Laceration] uygula.",
           "coinlist": [
             {},
             {
@@ -1059,7 +1059,7 @@
         {
           "level": 2,
           "name": "Yeter Artık!",
-          "desc": "Bu Yetenekle Vurulduğunda: HP'ye verilen hasarının %30'u kadar iyileştirme sağlanır (en fazla 10)\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 5 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazanılır.\n- Eğer bu birim [BloodDinner] tüketemezse, Kendine 5 [Laceration] uygular.\n<style=\"highlight\">[WhenUse] Hedefte eğer 6+ [Laceration] varsa, Tura Gücü +1.</style>",
+          "desc": "Bu Yetenekle Vurulduğunda: HP'ye verilen hasarının %30'u kadar iyileştirme sağlanır (en fazla 10)\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 5 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazan.\n- Eğer bu birim [BloodDinner] tüketemezse, Kendine 5 [Laceration] uygula.\n<style=\"highlight\">[WhenUse] Hedefte eğer 6+ [Laceration] varsa, Tura Gücü +1.</style>",
           "coinlist": [
             {},
             {
@@ -1074,19 +1074,19 @@
         {
           "level": 4,
           "name": "Yeter Artık!",
-          "desc": " Bu Yetenekle Vurulduğunda: HP'ye verilen hasarının %30'u kadar iyileştirme sağlanır (en fazla 10)\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 5 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazanılır.\n- Eğer bu birim [BloodDinner] tüketemezse, Kendine 5 [Laceration] uygular.\n<style=\"highlight\">[WhenUse] Hedefteki her 6+ [Laceration] için, Tura Gücü +1 (en fazla +2).</style>",
+          "desc": " Bu Yetenekle Vurulduğunda: HP'ye verilen hasarının %30'u kadar iyileştirme sağlanır (en fazla 10)\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 5 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazan.\n- Eğer bu birim [BloodDinner] tüketemezse, Kendine 5 [Laceration] uygula.\n<style=\"highlight\">[WhenUse] Hedefteki her 6+ [Laceration] için, Tura Gücü +1 (en fazla +2).</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Rakibe 2 [Laceration] uygular"
+                  "desc": "[OnSucceedAttack] Rakibe 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Rakibe 2 [Laceration] uygular"
+                  "desc": "[OnSucceedAttack] Rakibe 2 [Laceration] uygula"
                 }
               ]
             }
@@ -1100,12 +1100,12 @@
         {
           "level": 1,
           "name": "Bırakın Filizlensinler!",
-          "desc": "Bu Yetenekle Vurulduğunda: verilen HP hasarının %30'u kadar HP yenile (max 10)\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 10 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazanılır\n- Eğer bu birim [BloodDinner] tüketemezse, kendine 5 [Laceration] uygular\n[BeforeAttack] 10+ [BloodArmorPersonalityFirst] varsa, Atk Ağırlığı +1",
+          "desc": "Bu Yetenekle Vurulduğunda: verilen HP hasarının %30'u kadar HP yenile (max 10)\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 10 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazan\n- Eğer bu birim [BloodDinner] tüketemezse, kendine 5 [Laceration] uygula\n[BeforeAttack] 10+ [BloodArmorPersonalityFirst] varsa, Atk Ağırlığı +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Rakibe 2 [Laceration] uygular"
+                  "desc": "[OnSucceedAttack] Rakibe 2 [Laceration] uygula"
                 }
               ]
             },
@@ -1124,12 +1124,12 @@
         {
           "level": 2,
           "name": "Bırakın Filizlensinler!",
-          "desc": "Bu Yetenekle Vurulduğunda: verilen HP hasarının %30'u kadar HP yenile (max 10)\n [WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 10 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazanılır\nEğer bu birim [BloodDinner] tüketemezse, Kendine 5 [Laceration] uygular [BeforeAttack] 10+ [BloodArmorPersonalityFirst] varsa, Atk Weight +1 kendine uygulanır (maks 2)",
+          "desc": "Bu Yetenekle Vurulduğunda: verilen HP hasarının %30'u kadar HP yenile (max 10)\n [WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 10 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazan\nEğer bu birim [BloodDinner] tüketemezse, Kendine 5 [Laceration] uygula [BeforeAttack] 10+ [BloodArmorPersonalityFirst] varsa, Atk Weight +1 kendine uygulanır (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Laceration] uygular"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
@@ -1139,7 +1139,7 @@
                   "desc": "Hedefteki her [Laceration] için %2.5 daha fazla hasar ver (maks %25)"
                 },
                 {
-                  "desc": "Her 100 [BloodDinner_Accumulation] için +%10 daha fazla hasar uygular (maksimum +%50)."
+                  "desc": "Her 100 [BloodDinner_Accumulation] için +%10 daha fazla hasar uygula (maksimum +%50)."
                 }
               ]
             }
@@ -1148,12 +1148,12 @@
         {
           "level": 4,
           "name": "Bırakın Filizlensinler!",
-          "desc": "Bu Yetenekle Vurulduğunda: Verilen HP hasarının %30'u kadar HP yenile (maksimum 10)\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 10 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazanır\n- Eğer bu birim [BloodDinner] tüketemezse, Kendine 5 [Laceration] uygular\n[WhenUse] Hedefteki her 6 [Laceration] için Tura Gücü +1 (maksimum 2)\n[BeforeAttack] Üzerinde her 10 [BloodArmorPersonalityFirst] için Atk Weight +1 (maksimum 2)",
+          "desc": "Bu Yetenekle Vurulduğunda: Verilen HP hasarının %30'u kadar HP yenile (maksimum 10)\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve bu birimin tükettiği her 10 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazanır\n- Eğer bu birim [BloodDinner] tüketemezse, Kendine 5 [Laceration] uygula\n[WhenUse] Hedefteki her 6 [Laceration] için Tura Gücü +1 (maksimum 2)\n[BeforeAttack] Üzerinde her 10 [BloodArmorPersonalityFirst] için Atk Weight +1 (maksimum 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Laceration] uygular"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
@@ -1177,14 +1177,14 @@
         {
           "level": 3,
           "name": "Seni Kazığa Geçireceğim",
-          "desc": " Bu Yetenekle Vurulduğunda: Verilen HP hasarının %50'si kadar HP yenile (maksimum 10) [WhenUse] Her 10 [BloodArmorPersonalityFirst] için kendine Çarpışma Gücü +1 uygular (maksimum 2) [WhenUse] Hedefte 10+ [Laceration] varsa, Tura Gücü +1 kazanır [WhenUse] En fazla 50 [BloodDinner] tüketilir ve tüketilen her 10 [BloodDinner] için kendine 1 [BloodArmorPersonalityFirst] uygulanır - Eğer bu birim [BloodDinner] tüketemezse, kendine 10 [Laceration] uygular [WhenUse] Hedefteki her [Laceration] için %5 daha fazla hasar uygular (maksimum %50) [WhenUse] Kendi tarafından biriktirilen her 100 [BloodDinner_Accumulation] için %10 daha fazla hasar uygular (maksimum %50) [EndSkill] Hedef mağlup edilirse, [BloodDinner] 60 artar; kendine 10 [BloodArmorPersonalityFirst] uygular (tur başına bir kez)",
+          "desc": " Bu Yetenekle Vurulduğunda: Verilen HP hasarının %50'si kadar HP yenile (maksimum 10) [WhenUse] Her 10 [BloodArmorPersonalityFirst] için kendine Çarpışma Gücü +1 uygula (maksimum 2) [WhenUse] Hedefte 10+ [Laceration] varsa, Tura Gücü +1 kazanır [WhenUse] En fazla 50 [BloodDinner] tüketilir ve tüketilen her 10 [BloodDinner] için kendine 1 [BloodArmorPersonalityFirst] uygulanır - Eğer bu birim [BloodDinner] tüketemezse, kendine 10 [Laceration] uygula [WhenUse] Hedefteki her [Laceration] için %5 daha fazla hasar uygula (maksimum %50) [WhenUse] Kendi tarafından biriktirilen her 100 [BloodDinner_Accumulation] için %10 daha fazla hasar uygula (maksimum %50) [EndSkill] Hedef mağlup edilirse, [BloodDinner] 60 artar; kendine 10 [BloodArmorPersonalityFirst] uygula (tur başına bir kez)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Rakibe 3 [Laceration] uygular"
+                  "desc": "[OnSucceedAttack] Rakibe 3 [Laceration] uygula"
                 }
               ]
             }
@@ -1193,7 +1193,7 @@
         {
           "level": 4,
           "name": "Seni Kazığa Geçireceğim",
-          "desc": "Bu Yetenekle Vurulduğunda: Verilen HP hasarının %50'si kadar HP yenile (maksimum 10)\n[WhenUse] Her 10 [BloodArmorPersonalityFirst] için Çarpışma Gücü +1 kazanır (maksimum 2)\n[WhenUse] Hedefteki her 5 [Laceration] için Tura Gücü +1 kazanır (maksimum 2)</style>\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve tüketilen her 10 [BloodDinner] için kendine 1 [BloodArmorPersonalityFirst] uygular\n- Eğer bu birim [BloodDinner] tüketemezse,kendine 10 [Laceration]  uygulanır\n[WhenUse] Hedefteki her [Laceration] için %5 daha fazla hasar uygular (maksimum %50)\n[WhenUse] Kendi tarafından biriktirilen her 100 [BloodDinner_Accumulation] için %20</style> daha fazla hasar uygular (maksimum %)\n[EndSkill] Eğer Hedef mağlup edilirse, [BloodDinner] 60 artar; 10 [BloodArmorPersonalityFirst] kazanır (tur başına bir kez)",
+          "desc": "Bu Yetenekle Vurulduğunda: Verilen HP hasarının %50'si kadar HP yenile (maksimum 10)\n[WhenUse] Her 10 [BloodArmorPersonalityFirst] için Çarpışma Gücü +1 kazanır (maksimum 2)\n[WhenUse] Hedefteki her 5 [Laceration] için Tura Gücü +1 kazanır (maksimum 2)</style>\n[WhenUse] En fazla 50 [BloodDinner] tüketilir ve tüketilen her 10 [BloodDinner] için kendine 1 [BloodArmorPersonalityFirst] uygula\n- Eğer bu birim [BloodDinner] tüketemezse,kendine 10 [Laceration]  uygulanır\n[WhenUse] Hedefteki her [Laceration] için %5 daha fazla hasar uygula (maksimum %50)\n[WhenUse] Kendi tarafından biriktirilen her 100 [BloodDinner_Accumulation] için %20</style> daha fazla hasar uygula (maksimum %)\n[EndSkill] Eğer Hedef mağlup edilirse, [BloodDinner] 60 artar; 10 [BloodArmorPersonalityFirst] kazanır (tur başına bir kez)",
           "coinlist": [
             {},
             {},
@@ -1214,7 +1214,7 @@
         {
           "level": 1,
           "name": "Kahkahalar Sona Erecek",
-          "desc": "[DuelCounter]\n[StartBattle] En fazla 50 [BloodDinner] tüketilir ve her 10 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazanılır\n- Eğer bu birim [BloodDinner] tüketemezse, 10 [Laceration] kazanılır\n[StartBattle] En düşük HP'ye sahip 1 müttefike: her 50 [BloodDinner_Common_Accumulation] için 1 [SwirlingBloodPersonality] uygulanır (maksimum 10, her turda bir kez)",
+          "desc": "[DuelCounter]\n[StartBattle] En fazla 50 [BloodDinner] tüketilir ve her 10 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazan\n- Eğer bu birim [BloodDinner] tüketemezse, 10 [Laceration] kazan\n[StartBattle] En düşük HP'ye sahip 1 müttefike: her 50 [BloodDinner_Common_Accumulation] için 1 [SwirlingBloodPersonality] uygulanır (maksimum 10, her turda bir kez)",
           "coinlist": [
             {},
             {
@@ -1229,13 +1229,13 @@
         {
           "level": 4,
           "name": "Kahkahalar Sona Erecek",
-          "desc": "[DuelCounter]\n[StartBattle] En fazla 50 [BloodDinner] tüketilir ve her 10 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazanılır\n- Eğer bu birim [BloodDinner] tüketemezse, 10 [Laceration] kazanılır\n[StartBattle] En düşük HP'ye sahip 1 müttefike: her 50 [BloodDinner_Common_Accumulation] için 1 [SwirlingBloodPersonality] uygulanır (maksimum <style=\"highlight\">15</style>, her turda bir kez)",
+          "desc": "[DuelCounter]\n[StartBattle] En fazla 50 [BloodDinner] tüketilir ve her 10 [BloodDinner] için 1 [BloodArmorPersonalityFirst] kazan\n- Eğer bu birim [BloodDinner] tüketemezse, 10 [Laceration] kazan\n[StartBattle] En düşük HP'ye sahip 1 müttefike: her 50 [BloodDinner_Common_Accumulation] için 1 [SwirlingBloodPersonality] uygulanır (maksimum <style=\"highlight\">15</style>, her turda bir kez)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygular"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -1249,7 +1249,7 @@
         {
           "level": 1,
           "name": "Sancho Varyantı Sertkan Teknikleri 6 – Kırbaç",
-          "desc": "Bu Yetenekle Vurulduğunda: Verilen HP hasarının %50'si kadar HP yenile (maksimum 20)\n[WhenUse] 20 [Laceration] kazanır\n[WhenUse] Her 10 [BloodArmorPersonalityFirst] için Vuruşta 1 [Laceration] daha uygular (maksimum 2). Saldırı Sonrası, 10 [BloodArmorPersonalityFirst] tüketilir",
+          "desc": "Bu Yetenekle Vurulduğunda: Verilen HP hasarının %50'si kadar HP yenile (maksimum 20)\n[WhenUse] 20 [Laceration] kazanır\n[WhenUse] Her 10 [BloodArmorPersonalityFirst] için Vuruşta 1 [Laceration] daha uygula (maksimum 2). Saldırı Sonrası, 10 [BloodArmorPersonalityFirst] tüketilir",
           "coinlist": [
             {
               "coindescs": [
@@ -1311,7 +1311,7 @@
         {
           "level": 4,
           "name": "Sancho Varyantı Sertkan Teknikleri 6 – Kırbaç",
-          "desc": "Bu Yetenekle Vurulduğunda: Verilen HP hasarının %50’si kadar HP yenile (maksimum 20)\n[WhenUse] Hedefteki her 6 [Laceration] için Tura Gücü +1 kazanır (maksimum 2\n[WhenUse] 20 [Laceration] kendine uygulanır\n[WhenUse] Her 10 [BloodArmorPersonalityFirst] için Vuruş Başına +1 ilave [Laceration] uygular (maksimum 2); Saldırı sonrası 10 [BloodArmorPersonalityFirst] tüketilir",
+          "desc": "Bu Yetenekle Vurulduğunda: Verilen HP hasarının %50’si kadar HP yenile (maksimum 20)\n[WhenUse] Hedefteki her 6 [Laceration] için Tura Gücü +1 kazanır (maksimum 2\n[WhenUse] 20 [Laceration] kendine uygulanır\n[WhenUse] Her 10 [BloodArmorPersonalityFirst] için Vuruş Başına +1 ilave [Laceration] uygula (maksimum 2); Saldırı sonrası 10 [BloodArmorPersonalityFirst] tüketilir",
           "coinlist": [
             {},
             {
