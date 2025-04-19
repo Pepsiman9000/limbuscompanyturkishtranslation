@@ -18,14 +18,14 @@
     {
       "id": 3,
       "model": "파우스트",
-      "content": "Şu an ki tecrübesizliğimizi göz önüne alarak ilk yoluluğumuz için bir rehber çağırmayı uygun gördüm."
+      "content": "Şu an ki tecrübesizliğimizi göz önüne alarak ilk yolculuğumuz için bir rehber çağırmayı uygun gördüm."
     },
     {
       "id": 4,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşbitirici",
-      "content": "Kusura bakmayın, Limbus Company'dekiler sizler misiniz??"
+      "title": "8. Sınıf işçözücü",
+      "content": "Kusura bakmayın, Limbus Şirketi'ndekiler sizler misiniz??"
     },
     {
       "id": 5,
@@ -35,7 +35,7 @@
       "id": 6,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşbitirici",
+      "title": "8. Sınıf işçözücü",
       "content": "Evet, öyle görünüyor…"
     },
     {
@@ -51,8 +51,8 @@
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşbitirici",
-      "content": "Ben Yuri, L Kurulu'un eski bir çalışanıyım. Sizinle çalışmak için sabırsızlanıyorum."
+      "title": "8. Sınıf işçözücü ",
+      "content": "Ben Yuri, L Kuruluşu'un eski bir çalışanıyım. Sizinle çalışmak için sabırsızlanıyorum."
     },
     {
       "id": 10,
@@ -62,12 +62,12 @@
     {
       "id": 11,
       "model": "그레고르",
-      "content": "Has to be Lobotomy Corporation."
+      "content": "Lobotomy Kuruluşu'ndan bahsediyor."
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "Evet, bizim görevimiz eski Lobotomy Kurulu ,eski L Kurulu da diyebilirsiniz, şubelerine yolculuk etmek."
+      "content": "Evet, bizim görevimiz eski Lobotomy Kuruluşu ,eski L Kuruluşu da diyebilirsiniz, şubelerine yolculuk etmek."
     },
     {
       "id": 13,
@@ -92,17 +92,17 @@
     {
       "id": 17,
       "model": "파우스트",
-      "content": "*Canavarlar* değil, Anomaliler. Dedikodular doğru Amma velakin, şimdi daha elzem işlerimiz var."
+      "content": "'Canavarlar' değil, Anomaliler. Dedikodular doğru Amma velakin, şimdi daha elzem işlerimiz var."
     },
     {
       "id": 18,
       "model": "파우스트",
-      "content": "Bu şubelerde neoplastik bitkisel ."
+      "content": "Bu şubelerin muzlim derinliklerinde 'Neoplastik Bitkisel Oluşumlar' L Kuruluşu'nun teknolojisinin tözünü barındırıyor."
     },
     {
       "id": 19,
       "model": "베르길리우스",
-      "content": "Dante, Hatırlarsan, bir kaç gün önce bayan Faust sana *Amacına ulaşbiliceğin*'i söylemişti."
+      "content": "Dante, Hatırlarisen, bir kaç gün önce bayan Faust sana *Amacına ulaşbiliceğin*'i söylemişti."
     },
     {
       "id": 20,
@@ -124,21 +124,21 @@
     },
     {
       "id": 24,
-      "content": "I returned a slow nod to Faust’s placid advice."
+      "content": "Faust'un ağırbaşlı ifadesine karşı kafa salladım."
     },
     {
       "id": 25,
-      "content": "Alright, for now, I should focus on what I currently know and see."
+      "content": "Hadi bakalım, şimdilik bilgim dahlinde olanlara odaklanmalıyım."
     },
     {
       "id": 26,
       "model": "단테",
-      "content": "<And if it’s Lobotomy Corp we’re scouring… we might find some Enkephalin, too.>"
+      "content": "<Ve… Eğer Lobotomy kuruluşu'nu yağmalayacaksak, biraz Enkefalin >"
     },
     {
       "id": 27,
       "model": "싱클레어",
-      "content": "Oh, does that mean we won’t have to… feed people into our vehicle?"
+      "content": "Ahh, o zaman demek ki… artık aracımıza insan yedirmemiz gerekmiyecek..?"
     },
     {
       "id": 28,
@@ -147,15 +147,15 @@
     },
     {
       "id": 29,
-      "content": "E.G.O? That’s another unknown term that makes my head tilt…"
+      "content": "E.G.O? bana mestur bir terim daha…"
     },
     {
       "id": 30,
-      "content": "But in any case, it seemed rather rude to keep talking to each other when we had a guest on board."
+      "content": "Ama ekibimize yabancı biri katılmışken kendi aramızda sohbet etmemiz etik olmazdı."
     },
     {
       "id": 31,
-      "content": "…And someone else seemed to agree."
+      "content": "…Birileride bana katılıyor gibi olacaktı ki…"
     },
     {
       "id": 32,
@@ -164,20 +164,20 @@
     },
     {
       "id": 33,
-      "content": "Gregor gave his best shot at making some conversation with a well-meaning smile to put the newest passenger at ease."
+      "content": "Gregor otobüsümüzün en yeni üyersinin çekingenliğini kırmak için iyi niyetli bir gülümsemeyle sohbet başlatmaya çalıştı."
     },
     {
       "id": 34,
-      "content": "His brows seemed to twitch due to a lack of practice, but it’s no big deal."
+      "content": "Yüzündeki kaslar benzer bir durumda bulunmadığı belli ediyordu ama... Bu kusurunu herkes görmezden geldi."
     },
     {
       "id": 35,
       "model": "돈키호테",
-      "content": "It appears to me that thou art an honorable Fixer! It is said that all Fixers exude the noble scent of heroes!"
+      "content": "Aha Zannıma ilişti ki siz efendim, şaner bir işçözücüsünüz! Ve her işçözücüden mertlerin asil rayihası akar!"
     },
     {
       "id": 36,
-      "content": "As Yuri was nodding lightly, I heard Ishmael let out a deep sigh."
+      "content": "Yuri karşısındaki hevesi dinlerken, Ishmael'in derin iç çekişleri kulağıma ilişti."
     },
     {
       "id": 37,
@@ -210,7 +210,7 @@
       "id": 42,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşbitirici",
+      "title": "8. Sınıf İşçözücü",
       "content": "…My contracts might get extended if I return with results."
     },
     {
@@ -235,16 +235,16 @@
     },
     {
       "id": 47,
-      "content": "Seemingly unaffected by the abrasive attitude, Yuri quietly took an empty seat."
+      "content": "Geçen yıpratıcı konuşmalarden etkilenmemiş gibi duran Yuri, sessizce boş bir koltuğa oturdu."
     },
     {
       "id": 48,
-      "content": "Looking back and forth between the two, Gregor returned to his seat as well, scratching his head."
+      "content": "Göz gezdirince, Gregor'un da kendi koltuğuna oturduğunu gördüm, kafasını kaşıyarak."
     },
     {
       "id": 49,
       "model": "단테",
-      "content": "<I… can’t seem to get used to being around these people.>"
+      "content": "<Sanırım… Böyle insanlarla birlikte yolculuk etmeye alışamayacağım.>"
     },
     {
       "id": 50,
