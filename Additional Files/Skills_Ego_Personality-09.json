@@ -552,6 +552,179 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2090811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Suçlu'nun Yargılanması",
+          "abName": "Yanan Düşes",
+          "desc": "[EndSkill] Canı en az olan (1 + En Yüksek Rezonans) müttefiğin canını 15% iyileştir (En fazla 3 müttefik)\n[EndSkill] 3 raunt boyunca, her raunt sonu 10 SP kaybet",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hedefe 6 [Combustion] uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Eğer ana hedefe vurursa, ana hedefe (1 + (Öfke Rezonansı / 3)) [BirdCage] uygula (En fazla 2; aşağı yuvarlanarak)"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Suçlu'nun Yargılanması",
+          "abName": "Yanan Düşes",
+          "desc": "<style=\"highlight\">[BeforeAttack] (En Yüksek Rezonans / 2) Saldırı Ağırlığı kazan (En fazla 3; aşağı yuvarlanarak)\n[EndSkill] Canı en az olan (1 + En Yüksek Rezonans) müttefiğin canını <style=\"highlight\">18</style>% iyileştir (En fazla 3 müttefik)\n[EndSkill] 3 raunt boyunca, her raunt sonu 10 SP kaybet",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">8</style> [Combustion] uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Eğer ana hedefe vurursa, ana hedefe (1 + (Öfke Rezonansı / 3)) [BirdCage] uygula (En fazla <style=\"highlight\">3</style>; aşağı yuvarlanarak)"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Suçlu'nun Yargılanması",
+          "abName": "Yanan Düşes",
+          "desc": "[BeforeAttack]  (En Yüksek Rezonans / 2) Saldırı Ağırlığı kazan (En fazla 3; aşağı yuvarlanarak)\n[EndSkill] Canı en az olan (1 + En Yüksek Rezonans) müttefiğin canını <style=\"highlight\">20</style>% iyileştir (En fazla 3 müttefik)\n[EndSkill] 3 raunt boyunca, her raunt sonu 10 SP kaybet",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">8</style> [Combustion] uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Eğer ana hedefe vurursa, ana hedefe (1 + (Öfke Rezonansı / 3)) [BirdCage] uygula (En fazla <style=\"highlight\">3</style>; aşağı yuvarlanarak)"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Suçlu'nun Yargılanması",
+          "abName": "Yanan Düşes",
+          "desc": "[CantIdentify]\nRastgele hedefler\n[BeforeAttack] (En Yüksek Rezonans / 2) Saldırı Ağırlığı kazan (En fazla 3; aşağı yuvarlanarak)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hedefe 6 [Combustion] uygula"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Eğer ana hedefe vurursa, hedefe (1 + Öfke Rezonansı) [BirdCage] uygula (En fazla 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Ana hedefteki her [Combustion] Miktarı için %1 daha fazla hasar ver (En fazla 50%)"
+                },
+                {
+                  "desc": "[EnemyKill] (1 + En yüksek rezonans) kadar en düşük HPli müttefiklere 1 [CrimsonResultUp] ve 1 [CrimsonDamageUp] uygula (En fazla 4 müttefik; her Yetenekte bir kere)"
+                 }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Suçlu'nun Yargılanması",
+          "abName": "Yanan Düşes",
+          "desc": "[CantIdentify]\nRastgele hedefler\n[BeforeAttack] (En Yüksek Rezonans / 2) Saldırı Ağırlığı kazan (En fazla 3; aşağı yuvarlanarak)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hedefe <style=\"highlight\">8</style> [Combustion] uygula"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Eğer ana hedefe vurursa, hedefe (1 + Öfke Rezonansı) [BirdCage] uygula (En fazla <style=\"highlight\">4</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Ana hedefteki her [Combustion] Miktarı için %1 daha fazla hasar ver (En fazla 50%)"
+                },
+                {
+                  "desc": "[EnemyKill] (1 + En yüksek rezonans) kadar en düşük HPli müttefiklere 1 [CrimsonResultUp] ve 1 [CrimsonDamageUp] uygula (En fazla <style=\"highlight\">5</style> müttefik; her Yetenekte bir kere)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Suçlu'nun Yargılanması",
+          "abName": "Yanan Düşes",
+          "desc": "[CantIdentify]\nc\n[BeforeAttack] (En Yüksek Rezonans / 2) Saldırı Ağırlığı kazan (En fazla 3; aşağı yuvarlanarak)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hedefe <style=\"highlight\">10</style> [Combustion] uygula"
+                },
+                {
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] Hedefe +1 [Combustion] Miktarı uygula </style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Eğer ana hedefe vurursa, hedefe (1 + Öfke Rezonansı) [BirdCage] uygula (En fazla <style=\"highlight\">5</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Ana hedefe, ana hedefteki her [Combustion] Miktarı için +<style=\"highlight\">2</style>% hasar ver (En fazla <style=\"highlight\">100</style>%)"
+                },
+                {
+                  "desc": "[EnemyKill] (1 + En yüksek rezonans) kadar en düşük HPli müttefiklere 1 [CrimsonResultUp] ve 1 [CrimsonDamageUp] uygula (En fazla <style=\"highlight\">6</style> müttefik; her Yetenekte bir kere)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
