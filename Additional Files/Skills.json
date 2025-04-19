@@ -5238,7 +5238,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Baile y Rola",
+          "name": "Muta Madre Muchacho",
           "desc": "",
           "coinlist": [
             {
@@ -5253,7 +5253,7 @@
         },
         {
           "level": 2,
-          "name": "Baile y Rola",
+          "name": "Muta Madre Muchacho",
           "desc": "",
           "coinlist": [
             {
@@ -5268,7 +5268,7 @@
         },
         {
           "level": 4,
-          "name": "Baile y Rola",
+          "name": "Muta Madre Muchacho",
           "desc": "If target has 4+ [Sinking], Coin Power +1",
           "coinlist": [
             {
@@ -5288,7 +5288,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Danza de Pasión",
+          "name": "Senior por favor",
           "desc": "",
           "coinlist": [
             {
@@ -5316,7 +5316,7 @@
         },
         {
           "level": 2,
-          "name": "Danza de Pasión",
+          "name": "Senior por favor",
           "desc": "",
           "coinlist": [
             {
@@ -5350,7 +5350,7 @@
         },
         {
           "level": 4,
-          "name": "Danza de Pasión",
+          "name": "Senior por favor",
           "desc": "If target has 6+ [Sinking], Coin Power +2",
           "coinlist": [
             {
@@ -5389,7 +5389,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Pañata Party",
+          "name": "Quieres Taco?",
           "desc": "If target’s SP is below 0, boost crit chance proportional to target’s SP",
           "coinlist": [
             {
@@ -5403,7 +5403,7 @@
         },
         {
           "level": 4,
-          "name": "Pañata Party",
+          "name": "Quieres Taco?",
           "desc": "If target's SP is below 0, boost crit chance proportional to target's SP\nIf user has 5+ Poise Count, +30% Critical Damage",
           "coinlist": [
             {
@@ -5422,7 +5422,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "¿demasiado picante?",
           "desc": "",
           "coinlist": [
             {}
@@ -5430,7 +5430,7 @@
         },
         {
           "level": 4,
-          "name": "Evade",
+          "name": "¿demasiado picante?",
           "desc": "[OnSucceedEvade] Gain +1 Poise Count",
           "coinlist": [
             {}
