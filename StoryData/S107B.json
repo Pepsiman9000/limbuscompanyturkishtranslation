@@ -2,92 +2,92 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Mephistopheles'in İçerisi",
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Now Charon, tell me, is this east or west?"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Evet Charon, söyle bakalım, burası doğu mu batı mı?"
     },
     {
       "id": 1,
       "model": "카론",
-      "content": "Charon only knows two directions: Mephi’s front and back."
+      "content": "Charon sadece 2 yön biliyor: Mephi’nin önü ve arkası."
     },
     {
       "id": 2,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "How did you come so far with a driver who has zero sense of direction?"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Bunca yolu sürmeyi bilmeyen bir şöför ile nasıl geldiniz?"
     },
     {
       "id": 3,
       "model": "싱클레어",
-      "content": "Charon… Like I said, the sun rises from…"
+      "content": "Charon… dediğim gibi, güneş nerden kalkıyordu…"
     },
     {
       "id": 4,
-      "content": "At the driver’s seat, three heads gathered together over a map."
+      "content": "Sürücü koltuğunda üç baş bir haritanın üzerinde el ele vermişti."
     },
     {
       "id": 5,
-      "content": "Well, one of them might have been at a slightly different elevation from the others."
+      "content": "Her ne kadar bir tanesi diğerlerinden daha farklı bir havada olsada."
     },
     {
       "id": 6,
       "model": "로쟈",
-      "content": "Pft… Chiquita~ Aren’t you gonna join them too?"
+      "content": "Pıff… Chiquita~ Sende katılsana onlara?"
     },
     {
       "id": 7,
       "model": "돈키호테",
-      "content": "I beg your pardon! I am no child! And most certainly not little!"
+      "content": "Pardon! Ne bir veled, katiyetlede ne de bodurum!  "
     },
     {
       "id": 8,
-      "content": "Watching Don Quixote shake her fist sky-high at Rodya, I noticed a bitter gaze falling upon them out of the corner of my view."
+      "content": "Don Quixote elini Rodya ya karşı kaldırdığı anda köşeden onlara doğru nazar eden bir kızıllık fark ettim."
     },
     {
       "id": 9,
       "model": "단테",
-      "content": "<…I’m starting to think that Yuri gal might’ve put up with a rough childhood.>"
+      "content": "<…Yuri'nin zorlu bir çocukluk geçirdiğini düşünmeye başlıyorum.>"
     },
     {
       "id": 10,
-      "content": "Gregor turned around to take a glance in my direction, then shook his head and went back to looking at the driver’s side with his chin resting on his hand."
+      "content": "Gregor bana doğru yöneldi, kafasıyla onaylayıp sürücü koltuğunun arkasına elini çenesine koyarak, oturdu."
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "…Wouldn’t be on the youngest side, either. Some Nests used to conscript anyone old enough to hold a knife."
+      "content": "…En gencide olmaz. Bazı Yuvalar bıçak tutabilicek yaşa geldiğin anda seni ön cepheye sürerlerdi."
     },
     {
       "id": 12,
-      "content": "Nests… A Nest was basically the center of a District, if my memory is correct."
+      "content": "Yuvalar… Bir Yuva kaba tabir ile bir Eyalet'in merkezi gibi birşeydi, eğer hafızam beni yanıltmıyorsa."
     },
     {
       "id": 13,
-      "content": "Sounds like Nests used to get into wars with one another in the past."
+      "content": "Öyle görünüyor ki Yuvalar geçmişte sık sık birbirleriyle savaşa tutuluyorlarmış."
     },
     {
       "id": 14,
       "model": "단테",
-      "content": "<Did that happen often?>"
+      "content": "<Sıkça yaşanırmıydı?>"
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "Not frequently, but it sure as hell did happen."
+      "content": "O kadar da değil, ama oldu mu oldu."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "…Interested in learning about wars, Manager Bud?"
+      "content": "…Şehir'in tarihine merak mı sardın, Müdür Ahbap"
     },
     {
       "id": 17,
       "model": "단테",
-      "content": "<Oh, I’m not really curious about the details, just gathering info I should know as the manager…>"
+      "content": "<Oh, detaylara gerek yok, müdür olarak ne bilmem gerekiyorsa…>"
     },
     {
       "id": 18,
@@ -124,7 +124,7 @@
       "id": 25,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "8. Sınıf İşçözücü",
       "content": "No, you should’ve turned right at that intersection!"
     },
     {
