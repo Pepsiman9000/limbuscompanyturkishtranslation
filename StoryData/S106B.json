@@ -17,7 +17,7 @@
     },
     {
       "id": 2,
-      "content": "Cevap yok, otobüs hızlanmaya devam ediyor."
+      "content": "Cevapsız, otobüs hızlanmaya devam ediyor."
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
     {
       "id": 6,
       "model": "카론",
-      "content": "Pembe saçlı, neden o yalan kağıdı Charon'un yüzüne sokmaya çalıştığını söyle."
+      "content": "Pembemsi saç, neden o meçhul kağıdı Charon'un yüzüne sokmaya çalıştığını söyle."
     },
     {
       "id": 7,
@@ -50,7 +50,7 @@
     },
     {
       "id": 8,
-      "content": "Charon isteksizce kağıda üstünkörü bir bakış atar, gözlerinin önündeki şeyi yok sayamayacağını bilerek."
+      "content": "Charon isteksizce kağıda üstünkörü bir bakış attı, gözlerinin önündeki şeyi yok sayamayacağını bilerek."
     },
     {
       "id": 9,
@@ -60,7 +60,7 @@
     {
       "id": 10,
       "model": "돈키호테",
-      "content": "Dinle, dinle! Hepimiz kalplerimizin gösterdiği yolu takip etmeliyiz!"
+      "content": "Heyhat, Heyhat! Yürek, en yetkin rehber!"
     },
     {
       "id": 11,
@@ -76,7 +76,7 @@
     },
     {
       "id": 13,
-      "content": "Yuri ve Ishmael avuclarını yüzlerine koydular, neredeyse sanki senkronizelermiş gibi."
+      "content": "Yuri ve Ishmael ellerini alınlarına çaldılar, sanki senkronizelermiş gibi."
     },
     {
       "id": 14,
@@ -86,7 +86,7 @@
     {
       "id": 15,
       "model": "카론",
-      "content": "Pembeli gevezelik edip duruyor. Yolu biliyorum."
+      "content": "Pembemsi gevezelik edip duruyor. Yolu biliyorum."
     },
     {
       "id": 16,
@@ -109,17 +109,17 @@
       "id": 19,
       "teller": "Famished Hooligan",
       "title": "District 4 Backstreets",
-      "content": "Bakın! Güzel otobüsünüz varmış! Neden beni de bi bindirmiyonuz!"
+      "content": "Bakın! Ne güzel bir otobüs! Neden beni de bi bindirmiyonuz!"
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "…Yani Mephistopheles bi tatlıya hayır demez."
+      "content": "…Sanırım Mephistopheles bi tatlıya hayır demez."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "Aşağı inin… Biraz daha beslenmesi lazım."
+      "content": "Aşağı inin… son bir kaç damla daha."
     }
   ]
 }
