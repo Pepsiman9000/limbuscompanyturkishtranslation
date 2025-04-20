@@ -175,80 +175,80 @@
     {
       "id": 34,
       "model": "파우스트",
-      "content": "He was never really the quiet sort."
+      "content": "Her zaman böyle sessiz birisi değildi."
     },
     {
       "id": 35,
       "model": "파우스트",
-      "content": "He only had a… shift recently."
+      "content": "Yakın zamanda... Biraz değişim gösterdi."
     },
     {
       "id": 36,
       "model": "오티스",
-      "content": "It’s not a bad thing to have more lackeys with keen eyes."
+      "content": "Böyle gözlemci kişilere sahip olmamız güzel."
     },
     {
       "id": 37,
       "model": "오티스",
-      "content": "I’d like you to keep that up. Let us march."
+      "content": "Böyle devam etmen çok makbule geçer. Hadi ilerleyelim."
     },
     {
       "id": 38,
       "model": "이상",
-      "content": "You make yourself look like the captain here. I dare say that role belongs to the manager."
+      "content": "Kaptan olan sizmişsiniz gibi davranıyorsunuz. Bana sorarsanız bu rol menajere aittir."
     },
     {
       "id": 39,
       "model": "오티스",
-      "content": "…Please forgive my insolence, Manager."
+      "content": "…Arsızlığımı bağışlayın lütfen, Menajer."
     },
     {
       "id": 40,
-      "content": "Frowning as though she were caught off-guard, Outis bows to me as she apologizes."
+      "content": "Ansızın yakalandığı için biraz sinirleri hoplamış olsa dahi, Önümde başını eğip özür dilemişti."
     },
     {
       "id": 41,
       "model": "단테",
-      "content": "<N-No, it’s nothing. Let’s head down.>"
+      "content": "<Hayır hayır, sorun değil. İlerleyelim.>"
     },
     {
       "id": 42,
-      "content": "Most of the corpses’ body parts were morphed in bizarre ways."
+      "content": "Bir çok cesedin parçaları, garipsenecek şekillere bürünmüştü."
     },
     {
       "id": 43,
-      "content": "One had pairs of wings protruding through their intestines, and another had horribly twisted antennae hanging down."
+      "content": "Birisinin iç organlarından kanatlar çıkarken, birisinden ise antenler çıkıveriyordu."
     },
     {
       "id": 44,
       "model": "유리",
       "teller": "Yuri",
       "title": "Sınıf 8 İşçözen",
-      "content": "These look kinda similar to the thugs we ran into just before, don’t they?"
+      "content": "Önceden karşılaştıklarımıza pek bir benziyorlar, değil mi?"
     },
     {
       "id": 45,
       "model": "이스마엘",
-      "content": "You mean those bug-headed people?"
+      "content": "Şu böcek kafalılardan mı bahsediyorsun?"
     },
     {
       "id": 46,
       "model": "오티스",
-      "content": "Quiet, I’m seeing Uniform Tangos ahead."
+      "content": "Sessizlik. İleride savaş gazileri görüyorum "
     },
     {
       "id": 47,
-      "content": "As Outis noted, multiple figures could be seen down the corridor."
+      "content": "Outis'in dediği gibi, birkaç figür ilerimize duruyordu."
     },
     {
       "id": 48,
       "model": "로쟈",
-      "content": "(Uni…form? What’s all that?)"
+      "content": "(Savaş gazisi mi? Niye ki?)"
     },
     {
       "id": 49,
       "model": "그레고르",
-      "content": "(Unidentified targets… Possibly hostile.)"
+      "content": "(Kimliği belirsiz hedefler… Muhtemelen düşmanlarımız.)"
     },
     {
       "id": 50,
@@ -257,191 +257,191 @@
     },
     {
       "id": 51,
-      "content": "I’m sure one idea crossed all of our minds:"
+      "content": "Eminim ki bir şey hepimizin aklına gelmiştir:"
     },
     {
       "id": 52,
-      "content": "The enigmatic ‘Abnormalities’ that might be roaming this facility, as Faust mentioned."
+      "content": "Faust'un bahsettiği anomaliler, bu binada başıboş dolaşıyor olabilir."
     },
     {
       "id": 53,
-      "content": "That might be what those shadowy figures are."
+      "content": "Belki de önümüzde duran figürler, aynen bu anomalilerdendir."
     },
     {
       "id": 54,
       "model": "오티스",
-      "content": "…We have no choice but to face them."
+      "content": "…Onlarla yüzleşmekten başka çaremiz yok."
     },
     {
       "id": 55,
-      "teller": "Crooked Veteran",
+      "teller": "Çarpık Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "Hey! Who goes there?!"
+      "content": "Hey! Kim var orada?!"
     },
     {
       "id": 56,
-      "content": "Instead, what we faced was people."
+      "content": "Düşündüğümüz aksine, insanlarla karşılaşmıştık."
     },
     {
       "id": 57,
-      "content": "It was too early to deem that as fortunate, though."
+      "content": "Bunu bir talih olarak nitelendirmek için çok erkendi tabii ki."
     },
     {
       "id": 58,
-      "teller": "Crooked Veteran",
+      "teller": "Çarpık Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "Huh? I thought we were the only people ‘round here."
+      "content": "Hah? Burada bi' tek biz kaldık sanıyordum."
     },
     {
       "id": 59,
-      "teller": "Vulgar Veteran",
+      "teller": "Kaba Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "Did they slip past our team at the entrance? Those scavengers keep coming one after the other."
+      "content": "Girişteki ekibimizden mi sıyrıldılar? Bu yağmacılar da dur durak bilmiyor."
     },
     {
       "id": 60,
       "model": "히스클리프",
-      "content": "Oi, bug buggers! You friends with the bodies back there?"
+      "content": "Oi, böcek herifler. Şu cesetlerle arkadaş mıydınız?"
     },
     {
       "id": 61,
-      "teller": "Vulgar Veteran",
+      "teller": "Kaba Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "Bodies?! You bastards didn’t…"
+      "content": "Cesetler mi?! Yoksa sizler mi…"
     },
     {
       "id": 62,
-      "teller": "Crooked Veteran",
+      "teller": "Çarpık Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "Wait."
+      "content": "Bekle."
     },
     {
       "id": 63,
-      "teller": "Vulgar Veteran",
+      "teller": "Kaba Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "…I don’t know where you scum’re from, but hear me out a sec."
+      "content": "…Siz ucubeler neredensiniz en ufak fikrim yok, ama beni bi' dinleyin."
     },
     {
       "id": 64,
-      "teller": "Vulgar Veteran",
+      "teller": "Kaba Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "You’re here for the Enkephalin, aren’t ya? If you go just one floor down, there’s a treasure trove just waiting to be nabbed."
+        "content": "Enkefalin için buradasınız, değil mi? Bir kat aşağı inecek olursanız, Öğütülmeyi bekleyen gizli bir hazine sizi bekliyor"
     },
     {
       "id": 65,
-      "teller": "Vulgar Veteran",
+      "teller": "Kaba Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "Whatever’s on that floor is yours. We’ll just take what we can here and be on our…"
+      "content": "O katta ne bulursanız sizindir. Bu katta ne var ne yok alalım, ve…"
     },
     {
       "id": 66,
-      "teller": "Vulgar Veteran",
+      "teller": "Kaba Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "…way. Ha—Haha."
+      "content": "…yolumuza gidelim. Ha—Haha."
     },
     {
       "id": 67,
       "model": "그레고르",
-      "content": "Tsk, so you recognized me, huh."
+      "content": "Tsk, yani beni tanıyabildiniz."
     },
     {
       "id": 68,
-      "content": "The moment the soldier’s eyes landed on Gregor’s face…"
+      "content": "Askerin gözü Gregor'un yüzüne geldiği anda…"
     },
     {
       "id": 69,
-      "content": "Their thin veil of kindness was torn down."
+      "content": "Kibarlık rolünü ansızın bırakmışlardı."
     },
     {
       "id": 70,
-      "teller": "Crooked Veteran",
+      "teller": "Çarpık Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "Traitorous pissant…"
+      "content": "Seni hain…"
     },
     {
       "id": 71,
       "model": "그레고르",
-      "content": "Ahh, you must’ve been dispatched to the front lines too. I look better in real life than on those flyers, right?"
+      "content": "Ahh, seni de cephenin en önüne atmışlardır kesin. Gerçekten hayatta o kanatlar ile olduğundan daha iyi görünüyorum, değil mi?"
     },
     {
       "id": 72,
-      "teller": "Crooked Veteran",
+      "teller": "Çarpık Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "Cut the cheeky crap! I’m disgusted that I once saluted to your face."
+      "content": "Bırak lan yılışıklığı! Sana selam vermekten hep tiksiniyordum."
     },
     {
       "id": 73,
       "model": "그레고르",
-      "content": "Whoa, easy there, it’s not like you had to salute me in person."
+      "content": "Oha ama, rahat ol biraz, bana bizzat selam vermen gerekmiyordu ya."
     },
     {
       "id": 74,
-      "teller": "Vulgar Veteran",
+      "teller": "Kaba Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "While you posed as a normal member of society thanks to your dumbass privilege freeing you from the side effects…"
+      "content": "Seni yan etkilerden kurtaracak sikik avantajlar sayesinde toplumun normal bir üyesi gibi davranırken…"
     },
     {
       "id": 75,
-      "teller": "Vulgar Veteran",
+      "teller": "Kaba Gazi",
       "title": "G Kurul. Kalıntısı",
-      "content": "We never even got a chance, you fraternizer. We were thrown away right after the war was lost."
+      "content": "Bize böyle bir şans bile verilmedi, süt bebesi. Savaş kaybedildiği an bir tutam çöp gibi etrafa atıldık."
     },
     {
       "id": 76,
       "model": "그레고르",
-      "content": "…I was tossed out all the same, you know. Isn’t that how it is for all the soldiers?"
+      "content": "…Beni de attılar yahu. Her asker aynı kaderi paylaşmadı mı?"
     },
     {
       "id": 77,
       "model": "그레고르",
-      "content": "So this is the lifestyle you chose? Rifling through the trash like actual bugs?"
+      "content": "Sizin seçtiğiniz yaşam stili de bu mu yani? Harbili böcek misali çöpleri karıştırmak falan?"
     },
     {
       "id": 78,
       "model": "오티스",
-      "content": "Halt! No good can come out of taunting your foe!"
+      "content": "Yeter! Düşmanınla böylesine konuşmanın bize bir yararı yok!"
     },
     {
       "id": 79,
       "model": "그레고르",
-      "content": "You served the military too. Y’know where this is going."
+      "content": "Sen de askeriyede çalıştın ya. İşin nereye gideceğini biliyor olmalısın."
     },
     {
       "id": 80,
       "model": "그레고르",
-      "content": "We’re not getting outta this without a fight."
+      "content": "Savaşmadan bu düğümü çözemeyeceğiz."
     },
     {
       "id": 81,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "…We were planning to let you through, we really were."
+      "teller": "Çarpık Gazi",
+      "title": "G Kurul. Kalıntıs",
+      "content": "…Gerçekten de geçmenize izin verecektik halbuki."
     },
     {
       "id": 82,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "But now, I’ll mince you and your traitor friend into mutt meat."
+      "teller": "Kaba Gazi",
+      "title": "G Kurul. Kalıntıs",
+      "content": "Ama onun yerine, bu haini ve sizi kuşbaşına çevireceğiz."
     },
     {
       "id": 83,
       "model": "히스클리프",
-      "content": "Like hell you were. You were gonna wait for us to climb back up with the Enkephalin so you could backstab us and swipe it."
+      "content": "Yarram geçirecektiniz. Bizim Enkefalin ile çıkmamızı beklicektiniz ki bizi arkadan bıçaklayıp onu çalabilesiniz..."
     },
     {
       "id": 84,
       "model": "싱클레어",
-      "content": "W—Wait, were they?"
+      "content": "B-bekle, sahiden mi?"
     },
     {
       "id": 85,
       "model": "히스클리프",
-      "content": "They’ve fallen to rock bottom and below, an’ I swear down they don’t care a whit for honor, eh?"
+      "content": "Dibe, hatta onun da altına vurdular, ve yemin ederim ki onuru gram siklemiyolar."
     },
     {
       "id": 86,
       "model": "히스클리프",
-      "content": "Well-off or broke, people turn on each other as long as there’s something. You’re way too naive to think otherwise."
+      "content": "Zengin veya fakir olsun, insanlar bir şey olduğu sürece birbirlerinin boğazına atlar. Böyle düşünmüyosan çok safsın.."
     }
   ]
 }
