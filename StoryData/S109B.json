@@ -6,194 +6,194 @@
     },
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Mephistopheles'in İçi",
       "model": "카론",
-      "content": "We’re here. Charon knew the way all along."
+      "content": "İşte geldik. Charon yolu başından beri biliyordu."
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "No, no you didn’t! Sinclair and I had to steer you from both sides nonstop."
+      "title": "8. Sınıf İşçözücü",
+      "content": "Hayır, hayır bilmiyordun! Sinclair ve ben durmadan seni itip kakmak zorunda kaldık."
     },
     {
       "id": 2,
       "model": "싱클레어",
-      "content": "I’m glad that at least you learned to tell the difference between southeast and northeast, Charon."
+      "content": "En azından güneydoğu ve kuzeydoğu arasındaki farkı öğrenmenden gurur duyuyorum, Charon."
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<So this is… the old L Corp?>"
+      "content": "<Yani bu… eski L Kuruluşu mu?>"
     },
     {
       "id": 4,
       "model": "이스마엘",
-      "content": "This is my first time seeing it with my own eyes, too… It can’t have been long since ‘that’ happened."
+      "content": "Bu benim de kendi gözlerimle ilk görüşüm… 'O şey' yaşandığından beri çok da zaman geçmiş olmamalı."
     },
     {
       "id": 5,
       "model": "홍루",
-      "content": "My goodness… How can a building be in such a derelict state?"
+      "content": "Aman Allahım… bir bina nasıl bu kadar metruk bir halde olabilir?"
     },
     {
       "id": 6,
       "model": "히스클리프",
-      "content": "Hah, this is a surprising scene for our rich boy, is it."
+      "content": "Hah, bu bizim zengin çocuk için şaşırtıcı bir manzara, di mi?."
     },
     {
       "id": 7,
       "model": "베르길리우스",
-      "content": "Cut the chatter. Time to step off."
+      "content": "Gürültüyü kesin. Aşağı inme vakti."
     },
     {
       "id": 10,
-      "place": "District 4 - LC Branch Entrance",
+      "place": "4. Eyalet - LK Şubesi Girişi",
       "model": "단테",
-      "content": "<Huh, there are people over there…>"
+      "content": "<Huh, orada birileri var…>"
     },
     {
       "id": 11,
       "model": "파우스트",
-      "content": "They’re Fixers from the same Office as Miss Yuri."
+      "content": "Bayan Yuri ile aynı Ofisten İşçözücüler."
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "They’re experienced explorers who have visited the branches of L Corp. a number of times."
+      "content": "L Kuruluşu şubelerini birden fazla kez ziyaret etmiş, tecrübeli araştırmacılar."
     },
     {
       "id": 13,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "Give your greetings. The person on the left is Hopkins, and the one on the right is Aya."
+      "title": "Rehber",
+      "content": "Selamlaşın. Soldaki şahıs Hopkins, sağdaki ise Aya."
     },
     {
       "id": 14,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "Greetings~"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Selamlar~"
     },
     {
       "id": 15,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Grade 8 Fixer",
-      "content": "Th… The… The—"
+      "title": "8. Sınıf İşçözücü",
+      "content": "K… K… Kı—"
     },
     {
       "id": 16,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Grade 8 Fixer",
-      "content": "The Red Gaze! It’s—it’s such an honor to meet you…! I’ve heard so many stories of your deeds, and to see you in person…"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Kızıl Nazar! Se—Seninle tanışmak ne de büyük bir şeref…! Senin hakkında çok fazla hikaye duydum, seni böyle görmek…"
     },
     {
       "id": 17,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "Myeah."
+      "title": "Rehber",
+      "content": "Meh."
     },
     {
       "id": 18,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "See the shabby warehouse there? That’s where the stairs leading down to the branch facility are."
+      "title": "Rehber",
+      "content": "Oradaki eski ambarı görüyor musunuz? Tesis şubesine inen merdivenler orada."
     },
     {
       "id": 19,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "From there, Yuri here will be your guide."
+      "title": "Rehber",
+      "content": "O noktadan sonra, Yuri size rehberlik edecek."
     },
     {
       "id": 20,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…Yeah."
+      "title": "8. Sınıf İşçözücü",
+      "content": "…Evet."
     },
     {
       "id": 21,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "These Fixers have been around a bit. Count on them to handle complications."
+      "title": "Rehber",
+      "content": "Bu İşçözücüler bir süredir bu işteler. Problemlerinizi çözmeleri için onlara güvenebilirsiniz."
     },
     {
       "id": 22,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "That should be enough, yeah? This is as far as I can accompany you. I’ll be waiting back at the bus."
+      "title": "Rehber",
+      "content": "Sanırsam bu kadar, ha? Sizi yalnızca buraya kadar takip edebilirim. Otobüste bekliyor olacağım."
     },
     {
       "id": 23,
       "model": "단테",
-      "content": "<Huh? Wait, what?>"
+      "content": "<Huh? Dur, ney?>"
     },
     {
       "id": 24,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "You’re sorely mistaken if you expect me to babysit you forever, Dante."
+      "title": "Rehber",
+      "content": "Eğer sana sonsuza dek bakıcılık etmemi bekliyorsan çok büyük bir yanılgı içindesin, Dante."
     },
     {
       "id": 25,
       "model": "히스클리프",
-      "content": "So you’ll take a back seat and idle away all alone?"
+      "content": "Yani öyle otobüste yatıp boş boş takılacak mısın?"
     },
     {
       "id": 26,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "If I get myself involved, the expedition would be a little too free of challenge, wouldn’t it? It’d turn into more of a tour."
+      "title": "Rehber",
+      "content": "Eğer işin içine girersem, sefer zorluklardan biraz fazla mahrum kalır, değil mi? Tur gibi bir şey olur."
     },
     {
       "id": 27,
       "model": "그레고르",
-      "content": "…In other words, you want us to come back red, black, and blue."
+      "content": "…Yani başka kelimelerle, kan ve bok içinde dönmemizi istiyorsun."
     },
     {
       "id": 28,
       "model": "이스마엘",
-      "content": "That’s the kind of line people with ulterior motives say…"
+      "content": "Bu daha alçak motifleri olan insanların söyleyeceği bir şey…"
     },
     {
       "id": 29,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "Think whatever you want."
+      "title": "Rehber",
+      "content": "İstediğini düşünün."
     },
     {
       "id": 30,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "I’ve gotten you guides and everything, so do your best down there."
+      "title": "Rehber",
+      "content": "Size rehber bile getirdik, aşağıda elinizden geleni yapın."
     },
     {
       "id": 31,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Grade 8 Fixer",
-      "content": "Yes! I certainly won’t disappoint you, Mister Red Gaze!"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Kesinlikle! Seni yüzüstü bırakmayacağım, Bay Kızıl Nazar!"
     },
     {
       "id": 32,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "I’ll try my best, I think~"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Elimden geleni yapacağım, sanırım~"
     }
   ]
 }
