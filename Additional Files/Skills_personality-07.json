@@ -1240,7 +1240,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Combat Poise",
+          "name": "Savaş Duruşu",
           "desc": "Tur Başında: 0 Mermideyken bu yetenek yerine 'Siper Alma'yı kullan\n[WhenUse] Eğer Full-Stop Ofis Temsilcisi Hong Lu savaş alanındaysa, ondan [MeleeCover] iste (Elde 1 kere)\n[EndBattle] Sonraki tur 1 [LogicAtelierAM] kazan (Elde 1 kere)",
           "coinlist": [
             {
@@ -1250,7 +1250,7 @@
         },
         {
           "level": 4,
-          "name": "Combat Poise",
+          "name": "Savaş Duruşu",
           "desc": "Tur Başında: 0 Mermideyken bu yetenek yerine 'Siper Alma'yı kullan\n[WhenUse] Eğer Full-Stop Ofis Temsilcisi Hong Lu savaş alanındaysa, ondan [MeleeCover] iste (Elde 1 kere)\n<style=\"highlight\">[OnSucceedEvade] 3 [Breath] kazan (Elde 3 kere)</style>\n[EndBattle] Sonraki tur 1 [LogicAtelierAM] kazan (Elde 1 kere)",
           "coinlist": [
             {
@@ -1313,8 +1313,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Taking Cover",
-          "desc": "[CanDuelGuard]\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)",
+          "name": "Siper Alış",
+          "desc": "[CanDuelGuard]\n[WhenUse] Eğer Full-Stop Ofis Temsilcisi Hong Lu savaş alanındaysa, ondan [MeleeCover] iste (tur başına bir defa)\n[EndBattle] 1 [LogicAtelierAM] kazan (tur başına bir defa)",
           "coinlist": [
             {
               "coindescs": [
@@ -1327,8 +1327,8 @@
         },
         {
           "level": 4,
-          "name": "Taking Cover",
-          "desc": "[CanDuelGuard]\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n<style=\"highlight\">[WinDuel] Inflict 1 [PenetrateResistDown] (once per turn)</style>\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)",
+          "name": "Siper Alış",
+          "desc": "[CanDuelGuard]\n[WhenUse] Eğer Full-Stop Ofis Temsilcisi Hong Lu savaş alanındaysa, ondan [MeleeCover] iste (tur başına bir defa)\n<style=\"highlight\">[WinDuel] 1 [PenetrateResistDown] ver(once per turn)</style>\n[EndBattle] 1 [LogicAtelierAM] kazan (tur başına bir defa)",
           "coinlist": [
             {
               "coindescs": [
@@ -1346,23 +1346,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lenticular Rend",
-          "desc": "[WhenUse] Gain 1 [Endurance] next turn (once per turn)",
+          "name": "Mercek Kesişi",
+          "desc": "[WhenUse] Sonraki tur 1 [Endurance] kazan (tur başına bir defa)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown]"
+                  "desc": "[OnSucceedAttack] 1 [AttackDown] ver"
                 }
               ]
             }
@@ -1370,23 +1370,23 @@
         },
         {
           "level": 2,
-          "name": "Lenticular Rend",
-          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 1 [Endurance] next turn (once per turn)",
+          "name": "Mercek Kesişi",
+          "desc": "<style=\"highlight\">Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1</style>\n[WhenUse] Sonraki tur 1 [Endurance] kazan (tur başına bir defa)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [AttackDown] ver<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1394,23 +1394,23 @@
         },
         {
           "level": 4,
-          "name": "Lenticular Rend",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[WhenUse] Gain <style=\"highlight\">2</style> [Endurance] next turn (once per turn)",
+          "name": "Mercek Kesişi",
+          "desc": "<style=\"highlight\">Hedefteki her 6 [Laceration] için Jeton Gücü +1 (maks 2)</style>\n[WhenUse] <style=\"highlight\">2</style> [Endurance] kazan (tur başına bir defa)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [AttackDown] ver<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1423,23 +1423,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stormcloud",
+          "name": "Fırtına Bulutu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] (once per turn)"
+                  "desc": "[OnSucceedAttack] 1 [Reduction] ver (tur başına bir defa)"
                 }
               ]
             }
@@ -1447,26 +1447,26 @@
         },
         {
           "level": 2,
-          "name": "Stormcloud",
-          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>",
+          "name": "Fırtına Bulutu",
+          "desc": "<style=\"highlight\">Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict 1 [SlashTakeDamageUp]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 1 [SlashTakeDamageUp] ver</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] (once per turn)<style=\"highlight\"></style>"
+                "desc": "[OnSucceedAttack] 1 [Reduction] ver (tur başına bir defa)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1474,26 +1474,26 @@
         },
         {
           "level": 4,
-          "name": "Stormcloud",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)\n[WhenUse] Gain 1 [Endurance] next turn (once per turn)</style>",
+          "name": "Fırtına Bulutu",
+          "desc": "<style=\"highlight\">Hedefteki her 6 [Laceration] için Jeton Gücü +1 (maks 2)\n[WhenUse] Sonraki tur 1 [Endurance] kazan (tur başına bir defa)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [SlashTakeDamageUp]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 1 [SlashTakeDamageUp] ver<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] (<style=\"highlight\">2 times</style> per turn)"
+                  "desc": "[OnSucceedAttack] 1 [Reduction] ver (<style=\"highlight\">2 times</style> per turn)"
                 }
               ]
             }
@@ -1506,26 +1506,26 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Thundercleave",
-          "desc": "If target has 6+ [Laceration], Coin Power +1\n[StartBattle] Gain 1 [CloudWall] next turn\n[WhenUse] Gain 1 [Endurance] next turn (once per turn)",
+          "name": "Yıldırın Kesişi",
+          "desc": "Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[StartBattle] Sonraki tur 1 [CloudWall] kazan\n[WhenUse] Sonraki tur 1 [Endurance] kazan (tur başına bir defa)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] The final Coin deals +10% more damage"
+                  "desc": "[OnSucceedAttack] Son Jeton %10 daha fazla hasar vurur"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [SlashTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] 1 [SlashTakeDamageUp] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] The final Coin deals +10% more damage"
+                  "desc": "[OnSucceedAttack] Son jeton %10 daha fazla hasar vurur"
                 }
               ]
             },
@@ -1535,7 +1535,7 @@
                   "desc": "Deal +10% more damage for every type of negative effect on target (max 30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack]t 6 [Laceration] ver"
                 }
               ]
             }
