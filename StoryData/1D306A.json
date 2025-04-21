@@ -2,49 +2,49 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
-      "content": "Yuri’s head stood motionless, facing Gregor. Her face was upright."
+      "place": "Bölge 4 - LC Şubesi İç Mekanı",
+      "content": "Yuri'nin başı hareketsiz bir şekilde Gregor'a bakıyordu. Yüzü dikti."
     },
     {
       "id": 1,
-      "content": "However, the Yuri we knew and accompanied was always hunched over."
+      "content": "Ancak bizim tanıdığımız ve eşlik ettiğimiz Yuri her zaman kambur duruyordu."
     },
     {
       "id": 2,
-      "content": "She slouched at all times, as though it were her sole-surviving obligation to carry the wills of her late colleagues."
+      "content": "Sanki ölen meslektaşlarının vasiyetlerini taşımak onun tek hayatta kalma göreviymiş gibi, her zaman kambur oturuyordu."
     },
     {
       "id": 3,
-      "content": "Given that, I can warn him with confidence."
+      "content": "O halde kendisini gönül rahatlığıyla uyarabilirim."
     },
     {
       "id": 4,
       "model": "단테",
-      "content": "<That isn’t Yuri, Gregor.>"
+      "content": "<O Yuri değil, Gregor.>"
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "…Uh-huh. Yeah, I think you’re right."
+      "content": "...Hı hı. Evet, sanırım haklısın."
     },
     {
       "id": 6,
-      "content": "Gregor accepts it calmly."
+      "content": "Gregor bunu sakinlikle karşılıyor."
     },
     {
       "id": 7,
-      "content": "He then outstretches his arm, sending it flying toward “Yuri”."
+      "content": "Daha sonra kolunu uzatarak "Yuri"ye doğru uçurur."
     },
     {
       "id": 8,
-      "content": "Yet, it soon stops traveling."
+      "content": "Ancak kısa süre sonra kolunu durdurur."
     },
     {
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "I didn’t want to die."
+      "title": "8. Sınıf İşçözücü",
+      "content": "Ölmek istemiyordum."
     },
     {
       "id": 10,
@@ -54,11 +54,11 @@
     {
       "id": 11,
       "model": "단테",
-      "content": "<Cut her down, Gregor.>"
+      "content": "<Kes onu, Gregor.>"
     },
     {
       "id": 12,
-      "content": "I don’t know if this is the right thing to do as the manager."
+      "content": "Müdür olarak bunun doğru bir şey olup olmadığını bilmiyorum."
     },
     {
       "id": 13,
@@ -69,204 +69,204 @@
     },
     {
       "id": 14,
-      "content": "But I had to shout at Gregor now to stop him from being ruined."
+      "content": "Ama şimdi Gregor'un mahvolmasını engellemek için ona bağırmam gerekiyordu."
     },
     {
       "id": 15,
       "model": "단테",
-      "content": "<Cut it now!>"
+      "content": "<Hemen kes şunu!>"
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "Gah, aaaaargh!!!"
+      "content": "Ah, aaaaaargh!!!"
     },
     {
       "id": 17,
-      "teller": "Kind Citizen",
-      "title": "Reminisced Person",
-      "content": "I—I don’t wanna die!"
+      "teller": "Nazik Vatandaş",
+      "title": "Hatırlanan Kişi",
+      "content": "Ben-ben ölmek istemiyorum!"
     },
     {
       "id": 18,
       "model": "그레고르",
-      "content": "This… This is…"
+      "content": "Bu… Bu…"
     },
     {
       "id": 19,
-      "content": "The verminous arm stopped right before reaching the civilian’s throat."
+      "content": "Böceksi kol, sivilin boğazına ulaşmadan hemen önce durdu."
     },
     {
       "id": 20,
-      "content": "I pulled against it with all my might, but it wouldn’t budge."
+      "content": "Tüm gücümle çektim ama kıpırdamadı."
     },
     {
       "id": 21,
       "model": "여자시민",
-      "teller": "Kind Citizen",
-      "title": "Reminisced Person",
-      "content": "P-Please spare me… I’ll give you all my money."
+      "teller": "Nazik Vatandaş",
+      "title": "Hatırlanan Kişi",
+      "content": "P-Lütfen beni bağışlayın... Bütün paramı size vereceğim."
     },
     {
       "id": 22,
-      "teller": "Security Guard",
-      "title": "Reminisced Person",
-      "content": "Let the woman go! Otherwise, I will stop you by force!"
+      "teller": "Güvenlik Görevlisi",
+      "title": "Hatırlanan Kişi",
+      "content": "Kadını bırak! Yoksa güç kullanacağım!"
     },
     {
       "id": 23,
       "model": "그레고르",
-      "content": "My arm… Cut off the arm! Now!"
+      "content": "Kolum... Kolumu kes! Hemen!"
     },
     {
       "id": 24,
-      "teller": "Security Guard",
-      "title": "Reminisced Person",
-      "content": "This is your final warning. Release her now, or…"
+      "teller": "Güvenlik Görevlisi",
+      "title": "Hatırlanan Kişi",
+      "content": "Bu son uyarınız. Onu hemen serbest bırak, yoksa..."
     },
     {
       "id": 25,
       "model": "그레고르",
-      "content": "Just do it!"
+      "content": "Sadece yap!"
     },
     {
       "id": 26,
-      "content": "As the dismembered arm falls to the ground, she slides down the wall, gasping."
+      "content": "Kopan kol yere düşünce, kadın nefes nefese duvardan aşağı doğru kayıyor."
     },
     {
       "id": 27,
-      "content": "However, peace doesn’t last long—the arm starts regenerating from its twitching stump."
+      "content": "Ancak bu huzur uzun sürmez; kol, seğiren kökünden yeniden canlanmaya başlar."
     },
     {
       "id": 28,
-      "teller": "Security Guard",
-      "title": "Reminisced Person",
-      "content": "Are you alright, sir?"
+      "teller": "Güvenlik Görevlisi",
+      "title": "Hatırlanan Kişi",
+      "content": "İyi misiniz efendim?"
     },
     {
       "id": 29,
       "model": "그레고르",
-      "content": "No, stay away from me! Don’t come any closer!"
+      "content": "Hayır, benden uzak dur! Daha fazla yaklaşmayın!"
     },
     {
       "id": 30,
-      "content": "The regrown arm rushes forward as if it remembered the pain it suffered mere moments ago."
+      "content": "Yeniden uzayan kol, sanki birkaç dakika önce çektiği acıyı hatırlamış gibi öne doğru fırlar."
     },
     {
       "id": 31,
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "8. Sınıf İşçözücü",
       "content": "……"
     },
     {
       "id": 32,
       "teller": "???",
       "title": "???",
-      "content": "You have my utmost respect, Manager Gregor, sir!"
+      "content": "Saygılarımla, Müdür Gregor, efendim!"
     },
     {
       "id": 33,
       "model": "그레고르",
-      "content": "You really shouldn’t… I didn’t fight in the war because I wanted to…"
+      "content": "Gerçekten yapmamalısın...Ben savaşa istediğim için katılmadım."
     },
     {
       "id": 34,
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "8. Sınıf İşçözücü",
       "content": "……"
     },
     {
       "id": 35,
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "What else am I supposed to do? Is it so wrong that I survived?"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Başka ne yapmam gerekiyor? Hayatta kalmam çok mu yanlış?"
     },
     {
       "id": 36,
       "model": "그레고르",
-      "content": "Just live on, please… It’s not like we got ourselves into this mess voluntarily."
+      "content": "Sadece yaşamaya devam et lütfen... Bu duruma isteyerek düşmedik."
     },
     {
       "id": 37,
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "8. Sınıf İşçözücü",
       "content": "……"
     },
     {
       "id": 38,
       "teller": "???",
       "title": "???",
-      "content": "Having come to this end, only to be stopped just before your labor bears fruit. How regrettable."
+      "content": "Bu sona gelmişken, emeğinizin meyvesini vermeden hemen önce durdurulmak. Ne kadar üzücü."
     },
     {
       "id": 39,
       "teller": "???",
       "title": "???",
-      "content": "Well, we’ll take it. Opportunities left unclaimed will only become null and void."
+      "content": "Peki, kabul edelim. Talep edilmeyen fırsatlar sadece geçersiz ve hükümsüz hale gelecektir."
     },
     {
       "id": 40,
-      "content": "Yuri’s head fell to the ground."
+      "content": "Yuri'nin başı yere düştü."
     },
     {
       "id": 41,
-      "content": "It wasn’t Gregor’s doing."
+      "content": "Gregor'un işi değildi bu."
     },
     {
       "id": 42,
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Nhh… Aah…"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Nhh... Aaa..."
     },
     {
       "id": 43,
-      "content": "Yuri’s mouth opens and lets something out."
+      "content": "Yuri'nin ağzı açılıyor ve bir şeyler dışarı çıkıyor."
     },
     {
       "id": 44,
-      "content": "It was a tree branch radiating a bright golden glow."
+      "content": "Parlak altın rengi bir ışık saçan bir ağaç dalıydı."
     },
     {
       "id": 45,
       "teller": "???",
       "title": "???",
-      "content": "Seeking the Bough, were you?"
+      "content": "Dalı mı arıyordun?, değil mi?"
     },
     {
       "id": 46,
       "model": "그레고르",
-      "content": "You…"
+      "content": "Sen..."
     },
     {
       "id": 47,
       "teller": "???",
       "title": "???",
-      "content": "A bit small, isn’t it?"
+      "content": "Biraz küçük değil mi?"
     },
     {
       "id": 48,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "I’m Hermann. We’ll be seeing each other often. The reason being…"
+      "content": "Ben Hermann. Birbirimizi sık sık göreceğiz. Sebebi şu ki..."
     },
     {
       "id": 49,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "We—need those Boughs; and you—are capable of finding them."
+      "content": "Bizim o Dallara ihtiyacımız var; ve siz onları bulma yeteneğine sahipsiniz."
     },
     {
       "id": 50,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "You—won’t die; but we—will kill you."
+      "content": "Sen ölmeyeceksin; ama biz seni öldüreceğiz."
     },
     {
       "id": 51,
-      "content": "Hermann nudges Yuri’s head with her foot."
+      "content": "Hermann, Yuri'nin kafasına ayağıyla dokunuyor."
     },
     {
       "id": 52,
@@ -278,119 +278,119 @@
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "It won’t be now, though."
+      "content": "Ama şimdi olmayacak."
     },
     {
       "id": 54,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "We’ll take good care of the Golden Bough you found."
+      "content": "Bulduğunuz Altın Dal'a çok iyi bakacağız."
     },
     {
       "id": 55,
       "model": "이상",
-      "content": "Gubo… My dear compatriot. Is this the path you chose?"
+      "content": "Gubo… Sevgili yurttaşım. Seçtiğin yol bu mu?"
     },
     {
       "id": 56,
       "model": "구보",
       "teller": "Gubo",
       "title": "???",
-      "content": "Indeed it is. Only few remain now."
+      "content": "Gerçekten öyle. Şimdilik sadece birkaçı kaldı."
     },
     {
       "id": 57,
       "model": "홍루",
-      "content": "…It’s been a while, Brother."
+      "content": "…Uzun zaman oldu, Kardeşim."
     },
     {
       "id": 58,
       "model": "가환",
       "teller": "Jia Huan",
       "title": "???",
-      "content": "Do you know how filthy your clothing smells? If only your family were here to see your state."
+      "content": "Giysinin ne kadar pis koktuğunu biliyor musun? Keşke ailen de burada olsaydı da halini görseydi."
     },
     {
       "id": 59,
       "model": "오티스",
-      "content": "Some reunion this has turned into."
+      "content": "Bu bir nevi kavuşmaya dönüştü."
     },
     {
       "id": 60,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "How are you treating your present, my son?"
+      "content": "Hediyeni nasıl değerlendiriyorsun oğlum?"
     },
     {
       "id": 61,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "I didn’t invest in you just to see you in such a mess."
+      "content": "Ben seni böyle bir karmaşa içinde görmek için sana yatırım yapmadım."
     },
     {
       "id": 62,
       "model": "그레고르",
-      "content": "I never asked for this… Not once…"
+      "content": "Ben bunu hiç istemedim... Bir kez bile..."
     },
     {
       "id": 63,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "You should at least finish unwrapping what I gave you."
+      "content": "En azından sana verdiğim şeyi açmayı bitirmelisin."
     },
     {
       "id": 64,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "That little arm isn’t all there is to it."
+      "content": "İşin sırrı sadece o küçük koldan ibaret değil."
     },
     {
       "id": 65,
       "model": "가환",
       "teller": "Jia Huan",
       "title": "???",
-      "content": "Alright now. That’s enough greetings."
+      "content": "Tamam şimdi. Bu kadar selamlaşma yeter."
     },
     {
       "id": 66,
-      "content": "The man who introduced himself as Jia Huan clapped twice."
+      "content": "Kendini Jia Huan olarak tanıtan adam iki kez alkışladı."
     },
     {
       "id": 67,
-      "content": "Then, everything went dark."
+      "content": "Sonra her şey karardı."
     },
     {
       "id": 68,
-      "content": "Like waking from a long nightmare…"
+      "content": "Uzun bir kabustan uyanmak gibi…"
     },
     {
       "id": 69,
-      "content": "The early dawn greets you."
+      "content": "Sabahın erken saatleri sizi selamlıyor."
     },
     {
       "id": 70,
-      "content": "After some time passed…"
+      "content": "Bir süre geçtikten sonra…"
     },
     {
       "id": 71,
-      "place": "Aboard Mephistopheles",
+      "place": "Mephistopheles'in Dışarısı",
       "model": "베르길리우스",
-      "content": "And I thought this would be an easy enough mission for you."
+      "content": "Ve bunun sizin için yeterince kolay bir görev olacağını düşündüm."
     },
     {
       "id": 72,
       "model": "베르길리우스",
-      "content": "After allowing the Golden Bough to be taken before your very eyes, you had the gall to walk in with your faces up."
+      "content": "Altın Dal'ın gözlerinizin önünde alınmasına izin verdikten sonra, yüzünüzü yukarı kaldırarak içeri girme cüretini gösterdiniz."
     },
     {
       "id": 73,
       "model": "베르길리우스",
-      "content": "Have I overestimated you?"
+      "content": "Seni fazla mı abarttım?"
     },
     {
       "id": 74,
@@ -400,12 +400,12 @@
     {
       "id": 75,
       "model": "베르길리우스",
-      "content": "Why don’t you give me an excuse, Ms. Faust."
+      "content": "Bana bir bahane verin Bayan Faust."
     },
     {
       "id": 76,
       "model": "파우스트",
-      "content": "As it turns out, immortality wasn’t the solution to everything."
+      "content": "Görünen o ki ölümsüzlük her şeyin çözümü değildi."
     },
     {
       "id": 77,
@@ -415,106 +415,106 @@
     {
       "id": 78,
       "model": "베르길리우스",
-      "content": "Anything to say for yourself, Dante?"
+      "content": "Kendin adına söyleyeceğin bir şey var mı, Dante?"
     },
     {
       "id": 79,
       "model": "단테",
-      "content": "<There was another group going after the Golden Bough.>"
+      "content": "<Altın Dal'ın peşine düşen başka bir grup daha vardı.>"
     },
     {
       "id": 80,
       "model": "단테",
-      "content": "<You had to have known this, so why didn’t you warn me?>"
+      "content": "<Bunu biliyor olmalıydın, o zaman neden beni uyarmadın?>"
     },
     {
       "id": 81,
       "model": "파우스트",
-      "content": "They’re asking about the other faction that sought the Golden Bough."
+      "content": "Dante, Altın Dal'ı arayan diğer grubu soruyor."
     },
     {
       "id": 82,
-      "content": "Faust placidly relayed my words to Vergilius."
+      "content": "Faust, sözlerimi Vergilius'a sakin bir şekilde iletti."
     },
     {
       "id": 83,
       "model": "베르길리우스",
-      "content": "…Don’t tell me. Are you holding me responsible?"
+      "content": "…Bana söyleme. Beni sorumlu mu tutuyorsun?"
     },
     {
       "id": 84,
       "model": "베르길리우스",
-      "content": "Tell me then, Dante. Why would we bother sending twelve whole combatants to a place with no threats?"
+      "content": "Söyle bana, Dante. Neden hiçbir tehdit olmayan bir yere on iki savaşçıyı göndermeye zahmet edelim ki?"
     },
     {
       "id": 85,
       "model": "베르길리우스",
-      "content": "After hiring Fixers to guide them, too."
+      "content": "Onlara da rehberlik etmesi için İşçözücüler'i işe aldılar."
     },
     {
       "id": 86,
       "model": "단테",
-      "content": "<That’s…>"
+      "content": "<Bu…>"
     },
     {
       "id": 87,
       "model": "그레고르",
-      "content": "Enough of that, Manager Bud."
+      "content": "Yeter artık, Müdür Ahbap."
     },
     {
       "id": 88,
       "model": "그레고르",
-      "content": "It’s my fault. If you want someone to blame, I’m right here…"
+      "content": "Benim hatam. Suçlayacak birini arıyorsan, ben buradayım..."
     },
     {
       "id": 89,
       "model": "베르길리우스",
-      "content": "How fascinating."
+      "content": "Ne kadar büyüleyici."
     },
     {
       "id": 90,
       "model": "베르길리우스",
-      "content": "Built a sense of camaraderie between you already."
+      "content": "Aranızda zaten bir yoldaşlık duygusu oluşmuştu."
     },
     {
       "id": 91,
       "model": "베르길리우스",
-      "content": "Well, I do suppose it’s not too bad to cover up for each other since you’re all in the same bus…"
+      "content": "Eh, aynı otobüste olduğunuza göre, birbirinizin kusurlarını örtmeniz o kadar da kötü olmasa gerek..."
     },
     {
       "id": 92,
       "model": "베르길리우스",
-      "content": "Just know that sticking up for one another doesn’t make up for your incompetence."
+      "content": "Sadece şunu bilin ki, birbirinizi savunmak, yetersizliğinizi telafi etmez."
     },
     {
       "id": 93,
       "model": "파우스트",
-      "content": "…We got a call. After Team’s Spec Ops Section 4 has just gone underground for their job."
+      "content": "…Bir çağrı aldık. Ekibin Özel Harekat Birimi 4, işleri için yer altına inmiş."
     },
     {
       "id": 94,
       "model": "베르길리우스",
-      "content": "That sounds about right. Someone has to salvage the E.G.O and Abnormalities left there."
+      "content": "Bu doğru gibi görünüyor. Birisi orada kalan E.G.O ve Anormalileri kurtarması gerekiyordu."
     },
     {
       "id": 95,
       "model": "베르길리우스",
-      "content": "…A real shame that the essence was lost, though."
+      "content": "…Ama Altın Dal'ın kaybolması gerçekten üzücü."
     },
     {
       "id": 96,
       "model": "오티스",
-      "content": "This is getting excessive."
+      "content": "Bu artık aşırıya kaçıyor."
     },
     {
       "id": 97,
       "model": "오티스",
-      "content": "Failure is a common thing on the battlefield. If an objective wasn’t met, you devise another plan and redeploy."
+      "content": "Savaş alanında başarısızlık yaygın bir şeydir. Bir hedef karşılanmazsa, başka bir plan tasarlar ve yeniden devreye sokarsınız."
     },
     {
       "id": 98,
       "model": "오티스",
-      "content": "Are you sure it wasn’t your expectations that were too high for our first mission? I will have you know that our manager’s performance was nothing short of outstanding."
+      "content": "İlk görevimiz için beklentilerinizin çok yüksek olduğundan emin misiniz? Müdürümüzün performansının olağanüstü olduğunu bilmenizi isterim."
     },
     {
       "id": 99,
@@ -524,101 +524,101 @@
     {
       "id": 100,
       "model": "베르길리우스",
-      "content": "I suppose we’ll leave it at that. You’re not entirely wrong."
+      "content": "Sanırım bunu burada bırakacağız. Tamamen haksız değilsin."
     },
     {
       "id": 101,
       "model": "파우스트",
-      "content": "Certainly."
+      "content": "Kesinlikle."
     },
     {
       "id": 102,
-      "content": "There seemed to be an uncanny tension between Vergilius and Faust…"
+      "content": "Vergilius ile Faust arasında tuhaf bir gerginlik var gibiydi…"
     },
     {
       "id": 103,
-      "content": "But right now, I had neither the energy nor the willpower left in me to get inquisitive."
+      "content": "Ama şu anda merak edecek ne enerjim ne de iradem vardı."
     },
     {
       "id": 104,
-      "content": "The bus reeked of blood with all the stains and gore on our outfits, yet none of us tried to open the windows."
+      "content": "Otobüs, üzerimizdeki bütün lekeler ve pisliklerle kan kokuyordu, ama hiçbirimiz camları açmaya çalışmadık."
     },
     {
       "id": 105,
-      "content": "And no one had the urge to have a change of clothes."
+      "content": "Ve hiç kimsede kıyafet değiştirme ihtiyacı da yoktu."
     },
     {
       "id": 106,
-      "content": "All of us just sat in place, dwelling on silence."
+      "content": "Hepimiz yerimizde oturuyorduk, sessizliğe gömülmüştük."
     },
     {
       "id": 107,
-      "content": "Gregor had the most defeated look of them all, staring out the window…"
+      "content": "Gregor, hepsinin arasında en yenilmiş bakışa sahip olanıydı, pencereden dışarı bakıyordu..."
     },
     {
       "id": 108,
-      "content": "Then, he suddenly went to hang something from his pocket near the windshield of the bus."
+      "content": "Sonra birden cebinden çıkardığı bir şeyi otobüsün ön camına asmaya gitti."
     },
     {
       "id": 109,
       "model": "카론",
-      "content": "Bug Guy. What did you put on Mephi’s head?"
+      "content": "Böcek Adam. Mephi'nin kafasına ne koydun?"
     },
     {
       "id": 110,
       "model": "그레고르",
-      "content": "…A memento."
+      "content": "…Bir hatıra."
     },
     {
       "id": 111,
       "model": "그레고르",
-      "content": "Something that belonged to the two."
+      "content": "İkisine de ait olan bir şey."
     },
     {
       "id": 112,
       "model": "그레고르",
-      "content": "I had a sister, just about Yuri’s age."
+      "content": "Benim de Yuri'nin yaşlarında bir kız kardeşim vardı."
     },
     {
       "id": 113,
       "model": "그레고르",
-      "content": "That’s… all there is."
+      "content": "İşte bu kadar."
     },
     {
       "id": 114,
-      "content": "I considered giving him a pep talk, but that quickly dissipated."
+      "content": "Ona moral verici bir konuşma yapmayı düşündüm ama bu düşüncem hemen ortadan kalktı."
     },
     {
       "id": 115,
-      "content": "Ishmael wore a grieving look, Sinclair was quietly weeping, and Rodya let out a distressed sigh; if they couldn’t offer him any encouragement, what good would I do?"
+      "content": "Ishmael kederli bir ifade takındı, Sinclair sessizce ağladı ve Rodya sıkıntılı bir iç çekti; eğer ona bir cesaret veremezlerse, ben ne işe yarardım? ki"
     },
     {
       "id": 116,
       "model": "베르길리우스",
-      "content": "Charon, won’t this get in your way?"
+      "content": "Charon, bu senin yoluna çıkmaz mı?"
     },
     {
       "id": 117,
       "model": "카론",
-      "content": "No, Charon’ll be fine."
+      "content": "Hayır, Charon iyi olacak."
     },
     {
       "id": 118,
       "model": "베르길리우스",
-      "content": "…Alright, let’s hit the road."
+      "content": "…Tamam, yola koyulalım."
     },
     {
       "id": 119,
       "model": "카론",
-      "content": "Vroom-vroom."
+      "content": "Vın-vın."
     },
     {
       "id": 120,
-      "content": "The bus slowly grumbled forward."
+      "content": "Otobüs ağır ağır homurdanarak ilerlemeye başladı."
     },
     {
       "id": 121,
-      "content": "The gas mask hanging by the windshield waved like an ornament."
+      "content": "Ön cama asılı gaz maskesi süs gibi dalgalanıyordu."
     },
     {
       "id": 122
