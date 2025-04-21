@@ -2,100 +2,100 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
-      "content": "Another veteran appeared in the dark, carrying a depressed aura."
+      "place": "Eyalet 4 - LK Dal İçerisi",
+      "content": "Başka bir gazi, depresif bir görünüş ile karanlıktan çıkıvermişti."
     },
     {
       "id": 1,
-      "content": "His sparkling old badge seemed to signify a high rank once held."
+      "content": "Parlayan madalyası, eskiden güzel bir pozisyonda olduğunu niteliyordu."
     },
     {
       "id": 2,
       "model": "G사부장",
       "teller": "???",
       "title": "???",
-      "content": "…Manager Gregor?"
+      "content": "…Menajer Gregor?"
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "I think I remember that face of yours. But why?"
+      "content": "Yüzünü hatırlıyor gibiyim, kim olasın ki?"
     },
     {
       "id": 4,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "…I was the head manager of your team."
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı",
+      "content": "…Takımının baş komutanı bendim."
     },
     {
       "id": 5,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Not only did you desert us, you now have the audacity to take the lives of your old comrades—my subordinates."
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı",
+      "content": "Yanımızdan iltica etmen yetmedi, bir de şimdi benim astlarımın yaşamını alacak götü bulmuşsun."
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "Look, the war ended a decade ago. But, I guess some folks still haven’t let go of their obsolete ranks, huh?"
+      "content": "Ulan, savaş biteli on yıl falan oluyor. Ama gördüğüm üzere, bazı şahıslar hala savaştan kalma pozisyonlarını bırakamıyor, ha?"
     },
     {
       "id": 7,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Ended? Nothing has ended."
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı",
+      "content": "Savaştan kalma mı? Savaş bitmedi bile."
     },
     {
       "id": 8,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Nothing… has ended… dammit…"
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı",
+      "content": "Hiç bir şey… bitmedi… siktir…"
     },
     {
       "id": 9,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "The war may have been over for you when you deserted G Corp…"
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı",
+      "content": "G Kuruluşu'ndan topukladığın vakit, savaş senin için bitmiş olabilir…"
     },
     {
       "id": 10,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "But we’re fighting for our lives on the battlefield to this day."
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı",
+      "content": "Ama biz bu güne dek, canımız için bu savaş alanında savaştık."
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "As much as I didn’t want to relate to you this way…"
+      "content": "Kendimi sana bu şekil benzetmek istemesem bile…"
     },
     {
       "id": 12,
       "model": "그레고르",
-      "content": "I’m not really that different here."
+      "content": "Ben de bir nevi sizin ile aynı gemideyim."
     },
     {
       "id": 13,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Then you ought to understand, Gregor."
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı",
+      "content": "O zaman, biraz empati kurmaya çalış, Gregor."
     },
     {
       "id": 14,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "There is only one verdict that awaits deserters."
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı  ",
+      "content": "Asker kaçaklarını bekleyen tek bir kader var."
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "You say that like it means something… But it’s against company policy to carry out summary execution for personal revenge, my Head Manager."
+      "content": "Pek de bir anlamı varmış gibi diyorsun… Ama maalesef ki, kişisel intikamımız için birilerini öldürmek şirket politikalarına karşı çıkmıyor, komutanım."
     }
   ]
 }
