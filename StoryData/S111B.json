@@ -3,7 +3,7 @@
     {
       "id": 0,
       "place": "Eyalet 4 - LK Dal İçerisi",
-      "content": "ve Lobotomi Kurulu'nun metruk binasına girmiştik."
+      "content": "ve Lobotomi Kuruluşu'nun metruk binasına girmiştik."
     },
     {
       "id": 1,
@@ -33,15 +33,15 @@
       "id": 6,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Sınıf 8 İşçözen",
+      "title": "8. Sınıf İşçözücü",
       "content": "Geri döndürmek mi…?"
     },
     {
       "id": 7,
       "model": "아야",
       "teller": "Aya",
-      "title": "Sınıf 8 İşçözen",
-      "content": "Popüler bir şaka olsa gerek~ Huff, Şehirde ağızdan dolaşan daha ne tür hikayeler var kim bilir~"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Popüler bir şaka olsa gerek~ Huff, Şehir'de ağızdan dolaşan daha ne tür hikayeler var kim bilir~"
     },
     {
       "id": 8,
@@ -59,7 +59,7 @@
     {
       "id": 11,
       "model": "오티스",
-      "content": "Akıllıca bir tespit, Menajer. Cesetler çoktan çürümeye başlamış gibi görünüyor."
+      "content": "Akıllıca bir tespit, İdari Müdür. Cesetler çoktan çürümeye başlamış gibi görünüyor."
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Pffhaw… Yabi, bence fena komik~ Senin gibi birisinin küçük sürüngenlerden kedi gibi korkacağını kim bilebilirdi ki…"
+      "content": "Pffhaw… Yani, bence fena komik~ Senin gibi birisinin küçük sürüngenlerden kedi gibi korkacağını kim bilebilirdi ki…"
     },
     {
       "id": 19,
@@ -109,7 +109,7 @@
     {
       "id": 21,
       "model": "오티스",
-      "content": "Siz! Hemen bu disiplinsizliği kesin. Menajerimize fazladan sorun çıkartmayın!"
+      "content": "Siz! Hemen bu disiplinsizliği kesin. İdari Müdürümüze fazladan sorun çıkartmayın!"
     },
     {
       "id": 22,
@@ -129,8 +129,8 @@
       "id": 25,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Sınıf 8 İşçözen",
-      "content": "Bunlar bizim... hayır, L Kurulu'un çalışanları..."
+      "title": "8. Sınıf İşçözücü",
+      "content": "Bunlar bizim... hayır, L Kuruluşu'un çalışanları..."
     },
     {
       "id": 26,
@@ -140,7 +140,7 @@
     {
       "id": 27,
       "model": "이스마엘",
-      "content": "“Lobotomi Hayali” veya “Enkefalin Mesti” İşçözenler ve Çetelerin ağzından düşmüyor bir süredir."
+      "content": "“Lobotomi Hayali” veya “Enkefalin Mesti” İşçözücüler ve Çetelerin ağzından düşmüyor bir süredir."
     },
     {
       "id": 28,
@@ -170,7 +170,7 @@
     {
       "id": 33,
       "model": "이상",
-      "content": "Gözlerinize garip bi görünüyorum?"
+      "content": "Gözlerinize garip mi görünüyorum?"
     },
     {
       "id": 34,
@@ -195,16 +195,16 @@
     {
       "id": 38,
       "model": "이상",
-      "content": "Kaptan olan sizmişsiniz gibi davranıyorsunuz. Bana sorarsanız bu rol menajere aittir."
+      "content": "Kaptan olan sizmişsiniz gibi davranıyorsunuz. Bana sorarsanız bu rol müdüre aittir."
     },
     {
       "id": 39,
       "model": "오티스",
-      "content": "…Arsızlığımı bağışlayın lütfen, Menajer."
+      "content": "…Arsızlığımı bağışlayın lütfen, İdari Müdür."
     },
     {
       "id": 40,
-      "content": "Ansızın yakalandığı için biraz sinirleri hoplamış olsa dahi, Önümde başını eğip özür dilemişti."
+      "content": "Ansızın yakalandığı için biraz sinirleri hoplamış olsa dahi, önümde başını eğip özür dilemişti."
     },
     {
       "id": 41,
@@ -223,7 +223,7 @@
       "id": 44,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Sınıf 8 İşçözen",
+      "title": "8. Sınıf İşçözücü",
       "content": "Önceden karşılaştıklarımıza pek bir benziyorlar, değil mi?"
     },
     {
@@ -234,7 +234,7 @@
     {
       "id": 46,
       "model": "오티스",
-      "content": "Sessizlik. İleride savaş gazileri görüyorum "
+      "content": "Sessizlik. İleride tanımlanmamış personel görüyorum "
     },
     {
       "id": 47,
@@ -243,7 +243,7 @@
     {
       "id": 48,
       "model": "로쟈",
-      "content": "(Savaş gazisi mi? Niye ki?)"
+      "content": "(Tanımlanmamış personel? Ne anlamam gerekiyor?)"
     },
     {
       "id": 49,
@@ -261,11 +261,11 @@
     },
     {
       "id": 52,
-      "content": "Faust'un bahsettiği anomaliler, bu binada başıboş dolaşıyor olabilir."
+      "content": "Faust'un bahsettiği Anomaliler, bu binada başıboş dolaşıyor olabilir."
     },
     {
       "id": 53,
-      "content": "Belki de önümüzde duran figürler, aynen bu anomalilerdendir."
+      "content": "Belki de önümüzde duran figürler, aynen bu Anomalilerdendir."
     },
     {
       "id": 54,
@@ -275,7 +275,7 @@
     {
       "id": 55,
       "teller": "Çarpık Gazi",
-      "title": "G Kurul. Kalıntısı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Hey! Kim var orada?!"
     },
     {
@@ -289,54 +289,54 @@
     {
       "id": 58,
       "teller": "Çarpık Gazi",
-      "title": "G Kurul. Kalıntısı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Hah? Burada bi' tek biz kaldık sanıyordum."
     },
     {
       "id": 59,
       "teller": "Kaba Gazi",
-      "title": "G Kurul. Kalıntısı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Girişteki ekibimizden mi sıyrıldılar? Bu yağmacılar da dur durak bilmiyor."
     },
     {
       "id": 60,
       "model": "히스클리프",
-      "content": "Oi, böcek herifler. Şu cesetlerle arkadaş mıydınız?"
+      "content": "Oy, böcek herifler. Şu cesetlerle arkadaş mıydınız?"
     },
     {
       "id": 61,
       "teller": "Kaba Gazi",
-      "title": "G Kurul. Kalıntısı",
-      "content": "Cesetler mi?! Yoksa sizler mi…"
+      "title": "G Kuruluşu Kalıntısı",
+      "content": "Cesetler mi?! Yoksa siz…"
     },
     {
       "id": 62,
       "teller": "Çarpık Gazi",
-      "title": "G Kurul. Kalıntısı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Bekle."
     },
     {
       "id": 63,
       "teller": "Kaba Gazi",
-      "title": "G Kurul. Kalıntısı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "…Siz ucubeler neredensiniz en ufak fikrim yok, ama beni bi' dinleyin."
     },
     {
       "id": 64,
       "teller": "Kaba Gazi",
-      "title": "G Kurul. Kalıntısı",
-        "content": "Enkefalin için buradasınız, değil mi? Bir kat aşağı inecek olursanız, Öğütülmeyi bekleyen gizli bir hazine sizi bekliyor"
+      "title": "G Kuruluşu Kalıntısı",
+        "content": "Enkefalin için buradasınız, değil mi? Bir kat aşağı inecek olursanız, öğütülmeyi bekleyen gizli bir hazine sizi bekliyor"
     },
     {
       "id": 65,
       "teller": "Kaba Gazi",
-      "title": "G Kurul. Kalıntısı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "O katta ne bulursanız sizindir. Bu katta ne var ne yok alalım, ve…"
     },
     {
       "id": 66,
       "teller": "Kaba Gazi",
-      "title": "G Kurul. Kalıntısı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "…yolumuza gidelim. Ha—Haha."
     },
     {
@@ -355,18 +355,18 @@
     {
       "id": 70,
       "teller": "Çarpık Gazi",
-      "title": "G Kurul. Kalıntısı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Seni hain…"
     },
     {
       "id": 71,
       "model": "그레고르",
-      "content": "Ahh, seni de cephenin en önüne atmışlardır kesin. Gerçekten hayatta o kanatlar ile olduğundan daha iyi görünüyorum, değil mi?"
+      "content": "Ahh, seni de cephenin en önüne atmışlardır kesin. Gerçek hayatta o magazinlerde olduğumdan daha iyi görünüyorum, değil mi?"
     },
     {
       "id": 72,
       "teller": "Çarpık Gazi",
-      "title": "G Kurul. Kalıntısı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Bırak lan yılışıklığı! Sana selam vermekten hep tiksiniyordum."
     },
     {
@@ -377,13 +377,13 @@
     {
       "id": 74,
       "teller": "Kaba Gazi",
-      "title": "G Kurul. Kalıntısı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Seni yan etkilerden kurtaracak sikik avantajlar sayesinde toplumun normal bir üyesi gibi davranırken…"
     },
     {
       "id": 75,
       "teller": "Kaba Gazi",
-      "title": "G Kurul. Kalıntısı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Bize böyle bir şans bile verilmedi, süt bebesi. Savaş kaybedildiği an bir tutam çöp gibi etrafa atıldık."
     },
     {
@@ -404,7 +404,7 @@
     {
       "id": 79,
       "model": "그레고르",
-      "content": "Sen de askeriyede çalıştın ya. İşin nereye gideceğini biliyor olmalısın."
+      "content": "Sen de askeriyede çalıştın. İşin nereye gideceğini biliyor olmalısın."
     },
     {
       "id": 80,
@@ -414,13 +414,13 @@
     {
       "id": 81,
       "teller": "Çarpık Gazi",
-      "title": "G Kurul. Kalıntıs",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "…Gerçekten de geçmenize izin verecektik halbuki."
     },
     {
       "id": 82,
       "teller": "Kaba Gazi",
-      "title": "G Kurul. Kalıntıs",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Ama onun yerine, bu haini ve sizi kuşbaşına çevireceğiz."
     },
     {
