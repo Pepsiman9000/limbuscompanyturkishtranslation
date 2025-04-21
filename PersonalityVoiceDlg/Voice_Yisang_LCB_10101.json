@@ -3,7 +3,7 @@
     {
       "id": "get_10101_1",
       "desc": "Identity Acquisition",
-      "dlg": "I am Yi Sang. My name is all I have to say."
+      "dlg": "Adım Yi Sang. Tek söyleyecek şeyim adım."
     },
     {
       "id": "lobby_morning_10101_1",
@@ -43,7 +43,7 @@
     {
       "id": "formation_10101_1",
       "desc": "Deployment",
-      "dlg": "Lead the way."
+      "dlg": "Yolu göster."
     },
     {
       "id": "battleentry_10101_1",
@@ -53,7 +53,7 @@
     {
       "id": "battle_select_10101_1",
       "desc": "Viewed in Battle",
-      "dlg": "Have you found what you seek?"
+      "dlg": "Aradığını buldun mu?"
     },
     {
       "id": "battle_endcommand_10101_1",
