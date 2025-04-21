@@ -5,8 +5,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
-          "desc": "On clash win, raise opponent’s Stagger Threshold"
+          "name": "Basit Korunma",
+          "desc": "Çarpışma kazanıldığında, rakibin Sersemleme Eşiğini yükselt."
         }
       ]
     },
@@ -15,8 +15,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
-          "desc": "On clash win, lower user’s Stagger Threshold"
+          "name": "Basit Kaçınma",
+          "desc": "Çarpışma kazanıldığında, rakibin Sersemleme Eşiğini azalt."
         }
       ]
     },
@@ -25,8 +25,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
-          "desc": "Launched against an unopposed attack"
+          "name": "Basit Karşı Darbe",
+          "desc": "Karşılık verilmeyen bir saldırıya karşı kullanılır."
         }
       ]
     },
@@ -35,14 +35,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Deflect",
+          "name": "Saptır",
           "desc": "",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttackHead] 1 [Sinking] uygula"
                 }
               ]
             }
@@ -50,14 +50,14 @@
         },
         {
           "level": 2,
-          "name": "Deflect",
+          "name": "Saptır",
           "desc": "",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttackHead] 2 [Sinking] uygula"
                 }
               ]
             }
@@ -65,14 +65,14 @@
         },
         {
           "level": 4,
-          "name": "Deflect",
+          "name": "Saptır",
           "desc": "",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] 2 [Sinking] uygula"
                 }
               ]
             }
@@ -85,7 +85,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "End-stop Stab",
+          "name": "Durduran Saldırı",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -93,7 +93,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -101,7 +101,7 @@
         },
         {
           "level": 2,
-          "name": "End-stop Stab",
+          "name": "Durduran Saldırı",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -109,7 +109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking; Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygular; +1 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -117,7 +117,7 @@
         },
         {
           "level": 4,
-          "name": "End-stop Stab",
+          "name": "Durduran Saldırı",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -125,7 +125,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking; Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] 2 [Sinking] uygular; +2 [Sinking] Miktarı uygular"
                 }
               ]
             }
@@ -138,7 +138,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Enjamb",
+          "name": "Dizeyi aşırma",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -147,7 +147,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target’s SP is below 0, inflict 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Eğer hedefin SP'si 0'ın altındaysa, bir sonraki turda 1 [Vulnerable] uygula."
                 }
               ]
             }
@@ -155,28 +155,28 @@
         },
         {
           "level": 4,
-          "name": "Enjamb",
+          "name": "Dizeyi aşırma",
           "desc": "",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] 2 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target’s SP is below 0, inflict 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Eğer hedefin SP'si 0'ın altındaysa, bir sonraki turda 1 [Vulnerable] uygula."
                 }
               ]
             }
@@ -189,7 +189,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -387,7 +387,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -400,7 +400,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Striker’s Stance",
+          "name": "Agresif Postür",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -415,7 +415,7 @@
         },
         {
           "level": 2,
-          "name": "Striker’s Stance",
+          "name": "Agresif Postür",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -430,7 +430,7 @@
         },
         {
           "level": 4,
-          "name": "Striker’s Stance",
+          "name": "Agresif Postür",
           "desc": "[WhenUse] +2 [Breath] miktarı kazan",
           "keywords": [],
           "coinlist": [
@@ -450,7 +450,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heel Turn",
+          "name": "Topuk Dönüşü",
           "desc": "[WinDuel] Sonraki tur +1 [Breath] miktarı kazan",
           "keywords": [],
           "coinlist": [
@@ -460,7 +460,7 @@
         },
         {
           "level": 2,
-          "name": "Heel Turn",
+          "name": "Topuk Dönüşü",
           "desc": "[WinDuel] Sonraki tur +2 [Breath] miktarı kazan",
           "keywords": [],
           "coinlist": [
@@ -470,7 +470,7 @@
         },
         {
           "level": 4,
-          "name": "Heel Turn",
+          "name": "Topuk Dönüşü",
           "desc": "[WinDuel] Sonraki tur +2 [Breath] miktarı kazan",
           "keywords": [],
           "coinlist": [
@@ -485,7 +485,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Flank Thrust",
+          "name": "Beklenmeyen Darbe",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -508,7 +508,7 @@
         },
         {
           "level": 4,
-          "name": "Flank Thrust",
+          "name": "Beklenmeyen Darbe",
           "desc": "[WhenUse] 2 [Breath] kazan",
           "keywords": [],
           "coinlist": [
@@ -536,7 +536,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Karşı Darbe",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -545,7 +545,7 @@
         },
         {
           "level": 4,
-          "name": "Counter",
+          "name": "Karşı Darbe",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -565,7 +565,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Downward Slash",
+          "name": "Yatay Kesiş",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -580,7 +580,7 @@
         },
         {
           "level": 2,
-          "name": "Downward Slash",
+          "name": "Yatay Kesiş",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -600,7 +600,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Upward Slash",
+          "name": "Dikey Kesiş",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -616,7 +616,7 @@
         },
         {
           "level": 2,
-          "name": "Upward Slash",
+          "name": "Dikey Kesiş",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -637,21 +637,21 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Drilling Stab",
+          "name": "Delici Saplama",
           "desc": "",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [AttackDown] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [AttackDown] uygula"
                 }
               ]
             }
@@ -664,7 +664,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Kaçınma",
           "desc": "",
           "coinlist": [
             {}
@@ -677,13 +677,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Energy Cycle",
+          "name": "Enerji Döngüsü",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +1 [[Charge]] Sayısı kazan."
+                  "desc": "[OnSucceedAttack] +1 [Charge] Miktarı kazan."
                 }
               ]
             }
@@ -697,7 +697,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +2 [Charge] Sayısı kazan."
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı kazan."
                 }
               ]
             }
@@ -706,7 +706,7 @@
         {
           "level": 4,
           "name": "Energy Cycle",
-          "desc": "[WhenUse] +2 [Charge] Sayısı kazan.",
+          "desc": "[WhenUse] +2 [Charge] Miktarı kazan.",
           "coinlist": [
             {
               "coindescs": [
@@ -724,14 +724,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Leap",
+          "name": "Atılma",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 [Charge] Count to inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki turda 4 [Binding] uygulamak için 3 [Charge] Miktarı harca."
                 }
               ]
             }
@@ -739,14 +739,14 @@
         },
         {
           "level": 2,
-          "name": "Leap",
+          "name": "Atılma",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 [Charge] Count to inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki turda 4 [Binding] uygulamak için 3 [Charge] Miktarı harca."
                 }
               ]
             }
@@ -754,20 +754,20 @@
         },
         {
           "level": 4,
-          "name": "Leap",
-          "desc": "[WhenUse] Gain +3 [Charge] Count",
+          "name": "Atılma",
+          "desc": "[WhenUse] +3 [Charge] miktarı kazan.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +3 [Charge] miktarı kazan."
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 [Charge] Count to inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki turda 4 [Binding] uygulamak için 3 [Charge] Miktarı harca."
                 }
               ]
             }
@@ -780,7 +780,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Over[Charge]",
+          "name": "Aşırı Yükleme",
           "desc": "",
           "coinlist": [
             {},
@@ -788,7 +788,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 [Charge] Count to inflict 2 Attack Power Down and 3 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki turda 2 [AttackDown] ve 3 [Paralysis] uygulamak için 5 [Charge] miktarı harca."
                 }
               ]
             }
@@ -796,15 +796,15 @@
         },
         {
           "level": 4,
-          "name": "Over[Charge]",
-          "desc": "At 5+ [Charge] Count, Clash Power +2",
+          "name": "Aşırı Yükleme",
+          "desc": "5+ [Charge] miktarına sahip olunduğunda, Clash Gücü +2.",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 [Charge] Count to inflict 2 Attack Power Down and 3 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki turda 2 [AttackDown] ve 3 [Paralysis] uygulamak için 5 [Charge] miktarı harca."
                 }
               ]
             }
@@ -817,7 +817,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Enerjili Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -830,13 +830,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sole Strike",
+          "name": "Tek Saldırı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             }
@@ -844,13 +844,13 @@
         },
         {
           "level": 2,
-          "name": "Sole Strike",
+          "name": "Tek Saldırı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula" 
                 }
               ]
             }
@@ -858,7 +858,7 @@
         },
         {
           "level": 4,
-          "name": "Sole Strike",
+          "name": "Tek Saldırı",
           "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -989,7 +989,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": "",
           "coinlist": [
             {}
@@ -1101,7 +1101,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": "",
           "coinlist": [
             {}
@@ -1167,7 +1167,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Leap",
+          "name": "Atılma",
           "desc": "",
           "coinlist": [
             {},
@@ -1183,7 +1183,7 @@
         },
         {
           "level": 2,
-          "name": "Leap",
+          "name": "Atılma",
           "desc": "",
           "coinlist": [
             {
@@ -1211,7 +1211,7 @@
         },
         {
           "level": 4,
-          "name": "Leap",
+          "name": "Atılma",
           "desc": "At 7+ [Charge] Count, Coin Power +1",
           "coinlist": [
             {
@@ -1285,7 +1285,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": "",
           "coinlist": [
             {}
@@ -1434,7 +1434,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": "",
           "coinlist": [
             {}
@@ -1558,7 +1558,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": "",
           "coinlist": [
             {}
@@ -1658,13 +1658,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "",
           "coinlist": []
         },
         {
           "level": 4,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "",
           "coinlist": [
             {
@@ -1857,7 +1857,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -2007,7 +2007,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -2229,7 +2229,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -2459,7 +2459,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -2467,7 +2467,7 @@
         },
         {
           "level": 4,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "[StartBattle] +2 [[Charge]] Sayısı kazan.",
           "coinlist": [
             {}
@@ -2486,7 +2486,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Sinking]"
                 }
               ]
             }
@@ -2500,7 +2500,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 }
               ]
             }
@@ -2519,7 +2519,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Sinking]"
                 }
               ]
             },
@@ -2540,7 +2540,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 }
               ]
             },
@@ -2561,7 +2561,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 }
               ]
             },
@@ -2606,7 +2606,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 2 Attack Power Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
@@ -2622,7 +2622,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": "",
           "coinlist": [
             {}
@@ -2789,7 +2789,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -2975,7 +2975,7 @@
         {
           "level": 4,
           "name": "Kaçınma",
-          "desc": "If target has 5+ [Laceration], Coin Power +2\n[OnSucceedEvade] Heal 3 SP",
+          "desc": "If target has 5+ [Laceration], Coin Power +2\n[OnSucceedBasit Kaçınma] Heal 3 SP",
           "coinlist": [
             {}
           ]
@@ -3093,7 +3093,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "",
           "coinlist": [
             {}
@@ -3211,7 +3211,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "",
           "coinlist": [
             {}
@@ -3219,7 +3219,7 @@
         },
         {
           "level": 4,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "[WhenUse] Lose 5 HP\nAt 3+ [Breath] Count, Damage +50%",
           "coinlist": [
             {}
@@ -3406,7 +3406,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": "",
           "coinlist": [
             {}
@@ -3414,7 +3414,7 @@
         },
         {
           "level": 4,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": "[WhenUse]+1 [[Charge]] Sayısı kazan.",
           "coinlist": [
             {}
@@ -3514,7 +3514,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -3533,14 +3533,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Sinking]"
                 }
               ]
             }
@@ -3554,7 +3554,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] +2 [[Charge]] Sayısı kazan."
@@ -3564,7 +3564,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] +2 [[Charge]] Sayısı kazan."
@@ -3581,7 +3581,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] +2 [[Charge]] Sayısı kazan."
@@ -3591,7 +3591,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] +2 [[Charge]] Sayısı kazan."
@@ -3613,7 +3613,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +3 [Sinking] Count"
                 }
               ]
             }
@@ -3627,7 +3627,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +3 [Sinking] Count"
                 }
               ]
             }
@@ -3641,7 +3641,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
                 }
               ]
             }
@@ -3660,7 +3660,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 40% of damage dealt"
@@ -3670,7 +3670,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30% of damage dealt"
@@ -3680,7 +3680,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
@@ -3690,7 +3690,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt"
@@ -3707,7 +3707,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 40% of damage dealt"
@@ -3717,7 +3717,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30% of damage dealt"
@@ -3727,7 +3727,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
@@ -3737,7 +3737,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt"
@@ -3753,7 +3753,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": "",
           "coinlist": [
             {}
@@ -3761,8 +3761,8 @@
         },
         {
           "level": 4,
-          "name": "Evade",
-          "desc": "[OnSucceedEvade]+1 [[Charge]] Sayısı kazan.",
+          "name": "Basit Kaçınma",
+          "desc": "[OnSucceedBasit Kaçınma]+1 [[Charge]] Sayısı kazan.",
           "coinlist": [
             {}
           ]
@@ -3965,7 +3965,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -3975,7 +3975,7 @@
         },
         {
           "level": 4,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "At 5+ [Breath] Count, +50% Critical Damage",
           "keywords": [],
           "coinlist": [
@@ -4178,7 +4178,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -4186,7 +4186,7 @@
         },
         {
           "level": 4,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\nAt 0 Ammo, gain 2 more Aggro",
           "coinlist": [
             {}
@@ -4360,7 +4360,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "",
           "coinlist": [
             {}
@@ -4539,7 +4539,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "[WhenUse] Gain 1 Protection",
           "coinlist": [
             {}
@@ -4547,7 +4547,7 @@
         },
         {
           "level": 4,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "[WhenUse] Gain 1 Protection\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {}
@@ -4743,7 +4743,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -4857,7 +4857,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "",
           "coinlist": [
             {}
@@ -5048,7 +5048,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Newsprung Counter",
+          "name": "Newsprung Basit Karşı Darbe",
           "desc": "[WhenUse] Gain 1 Damage Up next turn",
           "coinlist": [
             {}
@@ -5056,7 +5056,7 @@
         },
         {
           "level": 4,
-          "name": "Newsprung Counter",
+          "name": "Newsprung Basit Karşı Darbe",
           "desc": "[WhenUse] Gain 1 Damage Up next turn\n[WhenUse] Gain +3 [Breath] Count",
           "coinlist": [
             {}
@@ -5217,7 +5217,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -5225,7 +5225,7 @@
         },
         {
           "level": 4,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn",
           "coinlist": [
             {}
@@ -5244,7 +5244,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Sinking]"
                 }
               ]
             },
@@ -5259,7 +5259,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttackHead] Inflict 4 [Sinking]"
                 }
               ]
             },
@@ -5269,12 +5269,12 @@
         {
           "level": 4,
           "name": "Muta Madre Muchacho",
-          "desc": "If target has 4+ [Sinking], Coin Power +1",
+          "desc": "If target has 4+  [Sinking], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
                 }
               ]
             },
@@ -5301,14 +5301,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 }
               ]
             }
@@ -5332,17 +5332,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Sinking] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 }
               ]
             }
@@ -5351,7 +5351,7 @@
         {
           "level": 4,
           "name": "Senior por favor",
-          "desc": "If target has 6+ [Sinking], Coin Power +2",
+          "desc": "If target has 6+  [Sinking], Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5366,17 +5366,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 }
               ]
             }
@@ -5431,7 +5431,7 @@
         {
           "level": 4,
           "name": "¿demasiado picante?",
-          "desc": "[OnSucceedEvade] Gain +1 [Breath] Count",
+          "desc": "[OnSucceedBasit Kaçınma] Gain +1 [Breath] Count",
           "coinlist": [
             {}
           ]
@@ -5576,7 +5576,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": "",
           "coinlist": [
             {}
@@ -5721,7 +5721,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": "",
           "coinlist": [
             {}
@@ -5729,7 +5729,7 @@
         },
         {
           "level": 4,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": "At 6+ [Breath], Coin Power +3",
           "coinlist": [
             {}
@@ -5771,7 +5771,7 @@
         {
           "level": 4,
           "name": "Order",
-          "desc": "If target has 5+ [Sinking], Coin Power +2",
+          "desc": "If target has 5+  [Sinking], Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5842,7 +5842,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down"
@@ -5859,13 +5859,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttackHead] Inflict 4 [Sinking]"
                 }
               ]
             }
@@ -5878,7 +5878,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -6009,7 +6009,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -6254,7 +6254,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -6445,7 +6445,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -6458,7 +6458,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": ""
         }
       ]
@@ -6468,7 +6468,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Basit Kaçınma",
           "desc": ""
         }
       ]
@@ -6478,7 +6478,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": ""
         }
       ]
@@ -6570,7 +6570,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
                 }
               ]
             }
@@ -6592,10 +6592,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Nails, inflict 2 Bind and 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ Nails, inflict 2 [Binding] and 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -6616,10 +6616,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Nails, inflict 2 Bind and 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ Nails, inflict 2 [Binding] and 2 Attack Power Down next turn"
                 }
               ]
             }
@@ -6866,7 +6866,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "",
           "coinlist": [
             {}
@@ -6874,7 +6874,7 @@
         },
         {
           "level": 4,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "",
           "coinlist": [
             {
@@ -7085,7 +7085,7 @@
         {
           "level": 1,
           "name": "Such Filth",
-          "desc": "[OnSucceedEvade] Target loses 3 SP",
+          "desc": "[OnSucceedBasit Kaçınma] Target loses 3 SP",
           "coinlist": [
             {}
           ]
@@ -7240,7 +7240,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -7623,7 +7623,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -7710,7 +7710,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
                 }
               ]
             },
@@ -7738,7 +7738,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
                 }
               ]
             },
@@ -7766,7 +7766,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
                 }
               ]
             },
@@ -7828,7 +7828,7 @@
         {
           "level": 1,
           "name": "F.I. in Sight",
-          "desc": "[OnSucceedEvade] Gain 1 Haste next turn",
+          "desc": "[OnSucceedBasit Kaçınma] Gain 1 Haste next turn",
           "coinlist": [
             {}
           ]
@@ -7883,7 +7883,7 @@
         {
           "level": 4,
           "name": "Keep It Fresh",
-          "desc": "If target has 4+ [Binding], deal +30% damage",
+          "desc": "If target has 4+ [[Binding]ing], deal +30% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -7914,7 +7914,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count; Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count; Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -7928,7 +7928,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count; Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count; Inflict 2 [Binding] next turn"
                 }
               ]
             }
@@ -7942,7 +7942,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count; Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count; Inflict 2 [Binding] next turn"
                 }
               ]
             }
@@ -8030,7 +8030,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -8448,7 +8448,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -8883,7 +8883,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -9084,7 +9084,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -9520,7 +9520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Eğer hedef 6+ [Sinking]'a sahipse, Batış Tufanı uygula"
+                  "desc": "[OnSucceedAttack] Eğer hedef 6+  [Sinking]'a sahipse, Batış Tufanı uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Eğer kullanıcı 10+ Sarsıntı Miktarı'na sahipse, uygulailen hasarın %30'unu bonus hasar olarak uygula"
@@ -9551,7 +9551,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Eğer hedef 6+ [Sinking]'a sahipse, Batış Tufanı uygula"
+                  "desc": "[OnSucceedAttack] Eğer hedef 6+  [Sinking]'a sahipse, Batış Tufanı uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Eğer kullanıcı 10+ Sarsıntı Miktarı'na sahipse, uygulailen hasarın %40'ını bonus hasar olarak uygula"
@@ -9568,7 +9568,7 @@
         {
           "level": 1,
           "name": "Saçılan Aroma",
-          "desc": "[OnSucceedEvade] 1 Batış uygula",
+          "desc": "[OnSucceedBasit Kaçınma] 1 Batış uygula",
           "coinlist": [
             {}
           ]
@@ -9734,7 +9734,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -9742,7 +9742,7 @@
         },
         {
           "level": 4,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn",
           "coinlist": [
             {}
@@ -10121,7 +10121,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "[WhenUse] Gain 1 Talisman",
           "coinlist": [
             {}
@@ -10366,7 +10366,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Basit Karşı Darbe",
           "desc": "",
           "coinlist": [
             {
@@ -10763,7 +10763,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {
@@ -10777,7 +10777,7 @@
         },
         {
           "level": 4,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {
@@ -10803,7 +10803,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[WinDuelAttackHead] Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -10818,7 +10818,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[WinDuelAttackHead] Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -10833,7 +10833,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] Inflict 1 Bind next turn"
+                  "desc": "[WinDuelAttack] Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -10853,7 +10853,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -10868,7 +10868,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -10883,7 +10883,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -10938,7 +10938,7 @@
         {
           "level": 1,
           "name": "Défensive",
-          "desc": "[OnSucceedEvade] Target loses 3 SP",
+          "desc": "[OnSucceedBasit Kaçınma] Target loses 3 SP",
           "coinlist": [
             {}
           ]
@@ -10946,7 +10946,7 @@
         {
           "level": 4,
           "name": "Défensive",
-          "desc": "[OnSucceedEvade] Target loses 3 SP",
+          "desc": "[OnSucceedBasit Kaçınma] Target loses 3 SP",
           "coinlist": [
             {}
           ]
@@ -11166,7 +11166,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Basit Korunma",
           "desc": "",
           "coinlist": [
             {
