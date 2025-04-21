@@ -41,7 +41,7 @@
     },
     {
       "id": 9,
-      "content": "Eyer bu hüzünlü havanın bir faili varsa, o da Vergilius idi."
+      "content": "Eyer bu hüzünlü havanın bir faili varsa, o da Vergiliustu."
     },
     {
       "id": 10,
@@ -49,74 +49,74 @@
     },
     {
       "id": 11,
-      "content": "Bizi bir çok kez ölümün eşiğine (hatta daha da yakınına) getirmişti, not to mention the occasions when we almost ended up unemployed."
+      "content": "Bizi birçok kez ölümün eşiğine (hatta daha da yakınına) getirmişti, nerdeyse işimizden bile olmuştuk ama."
     },
     {
       "id": 12,
-      "content": "Yet Vergilius refused to see from our perspective."
+      "content": "Vergilius bizim perspektifimizden bakmıyordu."
     },
     {
       "id": 13,
-      "content": "Given the circumstances, it’s only natural for our Sinners to be palpably disgruntled."
+      "content": "Bu koşullar altında doğal olarak Günahkârlar açıkça huzursuz olmuşlardı."
     },
     {
       "id": 14,
-      "content": "Tired of the silent treatment, Ishmael spoke up."
+      "content": "suçlayıcı sessizlikten sıkılan Ishmael:"
     },
     {
       "id": 15,
       "model": "이스마엘",
-      "content": "Couldn’t you tell me where our next destination is now, at least?"
+      "content": "En azından şimdiki durağımızı söylermisin?"
     },
     {
       "id": 16,
       "model": "베르길리우스",
-      "content": "Oh, sorry about that."
+      "content": "Ah, özür dilerim(!)."
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "I was wondering whether briefing the mission to you miscreants would be worth the effort."
+      "content": "Bende tam siz başarısızlık abidelerine sonraki görevinizi anlatmaya değip değmeyeceğini sorguluyordum."
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Pah, you’re hurting me with your cold shoulder. Don’t you know that kids falling behind need more love?"
+      "content": "Peh, bizi soğukluğunla yıkıyorsun. Sen dili kullanmanın çocuklarla kötü iletişime sebep açtığını bilmiyormusun?"
     },
     {
       "id": 19,
       "model": "베르길리우스",
-      "content": "And let me plead you not to embarrass me this time."
+      "content": "Ve bu sefer beni utandırmamanızı tembihleyeyim."
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "I sure don’t want to look like a teacher taking a bunch of gradeschoolers out for a picnic."
+      "content": "Etrafta anaokulu veledlerine gezi düzenleyen bir öğretmen gibi gözükmek istemiyorum."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "I have high hopes for you in particular, Rodion. You might just make a good guide for this tour."
+      "content": "Özellikle sen, Rodion. Bu seferlik “Tur Rehberliği” için gayet uygunsun."
     },
     {
       "id": 22,
       "model": "로쟈",
-      "content": "Huh? I know I’m a big deal, but I don’t think I can be a guide for a place I don’t know…"
+      "content": "Huh? yani... kilit bir karakter olduğumu biliyordum ama, bilmediğim bir yere rehberlik yapmakta…"
     },
     {
       "id": 23,
       "model": "베르길리우스",
-      "content": "No worries. We’re heading to a location you should be more than familiar with."
+      "content": "Zararı yok. Yeterince tanışık olduğun bir yere gidiyoruz."
     },
     {
       "id": 24,
       "model": "베르길리우스",
-      "content": "A Nest of hedonism where you can drown in money or be drained of everything you have:"
+      "content": "Hedoistik bir Yuva, insanın servet içinde yüzebileceği yahut kaldırım mühendislğine terfiye edilebileceği yer:"
     },
     {
       "id": 25,
       "model": "베르길리우스",
-      "content": "J Corp’s."
+      "content": "J Kuruluşu."
     },
     {
       "id": 26,
@@ -125,27 +125,27 @@
     },
     {
       "id": 27,
-      "content": "Great, even Rodya has gone quiet now."
+      "content": "Süper, Rodya bile sessizliğe gömüldü."
     },
     {
       "id": 28,
       "model": "히스클리프",
-      "content": "Well, I suppose it wouldn’t be so bad to win big while we’re at it."
+      "content": "İyi o zaman, hazır el deymişken büyük vurgun yapalım."
     },
     {
       "id": 29,
       "model": "히스클리프",
-      "content": "Oi, someone wake me up when we’re there."
+      "content": "Oi, oraya varınca uyandırın lan beni."
     },
     {
       "id": 30,
       "model": "베르길리우스",
-      "content": "…Coincidentally, the bus will be unable to take you right to the branch building this time, dear passenger."
+      "content": "…Ne büyük tesadüf, Bu sefer otobüsümüz sizlere aktarmasız bir yolculuk sunamayacak, sayın yolcumuz."
     },
     {
       "id": 31,
       "model": "베르길리우스",
-      "content": "Charon, park it."
+      "content": "Charon, park et."
     },
     {
       "id": 32,
@@ -160,72 +160,72 @@
     {
       "id": 34,
       "model": "카론",
-      "content": "What’s “park”?"
+      "content": " “Park et” de ne demek?"
     },
     {
       "id": 35,
       "model": "베르길리우스",
-      "content": "It means stop."
+      "content": "'Dur!' Demek."
     },
     {
       "id": 36,
       "model": "카론",
-      "content": "Stops are red. Red tastes bad to Charon."
+      "content": "Durlar kırmızdır. kırmızı Charon'a kötü geliyor."
     },
     {
       "id": 37,
-      "content": "Grumbling, Charon hit the brakes without warning, sending most of the Sinners flying face-first into the seats ahead and flinging others off theirs."
+      "content": "Söylenerek Charon ansızın frenledi, birçok Günahkârı kafaüstü önlerindeki koltuklara fırlatıp diğerlerini yerlerinden ederek."
     },
     {
       "id": 38,
-      "content": "I was, of course, powerless against the inertia."
+      "content": "Tabi bende atalete (Eylemsizlik yasası) karşı çaresizdim."
     },
     {
       "id": 39,
-      "content": "A cacophony of complaints and shouts erupted."
+      "content": "Barışmaların ve çağırışların kakafonisi yükseldi."
     },
     {
       "id": 40,
-      "content": "Although I didn’t get to hear the Sinners’ ramblings in clear detail…"
+      "content": "Tam olarak ne dediklerine odaklanamamış olsamda…"
     },
     {
       "id": 41,
-      "content": "I’m willing to bet a good half of them were profanities, so maybe I’m better off not knowing."
+      "content": "Bahse varırırm çoğunluğu bela okumak olan bu serzebişleri, bilmemek daha iyiydi."
     },
     {
       "id": 42,
       "model": "베르길리우스",
-      "content": "Good to see you all full of energy. Now out."
+      "content": "Bakıyorum ki uykunuzu iyi almışsınız. Şimdi çıkın!"
     },
     {
       "id": 43,
       "model": "홍루",
-      "content": "Hmm… The destination still seemed rather far… Ah! Will you call a taxi for us?"
+      "content": "Hmm… Durağımız hâla uzakta gibi ama… Ah! bizler için taxi mi tuttunuz?"
     },
     {
       "id": 44,
       "model": "베르길리우스",
-      "content": "…As Ms. Faust will explain in detail, this mission is going to be quite different from our last, Dante."
+      "content": "…Bayan Faust'un da açıklayacağı gibi, bu görevimiz öncekiden biraz farklı olucak, Dante."
     },
     {
       "id": 45,
       "model": "베르길리우스",
-      "content": "This is because the location of the Golden Bough…"
+      "content": "Bunun nedeni şimdiki Altın Dal…"
     },
     {
       "id": 46,
       "model": "베르길리우스",
-      "content": "…is in the underground of a casino."
+      "content": "…Bir gazinonun kasasında."
     },
     {
       "id": 47,
       "model": "오티스",
-      "content": "Do you mean to tell us that it’s among the brightly lit buildings standing at the center of that street?"
+      "content": "Demek istediğin oradaki ışık saçan binalardan birinde mi?"
     },
     {
       "id": 48,
       "model": "베르길리우스",
-      "content": "That’s right, it’s one of those."
+      "content": "Evet öyle, onlardan birinde."
     },
     {
       "id": 49,
@@ -240,7 +240,7 @@
     {
       "id": 51,
       "model": "베르길리우스",
-      "content": "See, it’s times like this that remind me our team doesn’t necessarily lack critical thinkers… It really does make me wonder how you managed to blunder your previous mission even more."
+      "content": "İşte, tam da böyle zamanlar takmımızdan dahiler çıkabileceğini gösteriyor… Ve ayrietten bu beni önceki görevinizi nasıl becremedğinizi daha çok sorgulatıyor."
     },
     {
       "id": 52,
