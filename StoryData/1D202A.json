@@ -2,96 +2,96 @@
   "dataList": [
     {
       "id": 0,
-      "content": "Perhaps the time this ex-soldier spent off the battlefield was long enough to rust his prowess."
+      "content": "Belki de bu askerin savaş dışında harcadığı zaman, onu pek bir paslandırmıştı."
     },
     {
       "id": 1,
-      "content": "The head manager who must have defeated countless enemies in his glory days was now nearing his own end."
+      "content": "Zirve noktasında sayısız düşmana diz çöktürmüş komutan, tam olarak şu anda yolun sonuna gelmişti."
     },
     {
       "id": 2,
-      "place": "District 4 - LC Branch Interior",
+      "place": "Eyalet 4 - LK Dal İçerisi",
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "You were once well-respected, Gregor…"
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı",
+      "content": "Zamanında Çok saygı görürdün, Gregor…"
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "…I never really asked for respect."
+      "content": "…Saygını isteyen bendim de sanki."
     },
     {
       "id": 4,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Don’t proceed any further… Only hell awaits you."
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı",
+      "content": "Bir adım daha ilerlersen… Karşına sadece cehennem gazabı çıkacak."
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "Sorry, but I don’t think I can follow your advice. I ought to be a go-getter if I don’t wanna be fired."
+      "content": "Pardon, ama sanırım tavsiyene kulak asacak bir vaziyette değilim. Kovulmak istemiyorsam biraz olsun işimi kendim bitirmem gerek."
     },
     {
       "id": 6,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Have you abandoned your honor… for some pittance?"
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı",
+      "content": "Onurunu… Beş para etmez kişiler için mi yerlere serdin?"
     },
     {
       "id": 7,
       "model": "그레고르",
-      "content": "I sold that away long ago, right with my medal. Landlord couldn’t wait for rent any longer."
+      "content": "Sereli çok oldu, madalyam ile birlikte hem de. Kiracı bey daha fazla bekleyemezdi."
     },
     {
       "id": 8,
-      "content": "A bitter smile appeared on the head manager’s face."
+      "content": "Komutan'ın yüzüne acı bir gülümseme gelmişti."
     },
     {
       "id": 9,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "You’re… no different from us…"
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı",
+      "content": "Bizden… en ufak farkın yok…"
     },
     {
       "id": 10,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "In the end, we’re…"
+      "teller": "Yıpranmış G Kurul. Komutanı",
+      "title": "G Kurul. Kalıntısı  ",
+      "content": "Günün sonunda…"
     },
     {
       "id": 11,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
+      "teller": "Yıpranmış G Kurul. Komutanı",
       "title": "G Corp. Remnant",
-      "content": "Nothing… but disgusting pests…"
+      "content": "İğrenç böcek kurularından… farkımız  yok…"
     },
     {
       "id": 12,
-      "content": "He took a few more shallow breaths, then ceased to move."
+      "content": "Birkaç kez daha sığ bir şekilde nefes alıp, ardından hareket etmeyi bırakmıştı."
     },
     {
       "id": 13,
       "model": "그레고르",
-      "content": "…Hey, mind if I borrow a cig?"
+      "content": "…Hey, bi' dal salar mıydın ya?"
     },
     {
       "id": 14,
       "model": "료슈",
-      "content": "…Just this once."
+      "content": "…Tek seferliğine."
     },
     {
       "id": 15,
-      "content": "Gregor put the borrowed cigarette next to the one he already held in his mouth, then lit it and tossed it on the chest of the deceased commander."
+      "content": "Sigarasını, zaten ağzında duran sigaranın yanına yerleştirmiş, ve sigarayı yakıp, ölmüş olan komutanın cesedine fırlatıvermişti."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "Sorry, didn’t wanna share mine with that thing."
+      "content": "Kusura bakma, onunla paylaşmak istemiyordum pek."
     },
     {
       "id": 17,
@@ -100,7 +100,7 @@
     },
     {
       "id": 18,
-      "content": "Ryōshū gave a snort. The smoke from Gregor’s cigarette lingered with the prevailing silence in the air for a short while."
+      "content": "Ryōshū biraz homurtmuştu sadece. Gregor'un sigarasından gelen duman ise, bir süreliğine havadaki sessizliğe eşlik etmişti."
     }
   ]
 }
