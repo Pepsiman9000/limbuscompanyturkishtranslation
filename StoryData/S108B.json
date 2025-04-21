@@ -9,11 +9,11 @@
     {
       "id": 1,
       "model": "그레고르",
-      "content": "Hah? Bana bir mola ver... Arka sokakların bu köşesinde birini tanımam mümkün değil―"
+      "content": "Hah? Bana bir mola ver... Arka Sokakların bu köşesinde birini tanımam mümkün değil―"
     },
     {
       "id": 2,
-      "content": "Gregor pencereden dışarı baktığı anda yüzü kararır."
+      "content": "Gregor pencereden dışarı baktığı anda yüzü karardı."
     },
     {
       "id": 3,
@@ -32,7 +32,7 @@
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "Bu senin sahip olduğun türden bir artış değil mi, Gregor?"
+      "content": "Bu senin sahip olduğun türden bir modifikasyon değil mi, Gregor?"
     },
     {
       "id": 7,
@@ -42,12 +42,12 @@
     {
       "id": 8,
       "model": "그레고르",
-      "content": "Uzak dursan iyi edersin. Haşereye yakalanmak istemezsin, değil mi?"
+      "content": "Uzak dursan iyi edersin. Sana da bulaşmasını istemezsin, değil mi?"
     },
     {
       "id": 9,
       "model": "싱클레어",
-      "content": "İik, bu doğru mu?!"
+      "content": "İik, bulaşıcı mı?!"
     },
     {
       "id": 10,
@@ -61,12 +61,12 @@
     {
       "id": 12,
       "model": "파우스트",
-      "content": "Geçmişte G Corp, Gregor'un sahip olduğu biyomimetik silahlara benzer şekilde çoğu çalışanına biyomimetik silahlar verme prosedürlerini uygulamıştı."
+      "content": "Geçmişte G Kuruluşu, Gregor'un sahip olduğu biyomimetik silahlara benzer şekilde çoğu çalışanına biyomimetik silahlar verme prosedürlerini uygulamıştı."
     },
     {
       "id": 13,
       "model": "이스마엘",
-      "content": "Sen geçmişte G Şirketi için çalışıyordun değil mi, Gregor? O şirket olmalı…"
+      "content": "Sen geçmişte G Kuruluşu için çalışıyordun değil mi, Gregor? O kuruluş…"
     },
     {
       "id": 14,
@@ -74,7 +74,7 @@
     },
     {
       "id": 15,
-      "content": "Gregor wore a smile on his mouth, but his hardened eyes were resting downcast, just as a moment ago."
+      "content": "Gregor yüzüne bir gülümseme giydirdi, ama keskin gözleri daha az önce yere dikik durumdaydı."
     },
     {
       "id": 16,
@@ -119,16 +119,16 @@
     {
       "id": 24,
       "model": "베르길리우스",
-      "content": "Önden buyur Gregor.Nedenini biliyorsun."
+      "content": "Önden buyur Gregor. Nedenini biliyorsun."
     },
     {
       "id": 25,
       "model": "그레고르",
-      "content": "...Çok kaba adamsın."
+      "content": "...Çok kaba bi' adamsın."
     },
     {
       "id": 26,
-      "place": "4. Bölgenin Bazı Arka Sokakları",
+      "place": "4. Bölgede Bir Arka Sokaklar",
       "content": "Otobüsün yakınında böcek başlı bir grup asker toplandı."
     },
     {
@@ -148,7 +148,7 @@
       "model": "의아한패잔병",
       "teller": "Şaşkın Gazi",
       "title": "???",
-      "content": "Bekle.O yüzü önceden görmüştüm."
+      "content": "Bekle. O yüzü tanıyorum."
     },
     {
       "id": 30,
@@ -163,12 +163,12 @@
     {
       "id": 32,
       "model": "이스마엘",
-      "content": "…Şu anda pek önemli değil, Müdür. Anıları anmak için zamanımız olduğunu sanmıyorum."
+      "content": "…Şu anda pek önemli değil, Müdür Ahbap. Anıları anmak için zamanımız olduğunu sanmıyorum."
     },
     {
       "id": 33,
       "model": "화난패잔병",
-      "teller": "Ateşli Gazi",
+      "teller": "Sinirli Gazi",
       "title": "???",
       "content": "O kol beni rahatsız ediyor... Ama neyse. Önemli olan, seni içeri alamam."
     },
