@@ -1532,10 +1532,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +10% more damage for every type of negative effect on target (max 30%)"
+                  "desc": "Hedef üzerindeki her negatif efekt için %10 daha fazla hasar ver (maks 30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack]t 6 [Laceration] ver"
+                  "desc": "[OnSucceedAttack] 6 [Laceration] ver"
                 }
               ]
             }
@@ -1543,36 +1543,36 @@
         },
         {
           "level": 4,
-          "name": "Thundercleave",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[StartBattle] Gain 1 [CloudWall] next turn\n[WhenUse] Gain 1 [Endurance] next turn (once per turn)\n<style=\"highlight\">[WinDuel] Gain 1 [BlackCloudBlade] next turn (once per turn)</style>",
+          "name": "Yıldırım Kesişi",
+          "desc": "<style=\"highlight\">Hedefteki her 6 [Laceration] için Jeton Gücü +1 (maks 2)</style>\n[StartBattle] Sonraki tur 1 [CloudWall] kazan\n[WhenUse] Sonraki tur 1 [Endurance] kazan (tur başına bir defa)\n<style=\"highlight\">[WinDuel] Sonraki tur 1 [BlackCloudBlade] kazan (tur başına bir defa)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] The final Coin deals +10% more damage<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Son Jeton %10 daha fazla hasar vurur<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [SlashTakeDamageUp]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [SlashTakeDamageUp] ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] The final Coin deals +10% more damage<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Son Jeton %10 daha fazla hasar vurur<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +10% more damage for every type of negative effect on target <style=\"highlight\">(max 100%)</style>"
+                  "desc": "Hedef üzerindeki her negatif efekt için %10 daha fazla hasar ver <style=\"highlight\">(maks 100%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 6 [Laceration] ver<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1585,8 +1585,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rules of the Backstreets",
-          "desc": "[DuelCounter]\nIf Kurokumo Clan Captain Ishmael is on the field, activate the following:\n- Convert all Coins in this Skill into [SuperCoin]s\n- Final Power +3 to this Skill upon Clash Lose\n[WhenUse] If this unit has [CloudWall], unconditionally activate all Reuse effects on this Skill's Coins",
+          "name": "Arka Sokakların Kanunları",
+          "desc": "[DuelCounter]\nEğer Kurokumo Klan Kaptanı Ishmael savaş alanındaysa, şunları aktive et:\n- Bu yetenekteki bütün Jetonları [SuperCoin]se çevir\n- Çarpıima kaybediminde bu yetenek +3 Final Gücü kazanır\n[WhenUse] Eğer bu karakter [CloudWall]a sahipse, unconditionally activate all Reuse effects on this Skill's Coins",
           "coinlist": [
             {
               "coindescs": [
