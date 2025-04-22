@@ -1738,14 +1738,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Kuruluşunun Çivileri ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Kuruluşunun Çivileri ver"
                 }
               ]
             }
@@ -1771,14 +1771,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knock",
+          "name": "Darbe",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze and Defense Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ve Defans Güç Azalışı ver"
                 }
               ]
             }
@@ -1791,13 +1791,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hammer",
+          "name": "Çekiç",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Yavaşlama ver"
                 }
               ]
             }
@@ -1810,20 +1810,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Inquisition",
+          "name": "Engizisyon",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] 1 N Kuruluşunun Çivileri ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Kanama ver"
                 }
               ]
             }
@@ -1851,27 +1851,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rough Nailing",
+          "name": "Sert Çivileme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Kuruluşunun Çivileri ve Kanama ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Kuruluşunun Çivileri ve Kanama ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Kuruluşunun Çivileri ve Kanama ver"
                 }
               ]
             }
@@ -1884,14 +1884,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Aggressive Preaching",
-          "desc": "[DefeatDuel] Gain 2 Fragile next turn",
+          "name": "Agresif Vaaz",
+          "desc": "[DefeatDuel] Sonraki tur 2 Kırılganlık kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kırılganlık ver"
                 }
               ]
             }
@@ -1904,13 +1904,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Dare!",
+          "name": "Cesaretin Var!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 N Kuruluşunun Çivileri ver"
                 }
               ]
             }
@@ -1937,14 +1937,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vigorous Hammering",
+          "name": "Kuvvetli Çekiçleme",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind and 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Yavaşlama ve 2 Felç ver"
                 }
               ]
             }
@@ -1957,13 +1957,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Oppressive Preaching",
-          "desc": "[DefeatDuel] Gain 2 Attack Power Down next turn",
+          "name": "Baskıcı Vaaz",
+          "desc": "[DefeatDuel] Sonraki tur 2 Saldırı Güç Azalışı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Saldırı Güç Azalışı ver"
                 }
               ]
             }
@@ -1976,21 +1976,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Assertive Inquisition",
+          "name": "İddialı Engizisyon",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] 1 N Kuruluşunun Çivileri ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, inflict 10 Bind next turn"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 5+ N Kuruluşunun Çivileri varsa, sonraki tur 10 Yavaşlama ver"
                 }
               ]
             }
@@ -2003,13 +2003,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thrusting Nail",
+          "name": "Delici Çivi",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 N Kuruluşunun Çivileri ver"
                 }
               ]
             }
@@ -2035,13 +2035,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Congregate",
-          "desc": "[WinDuel] Apply 1 Fanatic to 2 random allies next turn",
+          "name": "Toplanış",
+          "desc": "[WinDuel] Sonraki tur 2 rastgele müttefiğe 1 Fanatik ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
                 }
               ]
             },
@@ -2055,8 +2055,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hardy Faith",
-          "desc": "[WhenUse] Gain 1 Protection",
+          "name": "Sert İnanç",
+          "desc": "[WhenUse] 1 Korunma kazan",
           "coinlist": [
             {}
           ]
@@ -2068,13 +2068,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ruling Hammer",
+          "name": "Kuralın Çekici",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bind and 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Yavaşlama ve 2 Saldırı Güç Azalışı ver"
                 }
               ]
             }
@@ -2106,13 +2106,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Unite",
-          "desc": "[WinDuel] Heal 15 SP for 2 allies with the least SP",
+          "name": "Birleşme",
+          "desc": "[WinDuel] SP'si en az olan 2 müttefiğe 15 SP ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
                 }
               ]
             },
@@ -2126,13 +2126,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ponderous Inquisition",
+          "name": "Hantal Engizisyon",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] 2 N Kuruluşunun Çivileri ver"
                 }
               ]
             },
@@ -2140,7 +2140,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, inflict 10 Attack Power Down and Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 5+ N Kuruluşunun Çivileri varsa, Sonraki tur 10 Saldırı Güç Azalışı ve Felç ver"
                 }
               ]
             }
@@ -2153,27 +2153,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spike Drive",
+          "name": "Dikenli Hamle",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Kuruluşunun Çivileri ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Kuruluşunun Çivileri ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Kuruluşunun Çivileri ver"
                 }
               ]
             }
@@ -2186,13 +2186,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Drive",
+          "name": "Hamle",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed and 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 Kanama ve 2 Kırılganlık ver"
                 }
               ]
             },
@@ -2206,13 +2206,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hammers, Heed Me…!",
-          "desc": "[WinDuel] Apply 1 Fanatic to all allies next turn",
+          "name": "Çekiçler, Bana Güç verin…!",
+          "desc": "[WinDuel] Sonraki tur bütün müttefiklere 1 Fanatik ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 10 SP for 2 allies with the least SP"
+                  "desc": "[OnSucceedAttack] SP'si en az olan 2 müttefiğe 15 SP ver"
                 }
               ]
             }
@@ -2225,20 +2225,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Are Cleansed of Sin",
+          "name": "Günahlarından Temizlendin",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] 3 N Kuruluşunun Çivileri ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 5+ N Kuruluşunun Çivileri varsa, Hedefi Sersemlet"
                 }
               ]
             }
@@ -2251,8 +2251,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stalwart Faith",
-          "desc": "[WhenUse] Gain 2 Protection",
+          "name": "Korkusuz İnanç",
+          "desc": "[WhenUse] 2 Korunma kazan",
           "coinlist": [
             {}
           ]
@@ -2264,27 +2264,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spike Drive",
-          "desc": "At less than 50% HP, inflict +1 N Corp’s Nails",
+          "name": "Dikenli Hamle",
+          "desc": "%50 HP'nin altında, 1 N Kuruluşunun Çivileri ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Kuruluşunun Çivileri ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Kuruluşunun Çivileri ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Kuruluşunun Çivileri ver"
                 }
               ]
             }
@@ -2297,13 +2297,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Drive",
+          "name": "Hamle",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 Kanama ver"
                 }
               ]
             }
@@ -2316,8 +2316,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Great Task Will Be Done…!",
-          "desc": "[WhenUse] Apply 1 Fanatic to all allies next turn",
+          "name": "Büyük Görev Tamamlanacak…!",
+          "desc": "[WhenUse] Sonraki tur bütün müttefiklere 1 Fanatik ver",
           "coinlist": [
             {}
           ]
@@ -2329,20 +2329,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Cleansed… of Sin!",
+          "name": "Günahlarından… Temizlen!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] 5 N Kuruluşunun Çivileri ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 5+ N Kuruluşunun Çivileri varsa, Hedefi Sersemlet"
                 }
               ]
             }
@@ -2355,20 +2355,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Annihilate Heretics",
-          "desc": "If the target has N Corp’s Nails, +100% Damage",
+          "name": "Kafirleri Yok et",
+          "desc": "Eğer hedefte N Kuruluşunun Çivileri varsa, +100% Hasar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 10 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 Kırılganlık ver"
                 }
               ]
             }
@@ -2381,13 +2381,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Foolishness…!",
+          "name": "Aptallık…!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Kuruluşunun Çivileri ver"
                 }
               ]
             }
@@ -2400,7 +2400,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strike Down",
+          "name": "Hedefi İndirme",
           "desc": "",
           "coinlist": [
             {}
@@ -2413,7 +2413,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Line of Death",
+          "name": "Ölüm Çizgisi",
           "desc": "",
           "coinlist": [
             {}
@@ -2432,7 +2432,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] 3 Parçalanma ver"
                 }
               ]
             }
@@ -2451,14 +2451,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttackHead] +3 Parçalanma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] 2 Parçalanma ver"
                 }
               ]
             }
@@ -2471,7 +2471,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -2490,7 +2490,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] 3 Parçalanma ver"
                 }
               ]
             }
@@ -2509,14 +2509,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict Paralyze for each Heads this skill lands"
+                  "desc": "[OnSucceedAttackHead] Bu Yeteneğin tutturduğu her tura için Felç ver"
                 }
               ]
             }
@@ -2529,7 +2529,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -2548,7 +2548,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttackHead] 3 Kanama ver"
                 }
               ]
             }
@@ -2567,14 +2567,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttackHead] 3 Kanama ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Defense Down and +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] 2 Defans Düşüşü ve +1 Kanama Miktarı ver"
                 }
               ]
             }
@@ -2587,7 +2587,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -2601,12 +2601,12 @@
         {
           "level": 1,
           "name": "Kigigiik",
-          "desc": "If user took no damage last turn, Coin Power +1",
+          "desc": "Eğer kullanıcı önceki tur hiç hasar yememişse, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttackHead] 5 Sarsıntı ver"
                 }
               ]
             }
@@ -2625,7 +2625,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind and 2 Defense Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlama ve 2 Defans Düşüşü ver"
                 }
               ]
             }
@@ -2639,12 +2639,12 @@
         {
           "level": 1,
           "name": "Kieegikhik",
-          "desc": "[WhenUse] Gain 2 Protection",
+          "desc": "[WhenUse] 2 Korunma kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması nı tetikle"
                 }
               ]
             }
@@ -2657,7 +2657,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -2670,7 +2670,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proximity Shooting",
+          "name": "Yakın Ateş",
           "desc": "",
           "coinlist": [
             {}
@@ -2683,7 +2683,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Retreat; Retreat;",
+          "name": "Geri Çekilin; Geri Çekilin;",
           "desc": "",
           "coinlist": [
             {}
@@ -2696,7 +2696,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proximity Shooting",
+          "name": "Yakın Ateş",
           "desc": "",
           "coinlist": [
             {}
@@ -2709,7 +2709,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Retreat; Retreat;",
+          "name": "Geri Çekilin; Geri Çekilin;",
           "desc": "",
           "coinlist": [
             {}
@@ -2722,8 +2722,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flash; Flash;",
-          "desc": "[WhenUse] Target loses 10 SP",
+          "name": "Hızlı; Hızlı;",
+          "desc": "[WhenUse] Hedef 10 SP kaybeder",
           "coinlist": [
             {}
           ]
@@ -2735,13 +2735,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scanning for weakness.",
+          "name": "Zayıflık Taranıyor.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
                 }
               ]
             }
@@ -2754,13 +2754,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Impeding movement.",
+          "name": "Engelleyici Hareket.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
                 }
               ]
             }
@@ -2773,13 +2773,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cutting up.",
+          "name": "Doğrayış.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
                 }
               ]
             }
@@ -2792,16 +2792,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carving out.",
+          "name": "Oyuş.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kırılganlık ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 5 Defans Seviye Düşüşü ver"
                 }
               ]
             }
@@ -2814,13 +2814,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Load... And Fire",
+          "name": "Doldur... Ve Ateşle",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] 3 Sarsıntı ver"
                 }
               ]
             }
@@ -2833,16 +2833,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressing down.",
+          "name": "Zapt Ediliyor.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Saldırı Güç Azalışı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackHead] Sarsıntı Patlaması nı tetikle"
                 }
               ]
             }
@@ -2855,20 +2855,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cutting up.",
+          "name": "Doğrayış.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttack] +5 Parçalanma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
                 }
               ]
             }
@@ -2881,17 +2881,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carving out.",
+          "name": "Oyuş.",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 Defans Seviye Düşüşü ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kırılganlık ver"
                 }
               ]
             }
@@ -2904,20 +2904,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sawblade... Slamming down.",
+          "name": "Testere... Yere Yatırılıyor.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttack] +5 Parçalanma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttackHead] 5 Parçalanma ver"
                 }
               ]
             },
