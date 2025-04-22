@@ -1025,7 +1025,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 4 Artı Jeton Düşmesi ver"
                 }
               ]
             }
@@ -1038,20 +1038,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hold It Right There!",
+          "name": "Bir Adım Bile Atma!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Güç Düşüşü ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Güç Düşüşü ver"
                 }
               ]
             }
@@ -1064,8 +1064,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This’ll Hurt!",
-          "desc": "[WinDuel] Skill Power +1",
+          "name": "Bu Acıtacak!",
+          "desc": "[WinDuel] Yetenek Gücü +1",
           "coinlist": [
             {}
           ]
@@ -1103,7 +1103,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Interloper Spotted",
+          "name": "Kargaşacı Tespit Edildi",
           "desc": "",
           "coinlist": [
             {},
@@ -1111,7 +1111,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Yavaşlama ver"
                 }
               ]
             }
@@ -1124,14 +1124,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wary Move",
+          "name": "Tedbirli Hareket",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
                 }
               ]
             },
@@ -1145,15 +1145,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wide Arrest",
-          "desc": "[WinDuel] Skill Power +2",
+          "name": "Toplu Tutuklayış",
+          "desc": "[WinDuel] Yetenek Gücü +2",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Felç ver"
                 }
               ]
             }
@@ -1166,7 +1166,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Not a Chance",
+          "name": "İhtimali Yok",
           "desc": "",
           "coinlist": [
             {}
@@ -1185,21 +1185,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 SP"
+                  "desc": "[OnSucceedAttack] 2 SP iyileştir"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 SP"
+                  "desc": "[OnSucceedAttack] 2 SP iyileştir"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 SP"
+                  "desc": "[OnSucceedAttack] 2 SP iyileştir"
                 }
               ]
             }
@@ -1213,7 +1213,7 @@
         {
           "level": 1,
           "name": "Danza de Paz",
-          "desc": "[WhenUse] Apply 1 Defense Power Up to all allies next turn",
+          "desc": "[WhenUse] Sonraki tur bütün müttefiklere 1 Defans Güç Artışı ver",
           "coinlist": [
             {}
           ]
@@ -1226,14 +1226,14 @@
         {
           "level": 1,
           "name": "Duelo de Baile",
-          "desc": "[WinDuel] Target loses 5 SP",
+          "desc": "[WinDuel] Hedef 5 SP kaybeder",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Saldırı Güç Azalışı ver"
                 }
               ]
             }
@@ -1247,7 +1247,7 @@
         {
           "level": 1,
           "name": "Puñales Joviales",
-          "desc": "If target’s SP is below 0, Skill Power +1",
+          "desc": "Eğer hedefin SP'si 0'ın altındaysa, Yetenek Gücü +1",
           "coinlist": [
             {}
           ]
@@ -1260,7 +1260,7 @@
         {
           "level": 1,
           "name": "¡Olé!",
-          "desc": "[OnSucceedEvade] Target loses 5 SP",
+          "desc": "[OnSucceedEvade] Hedef 5 SP kaybeder",
           "coinlist": [
             {}
           ]
@@ -1273,7 +1273,7 @@
         {
           "level": 1,
           "name": "Danza de Emoción",
-          "desc": "[WhenUse] Gain 1 Attack Power Up next turn",
+          "desc": "[WhenUse] Sonraki tur 1 Saldırı Güç Artışı kazan",
           "coinlist": [
             {}
           ]
@@ -1286,33 +1286,33 @@
         {
           "level": 1,
           "name": "Pasos Pasionales",
-          "desc": "[WhenUse] Heal 5 SP",
+          "desc": "[WhenUse] 5 SP iyileştir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Nefes kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Nefes kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Nefes kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Nefes kazan"
                 }
               ]
             }
@@ -1326,12 +1326,12 @@
         {
           "level": 1,
           "name": "¿Eso es todo?",
-          "desc": "[WinDuel] Deal 10 SP damage",
+          "desc": "[WinDuel] 10 SP hasarı ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Attack Power Down and Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Saldırı Güç Azalışı ve Felç ver"
                 }
               ]
             }
@@ -1351,7 +1351,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Saldırı Güç Artışı kazan"
                 }
               ]
             }
@@ -1371,7 +1371,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Defense Power Up next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Defans Güç Artışı kazan"
                 }
               ]
             }
@@ -1385,12 +1385,12 @@
         {
           "level": 1,
           "name": "Pañata Party~!",
-          "desc": "[WhenUse] If target’s SP is below 0, crit chance increases in proportion to target’s SP",
+          "desc": "[WhenUse] Eğer hedefin SP'si 0'ın altındaysa, kritik şansı hedefin SP'sine orantılı olarak artar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Lower user’s Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] Kullanıcının Sersemleme Eşiğini verilen hasarın %50si kadar azalt"
                 }
               ]
             }
@@ -1404,7 +1404,7 @@
         {
           "level": 1,
           "name": "¡Excelente!",
-          "desc": "[OnSucceedEvade] Lower user’s Stagger Threshold by 5; Deal 5 SP damage",
+          "desc": "[OnSucceedEvade] Kullanıcının Sersemleme Eşiğini 5 azalt; 5 SP hasarı vur",
           "coinlist": [
             {}
           ]
@@ -1416,20 +1416,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I’ll Tear Ya Apart",
-          "desc": "If target’s SP is lower than user’s, Skill Power +1",
+          "name": "Seni Parçalara Ayıracağım",
+          "desc": "Eğer hedefin SP'si kullanıcıdan azsa, Yetenek Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Kanama ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Kanama ver"
                 }
               ]
             }
@@ -1442,13 +1442,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gruesome Welcome",
+          "name": "İğrenç Karşılama",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 15 SP damage"
+                  "desc": "[OnSucceedAttack] 15 SP hasarı ver"
                 }
               ]
             }
@@ -1461,14 +1461,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Insult Barrage",
-          "desc": "[WinDuel] Heal 10 SP for a random ally",
+          "name": "Arkası Kesilmeyen Hakaretler",
+          "desc": "[WinDuel] Rastgele bir müttefiğe 10 SP ver",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] 5 SP hasarı vur"
                 }
               ]
             }
@@ -1481,13 +1481,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ey!",
-          "desc": "[WinDuel] Target loses 15 SP",
+          "name": "Hop!",
+          "desc": "[WinDuel] Hedef 15 SP kaybeder",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Felç ver"
                 }
               ]
             }
@@ -1500,7 +1500,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "What’re Ya Lookin’ At?",
+          "name": "Nere' Bakıyon?",
           "desc": "",
           "coinlist": [
             {}
@@ -1513,13 +1513,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I’ll Crack Ya Skull",
-          "desc": "If target’s SP is lower than user’s, Skill Power +1",
+          "name": "Kafatasını Kıracağım",
+          "desc": "Eğer hedefin SP'si kullanıcıdan düşükse, Yetenk Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur +2 Kanama Miktarı ver"
                 }
               ]
             }
@@ -1532,27 +1532,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Raid",
+          "name": "Yağmalama",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Sarsıntı ver"
                 }
               ]
             }
@@ -1565,7 +1565,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blockade",
+          "name": "Engelleme",
           "desc": "",
           "coinlist": [
             {}
@@ -1578,13 +1578,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Neutralize Target",
+          "name": "Hedefi Etkisiz Hale Getirme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Sarsıntı ver"
                 }
               ]
             },
@@ -1592,7 +1592,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması nı tetikle"
                 }
               ]
             }
@@ -1605,8 +1605,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Activate HP Bullet",
-          "desc": "[WhenUse] Heal 10 HP",
+          "name": "HP Mermisi Aktivasyonu",
+          "desc": "[WhenUse] 10 HP iyileştir",
           "coinlist": [
             {}
           ]
@@ -1618,13 +1618,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Takedown",
+          "name": "Devirme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur +1 Sarsıntı Miktarı ver"
                 }
               ]
             }
@@ -1637,8 +1637,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shelter",
-          "desc": "[WinDuel] Apply 1 Defense Power Up to 2 random allies next turn",
+          "name": "Siper",
+          "desc": "[WinDuel] Sonraki tur 2 rastgele müttefiğe 1 Defans Güç Artışı ver",
           "coinlist": [
             {}
           ]
@@ -1650,7 +1650,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blockade",
+          "name": "Engelleme",
           "desc": "",
           "coinlist": [
             {
@@ -1698,8 +1698,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cover",
-          "desc": "[WinDuel] Apply 2 Protection to a random other ally next turn",
+          "name": "Siper al",
+          "desc": "[WinDuel] Sonraki tur rastgele başka bir müttefiğe 2 Korunma ver",
           "coinlist": [
             {}
           ]
@@ -1711,7 +1711,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Plunge In",
+          "name": "Ortaya Dalış",
           "desc": "",
           "coinlist": [
             {},
@@ -1719,7 +1719,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
                 }
               ]
             }
@@ -1732,7 +1732,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nail Pin",
+          "name": "Çivi Tutturması",
           "desc": "",
           "coinlist": [
             {
