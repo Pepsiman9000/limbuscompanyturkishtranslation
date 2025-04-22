@@ -12,8 +12,8 @@
       "id": 2,
       "place": "Eyalet 4 - LK Dal İçerisi",
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Zamanında Çok saygı görürdün, Gregor…"
     },
     {
@@ -24,8 +24,8 @@
     {
       "id": 4,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Bir adım daha ilerlersen… Karşına sadece cehennem gazabı çıkacak."
     },
     {
@@ -36,14 +36,14 @@
     {
       "id": 6,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı",
-      "content": "Onurunu… Beş para etmez kişiler için mi yerlere serdin?"
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı",
+      "content": "Onurunu… Beş para etmez kişiler için mi sattın?"
     },
     {
       "id": 7,
       "model": "그레고르",
-      "content": "Sereli çok oldu, madalyam ile birlikte hem de. Kiracı bey daha fazla bekleyemezdi."
+      "content": "Satalı çok oldu, madalyamla birlikte hem de. Kiracı bey daha fazla bekleyemezdi."
     },
     {
       "id": 8,
@@ -52,21 +52,21 @@
     {
       "id": 9,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Bizden… en ufak farkın yok…"
     },
     {
       "id": 10,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı  ",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı  ",
       "content": "Günün sonunda…"
     },
     {
       "id": 11,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
       "title": "G Corp. Remnant",
       "content": "İğrenç böcek kurularından… farkımız  yok…"
     },
@@ -86,12 +86,12 @@
     },
     {
       "id": 15,
-      "content": "Sigarasını, zaten ağzında duran sigaranın yanına yerleştirmiş, ve sigarayı yakıp, ölmüş olan komutanın cesedine fırlatıvermişti."
+      "content": "Sigarasını, zaten ağzında duran sigaranın yanına yerleştirdi, ve sigarayı yakıp, ölmüş olan komutanın cesedine fırlatıverdi."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "Kusura bakma, onunla paylaşmak istemiyordum pek."
+      "content": "Kusura bakma, benimkini paylaşmak istemiyordum."
     },
     {
       "id": 17,
@@ -100,7 +100,7 @@
     },
     {
       "id": 18,
-      "content": "Ryōshū biraz homurtmuştu sadece. Gregor'un sigarasından gelen duman ise, bir süreliğine havadaki sessizliğe eşlik etmişti."
+      "content": "Ryōshū biraz homurttu sadece. Gregor'un sigarasından gelen duman ise, bir süreliğine havadaki sessizliğe eşlik etti."
     }
   ]
 }
