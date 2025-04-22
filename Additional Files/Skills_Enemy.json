@@ -2924,7 +2924,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Kırılganlık ver"
                 }
               ]
             }
@@ -2937,8 +2937,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Enter Defensive Mode",
-          "desc": "[WhenUse] Gain 2 Protection",
+          "name": "Defansif Moda Geçiş",
+          "desc": "[WhenUse] 2 Korunma kazan",
           "coinlist": [
             {}
           ]
@@ -2950,16 +2950,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Load... And Fire",
+          "name": "Doldur... Ve Ateşle",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] 5 Sarsıntı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] +2 Sarsıntı Miktarı ver"
                 }
               ]
             }
@@ -2972,13 +2972,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressing down.",
+          "name": "Zapt Ediliyor.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Saldırı Güç Azalışı ver"
                 }
               ]
             }
@@ -2991,20 +2991,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "CAUTION, CAUTION: Unsteady",
+          "name": "DİKKAT, DİKKAT: Dengesiz",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 Saldırı Seviyesi Düşüşü ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması nı tetikle"
                 }
               ]
             }
@@ -3017,8 +3017,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Enter Defensive Mode",
-          "desc": "[WhenUse] Gain 2 Protection",
+          "name": "Defansif Moda Giriş",
+          "desc": "[WhenUse] 2 Korunma kazan",
           "coinlist": [
             {}
           ]
@@ -3030,16 +3030,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wounding.",
+          "name": "Yara Açma.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] 5 Parçalanma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttackHead] +5 Parçalanma Miktarı ver"
                 }
               ]
             }
@@ -3052,13 +3052,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "SPOTTED, SPOTTED: Injury",
-          "desc": "Prioritizes enemies with Rupture",
+          "name": "GÖRÜLDÜ, GÖRÜLDÜ: Sakatlık",
+          "desc": "Parçalanması olan düşmanlara saldırı önceliği verir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal fixed damage equal to target's Rupture Count"
+                  "desc": "[OnSucceedAttack] Hedefin Parçalanma Miktarı kadar sabit hasar ver"
                 }
               ]
             }
@@ -3071,16 +3071,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Amplify Vibration",
+          "name": "Sarsıntı Uygula",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] 5 Sarsıntı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] +3 Sarsıntı Miktarı ver"
                 }
               ]
             }
@@ -3093,16 +3093,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Breaking down.",
-          "desc": "Prioritizes enemies with Tremor",
+          "name": "Parçalanıyor.",
+          "desc": "Sarsıntı sı olan düşmanlara saldırı önceliği verir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması nı tetikle"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 5 Felç ver"
                 }
               ]
             }
@@ -3115,13 +3115,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "WARNING, WARNING: Shaking",
-          "desc": "Prioritizes enemies with Tremor",
+          "name": "UYARI, UYARI: Sallanıyor",
+          "desc": "Sarsıntı sı olan düşmanlara saldırı önceliği verir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Tremor"
+                  "desc": "[OnSucceedAttack] 10 Sarsıntı ver"
                 }
               ]
             }
@@ -3134,13 +3134,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vulnerability Detected",
+          "name": "Zayıflık Görüldü",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Damage -50%\nStagger target"
+                  "desc": "[OnSucceedAttack] -50% Hasar\nHedefi Sersemlet"
                 }
               ]
             }
@@ -3153,8 +3153,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Enter Defensive Mode",
-          "desc": "[StartBattle] Gain 3 Protection",
+          "name": "Defansif Moda Geçiş",
+          "desc": "[StartBattle] 3 Korunma kazan",
           "coinlist": [
             {}
           ]
@@ -3166,16 +3166,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let me return the favor.",
+          "name": "Sana Bu İyiliğini Geri Vereyim.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by the number of Coins that hit last turn"
+                  "desc": "[OnSucceedAttack] Önceki turda vuran Jeton sayısı kadar Sarsıntı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması nı tetikle"
                 }
               ]
             }
@@ -3188,13 +3188,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This'll Throw You Off",
+          "name": "Bu seni Uçuracak",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] +3 Sarsıntı Miktarı ver"
                 }
               ]
             }
@@ -3207,13 +3207,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vibration Acceleration",
+          "name": "Sallantı Hızlanması",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Double target’s Tremor Count"
+                  "desc": "[OnSucceedAttack] Hedefin Sarsıntı Miktarı nı ikiye katla"
                 }
               ]
             }
@@ -3226,20 +3226,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This is It!",
+          "name": "Yeter!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması nı tetikle"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması nı tetikle"
                 }
               ]
             }
@@ -3252,8 +3252,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rev Up",
-          "desc": "[WhenUse] Gain 1 Tremor Sync next turn",
+          "name": "Hızlanış",
+          "desc": "[WhenUse] Sonraki tur 1 Tremor Senkronizasyonu kazan",
           "coinlist": [
             {}
           ]
@@ -3265,13 +3265,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Eat This!",
+          "name": "Al Bunu!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı ver"
                 }
               ]
             }
@@ -3284,13 +3284,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vibration Amplification",
+          "name": "Sallanma Amplifikasyonu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Hedefteki Sarsıntı kadar Sarsıntı ver"
                 }
               ]
             }
@@ -3303,27 +3303,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "It's Over!",
+          "name": "Bitti!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] 2 Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] 2 Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması nı tetikle"
                 }
               ]
             }
@@ -3336,8 +3336,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rev Up",
-          "desc": "[WhenUse] Gain 1 Tremor Sync next turn",
+          "name": "Hızlan",
+          "desc": "[WhenUse] Sonraki tur 1 Tremor Senkronizasyonu kazan",
           "coinlist": [
             {}
           ]
@@ -3349,36 +3349,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Friction Escalation",
+          "name": "Sürtünme Yükselmesi",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] 1 Sarsıntı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] 1 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] 1 Sarsıntı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] 2 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] 1 Sarsıntı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] 3 Parçalanma ver"
                 }
               ]
             }
@@ -3391,16 +3391,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Grind You Up!",
+          "name": "Seni Parçalarına Ayıracağım!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] 3 Parçalanma ver"
                 }
               ]
             }
@@ -3413,7 +3413,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quaker Shaker",
+          "name": "Tuzak Çalkalayıcı",
           "desc": "",
           "coinlist": [
             {},
@@ -3421,14 +3421,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If Coins 1 & 2 land Heads, inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Eğer 1&2inci Jetonlar Tura tutarsa, Hedefteki Sarsıntı kadar Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If Coins 1 & 2 land Heads, inflict Tremor by the number of Heads this skill lands"
+                  "desc": "[OnSucceedAttack] Eğer 1&2inci Jetonlar Tura tutarsa, bu Yeteneğin tutturduğu tura sayısı kadar Sarsıntı ver"
                 }
               ]
             }
@@ -3441,8 +3441,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rev Up",
-          "desc": "[WhenUse] Gain 1 Tremor Sync next turn",
+          "name": "Hızlan",
+          "desc": "[WhenUse] Sonraki tur 1 Tremor Senkronizasyonu kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -3460,13 +3460,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stand Back!",
+          "name": "Geri Çekil!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı ver"
                 }
               ]
             }
@@ -3479,21 +3479,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This'll be Wobbly!",
+          "name": "Bu Sallantılı Olacak!",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict Paralyze by target's Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur hedefteki Sarsıntı kadar Felç ver"
                 }
               ]
             }
@@ -3506,13 +3506,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Turbo Amp",
+          "name": "Turbo Amplifikasyonu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Hedefteki Sarsıntı kadar Sarsıntı ver"
                 }
               ]
             }
@@ -3525,24 +3525,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Trembling Conversion",
+          "name": "Ürpertici Dönüşüm",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Hedefteki Sarsıntı kadar Sarsıntı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict Paralyze by target's Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur hedefteki Sarsıntı kadar Felç ver"
                 }
               ]
             }
@@ -3555,27 +3555,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vibration Compression",
+          "name": "Sallantı Sıkıştırması",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] 2 Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] 2 Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması nı tetikle"
                 }
               ]
             }
@@ -3588,16 +3588,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let's Sweep the Stakes",
+          "name": "Hadi Bahisleri Artıralım",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini 10 artır"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Raise Stagger Threshold by 20"
+                  "desc": "[OnSucceedAttackHead] Sersemleme Eşiğini 20 artır"
                 }
               ]
             }
@@ -3610,8 +3610,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Final Warmup",
-          "desc": "[StartBattle] Gain 4 Protection\nHeal 15 SP",
+          "name": "Son İdman",
+          "desc": "[StartBattle] 4 Korunma kazan\n15 SP iyileştir",
           "coinlist": [
             {
               "coindescs": [
@@ -3629,13 +3629,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stop the Intruder",
+          "name": "Davetsiz Misafiri Durdur",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
                 }
               ]
             }
@@ -3648,13 +3648,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "No Entry",
+          "name": "Giriş Yasask",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] 2 Parçalanma ver"
                 }
               ]
             }
@@ -3667,14 +3667,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Forbid Entry",
+          "name": "Yasaklı Giriş",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Kırılganlık ver"
                 }
               ]
             }
@@ -3687,8 +3687,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cover, Cover!",
-          "desc": "[StartBattle] Heal 5% of Max HP",
+          "name": "Sipere, Sipere!",
+          "desc": "[StartBattle] Maks HP'nin %5ini iyileştir",
           "coinlist": [
             {}
           ]
@@ -3700,13 +3700,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pause! Halt!",
+          "name": "Dur! Bekle!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı ver"
                 }
               ]
             }
@@ -3719,17 +3719,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stop There, Please!",
+          "name": "Lütfen, Dur Orada!",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] 3 Sarsıntı ver"
                 }
               ]
             }
@@ -3742,13 +3742,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Arresting!",
-          "desc": "Prioritizes enemies with Tremor",
+          "name": "Tutuklanıyor!",
+          "desc": "Sarsıntı sı olan düşmanlara saldırı önceliği verir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması nı tetikle"
                 }
               ]
             }
@@ -3761,8 +3761,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Taking Cover!",
-          "desc": "[StartBattle] Heal 5% of Max HP",
+          "name": "Siper Alınıyor!",
+          "desc": "[StartBattle] Maks Hp'nin %5ini iyileştir",
           "coinlist": [
             {}
           ]
@@ -3774,8 +3774,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Administering HP Ampule",
-          "desc": "[CantDuel][WhenUse] Targets allies\nHeal by damage number\nDeals no damage",
+          "name": "HP Kapsülü Kullanılıyor",
+          "desc": "[CantDuel][WhenUse] Müttefiklere saldırır\nHasar sayısı kadar iyileştirir\nHasar vermez",
           "coinlist": [
             {
               "coindescs": [
@@ -3793,8 +3793,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Administering Resister Ampule",
-          "desc": "[CantDuel][WhenUse] Targets allies\nGive 1 Protection against a random affinity\nDeals no damage",
+          "name": "Direnç Kapsülü Kullanılıyor",
+          "desc": "[CantDuel][WhenUse] Müttefiklere saldırır\nHasar sayısı kadar iyileştirir\nHasar vermez",
           "coinlist": [
             {
               "coindescs": [
@@ -3812,13 +3812,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Firing Decay Ampule",
+          "name": "Çürüme Kapsülü Kullanılıyor",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Decay Ampule\nInflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] 1 Çürüme Kapsülü ver\nSonraki tur 1 Felç ver"
                 }
               ]
             }
@@ -3831,7 +3831,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Initiating evasive maneuver.",
+          "name": "Kaçış Manevrası Başlatılıyor.",
           "desc": "",
           "coinlist": [
             {
@@ -3850,16 +3850,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Discharging Decay Ampule",
+          "name": "Çürüme Kapsülü Boşaltılıyor",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Felç ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Decay Ampule"
+                  "desc": "[OnSucceedAttackHead] 2 Çürüme Kapsülü ver"
                 }
               ]
             }
@@ -3872,28 +3872,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Exposing weakness.",
+          "name": "Zayıflık Ortaya Çıkarılıyor.",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Kırılganlık ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Decay Ampule"
+                  "desc": "[OnSucceedAttackHead] 3 Çürüme Kapsülü ver"
                 }
               ]
             }
@@ -3906,13 +3906,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Continue engaging.",
-          "desc": "[CantDuel] Targets allies",
+          "name": "Savaşa Devam et.",
+          "desc": "[CantDuel] Müttefiklere saldırır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Give 2 Damage Up next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Hasar Artışı ver"
                 }
               ]
             }
