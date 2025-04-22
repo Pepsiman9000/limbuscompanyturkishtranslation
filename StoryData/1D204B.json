@@ -2,245 +2,246 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
+      "place": "Eyalet 4 - LK Dal İçerisi",
       "model": "단테",
-      "content": "<Were those Abnormalities responsible for killing all the employees?>"
+      "content": "<Bu anomaliler, sizin tüm çalışanlarınızı öldürenler ile aynı mı?>"
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "I doubt that. If my guess is right…"
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Bu bir muamma gibi görünüyor, fakat tahminlerim doğru ise..."
     },
     {
       "id": 2,
       "model": "오티스",
-      "content": "Keep your eyes ahead, Manager. There’s another one of them."
+      "content": "Gözlerinizi karşıda tutun, Menajer. Onlardan bir tane daha var."
     },
     {
       "id": 3,
-      "content": "A humanoid being wearing the head of a statue was sitting against the wall."
+      "content": "Bir heykelin maskesini kuşanmış birisi, ileride duvara yaslanıyordu."
     },
     {
       "id": 4,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "Hi…? Are you… here to… draw your lot…?"
+      "teller": "Heykelkafa",
+      "title": "Kazazede?",
+      "content": "Merhaba…? Sen de… seçime mi… katılmaya geldin…?"
     },
     {
       "id": 5,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "Gather all your IDs… and give them… to me… Then we’ll find the winner."
+      "teller": "Heykelkafa",
+      "title": "Kazazede?",
+      "content": "Kimliklerinizi… bana verin… kazananı… Kazananı bulalım."
     },
     {
       "id": 6,
-      "content": "Its hand was barely grasping onto the strap of an employee ID card. “Alex” was the name written on it."
+      "content": "Eli ise zar zor bir kimlik kartına tutunmaya çalışıyordu. Üzerinde yazan ad ise “Alex”'ti."
     },
     {
       "id": 7,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "Sınıf 8 İşçözücü",
       "content": "…Alex."
     },
     {
       "id": 8,
       "model": "히스클리프",
-      "content": "Gone nuts, hasn’t she? And what’s that babble about winners?"
+      "content": "Kafayı sıyırmış, değil mi? Peki ya o kazananlar hakkındaki safsata ne?"
     },
     {
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Some Abnormalities… demanded regular offerings as part of the managerial guidelines."
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Bazı Anomali'ler... çalışma prosedüründen dolayı sık sık kurbanlar istiyordu..."
     },
     {
       "id": 10,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "You shouldn’t go that way… They will find you…"
+      "teller": "Heykelkafa",
+      "title": "Kazazede?",
+      "content": "Sakın o yoldan gitme… Seni de bulurlar…"
     },
     {
       "id": 11,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…And the offering happened, didn’t it?"
+      "title": "Sınıf 8 İşçözücü",
+      "content": "...Onlardan birisi de sen oldun, değil mi?"
     },
     {
       "id": 12,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "It’s your turn… to draw…"
+      "teller": "Heykelkafa",
+      "title": "Kazazede?",
+      "content": "Sıra… sana geldi…"
     },
     {
       "id": 13,
       "model": "단테",
-      "content": "<Offering…?>"
+      "content": "<İnsan mı kurban ediyorlarmış…?>"
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "What happens if no human sacrifice is made?"
+      "content": "Peki kimseyi kurban etmezseniz ne yaşanırdı?"
     },
     {
       "id": 15,
       "model": "유리",
       "teller": "Yuri",
       "title": "Grade 8 Fixer",
-      "content": "We never found out… We followed every procedure without fail."
+      "content": "Hiç bir fikrimiz yoktu ki, prosedürü tamamen hatasız bir şekilde takip ediyorduk."
     },
     {
       "id": 16,
       "model": "이스마엘",
-      "content": "I guess it escaped and started killing people left and right."
+      "content": "O halde, muhtemelen firar edip etrafta kim varsa öldürmüştür."
     },
     {
       "id": 17,
       "model": "히스클리프",
-      "content": "Ha! That “Abnormality” must’ve been one spineless bugger. Does it thwack victims in the back of the head?"
+      "content": "Ha! O Anomali kesinlikle korkak bi herif olmalı. Kurbanlarının kafalarının arkasına mı vuruyor?"
+"
     },
     {
       "id": 18,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "What… do you mean?"
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Ha... Ne demeye çalışıyorsunuz?"
     },
     {
       "id": 19,
       "model": "히스클리프",
-      "content": "Did you all get jabbed in the eyes or what? Those wounds were clearly left by humans. You can tell they were beating the shite out of each other."
+      "content": "Hepinizin gözleri mi sikildi, n'oldu? O yaralar kesinlikle insanlar tarafından yapılmış. Birbirlerinin amına koydukları belli."
     },
     {
       "id": 20,
       "model": "히스클리프",
-      "content": "Those thickos killed each other in a fight."
+      "content": "O aptallar birbirlerini bir kavgada öldürdü."
     },
     {
       "id": 21,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "B—But for what reason?"
+      "title": "Sınıf 8 İşçözücü",
+      "content": "A-Ama... Neden ki?"
     },
     {
       "id": 22,
       "model": "히스클리프",
-      "content": "S’clear as day."
+      "content": "Gün gibi ortada ya lan."
     },
     {
       "id": 23,
       "model": "히스클리프",
-      "content": "Probably figured they could survive a while even after the branch was buried."
+      "content": "Muhtemelen branş gömüldükten sonra bi süre hayatta kalabileceklerini sandılar."
     },
     {
       "id": 24,
       "model": "히스클리프",
-      "content": "Keep offering folks from time to time, and the rest might get rescued one day."
+      "content": "Zaman zaman insanları kurban etmeye devam et, belki bir gün geri kalanlar kurtulurlar..."
     },
     {
       "id": 25,
       "model": "히스클리프",
-      "content": "Guess they kept the lots going for a few months. It was the safest way they had to keep the thing in check."
+      "content": "Sanırım birkaç ay boyunca işleri sürdürdüler. Bu, kontrolü sağlamak için sahip oldukları en güvenli yoldu."
     },
     {
       "id": 26,
       "model": "히스클리프",
-      "content": "Problem, though: Y’think the one picked as the fall guy would gladly accept his fate?"
+      "content": "Sorun şu: Seçilen kurban, kaderini sevinçle kabul eder mi sence?"
     },
     {
       "id": 27,
       "model": "히스클리프",
-      "content": "If I was them, I’d rather strangle the bloke next to me."
+      "content": "Onların yerinde ben olsam yanımdaki elemanı boğardım."
     },
     {
       "id": 28,
       "model": "히스클리프",
-      "content": "Better them than me, ain’t that right?"
+      "content": "Onlar benden iyidir, değil mi?"
     },
     {
       "id": 29,
       "model": "히스클리프",
-      "content": "…An’ the rest is history, I bet."
+      "content": "...Ve gerisi tarih, bahse girerim."
     },
     {
       "id": 30,
       "model": "이스마엘",
-      "content": "And the last survivor… put on the stone mask belonging to the statueheads…"
+      "content": "Ve son hayatta kalan da… Kurban edilmekten kurtulmanın umudu ile…"
     },
     {
       "id": 31,
       "model": "이스마엘",
-      "content": "Believing that it’ll save her from being sacrificed."
+      "content": "Maskelerden birisini kafasına kuşanmıştır."
     },
     {
       "id": 32,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "That can’t be. Alex wouldn’t kill others just so she could live…"
+      "title": "Sınıf 8 İşçözücü",
+      "content": "İmkansız. Sırf yaşamak için başkalarını öldürmezdi o..."
     },
     {
       "id": 33,
       "model": "히스클리프",
-      "content": "How do you know that? You can’t even be sure if that’s actually Alex or not."
+      "content": "Bunu nereden biliyorsun? Gerçekten o kişi Alex mi, bundan emin bile olamazsın."
     },
     {
       "id": 34,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "Let me… give you a tip…"
+      "teller": "Heykelkafa",
+      "title": "Kazazede?",
+      "content": "Sana bir… ipucu vereyim…"
     },
     {
       "id": 35,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "You’ll be much better off… going on your own foot… before they come take you… Kehe… Kehe…"
+      "teller": "Heykelkafa",
+      "title": "Kazazede?",
+      "content": "Seni almalarındansa… kendi rızan ile oraya gitmek… senin için çok daha hoş olurdu… Kehe… Kehe…"
     },
     {
       "id": 36,
       "model": "오티스",
-      "content": "Let us be on our way. This person will perish before long."
+      "content": "Yolumuza dönelim. Bu kişi çok geçmeden ölüp, çürüyüp gidecek zaten."
     },
     {
       "id": 37,
-      "content": "While everyone else moved along, Yuri remained in place and continued to stare down the statue-clad individual."
+      "content": "Herkes hareket ettiği halde, Yuri olduğu yerde kalıp, heykelimsi şahsiyete gözlerini dikmeye devam etmişti."
     },
     {
       "id": 38,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "It wasn’t your fault… You know it’s not, right?"
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Senin suçun değildi... Farkındasın, değil mi?"
     },
     {
       "id": 39,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "Leave me behind, Yuri… Please leave me…"
+      "teller": "Heykelkafa",
+      "title": "Kazazede?",
+      "content": "Peşimi bırak, Yuri… Bırak da gideyim…"
     },
     {
       "id": 40,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "Sınıf 8 İşçözücü",
       "content": "……"
     },
     {
       "id": 41,
       "model": "단테",
-      "content": "<…Time to go.>"
+      "content": "<…Gitme vaktimiz geldi.>"
     }
   ]
 }
