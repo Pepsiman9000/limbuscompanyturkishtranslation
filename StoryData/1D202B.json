@@ -14,7 +14,7 @@
       "model": "G사부장",
       "teller": "???",
       "title": "???",
-      "content": "…Menajer Gregor?"
+      "content": "…Müdür Gregor?"
     },
     {
       "id": 3,
@@ -24,15 +24,15 @@
     {
       "id": 4,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "…Takımının baş komutanı bendim."
     },
     {
       "id": 5,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Yanımızdan iltica etmen yetmedi, bir de şimdi benim astlarımın yaşamını alacak götü bulmuşsun."
     },
     {
@@ -43,29 +43,29 @@
     {
       "id": 7,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Savaştan kalma mı? Savaş bitmedi bile."
     },
     {
       "id": 8,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Hiç bir şey… bitmedi… siktir…"
     },
     {
       "id": 9,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "G Kuruluşu'ndan topukladığın vakit, savaş senin için bitmiş olabilir…"
     },
     {
       "id": 10,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "Ama biz bu güne dek, canımız için bu savaş alanında savaştık."
     },
     {
@@ -81,21 +81,21 @@
     {
       "id": 13,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı",
       "content": "O zaman, biraz empati kurmaya çalış, Gregor."
     },
     {
       "id": 14,
       "model": "G사부장",
-      "teller": "Yıpranmış G Kurul. Komutanı",
-      "title": "G Kurul. Kalıntısı  ",
+      "teller": "Yıpranmış G Kuruluşu Komutanı",
+      "title": "G Kuruluşu Kalıntısı  ",
       "content": "Asker kaçaklarını bekleyen tek bir kader var."
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "Pek de bir anlamı varmış gibi diyorsun… Ama maalesef ki, kişisel intikamımız için birilerini öldürmek şirket politikalarına karşı çıkmıyor, komutanım."
+      "content": "Pek de bir anlamı varmış gibi diyorsun… Ama maalesef ki, kişisel intikam için birilerini öldürmek şirket politikalarına karşı çıkıyor, komutanım."
     }
   ]
 }
