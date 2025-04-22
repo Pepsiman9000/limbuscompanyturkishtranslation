@@ -4,53 +4,53 @@
       "id": 0,
       "place": "Central Front in the Smoke War",
       "model": "그레고르",
-      "content": "Still in a battlefield…"
+      "content": "Hala bir savaş meydanındayız…"
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…It’s the same place as before. Though, something about it is different."
+      "title": "8. Sınıf İşçözücü",
+      "content": "…Daha öncekiyle aynı yer. Ama bir şey farklı."
     },
     {
       "id": 2,
-      "content": "There was a strong tug at Heathcliff’s coat from behind."
+      "content": "Heathcliff'in ceketi arkadan kuvvetlice çekildi."
     },
     {
       "id": 3,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "Are you out of your minds? Get to shelter, now! You’ll age rapidly if exposed to that bomb’s blast."
+      "title": "Hatırlanan Asker",
+      "content": "Aklınızı mı kaçırdınız? Hemen sığınağa gidin! O bombanın patlamasına maruz kalırsanız hızla yaşlanacaksınız."
     },
     {
       "id": 4,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "The Nest next to ours turned into a nursing home—they can’t even walk without sticks!"
+      "title": "Hatırlanan Asker",
+      "content": "Yanımızdaki Yuva huzurevine dönmüş, bastonsuz yürüyemiyorlar bile!"
     },
     {
       "id": 5,
       "model": "로쟈",
-      "content": "Hold on, isn’t he the same guy we just…"
+      "content": "Durun bakalım, bu az önce gördüğümüz adam değil mi?"
     },
     {
       "id": 6,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "It’s not a problem, because Manager Gregor is with us!"
+      "title": "Hatırlanan Asker",
+      "content": "Hiç sorun değil, çünkü Müdür Gregor bizimle!"
     },
     {
       "id": 7,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "He doesn’t suffer side effects like the rest of us, and he can regenerate his arm, too!"
+      "title": "Hatırlanan Asker",
+      "content": "Bizim gibi yan etkiler yaşamıyor ve kolunu da yenileyebiliyor!"
     },
     {
       "id": 8,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "He was operated on by none other than Hermann, our most skilled director."
+      "title": "Hatırlanan Asker",
+      "content": "Ameliyatını en yetenekli yöneticimiz Hermann yaptı."
     },
     {
       "id": 9,
@@ -60,152 +60,152 @@
     {
       "id": 10,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "A hero shouldn’t be on the rearguard. I’ll give you a ride!"
+      "title": "Hatırlanan Asker",
+      "content": "Bir kahraman arkada olmamalı. Seni bir yere bırakacağım!"
     },
     {
       "id": 11,
       "model": "로쟈",
-      "content": "Wh-What the hell? Get away from me!"
+      "content": "N-Ne oluyor lan? Uzak dur benden!"
     },
     {
       "id": 12,
-      "content": "Four pairs of wings emerged from his back, clicking and twitching."
+      "content": "Sırtından dört çift kanat çıktı, tıkırdıyor ve seğiriyordu."
     },
     {
       "id": 13,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "Why are you running? You should raise G Corp’s banner and take the lead on the frontlines!"
+      "title": "Hatırlanan Asker",
+      "content": "Neden koşuyorsun? G Şirketi'nin bayrağını kaldırmalı ve ön saflarda liderlik etmelisin!"
     },
     {
       "id": 14,
       "model": "그레고르",
-      "content": "I…"
+      "content": "Ben…"
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "I never wanted any of this… Not the procedure, nor the war…"
+      "content": "Hiçbirini istemedim... Ne prosedürü, ne savaşı..."
     },
     {
       "id": 16,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "Take the lead… Take… T…"
+      "title": "Hatırlanan Asker",
+      "content": "Öne geç... Öne... Ö..."
     },
     {
       "id": 17,
-      "content": "Tomah’s mouth opens unnaturally, and a pair of long antennae begin to grow from his face."
+      "content": "Tomah'ın ağzı doğal olmayan bir şekilde açılıyor ve yüzünden bir çift uzun anten büyümeye başlıyor."
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Yeek… We gotta fight them again? My stomach is gonna turn…"
+      "content": "İik... Onlarla tekrar mı dövüşeceğiz? Midem bulanacak..."
     },
     {
       "id": 19,
       "model": "오티스",
-      "content": "What is that display of weakness? Do you wish to be punished for insubordination?"
+      "content": "Bu zayıflık gösterisi nedir? İtaatsizlik nedeniyle cezalandırılmak ister misiniz?"
     },
     {
       "id": 20,
       "model": "단테",
-      "content": "<…I think we should run here?>"
+      "content": "<…Sanırım buraya koşmalıyız?>"
     },
     {
       "id": 21,
       "model": "오티스",
-      "content": "An excellent plan, Manager. You know when to strike and when to withdraw."
+      "content": "Mükemmel bir plan, Müdürüm. Ne zaman saldıracağını ve ne zaman geri çekileceğini biliyorsun."
     },
     {
       "id": 22,
       "model": "히스클리프",
-      "content": "…The hell is her deal?"
+      "content": "…Onun olayı ne?"
     },
     {
       "id": 23,
       "model": "파우스트",
-      "content": "…Retreat is not an option."
+      "content": "…Geri çekilmek bir seçenek değil."
     },
     {
       "id": 24,
       "model": "이스마엘",
-      "content": "I don’t get it. I heard every employee under the corporation had modifications, but it can’t have been this foul."
+      "content": "Anlamıyorum. Şirketteki her çalışanın modifikasyona uğradığını duydum ama bu kadar kötü olamaz."
     },
     {
       "id": 25,
       "model": "파우스트",
-      "content": "What we see here may differ from actual accounts."
+      "content": "Burada gördüklerimiz gerçek anlatımlardan farklı olabilir."
     },
     {
       "id": 26,
       "model": "파우스트",
-      "content": "The path was opened by Gregor’s feelings rather than his memories."
+      "content": "Gregor'un yolunu açan anıları değil, duygularıydı."
     },
     {
       "id": 27,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…This is how he felt in his heart about his own allies."
+      "title": "8. Sınıf İşçözücü",
+      "content": "…İşte kendi müttefiklerine karşı yüreğinde hissettiği duygu buydu."
     },
     {
       "id": 28,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Did all the employees in your Wing… receive the augmentation procedure?"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Ekibinizdeki tüm çalışanlara takviye prosedürü uygulandı mı?"
     },
     {
       "id": 29,
       "model": "그레고르",
-      "content": "…Most did."
+      "content": "…Çoğu yaptı."
     },
     {
       "id": 30,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Was it done with their consent? That’s so…"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Kendi özgür iradeleriyle mi yapıldı? Bu Çok…"
     },
     {
       "id": 31,
       "model": "그레고르",
-      "content": "Did the people in L Corp. consent to offering themselves up to Abnormalities?"
+      "content": "L Şirketi'ndeki insanlar kendilerini Anomalilere sunmaya razı oldular mı?"
     },
     {
       "id": 32,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "That’s… I heard that was written on the contract."
+      "title": "8. Sınıf İşçözücü",
+      "content": "Yani... Sözleşmede öyle yazıyordu diye duydum."
     },
     {
       "id": 33,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "We were never properly informed, though… They said such routine procedures should be skipped for efficient management…"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Ama bize asla doğru düzgün bir bilgilendirme yapılmadı… Verimli bir yönetim için bu tür rutin işlemlerin yapılmaması gerektiğini söylediler…"
     },
     {
       "id": 34,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "That we should face the fear."
+      "title": "8. Sınıf İşçözücü",
+      "content": "Korkuyla yüzleşmemiz gerekiyor."
     },
     {
       "id": 35,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "In the end… anyone who joined the corporation agreed to it, knowingly or not."
+      "title": "8. Sınıf İşçözücü",
+      "content": "Sonuç olarak… şirkete katılan herkes, bilerek veya bilmeyerek, bunu kabul etmiştir."
     },
     {
       "id": 36,
       "model": "그레고르",
-      "content": "…Can guess how it went for us, then."
+      "content": "…Bizim için nasıl gittiğini tahmin edebiliyorum."
     }
   ]
 }
