@@ -111,20 +111,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Binds",
-          "abName": "The King in Binds",
-          "desc": "[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 1 [Enhancement]",
+          "name": "Bağlar",
+          "abName": "Bağlar İçindeki Kral",
+          "desc": "[EndSkill] 3 Tur boyunca, tur sonu 10 SP kaybet.\n[EndSkill] Sonraki tur, 20 [Binding] , 1 [ForwardToTheKing], ve 1 [Enhancement] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Vibration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle"
                 }
               ]
             }
@@ -132,23 +132,23 @@
         },
         {
           "level": 3,
-          "name": "Binds",
-          "abName": "The King in Binds",
-          "desc": "[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 1 [Enhancement]",
+          "name": "Bağlar",
+          "abName": "Bağlar İçindeki Kral",
+          "desc": "[EndSkill] 3 Tur boyunca, raunt sonu 10 SP kaybet.\n[EndSkill] Sonraki tur, 20 [Binding] , 1 [ForwardToTheKing], ve 1 [Enhancement] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Hedefe, sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Vibration] uygula]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle"
                 }
               ]
             }
@@ -156,23 +156,23 @@
         },
         {
           "level": 4,
-          "name": "Binds",
-          "abName": "The King in Binds",
-          "desc": "[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheBoundKing], and 2 [Enhancement]",
+          "name": "Bağlar",
+          "abName": "Bağlar İçindeki Kral",
+          "desc": "[EndSkill] 3 Tur boyunca, raunt sonu 10 SP kaybet.\n[EndSkill] Sonraki tur, 20 [Binding] , 1 [ForwardToTheBoundKing], ve 2 [Enhancement] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Hedefe, sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Vibration] uygula]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle"
                 }
               ]
             }
@@ -185,23 +185,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Binds",
-          "abName": "The King in Binds",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 2 [Enhancement]\n[EndSkill] Next turn, apply 20 [Binding] and 3 [Enhancement] to 2 other allies in the order of Deployment\n- The number of affected allies grows by (highest Gloom or Pride Reson. - 2) (max 2)",
+          "name": "Bağlar",
+          "abName": "Bağlar İçindeki Kral",
+          "desc": "[CantIdentify]\nRastgele hedefler\n[EndSkill] Sonraki tur, 20 [Binding] , 1 [ForwardToTheKing], ve 2 [Enhancement] kazan\n[EndSkill] Sonraki tur, savaş alanına konulma sırasına göre 2 farklı müttefiğe 20 [Binding] ve 3 [Enhancement] uygula\n- Etkilenen müttefik sayısı (En yüksek Hüzün veya Kibir Rezonansı - 2) (En fazla 2) kadar artar"
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Vibration] uygula]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle"
                 }
               ]
             }
@@ -209,23 +209,23 @@
         },
         {
           "level": 3,
-          "name": "Binds",
-          "abName": "The King in Binds",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 2 [Enhancement]\n[EndSkill] Next turn, apply 20 [Binding], 3 [Enhancement], and 1 <style=\"highlight\">[AzureDamageUp]</style> to 2 other allies in the order of Deployment\n- The number of affected allies grows by (highest Gloom or Pride Reson. - 2) (max <style=\"highlight\">3</style>)",
+          "name": "Bağlar",
+          "abName": "Bağlar İçindeki Kral",
+          "desc": "[CantIdentify]\nRastgele hedefler\n[EndSkill] Sonraki tur, 20 [Binding] , 1 [ForwardToTheKing], ve 2 [Enhancement] kazan\n[EndSkill] Sonraki tur, savaş alanına konulma sırasına göre 2 farklı müttefiğe 20 [Binding] ve 3 [Enhancement], ve 1 <style=\"highlight\">[AzureDamageUp]</style> uygula\n- Etkilenen müttefik sayısı (En yüksek Hüzün veya Kibir Rezonansı - 2) (En fazla <style=\"highlight\">3</style>) kadar artar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Vibration] uygula]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle"
                 }
               ]
             }
@@ -233,23 +233,23 @@
         },
         {
           "level": 4,
-          "name": "Binds",
-          "abName": "The King in Binds",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 3 [Enhancement]\n[EndSkill] Next turn, apply 20 [Binding], 3 [Enhancement], and <style=\"highlight\">2</style> [AzureDamageUp] to 2 other allies in the order of Deployment\n- The number of affected allies grows by (highest Gloom or Pride Reson. - 2) (max <style=\"highlight\">4</style>)",
+          "name": "Bağlar",
+          "abName": "Bağlar İçindeki Kral",
+          "desc": "[CantIdentify]\nRastgele hedefler\n[EndSkill] Sonraki tur, 20 [Binding] , 1 [ForwardToTheKing], and 3 [Enhancement] kazan\n[EndSkill] Sonraki tur, savaş alanına konulma sırasına göre 2 farklı müttefiğe 20 [Binding] ve 3 [Enhancement], ve <style=\"highlight\">2</style> [AzureDamageUp] uygula\n- Etkilenen müttefik sayısı (En yüksek Hüzün veya Kibir Rezonansı - 2) (En fazla <style=\"highlight\">4</style>) kadar artar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Vibration] uygula]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle"
                 }
               ]
             }
