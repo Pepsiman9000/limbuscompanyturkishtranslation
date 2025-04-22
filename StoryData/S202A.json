@@ -77,27 +77,27 @@
     {
       "d": 14,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "So you wanna get your fortune or not?"
+      "teller": "Rehineci",
+      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "content": "Yani fal bakçakmısınız, bakmayacakmısınız?"
     },
     {
       "d": 15,
       "model": "전당포주인",
       "teller": "Rehineci",
       "title": "J Kuruluşu. Rehineci Dükkanı",
-      "content": "Forget about that… Do you people even have anything to pawn? I’m not seeing any wealth on ya…"
+      "content": "Her neyse… Sizin cidden rehine bırakıcan bir şeyiniz var mı ki? Yanınza kayde değer bir şe…"
     },
     {
       "d": 16,
-      "content": "The pawnbroker glanced over each Sinner with a dubious look until his eyes landed on me."
+      "content": "Rehineci bütün Günakârlara süpeyle bir göz gezdirdi, taki bana sıra gelinceye kadar."
     },
     {
       "d": 17,
       "model": "전당포주인",
       "teller": "Rehineci",
       "title": "J Kuruluşu. Rehineci Dükkanı",
-      "content": "Oho… That clockhead might be worth a good sum."
+      "content": "Ohh… O saat kafa biraz para edebilir gibi."
     },
     {
       "d": 18,
@@ -107,16 +107,16 @@
     {
       "d": 19,
       "model": "단테",
-      "content": "<Rodya… I’m not for sale…>"
+      "content": "<Rodya… Müdürün satılık değil…>"
     },
     {
       "d": 20,
       "model": "파우스트",
-      "content": "As you were likely contacted in advance, we are from Limbus Company, and…"
+      "content": "Sizinle daha önceden iletişime geçilmişti, biz Limbus Şirketindeniz ve…"
     },
     {
       "d": 21,
-      "content": "Unfortunately, neither the Sinners nor the pawnbroker were paying any attention to Faust’s words."
+      "content": "Ne yazıktır ki, ne rehineci ne de Günakârlar Faust’a kulak asmıyordu."
     },
     {
       "d": 22,
@@ -128,7 +128,7 @@
       "model": "전당포주인",
       "teller": "Rehineci",
       "title": "J Corp. Pawnshop",
-      "content": "Oho… A dragon embroidered on silk. That’s some meticulous needlework, which might net… let’s see, seven million… Ahn?"
+      "content": "Oho… İpek üzerine Ejderha oyulmuş. Ayrietten titiz bir nakış işçiliği sergiliyor, Sanırım… Bir bakalım , yedi milyon Ahn?"
     },
     {
       "d": 24,
@@ -139,8 +139,8 @@
       "d": 25,
       "model": "전당포주인",
       "teller": "Rehineci",
-      "title": "J Corp. Pawnshop",
-      "content": "Wha? You don’t recognize the value of this quality—­­ Beh, now I see. You’re wearing a shabby ring like it’s true treasure… Tsk-tsk."
+      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "content": "Ne? Bak bu kumaşın kalitesi öyl—­­ Aman, şimdi anladım. ucuz bir yüzğe hazine gibi değer verip takıyorsun… Tsk-tsk."
     },
     {
       "d": 26,
@@ -155,69 +155,69 @@
     {
       "d": 28,
       "model": "???",
-      "content": "You had us worried, Faust."
+      "content": "Bizi endişelendirdin, Faust."
     },
     {
       "d": 29,
-      "content": "Amidst the chaos, a most gentle voice softly landed on my ears."
+      "content": "Kargaşanın arasından, oldukça narin bir ses nazikçe kulaklarıma ilişti."
     },
     {
       "d": 30,
       "model": "소드",
       "teller": "???",
       "title": "???",
-      "content": "We were meant to meet each other at 4, but fifteen minutes had passed already. Surely you couldn’t have forgotten how to read a clock, right?"
+      "content": "Saat dört olduğunda buluşmalıydık, Ama çoktan on beş dakika geçti bile. Anolog saat okumayı unutmadın, değil mi?"
     },
     {
       "d": 31,
       "model": "파우스트",
-      "content": "Certainly not. There was little I could do to alter the driver of the bus."
+      "content": "İmkanı yok. Otobüsün şöförü hakkında yapabiliceğim bir şey yoktu."
     },
     {
       "d": 32,
       "model": "에피",
       "teller": "???",
       "title": "???",
-      "content": "Aha, so you’re taking a clock-person with you to help with the time? I suppose they didn’t come with an alarm."
+      "content": "Aha, Yani sana zamanda refakatçi olsun diye bir saat kafa alıyorsun yanına? Amma velakin alarmı kurulu değilmiş."
     },
     {
       "d": 33,
-      "content": "The gentle voice was soon followed by one that didn’t even attempt to hide their disdain."
+      "content": "Narin sesi mütakiben ses ise küçümsemeciliğini gizlemiyordu."
     },
     {
       "d": 34,
       "model": "단테",
-      "content": "<Come on, that’s a little harsh. Let’s try to leave better first impressions…>"
+      "content": "<Hadi ama, biraz kırıcı olmadı mı? İlk izlenimlerimizi daha iyi yapalım…>"
     },
     {
       "d": 35,
-      "content": "I know my voice won’t be heard by anyone other than the Sinners, but I still can’t help but get upset at rude remarks."
+      "content": "Günahkâlar dışında kimsenin duymayacağını biliyordum, ama hala kaba yorumlara karşı kırılgandım."
     },
     {
       "d": 36,
       "model": "에피",
       "teller": "???",
       "title": "???",
-      "content": "Oh, so it was you? You guys are the team that botched the Golden Bough retrieval last time?"
+      "content": "Ah, Yani sizler misiniz? Hani ilk Altın Dal alma operasyonunu batıran kişiler."
     },
     {
       "d": 37,
       "model": "에피",
       "teller": "???",
       "title": "???",
-      "content": "Folks had high expectations for your team, what with some of the smartest people in the City being on it."
+      "content": "Milletin sizden umudu büyüktü, Şehirdeki en zeki sayılan birkaç kişiden oluşunca ekibiniz."
     },
     {
       "d": 38,
       "model": "소드",
       "teller": "???",
       "title": "???",
-      "content": "No wonder… Ms. Faust wasn’t looking very pleased."
+      "content": "Şüphe yoktur ki… Bayan Faust hiçte mutlu gözükmüyordu."
     },
     {
       "d": 39,
       "model": "파우스트",
-      "content": "My face has remained constant."
+      "content": "Benim yüzüm her zamanki halinde idi."
     },
     {
       "d": 40,
@@ -226,7 +226,7 @@
     },
     {
       "d": 41,
-      "content": "Heathcliff gave Yi Sang a sideways glance, but what he got in response was lukewarm."
+      "content": "Heathcliff Yi Sang'a yöneldi, ama aldığı yanıt umduğu gibi değildi."
     },
     {
       "d": 42,
@@ -251,17 +251,17 @@
     {
       "d": 46,
       "model": "파우스트",
-      "content": "Our first mission was devised with failure in mind."
+      "content": "Görevimiz mağlubiyet beklenerek planlanmıştı."
     },
     {
       "d": 47,
       "model": "파우스트",
-      "content": "We needed an opportunity to see what potential our Sinners held."
+      "content": "Günahkârlarımızın sahip olduğu potensiyeli görmemiz için bir fırsat lazımdı."
     },
     {
       "d": 48,
       "model": "그레고르",
-      "content": "…Wait, it was?"
+      "content": "…Ne, cidden mi?"
     },
     {
       "d": 49,
@@ -273,14 +273,14 @@
       "model": "소드",
       "teller": "???",
       "title": "???",
-      "content": "By the way, where is Vergilius? I agreed to assist with the operation mainly for a chance to get to see him."
+      "content": "Her neyse,Vergilius nerede? sizlere eşlik etme görevine sırf onu görebilme şansına sahip olmak için katlandım."
     },
     {
       "d": 51,
       "model": "에피",
       "teller": "???",
       "title": "???",
-      "content": "He must’ve been embarrassed. Imagine accompanying people like these."
+      "content": "Utanmış olmalı. Bunlar gibi bir avuç işe yaramaza rehberlik ettiğini düşünsene."
     },
     {
       "d": 52,
@@ -300,14 +300,14 @@
     {
       "d": 55,
       "model": "파우스트",
-      "content": "These two will be our cooperators for this mission. They’re from the Limbus Company Clearance department, also known as the LCC."
+      "content": "Bu iki kişi şimdiki görevimizde yardımcılarımız olucak. Limbus Şirketi Temizlik departmanındanlar, LŞT olarak da bilinir."
     },
     {
       "d": 56,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "The Before Team of Clearance, please. Ah, I’m Saude, and this here is Effie."
+      "title": "LŞTÖ",
+      "content": "Temizlik departmanı Öncü Takımı lütfen. Ah, Ben Saude, ve bu da Effie."
     },
     {
       "d": 57,
@@ -321,11 +321,11 @@
     },
     {
       "d": 59,
-      "content": "Hong Lu was the only person on the team welcoming them with total sincerity. (He almost even gave a standing ovation.)"
+      "content": "Hong Lu bizlere bir anda gelip aşağılayan bu ikiliyi içtenlikle karşılayan tek kişiydi. (Hatta az kalsın geleneksel selamını veriyordu.)"
     },
     {
       "d": 60,
-      "content": "A good half of the rest stared at the two with cold eyes, and the others wary, until introductions were finished."
+      "content": "Kendilerini tanıtmaları bitene kadar üstün bir çoğunluk onlara soğuk gözlerle bakarken, diyerleri temkinli davrandı."
     }
   ]
 }
