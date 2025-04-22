@@ -2,33 +2,33 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Central Front in the Smoke War",
+      "place": "Duman Savaşında Merkez Cephe",
       "model": "그레고르",
-      "content": "What’s the delay, Yuri?"
+      "content": "Neden geciktin, Yuri?"
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "G-Give me a second, please. The gas mask fell off my bag…"
+      "title": "8. Sınıf İşçözücü",
+      "content": "B-Bir saniye verin lütfen. Gaz maskesi çantamdan düştü…"
     },
     {
       "id": 2,
       "model": "오티스",
-      "content": "I don’t see it serving any practical purpose now. You’re only weighing yourself down."
+      "content": "Artık bu maskenin bir işe yarayacağını düşünmüyorum. Sadece kendini aşağı çekiyorsun."
     },
     {
       "id": 3,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "I mean, it’s… Aya’s memento."
+      "title": "8. Sınıf İşçözücü",
+      "content": "Yani bu… Aya'nın hatırası."
     },
     {
       "id": 4,
       "model": "오티스",
-      "content": "You indulge in the most pointless activity in the world, and you aren’t even from N Corp."
+      "content": "Dünyanın en anlamsız işini yapıyorsun ve N Şirketi'nden bile değilsin."
     },
     {
       "id": 5,
@@ -38,79 +38,79 @@
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "Tie it the other way."
+      "content": "Diğer şekilde bağla."
     },
     {
       "id": 7,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Sorry?"
+      "title": "8. Sınıf İşçözücü",
+      "content": "Pardon?"
     },
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "The knot. It’ll come loose again if you tie it that way."
+      "content": "Düğüm. O şekilde bağlarsan tekrar çözülür."
     },
     {
       "id": 9,
       "model": "이스마엘",
-      "content": "There’s a sailor’s knot I learned on the boat. I’ll teach you how to do it back on the bus."
+      "content": "Teknede öğrendiğim bir denizci düğümü var. Otobüste sana nasıl yapılacağını öğretirim."
     },
     {
       "id": 10,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Oh… Thank you."
+      "title": "8. Sınıf İşçözücü",
+      "content": "Ah… Teşekkür ederim."
     },
     {
       "id": 11,
       "model": "히스클리프",
-      "content": "What now. Since when were you so friendly?"
+      "content": "Şimdi ne. Ne zamandan beri bu kadar dost canlısı oldun?"
     },
     {
       "id": 12,
       "model": "로쟈",
-      "content": "Yuri~ Y’know what? Why don’t you join our company while you’re at it?"
+      "content": "Yuri~ Biliyor musun? Neden bu işteyken şirketimize katılmıyorsun?"
     },
     {
       "id": 13,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "M-Me?"
+      "title": "8. Sınıf İşçözücü",
+      "content": "B-Ben mi?"
     },
     {
       "id": 14,
       "model": "파우스트",
-      "content": "That’s…"
+      "content": "Bu…"
     },
     {
       "id": 15,
       "model": "로쟈",
-      "content": "I know, I know. We need to get the okay from Vergilius or his superiors and all that. But a little suggestion doesn’t hurt."
+      "content": "Biliyorum, biliyorum. Bütün bunlar için Vergilius'tan veya üstlerinden onay almamız lazım. Ama ufak bir öneri zarar vermez."
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "Hm… I wonder."
+      "content": "Hımm... Acaba."
     },
     {
       "id": 17,
       "model": "로쟈",
-      "content": "Plus, pink hair makes a perfect mascot to represent us. C’mon, won’t you give it some thought? Please?"
+      "content": "Ayrıca, pembe saç bizi temsil etmek için mükemmel bir maskot. Hadi, biraz düşünmez misin? Lütfen?"
     },
     {
       "id": 18,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "A—A mascot…? Huhu."
+      "title": "8. Sınıf İşçözücü",
+      "content": "B—Bir maskot mu…? Huhu."
     },
     {
       "id": 19,
-      "content": "Yuri made a smile for the first time, albeit faintly."
+      "content": "Yuri ilk kez hafifçe de olsa gülümsedi."
     }
   ]
 }
