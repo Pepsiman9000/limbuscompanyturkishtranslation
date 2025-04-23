@@ -4,13 +4,13 @@
       "id": 0,
       "place": "Central Front in the Smoke War",
       "model": "그레고르",
-      "content": "Hala bir savaş meydanındayız…"
+      "content": "Hâlâ bir savaş meydanındayız…"
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "…Daha öncekiyle aynı yer. Ama bir şey farklı."
     },
     {
@@ -27,7 +27,7 @@
       "id": 4,
       "teller": "Tomah",
       "title": "Hatırlanan Asker",
-      "content": "Yanımızdaki Yuva huzurevine dönmüş, bastonsuz yürüyemiyorlar bile!"
+      "content": "Yanımızdaki Yuva huzurevine döndü, bastonsuz yürüyemiyorlar bile!"
     },
     {
       "id": 5,
@@ -44,7 +44,7 @@
       "id": 7,
       "teller": "Tomah",
       "title": "Hatırlanan Asker",
-      "content": "Bizim gibi yan etkiler yaşamıyor ve kolunu da yenileyebiliyor!"
+      "content": "Bizim gibi yan etkilerden etkilenmiyor ve kolunu da yenileyebiliyor!"
     },
     {
       "id": 8,
@@ -61,7 +61,7 @@
       "id": 10,
       "teller": "Tomah",
       "title": "Hatırlanan Asker",
-      "content": "Bir kahraman arkada olmamalı. Seni bir yere bırakacağım!"
+      "content": "Bir kahraman arkada olmamalı. Sizi öne ben bırakırım!"
     },
     {
       "id": 11,
@@ -76,7 +76,7 @@
       "id": 13,
       "teller": "Tomah",
       "title": "Hatırlanan Asker",
-      "content": "Neden koşuyorsun? G Şirketi'nin bayrağını kaldırmalı ve ön saflarda liderlik etmelisin!"
+      "content": "Neden kaçıyorsunuz? G Kuruluşu'nun bayrağını kaldırmalı ve ön saflarda liderlik etmelisiniz!"
     },
     {
       "id": 14,
@@ -96,7 +96,7 @@
     },
     {
       "id": 17,
-      "content": "Tomah'ın ağzı doğal olmayan bir şekilde açılıyor ve yüzünden bir çift uzun anten büyümeye başlıyor."
+      "content": "Tomah'ın ağzı doğal olmayan bir şekilde seyiriyor ve yüzünden bir çift uzun anten büyümeye başlıyor."
     },
     {
       "id": 18,
@@ -111,17 +111,17 @@
     {
       "id": 20,
       "model": "단테",
-      "content": "<…Sanırım buraya koşmalıyız?>"
+      "content": "<…Sanırım bu kaçmamız gerek kısım?>"
     },
     {
       "id": 21,
       "model": "오티스",
-      "content": "Mükemmel bir plan, Müdürüm. Ne zaman saldıracağını ve ne zaman geri çekileceğini biliyorsun."
+      "content": "Mükemmel bir plan, Müdürüm. Ne zaman saldıracağınızı ve ne zaman geri çekileceğinizi biliyorsunuz."
     },
     {
       "id": 22,
       "model": "히스클리프",
-      "content": "…Onun olayı ne?"
+      "content": "…Şunun derdi ne be?"
     },
     {
       "id": 23,
@@ -131,7 +131,7 @@
     {
       "id": 24,
       "model": "이스마엘",
-      "content": "Anlamıyorum. Şirketteki her çalışanın modifikasyona uğradığını duydum ama bu kadar kötü olamaz."
+      "content": "Anlamıyorum. Kuruluştaki her çalışanın modifikasyona uğradığını duydum ama bu kadar kötü olamaz."
     },
     {
       "id": 25,
@@ -147,65 +147,65 @@
       "id": 27,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
-      "content": "…İşte kendi müttefiklerine karşı yüreğinde hissettiği duygu buydu."
+      "title": "Sınıf 8 İşçözücü",
+      "content": "…Kendi müttefiklerine karşı yüreğinde hissettiği duygu buydu."
     },
     {
       "id": 28,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Ekibinizdeki tüm çalışanlara takviye prosedürü uygulandı mı?"
     },
     {
       "id": 29,
       "model": "그레고르",
-      "content": "…Çoğu yaptı."
+      "content": "…Çoğuna."
     },
     {
       "id": 30,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
-      "content": "Kendi özgür iradeleriyle mi yapıldı? Bu Çok…"
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Kendi özgür iradeleriyle mi yapıldı? Bu…"
     },
     {
       "id": 31,
       "model": "그레고르",
-      "content": "L Şirketi'ndeki insanlar kendilerini Anomalilere sunmaya razı oldular mı?"
+      "content": "L Kuruluşu'ndaki insanlar kendi iradeleriyle mi Anomalilere kurban oldular?"
     },
     {
       "id": 32,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Yani... Sözleşmede öyle yazıyordu diye duydum."
     },
     {
       "id": 33,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Ama bize asla doğru düzgün bir bilgilendirme yapılmadı… Verimli bir yönetim için bu tür rutin işlemlerin yapılmaması gerektiğini söylediler…"
     },
     {
       "id": 34,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Korkuyla yüzleşmemiz gerekiyor."
     },
     {
       "id": 35,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
-      "content": "Sonuç olarak… şirkete katılan herkes, bilerek veya bilmeyerek, bunu kabul etmiştir."
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Sonuç olarak… şirkete katılan herkes, bilerek veya bilmeyerek, bunu kabul etmişti."
     },
     {
       "id": 36,
       "model": "그레고르",
-      "content": "…Bizim için nasıl gittiğini tahmin edebiliyorum."
+      "content": "…O zaman bizim için de nasıl olduğunu tahmin edebiliyorsundur."
     }
   ]
 }
