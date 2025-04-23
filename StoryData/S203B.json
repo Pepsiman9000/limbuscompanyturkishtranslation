@@ -2,26 +2,26 @@
   "dataList": [
     {
       "id": 0,
-      "place": "A Pawnshop",
+      "place": "Rehinci Dükkanı",
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "Now… For this mission, we’ll basically spoon-feed you everything. All you have to do is open wide and chew up your simple tasks."
+      "title": "LŞTÖ",
+      "content": "Şimdi… bu görev için sizlere herşeyi basitçe anlatacağız. Tek yapmanız gereken 'Çantadaki Keklik'i yemek olucak."
     },
     {
       "id": 1,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "Check the documents in this envelope, and do exactly, preciiiiisely as the papers say."
+      "title": "LŞTÖ",
+      "content": "Bu zarftaki dökümanları okuyun, ve ne yazıyorsa tam olarak aynısını yapın."
     },
     {
       "id": 2,
-      "content": "The way Saude dragged out that vowel needled me a bit, but I decided not to argue."
+      "content": "Saude'nin konuşma tarzı, hele sürekli vurgu yaparak bizlere anaokulu çocuğu gibi davranması beni biraz kışkırtmıştı. Ama üzerinde durmadım."
     },
     {
       "id": 3,
-      "content": "Even if I did, the ticking of a clock would be all she’d hear."
+      "content": "Dursaydım bile, saatin ticklerinden başka birşey duymayacaktı."
     },
     {
       "id": 4,
@@ -75,41 +75,41 @@
     },
     {
       "id": 14,
-      "content": "Convinced by Ishmael’s commendation, I opened the envelope and carefully read the rundown of the operation."
+      "content": "Ishmael’in şakın taktirleri üzerine ikna olmuş olmalıyım ki, zarfı açıp dikkatlice okudum."
     },
     {
       "id": 15,
-      "content": "The goal could be summarized as the following:"
+      "content": "Amacımız şöyle özetlenebilirdi:"
     },
     {
       "id": 16,
-      "content": "‘Reach the top floor of the casino.’"
+      "content": "‘Kumarhanenin tepesine ulaş.’"
     },
     {
       "id": 17,
-      "content": "The main reason behind organizing this plan was the first-place prize for the table game to be held today."
+      "content": "Planın şimdi uygulanmasının asıl sebebi bu gün kumarhanenin en son katında oynancak olan kumardaki büyük ödüldü."
     },
     {
       "id": 18,
-      "content": "According to the papers, winning the competition held on the top floor of the casino is the only way to gain access to the area with the Golden Bough."
+      "content": "Dökümanlara göre, Altın Dalın tutulduğu kasaya girmenin tek yolu o ödülü kazanmaktı."
     },
     {
       "id": 19,
-      "content": "Four Syndicates that jointly bid on the casino will be playing in this game of chance…"
+      "content": "Bu şans oyununda bahiste bulunan dört çete olucaktı…"
     },
     {
       "id": 20,
-      "content": "Of the four… We will be using the name of the infamous…"
+      "content": "dört çeteden kılığına gireceğimiz isim…"
     },
     {
       "id": 21,
       "model": "단테",
-      "content": "<Tingtang Gang?>"
+      "content": "<Tingtang Terör Örgütü?>"
     },
     {
       "id": 22,
       "model": "파우스트",
-      "content": "A name doesn’t necessarily reflect the nature of an organization. That’s a shallow prejudice."
+      "content": "Bir organizasyonun adı, onu tam olarak betimlemez. Seninkisi sadece sığ bir önyargı."
     },
     {
       "id": 23,
