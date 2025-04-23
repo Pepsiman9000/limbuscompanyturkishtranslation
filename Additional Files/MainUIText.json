@@ -190,7 +190,7 @@
     },
     {
       "id": "mainui_main_own_count",
-      "content": "Sahip Olunan"
+      "content": ""
     },
     {
       "id": "mainui_mirror_entrance_entry",
@@ -310,11 +310,11 @@
     },
     {
       "id": "mainui_gacha_extract1",
-      "content": "1'li Ekstraksiyon"
+      "content": "Ekstrakt 1"
     },
     {
       "id": "mainui_gacha_extract10",
-      "content": "10'lu Ekstraksiyon"
+      "content": "Ekstrakt 10"
     },
     {
       "id": "mainui_open_battlepass",
@@ -438,11 +438,11 @@
     },
     {
       "id": "mainui_owned",
-      "content": "Sahip Olunan"
+      "content": ""
     },
     {
       "id": "mainui_growth_level_limited",
-      "content": "Cannot use at Lv. {0}+"
+      "content": "{0}+ seviyesinde kullanılamaz"
     },
     {
       "id": "mainui_stats_attack",
@@ -470,7 +470,7 @@
     },
     {
       "id": "mainui_mail_warning2",
-      "content": "※ Posta kutusundan alınan öğeler kısıtlamalarına tabi tutulabilir."
+      "content": "※ Posta kutusundan alınan öğeler kısıtlamalara tabi tutulabilir."
     },
     {
       "id": "main_information",
@@ -490,7 +490,7 @@
     },
     {
       "id": "story_ui_log_popup",
-      "content": "Log"
+      "content": "Kayıtlar"
     },
     {
       "id": "mail_box_attachments",
@@ -706,7 +706,7 @@
     },
     {
       "id": "mainui_progress_of_spend",
-      "content": "{1} işlemine devam etmek için {0} kullanılsın mı?"
+      "content": "{0} işlemine devam etmek için {1} kullanılsın mı?"
     },
     {
       "id": "game_setting",
@@ -790,7 +790,7 @@
     },
     {
       "id": "mainui_acquisition",
-      "content": "Sahip"
+      "content": "Sahip Olunan"
     },
     {
       "id": "mainui_not_acquisition",
@@ -1010,7 +1010,7 @@
     },
     {
       "id": "inventory_category_normal",
-      "content": "Basic"
+      "content": "Genel"
     },
     {
       "id": "inventory_category_consumable",
@@ -1282,7 +1282,7 @@
     },
     {
       "id": "season_start_notification",
-      "content": "Season Başlangıç Bilgisi"
+      "content": "Sezon Başlangıç Bilgisi"
     },
     {
       "id": "new_story_appeared_by_new_season",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "expiration_date",
-      "content": "Available Period"
+      "content": "Mevcut Süre"
     },
     {
       "id": "unlink_account_title",
@@ -1690,7 +1690,7 @@
     },
     {
       "id": "unlink_account_current_account",
-      "content": "Current Account"
+      "content": "Şuanki Hesap"
     },
     {
       "id": "unlink_account_linked_account",
@@ -1774,7 +1774,7 @@
     },
     {
       "id": "mainui_exp_dungeon_7_open_day",
-      "content": "EXP Luxkavasyon #7 (Kesme) opens on PZT, SAL ve PAZ."
+      "content": "EXP Luxkavasyon #7 (Kesme) sadece PZT, SAL ve PAZ günleri için"
     },
     {
       "id": "mainui_exp_dungeon_8_title",
@@ -1782,7 +1782,7 @@
     },
     {
       "id": "mainui_exp_dungeon_8_open_day",
-      "content": "EXP Luxkavasyon #7 (Delme) opens on ÇAR, PER ve PAZ."
+      "content": "EXP Luxkavasyon #7 (Delme) sadece ÇAR, PER ve PAZ günleri için."
     },
     {
       "id": "mainui_exp_dungeon_9_title",
@@ -1790,7 +1790,7 @@
     },
     {
       "id": "mainui_exp_dungeon_9_open_day",
-      "content": "EXP Luxkavasyon #7 (Darbe) opens on CUM, CMT ve PAZ."
+      "content": "EXP Luxkavasyon #7 (Darbe) sadece CUM, CMT ve PAZ günleri için"
     },
     {
       "id": "mainui_default_personality_blocked",
@@ -1798,7 +1798,7 @@
     },
     {
       "id": "mainui_change_personality_of_character",
-      "content": "Cannot proceed with this {0} Identity. Support Identities added."
+      "content": "Bu {0} Kişiliğiyle ilerleme sağlanamıyor. Destek Kişilikler eklendi."
     },
     {
       "id": "caution",
@@ -1806,11 +1806,11 @@
     },
     {
       "id": "announcer_spoiler_caution",
-      "content": "This Announcer contains spoilers for Chapter <color=#990000><{0}-{1}></color>.\n\nView anyway?\""
+      "content": "Bu Anansör <color=#990000><{0}-{1}></color>. Bölüm için spoiler içermektedir.\n\nYine de görüntülemek istiyor musunuz?"
     },
     {
       "id": "mass_announcer_spoiler_caution",
-      "content": "One of the rewards you are about to claim\nincludes an Announcer who may contain spoilers\nfor a Chapter you haven't cleared yet.\n\nClaim them anyway?"
+      "content": "Talep etmek üzere olduğunuz ödüllerden biri,\nhenüz tamamlamadığınız bir Bölüm için spoiler içerebilecek\nbir Anansörü kapsamaktadır.\n\nYine de talep etmek istiyor musunuz?"
     },
     {
       "id": "select_all",
@@ -1830,23 +1830,23 @@
     },
     {
       "id": "vending_machine_item_available_date_label",
-      "content": "Üretime Açılmasına:\n{0}/{1} {2} ({3})"
+      "content": "Satışa Sunulmasına:\n{0}/{1} {2} ({3})"
     },
     {
       "id": "gacha_notice_vending_available_date",
-      "content": "Sezonluk Kişilikler, {0}/{1} {2} ({3}) tarihinden itibaren üretilebilir."
+      "content": "Sezonluk Kişilikler, {0}/{1} {2} ({3}) tarihinden itibaren mağazadan alınabilir."
     },
     {
       "id": "gacha_notice_vending_available_date_v2",
-      "content": "Sezonluk E.G.O'lar, {0}/{1} {2} ({3}) tarihinden itibaren üretilebilir."
+      "content": "Sezonluk E.G.O'lar, {0}/{1} {2} ({3}) tarihinden itibaren mağazandan üretilebilir."
     },
     {
       "id": "gacha_notice_vending_available_date_v3",
-      "content": "Sezonluk Kişilik ve E.G.O'lar, {0}/{1} {2} ({3}) tarihinden itibaren üretilebilir."
+      "content": "Sezonluk Kişilik ve E.G.O'lar, {0}/{1} {2} ({3}) tarihinden mağazadanüretilebilir."
     },
     {
       "id": "mini_story_warning_spoiler_checkbox_desc",
-      "content": "Bu Mesajı tekrar görme"
+      "content": "Bu Mesajı tekrar görmek istemiyorum"
     },
     {
       "id": "mainui_settings_push_notification",
