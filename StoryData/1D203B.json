@@ -9,7 +9,7 @@
     {
       "id": 1,
       "model": "싱클레어",
-      "content": "Komutan daha ileri gitmememiz gerektiğini söylemişti…"
+      "content": "Komutan daha ileri gitmememiz konusunda bizi uyarmıştı…"
     },
     {
       "id": 2,
@@ -19,8 +19,8 @@
       "id": 3,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
-      "content": "Bunlar bizim… hayır, L Kurulu'nun çalışanları…"
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Bunlar bizim… hayır, L Kuruluşu'nun çalışanları…"
     },
     {
       "id": 4,
@@ -31,20 +31,20 @@
       "id": 5,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
-      "content": "Bu bir iş raporu... Anomali'leri kontrol altında tutmak için bir takım talimatlar içeriyor.."
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Bu bir iş raporu... Anomalileri kontrol altında tutmak için bir takım talimatlar içeriyor.."
     },
     {
       "id": 6,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
-      "content": "Normalde Anomali'ler ile uğraşmakla görevleri çalışanlar, talimatları kusursuz bir şekilde ezberleyip öyle çalışıyordu... Genelde böyle notlar taşımazlar."
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Normalde Anomalilerle uğraşmakla görevleri çalışanlar, talimatları kusursuz bir şekilde ezberleyip öyle çalışıyordu... Genelde böyle notlar taşımazlar."
     },
     {
       "id": 7,
       "model": "이상",
-      "content": "Anomalilerin kaçışı esnasında, mevcut çalışanlardan hiç bir güruhun uygun bilgiye erişimi bulunmadığından kuşkulanıyorum."
+      "content": "Anomalilerin kaçışı esnasında, mevcut çalışanlardan hiçbir güruhun uygun bilgiye erişimi bulunmadığından kuşkulanıyorum."
     },
     {
       "id": 8,
@@ -55,7 +55,7 @@
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Yumurtalar henüz üniteye götürülmemiş ise... Dediğiniz doğru olabilir."
     },
     {
@@ -77,7 +77,7 @@
       "id": 13,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "…Görüyorsunuz ki, Ofisimiz geçen gün çok pahalı bir takım eşyalar aldı."
     },
     {
@@ -89,13 +89,13 @@
       "id": 15,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Kaynaklarımız diyor ki, toksin seviyeleri belirli katlarda yükselmeye başlıyor."
     },
     {
       "id": 16,
       "model": "로쟈",
-      "content": "Ah, kuaklarım az biraz kanıyor~ Bir sorun mu var acaba?"
+      "content": "Ah, kulaklarım az biraz kanıyor~ Bir sorun mu var acaba?"
     },
     {
       "id": 17,
@@ -106,7 +106,7 @@
       "id": 18,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Bu toksine maruz kalmanın, bu tip kanamalara yol açacağı da söylenmişti."
     },
     {
@@ -118,21 +118,21 @@
       "id": 20,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Bu… Çalışanlara verilen anti-Anomali gaz bombaları."
     },
     {
       "id": 21,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Bir tanesi… Öhö… Cesetlerin arasında… infilak etmiş olmalı…"
     },
     {
       "id": 22,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Haklısın, spesifik olarak bu çevrede zehir pek bir yoğunlukta."
     },
     {
@@ -152,11 +152,11 @@
     {
       "id": 26,
       "model": "히스클리프",
-      "content": "Seni kaypak fare, bütün bu zamanı biliyo muydun? Yırtamayacaksın... Ngh..."
+      "content": "Seni kaypak fare, bütün bu zaman boyu biliyo muydun? Bu işten yırtamayacaksın... Ngh..."
     },
     {
       "id": 27,
-      "content": "Heathcliff sözünü bitirmeden, dizleri üzerine çöküvermişti."
+      "content": "Heathcliff sözünü bitiremeden, dizleri üzerine çöküverdi."
     },
     {
       "id": 28,
@@ -172,42 +172,42 @@
       "id": 30,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Hopkins… Neden… Öhö. Neden bize bundan bahsetmedin?"
     },
     {
       "id": 31,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Oh, Benim de sana bir sorum olacaktı, Yuri."
     },
     {
       "id": 32,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Neden Ofisimiz, değerli paracıklarını senin gibi etten kalkanlar için harcasın ki?"
     },
     {
       "id": 33,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "……"
     },
     {
       "id": 34,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Hatta dürüst olacaksak, bize katılabilmen bile en başından bir mucize."
     },
     {
       "id": 35,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Belki de Aya sana acıyıp özel muamele göstermiştir… ama o da öldü, kimin sikinde olabilir ki artık?"
     },
     {
@@ -219,22 +219,22 @@
       "id": 37,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Şapşal, İşçözücüler için her şey mübahtır."
     },
     {
       "id": 38,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Kızıl Nazar'ı peşlemeniz ilgimi az da olsun çekmişti, ama gel gör ki…"
     },
     {
       "id": 39,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
-      "content": "Sıfır hazırlık ile, bodozlama şekilde dallara kafa atmaktan başka bir şey bilmeyen delilermişsiniz."
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Sıfır hazırlık ile, bodoslama şekilde dallara kafa atmaktan başka bir şey bilmeyen delilermişsiniz."
     },
     {
       "id": 40,
@@ -249,28 +249,28 @@
       "id": 42,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Eh, en azından sizin sayenizde birkaç cep Enkefalin çalabildim."
     },
     {
       "id": 43,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Raporumda hepinizin kaybolduğunu yazacağım, çünkü “boğuldular” yazmak pek bir utanç verici olurdu."
     },
     {
       "id": 44,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Ta-da."
     },
     {
       "id": 45,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "……"
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "id": 47,
-      "content": "Tek düşen kişi o değildi elbette. Rodya, Heathcliff, ve diğer Günahkarlar da hızlıca kan kaybediyordu."
+      "content": "Tek düşen kişi o değildi elbette. Rodya, Heathcliff, ve diğer Günahkârlar da hızlıca kan kaybediyordu."
     },
     {
       "id": 48,
@@ -289,17 +289,17 @@
     {
       "id": 49,
       "model": "그레고르",
-      "content": "Tsk, Onu hatırlayabileceğin bir anın olsun diye cebe atmıştım…"
+      "content": "Tsk, onu hatırlayabileceğin bir anın olsun diye cebe atmıştım…"
     },
     {
       "id": 50,
-      "content": "Tıpkı Hopkins'in giydiği tip bir maskesi varmış onun da."
+      "content": "Tıpkı Hopkins'in giydiği tip bir gaz maskesi vardı onun da."
     },
     {
       "id": 51,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Ama neden…"
     },
     {
@@ -320,21 +320,21 @@
       "id": 55,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Her şeğe rağmen, haklıydı...."
     },
     {
       "id": 56,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
-      "content": "Sabah akşam ayak işlerini yürütsem bile, yabancılarla dolu bir ofiste yükselmenin zor bir hedef olduğuun farkındayım."
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Sabah akşam ayak işlerini yürütsem bile, yabancılarla dolu bir ofiste yükselmenin zor bir hedef olduğunun farkındayım."
     },
     {
       "id": 57,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Tesis kitlenmeden önce sadece 3 dakikam kalmıştı..."
     },
     {
@@ -347,7 +347,7 @@
       "id": 59,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Kapılar yüzüme kapanmak üzereydi."
     },
     {
@@ -366,14 +366,14 @@
       "id": 62,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Başka ne yapabilirdim ki?"
     },
     {
       "id": 63,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Hayatta kalmış olmam benim suçum muydu?"
     },
     {
@@ -381,13 +381,13 @@
       "model": "유리",
       "teller": "Yuri",
       "title": "Grade 8 Fixer",
-      "content": "Anomali'ler kaçmasın diye tüm bina yer altına gömülürken...."
+      "content": "Anomaliler kaçmasın diye tüm bina yer altına gömülürken...."
     },
     {
       "id": 65,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "İş arkadaşlarımla beraber diri diri gömülmeli miydim?"
     },
     {
@@ -402,7 +402,7 @@
     },
     {
       "id": 68,
-      "content": "Şaşkınlığımı kesip, Günahkarlar'ın durumlarına bir göz atmıştım."
+      "content": "Şaşkınlığımı kesip, Günahkârlar'ın durumlarına bir göz attım."
     },
     {
       "id": 69,
@@ -412,7 +412,7 @@
       "id": 70,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Büyük bir günah..."
     },
     {
@@ -434,7 +434,7 @@
       "id": 74,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "……"
     },
     {
@@ -444,7 +444,7 @@
     {
       "id": 76,
       "model": "단테",
-      "content": "<Uhm... B-bizim için çok endişenme, onları da tez zamanda geri diriltebilirim.>"
+      "content": "<Uhm... B-bizim için çok endişelenme, onları tez zamanda geri diriltebilirim.>"
     },
     {
       "id": 77,
@@ -454,22 +454,22 @@
       "id": 78,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Biliyorum..."
     },
     {
       "id": 79,
-      "content": "Yuri ise konuşmamızı, pek bir kısa kesmişti."
+      "content": "Yuri ise konuşmamızı, pek bir kısa kesti."
     },
     {
       "id": 80,
-      "content": "Bir süre bu garip havayı deneyimledikten sonra, havadaki zehir yavaşça dağılmıştı."
+      "content": "Bir süre bu garip havayı deneyimledikten sonra, havadaki zehir yavaşça dağıldı."
     },
     {
       "id": 81,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "...Artık daha iyiyiz gibi."
     },
     {
@@ -481,16 +481,16 @@
       "id": 83,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Seviye 8 İşçözücü",
-      "content": "Elimi tut bakalım. Hadi akadaşlarını hayata geri döndürelim."
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Sana onları taşımakta yardım edeceğim. Hadi arkadaşlarını hayata geri döndürelim."
     },
     {
       "id": 84,
-      "content": "Ve bunu dedikten sonra, teker teker tüm Günahkarları sırtlamaya başlamıştı."
+      "content": "Ve bunu dedikten sonra, teker teker tüm Günahkârları sırtlamaya başladı."
     },
     {
       "id": 85,
-      "content": "Ben ise ne diyeceğimi bilemeyip, öyle sessizce kalmıştım."
+      "content": "Ben ise ne diyeceğimi bilemediğimden, sessiz kaldım."
     }
   ]
 }
