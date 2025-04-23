@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "mainui_main_button0",
-      "content": "Window"
+      "content": "Ana Sayfa"
     },
     {
       "id": "mainui_main_button1",
@@ -22,7 +22,7 @@
     },
     {
       "id": "mainui_main_button5",
-      "content": "Çıkart"
+      "content": "Mağaza"
     },
     {
       "id": "mainui_main_exp",
@@ -122,7 +122,7 @@
     },
     {
       "id": "mainui_sinners_unequipego",
-      "content": "Unequipped"
+      "content": "Takılı Değil"
     },
     {
       "id": "mainui_skip_desc",
@@ -162,7 +162,7 @@
     },
     {
       "id": "mainui_page",
-      "content": "Pg. {0}"
+      "content": "Syf. {0}"
     },
     {
       "id": "mainui_cancel",
@@ -194,23 +194,23 @@
     },
     {
       "id": "mainui_mirror_entrance_entry",
-      "content": "Will you enter {0}?"
+      "content": " {0}?"
     },
     {
       "id": "mainui_mirror_entrance_progressing",
-      "content": "{0} is in progress."
+      "content": "{0} devam etmektedir."
     },
     {
       "id": "mainui_mirror_entrance_re_entry",
-      "content": "Will you reenter the dungeon?"
+      "content": "Zindana geri girmek istiyor musun?"
     },
     {
       "id": "mainui_mirror_entrance_quit",
-      "content": "Quit exploring the dungeon?"
+      "content": "Zindandan Çık?"
     },
     {
       "id": "mainui_mirror_entrance_quit_former",
-      "content": "Forfeit previous exploration progress?"
+      "content": "Eski Zindan denemesini terk etmek mi istiyorsun?"
     },
     {
       "id": "mainui_mirror_entrance_warning",
@@ -218,35 +218,35 @@
     },
     {
       "id": "mainui_proress",
-      "content": "Proceed"
+      "content": "Devam Et"
     },
     {
       "id": "mainui_stop",
-      "content": "Halt"
+      "content": "Dur"
     },
     {
       "id": "mainui_next",
-      "content": "Next"
+      "content": "Sonraki"
     },
     {
       "id": "mainui_ego_list",
-      "content": "E.G.O List"
+      "content": "E.G.O Listesi"
     },
     {
       "id": "mainui_personality_list",
-      "content": "Identity List"
+      "content": "Kişilik Listesi"
     },
     {
       "id": "mainui_acquired_reward",
-      "content": "Rewards Acquired"
+      "content": "Kazanılan Ödüller"
     },
     {
       "id": "mainui_dungeon_finished",
-      "content": "Pause Exploration"
+      "content": "Macerayı Durdur?"
     },
     {
       "id": "mainui_category",
-      "content": "Legend"
+      "content": "Efsane"
     },
     {
       "id": "mainui_stats_hp",
@@ -254,39 +254,39 @@
     },
     {
       "id": "mainui_stats_speed",
-      "content": "SPD"
+      "content": "HIZ"
     },
     {
       "id": "mainui_stats_defense",
-      "content": "Defense Level"
+      "content": "Defans Seviyesi"
     },
     {
       "id": "mainui_upgrade",
-      "content": "Power-up"
+      "content": "Güç-Artışı"
     },
     {
       "id": "mainui_mirror_select_ego",
-      "content": "To E.G.O"
+      "content": "E.G.O'ya git"
     },
     {
       "id": "mainui_mirror_opening",
-      "content": "Now Open"
+      "content": "Şuan Açık!"
     },
     {
       "id": "mainui_simulation",
-      "content": "Simulation"
+      "content": "Simülasyon"
     },
     {
       "id": "mainui_untill",
-      "content": "Expiry"
+      "content": "Bitiş Tarihi"
     },
     {
       "id": "mainui_free",
-      "content": "Free"
+      "content": "Bedava"
     },
     {
       "id": "mainui_paid",
-      "content": "Paid"
+      "content": "Paralı"
     },
     {
       "id": "mainui_support",
@@ -298,35 +298,35 @@
     },
     {
       "id": "mainui_gacha_history",
-      "content": "Extraction History"
+      "content": "Ekstraksyon Geçmişi"
     },
     {
       "id": "mainui_gacha_daliynotice",
-      "content": "Resets each day at {0}:00"
+      "content": "Her Gün {0}:00'da sıfırlanır"
     },
     {
       "id": "mainui_gacha_alreadyusedgacha",
-      "content": "Daily Quota Exhausted"
+      "content": "Günlük Hakkınız Bitmiştir"
     },
     {
       "id": "mainui_gacha_extract1",
-      "content": "Extract 1"
+      "content": "1'li Ekstraksiyon"
     },
     {
       "id": "mainui_gacha_extract10",
-      "content": "Extract 10"
+      "content": "10'lu Ekstraksiyon"
     },
     {
       "id": "mainui_open_battlepass",
-      "content": "The Battle Pass is unlocked!"
+      "content": "Savaş Bileti Açılmıştır!"
     },
     {
       "id": "mainui_grade_without_space",
-      "content": "Step {0}"
+      "content": "Kademe {0}"
     },
     {
       "id": "mainui_type",
-      "content": "Type"
+      "content": "Tür"
     },
     {
       "id": "mainui_level_unit",
@@ -334,111 +334,111 @@
     },
     {
       "id": "mainui_Change_lobby_illust",
-      "content": "Change Lobby Art"
+      "content": "Lobi Resmini değiştir"
     },
     {
       "id": "mainui_lobby_illust_acquisition_method",
-      "content": "To Unlock:"
+      "content": "Açmak için:"
     },
     {
       "id": "mainui_networkingerror_content",
-      "content": "The network is unstable.\nPlease check your Internet connection."
+      "content": "Ağ Balantısı doğrunalamadı\nLütfen İnternet bağlantınızı düzeltin."
     },
     {
       "id": "mainui_networkingerror_close",
-      "content": "Close"
+      "content": "Kapat"
     },
     {
       "id": "mainui_networkingerror_retry",
-      "content": "Retry"
+      "content": "Tekrar dene"
     },
     {
       "id": "mainui_event_notice",
-      "content": "Event Notifs"
+      "content": "Etkinlik Bild."
     },
     {
       "id": "mainui_system_notice",
-      "content": "System Notifs"
+      "content": "Sistem Bild."
     },
     {
       "id": "mainui_team",
-      "content": "Team"
+      "content": "Takım"
     },
     {
       "id": "mainui_cost",
-      "content": "Cost"
+      "content": "Ücret"
     },
     {
       "id": "mainui_dungeon_progress_rate",
-      "content": "Dungeon Progress"
+      "content": "Zindan İlerlemesi"
     },
     {
       "id": "mainui_guaranteed_reward",
-      "content": "Rewards"
+      "content": "Ödüller"
     },
     {
       "id": "mainui_select_reward",
-      "content": "Optional Rewards"
+      "content": "İsteğe bağlı ödüller"
     },
     {
       "id": "mainui_battle_pass_exp",
-      "content": "Battle Pass XP"
+      "content": "Savaş Bileti XP"
     },
     {
       "id": "mainui_enforce_ticket",
-      "content": "Upgrade Tickets"
+      "content": "Seviye Arttırma bileti"
     },
     {
       "id": "mainui_reward_random_box",
-      "content": "Egoshard Crates"
+      "content": "Ego Parçası Sandığı"
     },
     {
       "id": "mainui_reward_select_box",
-      "content": "Nominable Egoshard Crates"
+      "content": "Belirsiz Ego Parçası Sandığı"
     },
     {
       "id": "mainui_manaUsage",
-      "content": "Sanity Cost"
+      "content": "Akıl Sağlılı maliyeti"
     },
     {
       "id": "mainui_abnormality_analysis_level",
-      "content": "Current Tier"
+      "content": "Şuanki Rütbe"
     },
     {
       "id": "mainui_analysis",
-      "content": "Threadspin"
+      "content": "Rütbe"
     },
     {
       "id": "mainui_abnormality_analysis",
-      "content": "Threadspinning"
+      "content": "Rütbelendirme"
     },
     {
       "id": "mainui_receive",
-      "content": "Claim"
+      "content": "Al"
     },
     {
       "id": "mainui_dungeon_finished_reward",
-      "content": "Exploration Reward"
+      "content": "Zindan Ödülleri"
     },
     {
       "id": "mainui_passive",
-      "content": "Passives"
+      "content": "Pasifler"
     },
     {
       "id": "mainui_support_passive",
-      "content": "Support"
+      "content": "Destke"
     },
     {
       "id": "mainui_synchronization",
-      "content": "Uptie"
+      "content": "Kademe"
     },
     {
       "id": "mainui_personality_synchronization_level",
-      "content": "Uptie Tier"
+      "content": "Kademe Seviyesi"
     },
     {
       "id": "mainui_owned",
-      "content": "Owned"
+      "content": "Sahip Olunan"
     },
     {
       "id": "mainui_growth_level_limited",
@@ -450,39 +450,39 @@
     },
     {
       "id": "mainui_mailbox_receive_all",
-      "content": "Claim All"
+      "content": "Hepsini Al"
     },
     {
       "id": "mainui_mailbox_receive_history",
-      "content": "History"
+      "content": "Geçmiş"
     },
     {
       "id": "mainui_remain_days",
-      "content": "{0} days left"
+      "content": "{0} gün kaldı"
     },
     {
       "id": "mainui_mail_remains_count",
-      "content": "Inbox"
+      "content": "Mail Kutusu"
     },
     {
       "id": "mainui_mail_warning",
-      "content": "※ Maximum capacity is 100; expired mail will be <color=#990000>deleted</color>."
+      "content": "※ Maksimum kapasite 100’dür; süresi dolan mailler <color=#990000>silinir</color>."
     },
     {
       "id": "mainui_mail_warning2",
-      "content": "※ Items claimed at the mailbox may be subject to cancellation restrictions."
+      "content": "※ Posta kutusundan alınan öğeler kısıtlamalarına tabi tutulabilir."
     },
     {
       "id": "main_information",
-      "content": "Info"
+      "content": "Bilgi"
     },
     {
       "id": "main_until",
-      "content": "Expiry"
+      "content": "Bitiş"
     },
     {
       "id": "mainui_synchronization_grade",
-      "content": "Uptie Tier"
+      "content": "Kademe Seviyesi"
     },
     {
       "id": "mainui_organization",
@@ -494,179 +494,179 @@
     },
     {
       "id": "mail_box_attachments",
-      "content": "Content"
+      "content": "İçerikler"
     },
     {
       "id": "mail_box_unseal_result",
-      "content": "Parcel Received"
+      "content": "Posta Alındı"
     },
     {
       "id": "item_use_result",
-      "content": "Item Used"
+      "content": "Eşya Kullanıldı"
     },
     {
       "id": "giving_up_story_dungeon_title",
-      "content": "Forfeit Story Dungeon"
+      "content": "Hikaye Zindanını terk et"
     },
     {
       "id": "giving_up_story_dungeon_content",
-      "content": "You’re currently exploring Episode {0}’s Story Dungeon.\nForfeit your progress and enter a new dungeon?"
+      "content": "Şu anda Bölüm {0}'nin Hikâye Zindanı'nı keşfediyorsunuz.\nİlerlemenizi iptal edip yeni bir zindana girmek istiyor musunuz?"
     },
     {
       "id": "mainui_all",
-      "content": "All"
+      "content": "Hepsi"
     },
     {
       "id": "mainui_opened",
-      "content": "Open"
+      "content": "Açık"
     },
     {
       "id": "mainui_not_opened",
-      "content": "Locked"
+      "content": "Kilitli"
     },
     {
       "id": "mainui_buy",
-      "content": "Confirm"
+      "content": "Kabul Et"
     },
     {
       "id": "mainui_use",
-      "content": "Use"
+      "content": "Kullan"
     },
     {
       "id": "mainui_consume",
-      "content": "Consumable"
+      "content": "Tüket"
     },
     {
       "id": "mainui_currencies",
-      "content": "Currency"
+      "content": "Birim"
     },
     {
       "id": "mainui_inventory",
-      "content": "Inventory"
+      "content": "Envantör"
     },
     {
       "id": "mainui_awaken_requirement_amount",
-      "content": "Currency Req."
+      "content": "Gerekli Birim"
     },
     {
       "id": "mainui_passive_skill_addition",
-      "content": "Passives Unlocked"
+      "content": "Pasif Açıldı!"
     },
     {
       "id": "mainui_ego_awaken_skill_reinforcement",
-      "content": "E.G.O Awakening Upgraded"
+      "content": "E.G.O Uyanışı Yükseltildi"
     },
     {
       "id": "mainui_ego_erosion_skill_reinforcement",
-      "content": "E.G.O Corrosion Upgraded"
+      "content": "E.G.O Korozyonu Yükseltildi"
     },
     {
       "id": "mainui_lack_of_material_amount",
-      "content": "Not enough Thread."
+      "content": "Gerekli miktarda Ampüle sahip değilsiniz"
     },
     {
       "id": "mainui_move",
-      "content": "Go"
+      "content": "Git"
     },
     {
       "id": "mainui_move_to_twine_store",
-      "content": "Shard::Thread Exchange"
+      "content": "Ego Parçası::Ampül Takası"
     },
     {
       "id": "mainui_move_to_twine_store_question",
-      "content": "Insufficient Thread.\nGo to the Shard::Thread Exchange?"
+      "content": "Yetersiz Ampül Miktarı.\nEgo Parçası::Ampül Takasına gitmek ister misin?"
     },
     {
       "id": "mainui_confirm_of_purchased_twine",
-      "content": "Convert to {0} Thread?"
+      "content": "{0} Miktarda Ampüle çevirmek ister misin?"
     },
     {
       "id": "mainui_result_of_purchased_twine",
-      "content": "Acquired {0} Thread."
+      "content": "El edilen {0} Ampül."
     },
     {
       "id": "mainui_personality_awaken_completion",
-      "content": "Identity Uptied"
+      "content": "Kişiliğin Kademesi Yükseltildi!"
     },
     {
       "id": "mainui_ego_awaken_completion",
-      "content": "E.G.O Threadspun"
+      "content": "E.G.O'nun Kademesi Yükseltildi!"
     },
     {
       "id": "mainui_new_skill_acquisition",
-      "content": "New Skill: [{0}]"
+      "content": "Yeni Yetenek Açıldı: [{0}]"
     },
     {
       "id": "mainui_new_passive_skill_acquisition",
-      "content": "New Passive: [{0}]"
+      "content": "Yeni Pasif Açıldı: [{0}]"
     },
     {
       "id": "mainui_new_battle_passive_acquisition",
-      "content": "New Combat Passive: [{0}]"
+      "content": "Yeni Aktif Pasif Açıldı: [{0}]"
     },
     {
       "id": "mainui_new_support_passive_acquisition",
-      "content": "New Support Passive: [{0}]"
+      "content": "Yeni Destek Pasifi Açıldı: [{0}]"
     },
     {
       "id": "mainui_skill_reinforcement",
-      "content": "Skill Enhanced: [{0}]"
+      "content": "Yetenek Güçlendirildi: [{0}]"
     },
     {
       "id": "mainui_unlock_personality_story",
-      "content": "Story of [{0}] Unlocked"
+      "content": "[{0}] Hikayesi Açıldı."
     },
     {
       "id": "mainui_ego_awaken_skill_name_reinforcement",
-      "content": "E.G.O Awakening [{0}] Upgraded"
+      "content": "E.G.O Uyanışı [{0}] Güçlendirildi"
     },
     {
       "id": "mainui_ego_erosion_skill_name_reinforcement",
-      "content": "E.G.O Corrosion [{0}] Upgraded"
+      "content": "E.G.O Korozyonu [{0}] Güçlendirildi"
     },
     {
       "id": "mainui_specific_level_achievement",
-      "content": "Reach Lv. {0}"
+      "content": "Seviyeye Ulaş: {0}"
     },
     {
       "id": "mainui_personality_awaken_level_up_condition",
-      "content": "Uptie Tier {0} Requirements"
+      "content": "Kademe Seviyesi {0} Gerekiyor"
     },
     {
       "id": "mainui_battle_passsive_addition",
-      "content": "Combat Passives Unlocked"
+      "content": "Kombat Pasifi Açıldı"
     },
     {
       "id": "mainui_support_passsive_addition",
-      "content": "Support Passives Unlocked"
+      "content": "Destek Pasifi Açıldı"
     },
     {
       "id": "mainui_check_purchase",
-      "content": "Confirm Purchase"
+      "content": "Satışı Kabul Et"
     },
     {
       "id": "mainui_acquire_banner",
-      "content": "Banner Acquired"
+      "content": "Afiş Alındı"
     },
     {
       "id": "mainui_purchase_complete",
-      "content": "Purchased"
+      "content": "Satın Alındı"
     },
     {
       "id": "mainui_activation",
-      "content": "ACTIVATED"
+      "content": "AKTİFLEŞTİRİLDİ"
     },
     {
       "id": "mainui_ask_purchase_enkephalin",
-      "content": "Insufficient Enkephalin.\nWould you like to recharge your Enkephalin?"
+      "content": "Yetersiz Enkefalin.\nEnkefalinini yenilemek ister misin?"
     },
     {
       "id": "mainui_ask_purchase_enkephalin_box",
-      "content": "You don’t have enough Enkephalin Boxes.\nWould you like to go purchase some?"
+      "content": "Yeterli Enkefalin Kutun yok.\nSatın almak ister misin?"
     },
     {
       "id": "mainui_rewatching-stage-story",
-      "content": "Rewatch Story"
+      "content": "Hikayeyi Tekrar izle"
     },
     {
       "id": "mainui_before_battle",
@@ -690,7 +690,7 @@
     },
     {
       "id": "mainui_chapter_progress",
-      "content": "Progress"
+      "content": "İlerleme"
     },
     {
       "id": "mainui_ex_clear_progress",
@@ -698,15 +698,15 @@
     },
     {
       "id": "mainui_notice_spend_free_lunacy_first",
-      "content": "※ Free Lunacy is used first."
+      "content": "※ Önce Ücretsiz Lunacy kullanılır."
     },
     {
       "id": "mainui_notice_require_lunacy",
-      "content": "※ Not enough Lunacy."
+      "content": "※ Yetersiz Lunacy."
     },
     {
       "id": "mainui_progress_of_spend",
-      "content": "Spend {0} to proceed with {1}?"
+      "content": "{1} işlemine devam etmek için {0} kullanılsın mı?"
     },
     {
       "id": "game_setting",
@@ -714,175 +714,175 @@
     },
     {
       "id": "level",
-      "content": "Level"
+      "content": "Seviye"
     },
     {
       "id": "name",
-      "content": "Name"
+      "content": "Ad"
     },
     {
       "id": "order_of_acquisition",
-      "content": "Recent"
+      "content": "En Son"
     },
     {
       "id": "tolerance",
-      "content": "Resist"
+      "content": "Diren"
     },
     {
       "id": "outstanding_staff",
-      "content": "Most Valued Employee"
+      "content": "En Değerli Çalışan"
     },
     {
       "id": "total_damage_contribution",
-      "content": "Damage Contributed"
+      "content": "Verilen Hasar"
     },
     {
       "id": "deal_damage",
-      "content": "Dealt"
+      "content": "Verilen"
     },
     {
       "id": "taken_damage",
-      "content": "Taken"
+      "content": "Alınan"
     },
     {
       "id": "user_level_up_notice",
-      "content": "Manager Level Increased!"
+      "content": "Müdür Seviyesi Yükseldi!"
     },
     {
       "id": "increase_maxium_enkephalin",
-      "content": "Enkephalin Capacity Up!"
+      "content": "Enkefalin Kapasitesi Arttı!"
     },
     {
       "id": "recharge_enkephalin_notice",
-      "content": "Enkephalin has been refilled."
+      "content": "Enkefalin yenileni."
     },
     {
       "id": "gacha_extract_multiple",
-      "content": "Extract {0}"
+      "content": "Ekstrakt {0}"
     },
     {
       "id": "number_of_times",
-      "content": "Time(s)"
+      "content": "Kullanım Sayısı"
     },
     {
       "id": "number_of_remain_extract_times",
-      "content": "Extractions Remaining"
+      "content": "Kalan Ekstraksyon"
     },
     {
       "id": "notice_of_remain_extract_chance",
-      "content": "3★ Identity or E.G.O assured in {0} Extractions"
+      "content": "{0} Ekstraksiyon sonra 3★ Kişilik veya E.G.O garantili."
     },
     {
       "id": "mainui_settings",
-      "content": "Settings"
+      "content": "Ayarlar"
     },
     {
       "id": "mainui_environment_settings",
-      "content": "Settings"
+      "content": "Ayarlar"
     },
     {
       "id": "mainui_back",
-      "content": "Return"
+      "content": "Geri Dön"
     },
     {
       "id": "mainui_quit_game",
-      "content": "Quit Game"
+      "content": "Oyundan Çık"
     },
     {
       "id": "mainui_acquisition",
-      "content": "Owned"
+      "content": "Sahip"
     },
     {
       "id": "mainui_not_acquisition",
-      "content": "Unowned"
+      "content": "Sahip Olunmayan"
     },
     {
       "id": "mainui_no_record",
-      "content": "No Acquisition Records"
+      "content": "Elde Edilen Kayıtlar Yok"
     },
     {
       "id": "resume",
-      "content": "Resume"
+      "content": "Devam Et"
     },
     {
       "id": "mainui_entering",
-      "content": "Enter"
+      "content": "Git"
     },
     {
       "id": "mainui_open_after_clear",
-      "content": "Clear Ch. {0} to Unlock"
+      "content": "Bölüm {0}'ı tamamlayarak Kilidi Aç."
     },
     {
       "id": "mainui_organization_sharp",
-      "content": "Team #{0}"
+      "content": "Takım #{0}"
     },
     {
       "id": "mainui_participant_count",
-      "content": "Edit Team"
+      "content": "Takımı Düzelt"
     },
     {
       "id": "mainui_edit",
-      "content": "Edit"
+      "content": "Düzelt"
     },
     {
       "id": "mainui_unlock_condition_by_personality_awaken_level",
-      "content": "Unlocked at Tier {0}"
+      "content": "Seviye {0}'da Açılır"
     },
     {
       "id": "skill_growth_value",
-      "content": "Growth"
+      "content": "Artış"
     },
     {
       "id": "gacha_history_notice",
-      "content": "※ Up to {1} cases over the last {0} days are displayed."
+      "content": "※ Son {0} gün içinde en fazla {1} vaka görüntülenir."
     },
     {
       "id": "gacha_history_empty",
-      "content": "No extraction record to display."
+      "content": "Görüntülenecek ekstraksiyon kaydı yok."
     },
     {
       "id": "own",
-      "content": "Owned"
+      "content": "Sahip Olunan"
     },
     {
       "id": "gacha_category",
-      "content": "Category"
+      "content": "Kategori"
     },
     {
       "id": "gacha_time",
-      "content": "Date"
+      "content": "Tarih"
     },
     {
       "id": "used_currencies",
-      "content": "Currency Used"
+      "content": "Harcanan Birim"
     },
     {
       "id": "mainui_ask_purchase_enkephalin_module",
-      "content": "You don’t have enough Enkephalin Modules.\nWould you like to go assemble some?"
+      "content": "Yeterli Enkefalin Modülünüz yok.\nBirkaçını birleştirmek ister misiniz?"
     },
     {
       "id": "list",
-      "content": "List"
+      "content": "Liste"
     },
     {
       "id": "rank",
-      "content": "Rarity"
+      "content": "Nadirlik"
     },
     {
       "id": "probability",
-      "content": "Odds"
+      "content": "Oranlar"
     },
     {
       "id": "gacha_rate_label",
-      "content": "Extraction Probabilities"
+      "content": "Ekstraksiyon Olasılıkları"
     },
     {
       "id": "gacha_rate_title_ten1",
-      "content": "[10 Extractions (1st-9th)]: Same rates as [1 Extraction]"
+      "content": "[10 Ekstraksiyon (1.-9.)]: [1 Ekstraksiyon] ile aynı oranlar."
     },
     {
       "id": "gacha_rate_title_ten2",
-      "content": "[10 Extractions (10th)]"
+      "content": "[10 Ekstraksiyon (10.)]"
     },
     {
       "id": "gacha_rate_info_intro1",
@@ -926,19 +926,19 @@
     },
     {
       "id": "personality_preview_notice",
-      "content": "The Identity’s stats at max level and Uptie tier are displayed here."
+      "content": "Kişiliğin maksimum seviye ve Rütbe seviyesiyle olan istatistikleri burada görüntülenmektedir."
     },
     {
       "id": "ego_preview_notice",
-      "content": "The E.G.O is displayed at its max tier here."
+      "content": "E.G.O, maksimum rütbede burada görüntülenmektedir."
     },
     {
       "id": "season_1",
-      "content": "Season 1"
+      "content": "Sezon 1"
     },
     {
       "id": "commonly",
-      "content": "Regular"
+      "content": "Normal"
     },
     {
       "id": "notice_external_website",
@@ -946,67 +946,67 @@
     },
     {
       "id": "pass_level",
-      "content": "Pass Level"
+      "content": "Bilet Seviyesi"
     },
     {
       "id": "normal_reward",
-      "content": "Regular Reward"
+      "content": "Normal Ödüller"
     },
     {
       "id": "limbus_pass_reward",
-      "content": "Limbus Pass Reward"
+      "content": "Limbus Bileti Ödülleri"
     },
     {
       "id": "loading_battlehint",
-      "content": "Combat Tips"
+      "content": "Savaş Tavsiyeleri"
     },
     {
       "id": "status_up",
-      "content": "Stats Increased"
+      "content": "İstatistikler Artırıldı"
     },
     {
       "id": "active_skill_acquired",
-      "content": "Skills Gained"
+      "content": "Yetenekler Kazanıldı"
     },
     {
       "id": "active_skill_reinforcement",
-      "content": "Skills Upgraded"
+      "content": "Yetenekler Güçlendirildi"
     },
     {
       "id": "progress_ego_gacksung",
-      "content": "Progress\nThreadspin"
+      "content": "İlerleme\nRütbe"
     },
     {
       "id": "skill_with_index",
-      "content": "Skill {0}"
+      "content": "Yetenek {0}"
     },
     {
       "id": "mail_date",
-      "content": "Date"
+      "content": "Tarih"
     },
     {
       "id": "mail_sender",
-      "content": "Sender"
+      "content": "Gönderen"
     },
     {
       "id": "mail_history_notice",
-      "content": "※ Up to {0} claimed items will be displayed in the history."
+      "content": "※ En fazla {0} talep edilen öğe geçmişte görüntülenecektir."
     },
     {
       "id": "cant_receive_mail_all_tilte",
-      "content": "Cannot Claim"
+      "content": "Alınamaz"
     },
     {
       "id": "cant_receive_mail_all_main",
-      "content": "No mail available to claim with “Claim All”"
+      "content": "“Hepsini Al” ile talep edilecek posta yok."
     },
     {
       "id": "attached_item",
-      "content": "Attached"
+      "content": "Öğe"
     },
     {
       "id": "inventory_category_all",
-      "content": "All"
+      "content": "Hepsi"
     },
     {
       "id": "inventory_category_normal",
@@ -1014,35 +1014,35 @@
     },
     {
       "id": "inventory_category_consumable",
-      "content": "Consumables"
+      "content": "Tüketilebilirler"
     },
     {
       "id": "inventory_category_pieces",
-      "content": "Egoshards"
+      "content": "Ego parçaları"
     },
     {
       "id": "enkephalin_injection_complete",
-      "content": "Enkephalin Charged"
+      "content": "Enkefalin Yenilendi"
     },
     {
       "id": "purchase_impossible",
-      "content": "Cannot Purchase"
+      "content": "Satın Alınamaz"
     },
     {
       "id": "notice_not_enough_pieces",
-      "content": "※ Not enough Egoshards."
+      "content": "※ Yetersiz Ego parçası."
     },
     {
       "id": "buy_personaliy",
-      "content": "Purchase Identity"
+      "content": "Kişiliği Satın al"
     },
     {
       "id": "buy_ego",
-      "content": "Purchase E.G.O"
+      "content": "E.G.O'yu satın al"
     },
     {
       "id": "not_enough_pieces",
-      "content": "Not enough Egoshards"
+      "content": "Yetersiz Ego Parçası"
     },
     {
       "id": "basis",
@@ -1050,171 +1050,171 @@
     },
     {
       "id": "skip_tutorial",
-      "content": "Skip Tutorial"
+      "content": "Eğitimi Geç"
     },
     {
       "id": "skip_tutorial_description",
-      "content": "Are you sure you want to skip the tutorial?"
+      "content": "Emin misiniz, Eğitimi geçmek istiyor musunuz?"
     },
     {
       "id": "min_speed_upgrade",
-      "content": "Min. SPD Up"
+      "content": "Min. HIZ Artışı"
     },
     {
       "id": "max_speed_upgrade",
-      "content": "Max. SPD Up"
+      "content": "Maks. HIZ Artışı"
     },
     {
       "id": "min_max_speed_upgrade",
-      "content": "Min. and Max. SPD Up"
+      "content": "Min. ve Maks. HIZ Artışı"
     },
     {
       "id": "mailbox",
-      "content": "Mailbox"
+      "content": "Mail Kutusu"
     },
     {
       "id": "remain_days_label",
-      "content": "Due Date"
+      "content": "Bitiş Tarihi"
     },
     {
       "id": "extract_again",
-      "content": "Extract Again"
+      "content": "Tekrar!"
     },
     {
       "id": "ego_gift",
-      "content": "E.G.O Gifts"
+      "content": "E.G.O Hediyesi"
     },
     {
       "id": "classification",
-      "content": "Category"
+      "content": "Kategori"
     },
     {
       "id": "quantity",
-      "content": "Quantity"
+      "content": "Miktar"
     },
     {
       "id": "appearance_probability",
-      "content": "Rate"
+      "content": "Oran"
     },
     {
       "id": "Individual_appearance_probability",
-      "content": "Individual Rate"
+      "content": "Özgün Oran"
     },
     {
       "id": "notice_sold_out",
-      "content": "Out of Stock"
+      "content": "Stokda Kalmadı"
     },
     {
       "id": "select_piece",
-      "content": "Choose Egoshard"
+      "content": "Egoparçası Seç"
     },
     {
       "id": "mail_item_warning",
-      "content": "※ Refund may be restricted after redeeming the item."
+      "content": "※ Ürün kullanıldıktan sonra iade sınırlanabilir."
     },
     {
       "id": "mainui_unlock_condition_by_ego_awaken_level",
-      "content": "Unlocked at Tier {0}"
+      "content": "{0}. Seviyede Kilidi Açılır"
     },
     {
       "id": "empty_mailbox_notice",
-      "content": "No mail in storage."
+      "content": "Vah Vah, yalnız herif...\n Görünüşe bakılırsa Mail kutuna herhanig bir şey gelmemiş."
     },
     {
       "id": "gacha_rate_detail",
-      "content": "Detailed Rates"
+      "content": "Detaylı Oranlar"
     },
     {
       "id": "gacha_alarm_title",
-      "content": "Proceeding with Extraction"
+      "content": "Ekstraksiyona devam edin."
     },
     {
       "id": "clear_specific_stage",
-      "content": "Clear {0}"
+      "content": "{0} Bitir"
     },
     {
       "id": "clear_main_chapter_stage",
-      "content": "Clear Ch. {0}"
+      "content": "{0}. Bölümü Bitir"
     },
     {
       "id": "ingredients",
-      "content": "Items"
+      "content": "Eşyalar"
     },
     {
       "id": "remote_download_return_title",
-      "content": "A new download has been added.\nReturning to the title screen."
+      "content": "Yeni bir güncelleme eklendi.\nGiriş ekranına geri dönülüyor."
     },
     {
       "id": "battle_skip",
-      "content": "Skip Battle"
+      "content": "Savaşı\nGeç"
     },
     {
       "id": "ask_battle_skip",
-      "content": "Would you like to skip the battle?"
+      "content": "Savaşı Geçmek istermisiniz?"
     },
     {
       "id": "notice_consumption_multiples",
-      "content": "{0} cost x {1}"
+      "content": "{0} Maliyeti x {1}"
     },
     {
       "id": "notice_additional_rewards",
-      "content": "Additional rewards {0} earned"
+      "content": "Kazanılan ekstra ödüller {0}"
     },
     {
       "id": "gacha_notice_exclude_ego",
-      "content": "This extraction banner does not include E.G.O."
+      "content": "Bu Ekstraksiyon afişi E.G.O. içermiyor."
     },
     {
       "id": "gacha_notice_single_season",
-      "content": "The 2★ and 3★ Identities in this extraction banner belong to Season {0}."
+      "content": "Bu Ekstraksiyon afişindeki 2★ ve 3★'lı Kişilikler, {0}. Sezon'a aittir."
     },
     {
       "id": "error_and_return_to_main",
-      "content": "An error has occurred.\nReturning to the title screen."
+      "content": "Bir hata oluştu.\nYükleme ekranına geri dönülüyor."
     },
     {
       "id": "to_window",
-      "content": "To Window"
+      "content": "Anasayfaya git"
     },
     {
       "id": "completion",
-      "content": "Complete"
+      "content": "Bitir"
     },
     {
       "id": "event_in_progress",
-      "content": "Event Open"
+      "content": "Etkinlik Aktiftir"
     },
     {
       "id": "end_of_event",
-      "content": "Event Closed"
+      "content": "Etkinlik Bitmiştir"
     },
     {
       "id": "gacha_rate_info_intro1_1a",
-      "content": "The rates for a single Extraction are as follows."
+      "content": "Tek bir Ekstraksiyon için oranlar aşağıdaki gibidir."
     },
     {
       "id": "gacha_rate_info_intro1_1b",
-      "content": "The table for one use of {0} is as follows."
+      "content": "{0} için bir kullanım tablosu aşağıdaki gibidir."
     },
     {
       "id": "gacha_rate_info_intro1_1c",
-      "content": "When you use {0}, you can choose one currency from the following."
+      "content": "{0} kullandığınızda, aşağıdaki birimlerden birini seçebilirsiniz."
     },
     {
       "id": "package_info_detail1",
-      "content": "When you have selected the currency, the table for acquiring different quantities of the set currency by using one {0} is as follows."
+      "content": "bir birimi seçtiğinizde, bir {0} kullanarak belirlenmiş birimden farklı miktarları edinme tablosu aşağıdaki gibidir."
     },
     {
       "id": "package_info_detail2",
-      "content": "※ “{0}” in the lower table is an example for selecting one of the currencies from the table above."
+      "content": "※ Aşağıdaki tabloda yer alan “{0}”, yukarıdaki tablodan bir birim seçildiğinde verilen bir örnektir."
     },
     {
       "id": "acquired_quantity",
-      "content": "Amount"
+      "content": "Miktar"
     },
     {
       "id": "name_of_currencies",
-      "content": "Currency"
+      "content": "Birim"
     },
     {
       "id": "package_info_title",
@@ -1222,51 +1222,51 @@
     },
     {
       "id": "used_once",
-      "content": "One Use"
+      "content": "Kullanıldığında"
     },
     {
       "id": "probability_details",
-      "content": "Probabilities"
+      "content": "Olasılıklar"
     },
     {
       "id": "be_in_use",
-      "content": "In Use"
+      "content": "Kullanımda"
     },
     {
       "id": "season_information",
-      "content": "Seasons Guide"
+      "content": "Sezon Bilgileri"
     },
     {
       "id": "announcer_selection_description",
-      "content": "※ If you select 2 or more Announcers at once, the dialogue to play will be randomly chosen. (Up to 10)"
+      "content": "※ Aynı anda 2 veya daha fazla Anansörü seçerseniz, çalacak diyalog rastgele seçilir. (En fazla 10)"
     },
     {
       "id": "panic_type",
-      "content": "Panic Types"
+      "content": "Panik Türleri"
     },
     {
       "id": "mental_strength",
-      "content": "Sanity"
+      "content": "Akıl Sağlığı"
     },
     {
       "id": "mental_increase_condition",
-      "content": "Base factors increasing Sanity"
+      "content": "Akıl Sağlını arttıran Faktörler"
     },
     {
       "id": "mental_decrease_condition",
-      "content": "Base factors decreasing Sanity"
+      "content": "Akıl Sağlını azaltan Faktörler"
     },
     {
       "id": "mental_low_morale_effect",
-      "content": "Low Morale Effects"
+      "content": "Düşük Moral etkileri"
     },
     {
       "id": "mental_panic_effect",
-      "content": "Panic Effects"
+      "content": "Panik etkileri"
     },
     {
       "id": "open_scheduled_date_month_day",
-      "content": "Opening {0}M {1}D (Month/Day)"
+      "content": "Açılış {0}A {1}G (Ay/Gün)"
     },
     {
       "id": "mainui_acquire_user_ticker_deco",
@@ -1274,35 +1274,35 @@
     },
     {
       "id": "last_battlepass_season_level",
-      "content": "Pass Level"
+      "content": "Bilet Seviyesi"
     },
     {
       "id": "season_end_notification",
-      "content": "Season End Notice"
+      "content": "Sezon Bitişi Bilgisi"
     },
     {
       "id": "season_start_notification",
-      "content": "Season Start Notice"
+      "content": "Season Başlangıç Bilgisi"
     },
     {
       "id": "new_story_appeared_by_new_season",
-      "content": "New Main Story Content"
+      "content": "Yeni Ana Hikâye İçeriği"
     },
     {
       "id": "collection_rate",
-      "content": "Collection Rate"
+      "content": "Toplama Oranı"
     },
     {
       "id": "season_n_personality",
-      "content": "Season {0} Identity"
+      "content": "Sezon {0} Kişiliği"
     },
     {
       "id": "season_n_ego",
-      "content": "Season {0} E.G.O"
+      "content": "Sezon {0} E.G.O"
     },
     {
       "id": "season_n",
-      "content": "Season {0}"
+      "content": "Sezon {0}"
     },
     {
       "id": "new_season_former_piece_to_current_piece_desc",
@@ -1318,55 +1318,55 @@
     },
     {
       "id": "new_season_former_box_to_thread_box",
-      "content": "The Egoshard Crates that have not been carried over are converted into Thread Crates."
+      "content": "Taşınmayan Ego parçası Kutuları, Ampül Kutularına dönüştürülür."
     },
     {
       "id": "new_pass_appeared",
-      "content": "New Pass Available"
+      "content": "Yeni Bilet Alınabilir"
     },
     {
       "id": "get_not_acquired_rewards",
-      "content": "Unclaimed Rewards Delivered"
+      "content": "Alınamış Ödüller Teslim Edildi"
     },
     {
       "id": "items_changed_by_season_changed_desc",
-      "content": "Currencies from the previous season will be converted into the current season."
+      "content": "Önceki sezondan kalan para birimleri, mevcut sezona dönüştürülecektir."
     },
     {
       "id": "exchange",
-      "content": "Exchange"
+      "content": "Takas"
     },
     {
       "id": "notice_of_pity_system",
-      "content": "During a banner, you can gain ‘Yisang’ [Ideality] based on the number of extractions you’ve done.\nAfter collecting a certain amount, you can exchange it for a 3★ Identity or E.G.O represented on the banner.\n\n※ Ideality is not shared between banners; Ideality in each is considered its own currency.\n※ After the banner is over, the remaining Ideality is converted into Thread."
+      "content": "Bir Ekstraksyon etkinliği sırasında, yaptığınız ekstraksiyon sayısına bağlı olarak 'Yisang' [Ideality] kazanabilirsiniz.\nBelli bir miktar topladıktan sonra, bannerda yer alan bir 3★ Kişilik veya E.G.O ile takas edebilirsiniz.\n\n※ Ideality, bannerlar arasında paylaşılmaz; her bir bannerdaki Ideality kendi para birimi olarak kabul edilir.\n※ Banner sona erdikten sonra, kalan Ideality Ampüle dönüştürülür."
     },
     {
       "id": "twine_store",
-      "content": "Shard::Thread Exchange"
+      "content": "Parça::Ampül Takası"
     },
     {
       "id": "pass",
-      "content": "Pass"
+      "content": "Bilet"
     },
     {
       "id": "event",
-      "content": "Event"
+      "content": "Etkinlik"
     },
     {
       "id": "notice_of_pity_point_expiration",
-      "content": "{1} Yisang [Ideality] from {0} has been converted to Thread."
+      "content": "{0} kaynaklı {1} Yisang [Ideality] Ampüle dönüştürüldü."
     },
     {
       "id": "notice_of_pity_point_progress_or_not",
-      "content": "Spend 200 Yisang [Ideality] and make this exchange?"
+      "content": "200 Yisang [Ideality] harcayıp bu takası yapmak ister misiniz?"
     },
     {
       "id": "notice_of_pity_point_progress_or_not_already_have",
-      "content": "You already own the selected Identity. Exchange 200 Yisang [Ideality] for this Sinner's 50 Identity Shards?"
+      "content": "Seçilen Kişiliğe zaten sahipsiniz. 200 Yisang [Ideality] karşılığında bu Günahkârın 50 Kişilik Parçasını takas etmek ister misiniz?"
     },
     {
       "id": "open_date_description_month_day_time_zone",
-      "content": "Unlocked after {0}/{1} ({2}) update"
+      "content": "{0}/{1} ({2}) güncellemsinden sonra açılacak"
     },
     {
       "id": "open_date_description_month_day_time_zone_date",
@@ -1374,111 +1374,111 @@
     },
     {
       "id": "open_date_description_month_day_time_zone_desc",
-      "content": "Unlocked after Update"
+      "content": "Güncelleme sonrası açılacak"
     },
     {
       "id": "enkephalin_desc",
-      "content": "Used for entering stages."
+      "content": "Bir çeşit özel bir yakıt"
     },
     {
       "id": "not_exchangeable",
-      "content": "Cannot Exchange"
+      "content": "Dönüştürülemez"
     },
     {
       "id": "ego_already_have",
-      "content": "E.G.O Already Owned"
+      "content": "bu E.G.O'ya zaten sahipsiniz"
     },
     {
       "id": "shortage_number_of_extractions",
-      "content": "Not Enough Extractions Done"
+      "content": "Yeterli miktarda Ekstraksiyon Yapılmadı"
     },
     {
       "id": "lack_of_formation_participation",
-      "content": "In this battle, <color=#990000>up to {0}</color> Sinners can participate in combat."
+      "content": "Bu savaşta, <color=#990000>en fazla {0}</color> Günahkâr katılabilir."
     },
     {
       "id": "tutorial_formation_participation_add_title",
-      "content": "More Participants"
+      "content": "Daha Fazla Katılımcı"
     },
     {
       "id": "tutorial_formation_participation_add_desc",
-      "content": "Certain stages may allow more Sinners to participate in battle compared to the previous stage played. In this case, the 'Edit Team' area will flicker."
+      "content": "Bazı sahnelerde, önceki sahneye kıyasla daha fazla Günahkâr'ın savaşa katılmasına izin verilebilir. Bu durumda, 'Takımı Düzenle' alanı yanıp sönecektir."
     },
     {
       "id": "could_not_select_friend_support_in_this_dungeon",
-      "content": "You may not bring {0}'s Support Identity for this dungeon."
+      "content": "Bu zindan için {0}'ın Destek Kişiliklerinden getiremezsiniz."
     },
     {
       "id": "formation_force_participation_on",
-      "content": "Fixed"
+      "content": "Sabit"
     },
     {
       "id": "formation_force_participation_off",
-      "content": "Fixed Member Needed"
+      "content": "Sabit Birim Savaşa katılmak zorundadır"
     },
     {
       "id": "formation_must_participate_specific_character",
-      "content": "{0} must participate."
+      "content": "{0} Savaşa Katılmak Zorunda."
     },
     {
       "id": "cannot_exit_node_after_enter_by_force_alice_character",
-      "content": "Upon entry, you will no longer be able to travel to other nodes of the dungeon; {0} will fully heal HP and have their SP reset to 0.\nAre you sure you want to proceed?"
+      "content": "Giriş yapıldığında, zindanın diğer bölümlerine seyahat edemeyeceksiniz; {0} HP'si tamamen iyileşecek ve SP'si 0'a sıfırlanacaktır.\nDevam etmek istediğinizden emin misiniz?"
     },
     {
       "id": "story_dungeon_4_first_open_popup_desc",
-      "content": "For this dungeon, you may not select a Support Identity for Yi Sang. Yi Sang must always participate in battles."
+      "content": "Bu zindan için, Yi Sang için bir Destek Kişiliğilerinden seçemezsiniz. Yi Sang bütün savaşlara katılmak zorundadır."
     },
     {
       "id": "attack_level",
-      "content": "Offense Level"
+      "content": "Saldırı Level"
     },
     {
       "id": "defense_level",
-      "content": "Defense Level"
+      "content": "Defans Seviyesi"
     },
     {
       "id": "personality_level",
-      "content": "Identity Level"
+      "content": "Kişilik Seviyesi"
     },
     {
       "id": "enemy_level",
-      "content": "Enemy Level"
+      "content": "Düşman Seviyesi"
     },
     {
       "id": "cannot_enter",
-      "content": "Cannot Enter"
+      "content": "Girilemez"
     },
     {
       "id": "lack_of_item_amount",
-      "content": "Not enough {0}"
+      "content": "Yetersiz {0}"
     },
     {
       "id": "required_count",
-      "content": "Required"
+      "content": "Gerekli"
     },
     {
       "id": "on_event_reward_grace_period",
-      "content": "Reward Reception Period"
+      "content": "Ödül Alma Periyodu"
     },
     {
       "id": "user_level_maximum_notice",
-      "content": "Reached Max Level."
+      "content": "Maksimum Seviyeye Ulaşıldı"
     },
     {
       "id": "user_level_limit_increase_notice",
-      "content": "※ The Max Manager Level may be raised with future updates."
+      "content": "※ Maksimum Müdür Seviyesi, gelecekteki güncellemelerle artırılabilir."
     },
     {
       "id": "level_up",
-      "content": "Level Up"
+      "content": "Seviye Atlat"
     },
     {
       "id": "summary",
-      "content": "Summary"
+      "content": "Özet"
     },
     {
       "id": "abnormality_part_skill",
-      "content": "Part Skills"
+      "content": "Uzul Yeteneği"
     },
     {
       "id": "awaken",
@@ -1510,7 +1510,7 @@
     },
     {
       "id": "full_participated",
-      "content": "Maks Katılımcı"
+      "content": "Maks. Katılımcı"
     },
     {
       "id": "select_for_delete_participation",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "notice_not_on_sales_period",
-      "content": "※ Cannot be purchased during this period."
+      "content": "※Şuanda Satın Alınamaz."
     },
     {
       "id": "pc_shortcut",
@@ -1538,51 +1538,51 @@
     },
     {
       "id": "new_dungeon_update_alarm",
-      "content": "BACKDOOR VOLATILITY DETECTED"
+      "content": "ARKA KAPI OYNAYANLILIK TESPİT EDİLDİ"
     },
     {
       "id": "buy_announcer",
-      "content": "Purchase Announcer"
+      "content": "Anasör Satın al"
     },
     {
       "id": "label_require_paid_lunacy",
-      "content": "※You don’t have enough paid Lunacy."
+      "content": "※Yeteri Kadar Paralı Lunacy'e sahip değilsiniz."
     },
     {
       "id": "notice_require_paid_lunacy",
-      "content": "Insufficient Paid Lunacy"
+      "content": "Yetersiz Paralı Lunacy"
     },
     {
       "id": "mainui_original",
-      "content": "Before"
+      "content": "Öncesi"
     },
     {
       "id": "open_after_clear_node",
-      "content": "Clear {0}-{1} to Unlock"
+      "content": "{0}-{1} tamamlayarak Kilidi Aç."
     },
     {
       "id": "effect_list_to_applied_level",
-      "content": "Active Level Effects"
+      "content": "Aktif Seviye Etkileri"
     },
     {
       "id": "choice_event_effect",
-      "content": "Choice Effect"
+      "content": "Seçilen Etkiler"
     },
     {
       "id": "ego_gift_effect_format",
-      "content": "E.G.O Gift 「{0}」 Effect"
+      "content": "E.G.O Hediyesi「{0}」 Etkisi"
     },
     {
       "id": "mainui_previous",
-      "content": "Previous"
+      "content": "Öncesi"
     },
     {
       "id": "formation_force_abstain",
-      "content": "Cannot Deploy"
+      "content": "Yerleştirilemez"
     },
     {
       "id": "formation_view_detail",
-      "content": "Details"
+      "content": "Detaylar"
     },
     {
       "id": "only_hyphen",
@@ -1590,95 +1590,95 @@
     },
     {
       "id": "first_time",
-      "content": "First-time"
+      "content": "İlk Kez"
     },
     {
       "id": "formation_Announcer_fixed",
-      "content": "Fixed"
+      "content": "Sabit"
     },
     {
       "id": "gacha_rate_info_wa1",
-      "content": "★ Thread Crate"
+      "content": "★ Ampül Kutusu"
     },
     {
       "id": "gacha_rate_info_wa2",
-      "content": "Obtaining a duplicate of an already-owned Announcer will convert it to Thread Crates.\n\nThese Thread Crates will be carried over as-is to the next Season."
+      "content": "Zaten sahip olduğunuz bir Anansörün kopyasını elde etmek, onu Ampül Kutularına dönüştürür.\n\nBu Ampül Kutuları, bir sonraki Sezona olduğu gibi aktarılacaktır."
     },
     {
       "id": "login_scene_mini_story_warning_spoiler_format",
-      "content": "This story takes place after the Main Story Chapter {0}. Would you like to view the story anyway?"
+      "content": "Bu hikâye, Ana Hikâyenin {0}. Bölümünden sonrasında geçiyor. Yine de hikayeyi görmek ister misiniz?"
     },
     {
       "id": "notice_of_pity_point_already_have_announcer",
-      "content": "You already own the selected Announcer. Exchange 200 Yisang [Ideality] for 50 Thread Crates?"
+      "content": "Seçilen Anansöre zaten sahiplenmişsiniz. 200 Yisang [Ideality] karşılığında 50 Ampül Kutusu takas etmek ister misiniz?\n(SAKIN YAPMA, TAMAMEN SALAKLIK BU SAKIN YAPMA!!!!)"
     },
     {
       "id": "gacha_rate_info_announcer1",
-      "content": "Below is the list of Identities, E.G.O, and Announcers you can obtain following the aforementioned rates.\n\nThe list may change in certain seasons; upcoming changes to the reward tables will be announced in advance."
+      "content": "Aşağıda, yukarıda belirtilen oranlara göre elde edebileceğiniz Kişilikler, E.G.O ve Anansörlerin listesi bulunmaktadır.\n\nListe bazı sezonlarda değişebilir; ödül tablolarındaki gelecek değişiklikler önceden duyurulacaktır."
     },
     {
       "id": "mainui_battleresult_ordeal_victory",
-      "content": "Suppression Complete"
+      "content": "Bastırılabildi"
     },
     {
       "id": "mainui_battleresult_ordeal_defeat",
-      "content": "Suppression Failed"
+      "content": "Bastırılamadı"
     },
     {
       "id": "remain_exchange_count",
-      "content": "Remaining Stock"
+      "content": "Stokda Kalan"
     },
     {
       "id": "remains",
-      "content": "Remaining"
+      "content": "Kalan"
     },
     {
       "id": "everyday",
-      "content": "Daily"
+      "content": "Günlük"
     },
     {
       "id": "for_n_days",
-      "content": "{0} Days"
+      "content": "{0} Gün"
     },
     {
       "id": "all_personalities",
-      "content": "All Identities"
+      "content": "Bütün Kişilikler"
     },
     {
       "id": "leap_up_ticket_title",
-      "content": "Select Identity to Takeoff"
+      "content": "Kişiliği Seçin ve Kişiliği 'YÜKSELTİN'"
     },
     {
       "id": "leap_up_able_uptie_tier_and_level",
-      "content": "Can raise Uptie Tier & Identity Level"
+      "content": "Kişiliğin Rütbesi ve Seviyesi Yükseltilebilir"
     },
     {
       "id": "leap_up_able_uptie_tier",
-      "content": "Can raise Uptie Tier"
+      "content": "Kişiliğin Rütbesi Yükseltilebilir"
     },
     {
       "id": "leap_up_able_level",
-      "content": "Can raise Identity Level"
+      "content": "Kişiliğin Seviyesi Yükseltilebilir"
     },
     {
       "id": "leap_up_confim_title",
-      "content": "Select Identity"
+      "content": "Kişilik Seç"
     },
     {
       "id": "leap_up_confim_main",
-      "content": "[{0}] Identity's Uptie Tier & Level will be changed as follows."
+      "content": "[{0}] Kişiliğin Kademesi ve Seviyesi aşağıdaki gibi değiştirilecektir."
     },
     {
       "id": "leap_up_confim_caution_uptie",
-      "content": "The selected Identity's Uptie Tier cannot be raised further."
+      "content": "Seçilen Kişiliğin Kademesi daha fazla yükseltilemez."
     },
     {
       "id": "leap_up_confim_caution_level",
-      "content": "The selected Identity's Level cannot be raised further."
+      "content": "Seçilen Kişiliğin Seviyesi daha fazla yükseltilemez."
     },
     {
       "id": "leap_up_confim_last_question",
-      "content": "Use <color=#F8C200>{0}</color>?"
+      "content": "Kullan<color=#F8C200>{0}</color>?"
     },
     {
       "id": "expiration_date",
@@ -1714,31 +1714,31 @@
     },
     {
       "id": "mainui_stageinfo_effectiveAttribute",
-      "content": "Effective Affinities"
+      "content": "Etkili Günah Türleri"
     },
     {
       "id": "personality_level_limit_release_title",
-      "content": "Identity Max Lv. Expanded"
+      "content": "Kişiliğin Maks. Seviyesi Yükseldi"
     },
     {
       "id": "personality_level_limit_release_desc",
-      "content": "The level cap for your Identities have been raised."
+      "content": "Kişiliklerinizin seviye sınırı artırıldı."
     },
     {
       "id": "mainui_sinners_startSuppress",
-      "content": "Suppress"
+      "content": "Bastır"
     },
     {
       "id": "mainui_battleresult_AbnormalitySuppress_victory",
-      "content": "Abnormality Suppression Successful"
+      "content": "Anomali Bastırıldı"
     },
     {
       "id": "mainui_battleresult_AbnormalitySuppress_defeat",
-      "content": "Abnormality Suppression Failed"
+      "content": "Anomali Bastırılamadı"
     },
     {
       "id": "ui_text_unknown",
-      "content": "Unknown"
+      "content": "Bilinmeyen"
     },
     {
       "id": "buff_effect_for_level_format",
@@ -1746,27 +1746,27 @@
     },
     {
       "id": "unit_keyword",
-      "content": "Trait Keywords"
+      "content": "Özellik Anahtar Kelimeleri"
     },
     {
       "id": "formation_ask_clear_selection",
-      "content": "Reset Deployment Order?"
+      "content": "Yerleştirme Sırasını Sıfırlamak İstiyor Musunuz?"
     },
     {
       "id": "item_owned_count",
-      "content": "(Owned : {0})"
+      "content": "(Sahip Olunan : {0})"
     },
     {
       "id": "lunacy_owned_count_paid",
-      "content": "(Paid : {0}, Free : {1})"
+      "content": "(Paralı: {0}, Ücretsiz: {1})"
     },
     {
       "id": "lunacy_owned_count_free",
-      "content": "(Paid : {0}, Free : {1})"
+      "content": "(Paralı: {0}, Ücretsiz: {1})"
     },
     {
       "id": "mainui_ask_use_personality_level_ticket_disadvantage",
-      "content": "Using this ticket at your current story progress will raise your selected Identity's level to {1} instead of {0}, and any unused EXP in that process will be lost.\n\nWill you use this ticket anyway?"
+      "content": "Bu bileti mevcut hikâye ilerlemenizde kullanmak, seçtiğiniz Kişiliğin seviyesini {0} yerine {1}'e çıkaracaktır ve bu süreçte kullanılmayan EXP kaybolacaktır.\n\nYine de bu bileti kullanmak ister misiniz?"
     },
     {
       "id": "mainui_exp_dungeon_7_title",
@@ -1774,7 +1774,7 @@
     },
     {
       "id": "mainui_exp_dungeon_7_open_day",
-      "content": "EXP Luxkavasyon #7 (Kesme) opens on MON, TUE, and SUN."
+      "content": "EXP Luxkavasyon #7 (Kesme) opens on PZT, SAL ve PAZ."
     },
     {
       "id": "mainui_exp_dungeon_8_title",
@@ -1782,7 +1782,7 @@
     },
     {
       "id": "mainui_exp_dungeon_8_open_day",
-      "content": "EXP Luxkavasyon #7 (Delme) opens on WED, THU, and SUN."
+      "content": "EXP Luxkavasyon #7 (Delme) opens on ÇAR, PER ve PAZ."
     },
     {
       "id": "mainui_exp_dungeon_9_title",
@@ -1790,11 +1790,11 @@
     },
     {
       "id": "mainui_exp_dungeon_9_open_day",
-      "content": "EXP Luxkavasyon #7 (Darbe) opens on FRI, SAT, and SUN."
+      "content": "EXP Luxkavasyon #7 (Darbe) opens on CUM, CMT ve PAZ."
     },
     {
       "id": "mainui_default_personality_blocked",
-      "content": "Cannot\nDeploy\nBase\nIdentity"
+      "content": "Yerleştirilenemez\nTemel\nKişilikler"
     },
     {
       "id": "mainui_change_personality_of_character",
@@ -1822,7 +1822,7 @@
     },
     {
       "id": "story_voice_setting_ui_title",
-      "content": "Story Voice Management"
+      "content": "Hikaye Diyalog Sesi"
     },
     {
       "id": "story_voice_setting_ui_desc",
@@ -1830,23 +1830,23 @@
     },
     {
       "id": "vending_machine_item_available_date_label",
-      "content": "Dispenser Unlock:\n{0}/{1} {2} ({3})"
+      "content": "Üretime Açılmasına:\n{0}/{1} {2} ({3})"
     },
     {
       "id": "gacha_notice_vending_available_date",
-      "content": "Seasonal Identities can be Dispensed from the Dispenser starting from {0}/{1} {2} ({3})"
+      "content": "Sezonluk Kişilikler, {0}/{1} {2} ({3}) tarihinden itibaren üretilebilir."
     },
     {
       "id": "gacha_notice_vending_available_date_v2",
-      "content": "Seasonal E.G.O can be Dispensed starting from {0}/{1} {2} ({3})"
+      "content": "Sezonluk E.G.O'lar, {0}/{1} {2} ({3}) tarihinden itibaren üretilebilir.""
     },
     {
       "id": "gacha_notice_vending_available_date_v3",
-      "content": "Seasonal ID & E.G.O can be Dispensed starting from {0}/{1} {2} ({3})"
+      "content": "Sezonluk Kişilik ve E.G.O'lar, {0}/{1} {2} ({3}) tarihinden itibaren üretilebilir."
     },
     {
       "id": "mini_story_warning_spoiler_checkbox_desc",
-      "content": "Don't see this message again"
+      "content": "Bu Mesajı tekrar görme"
     },
     {
       "id": "mainui_settings_push_notification",
@@ -1858,11 +1858,11 @@
     },
     {
       "id": "story_unable_to_skip",
-      "content": "Bu Hikaye 'Atlanamaz'."
+      "content": "Bu Hikaye 'Atlanılamaz'."
     },
     {
       "id": "remote_download_quit_game",
-      "content": "A new download has been added.\nThe game will be closed; please restart the game to download the update."
+      "content": "Yeni bir Güncelleme eklendi.\nOyun kapatılacaktır; lütfen güncellemeyi indirmek için oyunu yeniden başlatın.."
     }
   ]
 }
