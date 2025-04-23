@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Bölge 4 - LC Şubesi İç Mekanı",
+      "place": "Eyalet 4 - LC Şubesi İç Mekanı",
       "model": "로쟈",
-      "content": "Bu zemin kurtçuklarla dolu."
+      "content": "Zemin kurtçuk kaynıyor."
     },
     {
       "id": 1,
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "model": "로쟈",
-      "content": "Pft… Elbette Greg bunu duyduğuna memnun olurdu. Değil mi, böceksi dostum?"
+      "content": "Pft… Greg bunu duyduğuna memnun olurdu. Değil mi, böceksi dostum?"
     },
     {
       "id": 3,
@@ -38,7 +38,7 @@
     {
       "id": 7,
       "model": "그레고르",
-      "content": "Hayır öyle değil… Şöyle ki…"
+      "content": "Hayır öyle değil… Daha çok şey gibi…"
     },
     {
       "id": 8,
@@ -54,7 +54,7 @@
     {
       "id": 10,
       "model": "그레고르",
-      "content": "Aynen öyle… o zaman…"
+      "content": "Aynı… o zaman gibi…"
     },
     {
       "id": 11,
@@ -62,7 +62,7 @@
     },
     {
       "id": 12,
-      "content": "Gregor odadan yayılan altın rengi ışığın yağışına baktı."
+      "content": "Gregor odadan yayılan altın rengi ışık hüzmesine baktı."
     },
     {
       "id": 13,
@@ -93,19 +93,19 @@
     },
     {
       "id": 19,
-      "place": "Duman Savaşının Ortasında",
+      "place": "Duman Savaşı'nın Ortasında",
       "model": "오티스",
       "content": "Bir savaş alanı… Tam da savaşın kalbi."
     },
     {
       "id": 20,
       "model": "그레고르",
-      "content": "…B-Ben… rüya mı görüyorum? Yoksa bir kabus mu? Neden—Neden yine buradayım…"
+      "content": "…B-Ben… rüya mı görüyorum? Yoksa bir kabus mu? Neden—neden yine buradayım…"
     },
     {
       "id": 21,
       "model": "히스클리프",
-      "content": "Peki neden kanlı bir savaş meydanındayız?! Bu bir tuzak mı yoksa başka bir şey mi?"
+      "content": "Peki neden kanlı bir savaş meydanındayız?! Bu bir tuzak falan mı?"
     },
     {
       "id": 22,
@@ -125,7 +125,7 @@
     {
       "id": 25,
       "model": "파우스트",
-      "content": "Doğru. Bunun ne zaman olduğunu biliyor musun?"
+      "content": "Doğru. Şuan nerede olduğunu biliyor musun?"
     },
     {
       "id": 26,
@@ -149,7 +149,7 @@
     {
       "id": 30,
       "model": "이스마엘",
-      "content": "Bu senin en iyi bahanen miydi…?"
+      "content": "En iyi bahanen bu muydu…?"
     },
     {
       "id": 31,
@@ -163,7 +163,7 @@
     {
       "id": 33,
       "model": "오티스",
-      "content": "Duman Savaşı'nın en azından 70. günü..."
+      "content": "Duman Savaşı'nın en az 70. günü..."
     },
     {
       "id": 34,
@@ -184,7 +184,7 @@
       "id": 37,
       "teller": "???",
       "title": "???",
-      "content": "Yanımızdaki karakol huzurevine dönmüş, bastonsuz yürüyemiyorlar bile!"
+      "content": "Yanımızdaki karakol huzurevine döndürüldü, bastonsuz yürüyemiyorlar bile!"
     },
     {
       "id": 38,
@@ -199,7 +199,7 @@
     },
     {
       "id": 40,
-      "content": "Sargılı adam Gregor'u görür görmez hemen ayağa kalktı ve selam verdi."
+      "content": "Sargılı adam Gregor'u görür görmez hemen doğruldu ve selam verdi."
     },
     {
       "id": 41,
@@ -216,13 +216,13 @@
       "id": 43,
       "teller": "Tomah",
       "title": "Hatırlanan Asker",
-      "content": "Seni ön taraftaki birliğin bir parçası sanıyordum; seni burada, arkada bulmayı beklemiyordum."
+      "content": "Sizi ön taraftaki birliğin bir parçası sanıyordum; burada, arkada bulmayı beklemiyordum."
     },
     {
       "id": 44,
       "teller": "Tomah",
       "title": "Hatırlanan Asker",
-      "content": "Öne doğru mu gidiyorsun? Bacaklarımdaki modifikasyon zıplamama izin verdiği için oraya ulaşmana yardım edebilirim―"
+      "content": "Öne doğru mu gidiyorsunuz? Bacaklarımdaki modifikasyon zıplamamı sağladığı için oraya ulaşmanıza yardım edebilirim―"
     },
     {
       "id": 45,
@@ -237,29 +237,29 @@
       "id": 47,
       "teller": "Tomah",
       "title": "Hatırlanan Asker",
-      "content": "Sen, ne yaptın az önce…"
+      "content": "Sen, ne dedin…"
     },
     {
       "id": 48,
       "model": "그레고르",
-      "content": "H-Hey, Tomah! Yani sen bir yardımcı müdürsün—yoksa normal personel misin?"
+      "content": "H-Hey, Tomah! Şey, sen bir yardımcı müdür müsün—yoksa normal personel misin?"
     },
     {
       "id": 49,
       "teller": "Tomah",
       "title": "Hatırlanan Asker",
-      "content": "Efendim, evet efendim! Ben bir yardımcı erim, efendim!"
+      "content": "Efendim, evet efendim! Ben bir yardımcı müdürüm, efendim!"
     },
     {
       "id": 50,
       "model": "그레고르",
-      "content": "Şey, görüyorsun ya, o yeni işe alınmış biri ve prosedürü çok uzun zaman önce olmadı, bu yüzden... Hala kafa karışıklığını atlatmaya çalışıyorum, bilirsin işte. Ona güzel bir konuşma yapacağım."
+      "content": "Şey, görüyorsun ya, o yeni işe alındı ve prosedürü daha yeni yapıldı, bu yüzden... Hala kafa karışıklığını atlatmaya çalışıyor, bilirsin işte. Ona bi fırça çekerim."
     },
     {
       "id": 51,
       "teller": "Tomah",
       "title": "Hatırlanan Asker",
-      "content": "Ha, anladım… Şirketimiz çaresizliğe kapılmış olmalı ki, hazırlıksız çalışanlarını savaşa gönderiyor."
+      "content": "Ha, anladım… Şirketimiz çaresizliğe kapılmış olmalı ki, hazırlıksız çalışanları savaşa gönderiyor."
     },
     {
       "id": 52,
@@ -288,7 +288,7 @@
     {
       "id": 57,
       "model": "파우스트",
-      "content": "Başka bir deyişle, ruhunuzda açık bir yol…"
+      "content": "Başka bir deyişle, ruhunda açık bir yol…"
     },
     {
       "id": 58,
