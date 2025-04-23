@@ -3925,16 +3925,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Do not reserve your strength.",
-          "desc": "[CantDuel] Targets allies",
+          "name": "Tüm Gücünü Kullan.",
+          "desc": "[CantDuel] Müttefiklere saldırır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Give 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Saldırı Güç Artışı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kırılganlık ver"
                 }
               ]
             }
@@ -3947,7 +3947,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Retreating.",
+          "name": "Geri Çekiliniyor.",
           "desc": "",
           "coinlist": [
             {}
@@ -3960,13 +3960,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harming Curse",
+          "name": "Acıtan Lanet",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
                 }
               ]
             }
@@ -3979,20 +3979,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proliferating Curse",
+          "name": "Çoğalan Lanet",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] +2 Parçalanma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] +2 Parçalanma Miktarı ver"
                 }
               ]
             }
@@ -4005,14 +4005,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Opened Wound",
+          "name": "Yara Açma",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
                 }
               ]
             }
@@ -4025,7 +4025,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Defensive Talisman",
+          "name": "Defansif Tılsım",
           "desc": "",
           "coinlist": [
             {
@@ -4044,13 +4044,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suppressing Fluid",
+          "name": "Baskılayıcı Sıvı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlama ver"
                 }
               ]
             }
@@ -4063,13 +4063,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Explosive Fluid",
+          "name": "Patlayıcı Sıvı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması nı tetikle"
                 }
               ]
             }
@@ -4082,20 +4082,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wobbling Fluid",
+          "name": "Sarsılan Sıvı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] 3 Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] +1 Sarsıntı Miktarı ver"
                 }
               ]
             }
@@ -4108,7 +4108,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fluid Guard",
+          "name": "Sıvı Korunması",
           "desc": "",
           "coinlist": [
             {
@@ -4127,13 +4127,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harming Curse",
-          "desc": "[WhenUse] Gain 1 Entangled Curse Talisman",
+          "name": "Acıtan Lanet",
+          "desc": "[WhenUse] 1 Karışık Lanet Tılsımı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
                 }
               ]
             }
@@ -4146,20 +4146,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proliferating Curse",
-          "desc": "[WhenUse] Gain 2 Entangled Curse Talisman",
+          "name": "Çoğalan Lanet",
+          "desc": "[WhenUse] 2 Karışık Lanet Tılsımı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] +2 Parçalanma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] +2 Parçalanma Miktarı ver"
                 }
               ]
             }
@@ -4172,14 +4172,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Restraining Curse",
-          "desc": "[WhenUse] Gain 2 Entangled Curse Talisman",
+          "name": "Kısıtlayıcı Lanet",
+          "desc": "[WhenUse] 2 Karışık Lanet Tılsımı kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Yavaşlama ver"
                 }
               ]
             }
@@ -4192,30 +4192,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pronounced Wound",
-          "desc": "[EndBattle] Remove all Entangled Curse Talisman",
+          "name": "Belirgin Yara",
+          "desc": "[EndBattle] Bütün Karışık Lanet Tılsımı efektlerini kaldır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] +2 Parçalanma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] +2 Parçalanma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Yavaşlama ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttackHead] 5 Parçalanma ver"
                 }
               ]
             }
@@ -4228,7 +4228,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Defensive Talisman",
+          "name": "Defansif Tılsım",
           "desc": "",
           "coinlist": [
             {
@@ -4247,13 +4247,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suppressing Fluid",
+          "name": "Baskılayıcı Sıvı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Yavaşlama ver"
                 }
               ]
             }
@@ -4266,13 +4266,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Explosive Fluid",
-          "desc": "[WhenUse] Gain 1 Morale Boost",
+          "name": "Patlayıcı Sıvı",
+          "desc": "[WhenUse] 1 Moral Artışı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması nı tetikle"
                 }
               ]
             }
@@ -4285,20 +4285,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wobbling Fluid",
-          "desc": "[WhenUse] Gain 1 Morale Boost",
+          "name": "Sarsılan Sıvı",
+          "desc": "[WhenUse] 1 Moral Artışı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "[OnSucceedAttack] 4 Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] +1 Sarsıntı Miktarı ver"
                 }
               ]
             }
@@ -4311,8 +4311,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fluid Guard",
-          "desc": "[WhenUse] Heal 5% of Max HP\nGain 2 Fragile next turn\n[EndBattle] Remove all Tipsy",
+          "name": "Sıvı Korunması",
+          "desc": "[WhenUse] Maks HP'nin %5ini iyileştir\nSonraki tur 2 Kırılganlık kazan\n[EndBattle] Bütün Sarhoş u kaldır",
           "coinlist": [
             {
               "coindescs": [
@@ -4330,13 +4330,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Restraining Curse",
+          "name": "Kısıtlayıcı Lanet",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Yavaşlama ver"
                 }
               ]
             }
@@ -4349,14 +4349,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blunt Curse",
-          "desc": "[WhenUse] Inflict 1 Reattached Curse Talisman",
+          "name": "Darbe Laneti",
+          "desc": "[WhenUse] 1 Yeniden Bağlanmış Lanet Tılsımı ver",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] 3 Darbe Kırılganlığı ver"
                 }
               ]
             }
@@ -4369,14 +4369,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multiplying Talismans",
-          "desc": "Targets the enemy with the most Rupture",
+          "name": "Tılsımları Çoğaltma",
+          "desc": "En fazla Parçalanma sı olan düşmana saldırı önceliği verir",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Rupture by the amount of Reattached Curse Talisman on target"
+                  "desc": "[OnSucceedAttack] Hedefteki Yeniden Bağlanmış Lanet Tılsımı sayısı kadar Parçalanma ver"
                 }
               ]
             }
@@ -4389,21 +4389,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Paralyzing Curse",
-          "desc": "[EndBattle] Remove all Reattached Curse Talisman from target",
+          "name": "Felç Eden Lanet",
+          "desc": "[EndBattle] Hedefteki Yeniden Bağlanmış Lanet Tılsımı larının hepsini kaldır",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Paralyze by the amount of Reattached Curse Talisman on target"
+                  "desc": "[OnSucceedAttack] Hedefteki Yeniden Bağlanmış Lanet Tılsımı sayısı kadar Felç ver"
                 }
               ]
             }
@@ -4416,13 +4416,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strangling Curse Talisman",
-          "desc": "Target the enemy with the most Reattached Curse Talismans",
+          "name": "Boğucu Lanet Tılsımı",
+          "desc": "En fazla Yeniden Bağlanmış Lanet Tılsımı olan düşmanlara saldırı önceliği verir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Reattached Curse Talisman"
+                  "desc": "[OnSucceedAttack] 5 Yeniden Bağlanmış Lanet Tılsımı ver"
                 }
               ]
             }
@@ -4435,20 +4435,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Expiring Curse Talisman",
-          "desc": "Target the enemy with the most Reattached Curse Talismans\n[EndBattle] Remove all Reattached Curse Talisman from target",
+          "name": "Sona Eren Lanet Tılsımı",
+          "desc": "En fazla Yeniden Bağlanmış Lanet Tılsımı olan düşmanlara saldırı önceliği verir\n[EndBattle] Hedefteki bütün Yeniden Bağlanmış Lanet Tılsımı larını kaldır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Reattached Curse Talisman"
+                  "desc": "[OnSucceedAttack] 2 Yeniden Bağlanmış Lanet Tılsımı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target has 9+ Reattached Curse Talisman, inflict 5 Paralyze\nDeal fixed damage by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] Eğer hedefte 9+ Yeniden Bağlanmış Lanet Tılsımı varsa, 5 Felç ver\nVerilen hasarın %50si kadar sabit hasar ver"
                 }
               ]
             }
