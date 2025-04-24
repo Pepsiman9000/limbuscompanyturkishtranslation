@@ -4,7 +4,7 @@
       "id": 0,
       "place": "Karanlık Bir Orman",
       "model": "늑대",
-      "teller": "Kurt",
+      "teller": "Dişi Kurt",
       "title": "???",
       "content": "Şimdi anlıyor musun? Bizden kaçamazsın."
     },
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "Bu kadar hızlı bir şekilde yeni bir kafaya geçmeyi başardın. Senin gibi elemanlar hep bu kadar hazırlıklı mı oluyor?"
     },
@@ -60,7 +60,7 @@
     {
       "id": 8,
       "model": "늑대",
-      "teller": "Kurt",
+      "teller": "Dişi Kurt",
       "title": "???",
       "content": "Aynen, duyduğum tek şey tiklemeler. Sizce içerde çığlık atıyor mudur?"
     },
@@ -74,7 +74,7 @@
     {
       "id": 10,
       "model": "늑대",
-      "teller": "Kurt",
+      "teller": "Dişi Kurt",
       "title": "???",
       "content": "Hmm. Daha hızlı tikliyor, sanırsam acı hissedebiliyor."
     },
@@ -93,7 +93,7 @@
     {
       "id": 14,
       "model": "늑대",
-      "teller": "Kurt",
+      "teller": "Dişi Kurt",
       "title": "???",
       "content": "Ney, sustu bile. Halledelim artık şu işi."
     },
@@ -102,12 +102,12 @@
       "model": "사자",
       "teller": "Aslan",
       "title": "???",
-      "content": "Kurt, burası kimsenin göremeyeceği, ve ziyaret de etmediği bir yer. Ne acelen var?"
+      "content": "Dişi Kurt, burası kimsenin göremeyeceği, ve ziyaret de etmediği bir yer. Ne acelen var?"
     },
     {
       "id": 16,
       "model": "늑대",
-      "teller": "Kurt",
+      "teller": "Dişi Kurt",
       "title": "???",
       "content": "Onun öğretilerine uymalıyız. Daha fazla zaman kaybedemeyiz."
     },
@@ -121,7 +121,7 @@
     {
       "id": 18,
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "Aslan, işlerinde hep fazla duygusallaşıyorsun. Sınırlarını bilmeni umuyorum."
     },
@@ -135,7 +135,7 @@
     {
       "id": 20,
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "Ne yazık— Yüzünü görmek isterdim. Sanırım bize yıldızının nerede olduğunu söylemessin, değil mi?"
     },
@@ -160,28 +160,28 @@
     {
       "id": 24,
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "…Doğru. Ağzı yok."
     },
     {
       "id": 25,
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "Bu da demek oluyor ki… onu nasıl alacağımızı bu elemandan öğrenemeyiz."
     },
     {
       "id": 26,
       "model": "늑대",
-      "teller": "Kurt",
+      "teller": "Dişi Kurt",
       "title": "???",
       "content": "Artık fişini çekebilir miyim?"
     },
     {
       "id": 27,
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "Pekala… Huh?"
     },
@@ -190,33 +190,33 @@
       "model": "사자",
       "teller": "Aslan",
       "title": "???",
-      "content": "Hey, bu ses de ne? Ulan, Panter… takip mi edildin?"
+      "content": "Hey, bu ses de ne? Ulan, Pars… takip mi edildin?"
     },
     {
       "id": 29,
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "Olamaz, beni takip edebilecek kimse yoktu. Belki de vahşi bir hayvandır?"
     },
     {
       "id": 30,
       "model": "늑대",
-      "teller": "Kurt",
+      "teller": "Dişi Kurt",
       "title": "???",
       "content": "Bu bir hayvanın yapabileceği bir des değil. Bu…"
     },
     {
       "id": 31,
       "model": "늑대",
-      "teller": "Kurt",
+      "teller": "Dişi Kurt",
       "title": "???",
       "content": "Bir otobüs…?"
     },
     {
       "id": 32,
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "Buraya nasıl gelmiş olabilir ki?"
     },
@@ -244,14 +244,14 @@
     {
       "id": 36,
       "model": "늑대",
-      "teller": "Kurt",
+      "teller": "Dişi Kurt",
       "title": "???",
       "content": "…Aslan'ı yendi?"
     },
     {
       "id": 37,
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "…!"
     },
@@ -448,7 +448,7 @@
     {
       "id": 70,
       "model": "파우스트",
-      "content": "Biz seni kurtarmaya gelmiş olan adaletin yayıcılarıyız, ve bu da bizi istediğimiz yere götüren sihirli otobüs."
+      "content": "Biz seni Dişi Kurtarmaya gelmiş olan adaletin yayıcılarıyız, ve bu da bizi istediğimiz yere götüren sihirli otobüs."
     },
     {
       "id": 71,
@@ -460,7 +460,7 @@
     {
       "id": 72,
       "model": "파우스트",
-      "content": "Duymayı beklediğin şey bu değil miydi? İki türlü de, en iyisi bizim senin kurtarıcılarınız olduğumuza inanman."
+      "content": "Duymayı beklediğin şey bu değil miydi? İki türlü de, en iyisi bizim senin Dişi Kurtarıcılarınız olduğumuza inanman."
     },
     {
       "id": 73,
