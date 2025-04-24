@@ -24,7 +24,7 @@
       "area": "10. Eyalet",
       "chapter": "Canto II",
       "chapterNumber": "02",
-      "chaptertitle": "Sevmeyiş",
+      "chaptertitle": "Sevmeyen",
       "timeline": "984-01"
     },
     {
@@ -42,7 +42,7 @@
       "area": "11. Eyalet",
       "chapter": "Intervallo I",
       "chapterNumber": "3.5",
-      "chaptertitle": "Hell’s Chicken",
+      "chaptertitle": "Cenabet Tavuk",
       "timeline": "984-03"
     },
     {
@@ -60,7 +60,7 @@
       "area": "21. Eyalet",
       "chapter": "Intervallo II",
       "chapterNumber": "4.5",
-      "chaptertitle": "D.E.İ.N.Z",
+      "chaptertitle": "D.E.N.İ.Z",
       "timeline": "984-05"
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "id": "chapter_u_9105",
-      "company": "U Corp.",
-      "area": "District 21",
+      "company": "U Kuruluşu",
+      "area": "21. Eyalet",
       "chapter": "Intervallo III",
       "chapterNumber": "5.5",
       "chaptertitle": "20. Koğuştaki Mucize",
@@ -83,92 +83,92 @@
     },
     {
       "id": "chapter_u_9106",
-      "company": "U Corp.",
-      "area": "District 21",
+      "company": "U Kuruluşu.",
+      "area": "21. Eyalet",
       "chapter": "",
       "chapterNumber": "",
-      "chaptertitle": "The 2nd Walpurigis Gecesi",
+      "chaptertitle": "2. Walpurgis Gecesi",
       "timeline": "984-09"
     },
     {
       "id": "chapter_t_9107",
-      "company": "T Corp.",
-      "area": "District 20",
+      "company": "T Kuruluşu.",
+      "area": "20. Eyalet",
       "chapter": "Intervallo III",
       "chapterNumber": "5.5",
-      "chaptertitle": "Yield My Flesh\nto Claim Their Bones",
+      "chaptertitle": "Derini Teslim et\nto Kemikleri Topla",
       "timeline": "984-10"
     },
     {
       "id": "chapter_t_106",
-      "company": "T Corp.",
-      "area": "District 20",
+      "company": "T Kuruluşu.",
+      "area": "20. Eyalet",
       "chapter": "Canto VI",
       "chapterNumber": "06",
-      "chaptertitle": "The Heartbreaking",
+      "chaptertitle": "Yüreği Parçalanan",
       "timeline": "984-11"
     },
     {
       "id": "chapter_t_9108",
-      "company": "T Corp.",
-      "area": "District 20",
+      "company": "T Kuruluşu.",
+      "area": "20. Eyalet",
       "chapter": "",
       "chapterNumber": "",
-      "chaptertitle": "The 3rd Walpurgis Night",
+      "chaptertitle": "3. Walpurgis Gecesi",
       "timeline": "984-11"
     },
     {
       "id": "chapter_t_9109",
-      "company": "T Corp.",
-      "area": "District 20",
+      "company": "T Kuruluşu.",
+      "area": "20. Eyalet",
       "chapter": "Intervallo IV",
       "chapterNumber": "6.5",
-      "chaptertitle": "Timekilling Time",
+      "chaptertitle": "Zaman Öldürme Zamanı",
       "timeline": "984-12"
     },
     {
       "id": "chapter_t_9110",
-      "company": "T Corp.",
-      "area": "District 20",
+      "company": "T Kuruluşu.",
+      "area": "20. Eyalet",
       "chapter": "Intervallo IV",
       "chapterNumber": "6.5",
-      "chaptertitle": "Murder on the\nWARP Express",
+      "chaptertitle": "WARP Expresste\nCinayet",
       "timeline": "984-12"
     },
     {
       "id": "chapter_p_9111",
-      "company": "P Corp.",
-      "area": "District 16",
+      "company": "P Kuruluşu.",
+      "area": "16. Eyalet",
       "chapter": "",
       "chapterNumber": "",
-      "chaptertitle": "The 4th Walpurgis Night",
+      "chaptertitle": "4. Walpurgis Gecesi",
       "timeline": "984-12"
     },
     {
       "id": "chapter_p_9019",
-      "company": "P Corp.",
-      "area": "District 16",
+      "company": "P Kuruluşu.",
+      "area": "16. Eyalet",
       "chapter": "",
       "chapterNumber": "",
-      "chaptertitle": "The 5th Walpurgis Night",
+      "chaptertitle": "5. Walpurgis Gecesi",
       "timeline": "984-12"
     },
     {
       "id": "chapter_p_9114",
-      "company": "P Corp.",
-      "area": "District 16",
+      "company": "P Kuruluşu.",
+      "area": "16. Eyalet",
       "chapter": "Intervallo V",
       "chapterNumber": "7.5",
-      "chaptertitle": "LCB Regular Check-up",
+      "chaptertitle": "LŞO Rutin Kontrol",
       "timeline": "984-12"
     },
     {
       "id": "chapter_h_9116",
-      "company": "H Corp.",
-      "area": "District 8",
+      "company": "H Kuruluşu.",
+      "area": "8. Eyalet",
       "chapter": "Intervallo V",
       "chapterNumber": "7.5",
-      "chaptertitle": "Nocturnal Sweeping",
+      "chaptertitle": "Noktürnal Süpürme",
       "timeline": "985-01"
     }
   ]
