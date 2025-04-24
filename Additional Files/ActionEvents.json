@@ -2,29 +2,29 @@
   "dataList": [
     {
       "id": 101001,
-      "name": "Human Offering",
-      "subDesc": "You see clay dolls in the distance.",
-      "desc": "They’re rummaging through corpses, looking for something.\nRelentless demands for an offering ring in the ears.\nThey look like they might jump us at any second.\n\nYou see a dying person nearby, gasping for air.\nShould you offer this person up?\nOr…",
+      "name": "İnsan Kurbanı",
+      "subDesc": "Uzakta kilden oyuncaklar görüyorsun.",
+      "desc": "Ceset yağmalıyorlar, bir şey ararmış gibi.\nKulaklarında bir kurban isteyişinin acımasız çınlayışını duyuyorsun.\nHer an atlayabilirmiş gibi duruyorlar.\n\nYakınlarda ise ölen birisini görüyorsun, nefes almakta güçlük çekiyor.\nBu insanı kurban olarak vermeli misin?\nYa da…",
       "options": [
         {
-          "message": "Offer the person.",
+          "message": "İnsanı kurban olarak ver.",
           "messageDesc": "All allies lose SP. Gain an E.G.O Gift.",
           "result": [
             "Satisfied, the clay dolls carried the corpse-to-be off into the distance."
           ]
         },
         {
-          "message": "Don’t offer the person.",
+          "message": "İnsanı kurban olarak verme.",
           "messageDesc": "Begin a combat encounter. Win to gain a stronger E.G.O Gift.",
           "result": [
             "Angered by your inaction, the clay dolls attacked you."
           ]
         },
         {
-          "message": "Offer a Sinner.",
+          "message": "Bir Günahkârı kurban olarak ver.",
           "messageDesc": "……",
           "result": [
-            "“Are your screws loose, Manager?”\n\nThe Sinners seem upset by your decision."
+            "“Kafayı mı sıyırdın, Müdür?”\n\nGünahkârlar fikrine bozulmuş gibi gözüküyor."
           ]
         }
       ]
