@@ -3,27 +3,27 @@
     {
       "id": 800101,
       "title": "백설선택지1",
-      "eventDesc": "A heart torn into thousands of pieces must be kept from all eyes, thus it burrowed into the ground and tangled itself.\n\nYet, someone has to pull up these thorny roots,\nas there is no wound that can remain unearthed.\n\nThe Sinners gave each other looks.\nBeing coiled in piercing, sharp pain was something to avoid even in one’s dreams.",
-      "prevDesc": "The vines growing on the ground are a hassle.\nMaybe there’ll be a chance to get rid of them?",
-      "behaveDesc": "The dry earth must be upturned.\nWhich Sinner was up to the task?",
+      "eventDesc": "Binbir parçaya bölünmüş bir kalp hiçbir göze gözükmemeli, böylece kendini yere gömdü ve sarmaladı.\n\nAncak, birinin bu dikenli kökleri çıkarması lazım,\nyüzeye çıkmadan kalan bir yara yoktur.\n\nGünahkârlar birbirlerine baktı.\nDelici, keskin bir acıyla sarmalanmak herkesin rüyalarında bile görmek istemediği bir şey.",
+      "prevDesc": "Yerde büyüyen sarmaşıklar pek bir zahmet.\nBelki de onlardan kurtulmak için bir fırsatımız olur?",
+      "behaveDesc": "Kuru toprak koparılmalı.\nBunu hangi Günahkâr yapacak?",
       "successDesc": [
-        "{0} walked with shaky steps.\nWith bare hands, they dug up the roots.\n\nIn their hands were the doubts of others.\nThe Sinner realized…\n\nThat while the injury may heal, distrust might take deep root in their heart."
+        "{0} pek de emin olmayan adımlarla ilerledi.\nÇıplak ellerle, sarmaşıkları kazdı.\n\nSırtında başkalarının kuşkularını taşıyordu.\nGünahkâr fark etti ki…\n\nYaralar iyileşse de, güvensizlik yüreklerinde kalıcı kökler salabilirdi."
       ],
       "failureDesc": [
-        "{0} could not uproot anything.\nIt was no easy task, after all—entangled so tightly together, one couldn’t make heads or tails of it.\n\nClutching itself, the durable web of fiber continued to expand,\nand the Sinners will continue to suffer."
+        "{0} hiçbir şey kazamadı.\nKolay iş değildi tabi, o kadar karmaşık bir şekilde düğümlenmişti ki, açmak imkansızdı.\n\nKendini kavrayarak, iplik ağı genişlemeye devam etti,\nve Günahkârlar da acı çekmeye."
       ]
     },
     {
       "id": 800102,
       "title": "백설선택지2",
-      "eventDesc": "The ground began to tremor ever so slightly.\nThe Sinners remained quiet, but they could read from each other’s glances the single thought they shared:\n“Shouldn’t one of us step up to endure the pain so that the rest will be spared from suffering?”",
+      "eventDesc": "Yer hafiften sallanmaya başladı.\nGünahkârlar sessiz kaldı, ancak gözlerinden düşündükleri şey anlaşılıyordu:\n“Diğerlerimizin acı çekmemesi için, tek bir kişinin ileri çıkıp katlanması en doğrusu olmaz mı?”",
       "prevDesc": "백설 선택지 2 뜰 예정",
-      "behaveDesc": "A small crack was found in the ground.\nWho will be the one to seal it?",
+      "behaveDesc": "Yerde küçük bir çatlak vardı.\nOnu kim kapatacak?",
       "successDesc": [
-        "The root impales {0}’s chest and extends skyward.\nThe Sinner gasps for air, but that’s none of your business."
+        "Kök {0}'ın göğsüne sağlandı ve göğe doğru yükseldi.\nGünahkârlar boğuluyordu, ama senin sorunun değil."
       ],
       "failureDesc": [
-        "The roots whisper as they skewer each Sinner:\n“All of us should feel the pain.”\n“Just as your sadness throws gloom over me, so should pain be felt equally.”\nThe thousands of roots, a unified whole, piercing into everyone’s flesh."
+        "Kökler her Günahkârı şişlerken fısıldıyorlardı:\n“Acıyı hepimiz çekmeliyiz.”\n“Aynı senin üzüntünün beni de üzdüğü gibi, acı paylaşılmalı.”\nBinlerce kök, tek bir grup halinde, herkesin derisini deliyordu."
       ]
     },
     {
