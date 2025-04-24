@@ -22,7 +22,7 @@
     },
     {
       "id": 1020201,
-      "name": "Kendini [Charge] Etme",
+      "name": "Kendini Şarj Etme",
       "desc": "Bir saldırıdan sonra +1 [Charge] Miktarı kazan."
     },
     {
@@ -37,13 +37,13 @@
     },
     {
       "id": 1030201,
-      "name": "Hızlı [Charge]",
+      "name": "Hızlı Şarj",
       "desc": "Savaş aşamasının başlangıcında, (Hüzün Rezonansı / 3) kadar [Charge] Miktarı kazan."
     },
     {
       "id": 1030301,
       "name": "Hazırlıklı Zihin",
-      "desc": "Öfke Rezonansı / 3 kadar [Çeviklik] kazan."
+      "desc": "Öfke Rezonansı / 3 kadar [Agility] kazan."
     },
     {
       "id": 1040101,
@@ -52,7 +52,7 @@
     },
     {
       "id": 1040201,
-      "name": "C. I. H.",
+      "name": "C. U. M.",
       "desc": "Bu turda %10 daha fazla Kesme hasarı uygula."
     },
     {
