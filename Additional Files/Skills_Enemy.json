@@ -4584,7 +4584,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Kilitlenen An uygula"
+                  "desc": "[OnSucceedAttack] 1 [InterlockingTime] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 3 [Paralysis] uygula"
@@ -4635,7 +4635,7 @@
                   "desc": "[OnSucceedAttack] 5+ [Charge] Miktarı nda, bütün [Charge] Miktarı nı kullanarak her kullanılan [Charge] Miktarı için %10 daha fazla hasar vur"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 Bağlanan Zaman uygula"
+                  "desc": "[OnSucceedAttack] 1 [InterlockingTime] uygula"
                 }
               ]
             }
