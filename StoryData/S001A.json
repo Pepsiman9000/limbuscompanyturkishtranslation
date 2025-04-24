@@ -4,7 +4,7 @@
       "id": 0,
       "place": "Karanlık Bir Orman",
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "Anlamıyorum… Aslan'ın zorlandığı şey bu muydu?"
     },
@@ -46,7 +46,7 @@
     {
       "id": -1,
       "model": "늑대",
-      "teller": "Kurt",
+      "teller": "Dişi Kurt",
       "title": "???",
       "content": "Orada daha ne kadar yatacaksın, Aslan? Zamanımız yok."
     },
@@ -118,7 +118,7 @@
     {
       "id": 18,
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "Ne yani şimdi bu, bi tür intihar performansı mı? En eğlenerek bitirdiğim hayatlar olmadığı kesin."
     },
@@ -180,14 +180,14 @@
     {
       "id": 26,
       "model": "늑대",
-      "teller": "Kurt",
+      "teller": "Dişi Kurt",
       "title": "???",
       "content": "Kızıl…? Ama neden?"
     },
     {
       "id": 27,
       "model": "늑대",
-      "teller": "Kurt",
+      "teller": "Dişi Kurt",
       "title": "???",
       "content": "Argh…"
     },
@@ -215,7 +215,7 @@
     {
       "id": 31,
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "…Kızıl Nazar."
     },
@@ -250,7 +250,7 @@
     {
       "id": 36,
       "model": "표범",
-      "teller": "Panter",
+      "teller": "Pars",
       "title": "???",
       "content": "……"
     },
