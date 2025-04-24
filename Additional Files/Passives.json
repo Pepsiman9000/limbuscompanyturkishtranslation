@@ -1697,7 +1697,7 @@
   },
   {
     "id": 1101021,
-    "name": " Hedef Koruma Sözleşmesi",
+    "name": "Hedef Koruma Sözleşmesi",
     "desc": "Tur Sonu: En düşük HP yüzdesine sahip 1 müttefike 1 [Agility] ve 3 [DefenseUp] uygula bir sonraki turda",
     "summary": "En düşük HP yüzdesine sahip 1 müttefike 1 [Agility] ve 3 [DefenseUp] uygula"
   },
@@ -1707,381 +1707,376 @@
     "desc": "Tur Sonunda: Bu birimin kendisinde bulunan her 3 [Breath] Potansiyeli için 1 [Agility] kazan (maksimum 2)\nTemel Saldırı Becerisiyle Vuruş Yapıldığında: bir sonraki turda [ConcentratedAttackMeursault] uygula. (her beceri başına bir kez)",
     "summary": "Tur Sonu: Bu birimdeki [Breath] Sayısına bağlı olarak [Agility] kazan. Temel Beceride vuruş yapıldığında, bir sonraki turda [ConcentratedAttackMeursault] uygula"
   },
-    {
-      "id": 1051111,
-      "name": "Duel Livestream",
-      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit with base Attack Skills: inflict [ConcentratedAttackMeursault] next turn. (once per Skill)\n<style=\"highlight\">If this unit attacked the Slot with [ConcentratedAttackMeursault] and defeated its owner or broke the Part, heal 7 SP</style>",
-      "summary": "Turn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn. Heals SP On Kill"
-    },
-    {
-      "id": 1051121,
-      "name": "One Step Ahead",
-      "desc": "The fastest ally, on Clash Win, gains 1 [Agility] next turn (2 times per turn)",
-      "summary": "The fastest ally, on Clash Win, gains 1 [Agility] next turn"
-    },
-    {
-      "id": 1061001,
-      "name": "How to Hunt Cheerfully",
-      "desc": "If the target is a <Bloodfiend> or a <Bloodbag>, deal +10% more damage\nOn Skill Use, if this unit has [Laceration], inflict 3 [Burst] On Hit (once per turn)",
-      "summary": ""
-    },
-    {
-      "id": 1061011,
-      "name": "How to Hunt Cheerfully",
-      "desc": "If the target is a <Bloodfiend>, <Bloodbag>, or if the target has 10+ [Burst], deal +10% more damage\nOn Skill Use, if this unit has [Laceration], inflict 3 [Burst] On Hit (2 times per turn)",
-      "summary": ""
-    },
-    {
-      "id": 1061021,
-      "name": "Bloodfiend Hunting Manual - Styptics",
-      "desc": "Combat Start: 1 ally with the highest sum of [Laceration] Potency and Count loses 2 [Laceration] Count\nWhen 1 ally with the fastest Speed hits an enemy with [Burst], inflict 1 [DefenseDown] (2 times per turn)",
-      "summary": ""
-    },
-    {
-      "id": 1111101,
-      "name": "WRONG COSTUME!!!",
-      "desc": "On Hit, deal +1% more damage for every 10 [BloodDinner_Accumulation] by self (max 20%)",
-      "summary": "Deal more damage based on cumulative Bloodfeast consumed"
-    },
-    {
-      "id": 1111111,
-      "name": "WRONG COSTUME!!!",
-      "desc": "In a Clash against [LineCuttingPersonality], Clash Power +1.\nOn Hit, deal +1.5% more damage for every 10 [BloodDinner_Accumulation] by self (max 30%)\nOn Hit, deal +0.5% more damage for every [Laceration] on the target (max 10%)",
-      "summary": "In a Clash against Sewing Target, Clash Power +1"
-    },
-    {
-      "id": 1111102,
-      "name": "Bloodfeast",
-      "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will rise above the surface.",
-      "summary": ""
-    },
-    {
-      "id": 1111121,
-      "name": "Don Quixote Hardblood Arts 8: Scissors",
-      "desc": "1 ally with the fastest Speed: if the enemy is killed After Attack, heal 10 HP (2 times per turn)\n1 ally with the fastest Speed: if the enemy is killed After Attack, inflict +1 [Laceration] Count when inflicting [Laceration] Potency with Skill or Coin effects for the next turn (3 times per turn)",
-      "summary": "If the enemy is dead After Attack, heal HP"
-    },
-    {
-      "id": 1121001,
-      "name": "Self-destructive Dedication",
-      "desc": "Turn End: heal ((10 - [WornHeartGreg])/2) SP for the ally with the least SP (excluding: self or allies that are Panicked or Corroded; rounded down)\nIn this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn. (once per Encounter)",
-      "summary": ""
-    },
-    {
-      "id": 1121002,
-      "name": "Bloodfeast",
-      "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will rise above the surface.",
-      "summary": ""
-    },
-    {
-      "id": 1121011,
-      "name": "Self-destructive Dedication",
-      "desc": "Turn End: heal (10 - [WornHeartGreg]) SP for the ally with the least SP (excluding: self or allies that are Panicked or Corroded)\nIn this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn. (once per Encounter)",
-      "summary": ""
-    },
-    {
-      "id": 1121021,
-      "name": "Don Quixote Hardblood Arts 6: Whip",
-      "desc": "1 ally with the lowest HP percentage heals 3 HP On Hit (3 times per turn)",
-      "summary": ""
-    },
-    {
-      "id": 1121031,
-      "name": "Don Quixote Hardblood Arts 6: Whip",
-      "desc": "1 ally with the lowest HP percentage heals 3 HP On Hit (3 times per turn)\n- If the target hit by the said ally had [Laceration], heal 3 additional HP",
-      "summary": ""
-    },
-    {
-      "id": 1091101,
-      "name": "Hardblood Thorn",
-      "desc": "When an other ally takes [Laceration] damage or consumes [BloodDinner], gain 1 [BloomingThornsRodionFirst] (3 times per turn)\nHeal HP on self by 20% of the damage dealt with base Skills (max 10 per Skill)",
-      "summary": ""
-    },
-    {
-      "id": 1091102,
-      "name": "Bloodfeast",
-      "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will fill the surface.",
-      "summary": ""
-    },
-    {
-      "id": 1091111,
-      "name": "Hardblood Thorn",
-      "desc": "When an other ally takes [Laceration] damage or consumes [BloodDinner], this unit gains 1 [BloomingThornsRodionFirst] (5 times per turn)\nHeal HP on self by 20% of the damage dealt with base Skills (max 10 per Skill)\n- At max HP, heal 1 ally with the lowest HP percentage by excess healing",
-      "summary": ""
-    },
-    {
-      "id": 1091121,
-      "name": "\"Blossom with Blood...\"",
-      "desc": "To 1 ally with the highest [Laceration] Potency at Turn End: reduce the ally's [Laceration] Potency by 6 max, and apply (Bleed Potency reduced / 2) [BloomingThornsRodionFirst] (rounded down)",
-      "summary": ""
-    },
-    {
-      "id": 1101101,
-      "name": "A moment, please...",
-      "desc": "Turn Start: At 6+ Speed, or if this unit has [Agility], gain ([DevyatDimensionalSackSinclair])% of this unit's max HP as Shield (max 20%)",
-      "summary": ""
-    },
-    {
-      "id": 1101102,
-      "name": "I'll do better next time...",
-      "desc": "<For Chain Battles> When, after Retreating with '[Retreat]', if this unit rejoins the battle, halve the [DevyatDimensionalSackSinclair] value (once per Encounter, rounded up)",
-      "summary": ""
-    },
-    {
-      "id": 1101111,
-      "name": "A moment, please...",
-      "desc": "Turn Start: At 6+ Speed, or if this unit has [Agility], gain ([DevyatDimensionalSackSinclair])% of this unit's max HP as Shield (max 20%)\nUpon Retreat, apply 1 [ParryingResultUp] to 2 allies next turn (prioritizes Substituted units first, then in Deployment order)\n- Lasts for 1 additional turn for every 15 [DevyatDimensionalSackSinclair] (2 more turns max)",
-      "summary": ""
-    },
-    {
-      "id": 1101121,
-      "name": "Speedy Courier",
-      "desc": "When 1 ally with the fastest Speed hits an enemy with [Burst], inflict 1 [DefenseDown] (3 times per enemy per turn)",
-      "summary": ""
-    },
-    {
-      "id": 1031001,
-      "name": "Bloodfeast",
-      "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase Bloodfeast value by the amount of [Laceration] damage collectively received by every unit.\nWhen this unit enters the field, the sleeping blood drenching the battlefield will fill the surface.\n\nWhen consuming [BloodDinner], if there are <La Manchaland[TabExplain]> Kindreds of the same generation as this unit, this unit takes precedence.\n\nWhen using 'Variant Sancho Hardblood[TabExplain] Arts 6 - Whip', HP cannot drop below 1 due to Bleed damage."
-    },
-    {
-      "id": 1031002,
-      "name": "Variant Sancho Hardblood Arts",
-      "desc": "Turn Start: At 15+ [BloodArmorPersonalityFirst], if each following unit is either defeated or participating in the Encounter, empower this unit's leftmost Slot.\nThe Priest of La Manchaland[TabExplain] Gregor: Empower Skill 1\nThe Barber of La Manchaland[TabExplain] Outis: Empower Skill 2\nThis Unit: Empower Skill 3\nThe Princess of La Manchaland[TabExplain] Rodion: Empower Defense Skill[TabExplain]\n\nWhen other units among allies take [Laceration] damage or consume [BloodDinner], gain 2 [BloodArmorPersonalityFirst] on self (3 times per turn)"
-    },
-    {
-      "id": 1031003,
-      "name": "Bearer of the Blood Kin",
-      "desc": "In an Encounter, if an other allied <La Manchaland[TabExplain]> unit is defeated:\n- Gain 1 more [BloodArmorPersonalityFirst] when gaining [BloodArmorPersonalityFirst] from this unit's Base Attack Skills\n- When 3+ other allied <La Manchaland[TabExplain]> units are defeated: gain 3 additional [BloodArmorPersonalityFirst]; at Turn Start, gain 1 [SadLamanchaland]"
-    },
-    {
-      "id": 1031004,
-      "name": "Armadura de Sangre",
-      "desc": "After Attack: if the enemy is defeated, increase [BloodDinner] by 10% of the target's max HP (100 per turn; for Focused Encounters, if the Part is broken)\nGain 1 [AttackDmgUp] next turn for every 15% missing HP at Turn End (max 3)\nIf an ally is about to be defeated from [Laceration] damage, prevent them from being defeated from Bleed damage for the turn (once per Encounter for each Identity)"
-    },
-    {
-      "id": 1031021,
-      "name": "‘Feed your repressed hunger, my Family’",
-      "desc": "Combat Start: 1 ally with the least HP gains 1 [AttackDmgUp] for every 20% missing HP (max 3)\n- If the said ally is a <Bloodfiend>, gain 1 [AttackDmgUp] for every 15% missing HP instead (max 3)"
-    },
-    {
-      "id": 1061101,
-      "name": "Concentration",
-      "desc": "When flipping a Coin that consumes [Bullet]: even when this unit is out of [Bullet], the attack does not get canceled. However, the affected Coins' On Hit effects do not activate in such cases."
-    },
-    {
-      "id": 1061102,
-      "name": "Tactical Firearm Support",
-      "desc": "If the Full-Stop Office Fixer Heathcliff is in [Retreat_FullStop] state, or has been Deployed as a Backup unit, empower Full-Stop Office Rep. Hong Lu's Skill 2 and Skill 3"
-    },
-    {
-      "id": 1061111,
-      "name": "Tactical Fire Support",
-      "desc": "If the Full-Stop Office Fixer Heathcliff is in [Retreat_FullStop] state, or has been Deployed as a Backup unit, empower Full-Stop Office Rep. Hong Lu's Skill 2 and Skill 3\n\nCombat Start: at 20+ [Breath] Potency, gain +1 [Breath] Count"
-    },
-    {
-      "id": 1061121,
-      "name": "Suppressing Fire",
-      "desc": "Ally Identity with the most [Bullet] deals +10% more damage with Skills that spend [Bullet]\n(Does not activate when out of [Bullet])"
-    },
-    {
-      "id": 1071101,
-      "name": "Snipe",
-      "desc": "Encounter Start: gain 3 [PenetrateResultUp]\n\nTurn End: If this unit does not have any remaining [Bullet] of any kind, activate [Retreat_FullStop] (once per Encounter)\n\nIf this unit is Substituted in, or is rejoining battle after [Retreat_FullStop], gain max [LogicAtelierAM], 3 [PenetrateResultUp], and [FullReload] (except [Bullet_LogicAtelier]; once per Encounter)"
-    },
-    {
-      "id": 1071102,
-      "name": "Precision Aim",
-      "desc": "Turn End: gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\nTurn End: if this unit is not set to use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn."
-    },
-    {
-      "id": 1071103,
-      "name": "Snipe",
-      "desc": "Encounter Start: gain 3 [PenetrateResultUp]\n\n<style=\"highlight\">When this unit enters the Encounter, gain 1 [Bullet_LogicAtelier] (once per Encounter)</style>\n\nTurn End: If this unit does not have any remaining [Bullet] of any kind, activate [Retreat_FullStop] (once per Encounter)\n\nIf this unit is Substituted in, or is rejoining battle after [Retreat_FullStop], gain max [LogicAtelierAM], 3 [PenetrateResultUp], and [FullReload]\n(Except [Bullet_LogicAtelier]; once per Encounter)"
-    },
-    {
-      "id": 1071111,
-      "name": "Precision Aim",
-      "desc": "Turn End: gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\n<style=\"highlight\">Combat Start: if this unit is not set to use any Attack Skills (including E.G.O Skills), apply 3 [Breath] to 1 ally with the least Poise Potency</style>\n\nTurn End: if this unit did not use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn"
-    },
-    {
-      "id": 1071121,
-      "name": "Spotter",
-      "desc": "1 ally with the least [Bullet] gains +2 [Breath] Count when using a Skill that consumes [Bullet].\n- If the said ally is a Full-Stop Office Identity, or if they have less than 5 [Breath] Count, gain +4 [Breath] Count instead (once per turn; does not apply to units without [Bullet])"
-    },
-    {
-      "id": 1011101,
-      "name": "This is reflected in their appearance, more closely resembling the source Abnormality than E.G.O of the former L Corp. do",
-      "desc": "On death, inflict 4 [Burst] and +2 [Burst] Count against the target that attacked this unit last; then, gain 2 E.G.O resources for 4 least-owned E.G.O resources.\n- If no one attacked this unit, or if an ally killed this unit, inflict 4 [Burst] and +2 [Burst] Count against the enemy with the least [Burst] Count"
-    },
-    {
-      "id": 1011111,
-      "name": "This is reflected in their appearance, more closely resembling the source Abnormality than E.G.O of the former L Corp. do",
-      "desc": "On death, inflict <style=\"highlight\">5</style> [Burst] and +<style=\"highlight\">3</style> [Burst] Count against the target that attacked this unit last; then, gain 2 E.G.O resources for 4 least-owned E.G.O resources.\n- If no one attacked this unit, or if an ally killed this unit, inflict 5 [Burst] and +3 [Burst] Count against the enemy with the least [Burst] Count\n- If this unit is in a [GlowingLantern] state, inflict double the [Burst] potency with this effect"
-    },
-    {
-      "id": 1011121,
-      "name": "E.G.O disintegration is not unlike decomposition of compost",
-      "desc": "When 1 ally with the least HP is killed, gain 2 E.G.O resources for 2 E.G.O least-owned E.G.O resources"
-    },
-    {
-      "id": 1021101,
-      "name": "Fireproof",
-      "desc": "Cannot be Staggered or fall below 1 HP due to [Combustion] damage."
-    },
-    {
-      "id": 1021111,
-      "name": "Flame Moth",
-      "desc": "Combat Start: at 80%+ missing HP, and at less than 30 [Combustion], gain up to 30 [Combustion] (once per Encounter)\n\nTurn End: gain 1 [AttackUp] next turn for every 6 [Combustion] on self (max 5)\n\nOn death, activate the following:\n- Inflict 2 [Combustion] on all enemies; inflict Burn on self between all enemies (max 3 per enemy)\n- Gain 2 E.G.O resource for 2 least-owned E.G.O resources\n\nIf this unit died due to the A.B.S. Max Attunement 【Degraded Corrosion】 Skill, enhance the effect:\n- Inflict 3 [Combustion] on all enemies; inflict [Combustion] on self between all enemies (max 5 per enemy)\n- Gain 2 E.G.O resource for 2 least-owned E.G.O resources\n- If this unit had 30+ Burn, apply 3 [AttackUp] to 1 ally that gets Substituted in"
-    },
-    {
-      "id": 1021121,
-      "name": "Residual Heat",
-      "desc": "When 1 ally with the least SP inflicts [Combustion] with a Base Attack Skill's On Hit effect, inflict 2 additional [Combustion] (3 times max)\n- If the target the ally is attacking has 30+ Burn, inflict +1 Burn Count instead (3 times max)"
-    },
-    {
-      "id": 1071201,
-      "name": "Dark Cloud Blade",
-      "desc": "When there are 2+ allied Kurokumo Clan Identities on the field, including this unit, gain 1 [BlackCloudBlade] (max 1)\n\nAgainst enemies that, in this turn, used Defense Skills or were at max HP before attacking: deal +10% more damage\n\nIf an enemy attacked an other ally with a Skill and dealt damage this turn: use an Unopposed Attack against the attacker with Skill 1 (once per turn)",
-      "summary": "Gain [BlackCloudBlade]; deal more damage against enemies that were at max HP or used a Defense Skill; counterattack when an ally is attacked"
-    },
-    {
-      "id": 1071202,
-      "name": "Battle Ready",
-      "desc": "When a Kurokumo Clan ally dies, gain 1 [SlashResultUp] for this Encounter\n\nWhen 3 or more Kurokumo Clan allies are defeated, gain [EngageToBattle] for this Encounter"
-    },
-    {
-      "id": 1071211,
-      "name": "Dark Cloud Blade",
-      "desc": "When there are 2+ allied Kurokumo Clan Identities on the field, including this unit, gain 1 [BlackCloudBlade] (max 1)\n\nAgainst enemies that, in this turn, used Defense Skills or were at max HP before attacking: deal +10% more damage\n\nIf an enemy attacked an other ally with a Skill and dealt damage this turn: use an Unopposed Attack against the attacker with Skill 1 (once per turn)\n\n<style=\"highlight\">If the enemy killed an other ally, or if the said ally's HP is at less than 25% after the enemy's attack, use an Unopposed Attack against the attacker with <Rules of the Backstreets> instead (once per ally; 2 times per turn; the Skill activated with this effect counts as an Attack Skill)</style>",
-      "summary": "Gain [BlackCloudBlade]; deal more damage against enemies that were at max HP or used a Defense Skill; counterattack when an ally is attacked"
-    },
-    {
-      "id": 1071221,
-      "name": "Impale",
-      "desc": "1 ally with the fastest Speed: against enemies that used Defense Skills or were at max HP before attacking this turn: deal +10% more damage"
-    },
-    {
-      "id": 1081101,
-      "name": "Gathering Dark Clouds",
-      "desc": "Combat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard",
-      "summary": "Gain [BlackCloudBlade]; apply [BlackCloud] to allied Kurokumo Clan Identities"
-    },
-    {
-      "id": 1081102,
-      "name": "Battle Ready",
-      "desc": "When a Kurokumo Clan ally dies, gain 1 [SlashResultUp] for this Encounter\n\nWhen 3 or more Kurokumo Clan allies are defeated, gain [EngageToBattle] for this Encounter"
-    },
-    {
-      "id": 1081111,
-      "name": "Gathering Dark Clouds",
-      "desc": "Combat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard\n<style=\"highlight\">- At 4+ Lust Reson., apply 1 [BlackCloud] to all other Kurokumo Clan allies</style>",
-      "summary": "Gain [BlackCloudBlade]; apply [BlackCloud] to allied Kurokumo Clan Identities"
-    },
-    {
-      "id": 1081121,
-      "name": "Cloud Workshop Blade",
-      "desc": "1 ally with the fastest Speed inflicts +1 more [Laceration] Potency or Count with Skill and Coin effects against enemies"
-    },
-    {
-      "id": 1011201,
-      "name": "Inner Ardor",
-      "desc": "Turn End: heal 1 ally with the least SP by (5 + highest Reson.) (max 10) (excludes: self and Panicked or E.G.O Corroded allies)\n- If the said ally has Base Skills that inflict [Combustion] Potency or Count, heal 5 additional SP to them"
-    },
-    {
-      "id": 1011211,
-      "name": "Inner Ardor",
-      "desc": "Turn End: heal 1 ally with the least SP by (5 + highest Reson.) (max 10) (excludes: self and Panicked or E.G.O Corroded allies)\n- If the said ally has Base Skills that inflict [Combustion] Potency or Count, heal 5 additional SP to them\n- At 4+ Wrath Reson., heal 1 additional ally"
-    },
-    {
-      "id": 1011221,
-      "name": "Liu Defensive Square",
-      "desc": "For 2 allies with the least SP: if they lost SP this turn, heal 5 SP at Turn End"
-    },
-    {
-      "id": 1011231,
-      "name": "Liu Defensive Square",
-      "desc": "For 2 allies with the least SP: if they lost SP this turn, heal 5 SP at Turn End\n- If the said allies have Base Skills that inflict [Combustion] Potency or Count, heal 5~10 SP instead"
-    },
-    {
-      "id": 1121102,
-      "name": "District 12 Special Workshop Fuel",
-      "desc": "Begin Encounters with 100 [FirePunchFuel]\n- At over 50 Stack, become [FirePunchFuel]\n- At 50 or less Stack, any [FirePunchFuel] becomes [FirePunchFuelOverheated]"
-    },
-    {
-      "id": 1121101,
-      "name": "I'm the only survivor...",
-      "desc": "Deal +0.2% more damage for every [FirePunchFuel] and [FirePunchFuelOverheated] this unit consumed in this Encounter (max 40%)\n- If the main target is a <Bloodfiend>, <Bloodbag>, or if their sum of [Combustion] and [Combustion] Count is 30+, deal +0.3% more damage instead (max 60%)\n\nAt 1+ [FirePunchFuel] or [FirePunchFuelOverheated], if this unit Staggers or defeats enemies with [Combustion], inflict +2 [Combustion] Count against 2 random enemies without [Combustion] or with the least [Combustion] Count (once per turn)\n- For Focused Encounters, on Parts"
-    },
-    {
-      "id": 1121121,
-      "name": "I hope they're from our Office...",
-      "desc": "1 ally with the fastest Speed: On Hit, deal +5% more Wrath Damage for every 6 [Combustion] on the target (max 20%)"
-    },
-    {
-      "id": 1031101,
-      "name": "Virescent Pyrojade",
-      "desc": "Turn End: gain 1 [Agility] next turn for every 5 [Breath] Potency on self (max 2)\n\nAgainst the target(or the Part) a Base Attack Skill hit last, inflict [DianxueDonQuixote] next turn (once per turn)\n\nDeal +([Combustion] Potency on the target)% more damage on Critical Hit (max 15%)"
-    },
-    {
-      "id": 1031111,
-      "name": "Virescent Pyrojade",
-      "desc": "Turn End: gain 1 [Agility] next turn for every <style=\"highlight\">3</style> [Breath] Potency on self (max 2)\n\nAgainst the target(or the Part) a Base Attack Skill hit last, inflict [DianxueDonQuixote] next turn (once per turn)\n\nDeal +([Combustion] Potency on the target)% more damage on Critical Hit (max 15%)\n<style=\"highlight\">- Increase max cap by 5% for every 1 [DianxueDonQuixote] on the target</style>"
-    },
-    {
-      "id": 1031121,
-      "name": "Featherstride Technique",
-      "desc": "1 ally with the fastest Speed : On Clash Win against enemies with [Combustion] or 'Unique Burn', gain 1 [Agility] next turn (once per turn)"
-    },
-    {
-      "id": 1031131,
-      "name": "Featherstride Technique",
-      "desc": "1 ally with the fastest Speed : On Clash Win against enemies with [Combustion] or 'Unique Burn', gain 1 [Agility] next turn (once per turn)\n<style=\"highlight\">- If the target has 20+ [Combustion] Potency, gain 1 additional [Agility]</style>"
-    },
-    {
-      "id": 1041101,
-      "name": "Heishou Mutation [Mao]",
-      "desc": "If this unit has [LegStrength], deal +5% more damage"
-    },
-    {
-      "id": 1041111,
-      "name": "Heishou Mutation [Mao]",
-      "desc": "If this unit has [LegStrength], deal +5% more damage\nIf the target has [BurstAgility], deal +5% more damage"
-    },
-    {
-      "id": 1041121,
-      "name": "Partial Heishou Mutation Training",
-      "desc": "Turn End: 1 ally with the fastest Speed gains 2 [Agility] next turn"
-    },
-    {
-      "id": 1111201,
-      "name": "Heishou Mutation [Mao]",
-      "desc": "If this unit has [LegStrength] and the target has [BurstAgility], deal +5% more damage for every [LegStrength] (max 15%)"
-    },
-    {
-      "id": 1111221,
-      "name": "A Husk of Hares",
-      "desc": "1 ally with the fastest Speed: when attacking targets with [Burst], deal +10% more damage\nGain 1 [Agility] next turn (once per turn)"
-    },
-    {
-      "id": 1101201,
-      "name": "The Middle Never Forgets",
-      "desc": "When hit by an enemy, inflict 3 [VendettaMark] against the attacker(or Part) (once per turn)\n\nWhen an other ally is hit by an enemy, inflict 2 [VendettaMark] against the attacker(or Part) (once per turn per Identity)\n\nAfter Attacking with Base Attack Skills or Counter Skills, consume all [VendettaMark] on the target\n- Every time the target consumes [VendettaMark], gain [VengeanceBookSinclair] equal to the amount consumed"
-    },
-    {
-      "id": 1101211,
-      "name": "The Middle Never Forgets",
-      "desc": "When hit by an enemy, inflict <style=\"highlight\">5</style> [VendettaMark] against the attacker(or Part) (once per turn)\n\nWhen an other ally is hit by an enemy, inflict 2 [VendettaMark] against the attacker(or Part) (once per turn per Identity)\n<style=\"highlight\">- If the said ally is from the Middle, inflict 3 additional [VendettaMark]</style>\n\nAfter Attacking with Base Attack Skills or Counter Skills, consume all [VendettaMark] on the target\n- Every time the target consumes [VendettaMark], gain [VengeanceBookSinclair] equal to the amount consumed"
-    },
-    {
-      "id": 1101221,
-      "name": "We've Got Your Back",
-      "desc": "Combat Start: 1 ally with the least current HP percentage gains 2 [DefenseUp]"
-    },
-    {
-      "id": 1101231,
-      "name": "We've Got Your Back",
-      "desc": "Combat Start: 1 ally with the least current HP percentage gains 2 [DefenseUp]\n<style=\"highlight\">- If the said ally is from the Middle, also gain 2 [AttackUp]</style>"
-    }
+   {
+  "id": 1051111,
+  "name": "Düello Canlı Yayını",
+  "desc": "Tur Sonunda: Üzerindeki her 3 [Breath] Gücü için sonraki tur 1 [Agility] kendine uygulanır (maksimum 2)\nTemel Saldırı Becerileriyle İsabet Alındığında: sonraki tur için [ConcentratedAttackMeursault] uygular (her Beceri için bir kez)\n<style=\"highlight\">Bu birlik [ConcentratedAttackMeursault] olan Yuva'yı hedef alıp sahibini mağlup ettiyse veya Parçayı kırdıysa, 7 SP iyileşir</style>",
+  "summary": "Tur Sonu: üzerindeki [Breath] miktarına göre [Agility] kendine uygulanır. Temel Beceriyle isabet ettirince, sonraki tur için [ConcentratedAttackMeursault] uygular. Öldürünce SP iyileştirir"
+},
+{
+  "id": 1051121,
+  "name": "Bir Adım Önde",
+  "desc": "En hızlı müttefik, Çatışma Kazanıldığında, sonraki tur için 1 [Agility] kendine uygular (tur başına 2 kez)",
+  "summary": "En hızlı müttefik, Çatışma Kazandığında, sonraki tur için 1 [Agility] kendine uygular"
+},
+{
+  "id": 1061001,
+  "name": "Neşeyle Avlanma Yolları",
+  "desc": "Hedef bir <Kan Hınzırı> ya da <Kan Torbası> ise %10 daha fazla hasar verilir\nBeceri Kullanımında, bu birlik [Laceration] taşıyorsa, İsabet Aldığında 3 [Burst] uygular (tur başına bir kez)",
+  "summary": ""
+},
+{
+  "id": 1061011,
+  "name": "Neşeyle Avlanma Yolları",
+  "desc": "Hedef bir <Kan Hızır>, <Kan Torbası> ya da üzerinde 10+ [Burst] varsa, %10 daha fazla hasar verilir\nBeceri Kullanımında, bu birlik [Laceration] taşıyorsa, İsabet Aldığında 3 [Burst] uygular (tur başına 2 kez)",
+  "summary": ""
+},
+{
+  "id": 1061021,
+  "name": "Kan Hınzırları Avlama El Kitabı - Kan Durdurucular",
+  "desc": "Savaş Başlangıcı: [Laceration] Gücü ve miktarı toplamı en yüksek olan 1 müttefik, 2 [Laceration] miktarı kaybeder\nEn hızlı Hıza sahip 1 müttefik, [Burst] taşıyan bir düşmana isabet ettiğinde, 1 [DefenseDown] uygular (tur başına 2 kez)",
+  "summary": ""
+},
+   {
+  "id": 1111101,
+  "name": "YANLIŞ KOSTÜM!!!",
+  "desc": "Vuruşta, her 10 [BloodDinner_Accumulation] için +%1 daha fazla Hasar verilir (maksimum %20)",
+  "summary": "Tüketilen Kan Şöleni miktarına bağlı olarak daha fazla Hasar verilir"
+},
+{
+  "id": 1111111,
+  "name": "YANLIŞ KOSTÜM!!!",
+  "desc": "[LineCuttingPersonality] ile Çatışmada, Çatışma Gücü +1.\nVuruşta, her 10 [BloodDinner_Accumulation] için +%1.5 daha fazla Hasar verilir (maksimum %30)\nVuruşta, hedefteki her [Laceration] için +%0.5 daha fazla Hasar verilir (maksimum %10)",
+  "summary": "Dikilmesi gereken Kişilik ile Çatışmada, Çatışma Gücü +1"
+},
+{
+  "id": 1111102,
+  "name": "Kan Şöleni",
+  "desc": "Bu birlik sahadaysa veya bu Sahnede görünebilecek birliklerden biriyse, her bir birliğin topluca aldığı [Laceration] Hasarı kadar [BloodDinner] değeri artar.\nBu birlik sahaya girdiğinde, savaş alanını sırılsıklam eden uyuyan kan yüzeye çıkar.",
+  "summary": ""
+},
+{
+  "id": 1111121,
+  "name": "Don Quixote Sertkan Sanatları 8: Makas",
+  "desc": "Hızı en yüksek olan 1 müttefik: Düşman Saldırı Sonrası ölürse, 10 Can iyileştirilir (tur başına 2 kez)\nHızı en yüksek olan 1 müttefik: Düşman Saldırı Sonrası ölürse, bir sonraki turda Beceri veya Tura etkileriyle [Laceration] Şiddeti uygulanırken +1 [Laceration] miktarı uygulanır (tur başına 3 kez)",
+  "summary": "Düşman Saldırı Sonrası ölürse, Can iyileştirilir"
+},
+{
+  "id": 1121001,
+  "name": "Kendini Yok Eden Adanmışlık",
+  "desc": "Tur Sonu: (10 - [WornHeartGreg])/2 kadar SP, en az SP'ye sahip müttefiğe iyileştirilir (kendisi, Paniklemiş ya da Bozulmuş müttefikler hariç; aşağı yuvarlanır)\nBu Karşılaşmada, bu birlik HP'si 0’a düşecek şekilde Hasar alırsa, bu Hasar etkisiz hâle getirilir; ardından, bu birliğin HP'si o tur boyunca 1’in altına düşemez. (Karşılaşma başına bir kez)",
+  "summary": ""
+},
+{
+  "id": 1121002,
+  "name": "Kan Şöleni",
+  "desc": "Bu birlik sahadaysa veya bu Sahnede görünebilecek birliklerden biriyse, her bir birliğin topluca aldığı [Laceration] Hasarı kadar [BloodDinner] değeri artar.\nBu birlik sahaya girdiğinde, savaş alanını sırılsıklam eden uyuyan kan yüzeye çıkar.",
+  "summary": ""
+},
+{
+  "id": 1121011,
+  "name": "Kendini Yok Eden Adanmışlık",
+  "desc": "Tur Sonu: (10 - [WornHeartGreg]) kadar SP, en az SP'ye sahip müttefiğe iyileştirilir (kendisi, Paniklemiş ya da Bozulmuş müttefikler hariç)\nBu Karşılaşmada, bu birlik HP'si 0’a düşecek şekilde Hasar alırsa, bu Hasar etkisiz hâle getirilir; ardından, bu birliğin HP'si o tur boyunca 1’in altına düşemez. (Karşılaşma başına bir kez)",
+  "summary": ""
+},
+    {
+  "id": 1121021,
+  "name": "Don Quixote Sertkan Sanatları 6: Kırbaç",
+  "desc": "Can yüzdesi en düşük olan 1 müttefik, Vuruşta 3 Can iyileştirir (tur başına 3 kez)",
+  "summary": ""
+},
+{
+  "id": 1121031,
+  "name": "Don Quixote Sertkan Sanatları 6: Kırbaç",
+  "desc": "Can yüzdesi en düşük olan 1 müttefik, Vuruşta 3 Can iyileştirir (tur başına 3 kez)\n- Eğer ilgili müttefiğin vurduğu hedefte [Laceration] varsa, fazladan 3 Can iyileştirilir",
+  "summary": ""
+},
+{
+  "id": 1091101,
+  "name": "Sertkan Diken",
+  "desc": "Başka bir müttefik [Laceration] Hasarı aldığında veya [BloodDinner] tükettiğinde, 1 [BloomingThornsRodionFirst] kazanılır (tur başına 3 kez)\nTemel Becerilerle verilen Hasarın %20’si kadar Can kendine iyileştirilir (Beceri başına maksimum 10)",
+  "summary": ""
+},
+{
+  "id": 1091102,
+  "name": "Kan Şöleni",
+  "desc": "Bu birlik sahadaysa veya bu Sahnede görünebilecek birliklerden biriyse, her bir birliğin topluca aldığı [Laceration] Hasarı kadar [BloodDinner] değeri artar.\nBu birlik sahaya girdiğinde, savaş alanını sırılsıklam eden uyuyan kan yüzeyi kaplar.",
+  "summary": ""
+},
+{
+  "id": 1091111,
+  "name": "Sertkan Diken",
+  "desc": "Başka bir müttefik [Laceration] Hasarı aldığında veya [BloodDinner] tükettiğinde, bu birlik 1 [BloomingThornsRodionFirst] kazanır (tur başına 5 kez)\nTemel Becerilerle verilen Hasarın %20’si kadar Can kendine iyileştirilir (Beceri başına maksimum 10)\n- Maksimum Can'dayken, fazladan iyileştirme ile Can yüzdesi en düşük olan 1 müttefik iyileştirilir",
+  "summary": ""
+},
+{
+  "id": 1091121,
+  "name": "\"Kanla Filizlen...\"",
+  "desc": "Tur Sonunda, [Laceration] Şiddeti en yüksek olan 1 müttefiğe: müttefiğin [Laceration] Şiddeti maksimum 6 azaltılır ve (Azaltılan Kanama Şiddeti / 2) kadar [BloomingThornsRodionFirst] uygulanır (aşağı yuvarlanır)",
+  "summary": ""
+},
+{
+  "id": 1101101,
+  "name": "Bir saniye, lütfen...",
+  "desc": "Tur Başlangıcı: Hız 6+ olduğunda veya bu birlik [Agility] taşıyorsa, ([DevyatDimensionalSackSinclair])% maksimum Can değeri kadar Kalkan kazanılır (maksimum %20)",
+  "summary": ""
+},
+{
+  "id": 1101102,
+  "name": "Bir dahaki sefere daha iyi olacağım...",
+  "desc": "<Zincirli Savaşlar için> '[Retreat]' ile Geri Çekildikten sonra bu birlik savaşa geri dönerse, [DevyatDimensionalSackSinclair] değeri yarıya düşürülür (Karşılaşma başına bir kez, yukarı yuvarlanır)",
+  "summary": ""
+},
+{
+  "id": 1101111,
+  "name": "Bir saniye, lütfen...",
+  "desc": "Tur Başlangıcı: Hız 6+ olduğunda veya bu birlik [Agility] taşıyorsa, ([DevyatDimensionalSackSinclair])% maksimum Can değeri kadar Kalkan kazanılır (maksimum %20)\nGeri Çekilme sırasında, bir sonraki tur 2 müttefiğe 1 [ParryingResultUp] uygulanır (öncelik: Yerine Geçen birimler, ardından Sıralı Dağıtım)\n- Her 15 [DevyatDimensionalSackSinclair] için 1 tur fazladan sürer (en fazla 2 tur)",
+  "summary": ""
+},
+   {
+  "id": 1101121,
+  "name": "Hızlı Kurye",
+  "desc": "En yüksek Hız değerine sahip 1 müttefik [Burst] ile bir düşmana isabet ettiğinde, 1 [DefenseDown] uygular (her düşman için tur başına 3 kez)"
+},
+{
+  "id": 1031001,
+  "name": "Kan Şöleni",
+  "desc": "Bu birim sahadaysa veya bu Aşamada ortaya çıkabilecek bir birimse, tüm birimlerin topluca aldığı [Laceration] hasarı kadar Kan Şöleni değeri artar.\nBu birim sahaya girdiğinde, savaş alanını sırılsıklam eden uyuyan kan yüzeye çıkar.\n\n[BloodDinner] tüketildiğinde, bu birimle aynı nesilden <La Manchaland[TabExplain]> Akrabaları varsa, öncelik bu birime verilir.\n\n'Variant Sancho Hardblood[TabExplain] Arts 6 - Whip' kullanılırken, HP, Kanama hasarıyla 1'in altına düşemez."
+},
+{
+  "id": 1031002,
+  "name": "Variant Sancho Hardblood Sanatları",
+  "desc": "Tur Başlangıcı: 15+ [BloodArmorPersonalityFirst] varsa ve aşağıdaki her bir birim ya yenilmişse ya da karşılaşmaya katılıyorsa, bu birimin en soldaki Yuvası güçlendirilir.\nLa Manchaland[TabExplain] Rahibi Gregor: Beceri 1 güçlendirilir\nLa Manchaland[TabExplain] Berberi Outis: Beceri 2 güçlendirilir\nBu Birim: Beceri 3 güçlendirilir\nLa Manchaland[TabExplain] Prensesi Rodion: Savunma Becerisi[TabExplain] güçlendirilir\n\nMüttefik birimler [Laceration] hasarı aldığında veya [BloodDinner] tükettiğinde, bu birim 2 [BloodArmorPersonalityFirst] kazanır (tur başına 3 kez)"
+},
+{
+  "id": 1031003,
+  "name": "Kan Akrabalarının Taşıyıcısı",
+  "desc": "Bir karşılaşmada, başka bir <La Manchaland[TabExplain]> müttefik birim yenilirse:\n- Bu birimin Temel Saldırı Becerileriyle [BloodArmorPersonalityFirst] kazanırken 1 fazladan kazanılır\n- 3 veya daha fazla başka <La Manchaland[TabExplain]> müttefik birim yenilirse: 3 ek [BloodArmorPersonalityFirst] kazanılır; Tur Başlangıcında 1 [SadLamanchaland] kazanılır"
+},
+{
+  "id": 1031004,
+  "name": "Kan Zırhı",
+  "desc": "Saldırı Sonrası: düşman yenilirse, hedefin maksimum HP’sinin %10’u kadar [BloodDinner] artar (tur başına 100; Odaklı Karşılaşmalarda, parça kırılmışsa)\nTur Sonunda eksik HP’nin her %15’i için sonraki turda 1 [AttackDmgUp] kazanılır (maksimum 3)\nBir müttefik [Laceration] hasarıyla yenilmek üzereyse, o tur için Kanama hasarıyla yenilmesi engellenir (her Kişilik için karşılaşma başına bir kez)"
+},
+{
+  "id": 1031021,
+  "name": "‘Bastırılmış açlığını doyur, Ailem’",
+  "desc": "Savaş Başlangıcı: En az HP'ye sahip 1 müttefik, eksik her %20 HP için 1 [AttackDmgUp] kazanır (maksimum 3)\n- Eğer söz konusu müttefik bir <Kan Hınzırı> ise, her eksik %15 HP için 1 [AttackDmgUp] kazanır (maksimum 3)"
+},
+{
+  "id": 1061101,
+  "name": "Konsantrasyon",
+  "desc": "[Bullet] tüketen bir Yazı Tura atılırken: bu birim [Bullet]’sız olsa bile saldırı iptal edilmez. Ancak, etkilenen Turaların İsabet Etme etkileri bu durumda tetiklenmez."
+},
+{
+  "id": 1061102,
+  "name": "Taktik Ateş Desteği",
+  "desc": "Full-Stop Ofisi İşçözücüsü Heathcliff [Retreat_FullStop] durumundaysa ya da Yedek birim olarak konuşlandırılmışsa, Full-Stop Ofisi Temsilcisi Hong Lu’nun Beceri 2 ve Beceri 3’ü güçlendirilir"
+},
+{
+  "id": 1061111,
+  "name": "Taktik Ateş Desteği",
+  "desc": "Full-Stop Ofisi İşçözücüsü Heathcliff [Retreat_FullStop] durumundaysa ya da Yedek birim olarak konuşlandırılmışsa, Full-Stop Ofisi Temsilcisi Hong Lu’nun Beceri 2 ve Beceri 3’ü güçlendirilir\n\nSavaş Başlangıcı: 20+ [Breath] Kuvveti varsa, +1 [Breath] miktarı kazanılır"
+},
+{
+  "id": 1061121,
+  "name": "Bastırıcı Ateş",
+  "desc": "En fazla [Bullet] sayısına sahip müttefik Kişilik, [Bullet] tüketen Becerilerle %10 daha fazla hasar verir\n([Bullet] yokken tetiklenmez)"
+},
+{
+  "id": 1071101,
+  "name": "Keskin Nişancı",
+  "desc": "Karşılaşma Başlangıcı: 3 [PenetrateResultUp] kazanılır\n\nTur Sonu: Bu birimin hiçbir türde [Bullet] kalmadıysa, [Retreat_FullStop] tetiklenir (karşılaşma başına bir kez)\n\nBu birim yedeğe alınıp geri dönerse veya [Retreat_FullStop] sonrası yeniden savaşa katılırsa, maksimum [LogicAtelierAM], 3 [PenetrateResultUp] ve [FullReload] kazanır\n([Bullet_LogicAtelier] hariç; karşılaşma başına bir kez)"
+},
+{
+  "id": 1071102,
+  "name": "Keskin Hedefleme",
+  "desc": "Tur Sonu: Bu birimin üzerinde her 10 [Breath] için sonraki turda 1 [Agility] kazanılır (maksimum 2)\n\nTur Sonu: Bu birim hiçbir Saldırı Becerisi (E.G.O Becerileri dahil, [CoveringFire] hariç) kullanmayacaksa, 10 [Breath] ve 1 [PenetrateResultUp] kazanılır"
+},
+{
+  "id": 1071103,
+  "name": "Keskin Nişancı",
+  "desc": "Karşılaşma Başlangıcı: 3 [PenetrateResultUp] kazanılır\n\n<style=\"highlight\">Bu birim karşılaşmaya katıldığında 1 [Bullet_LogicAtelier] kazanılır (karşılaşma başına bir kez)</style>\n\nTur Sonu: Bu birimin hiçbir türde [Bullet] kalmadıysa, [Retreat_FullStop] tetiklenir (karşılaşma başına bir kez)\n\nBu birim yedeğe alınıp geri dönerse veya [Retreat_FullStop] sonrası savaşa katılırsa, maksimum [LogicAtelierAM], 3 [PenetrateResultUp] ve [FullReload] kazanır\n([Bullet_LogicAtelier] hariç; karşılaşma başına bir kez)"
+},
+{
+  "id": 1071111,
+  "name": "Keskin Hedefleme",
+  "desc": "Tur Sonu: Bu birimin üzerinde her 10 [Breath] için sonraki turda 1 [Agility] kazanılır (maksimum 2)\n\n<style=\"highlight\">Savaş Başlangıcı: Bu birim herhangi bir Saldırı Becerisi (E.G.O dahil) kullanmayacaksa, en az Denge Kuvvetine sahip 1 müttefike 3 [Breath] uygulanır</style>\n\nTur Sonu: Bu birim herhangi bir Saldırı Becerisi kullanmadıysa (E.G.O dahil, [CoveringFire] hariç), 10 [Breath] ve 1 [PenetrateResultUp] kazanılır"
+},
+{
+  "id": 1071121,
+  "name": "Gözcü",
+  "desc": "En az [Bullet] sayısına sahip 1 müttefik, [Bullet] tüketen bir Beceri kullandığında +2 [Breath] miktarı kazanır.\n- Eğer söz konusu müttefik bir Full-Stop Ofisi Kişiliği ise ya da [Breath] miktarı 5'in altındaysa, bunun yerine +4 [Breath] miktarı kazanılır (tur başına bir kez; [Bullet] olmayan birimler için geçerli değildir)"
+},
+{
+  "id": 1011101,
+  "name": "Görünüşleri, eski L Corp.'un E.G.O'larından ziyade kaynak Anomaliye daha çok benzerlik gösterir",
+  "desc": "Ölüm anında, bu birime son saldırıyı yapan hedefe 4 [Burst] ve +2 [Burst] miktarı uygulanır; ardından, en az sahip olunan 4 E.G.O kaynağından 2'şer tane kazanılır.\n- Bu birime kimse saldırmadıysa ya da bir müttefik öldürdüyse, en az [Burst] miktarına sahip düşmana 4 [Burst] ve +2 [Burst] miktarı uygulanır"
+},
+{
+  "id": 1011111,
+  "name": "Görünüşleri, eski L Corp.'un E.G.O'larından ziyade kaynak Anomaliye daha çok benzerlik gösterir",
+  "desc": "Ölüm anında, bu birime son saldırıyı yapan hedefe <style=\"highlight\">5</style> [Burst] ve +<style=\"highlight\">3</style> [Burst] miktarı uygulanır; ardından, en az sahip olunan 4 E.G.O kaynağından 2'şer tane kazanılır.\n- Bu birime kimse saldırmadıysa ya da bir müttefik öldürdüyse, en az [Burst] miktarına sahip düşmana 5 [Burst] ve +3 [Burst] miktarı uygulanır\n- Bu birim [GlowingLantern] durumundaysa, bu etkinin [Burst] kuvveti iki katına çıkar"
+},
+    {
+  "id": 1011121,
+  "name": "E.G.O bozulumu, kompostun ayrışmasından farksızdır",
+  "desc": "En az Can'a sahip 1 müttefik öldüğünde, en az sahip olunan 2 E.G.O kaynağı için 2 E.G.O kaynağı kendine uygulanır"
+},
+{
+  "id": 1021101,
+  "name": "Ateşe Dayanıklı",
+  "desc": "[Combustion] hasarından ötürü Sersemletilemez veya Can'ı 1'in altına düşemez."
+},
+{
+  "id": 1021111,
+  "name": "Alev Güvesi",
+  "desc": "Savaş Başlangıcı: Eksik Can'ı %80+ olan ve [Combustion] 30'dan az olan bu birim, 30'a kadar [Combustion] kazanır (Karşılaşma başına bir kez)\n\nTur Sonu: Üzerindeki her 6 [Combustion] için bir sonraki tur 1 [AttackUp] kazanır (maksimum 5)\n\nÖldüğünde, aşağıdakiler etkinleşir:\n- Tüm düşmanlara 2 [Combustion] uygula; kendine tüm düşmanlar arasında Yanma uygula (düşman başına maksimum 3)\n- En az sahip olunan 2 E.G.O kaynağı için 2 E.G.O kaynağı kendine uygulanır\n\nBu birim, A.B.S. Maksimum Uyumlu 【Degraded Corrosion】 Yeteneği nedeniyle öldüyse, etki güçlenir:\n- Tüm düşmanlara 3 [Combustion] uygula; kendine tüm düşmanlar arasında [Combustion] uygula (düşman başına maksimum 5)\n- En az sahip olunan 2 E.G.O kaynağı için 2 E.G.O kaynağı kendine uygulanır\n- Bu birimin üzerinde 30+ Yanma varsa, yerini alacak 1 müttefike 3 [AttackUp] uygula"
+},
+{
+  "id": 1021121,
+  "name": "Kalıcı Isı",
+  "desc": "En az SP'ye sahip 1 müttefik, Temel Saldırı Yeteneğinin Vuruş Etkisi ile [Combustion] uyguladığında, fazladan 2 [Combustion] uygula (maksimum 3 kez)\n- Eğer hedefin üzerinde 30+ Yanma varsa, bunun yerine +1 Yanma Miktarı uygula (maksimum 3 kez)"
+},
+{
+  "id": 1071201,
+  "name": "Kara Bulut Kılıcı",
+  "desc": "Bu birim dâhil olmak üzere sahada 2 veya daha fazla Kurokumo Klanı Kişiliği varsa, 1 [BlackCloudBlade] kazanılır (maksimum 1)\n\nBu tur Savunma Yeteneği kullananlara veya saldırmadan önce maksimum Can'a sahip olanlara karşı %10 daha fazla hasar verilir\n\nBir düşman bu tur başka bir müttefike Saldırı Yeteneğiyle hasar verdiyse: saldırana karşı Yetenek 1 ile Cevapsız Saldırı yapılır (tur başına bir kez)"
+},
+{
+  "id": 1071202,
+  "name": "Savaşa Hazır",
+  "desc": "Bir Kurokumo Klanı müttefiki öldüğünde, bu Karşılaşma için 1 [SlashResultUp] kazanılır\n\n3 veya daha fazla Kurokumo Klanı müttefiki mağlup olduğunda, bu Karşılaşma için [EngageToBattle] kazanılır"
+},
+{
+  "id": 1071211,
+  "name": "Kara Bulut Kılıcı",
+  "desc": "Bu birim dâhil olmak üzere sahada 2 veya daha fazla Kurokumo Klanı Kişiliği varsa, 1 [BlackCloudBlade] kazanılır (maksimum 1)\n\nBu tur Savunma Yeteneği kullananlara veya saldırmadan önce maksimum Can'a sahip olanlara karşı %10 daha fazla hasar verilir\n\nBir düşman bu tur başka bir müttefike Saldırı Yeteneğiyle hasar verdiyse: saldırana karşı Yetenek 1 ile Cevapsız Saldırı yapılır (tur başına bir kez)\n\n<style=\"highlight\">Düşman başka bir müttefiki öldürdüyse veya saldırı sonrası müttefikin Can'ı %25'in altına düştüyse: saldırana karşı <Rules of the Backstreets> ile Cevapsız Saldırı yapılır (müttefik başına bir kez; tur başına 2 kez; bu etkiyle etkinleşen Yetenek bir Saldırı Yeteneği sayılır)</style>"
+},
+{
+  "id": 1071221,
+  "name": "Saplama",
+  "desc": "En hızlı Hıza sahip 1 müttefik: bu tur Savunma Yeteneği kullananlara veya saldırmadan önce maksimum Can'a sahip düşmanlara karşı %10 daha fazla hasar verir"
+},
+{
+  "id": 1081101,
+  "name": "Toplanan Kara Bulutlar",
+  "desc": "Savaş Başlangıcı: Bu birim dâhil olmak üzere bu Karşılaşmada 2 veya daha fazla Kurokumo Klanı Kişiliği varsa, 1 [BlackCloudBlade] kazanılır\n\nSavaş Başlangıcı: Bu birimin Dashboard üzerindeki bitişik Kurokumo Klanı Kişiliklerine 1 [BlackCloud] uygulanır"
+},
+{
+  "id": 1081102,
+  "name": "Savaşa Hazır",
+  "desc": "Bir Kurokumo Klanı müttefiki öldüğünde, bu Karşılaşma için 1 [SlashResultUp] kazanılır\n\n3 veya daha fazla Kurokumo Klanı müttefiki mağlup olduğunda, bu Karşılaşma için [EngageToBattle] kazanılır"
+},
+{
+  "id": 1081111,
+  "name": "Toplanan Kara Bulutlar",
+  "desc": "Savaş Başlangıcı: Bu birim dâhil olmak üzere bu Karşılaşmada 2 veya daha fazla Kurokumo Klanı Kişiliği varsa, 1 [BlackCloudBlade] kazanılır\n\nSavaş Başlangıcı: Bu birimin Dashboard üzerindeki bitişik Kurokumo Klanı Kişiliklerine 1 [BlackCloud] uygulanır\n<style=\"highlight\">- 4+ Lust Rezonansı olduğunda, diğer tüm Kurokumo Klanı müttefiklerine 1 [BlackCloud] uygulanır</style>"
+},
+{
+  "id": 1081121,
+  "name": "Bulut Atölyesi Kılıcı",
+  "desc": "En hızlı Hıza sahip 1 müttefik: düşmanlara karşı Yetenek ve Tura Gücü etkileriyle +1 [Laceration] Etkisi veya Miktarı uygular"
+},
+{
+  "id": 1011201,
+  "name": "İçsel Ateş",
+  "desc": "Tur Sonu: En az SP'ye sahip 1 müttefiki (5 + en yüksek Rezonans) kadar iyileştir (maksimum 10) (hariç tutulanlar: kendisi ve Paniklemiş veya E.G.O Bozulmuş müttefikler)\n- Eğer bu müttefikin Temel Yetenekleri [Combustion] Etkisi veya Miktarı uyguluyorsa, fazladan 5 SP iyileştir"
+},
+{
+  "id": 1011211,
+  "name": "İçsel Ateş",
+  "desc": "Tur Sonu: En az SP'ye sahip 1 müttefiki (5 + en yüksek Rezonans) kadar iyileştir (maksimum 10) (hariç tutulanlar: kendisi ve Paniklemiş veya E.G.O Bozulmuş müttefikler)\n- Eğer bu müttefikin Temel Yetenekleri [Combustion] Etkisi veya Miktarı uyguluyorsa, fazladan 5 SP iyileştir\n- 4+ Wrath Rezonansı varsa, 1 ek müttefik iyileştirilir"
+},
+{
+  "id": 1011221,
+  "name": "Liu Savunma Karesi",
+  "desc": "En az SP'ye sahip 2 müttefik: bu tur SP kaybı yaşadılarsa, Tur Sonunda 5 SP iyileştirilir"
+},
+{
+  "id": 1011231,
+  "name": "Liu Savunma Karesi",
+  "desc": "En az SP'ye sahip 2 müttefik: bu tur SP kaybı yaşadılarsa, Tur Sonunda 5 SP iyileştirilir\n- Eğer bu müttefiklerin Temel Yetenekleri [Combustion] Etkisi veya Miktarı uyguluyorsa, bunun yerine 5~10 SP iyileştirilir"
+},
+{
+  "id": 1121102,
+  "name": "Bölge 12 Özel Atölye Yakıtı",
+  "desc": "Karşılaşmalara 100 [FirePunchFuel] ile başlanır\n- 50 Yığının üstünde: [FirePunchFuel] hâline gelinir\n- 50 veya daha az Yığında, tüm [FirePunchFuel] → [FirePunchFuelOverheated] olur"
+},
+{
+  "id": 1121101,
+  "name": "Hayatta kalan tek kişi benim...",
+  "desc": "Bu Karşılaşmada tüketilen her [FirePunchFuel] ve [FirePunchFuelOverheated] başına %0.2 daha fazla hasar ver (maksimum %40)\n- Ana hedef bir <Kan Hınzırı>, <Kan Torbası> ise veya toplam [Combustion] ve [Combustion] Miktarı 30+ ise, bunun yerine %0.3 daha fazla hasar ver (maksimum %60)\n\nBu birim en az 1 [FirePunchFuel] veya [FirePunchFuelOverheated] bulunduruyorsa ve [Combustion] ile düşmanları Sersemletiyor veya yeniyorsa: [Combustion] olmayanlara veya en az [Combustion] Miktarına sahip 2 rastgele düşmana +2 [Combustion] Miktarı uygula (tur başına bir kez)\n- Odaklı Karşılaşmalar için, Bölümlere"
+},
+{
+  "id": 1121121,
+  "name": "Umarım bizim Ofis'tendirler...",
+  "desc": "En hızlı Hıza sahip 1 müttefik: İsabet Anında, hedefteki her 6 [Combustion] başına %5 daha fazla Öfke Hasarı verir (maksimum %20)"
+},
+    {
+  "id": 1031101,
+  "name": "Yeşilimsi Piroyeşim",
+  "desc": "Tur Sonu: Üzerinde her 5 [Breath] Kudreti için bir sonraki tur 1 [Agility] kendine uygulanır (maksimum 2)\n\nBir Temel Saldırı Becerisinin son vurduğu hedefe (ya da Parçaya) bir sonraki tur [DianxueDonQuixote] uygulanır (tur başına bir kez)\n\nKritik Vuruşta, hedefteki [Combustion] Kudreti kadar (%) fazladan hasar verilir (maksimum %15)"
+},
+{
+  "id": 1031111,
+  "name": "Yeşilimsi Piroyeşim",
+  "desc": "Tur Sonu: Üzerinde her <style=\"highlight\">3</style> [Breath] Kudreti için bir sonraki tur 1 [Agility] kendine uygulanır (maksimum 2)\n\nBir Temel Saldırı Becerisinin son vurduğu hedefe (ya da Parçaya) bir sonraki tur [DianxueDonQuixote] uygulanır (tur başına bir kez)\n\nKritik Vuruşta, hedefteki [Combustion] Kudreti kadar (%) fazladan hasar verilir (maksimum %15)\n<style=\"highlight\">- Hedefteki her 1 [DianxueDonQuixote] için bu maksimum değer %5 artar</style>"
+},
+{
+  "id": 1031121,
+  "name": "Tüyadımı Tekniği",
+  "desc": "En hızlı Hıza sahip 1 müttefik: [Combustion] ya da 'Benzersiz Yanma' taşıyan düşmanlara Karşılaşma Kazanıldığında, bir sonraki tur için 1 [Agility] kendine uygulanır (tur başına bir kez)"
+},
+{
+  "id": 1031131,
+  "name": "Tüyadımı Tekniği",
+  "desc": "En hızlı Hıza sahip 1 müttefik: [Combustion] ya da 'Benzersiz Yanma' taşıyan düşmanlara Karşılaşma Kazanıldığında, bir sonraki tur için 1 [Agility] kendine uygulanır (tur başına bir kez)\n<style=\"highlight\">- Eğer hedefte 20+ [Combustion] Kudreti varsa, fazladan 1 [Agility] daha kendine uygulanır</style>"
+},
+{
+  "id": 1041101,
+  "name": "Heishou Mutasyonu [Mao]",
+  "desc": "Bu birimde [LegStrength] varsa, %5 daha fazla hasar verilir"
+},
+{
+  "id": 1041111,
+  "name": "Heishou Mutasyonu [Mao]",
+  "desc": "Bu birimde [LegStrength] varsa, %5 daha fazla hasar verilir\nHedefte [BurstAgility] varsa, %5 daha fazla hasar verilir"
+},
+{
+  "id": 1041121,
+  "name": "Kısmi Heishou Mutasyon Eğitimi",
+  "desc": "Tur Sonu: En hızlı Hıza sahip 1 müttefike bir sonraki tur için 2 [Agility] kendine uygulanır"
+},
+{
+  "id": 1111201,
+  "name": "Heishou Mutasyonu [Mao]",
+  "desc": "Bu birimde [LegStrength] varsa ve hedefte [BurstAgility] varsa, her 1 [LegStrength] başına %5 (maksimum %15) daha fazla hasar verilir"
+},
+{
+  "id": 1111221,
+  "name": "Tavşanlardan Geriye Kalan",
+  "desc": "En hızlı 1 müttefik: [Burst] taşıyan hedeflere saldırırken %10 daha fazla hasar verilir\nBir sonraki tur için 1 [Agility] kendine uygulanır (tur başına bir kez)"
+},
+{
+  "id": 1101201,
+  "name": "Orta Unutmaz",
+  "desc": "Bir düşman bu birime vurduğunda, saldıran hedefe (ya da Parçaya) 3 [VendettaMark] uygulanır (tur başına bir kez)\n\nBaşka bir müttefik bir düşmandan darbe aldığında, saldıran hedefe (ya da Parçaya) 2 [VendettaMark] uygulanır (Kişilik başına turda bir kez)\n\nTemel Saldırı Becerileri veya Karşı Becerilerle saldırdıktan sonra, hedefteki tüm [VendettaMark] tüketilir\n- Hedefteki her bir [VendettaMark] tüketildiğinde, aynı miktarda [VengeanceBookSinclair] kendine uygulanır"
+},
+{
+  "id": 1101211,
+  "name": "Orta Unutmaz",
+  "desc": "Bir düşman bu birime vurduğunda, saldıran hedefe (ya da Parçaya) <style=\"highlight\">5</style> [VendettaMark] uygulanır (tur başına bir kez)\n\nBaşka bir müttefik bir düşmandan darbe aldığında, saldıran hedefe (ya da Parçaya) 2 [VendettaMark] uygulanır (Kişilik başına turda bir kez)\n<style=\"highlight\">- Eğer bu müttefik 'Orta'dansa, fazladan 3 [VendettaMark] daha uygulanır</style>\n\nTemel Saldırı Becerileri veya Karşı Becerilerle saldırdıktan sonra, hedefteki tüm [VendettaMark] tüketilir\n- Hedefteki her bir [VendettaMark] tüketildiğinde, aynı miktarda [VengeanceBookSinclair] kendine uygulanır"
+},
+{
+  "id": 1101221,
+  "name": "Arkandayız",
+  "desc": "Çatışma Başlangıcı: Can yüzdesi en az olan 1 müttefike 2 [DefenseUp] kendine uygulanır"
+},
+{
+  "id": 1101231,
+  "name": "Arkandayız",
+  "desc": "Çatışma Başlangıcı: Can yüzdesi en az olan 1 müttefike 2 [DefenseUp] kendine uygulanır\n<style=\"highlight\">- Eğer bu müttefik 'Orta'dansa, ayrıca 2 [AttackUp] daha kendine uygulanır</style>"
+}
   ]
 }
