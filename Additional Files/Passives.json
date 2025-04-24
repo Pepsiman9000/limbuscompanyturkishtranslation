@@ -2,1218 +2,1208 @@
   "dataList": [
     {
       "id": 1010101,
-      "name": "Information Relay",
-      "desc": "Apply 1 Damage Up to 2 allies placed after this unit on the Dashboard."
+      "name": "Bilgi Rölesi",
+      "desc": "Dashboard'da bu birimden sonra yerleştirilen 2 müttefiğe 1 [AttackUp] uygula."
     },
     {
       "id": 1010201,
-      "name": "Acute Studies",
-      "desc": "In a clash, the opponent has -2 Clash Power."
+      "name": "Keskin Çalışmalar",
+      "desc": "Bir çarpışmada, rakibin Çarpışma Gücü -2 olur."
     },
     {
       "id": 1010301,
-      "name": "Poised",
-      "desc": "On clash win, gain +1 Poise Count."
+      "name": "Hazır",
+      "desc": "Çarpışma kazanıldığında, +1 [Breathe] Miktarı kazan."
     },
     {
       "id": 1020101,
-      "name": "Analytic Eye",
-      "desc": "Deal +10% damage to units with negative status effects."
+      "name": "Analitik Göz",
+      "desc": "Negatif durum etkilerine sahip birimlere %10 daha fazla hasar uygula."
     },
     {
       "id": 1020201,
-      "name": "Self-charging",
-      "desc": "Gain +1 Charge Count after an attack."
+      "name": "Kendini [Charge] Etme",
+      "desc": "Bir saldırıdan sonra +1 [Charge] Miktarı kazan."
     },
     {
       "id": 1020301,
-      "name": "Resolution",
-      "desc": "At the start of the turn, if at 4+ Poise Count, gain 2 Haste."
+      "name": "Azim",
+      "desc": "Tur başlangıcında, eğer 4+ [Breathe] Miktarı varsa, 2 [Agility] kazan."
     },
     {
       "id": 1030101,
-      "name": "Righteous Retribution",
-      "desc": "Skills deal +10% damage in a won clash."
+      "name": "Adil Misilleme",
+      "desc": "Yetenekler, kazanılan bir çarpışmada %10 daha fazla hasar verir."
     },
     {
       "id": 1030201,
-      "name": "Quick Recharge",
-      "desc": "At the start of the combat phase, gain Charge Count by (Gloom Reson. / 3)."
+      "name": "Hızlı [Charge]",
+      "desc": "Savaş aşamasının başlangıcında, (Hüzün Rezonansı / 3) kadar [Charge] Miktarı kazan."
     },
     {
       "id": 1030301,
-      "name": "Prepared Mind",
-      "desc": "Gain [Agility] by (Wrath Reson. / 3) next turn."
+      "name": "Hazırlıklı Zihin",
+      "desc": "Öfke Rezonansı / 3 kadar [Çeviklik] kazan."
     },
     {
       "id": 1040101,
-      "name": "Indiscriminate Art",
-      "desc": "Deal and take +25% damage."
+      "name": "Ayrım Gözetmeyen Sanat",
+      "desc": "Verilen ve alınan hasarı %25 artır."
     },
     {
       "id": 1040201,
       "name": "C. I. H.",
-      "desc": "Deal +10% Slash damage this turn."
+      "desc": "Bu turda %10 daha fazla Kesme hasarı uygula."
     },
     {
       "id": 1040301,
       "name": "Kokuuntō",
-      "desc": "Deal +10% damage to targets with [Laceration]."
+      "desc": "[Burst] olan hedeflere %10 daha fazla hasar uygula."
     },
     {
       "id": 1050101,
-      "name": "Staunchness",
-      "desc": "At less than 50% HP, gain 1 Protection at the start of the combat phase."
+      "name": "Metanet",
+      "desc": "HP %50'nin altındayken, savaş aşamasının başlangıcında 1 Korunma kazan."
     },
     {
       "id": 1050201,
-      "name": "Great Mountain",
-      "desc": "When attacked, inflict 1 Burn on a random enemy.\n(Up to 4 times)"
+      "name": "Büyük Dağ",
+      "desc": "Saldırıya uğradığında, rastgele bir düşmana 1 [Combustion] uygula.\n(En fazla 4 kez)"
     },
     {
       "id": 1050301,
-      "name": "Enduring Spirit",
-      "desc": "When attacked, gain +1 Charge Count.\n(Up to 6 times)"
+      "name": "Dayanıklı Ruh",
+      "desc": "Saldırıya uğradığında, +1 [Charge] Miktarı kazan.\n(En fazla 6 kez)"
     },
     {
       "id": 1060101,
-      "name": "Entertainment",
-      "desc": "Heal 6 SP next turn."
+      "name": "Eğlence",
+      "desc": "Sonraki turda 6 SP yenile."
     },
     {
       "id": 1060201,
       "name": "Hēiyúndào",
-      "desc": "The last Coin on the last skill in the chain inflicts 3 Bleed."
+      "desc": "Zincirdeki son yeteneğin son Jetonu, 3 [Laceration] verir."
     },
     {
       "id": 1060301,
-      "name": "Gaiety",
-      "desc": "Heal (2x Gluttony Reson.) SP next turn."
+      "name": "Neşe",
+      "desc": "Sonraki turda (2x Oburluk Rezonansı) SP yenile."
     },
     {
       "id": 1070101,
-      "name": "Ressentiment",
-      "desc": "Deal +10% damage to targets with higher Max HP."
+      "name": "Kızgınlık",
+      "desc": "Daha yüksek Max HP'ye sahip hedeflere %10 daha fazla hasar uygula."
     },
     {
       "id": 1070201,
-      "name": "Respiration",
-      "desc": "After taking damage from attacks this turn, deal +10% damage."
+      "name": "Solunum",
+      "desc": "Bu turda saldırılardan hasar aldıktan sonra, %10 daha fazla hasar uygula."
     },
     {
       "id": 1070301,
-      "name": "Raring to Graze",
-      "desc": "Gain (Wrath Reson.) Charge Count next turn.\nAt 5+ Charge Count, gain 1 Haste and Attack Power Up."
+      "name": "Otlamaya Hazır",
+      "desc": "Sonraki turda (Öfke Rezonansı) [Charge] Miktarı kazan.\n5+ [Charge] Miktarında, 1 [Agility] ve Saldırı Gücü Artışı kazan."
     },
     {
       "id": 1080101,
-      "name": "Last-ditch Struggle",
-      "desc": "At less than 25% HP, gain +1 clash Power in a clash."
+      "name": "Son Çaba",
+      "desc": "HP %25'in altındayken, bir çarpışmada +1 Çarpışma Gücü kazan."
     },
     {
       "id": 1080201,
-      "name": "Brainwave Focus",
-      "desc": "At the start of the combat phase, lose 15 SP.\nGain (Gloom Res / 3) Attack Power Up next turn."
+      "name": "Beyin Dalgası Odaklanması",
+      "desc": "Savaş aşamasının başlangıcında, 15 SP kaybet.\nSonraki turda (Hüzün Rezonansı / 3) Saldırı Gücü Artışı kazan."
     },
     {
       "id": 1080301,
-      "name": "Walking the Line of Death",
-      "desc": "At less than 50% HP, gain 1 additional Poise from skills."
+      "name": "Ölüm Çizgisinde Yürümek",
+      "desc": "HP %50'nin altındayken, yeteneklerden 1 ekstra [Breathe] kazan."
     },
     {
       "id": 1080401,
-      "name": "Eye for Weakness",
-      "desc": "Attacks inflict 1 Tremor in a won clash."
+      "name": "Zayıflık Gözü",
+      "desc": "Kazanılan bir çarpışmada saldırılar 1 [Vibration] verir."
     },
     {
       "id": 1090101,
-      "name": "Split Evil",
-      "desc": "On hit, inflict 1 Bleed at a 50% chance."
+      "name": "Kötülüğü Bölmek",
+      "desc": "Vuruşta, %50 şansla 1 [Laceration] verir."
     },
     {
       "id": 1090201,
-      "name": "Dark Cloud Blade",
-      "desc": "At 5+ [Breath], counter skills use Skill 3."
+      "name": "Kara Bulut Kılıcı",
+      "desc": "5+ [Breathe] durumunda, karşı saldırı yetenekleri Yetenek 3'ü kullanır."
     },
     {
       "id": 1090301,
-      "name": "Breach Defense",
-      "desc": "Deal +10% damage to enemies that used defense skills this turn."
+      "name": "Savunmayı Delme",
+      "desc": "Bu turda savunma yetenekleri kullanan düşmanlara %10 daha fazla hasar uygula."
     },
     {
       "id": 1100101,
-      "name": "Pluckiness",
-      "desc": "When an ally is defeated, gain 1 Attack Power Up next turn."
+      "name": "Cesaret",
+      "desc": "Bir müttefik yenildiğinde, sonraki turda 1 Saldırı Gücü Artışı kazan."
     },
     {
       "id": 1100201,
-      "name": "Slayer",
-      "desc": "The last Coin on the last skill in the chain deals +20% damage."
+      "name": "Katil",
+      "desc": "Zincirdeki son yeteneğin son Jetonu, %20 daha fazla hasar verir."
     },
     {
       "id": 1100301,
-      "name": "Your Shield",
-      "desc": "At the start of the combat phase, apply 2 Defense Power Up and 1 Protection to allies adjacent to this unit on the Dashboard."
+      "name": "Senin Kalkanın",
+      "desc": "Savaş aşamasının başlangıcında,Sahada bulunan bu birime bitişik müttefiklere 2 Savunma Gücü Artışı ve 1 Korunma uygula."
     },
     {
       "id": 1100401,
       "name": "Júbilo Hedonista",
-      "desc": "After a successful evade, lower Stagger Threshold by the evade skill’s Power at a (5x Gloom Reson.)% chance."
+      "desc": "Başarılı bir kaçınmadan sonra, kaçınma yeteneğinin Gücü kadar [Vibration] Eşiğini düşür. (Hüzün Rezonansı x 5)% şansla."
     },
     {
       "id": 1110101,
-      "name": "Executor",
-      "desc": "If target’s SP is below 0, deal +10% damage."
+      "name": "Cellat",
+      "desc": "Hedefin SP'si 0'ın altındaysa, %10 daha fazla hasar verir."
     },
     {
       "id": 1110201,
-      "name": "Levelheaded",
-      "desc": "Deal +20% damage to targets below 25% HP."
+      "name": "Sakin Kafa",
+      "desc": "HP'si %25'in altındaki hedeflere %20 daha fazla hasar verir."
     },
     {
       "id": 1110301,
-      "name": "Morale Boost",
-      "desc": "Next turn, apply 2 Haste to self and allies who are adjacent to this unit on the Dashboard this turn."
+      "name": "Moral Artışı",
+      "desc": "Sonraki turda, kendine ve Sahada bulunan bu birime bitişik müttefiklere 2 [Agility] uygula."
     },
     {
       "id": 1120101,
-      "name": "Forced Survival",
-      "desc": "Heal 5 HP at the start of the combat phase."
+      "name": "Zorla Hayatta Kalma",
+      "desc": "Savaş aşamasının başlangıcında 5 HP yenile."
     },
     {
       "id": 1120201,
-      "name": "Ignition",
-      "desc": "The 3rd and subsequent Coins of a skill inflict 1 Burn on hit."
+      "name": "Ateşleme",
+      "desc": "Bir yeteneğin 3. ve sonraki Jetonları, vuruşta 1 [Combustion] verir."
     },
     {
       "id": 1120301,
-      "name": "Emergency Rations",
-      "desc": "At less than 25% HP, heal by 5% of Max HP after winning a clash."
+      "name": "Acil Rasyonlar",
+      "desc": "HP %25'in altındayken, bir çarpışma kazandıktan sonra Max HP'nin %5'i kadar yenile."
     },
     {
       "id": 1010121,
-      "name": "Information Neutralization",
-      "desc": "At the end of the turn, Heal 10 SP for 1 ally with the least SP if they lost SP."
+      "name": "Bilgi Nötralizasyonu",
+      "desc": "Tur sonunda, SP kaybeden 1 müttefiğe 10 SP yenile (en az SP'ye sahip olana)."
     },
     {
       "id": 1010221,
-      "name": "Observational Eye",
-      "desc": "1 ally with the highest Max HP gains +1 clash Power in a clash."
+      "name": "Gözlemci Göz",
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir çarpışmada +1 Çarpışma Gücü kazanır."
     },
     {
       "id": 1010321,
-      "name": "Bestow",
-      "desc": "1 ally with the most SP gains +1 Poise Count from skills."
+      "name": "Bağış",
+      "desc": "En çok SP'ye sahip 1 müttefik, yeteneklerden +1 [Breathe] Miktarı kazanır."
     },
     {
       "id": 1020121,
-      "name": "Keen Observation",
-      "desc": "1 ally with the highest Max HP inflicts 2 Offense Level Down with attacks at a 25% chance."
+      "name": "Keskin Gözlem",
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, saldırılarla %25 şansla 2 Saldırı Seviyesi Düşüşü verir."
     },
     {
       "id": 1020221,
-      "name": "Radio Comms",
-      "desc": "1 ally with the lowest Max HP gains +1 Charge Count."
+      "name": "Radyo İletişimi",
+      "desc": "En düşük Max HP'ye sahip 1 müttefik, +1 [Charge] Miktarı kazanır."
     },
     {
       "id": 1020321,
-      "name": "Backing",
-      "desc": "1 ally with the lowest Max HP gains +2 defense skill final Power."
+      "name": "Destek",
+      "desc": "En düşük Max HP'ye sahip 1 müttefik, savunma yeteneklerinin son Gücüne +2 kazanır."
     },
     {
       "id": 1030121,
-      "name": "Support",
-      "desc": "1 ally with the most SP deals +10% Pierce damage."
+      "name": "Destek",
+      "desc": "En çok SP'ye sahip 1 müttefik, %10 daha fazla Delme hasarı verir."
     },
     {
       "id": 1030221,
-      "name": "Broken Spirit",
-      "desc": "1 ally with the highest Speed gains +1 final Power for their first skill."
+      "name": "Kırık Ruh",
+      "desc": "En yüksek Hıza sahip 1 müttefik, ilk yetenekleri için +1 son Güç kazanır."
     },
     {
       "id": 1030321,
-      "name": "Divide in Two",
-      "desc": "1 ally with the highest Speed deals +10% Slash damage."
+      "name": "İkiye Bölme",
+      "desc": "En yüksek Hıza sahip 1 müttefik, %10 daha fazla Kesme hasarı verir."
     },
     {
       "id": 1040121,
-      "name": "Hustle",
-      "desc": "1 ally with the lowest Max HP deals and takes +20% damage."
+      "name": "Telaş",
+      "desc": "En düşük Max HP'ye sahip 1 müttefik, verdiği ve aldığı hasarı %20 artırır."
     },
     {
       "id": 1040221,
-      "name": "Ice Breaker",
-      "desc": "1 ally with the lowest Max HP inflicts +1 Rupture."
+      "name": "Buz Kırıcı",
+      "desc": "En düşük Max HP'ye sahip 1 müttefik, +1 Parçalanma verir."
     },
     {
       "id": 1040321,
-      "name": "Muscle in Charge",
-      "desc": "1 ally with the highest Speed inflicts +1 Bleed."
+      "name": "Kasların Sorumluluğu",
+      "desc": "En yüksek Hıza sahip 1 müttefik, +1 [Laceration] verir."
     },
     {
       "id": 1050121,
-      "name": "Backup",
-      "desc": "1 ally with the highest Max HP takes -10% damage from attack skills."
+      "name": "Yedek",
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, saldırı yeteneklerinden %10 daha az hasar alır."
     },
     {
       "id": 1050221,
-      "name": "Friction Point",
-      "desc": "1 ally with the lowest Speed inflicts +1 Burn."
+      "name": "Sürtünme Noktası",
+      "desc": "En düşük Hıza sahip 1 müttefik, +1 [Combustion] verir."
     },
     {
       "id": 1050321,
-      "name": "Taciturn",
-      "desc": "1 ally with the lowest Speed inflicts +1 Rupture."
+      "name": "Sessiz",
+      "desc": "En düşük Hıza sahip 1 müttefik, +1 Parçalanma verir."
     },
     {
       "id": 1060121,
-      "name": "Frivolous Jokes",
-      "desc": "At the start of the combat phase, the ally with the least SP heals 6 SP."
+      "name": "Hafif Şakalar",
+      "desc": "Savaş aşamasının başlangıcında, en az SP'ye sahip müttefik 6 SP yeniler."
     },
     {
       "id": 1060221,
-      "name": "Syndicate Payback",
-      "desc": "1 ally with the highest Speed inflicts +1 Bleed."
+      "name": "Çete İntikamı",
+      "desc": "En yüksek Hıza sahip 1 müttefik, +1 [Laceration] verir."
     },
     {
       "id": 1060321,
       "name": "Gambit",
-      "desc": "1 ally with the most SP deals +20% damage with Heads Coins."
+      "desc": "En çok SP'ye sahip 1 müttefik, Heads Jetonlarıyla %20 daha fazla hasar verir."
     },
     {
       "id": 1070121,
-      "name": "Spite-driven",
-      "desc": "1 ally with the lowest Max HP deals +10% Blunt damage."
+      "name": "Kin Dolu",
+      "desc": "En düşük Max HP'ye sahip 1 müttefik, %10 daha fazla Darbe hasarı verir."
     },
     {
       "id": 1070221,
-      "name": "Self-neglect",
-      "desc": "1 ally with the least HP deals and takes +20% damage."
+      "name": "Kendini İhmal",
+      "desc": "En az HP'ye sahip 1 müttefik, verdiği ve aldığı hasarı %20 artırır."
     },
     {
       "id": 1070321,
-      "name": "Doggedness",
-      "desc": "1 ally with the highest Speed deals +10% Pierce damage."
+      "name": "Azim",
+      "desc": "En yüksek Hıza sahip 1 müttefik, %10 daha fazla Delme hasarı verir."
     },
     {
       "id": 1080121,
-      "name": "Determination to Survive",
-      "desc": "1 ally with the least HP and less than 50% of Max HP gains +1 Clash Power in a clash."
+      "name": "Hayatta Kalma Kararlılığı",
+      "desc": "En az HP'ye sahip ve Max HP'sinin %50'sinden az olan 1 müttefik, bir çarpışmada +1 Çarpışma Gücü kazanır."
     },
     {
       "id": 1080221,
-      "name": "Tenacity",
-      "desc": "1 ally with the least SP deals +10% Blunt damage."
+      "name": "Sebat",
+      "desc": "En az SP'ye sahip 1 müttefik, %10 daha fazla Darbe hasarı verir."
     },
     {
       "id": 1080321,
-      "name": "Strife",
-      "desc": "1 ally with the least HP gains +2 counter skill final Power."
+      "name": "Çatışma",
+      "desc": "En az HP'ye sahip 1 müttefik, karşı saldırı yeteneklerinin son Gücüne +2 kazanır."
     },
     {
       "id": 1080421,
-      "name": "By the Manual",
-      "desc": "1 ally with the lowest Speed gains +2 guard skill final Power."
+      "name": "Kılavuza Göre",
+      "desc": "En düşük Hıza sahip 1 müttefik, korunma yeteneklerinin son Gücüne +2 kazanır."
     },
     {
       "id": 1090121,
-      "name": "Gambler",
-      "desc": "1 ally with the most HP deals +20% damage with Heads Coins."
+      "name": "Kumarbaz",
+      "desc": "En çok HP'ye sahip 1 müttefik, Heads Jetonlarıyla %20 daha fazla hasar verir."
     },
     {
       "id": 1090221,
-      "name": "Dark Cloud Swordsmanship",
-      "desc": "1 ally with the lowest Speed deals +10% Slash damage."
+      "name": "Kara Bulut Kılıççılığı",
+      "desc": "En düşük Hıza sahip 1 müttefik, %10 daha fazla Kesme hasarı verir."
     },
     {
       "id": 1090321,
-      "name": "Breaching",
-      "desc": "1 ally with the most HP deals +20% damage to enemies that used defense skills this turn."
+      "name": "Delme",
+      "desc": "En çok HP'ye sahip 1 müttefik, bu turda savunma yetenekleri kullanan düşmanlara %20 daha fazla hasar verir."
     },
     {
       "id": 1100121,
-      "name": "Grudge",
-      "desc": "1 ally with the least SP gains 1 Attack Power Up the turn after an ally is defeated."
+      "name": "Kin",
+      "desc": "Bir müttefik yenildiğinde, en az SP'ye sahip 1 müttefik sonraki turda 1 Saldırı Gücü Artışı kazanır."
     },
     {
       "id": 1100221,
-      "name": "Bloodied Hands",
-      "desc": "1 ally with the lowest Speed gains +1 final Power for their last skill."
+      "name": "Kanlı Eller",
+      "desc": "En düşük Hıza sahip 1 müttefik, son yetenekleri için +1 son Güç kazanır."
     },
     {
       "id": 1100321,
-      "name": "Stubbornness",
-      "desc": "1 ally with the least HP takes -10% damage."
+      "name": "İnatçılık",
+      "desc": "En az HP'ye sahip 1 müttefik, %10 daha az hasar alır."
     },
     {
       "id": 1100421,
       "name": "Jugar con Enemigos",
-      "desc": "1 ally with the most SP deals +10% damage to enemies with lower SP."
+      "desc": "En çok SP'ye sahip 1 müttefik, daha düşük SP'ye sahip düşmanlara %10 daha fazla hasar verir."
     },
     {
       "id": 1110121,
-      "name": "Military Mindset",
-      "desc": "1 ally with the most HP deals +30% damage to enemies below 0 SP."
+      "name": "Askeri Zihniyet",
+      "desc": "En çok HP'ye sahip 1 müttefik, 0 SP'nin altındaki düşmanlara %30 daha fazla hasar verir."
     },
     {
       "id": 1110221,
-      "name": "Double Tap",
-      "desc": "1 ally with the most SP deals +30% damage to enemies below 25% HP."
+      "name": "Çift Atış",
+      "desc": "En çok SP'ye sahip 1 müttefik, HP'si %25'in altındaki düşmanlara %30 daha fazla hasar verir."
     },
     {
       "id": 1110321,
-      "name": "Valor",
-      "desc": "1 ally with the most HP randomly gains 1 Attack Power Up, 1 Defense Power Up, or 1 Protection at the start of the combat phase."
+      "name": "Cesaret",
+      "desc": "En çok HP'ye sahip 1 müttefik, savaş aşamasının başlangıcında rastgele 1 Saldırı Gücü Artışı, 1 Savunma Gücü Artışı veya 1 Korunma kazanır."
     },
     {
       "id": 1120121,
-      "name": "Gene Code G-0",
-      "desc": "At the start of the combat phase, the ally with the least HP heals 5 HP."
+      "name": "Gen Kodu G-0",
+      "desc": "Savaş aşamasının başlangıcında, en az HP'ye sahip müttefik 5 HP yeniler."
     },
     {
       "id": 1120221,
-      "name": "Rushing Heart",
-      "desc": "1 ally with the lowest Speed deals +30% damage with their 4th and subsequent Coins."
+      "name": "Hızlanan Kalp",
+      "desc": "En düşük Hıza sahip 1 müttefik, 4. ve sonraki Jetonlarıyla %30 daha fazla hasar verir."
     },
     {
       "id": 1120321,
-      "name": "Gene Code G-3",
-      "desc": "The ally with the least HP heals 5 HP after winning a clash."
+      "name": "Gen Kodu G-3",
+      "desc": "En az HP'ye sahip müttefik, bir çarpışma kazandıktan sonra 5 HP yeniler."
     },
     {
       "id": 1000101,
-      "name": "Wrath",
-      "desc": "Deal +1 damage with attacks after every successful hit this turn."
+      "name": "Öfke",
+      "desc": "Bu turda her başarılı vuruştan sonra saldırılarla +1 hasar uygula."
     },
     {
       "id": 1000121,
-      "name": "Wrath",
-      "desc": "Give a random ally the following effect: Deal +1 damage with attacks after every successful hit this turn."
+      "name": "Öfke",
+      "desc": "Rastgele bir müttefiğe şu etkiyi ver: Bu turda her başarılı vuruştan sonra saldırılarla +1 hasar uygula."
     },
     {
       "id": 1000201,
-      "name": "Lust",
-      "desc": "When hit by an attack this turn, heal 3 HP at a 50% chance."
+      "name": "Şehvet",
+      "desc": "Bu turda bir saldırıya maruz kaldığında, %50 şansla 3 HP yenile."
     },
     {
       "id": 1000221,
-      "name": "Lust",
-      "desc": "Give a random ally the following effect: When hit by an attack this turn, heal 3 HP at a 50% chance."
+      "name": "Şehvet",
+      "desc": "Rastgele bir müttefiğe şu etkiyi ver: Bu turda bir saldırıya marux kaldığında, %50 şansla 3 HP yenile."
     },
     {
       "id": 1000301,
-      "name": "Sloth",
-      "desc": "Take 1 less damage this turn."
+      "name": "Tembellik",
+      "desc": "Bu turda 1 daha az hasar al."
     },
     {
       "id": 1000321,
-      "name": "Sloth",
-      "desc": "Give a random ally the following effect: Take 1 less damage this turn."
+      "name": "Tembellik",
+      "desc": "Rastgele bir müttefiğe şu etkiyi ver: Bu turda 1 daha az hasar al."
     },
     {
       "id": 1000401,
-      "name": "Gluttony",
-      "desc": "Heal 5 HP at the start of the combat phase."
+      "name": "Oburluk",
+      "desc": "Savaş aşamasının başlangıcında 5 HP yenile."
     },
     {
       "id": 1000421,
-      "name": "Gluttony",
-      "desc": "Give a random ally the following effect: Heal 5 HP at the start of the combat phase."
+      "name": "Oburluk",
+      "desc": "Rastgele bir müttefiğe şu etkiyi ver: Savaş aşamasının başlangıcında 5 HP yenile."
     },
     {
       "id": 1000501,
-      "name": "Gloom",
-      "desc": "Heal 5 SP at the start of the combat phase."
+      "name": "Hüzün",
+      "desc": "Savaş aşamasının başlangıcında 5 SP yenile."
     },
     {
       "id": 1000521,
-      "name": "Gloom",
-      "desc": "Give a random ally the following effect: Heal 5 SP at the start of the combat phase."
+      "name": "Hüzün",
+      "desc": "Rastgele bir müttefiğe şu etkiyi ver: Savaş aşamasının başlangıcında 5 SP yenile."
     },
     {
       "id": 1000601,
-      "name": "Pride",
-      "desc": "Deal +2 damage after winning a clash."
+      "name": "Kibir",
+      "desc": "Bir çarpışma kazandıktan sonra +2 hasar uygula."
     },
     {
       "id": 1000621,
-      "name": "Pride",
-      "desc": "Give a random ally the following effect: Deal +2 damage after winning a clash."
+      "name": "Kibir",
+      "desc": "Rastgele bir müttefiğe şu etkiyi ver: Bir çarpışma kazandıktan sonra +2 hasar uygula."
     },
     {
       "id": 1000701,
-      "name": "Envy",
-      "desc": "When hit by an attack this turn, deal 1 damage to the attacker at a 25% chance."
+      "name": "Haset",
+      "desc": "Bu turda bir saldırıya maruz kaldığında, %25 şansla saldırgana 1 hasar uygula."
     },
     {
       "id": 1000721,
-      "name": "Envy",
-      "desc": "Give a random ally the following effect: When hit by an attack this turn, deal 1 damage to the attacker at a 25% chance."
+      "name": "Haset",
+      "desc": "Rastgele bir müttefiğe şu etkiyi ver: Bu turda bir saldırıya maruz kaldığında, %25 şansla saldırgana 1 hasar uygula."
     },
     {
       "id": 1050401,
-      "name": "Obsessive Hammer",
-      "desc": "When below 50% HP, remove 1 negative status effect and gain 1 Fanatic, 1 Attack Power Up, and 3 Protection at the start of the combat phase."
+      "name": "Takıntılı Çekiç",
+      "desc": "HP %50'nin altındayken, savaş aşamasının başlangıcında 1 negatif durum etkisini kaldır ve 1 Fanatik, 1 Saldırı Gücü Artışı ve 3 Korunma kazan."
     },
     {
       "id": 1090401,
-      "name": "Joy of Execution",
-      "desc": "After an enemy is defeated, gain 1 Haste and 1 Damage Up next turn.\nIf this unit defeated an enemy, also gain 1 Fanatic. (Once per turn.)"
+      "name": "İnfazın Keyfi",
+      "desc": "Bir düşman yenildiğinde, sonraki turda 1 [Agility] ve 1 [AttackUp] kazan.\nEğer bu birim bir düşmanı yendiysen, ayrıca 1 Fanatik kazan. (Tur başına bir kez.)"
     },
     {
       "id": 1050421,
-      "name": "Highest Honor",
-      "desc": "Apply 1 Attack Power Up and 1 Protection to the ally with the least HP below 50%.\nIf the ally is an 'N Corp. Fanatic', also apply 1 Fanatic."
+      "name": "En Yüksek Onur",
+      "desc": "HP'si %50'nin altında olan ve en az HP'ye sahip müttefiğe 1 Saldırı Gücü Artışı ve 1 Korunma uygula.\nEğer müttefik bir 'N Corp. Fanatiği' ise, ayrıca 1 Fanatik uygula."
     },
     {
       "id": 1090421,
-      "name": "Rising Faith",
-      "desc": "After an enemy is defeated, apply 1 Haste and 1 Damage Up to the ally with the most SP. (Once per turn.)"
+      "name": "Yükselen İnanç",
+      "desc": "Bir düşman yenildiğinde, en çok SP'ye sahip müttefiğe 1 [Agility] ve 1 [AttackUp] uygula. (Tur başına bir kez)"
     },
     {
       "id": 1020401,
-      "name": "Whistles",
-      "desc": "At the start of the combat phase, heal 2 allies with the least SP for 15 SP.\nIf the ally is an 'N Corp. Fanatic', also apply 1 Fanatic."
+      "name": "Islıklar",
+      "desc": "Savaş aşamasının başlangıcında, en az SP'ye sahip 2 müttefiği 15 SP yenile.\nEğer müttefik bir 'N Corp. Fanatiği' ise, ayrıca 1 Fanatik uygula."
     },
     {
       "id": 1020421,
-      "name": "Whispers",
-      "desc": "At the start of the combat phase, heal 1 ally with the least SP for 15 SP.\nIf the ally is an 'N Corp. Fanatic', also apply 1 Fanatic."
+      "name": "Fısıltılar",
+      "desc": "Savaş aşamasının başlangıcında, en az SP'ye sahip 1 müttefiği 15 SP yenile.\nEğer müttefik bir 'N Corp. Fanatiği' ise, ayrıca 1 Fanatik uygula."
     },
     {
       "id": 1070401,
-      "name": "Bugger…",
-      "desc": "When an ally is defeated, lose 10 SP and gain 1 Blunt Power Up next turn."
+      "name": "Kahretsin…",
+      "desc": "Bir müttefik yenildiğinde, 10 SP kaybet ve sonraki turda 1 Darbe Gücü Artışı kazan."
     },
     {
       "id": 1070421,
-      "name": "Cantillation",
-      "desc": "1 ally with the highest Speed inflicts +1 Nails."
+      "name": "İlahi",
+      "desc": "En yüksek Hıza sahip 1 müttefik, +1 Çivi verir."
     },
     {
       "id": 1110401,
-      "name": "Grasping Vulnerabilities",
-      "desc": "When attacking a target with a damage type the target is “Weak” or “Fatal” to, deal +10% damage."
+      "name": "Zayıflıkları Kavrama",
+      "desc": "Bir hedefe, hedefin \"Zayıf\" veya \"Ölümcül\" olduğu bir hasar türüyle saldırırken, %10 daha fazla hasar uygula."
     },
     {
       "id": 1110421,
-      "name": "Relay Intelligence",
-      "desc": "1 ally with the highest Speed deals +10% damage when attacking a target with a damage type the target is “Weak” or “Fatal” to."
+      "name": "Bilgi Rölesi",
+      "desc": "En yüksek Hıza sahip 1 müttefik, hedefin \"Zayıf\" veya \"Ölümcül\" olduğu bir hasar türüyle saldırırken %10 daha fazla hasar verir."
     },
     {
       "id": 1060401,
-      "name": "Flaring Up~",
-      "desc": "At 30+ SP, inflict +1 Burn Count with the effects of attack skills/coins."
+      "name": "Alevlenme~",
+      "desc": "30+ SP'deyken, saldırı yeteneklerinin/jetonlarının etkileriyle +1 [Combustion] Miktarı uygula."
     },
     {
       "id": 1060421,
-      "name": "Isn’t It Warm?",
-      "desc": "1 ally with the most SP inflicts +1 Burn Count with the effects of their attack skills/coins."
+      "name": "Sıcak Değil Mi?",
+      "desc": "En çok SP'ye sahip 1 müttefik, saldırı yeteneklerinin/jetonlarının etkileriyle +1 [Combustion] Miktarı verir."
     },
     {
       "id": 1040401,
-      "name": "Rustle Up",
-      "desc": "After defeating an enemy, heal the ally with the least HP for 15 HP. (Once per turn.)\nIf this unit has an Appetite, spend it to boost the healing based on its Count."
+      "name": "Hazırlık",
+      "desc": "Bir düşmanı yendikten sonra, en az HP'ye sahip müttefiği 15 HP yenile. (Tur başına bir kez)\nEğer bu birimin bir İştahı varsa, onu harca ve iyileştirmeyi Miktarına göre artır."
     },
     {
       "id": 1040421,
-      "name": "Artistic Flavor",
-      "desc": "When an enemy is defeated, the ally with the least HP heals 15 HP. (Once per turn.)"
+      "name": "Sanatsal Lezzet",
+      "desc": "Bir düşman yenildiğinde, en az HP'ye sahip müttefik 15 HP yeniler. (Tur başına bir kez)"
     },
     {
       "id": 1120401,
-      "name": "Packed Pies",
-      "desc": "Heal 8 HP at the start of the combat phase."
+      "name": "Paketlenmiş Turta",
+      "desc": "Savaş aşamasının başlangıcında 8 HP yenile."
     },
     {
       "id": 1120421,
-      "name": "Culinary Aid",
-      "desc": "At the start of the combat phase, the ally with the least HP heals 5 HP.\nBoost the healing of R.B. Chef de Cuisine Ryōshū’s Passive ‘Rustle Up’ by 5."
+      "name": "Mutfak Yardımı",
+      "desc": "Savaş aşamasının başlangıcında, en az HP'ye sahip müttefik 5 HP yeniler.\nR.B. Şef de Cuisine Ryōshū'nun Pasif 'Hazırlık'ının iyileştirmesini 5 artır."
     },
     {
       "id": 1100501,
-      "name": "Mad Flame",
-      "desc": "Heal 50% less SP from winning a clash or defeating an enemy."
+      "name": "Çılgın Alev",
+      "desc": "Bir çarpışma kazanmaktan veya bir düşmanı yenmekten kazanılan SP iyileştirmesi %50 daha azdır."
     },
     {
       "id": 1100521,
-      "name": "Cornering",
-      "desc": "1 ally with the least SP deals +10% Blunt damage.\nIf said ally is below 0 SP, further boost their Blunt damage the lower their SP is. (Max 10%)"
+      "name": "Köşeye Sıkıştırma",
+      "desc": "En az SP'ye sahip 1 müttefik, %10 daha fazla Darbe hasarı verir.\nEğer söz konusu müttefik 0 SP'nin altındaysa, SP'si düştükçe Darbe hasarını daha da artır. (Maksimum %10)"
     },
     {
       "id": 1030401,
-      "name": "Thou Shalt Hammer!",
-      "desc": "If the target has Nails, inflict +1 Tremor Count.\nIf this unit is Fanatic, inflict +1 Nails."
+      "name": "Çekiçle Vurmalısın!",
+      "desc": "Eğer hedefin Çivileri varsa, +1 [Vibration] Miktarı uygula.\nEğer bu birim Fanatik ise, +1 Çivi uygula."
     },
     {
       "id": 1030421,
-      "name": "Hammer of Zealotry",
-      "desc": "1 Fanatic ally with the least SP deals +10% damage."
+      "name": "Fanatik Çekiç",
+      "desc": "En az SP'ye sahip 1 Fanatik müttefik, %10 daha fazla hasar verir."
     },
     {
       "id": 1090501,
-      "name": "Here’s to Getting Off Early~",
-      "desc": "On [VibrationExplosion], spend 3 Charge Count to increase the Stagger Threshold raise by +40%.\nAfter triggering [VibrationExplosion], gain 1 Haste and 1 Blunt DMG Up next turn."
+      "name": "Erken Çıkmak İçin Şerefe~",
+      "desc": "[VibrationExplosion] sırasında, [Vibration] Eşiği artışını +%40 artırmak için 3 [Charge] Miktarı harca.\n[VibrationExplosion] tetiklendikten sonra, sonraki turda 1 [Agility] ve 1 Darbe DMG Artışı kazan."
     },
     {
       "id": 1090521,
-      "name": "Resonant Spanner",
-      "desc": "When 1 ally with the lowest Speed triggers [VibrationExplosion], increase the Stagger Threshold raise by +20%."
+      "name": "Rezonanslı Anahtar",
+      "desc": "En düşük Hıza sahip 1 müttefik [VibrationExplosion] tetiklediğinde, [Vibration] Eşiği artışını +%20 artır."
     },
     {
       "id": 1050501,
-      "name": "Chronic Fatigue",
-      "desc": "In a clash, the opponent has -1 Clash Power if they have 5+ Tremor.\nWhen recovering from Stagger, heal 5% of Max HP."
+      "name": "Kronik Yorgunluk",
+      "desc": "Bir çarpışmada, eğer rakibin 5+ [Vibration]sı varsa, rakibin Çarpışma Gücü -1 olur.\n[Vibration]den kurtulurken, Max HP'nin %5'i kadar yenile."
     },
     {
       "id": 1050521,
-      "name": "Leave by Suggestion",
-      "desc": "1 ally with the highest Speed lowers the Clash Power of opponents with Tremor by 1."
+      "name": "Öneriyle Ayrılmak",
+      "desc": "En yüksek Hıza sahip 1 müttefik, [Vibration]sı olan rakiplerin Çarpışma Gücünü 1 düşürür."
     },
     {
       "id": 1070501,
-      "name": "Rain of Tears",
-      "desc": "At the start of the combat phase, spend 1 Sinking Count and lose SP by the current amount of Sinking.\nBefore being hit by an attack, gain Protection equal to this unit's Sinking. (Up to 5 Protection can be gained per turn)\nWhen hit, gain 1 Blunt DMG Up next turn. (3 per turn)"
+      "name": "Gözyaşı Yağmuru",
+      "desc": "Savaş aşamasının başlangıcında, 1 Batış Miktarı harca ve mevcut Batış miktarı kadar SP kaybet.\nBir saldırıya maruz kalmadan önce, bu birimin Batışı kadar Korunma kazan. (Tur başına en fazla 5 Korunma kazanılabilir)\nSaldırıya maruz kaldığında, sonraki turda 1 Darbe DMG Artışı kazan. (Tur başına 3 kez)"
     },
     {
       "id": 1070521,
-      "name": "Ragged Umbrella",
-      "desc": "1 ally with the least SP loses 10 SP when hit by an attack and gains 1 Blunt DMG Up next turn. (Once per turn)"
+      "name": "Yırtık Şemsiye",
+      "desc": "En az SP'ye sahip 1 müttefik, bir saldırıya maruz kaldığında 10 SP kaybeder ve sonraki turda 1 Darbe DMG Artışı kazanır. (Tur başına bir kez)"
     },
     {
       "id": 1120501,
-      "name": "Sawblade Fired Up",
-      "desc": "Inflict +1 Rupture to targets with [Vibration]"
+      "name": "Testere Alevlendi",
+      "desc": "[Vibration] olan hedeflere +1 Parçalanma verir."
     },
     {
       "id": 1120521,
-      "name": "Sawblade Maintenance",
-      "desc": "1 ally with the lowest Speed inflicts +1 Rupture to targets with [Vibration]"
+      "name": "Testere Bakımı",
+      "desc": "En düşük Hıza sahip 1 müttefik, [Vibration] olan hedeflere +1 Parçalanma verir."
     },
     {
       "id": 1010401,
-      "name": "Full Bloom",
-      "desc": "When attacking 2 or more targets at once, deal +30% damage."
+      "name": "Tam Çiçeklenme",
+      "desc": "Aynı anda 2 veya daha fazla hedefe saldırırken, %30 daha fazla hasar verir."
     },
     {
       "id": 1010421,
-      "name": "Pungent Spring Breeze",
-      "desc": "1 ally with the least SP deals +10% damage when attacking 2 or more targets at once."
+      "name": "Keskin Bahar Rüzgarı",
+      "desc": "En az SP'ye sahip 1 müttefik, aynı anda 2 veya daha fazla hedefe saldırırken %10 daha fazla hasar verir."
     },
     {
       "id": 1080501,
-      "name": "Filling Fluid",
-      "desc": "If this unit fails to deal HP damage using attack skills in a turn, gain a Shield equal to 5% of Max HP next turn. (Max 30)"
+      "name": "Dolduran Sıvı",
+      "desc": "Eğer bu birim bir turda saldırı yetenekleriyle HP hasarı veremezse, sonraki turda Max HP'nin %5'i kadar Kalkan kazan. (Maksimum 30)"
     },
     {
       "id": 1080521,
-      "name": "Corrosive Slime",
-      "desc": "When 1 ally with the highest Speed triggers Tremor Burst, they inflict 2 Rupture."
+      "name": "Aşındırıcı Sümük",
+      "desc": "En yüksek Hıza sahip 1 müttefik [Vibration] Patlaması tetiklediğinde, 2 Parçalanma verir."
     },
     {
       "id": 1060501,
-      "name": "Regeneration Ampule Activation",
-      "desc": "When hit, if at less than 20% HP, heal by 90% of Max HP and gain 1 K Corp Ampule.\nAfter this activates, gain 1 Fragile every turn for the rest of the battle. (Once per battle)"
+      "name": "Yenilenme Ampulü Aktivasyonu",
+      "desc": "Saldırıya uğradığında, eğer HP %20'nin altındaysa, Max HP'nin %90'ı kadar yenile ve 1 K Corp Ampulü kazan.\nBu etkinleştikten sonra, savaşın geri kalanı için her turda 1 Kırılganlık kazan. (Savaş başına bir kez)"
     },
     {
       "id": 1060521,
-      "name": "High-grade Ampule",
-      "desc": "At the start of the combat phase, give 2 K Corp Ampule to 1 ally with the lowest HP percentage."
+      "name": "Yüksek Kalite Ampul",
+      "desc": "Savaş aşamasının başlangıcında, en düşük HP yüzdesine sahip 1 müttefiğe 2 K Corp Ampulü uygula."
     },
     {
       "id": 1100601,
-      "name": "Unfixing Talismans",
-      "desc": "On hit, if the target had [Burst], gain 1 Talisman."
+      "name": "Sabitlenmemiş Tılsımlar",
+      "desc": "Vuruşta, eğer hedefin [Burst]'ü varsa, 1 Tılsım kazan."
     },
     {
       "id": 1100621,
-      "name": "Wishing Talisman",
-      "desc": "At the start of the combat phase, give (highest Reson. * 2) Talisman to the ally with the most HP."
+      "name": "Dilek Tılsımı",
+      "desc": "Savaş aşamasının başlangıcında, en çok HP'ye sahip müttefiğe (en yüksek Rezonans * 2) Tılsım uygula."
     },
     {
       "id": 1080601,
-      "name": "Intense Blaze",
-      "desc": "Deal +10% Blunt damage for every 3 Burn Count on target. (Max 30%)"
+      "name": "Yoğun Alev",
+      "desc": "Hedefteki her 3 [Combustion] Miktarı için %10 daha fazla Darbe hasarı uygula. (Maksimum %30)"
     },
     {
       "id": 1080621,
-      "name": "Intense Blaze",
-      "desc": "1 ally with the lowest Speed deals +5% Blunt damage for every 3 Burn Count on target. (Max 15%)"
+      "name": "Yoğun Alev",
+      "desc": "En düşük Hıza sahip 1 müttefik, hedefteki her 3 [Combustion] Miktarı için %5 daha fazla Darbe hasarı verir. (Maksimum %15)"
     },
     {
       "id": 1050601,
-      "name": "Activate rrR-#4 Suit Pressurization",
-      "desc": "At the end of the turn, Max Speed +2 (Capped at 6) per 5 Charge Count next turn."
+      "name": "rrR-#4 Kıyafet Basınçlandırmasını Etkinleştir",
+      "desc": "Tur sonunda, sonraki turda her 5 [Charge] Miktarı için Max Hız +2 kazan. (6'ya kadar sınırlı)"
     },
     {
       "id": 1050621,
-      "name": "Maneuver Training",
-      "desc": "At the end of the turn, 1 ally with the highest Charge Count gains Max Speed +1 (Capped at 3) per 5 Charge Count next turn."
+      "name": "Manevra Eğitimi",
+      "desc": "Tur sonunda, en yüksek [Charge] Miktarına sahip 1 müttefik, sonraki turda her 5 [Charge] Miktarı için Max Hız +1 kazanır. (3'e kadar sınırlı)"
     },
     {
       "id": 1090601,
-      "name": "Defensive Breathing",
-      "desc": "At the start of the combat phase, gain 2 Shield per 1 Poise Count. (Max 20)"
+      "name": "Savunma [Breathe]i",
+      "desc": "Savaş aşamasının başlangıcında, her 1 [Breathe] Miktarı için 2 Kalkan kazan. (Maksimum 20)"
     },
     {
       "id": 1090621,
-      "name": "Designated Protection",
-      "desc": "At the start of the combat phase, 1 ally with the lowest HP percentage gains 1 Shield per 1 Poise Count next turn. (Max 10)"
+      "name": "Belirlenmiş Koruma",
+      "desc": "Savaş aşamasının başlangıcında, en düşük HP yüzdesine sahip 1 müttefik, sonraki turda her 1 [Breathe] Miktarı için 1 Kalkan kazanır. (Maksimum 10)"
     },
     {
       "id": 1030501,
-      "name": "A Noble Duel",
-      "desc": "If Speed of all allies is higher than Speed of all enemies, this unit deals more damage based on the Speed difference between it and the slowest enemy. (+6% per 1 point of difference, Max 30%)"
+      "name": "Asil Düello",
+      "desc": "Eğer tüm müttefiklerin Hızı, tüm düşmanların Hızından yüksekse, bu birim, en yavaş düşmanla arasındaki Hız farkına göre daha fazla hasar verir. (Her 1 puan fark için +%6, maksimum %30)"
     },
     {
       "id": 1030521,
-      "name": "Dueling Request",
-      "desc": "If Speed of all allies is higher than Speed of all enemies, the fastest ally deals more damage based on the Speed difference between it and the slowest enemy. (+3% per 1 point of difference, Max 15%)"
+      "name": "Düello Talebi",
+      "desc": "Eğer tüm müttefiklerin Hızı, tüm düşmanların Hızından yüksekse, en hızlı müttefik, en yavaş düşmanla arasındaki Hız farkına göre daha fazla hasar verir. (Her 1 puan fark için +%3, maksimum %15)"
     },
     {
       "id": 1080701,
-      "name": "Crushin' Crabs",
-      "desc": "On hit against a target with [Vibration], inflict +1 Sinking Count"
+      "name": "Ezilen Yengeçler",
+      "desc": "[Vibration] olan bir hedefe vuruşta, +1 Batış Miktarı verir."
     },
     {
       "id": 1080721,
-      "name": "Crab Driver",
-      "desc": "When an ally with the lowest Max HP hits with Heads Coins, they inflict +1 Sinking Count when inflicting Tremor Count on their target with Coin effects."
+      "name": "Yengeç Sürücüsü",
+      "desc": "En düşük Max HP'ye sahip 1 müttefik, Heads Jetonlarıyla vurduğunda, Jeton etkileriyle hedeflerine [Vibration] Miktarı verirken +1 Batış Miktarı verir."
     },
     {
       "id": 1100701,
-      "name": "Unstable Power Output",
-      "desc": "On hit with Heads Coins at 10+ Tremor Count on self, Inflict +1 Tremor and Tremor Count with Coin effects."
+      "name": "Dengesiz Güç Çıkışı",
+      "desc": "Kendinde 10+ [Vibration] Miktarı varken Heads Jetonlarıyla vurduğunda, Jeton etkileriyle +1 [Vibration] ve [Vibration] Miktarı verir."
     },
     {
       "id": 1100721,
-      "name": "Modified Power Output",
-      "desc": "1 ally with the most Max HP inflicts +1 Tremor with the effects of their attack skills/coins."
+      "name": "Modifiye Güç Çıkışı",
+      "desc": "En çok Max HP'ye sahip 1 müttefik, saldırı yeteneklerinin/jetonlarının etkileriyle +1 [Vibration] verir."
     },
     {
       "id": 1120601,
-      "name": "Combat Shield",
-      "desc": "If targeted by 2 or more attacks at the start of the combat phase, gain 2 Defense Level Up.\nIf at 50% or less HP at the start of the combat phase, gain 3 Defense Level Up."
+      "name": "Savaş Kalkanı",
+      "desc": "Eğer savaş aşamasının başlangıcında 2 veya daha fazla saldırı hedefi olursa, 2 Savunma Seviyesi Artışı kazan.\nEğer savaş aşamasının başlangıcında HP %50 veya daha azsa, 3 Savunma Seviyesi Artışı kazan."
     },
     {
       "id": 1120621,
-      "name": "Your Shield",
-      "desc": "If 1 ally with the highest Max HP is targeted by 2 or more attacks, gain 3 Defense Level Up"
+      "name": "Senin Kalkanın",
+      "desc": "Eğer en yüksek Max HP'ye sahip 1 müttefik 2 veya daha fazla saldırı hedefi olursa, 3 Savunma Seviyesi Artışı kazanır."
     },
     {
       "id": 1020501,
-      "name": "Territory Protection",
-      "desc": "At the start of the combat phase, apply 2 Defense Level Up to the 2 allies adjacent to this unit on the Dashboard."
+      "name": "Bölge Koruma",
+      "desc": "Savaş aşamasının başlangıcında,Sahada bulunan bu birime bitişik 2 müttefiğe 2 Savunma Seviyesi Artışı uygula."
     },
     {
       "id": 1020511,
-      "name": "Territory Protection",
-      "desc": "At the start of the combat phase, apply 2 Defense Level Up to the 2 allies adjacent to this unit on the Dashboard.\nIf the allies' HP is below 50%, apply an additional 2 Defense Level Up"
+      "name": "Bölge Koruma",
+      "desc": "Savaş aşamasının başlangıcında,Sahada bulunan bu birime bitişik 2 müttefiğe 2 Savunma Seviyesi Artışı uygula.\nEğer müttefiklerin HP'si %50'nin altındaysa, ek olarak 2 Savunma Seviyesi Artışı uygula."
     },
     {
       "id": 1020521,
-      "name": "Protection Request Received",
-      "desc": "At the start of the combat phase, apply 2 Defense Level Up to the ally with the lowest HP percentage\nIf target's HP is below 50%, apply an additional 2 Defense Level Up"
+      "name": "Koruma Talebi Alındı",
+      "desc": "Savaş aşamasının başlangıcında, en düşük HP yüzdesine sahip müttefiğe 2 Savunma Seviyesi Artışı uygula.\nEğer hedefin HP'si %50'nin altındaysa, ek olarak 2 Savunma Seviyesi Artışı uygula."
     },
     {
       "id": 1040501,
-      "name": "Dimensional Demon Edge",
-      "desc": "Upon defeating an enemy, gain +2 Charge Count (3 times per turn)"
+      "name": "Boyutsal Şeytan Kenarı",
+      "desc": "Bir düşmanı yendikten sonra, +2 [Charge] Miktarı kazan (tur başına 3 kez)"
     },
     {
       "id": 1040521,
-      "name": "Dimensional Refraction Edge - Type: Blade Mk7",
-      "desc": "When an ally with the lowest Max HP defeats an enemy, they gain +2 Charge Count (Once per turn)"
+      "name": "Boyutsal Kırılma Kenarı - Tür: Bıçak Mk7",
+      "desc": "En düşük Max HP'ye sahip 1 müttefik bir düşmanı yendiğinde, +2 [Charge] Miktarı kazanır. (Tur başına bir kez)"
     },
     {
       "id": 1060601,
-      "name": "Cleanup Mastery",
-      "desc": "If at 5+ Charge Count at the start of the combat phase, gain 2 Haste next turn"
+      "name": "Temizlik Ustalığı",
+      "desc": "Eğer savaş aşamasının başlangıcında 5+ [Charge] Miktarı varsa, sonraki turda 2 [Agility] kazan."
     },
     {
       "id": 1060621,
-      "name": "Train Cleanup Manual",
-      "desc": "An ally with the lowest Speed gains 2 Haste next turn if at 5+ Charge Count at the start of the combat phase"
+      "name": "Tren Temizlik Kılavuzu",
+      "desc": "Eğer savaş aşamasının başlangıcında 5+ [Charge] Miktarı varsa, en düşük Hıza sahip 1 müttefik sonraki turda 2 [Agility] kazanır."
     },
     {
       "id": 1070601,
-      "name": "Instinctive Read",
-      "desc": "When attacking a target with a damage type the target is \"Fatal\" (Resistance>x1.5) to, inflict +1 more Rupture with Skill effects",
-      "summary": "When attacking a target with a damage type the target is Fatal to, inflict +1 more Rupture"
+      "name": "İçgüdüsel Okuma",
+      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla Parçalanma verir.",
+      "summary": "Bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla Parçalanma verir."
     },
     {
       "id": 1070611,
-      "name": "Instinctive Read",
-      "desc": "When attacking a target with a damage type the target is \"Fatal\" (Resistance>x1.5) to, inflict +1 more Rupture with Skill effects\n<style=\"highlight\">If 4 or more surviving units, including this unit, are Seven Association Fixers, additional +1 more Rupture</style>",
-      "summary": "When attacking a target with a damage type the target is Fatal to, inflict +1 more Rupture\nWith 4 or more Seven Association Fixer allies, additional +1 more Rupture"
+      "name": "İçgüdüsel Okuma",
+      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla Parçalanma verir.\n<style=\"highlight\">Eğer bu birim dahil 4 veya daha fazla hayatta kalan birim Seven Association İşçözücüleriyse, ek olarak +1 daha fazla Parçalanma</style>",
+      "summary": "Bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla Parçalanma verir.\n4 veya daha fazla Seven Association İşçözücü müttefik varsa, ek olarak +1 daha fazla Parçalanma verir."
     },
     {
       "id": 1070621,
-      "name": "Connect The Dots",
-      "desc": "1 ally with the highest Max HP inflicts +1 more Rupture with Skill effects when attacking a target with a damage type that the target is \"Fatal\"(Resistance>x1.5) to",
-      "summary": "1 ally with the highest Max HP inflicts +1 more Rupture when attacking with a damage type the target is Fatal to"
+      "name": "Noktaları Birleştir",
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla Parçalanma verir.",
+      "summary": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla Parçalanma verir."
     },
     {
       "id": 1070631,
-      "name": "Connect The Dots",
-      "desc": "1 ally with the highest Max HP inflicts +1 more Rupture with Skill effects when attacking a target with a damage type that the target is \"Fatal\"(Resistance>x1.5) to\n<style=\"highlight\">If the ally is a Seven Association Fixer, additional +1 more Rupture</style>",
-      "summary": "1 ally with the highest Max HP inflicts +1 more Rupture when attacking with a damage type the target is Fatal to\nIf the ally is a Seven Association Fixer, additional +1 more Rupture"
+      "name": "Noktaları Birleştir",
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla Parçalanma verir.\n<style=\"highlight\">Eğer müttefik bir Seven Association İşçözücüsüyse, ek olarak +1 daha fazla Parçalanma</style>",
+      "summary": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla Parçalanma verir.\nEğer müttefik bir Seven Association İşçözücüsüyse, ek olarak +1 daha fazla Parçalanma verir."
     },
     {
       "id": 1020601,
-      "name": "Before The Tea Cools...",
-      "desc": "When attacking a target with a damage type the target is \"Weak\" or \"Fatal\" (Resistance>x1) to, gain 1 [Breath] for each [Burst] on target before the attack (Max 20 per turn)",
-      "summary": "When attacking with a damage type the target is Weak or Fatal to, gain 1 Poise for each Rupture on target before the attack"
+      "name": "Çay Soğumadan Önce...",
+      "desc": "Bir hedefe, hedefin \"Zayıf\" veya \"Ölümcül\" (Direnç>x1) olduğu bir hasar türüyle saldırırken, saldırıdan önce hedefteki her [Burst] için 1 [Breathe] kazan. (Tur başına maksimum 20)",
+      "summary": "Bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, saldırıdan önce hedefteki her Parçalanma için 1 [Breathe] kazan."
     },
     {
       "id": 1020621,
-      "name": "Seven Association Tea Time",
-      "desc": "1 ally with the fastest Speed deals more damage based on the target's <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> when attacking with a damage type that the target is \"Fatal\"(Resistance>x1.5) to \n+1.5% per 1 Rupture (Max 15%)",
-      "summary": "1 ally with the fastest Speed deals more damage based on the target's Rupture when attacking with a damage type the target is Fatal to"
+      "name": "Seven Association Çay Saati",
+      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, hedefin <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> değerine göre daha fazla hasar verir.\n+%1.5 her 1 Parçalanma için (Maksimum %15)",
+      "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, hedefin Parçalanma değerine göre daha fazla hasar verir."
     },
     {
       "id": 1020631,
-      "name": "Seven Association Tea Time",
-      "desc": "1 ally with the fastest Speed deals more damage based on the target's <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> when attacking with a damage type that the target is <style=\"highlight\">\"Weak\" or \"Fatal\"(Resistance>x1)</style> to\n(+1.5% per 1 Rupture; Max 15%)\n<style=\"highlight\">If the ally is a Seven Association Fixer, deal further increased damage\n(+0.5% per 1 Rupture; Max 5%)</style>",
-      "summary": "1 ally with the fastest Speed deals more damage based on the target's Rupture when attacking with a damage type the target is Weak or Fatal to\nIf the ally is a Seven Association Fixer, deal further increased damage"
+      "name": "Seven Association Çay Saati",
+      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin <style=\"highlight\">\"Zayıf\" veya \"Ölümcül\"(Direnç>x1)</style> olduğu bir hasar türüyle saldırırken, hedefin <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> değerine göre daha fazla hasar verir.\n(+%1.5 her 1 Parçalanma; Maksimum %15)\n<style=\"highlight\">Eğer müttefik bir Seven Association İşçözücüsüyse, daha da artan hasar verir.\n(+%0.5 her 1 Parçalanma; Maksimum %5)</style>",
+      "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, hedefin Parçalanma değerine göre daha fazla hasar verir.\nEğer müttefik bir Seven Association İşçözücüsüyse, daha da artan hasar verir."
     },
     {
       "id": 1010501,
-      "name": "In Times Like These...",
-      "desc": "Upon triggering Tremor Burst on an enemy, inflict 1 Defense Level Down per 4 Stagger Threshold raised (Max 5 per 1 enemy every turn)"
+      "name": "Böyle Zamanlarda...",
+      "desc": "Bir düşmanda [Vibration] Patlaması tetiklediğinde, yükseltilen her 4 [Vibration] Eşiği için 1 Savunma Seviyesi Düşüşü uygula. (1 düşman başına her tur maksimum 5)"
     },
     {
       "id": 1010521,
-      "name": "Cleaning Up the Mess",
-      "desc": "When 1 ally with the lowest Max HP triggers Tremor Burst on an enemy, inflict 1 Defense Level Down per 4 Stagger Threshold raised (Max 3 per 1 enemy every turn)"
+      "name": "Dağınıklığı Temizleme",
+      "desc": "En düşük Max HP'ye sahip 1 müttefik bir düşmanda [Vibration] Patlaması tetiklediğinde, yükseltilen her 4 [Vibration] Eşiği için 1 Savunma Seviyesi Düşüşü verir. (1 düşman başına her tur maksimum 3)"
     },
     {
       "id": 1110501,
-      "name": "Drinking Boast",
-      "desc": "Upon triggering Tremor Burst on an enemy, inflict 30% of Raised Stagger Threshold as Sloth damage (Max 20; rounded down)"
+      "name": "İçki Övünmesi",
+      "desc": "Bir düşmanda [Vibration] Patlaması tetiklediğinde, yükseltilen [Vibration] Eşiğinin %30'u kadar Tembellik hasarı uygula. (Maksimum 20; aşağı yuvarlanır)"
     },
     {
       "id": 1110521,
-      "name": "Carrot & Stick",
-      "desc": "1 ally with the most Tremor Count gains +1 more Tremor Count from Skill effects"
+      "name": "Havuç ve Sopa",
+      "desc": "En çok [Vibration] Miktarına sahip 1 müttefik, Yetenek etkilerinden +1 daha fazla [Vibration] Miktarı kazanır."
     },
     {
       "id": 1090701,
-      "name": "Incandescent Enlightenment",
-      "desc": "Gain <sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">Blunt DMG Up</link></u></color> next turn based on the damage that this unit took this turn.\n(Shield damage included in the calculation. Maxes out when taking damage equal to 25% of Max HP at turn start. Max Blunt DMG Up gained by this effect: 5)\nIf this unit has 3 [KnowledgeExplored] at the end of the turn, remove 1 negative effect applied to self"
+      "name": "Aydınlanmış Bilgi",
+      "desc": "Bu turda aldığı hasara göre sonraki turda <sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">Darbe DMG Artışı</link></u></color> kazan.\n(Kalkan hasarı hesaplamaya dahildir. Tur başlangıcında Max HP'nin %25'i kadar hasar aldığında maksimuma ulaşır. Bu etkiyle kazanılabilecek maksimum Darbe DMG Artışı: 5)\nEğer bu birimin 3 [KnowledgeExplored]'ı varsa, tur sonunda kendine uygulanan 1 negatif etkiyi kaldırır."
     },
     {
       "id": 1090721,
-      "name": "Missionary of Knowledge",
-      "desc": "1 ally with the highest Max HP gains <sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">Blunt DMG Up</link></u></color> next turn based on the damage that they took this turn.\n(Shield damage included in the calculation. Maxes out when taking damage equal to 15% of Max HP at turn start. Max Blunt DMG Up gained by this effect: 3)"
+      "name": "Bilgi Misyoneri",
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bu turda aldığı hasara göre sonraki turda <sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">Darbe DMG Artışı</link></u></color> kazanır.\n(Kalkan hasarı hesaplamaya dahildir. Tur başlangıcında Max HP'nin %15'i kadar hasar aldığında maksimuma ulaşır. Bu etkiyle kazanılabilecek maksimum Darbe DMG Artışı: 3)"
     },
     {
       "id": 1060701,
-      "name": "Hook",
-      "desc": "Upon defeating an enemy, gain 1 Attack Power Up next turn (Once per turn)"
+      "name": "Kanca",
+      "desc": "Bir düşmanı yendikten sonra, sonraki turda 1 Saldırı Gücü Artışı kazan. (Tur başına bir kez)"
     },
     {
       "id": 1060721,
-      "name": "Mass-produced Bionic Gear",
-      "desc": "When 1 ally with the fastest Speed defeats an enemy inflicted with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 Attack Power Up next turn (Once per turn)"
+      "name": "Seri Üretim Biyonik Donanım",
+      "desc": "En yüksek Hıza sahip 1 müttefik, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">[Laceration]</color></link></u> olan bir düşmanı yendiğinde, sonraki turda 1 Saldırı Gücü Artışı kazanır. (Tur başına bir kez)"
     },
     {
       "id": 1020701,
-      "name": "Coerced Regret",
-      "desc": "- In a clash, the target has -1 Clash Power if they have 3+ types of negative effects\n- When this unit is alive, enemies affected by [VibrationExplosion] gain 2 Defense Level Down. (Once per enemy per turn)\n- Mental Corruption: If at less than -25 SP at Turn End, gain 2 Bind and 1 Blunt Power Up next turn"
+      "name": "Zorla Pişmanlık",
+      "desc": "- Bir çarpışmada, eğer hedefin 3+ tür negatif etkisi varsa, hedefin Çarpışma Gücü -1 olur.\n- Bu birim hayattayken, [VibrationExplosion] etkisindeki düşmanlar 1 Savunma Seviyesi Düşüşü kazanır. (Düşman başına tur başına bir kez)\n- Mental Bozulma: Eğer Tur Sonunda -25 SP'nin altındaysa, sonraki turda 2 Yavaşlama ve 1 Darbe Gücü Artışı kazan."
     },
     {
       "id": 1020711,
-      "name": "Coerced Regret",
-      "desc": "- In a clash, the target has -1 Clash Power for every 3 types of negative effects it has (Max -2 Clash Power)\n- When this unit is alive, enemies affected by [VibrationExplosion] gain 2 Defense Level Down. (3 times per enemy per turn)\n- Mental Corruption: If at less than -25 SP at Turn End, gain 2 Bind and 1 Blunt Power Up next turn"
+      "name": "Zorla Pişmanlık",
+      "desc": "- Bir çarpışmada, hedefin her 3 tür negatif etkisi için Çarpışma Gücü -1 olur. (Maksimum -2 Çarpışma Gücü)\n- Bu birim hayattayken, [VibrationExplosion] etkisindeki düşmanlar 1 Savunma Seviyesi Düşüşü kazanır. (Düşman başına tur başına 3 kez)\n- Mental Bozulma: Eğer Tur Sonunda -25 SP'nin altındaysa, sonraki turda 2 Yavaşlama ve 1 Darbe Gücü Artışı kazan."
     },
     {
       "id": 1020721,
-      "name": "Repression Work",
-      "desc": "In a clash, the target of the slowest ally has -1 Clash Power if they have 3+ types of negative effects"
+      "name": "Baskı Çalışması",
+      "desc": "Bir çarpışmada, eğer en yavaş müttefiğin hedefinin 3+ tür negatif etkisi varsa, hedefin Çarpışma Gücü -1 olur."
     },
     {
       "id": 1010601,
-      "name": "Emptied Thought",
-      "desc": "- At Turn End, gain 1 Haste per 5 Charge Count on self next turn. (Max 2)\n- If this unit's Skill consumed Charge Count, apply 3 Charge Barrier to 1 ally with the lowest HP percentage"
+      "name": "Boşaltılmış Düşünce",
+      "desc": "- Tur Sonunda, kendindeki her 5 [Charge] Miktarı için sonraki turda 1 [Agility] kazan. (Maksimum 2)\n- Eğer bu birimin Yeteneği [Charge] Miktarı harcadıysa, en düşük HP yüzdesine sahip 1 müttefiğe 3 [Charge] Bariyeri uygula."
     },
     {
       "id": 1010611,
-      "name": "Emptied Thought",
-      "desc": "- At Turn End, gain 1 Haste per 5 Charge Count on self next turn. (Max 3)\n- If this unit's Skill consumed Charge Count, apply 3 Charge Barrier to 1 ally with the lowest HP percentage"
+      "name": "Boşaltılmış Düşünce",
+      "desc": "- Tur Sonunda, kendindeki her 5 [Charge] Miktarı için sonraki turda 1 [Agility] kazan. (Maksimum 3)\n- Eğer bu birimin Yeteneği [Charge] Miktarı harcadıysa, en düşük HP yüzdesine sahip 1 müttefiğe 3 [Charge] Bariyeri uygula."
     },
     {
       "id": 1010621,
-      "name": "Cleanup Demonstration",
-      "desc": "1 Ally with the highest Charge Count deals more damage against targets with <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> based on Rupture on target (+1.5% per Rupture. Max +15% damage)"
+      "name": "Temizlik Gösterisi",
+      "desc": "En yüksek [Charge] Miktarına sahip 1 Müttefik, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> olan hedeflere karşı hedefteki Parçalanma başına +%1.5 daha fazla hasar verir. (Maksimum +%15 hasar)"
     },
     {
       "id": 1120701,
-      "name": "Bullets are Pricey",
-      "desc": "- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n- If this unit Critical Hits when out of [Bullet], spend all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal additional (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage."
+      "name": "Mermiler Pahalı",
+      "desc": "- <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">[Laceration]</color></link></u> olan bir hedefe Heads Hit yaparsa, <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Haksız Zenginleşme</color></link></u> kazan. (Maksimum 4)\n- Eğer bu birim [Bullet]'sizken Kritik Vuruş yaparsa, tüm <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Haksız Zenginleşme</color></link></u>'yi harca ve verilen hasarın (5 x tüketilen <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Haksız Zenginleşme</color></link></u>)%'si kadar ek hasar uygula."
     },
     {
       "id": 1120702,
-      "name": "Bullets are Pricey",
-      "desc": "<style=\"highlight\">- Always Active : begin encounters with 7 Ammo</style>\n- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n<style=\"highlight\"> If a Coin that uses Ammo Hits, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal additional (25 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage as bonus damage.</style>\n- If this unit Critical Hits when out of [Bullet], consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal additional (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage."
+      "name": "Mermiler Pahalı",
+      "desc": "<style=\"highlight\">- Her Zaman Aktif : karşılaşmalara 7 Mermi ile başla</style>\n- <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">[Laceration]</color></link></u> olan bir hedefe Heads Hit yaparsa, <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Haksız Zenginleşme</color></link></u> kazan. (Maksimum 4)\n<style=\"highlight\"> Eğer Mermi kullanan bir Jeton Vurursa, tüm <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Haksız Zenginleşme</color></link></u>'yi harca ve verilen hasarın (25 x tüketilen <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Haksız Zenginleşme</color></link></u>)%'si kadar ek hasar uygula.</style>\n- Eğer bu birim [Bullet]'sizken Kritik Vuruş yaparsa, tüm <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Haksız Zenginleşme</color></link></u>'yi harca ve verilen hasarın (5 x tüketilen <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Haksız Zenginleşme</color></link></u>)%'si kadar ek hasar uygula."
     },
     {
       "id": 1120721,
-      "name": "New Breathing Hole",
-      "desc": "If 1 ally with the most <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> defeats an enemy, gain 1 Pierce DMG Up next turn. (Once per turn)"
+      "name": "Yeni [Breathe] Deliği",
+      "desc": "Eğer en çok <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breathe]</color></link></u> olan 1 müttefik bir düşmanı yenersen, sonraki turda 1 Delme DMG Artışı kazan. (Tur başına bir kez)"
     },
     {
       "id": 1040601,
       "name": "A S.B.",
-      "desc": "If this unit has 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> at Turn End, heal 8 SP."
+      "desc": "Eğer bu birim Tur Sonunda 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breathe]</color></link></u> varsa, 8 SP yenile."
     },
     {
       "id": 1040602,
       "name": "A S.B.",
-      "desc": "<style=\"highlight\">- Always Active : Begin encounters with 7 Ammo</style>\n- If this unit has 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> at Turn End, heal 8 SP."
+      "desc": "<style=\"highlight\">- Her Zaman Aktif : karşılaşmalara 7 Mermi ile başla</style>\n- Eğer bu birim Tur Sonunda 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breathe]</color></link></u> varsa, 8 SP yenile."
     },
     {
       "id": 1040611,
       "name": "A S.B.",
-      "desc": "- Always Active : Begin encounters with 7 Ammo\n- If this unit has 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> at Turn End, heal 8 SP.\n<style=\"highlight\">- If this unit already has max SP upon meeting the above condition, gain 1 Poise next turn</style>"
+      "desc": "- Her Zaman Aktif : karşılaşmalara 7 Mermi ile başla\n- Eğer bu birim Tur Sonunda 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breathe]</color></link></u> varsa, 8 SP yenile.\n<style=\"highlight\">- Eğer bu birim yukarıdaki koşulu karşılarken maksimum SP'ye sahipse, sonraki turda 1 [Breathe] kazan</style>"
     },
     {
       "id": 1040621,
-      "name": "The Lucky Cig",
-      "desc": "If 1 ally with the least Ammo uses up their last Ammo with a Coin, deal 50% of the damage dealt by that Coin attack against each target as bonus damage against each individual target. (rounded up)"
+      "name": "Şanslı Sigara",
+      "desc": "Eğer en az Mermiye sahip 1 müttefik, son Mermisini bir Jetonla kullanırsa, o Jeton saldırısının her hedefe verdiği hasarın %50'sini her bir hedefe ek hasar olarak verir. (Yukarı yuvarlanır)"
     },
     {
       "id": 1040631,
-      "name": "The Lucky Cig",
-      "desc": "<style=\"highlight\">- If 1 ally with the least [Bullet] uses a Skill that spends [Bullet], gain 3 Poise. (once per turn; does not apply to allies without Ammo)</style>\n- If 1 ally with the least Ammo uses up their last Ammo with a Coin, deal 50% of the damage dealt by that Coin attack against each target as bonus damage against each individual target. (rounded up)"
+      "name": "Şanslı Sigara",
+      "desc": "<style=\"highlight\">- Eğer en az [Bullet]'e sahip 1 müttefik [Bullet] harcayan bir Yetenek kullanırsa, 3 [Breathe] kazan. (tur başına bir kez; Mermisiz müttefiklere uygulanmaz)</style>\n- Eğer en az Mermiye sahip 1 müttefik, son Mermisini bir Jetonla kullanırsa, o Jeton saldırısının her hedefe verdiği hasarın %50'sini her bir hedefe ek hasar olarak verir. (Yukarı yuvarlanır)"
     },
     {
       "id": 1030601,
-      "name": "Vengeance Tattoo",
-      "desc": "- Gain 1 Envy DMG Up next turn every time the enemies strike an ally(including this unit) 3 times. (Max 5)\n- Apply <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Vengeance Mark</color></link></u> to the unit that dealt the most Skill damage to an ally.\n- If the main target has Vengeance Mark, Final Power +1"
+      "name": "İntikam Dövmesi",
+      "desc": "- Müttefikler (bu birim dahil) düşmanlar tarafından 3 kez vurulduğunda, sonraki turda 1 Haset DMG Artışı kazan. (Maksimum 5)\n- Bir müttefiğe en fazla Yetenek hasarı veren birime <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">İntikam İşareti</color></link></u> uygula.\n- Eğer ana hedefte İntikam İşareti varsa, Final Güç +1"
     },
     {
       "id": 1030611,
-      "name": "Vengeance Tattoo",
-      "desc": "- Gain 1 Envy DMG Up next turn every time the enemies strike an ally(including this unit) 3 times. (Max 5)\n- Apply <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Vengeance Mark</color></link></u> to the unit that dealt the most Skill damage to an ally.\n- If the main target has Vengeance Mark, Coin Power +1"
+      "name": "İntikam Dövmesi",
+      "desc": "- Müttefikler (bu birim dahil) düşmanlar tarafından 3 kez vurulduğunda, sonraki turda 1 Haset DMG Artışı kazan. (Maksimum 5)\n- Bir müttefiğe en fazla Yetenek hasarı veren birime <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">İntikam İşareti</color></link></u> uygula.\n- Eğer ana hedefte İntikam İşareti varsa, Jeton Gücü +1"
     },
     {
       "id": 1030621,
-      "name": "Favoritism",
-      "desc": "1 ally with the lowest Max HP gains 1 Blunt DMG Up next turn every time the enemies strike an ally(not including this unit) 6 times. (Max 2)"
+      "name": "Kayırmacılık",
+      "desc": "En düşük Max HP'ye sahip 1 müttefik, müttefikler (bu birim hariç) düşmanlar tarafından 6 kez vurulduğunda, sonraki turda 1 Darbe DMG Artışı kazanır. (Maksimum 2)"
     },
     {
       "id": 1050701,
-      "name": "Loyalty",
-      "desc": "- Apply <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Vengeance Mark</color></link></u> to the unit that dealt the most Skill damage to an ally.\n- If the main target has Vengeance Mark, Final Power +1\n- If there is another surviving ally from the Middle, heal 6 SP at every Turn End"
+      "name": "Sadakat",
+      "desc": "- Bir müttefiğe en fazla Yetenek hasarı veren birime <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">İntikam İşareti</color></link></u> uygula.\n- Eğer ana hedefte İntikam İşareti varsa, Final Güç +1\n- Eğer Orta'dan başka bir hayatta kalan müttefik varsa, her Tur Sonunda 6 SP yenile"
     },
     {
       "id": 1050711,
-      "name": "Loyalty",
-      "desc": "- Apply <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Vengeance Mark</color></link></u> to the unit that dealt the most Skill damage to an ally.\n- If the main target has Vengeance Mark, Final Power +1\n- If there is another surviving ally from the Middle other than this unit, this unit and the surviving ally from the Middle with the least SP both heal 6 SP at every Turn End"
+      "name": "Sadakat",
+      "desc": "- Bir müttefiğe en fazla Yetenek hasarı veren birime <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">İntikam İşareti</color></link></u> uygula.\n- Eğer ana hedefte İntikam İşareti varsa, Final Güç +1\n- Eğer Orta'dan bu birim hariç başka bir hayatta kalan müttefik varsa, bu birim ve Orta'dan en az SP'ye sahip hayatta kalan müttefik her Tur Sonunda 6 SP yeniler"
     },
     {
       "id": 1050721,
-      "name": "One Family",
-      "desc": "The 1 ally with the least SP heals 10 SP at Turn End if there is another ally from the same Faction"
+      "name": "Tek Aile",
+      "desc": "Eğer aynı Fraksiyondan başka bir müttefik varsa, en az SP'ye sahip 1 müttefik Tur Sonunda 10 SP yeniler."
     },
     {
       "id": 1070701,
-      "name": "Mutilated Tattoos",
-      "desc": "Gain 1 [AttackUp] and 1 [DefenseUp] next turn every time an ally (including this unit) is attacked. (Max 6)\nDeal more damage at less HP.\n- Deal 0.4% more damage for every 1% missing HP",
-      "summary": "Gain 1 [AttackUp] and 1 [DefenseUp] every time this unit is attacked. Deal more damage the less HP this unit has."
+      "name": "Sakatlanmış Dövmeler",
+      "desc": "Bir müttefik (bu birim dahil) saldırıya uğradığında, sonraki turda 1 [AttackUp] ve 1 [DefenseUp] kazan. (Maksimum 6)\nDaha az HP'de daha fazla hasar uygula.\n- Eksik her %1 HP için %0.4 daha fazla hasar ver",
+      "summary": "Bir müttefik saldırıya uğradığında, 1 [AttackUp] ve 1 [DefenseUp] kazan. Daha az HP'de daha fazla hasar uygula."
     },
     {
       "id": 1070711,
-      "name": "Mutilated Tattoos",
-      "desc": "Gain 1 [AttackUp] and 1 [DefenseUp] next turn every time an ally (including this unit) is attacked. Gain 2 of each instead if the ally is from The Pequod. (Max 9)\nDeal more damage the less HP this unit has.\n- Deal 1% more damage for every 1% missing HP",
-      "summary": "Gain 1 [AttackUp] and 1 [DefenseUp] every time this unit is attacked. Deal more damage the less HP this unit has."
+      "name": "Sakatlanmış Dövmeler",
+      "desc": "Bir müttefik (bu birim dahil) saldırıya uğradığında, sonraki turda 1 [AttackUp] ve 1 [DefenseUp] kazan. Eğer müttefik The Pequod'dansa, her birinden 2 tane kazan. (Maksimum 9)\nDaha az HP'de daha fazla hasar uygula.\n- Eksik her %1 HP için %1 daha fazla hasar ver",
+      "summary": "Bir müttefik saldırıya uğradığında, 1 [AttackUp] ve 1 [DefenseUp] kazan. Daha az HP'de daha fazla hasar uygula."
     },
     {
       "id": 1070721,
-      "name": "Desperation",
-      "desc": "1 ally with the highest max HP deals more Pierce Damage at less HP\n- Deal 0.15% more damage for every 1% missing HP (Max 15%)",
-      "summary": "1 ally with the highest max HP deals more Pierce Damage at less HP"
+      "name": "Çaresizlik",
+      "desc": "En yüksek max HP'ye sahip 1 müttefik, daha az HP'de daha fazla Delme Hasarı verir.\n- Eksik her %1 HP için %0.15 daha fazla hasar ver (Maksimum %15)",
+      "summary": "En yüksek max HP'ye sahip 1 müttefik, daha az HP'de daha fazla Delme Hasarı verir."
     },
     {
       "id": 1070731,
-      "name": "Desperation",
-      "desc": "1 ally with the highest max HP deals more Pierce Damage at less HP\n- Deal 0.3% more damage for every 1% missing HP (Max 30%)",
-      "summary": "1 ally with the highest max HP deals more Pierce Damage at less HP"
+      "name": "Çaresizlik",
+      "desc": "En yüksek max HP'ye sahip 1 müttefik, daha az HP'de daha fazla Delme Hasarı verir.\n- Eksik her %1 HP için %0.3 daha fazla hasar ver (Maksimum %30)",
+      "summary": "En yüksek max HP'ye sahip 1 müttefik, daha az HP'de daha fazla Delme Hasarı verir."
     },
     {
       "id": 1010701,
-      "name": "The First Mate's Harpoon",
-      "desc": "On Crit, inflict 2 more Bleed Potency with a Skill (6 times per turn)"
+      "name": "Birinci Kaptan'ın Zıpkını",
+      "desc": "Kritik Vuruşta, bir Yetenekle 2 daha fazla [Laceration] Şiddeti verir (tur başına 6 kez)"
     },
     {
       "id": 1010721,
-      "name": "The First Mate's Acumen",
-      "desc": "On Crit, 1 ally with the most [Breath] inflicts 2 additional Bleed Potency with a Skill (6 times per turn)"
+      "name": "Birinci Kaptan'ın Kıvraklığı",
+      "desc": "Kritik Vuruşta, en çok [Breathe] olan 1 müttefik bir Yetenekle 2 ek [Laceration] Şiddeti verir (tur başına 6 kez)"
     },
     {
       "id": 1110601,
-      "name": "Redirect",
-      "desc": "On Evade, gain 1 [Agility] next turn (Max 3)"
+      "name": "Yönlendirme",
+      "desc": "Kaçınma yaparsa, sonraki turda 1 [Çeviklik] kazan (Maksimum 3)"
     },
     {
       "id": 1110611,
-      "name": "Redirect",
-      "desc": "On Evade, gain 1 [Agility] next turn; lower this unit's Stagger Threshold by 5 (Max 3)"
+      "name": "Yönlendirme",
+      "desc": "Kaçınma yaparsa, sonraki turda 1 [Çeviklik] kazan; bu birimin [Vibration] Eşiğini 5 düşür (Maksimum 3)"
     },
     {
       "id": 1110621,
-      "name": "Mentor's Counsel",
-      "desc": "If the fastest ally's Speed is faster than Speed of all enemies, the fastest ally gains Clash Power +1"
+      "name": "Akıl Hocasının Tavsiyesi",
+      "desc": "Eğer en hızlı müttefiğin Hızı tüm düşmanların Hızından yüksekse, en hızlı müttefik Çarpışma Gücü +1 kazanır"
     },
     {
       "id": 1110631,
-      "name": "Mentor's Counsel",
-      "desc": "If the fastest ally's Speed is faster than Speed of all enemies, the fastest ally gains Clash Power +1\nIf the said ally is a Cinq Association Fixer, the fastest ally deals +10% Pierce Damage"
+      "name": "Akıl Hocasının Tavsiyesi",
+      "desc": "Eğer en hızlı müttefiğin Hızı tüm düşmanların Hızından yüksekse, en hızlı müttefik Çarpışma Gücü +1 kazanır.\nEğer söz konusu müttefik bir Cinq Association İşçözücüsüyse, en hızlı müttefik %10 daha fazla Delme Hasarı verir."
     },
     {
       "id": 1100801,
-      "name": "Slumbering Bloodthirst",
-      "desc": "Turn End: Gain +2 Max Speed next turn for every 5 [Breath] Count (Max 6)"
+      "name": "Uyuyan Kan Susuzluğu",
+      "desc": "Tur Sonu: sonraki turda her 5 [Breathe] Miktarı için +2 Max Hız kazan. (Maksimum 6)"
     },
     {
       "id": 1100811,
-      "name": "Slumbering Bloodthirst",
-      "desc": "Turn End: Gain +2 Max Speed next turn for every 5 [Breath] Count (Max 6)\nCombat Start: If Speed of all allies is higher than Speed of all enemies, gain 1 [PenetrateDamageUp]"
+      "name": "Uyuyan Kan Susuzluğu",
+      "desc": "Tur Sonu: sonraki turda her 5 [Breathe] Miktarı için +2 Max Hız kazan. (Maksimum 6)\nSavaş Başlangıcı: Eğer tüm müttefiklerin Hızı tüm düşmanların Hızından yüksekse, 1 [PenetrateDamageUp] kazan."
     },
     {
       "id": 1100821,
-      "name": "Too Slow",
-      "desc": "The fastest ally, On Evade, gains 1 [Agility] next turn (Max 5)"
+      "name": "Çok Yavaş",
+      "desc": "En hızlı müttefik, Kaçınma yaparsa sonraki turda 1 [Çeviklik] kazanır (Maksimum 5)"
     },
     {
       "id": 1110701,
-      "name": "The Marksman's Smoking Pipe",
-      "desc": "If the main target's Defense Level is currently lowered by 4 or more, gain ([Combustion] on main target/2) [Breath] Before Attack (Max 20 per turn)"
+      "name": "Nişancının Pipo",
+      "desc": "Eğer ana hedefin Savunma Seviyesi şu anda 4 veya daha fazla düşürülmüşse, Saldırıdan Önce (ana hedefteki [Combustion]/2) [Breathe] kazan. (Tur başına maksimum 20)"
     },
     {
       "id": 1110711,
-      "name": "The Marksman's Smoking Pipe",
-      "desc": "If the main target's Defense Level is currently lowered by 4 or more, gain ([Combustion] on main target) [Breath] Before Attack (Max 20 per turn)"
+      "name": "Nişancının Pipo",
+      "desc": "Eğer ana hedefin Savunma Seviyesi şu anda 4 veya daha fazla düşürülmüşse, Saldırıdan Önce (ana hedefteki [Combustion]) [Breathe] kazan. (Tur başına maksimum 20)"
     },
     {
       "id": 1110721,
-      "name": "Request Work",
-      "desc": "1 ally with the most SP deals +10% damage with E.G.O Skills"
+      "name": "İş Talebi",
+      "desc": "En çok SP'ye sahip 1 müttefik, E.G.O Yetenekleriyle %10 daha fazla hasar verir."
     },
     {
       "id": 1110731,
-      "name": "Request Work",
-      "desc": "1 ally with the most SP deals +10% damage with E.G.O Skills\nIf the E.G.O Skill consumes 7+ E.G.O resources, deal additional +5% damage"
+      "name": "İş Talebi",
+      "desc": "En çok SP'ye sahip 1 müttefik, E.G.O Yetenekleriyle %10 daha fazla hasar verir.\nEğer E.G.O Yeteneği 7+ E.G.O kaynağı tüketirse, ek %5 daha fazla hasar verir."
     },
     {
       "id": 1030701,
       "name": "Om Nom Nom",
-      "desc": "If this unit's Skill Slot has [Aggro], Clash Power +1\nHeal 4 HP every time this unit hits enemies that targeted this unit with an Attack Skill in the Chaining Phase (For Abnormalities, the Parts that targeted this unit with an Attack Skill)"
+      "desc": "Eğer bu birimin Yetenek Yuvasında [Aggro] varsa, Çarpışma Gücü +1 olur.\nZincirleme Aşamasında bu birimi hedef alan bir Saldırı Yeteneği kullanan düşmanlara vurduğunda her vuruşta 4 HP yenile. (Anomaliler için, bu birimi Saldırı Yeteneğiyle hedef alan Parçalar ayrı ayrı hesaplanır.)"
     },
     {
       "id": 1030711,
       "name": "Om Nom Nom",
-      "desc": "If this unit's Skill Slot has [Aggro], Clash Power +1\nHeal 6 HP every time this unit hits enemies that targeted this unit with an Attack Skill in the Chaining Phase (For Abnormalities, each Part is calculated separately)"
+      "desc": "Eğer bu birimin Yetenek Yuvasında [Aggro] varsa, Çarpışma Gücü +1 olur.\nZincirleme Aşamasında bu birimi hedef alan bir Saldırı Yeteneği kullanan düşmanlara vurduğunda her vuruşta 6 HP yenile. (Anomaliler için, her Parça ayrı ayrı hesaplanır.)"
     },
     {
       "id": 1030721,
-      "name": "Illumilantern",
-      "desc": "The ally with the highest [Aggro] Skill Slot heals 2 HP every time they hit an enemy that targets this unit (Does not apply to units without [Aggro])"
+      "name": "Aydınlatma Feneri",
+      "desc": "En yüksek [Aggro] Yetenek Yuvasına sahip müttefik, bu birimi hedef alan bir düşmana vurduğunda 2 HP yeniler. ([Aggro] olmayan birimlere uygulanmaz.)"
     },
     {
       "id": 1030731,
-      "name": "Illumilantern",
-      "desc": "The ally with the highest [Aggro] Skill Slot heals 4 HP every time they hit an enemy that targets this unit (Does not apply to units without [Aggro])"
+      "name": "Aydınlatma Feneri",
+      "desc": "En yüksek [Aggro] Yetenek Yuvasına sahip müttefik, bu birimi hedef alan bir düşmana vurduğunda 4 HP yeniler. ([Aggro] olmayan birimlere uygulanmaz.)"
     },
     {
       "id": 1060801,
-      "name": "Peering Through a Key",
-      "desc": "When Discarding a Skill, gain [AttackDmgUp] equal to the Discarded Skill's Rank. (Max 3 per turn)"
+      "name": "Anahtardan Bakmak",
+      "desc": "Bir Yetenek Atılırken, Atılan Yeteneğin Seviyesi kadar [AttackDmgUp] kazan. (Tur başına maksimum 3)"
     },
     {
       "id": 1060811,
-      "name": "Peering Through a Key",
-      "desc": "When Discarding a Skill, gain [AttackDmgUp] equal to the Discarded Skill Rank. (Max 3 per turn)\nWhen other allies Discard a Skill, and if the ally's Discarded Skill Rank is higher than this unit's [KnowledgeExplored] value, this unit gains +1 [KnowledgeExplored]."
+      "name": "Anahtardan Bakmak",
+      "desc": "Bir Yetenek Atılırken, Atılan Yeteneğin Seviyesi kadar [AttackDmgUp] kazan. (Tur başına maksimum 3)\nDiğer müttefikler bir Yetenek Atarsa ve müttefiğin Atılan Yetenek Seviyesi bu birimin [KnowledgeExplored] değerinden yüksekse, bu birim +1 [KnowledgeExplored] kazanır."
     },
     {
       "id": 1060821,
-      "name": "Enlightenment",
-      "desc": "After Attack: If the target is in a staggered or defeated state by an attack from 1 ally with the least SP, the ally heals 7 SP."
+      "name": "Aydınlanma",
+      "desc": "Saldırı Sonrası: Eğer hedef, en az SP'ye sahip 1 müttefiğin saldırısıyla Sersemlemiş veya yenilmişse, müttefik 7 SP yeniler."
     },
     {
       "id": 1010801,
-      "name": "Sinking Knowledge",
-      "desc": "When attacked, inflict 1 Sinking to the attacker (4 times max)"
+      "name": "Batış Bilgisi",
+      "desc": "Saldırıya uğradığında, saldırgana 1 Batış verir (maksimum 4 kez)"
     },
     {
       "id": 1010811,
-      "name": "Sinking Knowledge",
-      "desc": "When attacked, inflict 1 Sinking on the attacker. When attacked while Shielded, inflict 1 additional Sinking on the attacker. (4 times max)"
+      "name": "Batış Bilgisi",
+      "desc": "Saldırıya uğradığında, saldırgana 1 Batış verir. Kalkanlıyken saldırıya uğrarsa, saldırgana 1 ek Batış verir. (maksimum 4 kez)"
     },
     {
       "id": 1010821,
-      "name": "Reviewed Knowledge",
-      "desc": "When 1 ally with the highest Speed Discards a Skill, gain (3 x Discarded Skill rank)% of the Max HP as Shield (Once per turn)"
+      "name": "Gözden Geçirilmiş Bilgi",
+      "desc": "En yüksek Hıza sahip 1 müttefik bir Yetenek Atarsa, Atılan Yetenek seviyesi x %5 Max HP kadar Kalkan kazanır. (Tur başına bir kez)"
     },
     {
       "id": 1010831,
-      "name": "Reviewed Knowledge",
-      "desc": "When 1 ally with the highest Speed Discards a Skill, gain (5 x Discarded Skill rank)% of the Max HP as Shield (2 times per turn)"
+      "name": "Gözden Geçirilmiş Bilgi",
+      "desc": "En yüksek Hıza sahip 1 müttefik bir Yetenek Atarsa, Atılan Yetenek seviyesi x %5 Max HP kadar Kalkan kazanır. (Tur başına 2 kez)"
     },
     {
       "id": 1080801,
-      "name": "Captain of the Pequod",
-      "desc": "After Attack: if the enemy is defeated after this unit's attack,\n- gain [HeatedGasHarpoon] next turn.\n- 1 other ally with the least SP heals 7 SP.\n- If the ally is from The Pequod, heal an additional 5 SP."
+      "name": "Pequod'un Kaptanı",
+      "desc": "Saldırı Sonrası: eğer bu birimin saldırısından sonra düşman yenilirse,\n- sonraki turda [HeatedGasHarpoon] kazan.\n- en az SP'ye sahip 1 diğer müttefik 7 SP yeniler.\n- Eğer müttefik The Pequod'dansa, ek 5 SP yeniler."
     },
     {
       "id": 1080802,
-      "name": "Hour of the Hunt",
-      "desc": "If the target is a <Lake Entity>, deal +10% damage"
+      "name": "Av Saati",
+      "desc": "Eğer hedef bir <Lake Entity> ise, %10 daha fazla hasar verir."
     },
     {
       "id": 1080811,
-      "name": "Captain of the Pequod",
-      "desc": "- After Attack: if the enemy is defeated after this unit's attack,\n<style=\"highlight\">- gain 4 Poise, +2 Poise Count. Then, gain [OverHeatedGasHarpoon] next turn.</style>\n<style=\"highlight\">- 2 other allies with the least SP heal 7 SP and gain 4 Poise.</style>\n- If the allies are from The Pequod, heal an additional 5 SP. <style=\"highlight\">Then, once per turn, apply 1 Pierce Power Up next turn.</style>"
+      "name": "Pequod'un Kaptanı",
+      "desc": "- Saldırı Sonrası: eğer bu birimin saldırısından sonra düşman yenilirse,\n<style=\"highlight\">- 4 [Breathe], +2 [Breathe] Miktarı kazan. Ardından, sonraki turda [OverHeatedGasHarpoon] kazan.</style>\n<style=\"highlight\">- en az SP'ye sahip 2 diğer müttefik 7 SP yeniler ve 4 [Breathe] kazanır.</style>\n- Eğer müttefikler The Pequod'dansa, ek 5 SP yeniler. <style=\"highlight\">Ardından, tur başına bir kez, sonraki turda 1 Delme Gücü Artışı uygula.</style>"
     },
     {
       "id": 1080821,
-      "name": "Captain's Orders",
-      "desc": "1 ally with the highest SP gains 2 Poise when the target is defeated after that unit's attack (2 times per turn)"
+      "name": "Kaptanın Emirleri",
+      "desc": "En yüksek SP'ye sahip 1 müttefik, bir hedefi saldırısıyla yendikten sonra 2 [Breathe] kazanır (tur başına 2 kez)"
     },
     {
       "id": 1080831,
-      "name": "Captain's Orders",
-      "desc": "After Attack: 1 ally with the highest SP gains 2 Poise and <style=\"highlight\">+2 Poise Count</style> when the target is defeated after that unit's attack (2 times per turn)"
+      "name": "Kaptanın Emirleri",
+      "desc": "Saldırı Sonrası: en yüksek SP'ye sahip 1 müttefik, bir hedefi saldırısıyla yendikten sonra 2 [Breathe] ve <style=\"highlight\">+2 [Breathe] Miktarı</style> kazanır (tur başına 2 kez)"
     },
     {
       "id": 1050801,
-      "name": "Swordplay of the Homeland",
-      "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn. (Once per Encounter)\n\nWhen this unit gains [Breath] Potency/Count with its own Skill or Coin effects: give 1 [Breath] Potency and +1 [Breath] Count to 2 other Blade Lineage allies with no [Breath] or with the least [Breath]\n- If there are 6 or more Blade Lineage allies participating in this Encounter, give 2 [Breath] Potency and +2 [Breath] Count instead"
+      "name": "Vatan Kılıç Oyunu",
+      "desc": "Bu Karşılaşmada, bu birim HP'sini 0'a düşüren hasar aldığında, o hasarı geçersiz kıl; ardından, bu birimin HP'si bu tur için 1'in altına düşemez. (Karşılaşma başına bir kez)\n\nBu birim kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti/Miktarı kazandığında: [Breathe]'i olmayan veya en az [Breathe]'e sahip 2 diğer Blade Lineage müttefiğine 1 [Breathe] Şiddeti ve +1 [Breathe] Miktarı uygula.\n- Eğer bu Karşılaşmada 6 veya daha fazla Blade Lineage müttefiği varsa, bunun yerine 2 [Breathe] Şiddeti ve +2 [Breathe] Miktarı uygula."
     },
     {
       "id": 1050811,
-      "name": "Swordplay of the Homeland",
-      "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn. (Once per Encounter)\n\nWhen this unit gains [Breath] Potency/Count with its own Skill or Coin effects: give 1 [Breath] Potency and +1 [Breath] Count to 2 other Blade Lineage allies with no [Breath] or with the least [Breath]\n- If there are 6 or more Blade Lineage allies participating in this Encounter, give 2 [Breath] Potency and +2 [Breath] Count instead\n\nCombat Start: Apply [SwordPlayOfTheHomeland] buff to all other Blade Lineage allies"
+      "name": "Vatan Kılıç Oyunu",
+      "desc": "Bu Karşılaşmada, bu birim HP'sini 0'a düşüren hasar aldığında, o hasarı geçersiz kıl; ardından, bu birimin HP'si bu tur için 1'in altına düşemez. (Karşılaşma başına bir kez)\n\nBu birim kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti/Miktarı kazandığında: [Breathe]'i olmayan veya en az [Breathe]'e sahip 2 diğer Blade Lineage müttefiğine 1 [Breathe] Şiddeti ve +1 [Breathe] Miktarı uygula.\n- Eğer bu Karşılaşmada 6 veya daha fazla Blade Lineage müttefikleri varsa, bunun yerine 2 [Breathe] Şiddeti ve +2 [Breathe] Miktarı uygula.\n\nSavaş Başlangıcı: diğer tüm Blade Lineage müttefiklerine [SwordPlayOfTheHomeland] buff'ı uygula."
     },
     {
       "id": 1050821,
-      "name": "Swordplay of the Homeland",
-      "desc": "Combat Start: 1 ally with the most [Breath] deals +15% damage on Critical Hit"
+      "name": "Vatan Kılıç Oyunu",
+      "desc": "Savaş Başlangıcı: en çok [Breathe]'e sahip 1 müttefik, Kritik Vuruşta %15 daha fazla hasar verir."
     },
     {
       "id": 1020801,
-      "name": "Sanguine Plum Blossoms",
-      "desc": "On Crit: Inflict 1 [RedApricotBlossom]. (3 times max)"
+      "name": "Kanlı Erik Çiçekleri",
+      "desc": "Kritik Vuruşta: 1 [RedApricotBlossom] verir. (maksimum 3 kez)"
     },
     {
       "id": 1020811,
-      "name": "Sanguine Plum Blossoms",
-      "desc": "On Crit: Inflict 1 [RedApricotBlossom]. If the target has 10 [RedApricotBlossom], inflict 1 Defense Level Down instead (6 times max)"
+      "name": "Kanlı Erik Çiçekleri",
+      "desc": "Kritik Vuruşta: 1 [RedApricotBlossom] verir. Eğer hedefin 10 [RedApricotBlossom]'u varsa, bunun yerine 1 Savunma Seviyesi Düşüşü verir. (maksimum 6 kez)"
     },
     {
       "id": 1020821,
-      "name": "Lingering Bladepoint",
-      "desc": "When the ally first deployed in the pre-battle team setup Critically hits with a Slash type Skill, inflict 1 Defense Level Down (3 times max per 1 enemy per turn)"
+      "name": "Kalıcı Kılıç Ucu",
+      "desc": "Savaş öncesi takım kurulumunda ilk konuşlandırılan müttefik, bir Kesme türü Yetenekle Kritik Vuruş yaparsa, 1 Savunma Seviyesi Düşüşü verir. (1 düşman başına tur başına maksimum 3 kez)"
     },
     {
       "id": 1030801,
-      "name": "Collective Breathing",
-      "desc": "When this unit gains [Breath] Potency with its own Skill or Coin effects: give 1 [Breath] Potency to 1 ally with no [Breath] or with the least [Breath] Potency (3 times max)"
+      "name": "Kolektif [Breathe]",
+      "desc": "Bu birim kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti kazandığında: [Breathe]'i olmayan veya en az [Breathe] Şiddetine sahip 1 müttefiğe 1 [Breathe] Şiddeti verir. (maksimum 3 kez)"
     },
     {
       "id": 1030811,
-      "name": "Collective Breathing",
-      "desc": "When this unit gains [Breath] Potency with its own Skill or Coin effects: give 1 [Breath] Potency to 1 ally with no [Breath] or with the least [Breath] Potency (5 times max)"
+      "name": "Kolektif [Breathe]",
+      "desc": "Bu birim kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti kazandığında: [Breathe]'i olmayan veya en az [Breathe] Şiddetine sahip 1 müttefiğe 1 [Breathe] Şiddeti verir. (maksimum 5 kez)"
     },
     {
       "id": 1030821,
-      "name": "Nightly Stroll",
-      "desc": "1 ally with the least [Breath] gains 1 more [Breath] Potency when gaining [Breath] Potency with its own Skill or Coin effects. (2 times max. Does not apply to allies without [Breath])"
+      "name": "Gece Yürüyüşü",
+      "desc": "En az [Breathe]'e sahip 1 müttefik, kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti kazandığında, 1 daha fazla [Breathe] Şiddeti kazanır. (maksimum 2 kez. [Breathe]'i olmayan müttefiklere uygulanmaz.)"
     },
-    {
-      "id": 1030831,
-      "name": "Nightly Stroll",
-      "desc": "1 ally with the least [Breath] gains 2 more [Breath] Potency when gaining [Breath] Potency with its own Skill or Coin effects. (2 times max. Does not apply to allies without [Breath])"
-    },
-    {
-      "id": 1120801,
-      "name": "Dark Cloud Blade",
-      "desc": "Clash Win: inflict 1 [Laceration] (3 times per turn)"
-    },
-    {
-      "id": 1120821,
-      "name": "Dark Cloud Style",
-      "desc": "When 1 ally with the slowest Speed hits an enemy with 10+ [Laceration], inflict 1 Offense Level Down next turn (3 times per turn)"
-    },
-    {
-      "id": 1120831,
-      "name": "Dark Cloud Style",
-      "desc": "When 1 ally with the slowest Speed hits an enemy with 7+ [Laceration], inflict 1 Offense Level Down next turn (3 times per turn)"
-    },
-    {
-      "id": 1050802,
-      "name": "In Memoriam",
-      "desc": "When 3 or more other Blade Lineage allies are defeated:\n- When gaining Poise Potency/Count with this unit's own Skills and Coin effects: gain 1 more of each\n- When 5 or more other Blade Lineage allies are defeated, gain 2 more of each instead\n- Combat Start: Apply [SwordPlayOfTheHomeland] on self"
-    },
-    {
-      "id": 1090801,
-      "name": "Burning Passion",
-      "desc": "Deal +5% more damage for every 6 [Combustion] Potency on target (Max 15%)\nCombat Start: If all enemies have 6+ [Combustion] Potency, apply 1 [CrimsonDamageUp] to (highest Wrath A-Reson.) allies in Deployment order\n- In Focused Encounters, the above activates when all enemy Parts have 6+ [Combustion] Potency",
-      "summary": "Deal +5% more damage for every 6 [Combustion] Potency on target (Max 15%)\nUnder certain Burn and Wrath A-Reson. conditions, apply buff to allies"
-    },
-    {
-      "id": 1090811,
-      "name": "Burning Passion",
-      "desc": "Deal +10% more damage for every 6 [Combustion] Potency on target (Max 30%)\nCombat Start: If all enemies have 6+ [Combustion] Potency, apply 1 [CrimsonDamageUp] to (highest Wrath A-Reson.) allies in Deployment order\n- In Focused Encounters, the above activates when all enemy Parts have 6+ [Combustion] Potency\n- If the ally is a Liu Association Fixer, apply 1 Attack Power Up",
-      "summary": "Deal +10% more damage for every 6 [Combustion] Potency on target (Max 30%)\nUnder certain Burn and Wrath A-Reson. conditions, apply buff to allies"
-    },
-    {
-      "id": 1090821,
-      "name": "Passionate Cheer",
-      "desc": "1 ally with the least SP deals +5% Pierce damage for every 6 [Combustion] Potency on target On Hit (Max 15%)"
-    },
-    {
-      "id": 1040701,
-      "name": "Flame Spread",
-      "desc": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 1 random enemy with no [Combustion] or with the least [Combustion] Potency. (Once per turn)\n- In Focused Encounters, to 1 random Part",
-      "summary": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 1 random enemy with no [Combustion] or with the least [Combustion] Potency"
-    },
-    {
-      "id": 1040711,
-      "name": "Flame Spread",
-      "desc": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 2 random enemies with no [Combustion] or with the least [Combustion] Potency. (2 times per turn)\n- In Focused Encounters, to 2 random Parts",
-      "summary": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 2 random enemies with no [Combustion] or with the least [Combustion] Potency"
-    },
-    {
-      "id": 1040721,
-      "name": "Spread Flame",
-      "desc": "When 1 ally with the lowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 1 random enemy (Once per turn)\n- In Focused Encounters, on 1 random Part",
-      "summary": "When 1 ally with the lowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 1 random enemy"
-    },
-    {
-      "id": 1040731,
-      "name": "Spread Flame",
-      "desc": "When 1 ally with the lowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 2 random enemies (Once per turn)\n- In Focused Encounters, on 2 random Parts",
-      "summary": "When 1 ally with the lowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 2 random enemies"
-    },
-    {
-      "id": 1070801,
-      "name": "Grave Attendance",
-      "desc": "Deal +5% more damage for every 6 [Vibration] Potency on target (Max 15%)",
-      "summary": ""
-    },
-    {
-      "id": 1070811,
-      "name": "Grave Attendance",
-      "desc": "Deal +10% more damage for every 6 [Vibration] Potency on target (Max 30%)\nWhen converting [Vibration] into [VibrationCollapse] with this unit's Skill effects, trigger [VibrationExplosion] on target",
-      "summary": ""
-    },
-    {
-      "id": 1070821,
-      "name": "Verify Obligation Fulfillment",
-      "desc": "To 1 ally with the fastest Speed: Clash Power +1 to Skills that apply [Vibration] Potency or Count",
-      "summary": ""
+  {
+  "id": 1120821,
+  "name": "Kara Bulut Stili",
+  "desc": "En düşük Hıza sahip 1 müttefik, 10+ [Laceration] olan bir düşmana vurduğunda, sonraki turda 1 Saldırı Seviyesi Düşüşü ver (tur başına 3 kez)"
+  },
+  {
+  "id": 1120831,
+  "name": "Kara Bulut Stili",
+  "desc": "En düşük Hıza sahip 1 müttefik, 7+ [Laceration] olan bir düşmana vurduğunda, sonraki turda 1 Saldırı Seviyesi Düşüşü ver (tur başına 3 kez)"
+  },
+  {  
+  "id": 1050802,
+  "name": "Anısına",
+  "desc": "3 veya daha fazla Blade Lineage müttefiği yenildiğinde:\n- Bu birimin kendi Yetenek ve Jeton etkileriyle [Poise] Şiddeti/Miktarı kazandığında: her birinden 1 fazla kazan\n- 5 veya daha fazla Blade Lineage müttefiği yenildiğinde, her birinden 2 fazla kazan\n- Savaş Başlangıcı: Kendine [SwordPlayOfTheHomeland] uygula"
+  },
+  {
+  "id": 1090801,
+  "name": "Yanan Tutku",
+  "desc": "Hedefteki her 6 [Combustion] Şiddeti için %5 daha fazla hasar ver (Maksimum %15)\nSavaş Başlangıcı: Tüm düşmanlarda 6+ [Combustion] Şiddeti varsa, (en yüksek Öfke A-Rezonansı olan) müttefiklere konuşlandırma sırasına göre 1 [CrimsonDamageUp] uygula\n- Odaklı Karşılaşmalarda, yukarıdaki etki tüm düşman Parçalarında 6+ [Combustion] olduğunda aktif olur",
+  "summary": "Hedefteki her 6 [Combustion] Şiddeti için %5 daha fazla hasar ver (Maksimum %15)\nBelirli Yanma ve Öfke A-Rezonans koşullarında, müttefiklere buff uygula"
+  },
+  {
+  "id": 1090811,
+  "name": "Yanan Tutku",
+  "desc": "Hedefteki her 6 [Combustion] Şiddeti için %10 daha fazla hasar ver (Maksimum %30)\nSavaş Başlangıcı: Tüm düşmanlarda 6+ [Combustion] Şiddeti varsa, (en yüksek Öfke A-Rezonansı olan) müttefiklere konuşlandırma sırasına göre 1 [CrimsonDamageUp] uygula\n- Odaklı Karşılaşmalarda, yukarıdaki etki tüm düşman Parçalarında 6+ [Combustion] olduğunda aktif olur\n- Müttefik bir Liu Association Fixer ise, 1 Saldırı Gücü Artışı uygula",
+  "summary": "Hedefteki her 6 [Combustion] Şiddeti için %10 daha fazla hasar ver (Maksimum %30)\nBelirli Yanma ve Öfke A-Rezonans koşullarında, müttefiklere buff uygula"
+  },
+  {
+  "id": 1090821,
+  "name": "Tutkulu Tezahürat",
+  "desc": "En az SP'ye sahip 1 müttefik, hedefteki her 6 [Combustion] Şiddeti için Vuruş başına %5 daha fazla Delme hasarı verir (Maksimum %15)"
+  },
+  {
+  "id": 1040701,
+  "name": "Alev Yayılımı",
+  "desc": "Bu birim [Combustion] olan bir düşmanı yendiğinde, [Combustion] olmayan veya en az [Combustion] Şiddetine sahip 1 rastgele düşmana 4 [Combustion] uygula. (Tur başına 1 kez)\n- Odaklı Karşılaşmalarda, 1 rastgele Parçaya",
+  "summary": "Bu birim [Combustion] olan bir düşmanı yendiğinde, [Combustion] olmayan veya en az [Combustion] Şiddetine sahip 1 rastgele düşmana 4 [Combustion] uygula"
+  },
+  {
+  "id": 1040711,
+  "name": "Alev Yayılımı",
+  "desc": "Bu birim [Combustion] olan bir düşmanı yendiğinde, [Combustion] olmayan veya en az [Combustion] Şiddetine sahip 2 rastgele düşmana 4 [Combustion] uygula. (Tur başına 2 kez)\n- Odaklı Karşılaşmalarda, 2 rastgele Parçaya",
+  "summary": "Bu birim [Combustion] olan bir düşmanı yendiğinde, [Combustion] olmayan veya en az [Combustion] Şiddetine sahip 2 rastgele düşmana 4 [Combustion] uygula"
+  },
+  {
+  "id": 1040721,
+  "name": "Yayılan Alev",
+  "desc": "En düşük Hıza sahip 1 müttefik, [Combustion] olan bir düşmanı yendiğinde, 1 rastgele düşmana 3 [Combustion] verir (Tur başına 1 kez)\n- Odaklı Karşılaşmalarda, 1 rastgele Parçaya",
+  "summary": "En düşük Hıza sahip 1 müttefik, [Combustion] olan bir düşmanı yendiğinde, 1 rastgele düşmana 3 [Combustion] verir"
+  },
+  {
+  "id": 1040731,
+  "name": "Yayılan Alev",
+  "desc": "En düşük Hıza sahip 1 müttefik, [Combustion] olan bir düşmanı yendiğinde, 2 rastgele düşmana 3 [Combustion] verir (Tur başına 1 kez)\n- Odaklı Karşılaşmalarda, 2 rastgele Parçaya",
+  "summary": "En düşük Hıza sahip 1 müttefik, [Combustion] olan bir düşmanı yendiğinde, 2 rastgele düşmana 3 [Combustion] verir"
+   },
+   {
+  "id": 1070801,
+  "name": "Mezar Nöbeti",
+  "desc": "Hedefteki her 6 [Vibration] Şiddeti için %5 daha fazla hasar ver (Maksimum %15)",
+  "summary": ""
+   },
+   {
+  "id": 1070811,
+  "name": "Mezar Nöbeti",
+  "desc": "Hedefteki her 6 [Vibration] Şiddeti için %10 daha fazla hasar ver (Maksimum %30)\nBu birimin Yetenek etkileriyle [Vibration]'ı [VibrationCollapse]'a dönüştürdüğünde, hedefte [VibrationExplosion] tetikle",
+  "summary": ""
+   },
+   {
+  "id": 1070821,
+  "name": "Yükümlülük Doğrulama",
+  "desc": "En yüksek Hıza sahip 1 müttefiğe: [Vibration] Şiddeti veya Miktarı uygulayan Yeteneklere Çarpışma Gücü +1",
+  "summary": ""
     },
     {
       "id": 1050901,
