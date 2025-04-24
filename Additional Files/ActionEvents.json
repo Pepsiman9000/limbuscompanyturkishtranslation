@@ -74,22 +74,22 @@
     },
     {
       "id": 101003,
-      "name": "An Encounter with the Unbearable",
-      "subDesc": "Crunching sounds jar on your nerves.",
-      "desc": "While traversing a narrow passage, a swarm of cockroaches crawled into the way.\nThe rustling visage is almost revolting.\n\nDo you walk past them? Or…",
+      "name": "Katlanamaz Olanla Bir Karşılaşma",
+      "subDesc": "Çatırdama sesleri kulaklarını tırmalıyor.",
+      "desc": "Dar bir geçitten geçerken, bir hamamböceği sürüsü bir anda önüne çıktı.\nHaşırtılar neredeyse tiksindirici derecede fazla.\n\nOnların yanından mi dolaşacaksın? Ya da…",
       "options": [
         {
-          "message": "Carefully move past the gross swarm.",
-          "messageDesc": "All allies lose SP",
+          "message": "İğrenç sürünün etrafından dolaş.",
+          "messageDesc": "Tüm müttefikler SP kaybeder",
           "result": [
-            "“Ewwww… One got on my leg!”\n\nEveryone managed to get through the passage, but their disgust is clearly visible.\nThey seem fatigued by the experience."
+            "“Iyyyyyy… bi tanesi bacağıma tırmandı!”\n\nHerkes geçitten geçmeyi başardı, ama tiksintikeri gayet de barizdi.\nBu deneyimden yorulmuş gözüküyorlar."
           ]
         },
         {
-          "message": "Enough is enough. Crush the cockroaches with the Sinners.",
-          "messageDesc": "Gregor loses a lot of SP. Begin a combat encounter. Win to gain an E.G.O Gift.",
+          "message": "Yetti artık. Günahkârlara hamamböceklerini ezmelerini söyle.",
+          "messageDesc": "Gregor büyük miktarda SP kaybeder. Karşılaşma başlat. E.G.O Hediyesi kazanmak için karşılaşmayı yen.",
           "result": [
-            "“Tsk…”\n\nGregor turned away from the carnage, discontent.\nSoon after, a crowd of angry bug-soldiers came charging for us."
+            "“Çh…”\n\nGregor mutsuz bir şekilde katliama sırtını döndü.\nKısa bir süre sonra, bir grup sinirli böcek asker bize doğru koşarak geliyordu."
           ]
         }
       ]
