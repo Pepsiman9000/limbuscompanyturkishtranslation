@@ -1205,102 +1205,102 @@
   "desc": "En yüksek Hıza sahip 1 müttefiğe: [Vibration] Şiddeti veya Miktarı uygulayan Yeteneklere Çarpışma Gücü +1",
   "summary": ""
     },
-    {
-      "id": 1050901,
-      "name": "Buy Time",
-      "desc": "Clash Power +1 in a Clash against targets with [Burst]",
-      "summary": "Clash Power +1 in a Clash against targets with [Burst]"
-    },
-    {
-      "id": 1050921,
-      "name": "My Responsibility",
-      "desc": "When 1 ally with the fastest Speed hits an enemy with 6+ [Burst], inflict 1 [AttackDown] (3 times per enemy per turn)",
-      "summary": "Inflict 1 [AttackDown] On Hit against targets with 6+ [Burst]"
-    },
-    {
-      "id": 1050931,
-      "name": "My Responsibility",
-      "desc": "When 1 ally with the fastest Speed hits an enemy with 3+ [Burst], inflict 1 [AttackDown] (3 times per enemy per turn)",
-      "summary": "Inflict 1 [AttackDown] On Hit against targets with 3+ [Burst]"
-    },
-    {
-      "id": 1110801,
-      "name": "The Mistress's Voice...!",
-      "desc": "- When clashing against targets with less than -25 SP, Clash Power +1 and deal +10% more damage\n- Deal +15% more damage against targets with [EchoOfMansion]\n- When winning a Clash without losing a single Coin, heal 10 SP. If this unit is already at max SP, gain 2 [AttackUp] next turn (2 times per turn)",
-      "summary": "Against targets with low SP, Clash Power +1 and deal +10% more damage\nDeal +15% more damage if the target has [EchoOfMansion]\nHeal SP on Clash Win"
-    },
-    {
-      "id": 1110811,
-      "name": "The Mistress's Voice...!",
-      "desc": "- When clashing against targets with less than 0 SP, Clash Power +1 and deal +20% more damage\n- Deal +30% more damage against targets with [EchoOfMansion]\n- When winning a Clash without losing a single Coin, heal 10 SP. If this unit is already at max SP, gain 3 [AttackUp] next turn (2 times per turn)",
-      "summary": "Against targets with low SP, Clash Power +1 and deal +20% more damage\nDeal +30% more damage if the target has [EchoOfMansion]\nHeal SP on Clash Win"
-    },
-    {
-      "id": 1110821,
-      "name": "Butler Training",
-      "desc": "Clash Power +1 to 1 ally with the most SP when clashing against targets with less than -25 SP",
-      "summary": "Clash Power +1 when Clashing against targets with less than -25 SP"
-    },
-    {
-      "id": 1110831,
-      "name": "Butler Training",
-      "desc": "Clash Power +1 to 1 ally with the most SP when clashing against targets with less than -25 SP",
-      "summary": "Clash Power +1 when Clashing against targets with less than -25 SP"
-    },
-    {
-      "id": 1050911,
-      "name": "Buy Time",
-      "desc": "Clash Power +1 against targets with [Burst]\nClash Power +2 if the target has 5+ [Burst] Count",
-      "summary": ""
-    },
-    {
-      "id": 1020901,
-      "name": "Butler Style Response",
-      "desc": "- Clash Win: inflict 1 [Sinking] on target (3 times per turn)",
-      "summary": "Clash Win: inflict 1 [Sinking]"
-    },
-    {
-      "id": 1020911,
-      "name": "Butler Style Response",
-      "desc": "- Clash Win: inflict 1 [Sinking] on target (3 times per turn)\n- If the target has [EchoOfMansion], inflict 3 [Sinking] instead",
-      "summary": "Clash Win: inflict 1 [Sinking]"
-    },
-    {
-      "id": 1020921,
-      "name": "Anticipatory Training",
-      "desc": "When 1 ally with the least SP hits an enemy with 5+ [Sinking], the ally heals 2 SP On Hit (4 times per turn)",
-      "summary": "Conditional SP healing"
-    },
-    {
-      "id": 1020931,
-      "name": "Anticipatory Training",
-      "desc": "When 1 ally with the least SP hits an enemy with 5+ [Sinking], the ally heals 3 SP On Hit (4 times per turn)",
-      "summary": "Conditional SP healing"
-    },
-    {
-      "id": 1120901,
-      "name": "Endless Nightmares",
-      "desc": "- Combat Start: gain 1 [AttackDmgUp] and 1 [Vulnerable] for every 5 SP difference between Combat Start and the last Turn Start (max 5)\n- Deal +1% more damage for every [Sinking] Potency on target (max 20%)",
-      "summary": ""
-    },
-    {
-      "id": 1120911,
-      "name": "Endless Nightmares",
-      "desc": "- Combat Start: gain 1 [AttackDmgUp] and 1 [Vulnerable] for every 5 SP difference between Combat Start and the last Turn Start (max 5)\n- Deal +2% more damage for every [Sinking] Potency on target (max 40%)",
-      "summary": ""
-    },
-    {
-      "id": 1120921,
-      "name": "Suffering",
-      "desc": "Combat Start: 1 ally with the least SP loses 7 SP, then gains 1 [AzureDamageUp]",
-      "summary": ""
-    },
-    {
-      "id": 1120931,
-      "name": "Suffering",
-      "desc": "Combat Start: 1 ally with the least SP loses 5 SP, then gains 1 [AzureDamageUp]",
-      "summary": ""
-    },
+      {
+    "id": 1050901,
+    "name": "Zaman Kazan",
+    "desc": "[Burst] olan hedeflerle girilen Çarpışmalarda Çarpışma Gücü +1",
+    "summary": "[Burst] olan hedeflerle Çarpışmalarda Çarpışma Gücü +1"
+  },
+  {
+    "id": 1050921,
+    "name": "Benim Sorumluluğum",
+    "desc": "En yüksek Hıza sahip 1 müttefik, 6+ [Burst] olan bir düşmana vurduğunda, 1 [AttackDown] uygula (her düşman için tur başına 3 kez)",
+    "summary": "6+ [Burst] olan hedeflere vuruşta 1 [AttackDown] uygula"
+  },
+  {
+    "id": 1050931,
+    "name": "Benim Sorumluluğum",
+    "desc": "En yüksek Hıza sahip 1 müttefik, 3+ [Burst] olan bir düşmana vurduğunda, 1 [AttackDown] uygula (her düşman için tur başına 3 kez)",
+    "summary": "3+ [Burst] olan hedeflere vuruşta 1 [AttackDown] uygula"
+  },
+  {
+    "id": 1110801,
+    "name": "Hanımefendinin Sesi...!",
+    "desc": "- SP'si -25'in altında olan hedeflerle Çarpışmalarda: Çarpışma Gücü +1 ve +%10 daha fazla hasar uygula\n- [EchoOfMansion] etkisindeki hedeflere +%15 daha fazla hasar uygula\n- Hiçbir Jeton kaybetmeden bir Çarpışma kazanırsan, 10 SP yenile. Eğer bu birim maksimum SP'ye sahipse, sonraki turda 2 [AttackUp] kazan (tur başına 2 kez)",
+    "summary": "Düşük SP'li hedeflere karşı Çarpışma Gücü +1 ve +%10 hasar\n[EchoOfMansion] olanlara +%15 hasar\nÇarpışma kazanıldığında SP yenile"
+  },
+  {
+    "id": 1110811,
+    "name": "Hanımefendinin Sesi...!",
+    "desc": "- SP'si 0'ın altında olan hedeflerle Çarpışmalarda: Çarpışma Gücü +1 ve +%20 daha fazla hasar uygula\n- [EchoOfMansion] etkisindeki hedeflere +%30 daha fazla hasar uygula\n- Hiçbir Jeton kaybetmeden bir Çarpışma kazanırsan, 10 SP yenile. Eğer bu birim maksimum SP'ye sahipse, sonraki turda 3 [AttackUp] kazan (tur başına 2 kez)",
+    "summary": "Düşük SP'li hedeflere karşı Çarpışma Gücü +1 ve +%20 hasar\n[EchoOfMansion] olanlara +%30 hasar\nÇarpışma kazanıldığında SP yenile"
+  },
+  {
+    "id": 1110821,
+    "name": "Uşak Eğitimi",
+    "desc": "SP’si en yüksek olan 1 müttefik, SP’si -25’in altında olan hedeflerle Çarpışmalarda Çarpışma Gücü +1 kazanır",
+    "summary": "SP’si -25’in altında olan hedeflere karşı Çarpışma Gücü +1"
+  },
+  {
+    "id": 1110831,
+    "name": "Uşak Eğitimi",
+    "desc": "SP’si en yüksek olan 1 müttefik, SP’si -25’in altında olan hedeflerle Çarpışmalarda Çarpışma Gücü +1 kazanır",
+    "summary": "SP’si -25’in altında olan hedeflere karşı Çarpışma Gücü +1"
+  },
+  {
+    "id": 1050911,
+    "name": "Zaman Kazan",
+    "desc": "[Burst] olan hedeflere karşı Çarpışmalarda Çarpışma Gücü +1\n5+ [Burst] Miktarı varsa, Çarpışma Gücü +2",
+    "summary": ""
+  },
+  {
+    "id": 1020901,
+    "name": "Uşak Tarzı Müdahale",
+    "desc": "- Çarpışma Kazanıldığında: hedefe 1 [Sinking] uygula (tur başına 3 kez)",
+    "summary": "Çarpışma Kazanıldığında: 1 [Sinking] uygula"
+  },
+  {
+    "id": 1020911,
+    "name": "Uşak Tarzı Müdahale",
+    "desc": "- Çarpışma Kazanıldığında: hedefe 1 [Sinking] uygula (tur başına 3 kez)\n- Hedefte [EchoOfMansion] varsa, bunun yerine 3 [Sinking] uygula",
+    "summary": "Çarpışma Kazanıldığında: 1 [Sinking] uygula"
+  },
+  {
+    "id": 1020921,
+    "name": "Öngörülü Eğitim",
+    "desc": "SP’si en az olan 1 müttefik, 5+ [Sinking] olan bir düşmana vurduğunda, Vuruş Başına 2 SP yeniler (tur başına 4 kez)",
+    "summary": "Koşullu SP yenileme"
+  },
+  {
+    "id": 1020931,
+    "name": "Öngörülü Eğitim",
+    "desc": "SP’si en az olan 1 müttefik, 5+ [Sinking] olan bir düşmana vurduğunda, Vuruş Başına 3 SP yeniler (tur başına 4 kez)",
+    "summary": "Koşullu SP yenileme"
+  },
+  {
+    "id": 1120901,
+    "name": "Bitmeyen Kâbuslar",
+    "desc": "- Savaş Başlangıcı: önceki Tur Başlangıcı ile mevcut SP arasındaki her 5 fark için 1 [AttackDmgUp] ve 1 [Vulnerable] kazan (maksimum 5)\n- Hedefteki her [Sinking] Şiddeti için %1 daha fazla hasar uygula (maksimum %20)",
+    "summary": ""
+  },
+  {
+    "id": 1120911,
+    "name": "Bitmeyen Kâbuslar",
+    "desc": "- Savaş Başlangıcı: önceki Tur Başlangıcı ile mevcut SP arasındaki her 5 fark için 1 [AttackDmgUp] ve 1 [Vulnerable] kazan (maksimum 5)\n- Hedefteki her [Sinking] Şiddeti için %2 daha fazla hasar uygula (maksimum %40)",
+    "summary": ""
+  },
+  {
+    "id": 1120921,
+    "name": "Acı",
+    "desc": "Savaş Başlangıcı: SP’si en az olan 1 müttefik 7 SP kaybeder, ardından 1 [AzureDamageUp] kazanır",
+    "summary": ""
+  },
+  {
+    "id": 1120931,
+    "name": "Acı",
+    "desc": "Savaş Başlangıcı: SP’si en az olan 1 müttefik 5 SP kaybeder, ardından 1 [AzureDamageUp] kazanır",
+    "summary": ""
+  },
     {
       "id": 999901,
       "name": "The Red Gaze",
