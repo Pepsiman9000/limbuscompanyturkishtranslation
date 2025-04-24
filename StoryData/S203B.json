@@ -104,7 +104,7 @@
     {
       "id": 21,
       "model": "단테",
-      "content": "<Tingtang Terör Örgütü?>"
+      "content": "<Tingtang Çetesi ?>"
     },
     {
       "id": 22,
@@ -119,85 +119,85 @@
     {
       "id": 24,
       "model": "단테",
-      "content": "<…Right.>"
+      "content": "<…Tabi.>"
     },
     {
       "id": 25,
-      "content": "…Back to the plan, we’ll disguise as the boss of the ‘Tingtang Gang’ and win that game of chance."
+      "content": "…Plana dönücek olursak, ‘Tingtang Çetesi’nin lidernin kılığına girip şans oyununu kazanmalıyız."
     },
     {
       "id": 26,
-      "content": "Afterwards, we have to go to the underground floors where the Golden Bough lies."
+      "content": "Daha sonra, Altın Dalın tutulduğu alt kaltlara girmemiz lazım."
     },
     {
       "id": 27,
-      "content": "Leading up to the game, we’ll use the items and clothing we can find in pawnshops to disguise as our given roles, enter the casino, and wait for the team on the top floor to win the game."
+      "content": "Oyuna doğru ilerken, bize uygun görülen roller için civardaki rehineci dükkanlarından bulduğumuz kıyafetleri kullanıcağız, Kumarhaneye girip tepedeki takımın oyunu kazanmasını bekleyeceğiz."
     },
     {
       "id": 28,
-      "content": "That’s about it for the outline of this plan, I think…"
+      "content": "Plan kabaca böyledi…"
     },
     {
       "id": 29,
-      "content": "Hey, wait a second. Won’t this entire thing fall apart if our player doesn’t win?"
+      "content": "Hey, bir saniye. bütün planımız oyunu oynayan kişi kaybederse suya düşmüyor mu?"
     },
     {
       "id": 30,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "We’ve prepared fake identification as well. It’s just in case the casino security runs random inspections on visitors."
+      "title": "LŞTÖ",
+      "content": "Sahte kimlikler bile çıakrdık. Kumarhane  güvenliği birşeylerden süpelenirse diye."
     },
     {
       "id": 31,
       "model": "그레고르",
-      "content": "Alright, that’s all fine and dandy… But how do you plan to win once you’re at the top floor?"
+      "content": "Pekala, iyi hoşta… Tepe ye ulaştığımızda kazanmayı nasıl planlıyorsunuz?"
     },
     {
       "id": 32,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "What do you think our outfits are for?"
+      "title": "LŞTÖ",
+      "content": "Kıyafetlerimiz neden var sanıyorsun?"
     },
     {
       "id": 33,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "We practiced for months to pass off as bona fide croupiers."
+      "title": "LŞTÖ",
+      "content": "bona fide krupiyeler olmak için aylar boyunca çalıştık."
     },
     {
       "id": 34,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "We’ll give you good luck. The game is in your bag, all you need is a pair of functioning eyes."
+      "title": "LŞTÖ",
+      "content": "Sizelere Büyük Şans vereceğiz. Böylelikle çantada keklik olucak, ihtiyacınız olan tek şey sadece bir çift gören göz."
     },
     {
       "id": 35,
-      "content": "Effie mumbled the last part to himself again while casting a sidelong scowl at our group."
+      "content": "Diye Effie kendi kendine söylendi, gurubumuza bir kez daha yan bakarak."
     },
     {
       "id": 36,
-      "content": "He’s making it painfully obvious he has no faith in us."
+      "content": "Bizlere hakkaten hiç güvenmiyordu."
     },
     {
       "id": 37,
       "model": "그레고르",
-      "content": "And how are we gonna take the place of the Tingtang Gang’s boss?"
+      "content": "TingTang Çetesi'nin Liderinin yerine nasıl geçiceğiz?"
     },
     {
       "id": 38,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "We’ll put sedatives in the food served at the casino. We’ve already finished negotiating the details with the head chef."
+      "title": "LŞTÖ",
+      "content": "Kasinodaki yemeklere sakinleştirici atıcağız. Aşçı başını ayartmayı başardık bile."
     },
     {
       "id": 39,
       "model": "이상",
-      "content": "Sedatives…"
+      "content": "Sakinleştiriciler…"
     },
     {
       "id": 40,
@@ -211,7 +211,7 @@
       "id": 42,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Hey, Dear Pawnbroker~ We’ll be taking a look at the goods on showcase from here to there~"
     },
     {
@@ -229,7 +229,7 @@
       "id": 45,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Now then, let’s take what we need from the display."
     },
     {
@@ -265,7 +265,7 @@
       "id": 51,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Please take items that suit what’s written in the envelopes. You have roles to play."
     },
     {
@@ -282,7 +282,7 @@
       "id": 54,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Worrying about spendings? Who do you think we are, some low-rank hirelings? There’s nothing I can’t afford using this ‘Black Card’."
     },
     {
@@ -379,14 +379,14 @@
       "id": 72,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "We have no choice, the Backstreets have their own rules and order. We aren’t the ones to disturb that complex web of their society."
     },
     {
       "id": 73,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Outsiders like us will only cause a bigger scene if we try to step in."
     },
     {
@@ -470,7 +470,7 @@
       "id": 89,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Gee-wee, Faust~ Must be tiring having to teach these dunces in ways they can get it."
     },
     {
@@ -487,7 +487,7 @@
       "id": 92,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Come on now, gather the items to help with your disguises so we can leave."
     },
     {
@@ -498,7 +498,7 @@
       "id": 94,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "We’re salaried workers, not “heroes” fighting for justice."
     },
     {
@@ -562,7 +562,7 @@
       "id": 108,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "……"
     },
     {
@@ -699,7 +699,7 @@
       "id": 133,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Sigh, what a hassle… You’re making the problem bigger than it had to be."
     },
     {
@@ -711,21 +711,21 @@
       "id": 135,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "It’s Effie and Saude. Please don’t mistake our names for confections."
     },
     {
       "id": 136,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "And your statement that there are plenty of pawnshops in the vicinity won’t mean much…"
     },
     {
       "id": 137,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "…When said pawnshops notice the trouble happening here and close…"
     },
     {
@@ -737,7 +737,7 @@
       "id": 139,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "I’m getting tired of lecturing these idiots on every little thing. We should just leave."
     },
     {
@@ -840,7 +840,7 @@
       "id": 158,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "What’s next? You’re going to wipe out the whole Syndicate?"
     },
     {
@@ -857,7 +857,7 @@
       "id": 161,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Uh, so, is there seriously no one on your team who’s in their right mind?"
     },
     {
