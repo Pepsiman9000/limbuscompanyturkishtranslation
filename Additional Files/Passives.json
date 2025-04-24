@@ -3,7 +3,7 @@
     {
       "id": 1010101,
       "name": "Bilgi Rölesi",
-      "desc": "Dashboard'da bu birimden sonra yerleştirilen 2 müttefiğe 1 [AttackUp] uygula."
+      "desc": "Sahada bu birimden sonra yerleştirilen 2 müttefiğe 1 [AttackUp] uygula."
     },
     {
       "id": 1010201,
@@ -13,7 +13,7 @@
     {
       "id": 1010301,
       "name": "Hazır",
-      "desc": "Çarpışma kazanıldığında, +1 [Breathe] Miktarı kazan."
+      "desc": "Çarpışma kazanıldığında, +1 [Breath] Miktarı kazan."
     },
     {
       "id": 1020101,
@@ -28,7 +28,7 @@
     {
       "id": 1020301,
       "name": "Azim",
-      "desc": "Tur başlangıcında, eğer 4+ [Breathe] Miktarı varsa, 2 [Agility] kazan."
+      "desc": "Tur başlangıcında, eğer 4+ [Breath] Miktarı varsa, 2 [Agility] kazan."
     },
     {
       "id": 1030101,
@@ -118,7 +118,7 @@
     {
       "id": 1080301,
       "name": "Ölüm Çizgisinde Yürümek",
-      "desc": "HP %50'nin altındayken, yeteneklerden 1 ekstra [Breathe] kazan."
+      "desc": "HP %50'nin altındayken, yeteneklerden 1 ekstra [Breath] kazan."
     },
     {
       "id": 1080401,
@@ -133,7 +133,7 @@
     {
       "id": 1090201,
       "name": "Kara Bulut Kılıcı",
-      "desc": "5+ [Breathe] durumunda, karşı saldırı yetenekleri Yetenek 3'ü kullanır."
+      "desc": "5+ [Breath] durumunda, karşı saldırı yetenekleri Yetenek 3'ü kullanır."
     },
     {
       "id": 1090301,
@@ -203,7 +203,7 @@
     {
       "id": 1010321,
       "name": "Bağış",
-      "desc": "En çok SP'ye sahip 1 müttefik, yeteneklerden +1 [Breathe] Miktarı kazanır."
+      "desc": "En çok SP'ye sahip 1 müttefik, yeteneklerden +1 [Breath] Miktarı kazanır."
     },
     {
       "id": 1020121,
@@ -652,13 +652,13 @@
     },
     {
       "id": 1090601,
-      "name": "Savunma [Breathe]i",
-      "desc": "Savaş aşamasının başlangıcında, her 1 [Breathe] Miktarı için 2 Kalkan kazan. (Maksimum 20)"
+      "name": "Savunma [Breath]i",
+      "desc": "Savaş aşamasının başlangıcında, her 1 [Breath] Miktarı için 2 Kalkan kazan. (Maksimum 20)"
     },
     {
       "id": 1090621,
       "name": "Belirlenmiş Koruma",
-      "desc": "Savaş aşamasının başlangıcında, en düşük HP yüzdesine sahip 1 müttefik, sonraki turda her 1 [Breathe] Miktarı için 1 Kalkan kazanır. (Maksimum 10)"
+      "desc": "Savaş aşamasının başlangıcında, en düşük HP yüzdesine sahip 1 müttefik, sonraki turda her 1 [Breath] Miktarı için 1 Kalkan kazanır. (Maksimum 10)"
     },
     {
       "id": 1030501,
@@ -762,8 +762,8 @@
     {
       "id": 1020601,
       "name": "Çay Soğumadan Önce...",
-      "desc": "Bir hedefe, hedefin \"Zayıf\" veya \"Ölümcül\" (Direnç>x1) olduğu bir hasar türüyle saldırırken, saldırıdan önce hedefteki her [Burst] için 1 [Breathe] kazan. (Tur başına maksimum 20)",
-      "summary": "Bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, saldırıdan önce hedefteki her [Burst] için 1 [Breathe] kazan."
+      "desc": "Bir hedefe, hedefin \"Zayıf\" veya \"Ölümcül\" (Direnç>x1) olduğu bir hasar türüyle saldırırken, saldırıdan önce hedefteki her [Burst] için 1 [Breath] kazan. (Tur başına maksimum 20)",
+      "summary": "Bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, saldırıdan önce hedefteki her [Burst] için 1 [Breath] kazan."
     },
     {
       "id": 1020621,
@@ -859,23 +859,23 @@
     },
     {
       "id": 1120721,
-      "name": "Yeni [Breathe] Deliği",
-      "desc": "Eğer en çok <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breathe]</color></link></u> olan 1 müttefik bir düşmanı yenersen, sonraki turda 1 Delme DMG Artışı kazan. (Tur başına bir kez)"
+      "name": "Yeni [Breath] Deliği",
+      "desc": "Eğer en çok <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u> olan 1 müttefik bir düşmanı yenersen, sonraki turda 1 Delme DMG Artışı kazan. (Tur başına bir kez)"
     },
     {
       "id": 1040601,
       "name": "A S.B.",
-      "desc": "Eğer bu birim Tur Sonunda 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breathe]</color></link></u> varsa, 8 SP yenile."
+      "desc": "Eğer bu birim Tur Sonunda 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u> varsa, 8 SP yenile."
     },
     {
       "id": 1040602,
       "name": "A S.B.",
-      "desc": "<style=\"highlight\">- Her Zaman Aktif : karşılaşmalara 7 Mermi ile başla</style>\n- Eğer bu birim Tur Sonunda 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breathe]</color></link></u> varsa, 8 SP yenile."
+      "desc": "<style=\"highlight\">- Her Zaman Aktif : karşılaşmalara 7 Mermi ile başla</style>\n- Eğer bu birim Tur Sonunda 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u> varsa, 8 SP yenile."
     },
     {
       "id": 1040611,
       "name": "A S.B.",
-      "desc": "- Her Zaman Aktif : karşılaşmalara 7 Mermi ile başla\n- Eğer bu birim Tur Sonunda 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breathe]</color></link></u> varsa, 8 SP yenile.\n<style=\"highlight\">- Eğer bu birim yukarıdaki koşulu karşılarken maksimum SP'ye sahipse, sonraki turda 1 [Breathe] kazan</style>"
+      "desc": "- Her Zaman Aktif : karşılaşmalara 7 Mermi ile başla\n- Eğer bu birim Tur Sonunda 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u> varsa, 8 SP yenile.\n<style=\"highlight\">- Eğer bu birim yukarıdaki koşulu karşılarken maksimum SP'ye sahipse, sonraki turda 1 [Breath] kazan</style>"
     },
     {
       "id": 1040621,
@@ -885,7 +885,7 @@
     {
       "id": 1040631,
       "name": "Şanslı Sigara",
-      "desc": "<style=\"highlight\">- Eğer en az [Bullet]'e sahip 1 müttefik [Bullet] harcayan bir Yetenek kullanırsa, 3 [Breathe] kazan. (tur başına bir kez; Mermisiz müttefiklere uygulanmaz)</style>\n- Eğer en az Mermiye sahip 1 müttefik, son Mermisini bir Jetonla kullanırsa, o Jeton saldırısının her hedefe verdiği hasarın %50'sini her bir hedefe ek hasar olarak uygular. (Yukarı yuvarlanır)"
+      "desc": "<style=\"highlight\">- Eğer en az [Bullet]'e sahip 1 müttefik [Bullet] harcayan bir Yetenek kullanırsa, 3 [Breath] kazan. (tur başına bir kez; Mermisiz müttefiklere uygulanmaz)</style>\n- Eğer en az Mermiye sahip 1 müttefik, son Mermisini bir Jetonla kullanırsa, o Jeton saldırısının her hedefe verdiği hasarın %50'sini her bir hedefe ek hasar olarak uygular. (Yukarı yuvarlanır)"
     },
     {
       "id": 1030601,
@@ -949,7 +949,7 @@
     {
       "id": 1010721,
       "name": "Birinci Kaptan'ın Kıvraklığı",
-      "desc": "Kritik Vuruşta, en çok [Breathe] olan 1 müttefik bir Yetenekle 2 ek [Laceration] Şiddeti uygular (tur başına 6 kez)"
+      "desc": "Kritik Vuruşta, en çok [Breath] olan 1 müttefik bir Yetenekle 2 ek [Laceration] Şiddeti uygular (tur başına 6 kez)"
     },
     {
       "id": 1110601,
@@ -974,12 +974,12 @@
     {
       "id": 1100801,
       "name": "Uyuyan Kan Susuzluğu",
-      "desc": "Tur Sonu: sonraki turda her 5 [Breathe] Miktarı için +2 Max Hız kazan. (Maksimum 6)"
+      "desc": "Tur Sonu: sonraki turda her 5 [Breath] Miktarı için +2 Max Hız kazan. (Maksimum 6)"
     },
     {
       "id": 1100811,
       "name": "Uyuyan Kan Susuzluğu",
-      "desc": "Tur Sonu: sonraki turda her 5 [Breathe] Miktarı için +2 Max Hız kazan. (Maksimum 6)\nSavaş Başlangıcı: Eğer tüm müttefiklerin Hızı tüm düşmanların Hızından yüksekse, 1 [PenetrateDamageUp] kazan."
+      "desc": "Tur Sonu: sonraki turda her 5 [Breath] Miktarı için +2 Max Hız kazan. (Maksimum 6)\nSavaş Başlangıcı: Eğer tüm müttefiklerin Hızı tüm düşmanların Hızından yüksekse, 1 [PenetrateDamageUp] kazan."
     },
     {
       "id": 1100821,
@@ -989,12 +989,12 @@
     {
       "id": 1110701,
       "name": "Nişancının Pipo",
-      "desc": "Eğer ana hedefin Savunma Seviyesi şu anda 4 veya daha fazla düşürülmüşse, Saldırıdan Önce (ana hedefteki [Combustion]/2) [Breathe] kazan. (Tur başına maksimum 20)"
+      "desc": "Eğer ana hedefin Savunma Seviyesi şu anda 4 veya daha fazla düşürülmüşse, Saldırıdan Önce (ana hedefteki [Combustion]/2) [Breath] kazan. (Tur başına maksimum 20)"
     },
     {
       "id": 1110711,
       "name": "Nişancının Pipo",
-      "desc": "Eğer ana hedefin Savunma Seviyesi şu anda 4 veya daha fazla düşürülmüşse, Saldırıdan Önce (ana hedefteki [Combustion]) [Breathe] kazan. (Tur başına maksimum 20)"
+      "desc": "Eğer ana hedefin Savunma Seviyesi şu anda 4 veya daha fazla düşürülmüşse, Saldırıdan Önce (ana hedefteki [Combustion]) [Breath] kazan. (Tur başına maksimum 20)"
     },
     {
       "id": 1110721,
@@ -1074,32 +1074,32 @@
     {
       "id": 1080811,
       "name": "Pequod'un Kaptanı",
-      "desc": "- Saldırı Sonrası: eğer bu birimin saldırısından sonra düşman yenilirse,\n<style=\"highlight\">- 4 [Breathe], +2 [Breathe] Miktarı kazan. Ardından, sonraki turda [OverHeatedGasHarpoon] kazan.</style>\n<style=\"highlight\">- en az SP'ye sahip 2 diğer müttefik 7 SP yeniler ve 4 [Breathe] kazanır.</style>\n- Eğer müttefikler The Pequod'dansa, ek 5 SP yeniler. <style=\"highlight\">Ardından, tur başına bir kez, sonraki turda 1 Delme Gücü Artışı uygula.</style>"
+      "desc": "- Saldırı Sonrası: eğer bu birimin saldırısından sonra düşman yenilirse,\n<style=\"highlight\">- 4 [Breath], +2 [Breath] Miktarı kazan. Ardından, sonraki turda [OverHeatedGasHarpoon] kazan.</style>\n<style=\"highlight\">- en az SP'ye sahip 2 diğer müttefik 7 SP yeniler ve 4 [Breath] kazanır.</style>\n- Eğer müttefikler The Pequod'dansa, ek 5 SP yeniler. <style=\"highlight\">Ardından, tur başına bir kez, sonraki turda 1 Delme Gücü Artışı uygula.</style>"
     },
     {
       "id": 1080821,
       "name": "Kaptanın Emirleri",
-      "desc": "En yüksek SP'ye sahip 1 müttefik, bir hedefi saldırısıyla yendikten sonra 2 [Breathe] kazanır (tur başına 2 kez)"
+      "desc": "En yüksek SP'ye sahip 1 müttefik, bir hedefi saldırısıyla yendikten sonra 2 [Breath] kazanır (tur başına 2 kez)"
     },
     {
       "id": 1080831,
       "name": "Kaptanın Emirleri",
-      "desc": "Saldırı Sonrası: en yüksek SP'ye sahip 1 müttefik, bir hedefi saldırısıyla yendikten sonra 2 [Breathe] ve <style=\"highlight\">+2 [Breathe] Miktarı</style> kazanır (tur başına 2 kez)"
+      "desc": "Saldırı Sonrası: en yüksek SP'ye sahip 1 müttefik, bir hedefi saldırısıyla yendikten sonra 2 [Breath] ve <style=\"highlight\">+2 [Breath] Miktarı</style> kazanır (tur başına 2 kez)"
     },
     {
       "id": 1050801,
       "name": "Vatan Kılıç Oyunu",
-      "desc": "Bu Karşılaşmada, bu birim HP'sini 0'a düşüren hasar aldığında, o hasarı geçersiz kıl; ardından, bu birimin HP'si bu tur için 1'in altına düşemez. (Karşılaşma başına bir kez)\n\nBu birim kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti/Miktarı kazandığında: [Breathe]'i olmayan veya en az [Breathe]'e sahip 2 diğer Blade Lineage müttefiğine 1 [Breathe] Şiddeti ve +1 [Breathe] Miktarı uygula.\n- Eğer bu Karşılaşmada 6 veya daha fazla Blade Lineage müttefiği varsa, bunun yerine 2 [Breathe] Şiddeti ve +2 [Breathe] Miktarı uygula."
+      "desc": "Bu Karşılaşmada, bu birim HP'sini 0'a düşüren hasar aldığında, o hasarı geçersiz kıl; ardından, bu birimin HP'si bu tur için 1'in altına düşemez. (Karşılaşma başına bir kez)\n\nBu birim kendi Yetenek veya Jeton etkileriyle [Breath] Şiddeti/Miktarı kazandığında: [Breath]'i olmayan veya en az [Breath]'e sahip 2 diğer Blade Lineage müttefiğine 1 [Breath] Şiddeti ve +1 [Breath] Miktarı uygula.\n- Eğer bu Karşılaşmada 6 veya daha fazla Blade Lineage müttefiği varsa, bunun yerine 2 [Breath] Şiddeti ve +2 [Breath] Miktarı uygula."
     },
     {
       "id": 1050811,
       "name": "Vatan Kılıç Oyunu",
-      "desc": "Bu Karşılaşmada, bu birim HP'sini 0'a düşüren hasar aldığında, o hasarı geçersiz kıl; ardından, bu birimin HP'si bu tur için 1'in altına düşemez. (Karşılaşma başına bir kez)\n\nBu birim kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti/Miktarı kazandığında: [Breathe]'i olmayan veya en az [Breathe]'e sahip 2 diğer Blade Lineage müttefiğine 1 [Breathe] Şiddeti ve +1 [Breathe] Miktarı uygula.\n- Eğer bu Karşılaşmada 6 veya daha fazla Blade Lineage müttefikleri varsa, bunun yerine 2 [Breathe] Şiddeti ve +2 [Breathe] Miktarı uygula.\n\nSavaş Başlangıcı: diğer tüm Blade Lineage müttefiklerine [SwordPlayOfTheHomeland] buff'ı uygula."
+      "desc": "Bu Karşılaşmada, bu birim HP'sini 0'a düşüren hasar aldığında, o hasarı geçersiz kıl; ardından, bu birimin HP'si bu tur için 1'in altına düşemez. (Karşılaşma başına bir kez)\n\nBu birim kendi Yetenek veya Jeton etkileriyle [Breath] Şiddeti/Miktarı kazandığında: [Breath]'i olmayan veya en az [Breath]'e sahip 2 diğer Blade Lineage müttefiğine 1 [Breath] Şiddeti ve +1 [Breath] Miktarı uygula.\n- Eğer bu Karşılaşmada 6 veya daha fazla Blade Lineage müttefikleri varsa, bunun yerine 2 [Breath] Şiddeti ve +2 [Breath] Miktarı uygula.\n\nSavaş Başlangıcı: diğer tüm Blade Lineage müttefiklerine [SwordPlayOfTheHomeland] buff'ı uygula."
     },
     {
       "id": 1050821,
       "name": "Vatan Kılıç Oyunu",
-      "desc": "Savaş Başlangıcı: en çok [Breathe]'e sahip 1 müttefik, Kritik Vuruşta %15 daha fazla hasar uygular."
+      "desc": "Savaş Başlangıcı: en çok [Breath]'e sahip 1 müttefik, Kritik Vuruşta %15 daha fazla hasar uygular."
     },
     {
       "id": 1020801,
@@ -1118,18 +1118,18 @@
     },
     {
       "id": 1030801,
-      "name": "Kolektif [Breathe]",
-      "desc": "Bu birim kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti kazandığında: [Breathe]'i olmayan veya en az [Breathe] Şiddetine sahip 1 müttefiğe 1 [Breathe] Şiddeti uygular. (maksimum 3 kez)"
+      "name": "Kolektif [Breath]",
+      "desc": "Bu birim kendi Yetenek veya Jeton etkileriyle [Breath] Şiddeti kazandığında: [Breath]'i olmayan veya en az [Breath] Şiddetine sahip 1 müttefiğe 1 [Breath] Şiddeti uygular. (maksimum 3 kez)"
     },
     {
       "id": 1030811,
-      "name": "Kolektif [Breathe]",
-      "desc": "Bu birim kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti kazandığında: [Breathe]'i olmayan veya en az [Breathe] Şiddetine sahip 1 müttefiğe 1 [Breathe] Şiddeti uygular. (maksimum 5 kez)"
+      "name": "Kolektif [Breath]",
+      "desc": "Bu birim kendi Yetenek veya Jeton etkileriyle [Breath] Şiddeti kazandığında: [Breath]'i olmayan veya en az [Breath] Şiddetine sahip 1 müttefiğe 1 [Breath] Şiddeti uygular. (maksimum 5 kez)"
     },
     {
       "id": 1030821,
       "name": "Gece Yürüyüşü",
-      "desc": "En az [Breathe]'e sahip 1 müttefik, kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti kazandığında, 1 daha fazla [Breathe] Şiddeti kazanır. (maksimum 2 kez. [Breathe]'i olmayan müttefiklere uygulanmaz.)"
+      "desc": "En az [Breath]'e sahip 1 müttefik, kendi Yetenek veya Jeton etkileriyle [Breath] Şiddeti kazandığında, 1 daha fazla [Breath] Şiddeti kazanır. (maksimum 2 kez. [Breath]'i olmayan müttefiklere uygulanmaz.)"
     },
   {
   "id": 1120821,
