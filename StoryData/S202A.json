@@ -6,14 +6,14 @@
       "model": "전당포주인",
       "teller": "Rehineci",
       "title": "J Kuruluşu. Rehineci Dükkanı",
-      "content": "Ooo, bir anda ne kadar fazla müşteri değil misiniz? Dükkan zaten kalabalık…"
+      "content": "Ooo, bir anda ne kadar fazla müşteri geldi? Dükkan zaten kalabalık…"
     },
     {
       "d": 1,
       "model": "전당포주인",
       "teller": "Rehineci",
       "title": "J Kuruluşu. Rehineci Dükkanı",
-      "content": "Şansınızı kart oyunlarında mı denersiniz, yoksa mahjong"
+      "content": "Şansınızı kart oyunlarında mı denersiniz, yoksa Mahjong'da mı?"
     },
     {
       "d": 2,
@@ -27,7 +27,7 @@
     {
       "d": 4,
       "model": "이스마엘",
-      "content": "…Yuva J hakkında okuyan tek benmiyim? Vergilius bizlere broşür verdi ya."
+      "content": "…Yuva J hakkında okuyan tek ben miyim? Vergilius bizlere broşür verdi ya."
     },
     {
       "d": 5,
@@ -37,7 +37,7 @@
     {
       "d": 6,
       "model": "이스마엘",
-      "content": "Bakın işte diyor ki, Şansınıza bağlı olarak farklı miktarda ödüllendirileceksiniz."
+      "content": "Bakın işte diyor ki, şansınıza bağlı olarak farklı miktarda ödüllendirileceksiniz."
     },
     {
       "d": 7,
@@ -47,17 +47,17 @@
     {
       "d": 8,
       "model": "홍루",
-      "content": "Ah~ Bu beni anılara götürdü, ailemizin usta falcıları vardı."
+      "content": "Ah~ Bu beni maziye götürdü, ailemizin usta falcıları vardı."
     },
     {
       "d": 9,
       "model": "홍루",
-      "content": "Evimden ayrılmadan önce kehanetimde büyük şans çekmişlerdi. Demek ki daha o zaman bile yolculuğumda böyle mükemmel insanlarla tanışacağımın belliymiş."
+      "content": "Evimden ayrılmadan önce kehanetimde büyük şans çekmişlerdi. Demek ki daha o zaman bile yolculuğumda böyle mükemmel insanlarla tanışacağım belliymiş."
     },
     {
       "d": 10,
       "model": "이스마엘",
-      "content": "Waw, cidden, so indulging in lofty leisure on your grand estate was your fated life. Maybe I should pray that I’m born that rich if there’s a next time."
+      "content": "Vay, cidden ha? Yani o rahat aile evinde keyif çatmak senin kaderinsi. Belki de ikinci bir hakkım olursa zengin bir ailede doğmayı dileyebilirim."
     },
     {
       "d": 11,
@@ -67,7 +67,7 @@
     {
       "d": 12,
       "model": "홍루",
-      "content": "You might be right. I didn’t like to get along with my younger sibling in childhood. Always trying to cheat and grouch if things didn’t go as desired."
+      "content": "Haklı olabilirsin. Çocukken küçük kardeşim ile hiç geçinemiyordum. İşleri ne zaman istediği şekil gitmese, hemen hileye kalkışırdı."
     },
     {
       "d": 13,
@@ -79,18 +79,18 @@
       "model": "전당포주인",
       "teller": "Rehineci",
       "title": "J Kuruluşu. Rehineci Dükkanı",
-      "content": "Yani fal bakçakmısınız, bakmayacakmısınız?"
+      "content": "Yani fal bakacak mısınız, bakmayacak mısınız?"
     },
     {
       "d": 15,
       "model": "전당포주인",
       "teller": "Rehineci",
       "title": "J Kuruluşu. Rehineci Dükkanı",
-      "content": "Her neyse… Sizin cidden rehine bırakıcan bir şeyiniz var mı ki? Yanınza kayde değer bir şe…"
+      "content": "Her neyse… Sizin cidden rehine bırakıcak bir şeyiniz var mı ki? Yanınza kayde değer bir şe…"
     },
     {
       "d": 16,
-      "content": "Rehineci bütün Günakârlara süpeyle bir göz gezdirdi, taki bana sıra gelinceye kadar."
+      "content": "Rehineci bütün Günakârlara şüpheyle bir göz gezdirdi, taa ki bana sıra gelinceye kadar."
     },
     {
       "d": 17,
@@ -102,7 +102,7 @@
     {
       "d": 18,
       "model": "로쟈",
-      "content": "How much do you think they sell for, old pal?"
+      "content": "Sence kaça patlar, ihtiyar adam?"
     },
     {
       "d": 19,
@@ -112,7 +112,7 @@
     {
       "d": 20,
       "model": "파우스트",
-      "content": "Sizinle daha önceden iletişime geçilmişti, biz Limbus Şirketindeniz ve…"
+      "content": "Sizinle daha önceden iletişime geçilmişti, biz Limbus Şirketi'ndeniz ve…"
     },
     {
       "d": 21,
@@ -121,13 +121,13 @@
     {
       "d": 22,
       "model": "홍루",
-      "content": "Oh, I did bring this handkerchief with me when I left home…"
+      "content": "Oh, evden gittiğimde yanıma bu bez parçasını almıştım…"
     },
     {
       "d": 23,
       "model": "전당포주인",
       "teller": "Rehineci",
-      "title": "J Corp. Pawnshop",
+      "title": "J Kuruluşu. Rehineci Dükkanı",
       "content": "Oho… İpek üzerine Ejderha oyulmuş. Ayrietten titiz bir nakış işçiliği sergiliyor, Sanırım… Bir bakalım , yedi milyon Ahn?"
     },
     {
@@ -150,7 +150,7 @@
     {
       "d": 27,
       "model": "로쟈",
-      "content": "Geez, cut it out! Dante~ Please shut them up~"
+      "content": "OF be, sussanıza be! Dante~ Lütfen susturuver şunları~"
     },
     {
       "d": 28,
@@ -205,19 +205,19 @@
       "model": "에피",
       "teller": "???",
       "title": "???",
-      "content": "Milletin sizden umudu büyüktü, Şehirdeki en zeki sayılan birkaç kişiden oluşunca ekibiniz."
+      "content": "Milletin sizden umudu büyüktü, Şehirdeki en zeki sayılan birkaç kişiden oluşuyordunuz."
     },
     {
       "d": 38,
       "model": "소드",
       "teller": "???",
       "title": "???",
-      "content": "Şüphe yoktur ki… Bayan Faust hiçte mutlu gözükmüyordu."
+      "content": "Şüphe yoktur ki… Bayan Faust hiç te mutlu gözükmüyordu."
     },
     {
       "d": 39,
       "model": "파우스트",
-      "content": "Benim yüzüm her zamanki halinde idi."
+      "content": "Benim yüzüm her zamanki halindeydi."
     },
     {
       "d": 40,
@@ -231,7 +231,7 @@
     {
       "d": 42,
       "model": "이상",
-      "content": "I shall not, as that would be a hollow vaunt."
+      "content": "Konuşmayacağım, ki bu kuru bir övünmeden öteye gitmezdi."
     },
     {
       "d": 43,
@@ -241,7 +241,7 @@
     {
       "d": 44,
       "model": "이상",
-      "content": "I am and have always been whom I match in the mirror."
+      "content": "Ben şimdi de, eskiden de aynada gördüğünüz güruhtum."
     },
     {
       "d": 45,
@@ -273,7 +273,7 @@
       "model": "소드",
       "teller": "???",
       "title": "???",
-      "content": "Her neyse,Vergilius nerede? sizlere eşlik etme görevine sırf onu görebilme şansına sahip olmak için katlandım."
+      "content": "Her neyse, Vergilius nerede? sizlere eşlik etme görevine sırf onu görebilme şansına sahip olmak için katlandım."
     },
     {
       "d": 51,
@@ -290,12 +290,12 @@
     {
       "d": 53,
       "model": "이스마엘",
-      "content": "…Doesn’t anyone have a thing to say about us being belittled?"
+      "content": "…Küçümsenmemiz hakkında bir şey diyecek yok mu?"
     },
     {
       "d": 54,
       "model": "이스마엘",
-      "content": "And won’t all the boasting and bluffing not do much if we don’t introduce ourselves first?"
+      "content": "Ve önce kendimizi tanıtmazsak, bu kadar övünmemiz boşa çıkmayacak mıdır?"
     },
     {
       "d": 55,
@@ -325,7 +325,7 @@
     },
     {
       "d": 60,
-      "content": "Kendilerini tanıtmaları bitene kadar üstün bir çoğunluk onlara soğuk gözlerle bakarken, diyerleri temkinli davrandı."
+      "content": "Kendilerini tanıtmaları bitene kadar üstün bir çoğunluk onlara soğuk gözlerle bakarken, diğerleri temkinli davrandı."
     }
   ]
 }
