@@ -2,44 +2,44 @@
   "dataList": [
     {
       "id": "chapter_d_100",
-      "company": "D Corp.",
-      "area": "District 4",
-      "chapter": "Prologue",
+      "company": "D Kuruluşu.",
+      "area": "4. Eyalet ",
+      "chapter": "Prolog",
       "chapterNumber": "00",
       "chaptertitle": "Selva Oscura",
       "timeline": "984-01"
     },
     {
       "id": "chapter_d_101",
-      "company": "D Corp.",
-      "area": "District 4",
+      "company": "D Kuruluşu.",
+      "area": "4. Eyalet",
       "chapter": "Canto I",
       "chapterNumber": "01",
-      "chaptertitle": "The Outcast",
+      "chaptertitle": "Dışlanan",
       "timeline": "984-01"
     },
     {
       "id": "chapter_j_102",
-      "company": "J Corp.",
-      "area": "District 10",
+      "company": "J Kuruluşu.",
+      "area": "10. Eyalet",
       "chapter": "Canto II",
       "chapterNumber": "02",
-      "chaptertitle": "The Unloving",
+      "chaptertitle": "Sevmeyiş",
       "timeline": "984-01"
     },
     {
       "id": "chapter_k_103",
-      "company": "K Corp.",
-      "area": "District 11",
+      "company": "K Kuruluşu.",
+      "area": "11. Eyalet",
       "chapter": "Canto III",
       "chapterNumber": "03",
-      "chaptertitle": "The Unconfronting",
+      "chaptertitle": "Yüzleşmeyen",
       "timeline": "984-02"
     },
     {
       "id": "chapter_k_9103",
-      "company": "K Corp.",
-      "area": "District 11",
+      "company": "K Kuruluşu.",
+      "area": "11. Eyalet",
       "chapter": "Intervallo I",
       "chapterNumber": "3.5",
       "chaptertitle": "Hell’s Chicken",
@@ -47,29 +47,29 @@
     },
     {
       "id": "chapter_k_104",
-      "company": "K Corp.",
-      "area": "District 11",
+      "company": "K Kuruluşu.",
+      "area": "11. Eyalet",
       "chapter": "Canto IV",
       "chapterNumber": "04",
-      "chaptertitle": "The Unchanging",
+      "chaptertitle": "Değişmeyen",
       "timeline": "984-05"
     },
     {
       "id": "chapter_u_9104",
-      "company": "U Corp.",
-      "area": "District 21",
+      "company": "U Kuruluşu.",
+      "area": "21. Eyalet",
       "chapter": "Intervallo II",
       "chapterNumber": "4.5",
-      "chaptertitle": "S.E.A.",
+      "chaptertitle": "D.E.İ.N.Z",
       "timeline": "984-05"
     },
     {
       "id": "chapter_u_105",
-      "company": "U Corp.",
-      "area": "District 21",
+      "company": "U Kuruluşu.",
+      "area": "21. Eyalet",
       "chapter": "Canto V",
       "chapterNumber": "05",
-      "chaptertitle": "The Evil Defining",
+      "chaptertitle": "Kötüşüğün Tanımı",
       "timeline": "984-07"
     },
     {
@@ -78,7 +78,7 @@
       "area": "District 21",
       "chapter": "Intervallo III",
       "chapterNumber": "5.5",
-      "chaptertitle": "Miracle in District 20",
+      "chaptertitle": "20. Koğuştaki Mucize",
       "timeline": "984-08"
     },
     {
@@ -87,7 +87,7 @@
       "area": "District 21",
       "chapter": "",
       "chapterNumber": "",
-      "chaptertitle": "The 2nd Walpurgis Night",
+      "chaptertitle": "The 2nd Walpurigis Gecesi",
       "timeline": "984-09"
     },
     {
