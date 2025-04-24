@@ -262,11 +262,11 @@
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "Sen ölmeyeceksin; ama biz seni öldüreceğiz."
+      "content": "Ölemiyorsunuz; ama biz sizi öldüreceğiz."
     },
     {
       "id": 51,
-      "content": "Hermann, Yuri'nin kafasına ayağıyla dokunuyor."
+      "content": "Hermann, Yuri'nin kafasına ayağıyla kaktı."
     },
     {
       "id": 52,
@@ -278,7 +278,7 @@
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "Ama şimdi olmayacak."
+      "content": "Ama şimdi değil."
     },
     {
       "id": 54,
@@ -297,7 +297,7 @@
       "model": "구보",
       "teller": "Gubo",
       "title": "???",
-      "content": "Gerçekten öyle. Şimdilik sadece birkaçı kaldı."
+      "content": "Gerçekten öyle. Aramızdan pek az kişi kaldı."
     },
     {
       "id": 57,
@@ -314,7 +314,7 @@
     {
       "id": 59,
       "model": "오티스",
-      "content": "Bu bir nevi kavuşmaya dönüştü."
+      "content": "işin bi kavuşmaya dönmediği kalmıştı."
     },
     {
       "id": 60,
@@ -333,7 +333,7 @@
     {
       "id": 62,
       "model": "그레고르",
-      "content": "Ben bunu hiç istemedim... Bir kez bile..."
+      "content": "Bunu hiç istemedim... Bir kez bile..."
     },
     {
       "id": 63,
@@ -370,7 +370,7 @@
     },
     {
       "id": 69,
-      "content": "Sabahın erken saatleri sizi selamlıyor."
+      "content": "Sabahın erken saatleri sizi selamlar."
     },
     {
       "id": 70,
@@ -380,17 +380,17 @@
       "id": 71,
       "place": "Mephistopheles'in Dışarısı",
       "model": "베르길리우스",
-      "content": "Ve bunun sizin için yeterince kolay bir görev olacağını düşündüm."
+      "content": "Ve bunun sizin için yeterince kolay bir görev olacağını düşünüyordum."
     },
     {
       "id": 72,
       "model": "베르길리우스",
-      "content": "Altın Dal'ın gözlerinizin önünde alınmasına izin verdikten sonra, yüzünüzü yukarı kaldırarak içeri girme cüretini gösterdiniz."
+      "content": "Altın Dal'ın gözlerinizin önünde alınmasına izin verdikten sonra, burnunuz havada içeri girme cüretini gösteriyorsunuz."
     },
     {
       "id": 73,
       "model": "베르길리우스",
-      "content": "Seni fazla mı abarttım?"
+      "content": "Size fazla mı güvendim?"
     },
     {
       "id": 74,
@@ -400,12 +400,12 @@
     {
       "id": 75,
       "model": "베르길리우스",
-      "content": "Bana bir bahane verin Bayan Faust."
+      "content": "Bana tek bir bahane ver, Bayan Faust."
     },
     {
       "id": 76,
       "model": "파우스트",
-      "content": "Görünen o ki ölümsüzlük her şeyin çözümü değildi."
+      "content": "Görünen o ki ölümsüzlük her şeyin çözümü değilmiş."
     },
     {
       "id": 77,
@@ -415,7 +415,7 @@
     {
       "id": 78,
       "model": "베르길리우스",
-      "content": "Kendin adına söyleyeceğin bir şey var mı, Dante?"
+      "content": "Kendi adına söyleyeceğin bir şey var mı, Dante?"
     },
     {
       "id": 79,
@@ -425,7 +425,7 @@
     {
       "id": 80,
       "model": "단테",
-      "content": "<Bunu biliyor olmalıydın, o zaman neden beni uyarmadın?>"
+      "content": "<Bunu biliyor olmalıydın, neden uyarmadın?>"
     },
     {
       "id": 81,
@@ -439,17 +439,17 @@
     {
       "id": 83,
       "model": "베르길리우스",
-      "content": "…Bana söyleme. Beni sorumlu mu tutuyorsun?"
+      "content": "…Şaka yapıyorsun. Sorumluyu ben mi tutuyorsun?"
     },
     {
       "id": 84,
       "model": "베르길리우스",
-      "content": "Söyle bana, Dante. Neden hiçbir tehdit olmayan bir yere on iki savaşçıyı göndermeye zahmet edelim ki?"
+      "content": "Söyle bana, Dante. Neden hiçbir tehdit olmayan bir yere on iki savaşçıyı gönderme zahmetine girelim ki?"
     },
     {
       "id": 85,
       "model": "베르길리우스",
-      "content": "Onlara da rehberlik etmesi için İşçözücüler'i işe aldılar."
+      "content": "Üzerine onlara rehberlik etmeleri için İşçözücüler aldıktan sonra bir de."
     },
     {
       "id": 86,
@@ -459,12 +459,12 @@
     {
       "id": 87,
       "model": "그레고르",
-      "content": "Yeter artık, Müdür Ahbap."
+      "content": "Gerek yok, Müdür Ahbap."
     },
     {
       "id": 88,
       "model": "그레고르",
-      "content": "Benim hatam. Suçlayacak birini arıyorsan, ben buradayım..."
+      "content": "Benim hatam. Suçlayacak birini arıyorsan, buradayım..."
     },
     {
       "id": 89,
@@ -474,7 +474,7 @@
     {
       "id": 90,
       "model": "베르길리우스",
-      "content": "Aranızda zaten bir yoldaşlık duygusu oluşmuştu."
+      "content": "Aranızda çoktan bir yoldaşlık duygusu oluşturmuşsunuz."
     },
     {
       "id": 91,
@@ -494,7 +494,7 @@
     {
       "id": 94,
       "model": "베르길리우스",
-      "content": "Bu doğru gibi görünüyor. Birisi orada kalan E.G.O ve Anormalileri kurtarması gerekiyordu."
+      "content": "Şaşırtıcı değil. Birinin orada kalan E.G.O ve Anomalileri yağmalaması gerekiyordu."
     },
     {
       "id": 95,
@@ -509,12 +509,12 @@
     {
       "id": 97,
       "model": "오티스",
-      "content": "Savaş alanında başarısızlık yaygın bir şeydir. Bir hedef karşılanmazsa, başka bir plan tasarlar ve yeniden devreye sokarsınız."
+      "content": "Savaş alanında başarısızlık yaygın bir şeydir. Bir hedef karşılanmazsa, başka bir plan tasarlar ve yeniden devreye sokarsın."
     },
     {
       "id": 98,
       "model": "오티스",
-      "content": "İlk görevimiz için beklentilerinizin çok yüksek olduğundan emin misiniz? Müdürümüzün performansının olağanüstü olduğunu bilmenizi isterim."
+      "content": "İlk görevimiz için beklentilerinizin çok yüksek olmadığından emin misiniz? Müdürümüzün performansının olağanüstü olduğunu bilmenizi isterim."
     },
     {
       "id": 99,
@@ -524,12 +524,12 @@
     {
       "id": 100,
       "model": "베르길리우스",
-      "content": "Sanırım bunu burada bırakacağız. Tamamen haksız değilsin."
+      "content": "Sanırım bunu burada bırakacağız. Haksız değilsin."
     },
     {
       "id": 101,
       "model": "파우스트",
-      "content": "Kesinlikle."
+      "content": "Tabii ki."
     },
     {
       "id": 102,
@@ -545,7 +545,7 @@
     },
     {
       "id": 105,
-      "content": "Ve hiç kimsede kıyafet değiştirme ihtiyacı da yoktu."
+      "content": "Ve hiç kimsenin de kıyafet değiştirme ihtiyacı yoktu."
     },
     {
       "id": 106,
@@ -553,7 +553,7 @@
     },
     {
       "id": 107,
-      "content": "Gregor, hepsinin arasında en yenilmiş bakışa sahip olanıydı, pencereden dışarı bakıyordu..."
+      "content": "Gregor, herkesin arasında en yenilmiş bakışa sahip olandı, pencereden dışarı bakıyordu..."
     },
     {
       "id": 108,
@@ -577,20 +577,20 @@
     {
       "id": 112,
       "model": "그레고르",
-      "content": "Benim de Yuri'nin yaşlarında bir kız kardeşim vardı."
+      "content": "Yuri'nin yaşlarında bir kız kardeşim vardı."
     },
     {
       "id": 113,
       "model": "그레고르",
-      "content": "İşte bu kadar."
+      "content": "Öyle işte."
     },
     {
       "id": 114,
-      "content": "Ona moral verici bir konuşma yapmayı düşündüm ama bu düşüncem hemen ortadan kalktı."
+      "content": "Ona moral verici bir konuşma yapmayı düşündüm ama bu düşüncem fazla sürmedi."
     },
     {
       "id": 115,
-      "content": "Ishmael kederli bir ifade takındı, Sinclair sessizce ağladı ve Rodya sıkıntılı bir iç çekti; eğer ona bir cesaret veremezlerse, ben ne işe yarardım? ki"
+      "content": "Ishmael kederli bir ifade takındı, Sinclair sessizce ağladı ve Rodya sıkıntılı bir iç çekti; eğer onlar bile cesaret veremiyorlarsa, ben ne işe yarardım ki?"
     },
     {
       "id": 116,
@@ -600,7 +600,7 @@
     {
       "id": 117,
       "model": "카론",
-      "content": "Hayır, Charon iyi olacak."
+      "content": "Hayır, Charon için sorun yok."
     },
     {
       "id": 118,
@@ -618,7 +618,7 @@
     },
     {
       "id": 121,
-      "content": "Ön cama asılı gaz maskesi süs gibi dalgalanıyordu."
+      "content": "Ön cama asılı gaz maskesi süs gibi sallanıyordu."
     },
     {
       "id": 122
