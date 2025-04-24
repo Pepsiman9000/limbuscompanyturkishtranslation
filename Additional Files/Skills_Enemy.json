@@ -1390,7 +1390,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Kullanıcının Sersemleme Eşiğini uygulailen hasarın %50si kadar azalt"
+                  "desc": "[OnSucceedAttackHead] Kullanıcının Sersemleme Eşiğini uygulanan hasarın %50si kadar azalt"
                 }
               ]
             }
@@ -2316,7 +2316,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Büyük Görev Tamamlanacak…!",
+          "name": "Bü[Charge] Görev Tamamlanacak…!",
           "desc": "[WhenUse] Sonraki Tur bütün Müttefiklere 1 [Assemble] uygula",
           "coinlist": [
             {}
@@ -3053,7 +3053,7 @@
         {
           "level": 1,
           "name": "GÖRÜLDÜ, GÖRÜLDÜ: Sakatlık",
-          "desc": "[Burst]sı olan düşmanlara saldırı önceliği uygulair",
+          "desc": "[Burst]sı olan düşmanlara saldırı önceliği uygular",
           "coinlist": [
             {
               "coindescs": [
@@ -3094,7 +3094,7 @@
         {
           "level": 1,
           "name": "Parçalanıyor.",
-          "desc": "[Vibration] sı olan düşmanlara saldırı önceliği uygulair",
+          "desc": "[Vibration] sı olan düşmanlara saldırı önceliği uygular",
           "coinlist": [
             {
               "coindescs": [
@@ -3116,7 +3116,7 @@
         {
           "level": 1,
           "name": "UYARI, UYARI: Sallanıyor",
-          "desc": "[Vibration] sı olan düşmanlara saldırı önceliği uygulair",
+          "desc": "[Vibration] sı olan düşmanlara saldırı önceliği uygular",
           "coinlist": [
             {
               "coindescs": [
@@ -3349,7 +3349,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sürtünme Yükselmesi",
+          "name": "Sürtünme [Charge]selmesi",
           "desc": "",
           "coinlist": [
             {
@@ -3743,7 +3743,7 @@
         {
           "level": 1,
           "name": "Tutuklanıyor!",
-          "desc": "[Vibration] sı olan düşmanlara saldırı önceliği uygulair",
+          "desc": "[Vibration] sı olan düşmanlara saldırı önceliği uygular",
           "coinlist": [
             {
               "coindescs": [
@@ -3812,13 +3812,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Çürüme Kapsülü Kullanılıyor",
+          "name": "[CollapseAmpoule] Kullanılıyor",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Çürüme Kapsülü uygula\nSonraki Tur 1 [Paralysis] uygula"
+                  "desc": "[OnSucceedAttack] 1 [CollapseAmpoule] uygula\nSonraki Tur 1 [Paralysis] uygula"
                 }
               ]
             }
@@ -3859,7 +3859,7 @@
                   "desc": "[OnSucceedAttack] Sonraki Tur 2 [Paralysis] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 2 Çürüme Kapsülü uygula"
+                  "desc": "[OnSucceedAttackHead] 2 [CollapseAmpoule] uygula"
                 }
               ]
             }
@@ -3893,7 +3893,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 3 Çürüme Kapsülü uygula"
+                  "desc": "[OnSucceedAttackHead] 3 [CollapseAmpoule] uygula"
                 }
               ]
             }
@@ -4128,7 +4128,7 @@
         {
           "level": 1,
           "name": "Acıtan Lanet",
-          "desc": "[WhenUse] 1 Karışık Lanet Tılsımı kazan",
+          "desc": "[WhenUse] 1 [WrappedCurseTag] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -4147,7 +4147,7 @@
         {
           "level": 1,
           "name": "Çoğalan Lanet",
-          "desc": "[WhenUse] 2 Karışık Lanet Tılsımı kazan",
+          "desc": "[WhenUse] 2 [WrappedCurseTag] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -4173,7 +4173,7 @@
         {
           "level": 1,
           "name": "Kısıtlayıcı Lanet",
-          "desc": "[WhenUse] 2 Karışık Lanet Tılsımı kazan",
+          "desc": "[WhenUse] 2 [WrappedCurseTag] kazan",
           "coinlist": [
             {},
             {
@@ -4193,7 +4193,7 @@
         {
           "level": 1,
           "name": "Belirgin Yara",
-          "desc": "[EndBattle] Bütün Karışık Lanet Tılsımı efektlerini kaldır",
+          "desc": "[EndBattle] Bütün [WrappedCurseTag] efektlerini kaldır",
           "coinlist": [
             {
               "coindescs": [
@@ -4267,7 +4267,7 @@
         {
           "level": 1,
           "name": "Patlayıcı Sıvı",
-          "desc": "[WhenUse] 1 Moral Artışı kazan",
+          "desc": "[WhenUse] 1 [Exalted] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -4286,7 +4286,7 @@
         {
           "level": 1,
           "name": "Sarsılan Sıvı",
-          "desc": "[WhenUse] 1 Moral Artışı kazan",
+          "desc": "[WhenUse] 1 [Exalted] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -4312,7 +4312,7 @@
         {
           "level": 1,
           "name": "Sıvı [Protection]sı",
-          "desc": "[WhenUse] Maks HP'nin %5ini iyileştir\nSonraki Tur 2 [Vulnerable] kazan\n[EndBattle] Bütün Sarhoş u kaldır",
+          "desc": "[WhenUse] Maks HP'nin %5ini iyileştir\nSonraki Tur 2 [Vulnerable] kazan\n[EndBattle] Bütün [Tipsiness]ı kaldır",
           "coinlist": [
             {
               "coindescs": [
@@ -4350,13 +4350,13 @@
         {
           "level": 1,
           "name": "Darbe Laneti",
-          "desc": "[WhenUse] 1 Yeniden Bağlanmış Lanet Tılsımı uygula",
+          "desc": "[WhenUse] 1 [ReattachedCurseTag] uygula",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Darbe Kırılganlığı uygula"
+                  "desc": "[OnSucceedAttack] 3 [HitTakeDamageUp] uygula"
                 }
               ]
             }
@@ -4370,13 +4370,13 @@
         {
           "level": 1,
           "name": "Tılsımları Çoğaltma",
-          "desc": "En fazla [Burst] sı olan düşmana saldırı önceliği uygulair",
+          "desc": "En fazla [Burst] sı olan düşmana saldırı önceliği uygular",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefteki Yeniden Bağlanmış Lanet Tılsımı sayısı kadar [Burst] uygula"
+                  "desc": "[OnSucceedAttack] Hedefteki [ReattachedCurseTag] sayısı kadar [Burst] uygula"
                 }
               ]
             }
@@ -4390,7 +4390,7 @@
         {
           "level": 1,
           "name": "[Paralysis] Eden Lanet",
-          "desc": "[EndBattle] Hedefteki Yeniden Bağlanmış Lanet Tılsımı larının hepsini kaldır",
+          "desc": "[EndBattle] Hedefteki [ReattachedCurseTag] larının hepsini kaldır",
           "coinlist": [
             {},
             {
@@ -4403,7 +4403,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefteki Yeniden Bağlanmış Lanet Tılsımı sayısı kadar [Paralysis] uygula"
+                  "desc": "[OnSucceedAttack] Hedefteki [ReattachedCurseTag] sayısı kadar [Paralysis] uygula"
                 }
               ]
             }
@@ -4417,12 +4417,12 @@
         {
           "level": 1,
           "name": "Boğucu Lanet Tılsımı",
-          "desc": "En fazla Yeniden Bağlanmış Lanet Tılsımı olan düşmanlara saldırı önceliği uygulair",
+          "desc": "En fazla [ReattachedCurseTag] olan düşmanlara saldırı önceliği uygular",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Yeniden Bağlanmış Lanet Tılsımı uygula"
+                  "desc": "[OnSucceedAttack] 5 [ReattachedCurseTag] uygula"
                 }
               ]
             }
@@ -4436,19 +4436,19 @@
         {
           "level": 1,
           "name": "Sona Eren Lanet Tılsımı",
-          "desc": "En fazla Yeniden Bağlanmış Lanet Tılsımı olan düşmanlara saldırı önceliği uygulair\n[EndBattle] Hedefteki bütün Yeniden Bağlanmış Lanet Tılsımı larını kaldır",
+          "desc": "En fazla [ReattachedCurseTag] olan düşmanlara saldırı önceliği uygular\n[EndBattle] Hedefteki bütün [ReattachedCurseTag] larını kaldır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Yeniden Bağlanmış Lanet Tılsımı uygula"
+                  "desc": "[OnSucceedAttack] 2 [ReattachedCurseTag] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Eğer Hedefte 9+ Yeniden Bağlanmış Lanet Tılsımı varsa, 5 [Paralysis] uygula\nuygulailen hasarın %50si kadar sabit hasar uygula"
+                  "desc": "[OnSucceedAttackHead] Eğer Hedefte 9+ [ReattachedCurseTag] varsa, 5 [Paralysis] uygula\nuygulanan hasarın %50si kadar sabit hasar uygula"
                 }
               ]
             }
@@ -4462,7 +4462,7 @@
         {
           "level": 1,
           "name": "Çoğalan Lanet Tılsımı",
-          "desc": "[WhenUse] 2 Yeniden Bağlanmış Lanet Tılsımı uygula",
+          "desc": "[WhenUse] 2 [ReattachedCurseTag] uygula",
           "coinlist": [
             {
               "coindescs": [
@@ -4481,19 +4481,19 @@
         {
           "level": 1,
           "name": "Sona Eren Lanet Tılsımı",
-          "desc": "En fazla Yeniden Bağlanmış Lanet Tılsımı olan düşmanlara saldırı önceliği uygulair\n[EndBattle] Hedefteki bütün Yeniden Bağlanmış Lanet Tılsımı nı kaldır",
+          "desc": "En fazla [ReattachedCurseTag] olan düşmanlara saldırı önceliği uygular\n[EndBattle] Hedefteki bütün [ReattachedCurseTag] nı kaldır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Yeniden Bağlanmış Lanet Tılsımı uygula"
+                  "desc": "[OnSucceedAttack] 2 [ReattachedCurseTag] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Eğer Hedefte 9+ Yeniden Bağlanmış Lanet Tılsımı varsa, 5 [Paralysis] uygula\nuygulailen hasarın %50si kadar sabit hasar uygula"
+                  "desc": "[OnSucceedAttackTail] Eğer Hedefte 9+ [ReattachedCurseTag] varsa, 5 [Paralysis] uygula\nuygulanan hasarın %50si kadar sabit hasar uygula"
                 }
               ]
             }
@@ -4579,7 +4579,7 @@
         {
           "level": 1,
           "name": "Kilitlenen An",
-          "desc": "[WhenUse] +1 Yük Miktarı kazan",
+          "desc": "[WhenUse] +1 [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -4587,7 +4587,7 @@
                   "desc": "[OnSucceedAttack] 1 Kilitlenen An uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 Yük Miktarı harcayarak 3 [Paralysis] uygula"
+                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -4601,7 +4601,7 @@
         {
           "level": 1,
           "name": "Zamanı Akıt",
-          "desc": "[WhenUse] +1 Yük Miktarı kazan",
+          "desc": "[WhenUse] +1 [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -4620,7 +4620,7 @@
         {
           "level": 1,
           "name": "Hızlanan An",
-          "desc": "[StartBattle] +3 Yük Miktarı kazan\n[WhenUse] 5+ Yük Miktarı nda, Çarpışma Gücü +2\nSonraki Tur Hareketsiz kal",
+          "desc": "[StartBattle] +3 [Charge] Miktarı kazan\n[WhenUse] 5+ [Charge] Miktarı nda, Çarpışma Gücü +2\nSonraki Tur Hareketsiz kal",
           "coinlist": [
             {
               "coindescs": [
@@ -4632,7 +4632,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5+ Yük Miktarı nda, bütün Yük Miktarı nı kullanarak her kullanılan Yük Miktarı için %10 daha fazla hasar vur"
+                  "desc": "[OnSucceedAttack] 5+ [Charge] Miktarı nda, bütün [Charge] Miktarı nı kullanarak her kullanılan [Charge] Miktarı için %10 daha fazla hasar vur"
                 },
                 {
                   "desc": "[OnSucceedAttack] 1 Bağlanan Zaman uygula"
@@ -4649,7 +4649,7 @@
         {
           "level": 1,
           "name": "Zamanı Al",
-          "desc": "[StartBattle] 3 [TimeRental] ve +1 Yük Miktarı kazan",
+          "desc": "[StartBattle] 3 [TimeRental] ve +1 [Charge] Miktarı kazan",
           "coinlist": [
             {}
           ]
