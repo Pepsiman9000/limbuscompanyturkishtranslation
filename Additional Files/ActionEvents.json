@@ -8,16 +8,16 @@
       "options": [
         {
           "message": "İnsanı kurban olarak ver.",
-          "messageDesc": "All allies lose SP. Gain an E.G.O Gift.",
+          "messageDesc": "Tüm müttefikler SP kaybeder, bir E.G.O Hediyesi kazan.",
           "result": [
-            "Satisfied, the clay dolls carried the corpse-to-be off into the distance."
+            "Tatmin olmuş bir şekilde, kilden oyuncaklar yakında ceset olacak bedeni uzaklara sürüklediler."
           ]
         },
         {
           "message": "İnsanı kurban olarak verme.",
-          "messageDesc": "Begin a combat encounter. Win to gain a stronger E.G.O Gift.",
+          "messageDesc": "Bir karşılaşma başlar, daha güçlü bir E.G.O Hediyesi için karşılaşmayı kazan.",
           "result": [
-            "Angered by your inaction, the clay dolls attacked you."
+            "Eylemsizliğinden sinirlenmiş bir şekilde, kil oyuncaklar sana saldırdılar."
           ]
         },
         {
@@ -31,43 +31,43 @@
     },
     {
       "id": 10100101,
-      "name": "Human Offering",
-      "subDesc": "You see clay dolls in the distance.",
-      "desc": "Looks like the Sinners are out of the question.\n\nShould you offer up this dying person?\nOr…",
+      "name": "İnsan Kurbanı",
+      "subDesc": "zakta kilden oyuncaklar görüyorsun.",
+      "desc": "Günahkârlar seçenek dışı gibi gözüküyor.\n\nBu insanı kurban olarak vermeli misin?\nYa da…",
       "options": [
         {
-          "message": "Offer the person.",
-          "messageDesc": "All allies lose SP. Gain an E.G.O Gift.",
+          "message": "İnsanı kurban olarak ver.",
+          "messageDesc": "Tüm müttefikler SP kaybeder, bir E.G.O Hediyesi kazan.",
           "result": [
-            "Satisfied, the clay dolls carried the corpse-to-be off into the distance."
+            "Tatmin olmuş bir şekilde, kilden oyuncaklar yakında ceset olacak bedeni uzaklara sürüklediler."
           ]
         },
         {
-          "message": "Don’t offer the person.",
-          "messageDesc": "Begin a combat encounter. Win to gain a stronger E.G.O Gift.",
+          "message": "İnsanı kurban olarak verme.",
+          "messageDesc": "Bir karşılaşma başlar, daha güçlü bir E.G.O Hediyesi için karşılaşmayı kazan.",
           "result": [
-            "Angered by your inaction, the clay dolls attacked you."
+            "Eylemsizliğinden sinirlenmiş bir şekilde, kil oyuncaklar sana saldırdılar."
           ]
         }
       ]
     },
     {
       "id": 101002,
-      "name": "Eternal Rest",
-      "desc": "You hear a faint voice.\n\n“Please, help…”\n\nDo you follow the sound? Or…",
+      "name": "Ebedi Uyku",
+      "desc": "Zayıf bir ses duyuyorsun.\n\n“Lütfen, yardım…”\n\nSesi takip edecek misin? Ya da…",
       "options": [
         {
-          "message": "Check out the source of the voice.",
-          "messageDesc": "Run a Pride check. Gain an E.G.O Gift.",
+          "message": "Sesin kaynağına doğru ilerle.",
+          "messageDesc": "Bir Kibir testi dene. E.G.O Hediyesi kazan.",
           "result": [
-            "A soldier was crushed under rubble, gasping in agony.\n\n“Please just kill me… It hurts too much.”\n\nYou can’t ignore this person.\nWho will be ordered to bring this soldier to peace?"
+            "Enkaz altında açı içinde bir asker var.\n\n“Lütfen beni öldürün… acı çekiyorum.”\n\nBu şahısı görmezden gelemezsin.\nOnu hakkına kavuşturması için kimi görevlendireceksin?"
           ]
         },
         {
-          "message": "Ignore the voice.",
+          "message": "Sesi görmezden gel.",
           "messageDesc": "",
           "result": [
-            "It could just have been your senses playing tricks on you.\nIt’s not uncommon for howling wind to be mistaken for a human voice.\n\nYou decided to hurry along."
+            "Belki de yalnızca duyuların seninle oynuyordu.\nUğultulu rüzgarın bir insan sesiyle karıştırılması çok da ender bir şey değil.\n\nHızlıca oradan uzaklaşmaya karar verdin."
           ]
         }
       ]
