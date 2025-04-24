@@ -7,11 +7,11 @@
     },
     {
       "id": 1,
-      "content": "Ancak bizim tanıdığımız ve eşlik ettiğimiz Yuri her zaman kambur duruyordu."
+      "content": "Ancak bizim tanıdığımız ve eşlik ettiğimiz Yuri her zaman kambur dururdu."
     },
     {
       "id": 2,
-      "content": "Sanki ölen meslektaşlarının vasiyetlerini taşımak onun tek hayatta kalma göreviymiş gibi, her zaman kambur oturuyordu."
+      "content": "Sanki ölen meslektaşlarının vasiyetlerini taşımak onun tek hayatta kalma göreviymiş gibi, her zaman eğikti."
     },
     {
       "id": 3,
@@ -29,21 +29,21 @@
     },
     {
       "id": 6,
-      "content": "Gregor bunu sakinlikle karşılıyor."
+      "content": "Gregor bunu sakinlikle karşıladı."
     },
     {
       "id": 7,
-      "content": "Daha sonra kolunu uzatarak "Yuri"ye doğru uçurur."
+      "content": "Daha sonra kolunu uzatarak 'Yuri'ye doğru savurdu."
     },
     {
       "id": 8,
-      "content": "Ancak kısa süre sonra kolunu durdurur."
+      "content": "Ancak hücumunu yarıda kesti."
     },
     {
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Ölmek istemiyordum."
     },
     {
@@ -58,14 +58,14 @@
     },
     {
       "id": 12,
-      "content": "Müdür olarak bunun doğru bir şey olup olmadığını bilmiyorum."
+      "content": "Müdür olarak bunu emretmenin doğru bir şey olup olmadığını bilmiyordum."
     },
     {
       "id": 13,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "None of us wanted to die."
+      "title": "Sınıf 8 İşçözücü",
+      "content": "Hiçbirimiz ölmek istemedik."
     },
     {
       "id": 14,
@@ -85,7 +85,7 @@
       "id": 17,
       "teller": "Nazik Vatandaş",
       "title": "Hatırlanan Kişi",
-      "content": "Ben-ben ölmek istemiyorum!"
+      "content": "Ö-ölmek istemiyorum!"
     },
     {
       "id": 18,
@@ -105,13 +105,13 @@
       "model": "여자시민",
       "teller": "Nazik Vatandaş",
       "title": "Hatırlanan Kişi",
-      "content": "P-Lütfen beni bağışlayın... Bütün paramı size vereceğim."
+      "content": "L-Lütfen beni bağışlayın... Tüm paramı veririm."
     },
     {
       "id": 22,
       "teller": "Güvenlik Görevlisi",
       "title": "Hatırlanan Kişi",
-      "content": "Kadını bırak! Yoksa güç kullanacağım!"
+      "content": "Bırak lan kadını! Yoksa güç kullanacağım!"
     },
     {
       "id": 23,
@@ -122,20 +122,20 @@
       "id": 24,
       "teller": "Güvenlik Görevlisi",
       "title": "Hatırlanan Kişi",
-      "content": "Bu son uyarınız. Onu hemen serbest bırak, yoksa..."
+      "content": "Bu son uyarın. Onu hemen serbest bırak, yoksa..."
     },
     {
       "id": 25,
       "model": "그레고르",
-      "content": "Sadece yap!"
+      "content": "Sadece kes!"
     },
     {
       "id": 26,
-      "content": "Kopan kol yere düşünce, kadın nefes nefese duvardan aşağı doğru kayıyor."
+      "content": "Kopan kol yere düşerken, kadın nefes nefese duvardan aşağı doğru kaydı."
     },
     {
       "id": 27,
-      "content": "Ancak bu huzur uzun sürmez; kol, seğiren kökünden yeniden canlanmaya başlar."
+      "content": "Ancak bu huzur uzun sürmedi; kol, seğiren kökünden yeniden canlanmaya başladı."
     },
     {
       "id": 28,
@@ -146,39 +146,39 @@
     {
       "id": 29,
       "model": "그레고르",
-      "content": "Hayır, benden uzak dur! Daha fazla yaklaşmayın!"
+      "content": "Hayır, uzak dur! Bir adım yaklaşma!"
     },
     {
       "id": 30,
-      "content": "Yeniden uzayan kol, sanki birkaç dakika önce çektiği acıyı hatırlamış gibi öne doğru fırlar."
+      "content": "Yeniden uzayan kol, sanki birkaç dakika önce çektiği acıyı hatırlarmış gibi öne doğru fırladı."
     },
     {
       "id": 31,
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "……"
     },
     {
       "id": 32,
       "teller": "???",
       "title": "???",
-      "content": "Saygılarımla, Müdür Gregor, efendim!"
+      "content": "Saygılarımı sunarım, Müdür Gregor, efendim!"
     },
     {
       "id": 33,
       "model": "그레고르",
-      "content": "Gerçekten yapmamalısın...Ben savaşa istediğim için katılmadım."
+      "content": "Sunma... Ben savaşa istediğim için katılmadım."
     },
     {
       "id": 34,
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "……"
     },
     {
       "id": 35,
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Başka ne yapmam gerekiyor? Hayatta kalmam çok mu yanlış?"
     },
     {
@@ -189,20 +189,20 @@
     {
       "id": 37,
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "……"
     },
     {
       "id": 38,
       "teller": "???",
       "title": "???",
-      "content": "Bu sona gelmişken, emeğinizin meyvesini vermeden hemen önce durdurulmak. Ne kadar üzücü."
+      "content": "Tam da en sondayken, emeğiniz meyvesini vermeden hemen önce durdurulmak. Ne kadar üzücü."
     },
     {
       "id": 39,
       "teller": "???",
       "title": "???",
-      "content": "Peki, kabul edelim. Talep edilmeyen fırsatlar sadece geçersiz ve hükümsüz hale gelecektir."
+      "content": "Ah, biz kapalım bari. Yakalanmayan fırsatlar sadece geçersiz ve hükümsüz hale gelecektir."
     },
     {
       "id": 40,
@@ -215,12 +215,12 @@
     {
       "id": 42,
       "teller": "Yuri",
-      "title": "8. Sınıf İşçözücü",
+      "title": "Sınıf 8 İşçözücü",
       "content": "Nhh... Aaa..."
     },
     {
       "id": 43,
-      "content": "Yuri'nin ağzı açılıyor ve bir şeyler dışarı çıkıyor."
+      "content": "Yuri'nin ağzı açıldı ve bir şeyler dışarı çıktı."
     },
     {
       "id": 44,
@@ -230,7 +230,7 @@
       "id": 45,
       "teller": "???",
       "title": "???",
-      "content": "Dalı mı arıyordun?, değil mi?"
+      "content": "Dalı arıyordunuz, değil mi?"
     },
     {
       "id": 46,
@@ -255,7 +255,7 @@
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "Bizim o Dallara ihtiyacımız var; ve siz onları bulma yeteneğine sahipsiniz."
+      "content": "O Dallara ihtiyacımız var; ve siz onları bulma yeteneğine sahipsiniz."
     },
     {
       "id": 50,
