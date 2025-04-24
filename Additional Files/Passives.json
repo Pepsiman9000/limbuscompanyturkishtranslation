@@ -33,7 +33,7 @@
     {
       "id": 1030101,
       "name": "Adil Misilleme",
-      "desc": "Yetenekler, kazanılan bir çarpışmada %10 daha fazla hasar verir."
+      "desc": "Yetenekler, kazanılan bir çarpışmada %10 daha fazla hasar uygular."
     },
     {
       "id": 1030201,
@@ -83,7 +83,7 @@
     {
       "id": 1060201,
       "name": "Hēiyúndào",
-      "desc": "Zincirdeki son yeteneğin son Jetonu, 3 [Laceration] verir."
+      "desc": "Zincirdeki son yeteneğin son Jetonu, 3 [Laceration] uygular."
     },
     {
       "id": 1060301,
@@ -123,12 +123,12 @@
     {
       "id": 1080401,
       "name": "Zayıflık Gözü",
-      "desc": "Kazanılan bir çarpışmada saldırılar 1 [Vibration] verir."
+      "desc": "Kazanılan bir çarpışmada saldırılar 1 [Vibration] uygular."
     },
     {
       "id": 1090101,
       "name": "Kötülüğü Bölmek",
-      "desc": "Vuruşta, %50 şansla 1 [Laceration] verir."
+      "desc": "Vuruşta, %50 şansla 1 [Laceration] uygular."
     },
     {
       "id": 1090201,
@@ -148,7 +148,7 @@
     {
       "id": 1100201,
       "name": "Katil",
-      "desc": "Zincirdeki son yeteneğin son Jetonu, %20 daha fazla hasar verir."
+      "desc": "Zincirdeki son yeteneğin son Jetonu, %20 daha fazla hasar uygular."
     },
     {
       "id": 1100301,
@@ -163,12 +163,12 @@
     {
       "id": 1110101,
       "name": "Cellat",
-      "desc": "Hedefin SP'si 0'ın altındaysa, %10 daha fazla hasar verir."
+      "desc": "Hedefin SP'si 0'ın altındaysa, %10 daha fazla hasar uygular."
     },
     {
       "id": 1110201,
       "name": "Sakin Kafa",
-      "desc": "HP'si %25'in altındaki hedeflere %20 daha fazla hasar verir."
+      "desc": "HP'si %25'in altındaki hedeflere %20 daha fazla hasar uygular."
     },
     {
       "id": 1110301,
@@ -183,7 +183,7 @@
     {
       "id": 1120201,
       "name": "Ateşleme",
-      "desc": "Bir yeteneğin 3. ve sonraki Jetonları, vuruşta 1 [Combustion] verir."
+      "desc": "Bir yeteneğin 3. ve sonraki Jetonları, vuruşta 1 [Combustion] uygular."
     },
     {
       "id": 1120301,
@@ -208,7 +208,7 @@
     {
       "id": 1020121,
       "name": "Keskin Gözlem",
-      "desc": "En yüksek Max HP'ye sahip 1 müttefik, saldırılarla %25 şansla 2 Saldırı Seviyesi Düşüşü verir."
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, saldırılarla %25 şansla 2 Saldırı Seviyesi Düşüşü uygular."
     },
     {
       "id": 1020221,
@@ -223,7 +223,7 @@
     {
       "id": 1030121,
       "name": "Destek",
-      "desc": "En çok SP'ye sahip 1 müttefik, %10 daha fazla Delme hasarı verir."
+      "desc": "En çok SP'ye sahip 1 müttefik, %10 daha fazla Delme hasarı uygular."
     },
     {
       "id": 1030221,
@@ -233,7 +233,7 @@
     {
       "id": 1030321,
       "name": "İkiye Bölme",
-      "desc": "En yüksek Hıza sahip 1 müttefik, %10 daha fazla Kesme hasarı verir."
+      "desc": "En yüksek Hıza sahip 1 müttefik, %10 daha fazla Kesme hasarı uygular."
     },
     {
       "id": 1040121,
@@ -243,12 +243,12 @@
     {
       "id": 1040221,
       "name": "Buz Kırıcı",
-      "desc": "En düşük Max HP'ye sahip 1 müttefik, +1 Parçalanma verir."
+      "desc": "En düşük Max HP'ye sahip 1 müttefik, +1 [Burst] uygular."
     },
     {
       "id": 1040321,
       "name": "Kasların Sorumluluğu",
-      "desc": "En yüksek Hıza sahip 1 müttefik, +1 [Laceration] verir."
+      "desc": "En yüksek Hıza sahip 1 müttefik, +1 [Laceration] uygular."
     },
     {
       "id": 1050121,
@@ -258,12 +258,12 @@
     {
       "id": 1050221,
       "name": "Sürtünme Noktası",
-      "desc": "En düşük Hıza sahip 1 müttefik, +1 [Combustion] verir."
+      "desc": "En düşük Hıza sahip 1 müttefik, +1 [Combustion] uygular."
     },
     {
       "id": 1050321,
       "name": "Sessiz",
-      "desc": "En düşük Hıza sahip 1 müttefik, +1 Parçalanma verir."
+      "desc": "En düşük Hıza sahip 1 müttefik, +1 [Burst] uygular."
     },
     {
       "id": 1060121,
@@ -273,17 +273,17 @@
     {
       "id": 1060221,
       "name": "Çete İntikamı",
-      "desc": "En yüksek Hıza sahip 1 müttefik, +1 [Laceration] verir."
+      "desc": "En yüksek Hıza sahip 1 müttefik, +1 [Laceration] uygular."
     },
     {
       "id": 1060321,
       "name": "Gambit",
-      "desc": "En çok SP'ye sahip 1 müttefik, Heads Jetonlarıyla %20 daha fazla hasar verir."
+      "desc": "En çok SP'ye sahip 1 müttefik, Heads Jetonlarıyla %20 daha fazla hasar uygular."
     },
     {
       "id": 1070121,
       "name": "Kin Dolu",
-      "desc": "En düşük Max HP'ye sahip 1 müttefik, %10 daha fazla Darbe hasarı verir."
+      "desc": "En düşük Max HP'ye sahip 1 müttefik, %10 daha fazla Darbe hasarı uygular."
     },
     {
       "id": 1070221,
@@ -293,7 +293,7 @@
     {
       "id": 1070321,
       "name": "Azim",
-      "desc": "En yüksek Hıza sahip 1 müttefik, %10 daha fazla Delme hasarı verir."
+      "desc": "En yüksek Hıza sahip 1 müttefik, %10 daha fazla Delme hasarı uygular."
     },
     {
       "id": 1080121,
@@ -303,7 +303,7 @@
     {
       "id": 1080221,
       "name": "Sebat",
-      "desc": "En az SP'ye sahip 1 müttefik, %10 daha fazla Darbe hasarı verir."
+      "desc": "En az SP'ye sahip 1 müttefik, %10 daha fazla Darbe hasarı uygular."
     },
     {
       "id": 1080321,
@@ -318,17 +318,17 @@
     {
       "id": 1090121,
       "name": "Kumarbaz",
-      "desc": "En çok HP'ye sahip 1 müttefik, Heads Jetonlarıyla %20 daha fazla hasar verir."
+      "desc": "En çok HP'ye sahip 1 müttefik, Heads Jetonlarıyla %20 daha fazla hasar uygular."
     },
     {
       "id": 1090221,
       "name": "Kara Bulut Kılıççılığı",
-      "desc": "En düşük Hıza sahip 1 müttefik, %10 daha fazla Kesme hasarı verir."
+      "desc": "En düşük Hıza sahip 1 müttefik, %10 daha fazla Kesme hasarı uygular."
     },
     {
       "id": 1090321,
       "name": "Delme",
-      "desc": "En çok HP'ye sahip 1 müttefik, bu turda savunma yetenekleri kullanan düşmanlara %20 daha fazla hasar verir."
+      "desc": "En çok HP'ye sahip 1 müttefik, bu turda savunma yetenekleri kullanan düşmanlara %20 daha fazla hasar uygular."
     },
     {
       "id": 1100121,
@@ -347,18 +347,18 @@
     },
     {
       "id": 1100421,
-      "name": "Jugar con Enemigos",
-      "desc": "En çok SP'ye sahip 1 müttefik, daha düşük SP'ye sahip düşmanlara %10 daha fazla hasar verir."
+      "name": "Taco de Nigar",
+      "desc": "En çok SP'ye sahip 1 müttefik, daha düşük SP'ye sahip düşmanlara %10 daha fazla hasar uygular."
     },
     {
       "id": 1110121,
       "name": "Askeri Zihniyet",
-      "desc": "En çok HP'ye sahip 1 müttefik, 0 SP'nin altındaki düşmanlara %30 daha fazla hasar verir."
+      "desc": "En çok HP'ye sahip 1 müttefik, 0 SP'nin altındaki düşmanlara %30 daha fazla hasar uygular."
     },
     {
       "id": 1110221,
       "name": "Çift Atış",
-      "desc": "En çok SP'ye sahip 1 müttefik, HP'si %25'in altındaki düşmanlara %30 daha fazla hasar verir."
+      "desc": "En çok SP'ye sahip 1 müttefik, HP'si %25'in altındaki düşmanlara %30 daha fazla hasar uygular."
     },
     {
       "id": 1110321,
@@ -373,7 +373,7 @@
     {
       "id": 1120221,
       "name": "Hızlanan Kalp",
-      "desc": "En düşük Hıza sahip 1 müttefik, 4. ve sonraki Jetonlarıyla %30 daha fazla hasar verir."
+      "desc": "En düşük Hıza sahip 1 müttefik, 4. ve sonraki Jetonlarıyla %30 daha fazla hasar uygular."
     },
     {
       "id": 1120321,
@@ -488,7 +488,7 @@
     {
       "id": 1070421,
       "name": "İlahi",
-      "desc": "En yüksek Hıza sahip 1 müttefik, +1 Çivi verir."
+      "desc": "En yüksek Hıza sahip 1 müttefik, +1 Çivi uygular."
     },
     {
       "id": 1110401,
@@ -498,7 +498,7 @@
     {
       "id": 1110421,
       "name": "Bilgi Rölesi",
-      "desc": "En yüksek Hıza sahip 1 müttefik, hedefin \"Zayıf\" veya \"Ölümcül\" olduğu bir hasar türüyle saldırırken %10 daha fazla hasar verir."
+      "desc": "En yüksek Hıza sahip 1 müttefik, hedefin \"Zayıf\" veya \"Ölümcül\" olduğu bir hasar türüyle saldırırken %10 daha fazla hasar uygular."
     },
     {
       "id": 1060401,
@@ -508,7 +508,7 @@
     {
       "id": 1060421,
       "name": "Sıcak Değil Mi?",
-      "desc": "En çok SP'ye sahip 1 müttefik, saldırı yeteneklerinin/jetonlarının etkileriyle +1 [Combustion] Miktarı verir."
+      "desc": "En çok SP'ye sahip 1 müttefik, saldırı yeteneklerinin/jetonlarının etkileriyle +1 [Combustion] Miktarı uygular."
     },
     {
       "id": 1040401,
@@ -538,7 +538,7 @@
     {
       "id": 1100521,
       "name": "Köşeye Sıkıştırma",
-      "desc": "En az SP'ye sahip 1 müttefik, %10 daha fazla Darbe hasarı verir.\nEğer söz konusu müttefik 0 SP'nin altındaysa, SP'si düştükçe Darbe hasarını daha da artır. (Maksimum %10)"
+      "desc": "En az SP'ye sahip 1 müttefik, %10 daha fazla Darbe hasarı uygular.\nEğer söz konusu müttefik 0 SP'nin altındaysa, SP'si düştükçe Darbe hasarını daha da artır. (Maksimum %10)"
     },
     {
       "id": 1030401,
@@ -548,7 +548,7 @@
     {
       "id": 1030421,
       "name": "Fanatik Çekiç",
-      "desc": "En az SP'ye sahip 1 Fanatik müttefik, %10 daha fazla hasar verir."
+      "desc": "En az SP'ye sahip 1 Fanatik müttefik, %10 daha fazla hasar uygular."
     },
     {
       "id": 1090501,
@@ -583,22 +583,22 @@
     {
       "id": 1120501,
       "name": "Testere Alevlendi",
-      "desc": "[Vibration] olan hedeflere +1 Parçalanma verir."
+      "desc": "[Vibration] olan hedeflere +1 [Burst] uygular."
     },
     {
       "id": 1120521,
       "name": "Testere Bakımı",
-      "desc": "En düşük Hıza sahip 1 müttefik, [Vibration] olan hedeflere +1 Parçalanma verir."
+      "desc": "En düşük Hıza sahip 1 müttefik, [Vibration] olan hedeflere +1 [Burst] uygular."
     },
     {
       "id": 1010401,
       "name": "Tam Çiçeklenme",
-      "desc": "Aynı anda 2 veya daha fazla hedefe saldırırken, %30 daha fazla hasar verir."
+      "desc": "Aynı anda 2 veya daha fazla hedefe saldırırken, %30 daha fazla hasar uygular."
     },
     {
       "id": 1010421,
       "name": "Keskin Bahar Rüzgarı",
-      "desc": "En az SP'ye sahip 1 müttefik, aynı anda 2 veya daha fazla hedefe saldırırken %10 daha fazla hasar verir."
+      "desc": "En az SP'ye sahip 1 müttefik, aynı anda 2 veya daha fazla hedefe saldırırken %10 daha fazla hasar uygular."
     },
     {
       "id": 1080501,
@@ -608,7 +608,7 @@
     {
       "id": 1080521,
       "name": "Aşındırıcı Sümük",
-      "desc": "En yüksek Hıza sahip 1 müttefik [Vibration] Patlaması tetiklediğinde, 2 Parçalanma verir."
+      "desc": "En yüksek Hıza sahip 1 müttefik [Vibration] Patlaması tetiklediğinde, 2 [Burst] uygular."
     },
     {
       "id": 1060501,
@@ -638,7 +638,7 @@
     {
       "id": 1080621,
       "name": "Yoğun Alev",
-      "desc": "En düşük Hıza sahip 1 müttefik, hedefteki her 3 [Combustion] Miktarı için %5 daha fazla Darbe hasarı verir. (Maksimum %15)"
+      "desc": "En düşük Hıza sahip 1 müttefik, hedefteki her 3 [Combustion] Miktarı için %5 daha fazla Darbe hasarı uygular. (Maksimum %15)"
     },
     {
       "id": 1050601,
@@ -663,32 +663,32 @@
     {
       "id": 1030501,
       "name": "Asil Düello",
-      "desc": "Eğer tüm müttefiklerin Hızı, tüm düşmanların Hızından yüksekse, bu birim, en yavaş düşmanla arasındaki Hız farkına göre daha fazla hasar verir. (Her 1 puan fark için +%6, maksimum %30)"
+      "desc": "Eğer tüm müttefiklerin Hızı, tüm düşmanların Hızından yüksekse, bu birim, en yavaş düşmanla arasındaki Hız farkına göre daha fazla hasar uygular. (Her 1 puan fark için +%6, maksimum %30)"
     },
     {
       "id": 1030521,
       "name": "Düello Talebi",
-      "desc": "Eğer tüm müttefiklerin Hızı, tüm düşmanların Hızından yüksekse, en hızlı müttefik, en yavaş düşmanla arasındaki Hız farkına göre daha fazla hasar verir. (Her 1 puan fark için +%3, maksimum %15)"
+      "desc": "Eğer tüm müttefiklerin Hızı, tüm düşmanların Hızından yüksekse, en hızlı müttefik, en yavaş düşmanla arasındaki Hız farkına göre daha fazla hasar uygular. (Her 1 puan fark için +%3, maksimum %15)"
     },
     {
       "id": 1080701,
       "name": "Ezilen Yengeçler",
-      "desc": "[Vibration] olan bir hedefe vuruşta, +1 Batış Miktarı verir."
+      "desc": "[Vibration] olan bir hedefe vuruşta, +1 Batış Miktarı uygular."
     },
     {
       "id": 1080721,
       "name": "Yengeç Sürücüsü",
-      "desc": "En düşük Max HP'ye sahip 1 müttefik, Heads Jetonlarıyla vurduğunda, Jeton etkileriyle hedeflerine [Vibration] Miktarı verirken +1 Batış Miktarı verir."
+      "desc": "En düşük Max HP'ye sahip 1 müttefik, Heads Jetonlarıyla vurduğunda, Jeton etkileriyle hedeflerine [Vibration] Miktarı uygularken +1 Batış Miktarı uygular."
     },
     {
       "id": 1100701,
       "name": "Dengesiz Güç Çıkışı",
-      "desc": "Kendinde 10+ [Vibration] Miktarı varken Heads Jetonlarıyla vurduğunda, Jeton etkileriyle +1 [Vibration] ve [Vibration] Miktarı verir."
+      "desc": "Kendinde 10+ [Vibration] Miktarı varken Heads Jetonlarıyla vurduğunda, Jeton etkileriyle +1 [Vibration] ve [Vibration] Miktarı uygular."
     },
     {
       "id": 1100721,
       "name": "Modifiye Güç Çıkışı",
-      "desc": "En çok Max HP'ye sahip 1 müttefik, saldırı yeteneklerinin/jetonlarının etkileriyle +1 [Vibration] verir."
+      "desc": "En çok Max HP'ye sahip 1 müttefik, saldırı yeteneklerinin/jetonlarının etkileriyle +1 [Vibration] uygular."
     },
     {
       "id": 1120601,
@@ -738,44 +738,44 @@
     {
       "id": 1070601,
       "name": "İçgüdüsel Okuma",
-      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla Parçalanma verir.",
-      "summary": "Bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla Parçalanma verir."
+      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.",
+      "summary": "Bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular."
     },
     {
       "id": 1070611,
       "name": "İçgüdüsel Okuma",
-      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla Parçalanma verir.\n<style=\"highlight\">Eğer bu birim dahil 4 veya daha fazla hayatta kalan birim Seven Association İşçözücüleriyse, ek olarak +1 daha fazla Parçalanma</style>",
-      "summary": "Bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla Parçalanma verir.\n4 veya daha fazla Seven Association İşçözücü müttefik varsa, ek olarak +1 daha fazla Parçalanma verir."
+      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\n<style=\"highlight\">Eğer bu birim dahil 4 veya daha fazla hayatta kalan birim Seven Association İşçözücüleriyse, ek olarak +1 daha fazla Parçalanma</style>",
+      "summary": "Bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular.\n4 veya daha fazla Seven Association İşçözücü müttefik varsa, ek olarak +1 daha fazla [Burst] uygular."
     },
     {
       "id": 1070621,
       "name": "Noktaları Birleştir",
-      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla Parçalanma verir.",
-      "summary": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla Parçalanma verir."
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.",
+      "summary": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular."
     },
     {
       "id": 1070631,
       "name": "Noktaları Birleştir",
-      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla Parçalanma verir.\n<style=\"highlight\">Eğer müttefik bir Seven Association İşçözücüsüyse, ek olarak +1 daha fazla Parçalanma</style>",
-      "summary": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla Parçalanma verir.\nEğer müttefik bir Seven Association İşçözücüsüyse, ek olarak +1 daha fazla Parçalanma verir."
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\n<style=\"highlight\">Eğer müttefik bir Seven Association İşçözücüsüyse, ek olarak +1 daha fazla Parçalanma</style>",
+      "summary": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular.\nEğer müttefik bir Seven Association İşçözücüsüyse, ek olarak +1 daha fazla [Burst] uygular."
     },
     {
       "id": 1020601,
       "name": "Çay Soğumadan Önce...",
       "desc": "Bir hedefe, hedefin \"Zayıf\" veya \"Ölümcül\" (Direnç>x1) olduğu bir hasar türüyle saldırırken, saldırıdan önce hedefteki her [Burst] için 1 [Breathe] kazan. (Tur başına maksimum 20)",
-      "summary": "Bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, saldırıdan önce hedefteki her Parçalanma için 1 [Breathe] kazan."
+      "summary": "Bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, saldırıdan önce hedefteki her [Burst] için 1 [Breathe] kazan."
     },
     {
       "id": 1020621,
       "name": "Seven Association Çay Saati",
-      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, hedefin <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> değerine göre daha fazla hasar verir.\n+%1.5 her 1 Parçalanma için (Maksimum %15)",
-      "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, hedefin Parçalanma değerine göre daha fazla hasar verir."
+      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, hedefin <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> değerine göre daha fazla hasar uygular.\n+%1.5 her 1 [Burst] için (Maksimum %15)",
+      "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, hedefin [Burst] değerine göre daha fazla hasar uygular."
     },
     {
       "id": 1020631,
       "name": "Seven Association Çay Saati",
-      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin <style=\"highlight\">\"Zayıf\" veya \"Ölümcül\"(Direnç>x1)</style> olduğu bir hasar türüyle saldırırken, hedefin <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> değerine göre daha fazla hasar verir.\n(+%1.5 her 1 Parçalanma; Maksimum %15)\n<style=\"highlight\">Eğer müttefik bir Seven Association İşçözücüsüyse, daha da artan hasar verir.\n(+%0.5 her 1 Parçalanma; Maksimum %5)</style>",
-      "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, hedefin Parçalanma değerine göre daha fazla hasar verir.\nEğer müttefik bir Seven Association İşçözücüsüyse, daha da artan hasar verir."
+      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin <style=\"highlight\">\"Zayıf\" veya \"Ölümcül\"(Direnç>x1)</style> olduğu bir hasar türüyle saldırırken, hedefin <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> değerine göre daha fazla hasar uygular.\n(+%1.5 her 1 Parçalanma; Maksimum %15)\n<style=\"highlight\">Eğer müttefik bir Seven Association İşçözücüsüyse, daha da artan hasar uygular.\n(+%0.5 her 1 Parçalanma; Maksimum %5)</style>",
+      "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, hedefin [Burst] değerine göre daha fazla hasar uygular.\nEğer müttefik bir Seven Association İşçözücüsüyse, daha da artan hasar uygular."
     },
     {
       "id": 1010501,
@@ -785,7 +785,7 @@
     {
       "id": 1010521,
       "name": "Dağınıklığı Temizleme",
-      "desc": "En düşük Max HP'ye sahip 1 müttefik bir düşmanda [Vibration] Patlaması tetiklediğinde, yükseltilen her 4 [Vibration] Eşiği için 1 Savunma Seviyesi Düşüşü verir. (1 düşman başına her tur maksimum 3)"
+      "desc": "En düşük Max HP'ye sahip 1 müttefik bir düşmanda [Vibration] Patlaması tetiklediğinde, yükseltilen her 4 [Vibration] Eşiği için 1 Savunma Seviyesi Düşüşü uygular. (1 düşman başına her tur maksimum 3)"
     },
     {
       "id": 1110501,
@@ -845,7 +845,7 @@
     {
       "id": 1010621,
       "name": "Temizlik Gösterisi",
-      "desc": "En yüksek [Charge] Miktarına sahip 1 Müttefik, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> olan hedeflere karşı hedefteki Parçalanma başına +%1.5 daha fazla hasar verir. (Maksimum +%15 hasar)"
+      "desc": "En yüksek [Charge] Miktarına sahip 1 Müttefik, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> olan hedeflere karşı hedefteki [Burst] başına +%1.5 daha fazla hasar uygular. (Maksimum +%15 hasar)"
     },
     {
       "id": 1120701,
@@ -880,12 +880,12 @@
     {
       "id": 1040621,
       "name": "Şanslı Sigara",
-      "desc": "Eğer en az Mermiye sahip 1 müttefik, son Mermisini bir Jetonla kullanırsa, o Jeton saldırısının her hedefe verdiği hasarın %50'sini her bir hedefe ek hasar olarak verir. (Yukarı yuvarlanır)"
+      "desc": "Eğer en az Mermiye sahip 1 müttefik, son Mermisini bir Jetonla kullanırsa, o Jeton saldırısının her hedefe verdiği hasarın %50'sini her bir hedefe ek hasar olarak uygular. (Yukarı yuvarlanır)"
     },
     {
       "id": 1040631,
       "name": "Şanslı Sigara",
-      "desc": "<style=\"highlight\">- Eğer en az [Bullet]'e sahip 1 müttefik [Bullet] harcayan bir Yetenek kullanırsa, 3 [Breathe] kazan. (tur başına bir kez; Mermisiz müttefiklere uygulanmaz)</style>\n- Eğer en az Mermiye sahip 1 müttefik, son Mermisini bir Jetonla kullanırsa, o Jeton saldırısının her hedefe verdiği hasarın %50'sini her bir hedefe ek hasar olarak verir. (Yukarı yuvarlanır)"
+      "desc": "<style=\"highlight\">- Eğer en az [Bullet]'e sahip 1 müttefik [Bullet] harcayan bir Yetenek kullanırsa, 3 [Breathe] kazan. (tur başına bir kez; Mermisiz müttefiklere uygulanmaz)</style>\n- Eğer en az Mermiye sahip 1 müttefik, son Mermisini bir Jetonla kullanırsa, o Jeton saldırısının her hedefe verdiği hasarın %50'sini her bir hedefe ek hasar olarak uygular. (Yukarı yuvarlanır)"
     },
     {
       "id": 1030601,
@@ -932,24 +932,24 @@
     {
       "id": 1070721,
       "name": "Çaresizlik",
-      "desc": "En yüksek max HP'ye sahip 1 müttefik, daha az HP'de daha fazla Delme Hasarı verir.\n- Eksik her %1 HP için %0.15 daha fazla hasar ver (Maksimum %15)",
-      "summary": "En yüksek max HP'ye sahip 1 müttefik, daha az HP'de daha fazla Delme Hasarı verir."
+      "desc": "En yüksek max HP'ye sahip 1 müttefik, daha az HP'de daha fazla Delme Hasarı uygular.\n- Eksik her %1 HP için %0.15 daha fazla hasar ver (Maksimum %15)",
+      "summary": "En yüksek max HP'ye sahip 1 müttefik, daha az HP'de daha fazla Delme Hasarı uygular."
     },
     {
       "id": 1070731,
       "name": "Çaresizlik",
-      "desc": "En yüksek max HP'ye sahip 1 müttefik, daha az HP'de daha fazla Delme Hasarı verir.\n- Eksik her %1 HP için %0.3 daha fazla hasar ver (Maksimum %30)",
-      "summary": "En yüksek max HP'ye sahip 1 müttefik, daha az HP'de daha fazla Delme Hasarı verir."
+      "desc": "En yüksek max HP'ye sahip 1 müttefik, daha az HP'de daha fazla Delme Hasarı uygular.\n- Eksik her %1 HP için %0.3 daha fazla hasar ver (Maksimum %30)",
+      "summary": "En yüksek max HP'ye sahip 1 müttefik, daha az HP'de daha fazla Delme Hasarı uygular."
     },
     {
       "id": 1010701,
       "name": "Birinci Kaptan'ın Zıpkını",
-      "desc": "Kritik Vuruşta, bir Yetenekle 2 daha fazla [Laceration] Şiddeti verir (tur başına 6 kez)"
+      "desc": "Kritik Vuruşta, bir Yetenekle 2 daha fazla [Laceration] Şiddeti uygular (tur başına 6 kez)"
     },
     {
       "id": 1010721,
       "name": "Birinci Kaptan'ın Kıvraklığı",
-      "desc": "Kritik Vuruşta, en çok [Breathe] olan 1 müttefik bir Yetenekle 2 ek [Laceration] Şiddeti verir (tur başına 6 kez)"
+      "desc": "Kritik Vuruşta, en çok [Breathe] olan 1 müttefik bir Yetenekle 2 ek [Laceration] Şiddeti uygular (tur başına 6 kez)"
     },
     {
       "id": 1110601,
@@ -969,7 +969,7 @@
     {
       "id": 1110631,
       "name": "Akıl Hocasının Tavsiyesi",
-      "desc": "Eğer en hızlı müttefiğin Hızı tüm düşmanların Hızından yüksekse, en hızlı müttefik Çarpışma Gücü +1 kazanır.\nEğer söz konusu müttefik bir Cinq Association İşçözücüsüyse, en hızlı müttefik %10 daha fazla Delme Hasarı verir."
+      "desc": "Eğer en hızlı müttefiğin Hızı tüm düşmanların Hızından yüksekse, en hızlı müttefik Çarpışma Gücü +1 kazanır.\nEğer söz konusu müttefik bir Cinq Association İşçözücüsüyse, en hızlı müttefik %10 daha fazla Delme Hasarı uygular."
     },
     {
       "id": 1100801,
@@ -999,12 +999,12 @@
     {
       "id": 1110721,
       "name": "İş Talebi",
-      "desc": "En çok SP'ye sahip 1 müttefik, E.G.O Yetenekleriyle %10 daha fazla hasar verir."
+      "desc": "En çok SP'ye sahip 1 müttefik, E.G.O Yetenekleriyle %10 daha fazla hasar uygular."
     },
     {
       "id": 1110731,
       "name": "İş Talebi",
-      "desc": "En çok SP'ye sahip 1 müttefik, E.G.O Yetenekleriyle %10 daha fazla hasar verir.\nEğer E.G.O Yeteneği 7+ E.G.O kaynağı tüketirse, ek %5 daha fazla hasar verir."
+      "desc": "En çok SP'ye sahip 1 müttefik, E.G.O Yetenekleriyle %10 daha fazla hasar uygular.\nEğer E.G.O Yeteneği 7+ E.G.O kaynağı tüketirse, ek %5 daha fazla hasar uygular."
     },
     {
       "id": 1030701,
@@ -1044,12 +1044,12 @@
     {
       "id": 1010801,
       "name": "Batış Bilgisi",
-      "desc": "Saldırıya uğradığında, saldırgana 1 Batış verir (maksimum 4 kez)"
+      "desc": "Saldırıya uğradığında, saldırgana 1 Batış uygular (maksimum 4 kez)"
     },
     {
       "id": 1010811,
       "name": "Batış Bilgisi",
-      "desc": "Saldırıya uğradığında, saldırgana 1 Batış verir. Kalkanlıyken saldırıya uğrarsa, saldırgana 1 ek Batış verir. (maksimum 4 kez)"
+      "desc": "Saldırıya uğradığında, saldırgana 1 Batış uygular. Kalkanlıyken saldırıya uğrarsa, saldırgana 1 ek Batış uygular. (maksimum 4 kez)"
     },
     {
       "id": 1010821,
@@ -1069,7 +1069,7 @@
     {
       "id": 1080802,
       "name": "Av Saati",
-      "desc": "Eğer hedef bir <Lake Entity> ise, %10 daha fazla hasar verir."
+      "desc": "Eğer hedef bir <Lake Entity> ise, %10 daha fazla hasar uygular."
     },
     {
       "id": 1080811,
@@ -1099,32 +1099,32 @@
     {
       "id": 1050821,
       "name": "Vatan Kılıç Oyunu",
-      "desc": "Savaş Başlangıcı: en çok [Breathe]'e sahip 1 müttefik, Kritik Vuruşta %15 daha fazla hasar verir."
+      "desc": "Savaş Başlangıcı: en çok [Breathe]'e sahip 1 müttefik, Kritik Vuruşta %15 daha fazla hasar uygular."
     },
     {
       "id": 1020801,
       "name": "Kanlı Erik Çiçekleri",
-      "desc": "Kritik Vuruşta: 1 [RedApricotBlossom] verir. (maksimum 3 kez)"
+      "desc": "Kritik Vuruşta: 1 [RedApricotBlossom] uygular. (maksimum 3 kez)"
     },
     {
       "id": 1020811,
       "name": "Kanlı Erik Çiçekleri",
-      "desc": "Kritik Vuruşta: 1 [RedApricotBlossom] verir. Eğer hedefin 10 [RedApricotBlossom]'u varsa, bunun yerine 1 Savunma Seviyesi Düşüşü verir. (maksimum 6 kez)"
+      "desc": "Kritik Vuruşta: 1 [RedApricotBlossom] uygular. Eğer hedefin 10 [RedApricotBlossom]'u varsa, bunun yerine 1 Savunma Seviyesi Düşüşü uygular. (maksimum 6 kez)"
     },
     {
       "id": 1020821,
       "name": "Kalıcı Kılıç Ucu",
-      "desc": "Savaş öncesi takım kurulumunda ilk konuşlandırılan müttefik, bir Kesme türü Yetenekle Kritik Vuruş yaparsa, 1 Savunma Seviyesi Düşüşü verir. (1 düşman başına tur başına maksimum 3 kez)"
+      "desc": "Savaş öncesi takım kurulumunda ilk konuşlandırılan müttefik, bir Kesme türü Yetenekle Kritik Vuruş yaparsa, 1 Savunma Seviyesi Düşüşü uygular. (1 düşman başına tur başına maksimum 3 kez)"
     },
     {
       "id": 1030801,
       "name": "Kolektif [Breathe]",
-      "desc": "Bu birim kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti kazandığında: [Breathe]'i olmayan veya en az [Breathe] Şiddetine sahip 1 müttefiğe 1 [Breathe] Şiddeti verir. (maksimum 3 kez)"
+      "desc": "Bu birim kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti kazandığında: [Breathe]'i olmayan veya en az [Breathe] Şiddetine sahip 1 müttefiğe 1 [Breathe] Şiddeti uygular. (maksimum 3 kez)"
     },
     {
       "id": 1030811,
       "name": "Kolektif [Breathe]",
-      "desc": "Bu birim kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti kazandığında: [Breathe]'i olmayan veya en az [Breathe] Şiddetine sahip 1 müttefiğe 1 [Breathe] Şiddeti verir. (maksimum 5 kez)"
+      "desc": "Bu birim kendi Yetenek veya Jeton etkileriyle [Breathe] Şiddeti kazandığında: [Breathe]'i olmayan veya en az [Breathe] Şiddetine sahip 1 müttefiğe 1 [Breathe] Şiddeti uygular. (maksimum 5 kez)"
     },
     {
       "id": 1030821,
@@ -1161,7 +1161,7 @@
   {
   "id": 1090821,
   "name": "Tutkulu Tezahürat",
-  "desc": "En az SP'ye sahip 1 müttefik, hedefteki her 6 [Combustion] Şiddeti için Vuruş başına %5 daha fazla Delme hasarı verir (Maksimum %15)"
+  "desc": "En az SP'ye sahip 1 müttefik, hedefteki her 6 [Combustion] Şiddeti için Vuruş başına %5 daha fazla Delme hasarı uygular (Maksimum %15)"
   },
   {
   "id": 1040701,
@@ -1178,14 +1178,14 @@
   {
   "id": 1040721,
   "name": "Yayılan Alev",
-  "desc": "En düşük Hıza sahip 1 müttefik, [Combustion] olan bir düşmanı yendiğinde, 1 rastgele düşmana 3 [Combustion] verir (Tur başına 1 kez)\n- Odaklı Karşılaşmalarda, 1 rastgele Parçaya",
-  "summary": "En düşük Hıza sahip 1 müttefik, [Combustion] olan bir düşmanı yendiğinde, 1 rastgele düşmana 3 [Combustion] verir"
+  "desc": "En düşük Hıza sahip 1 müttefik, [Combustion] olan bir düşmanı yendiğinde, 1 rastgele düşmana 3 [Combustion] uygular (Tur başına 1 kez)\n- Odaklı Karşılaşmalarda, 1 rastgele Parçaya",
+  "summary": "En düşük Hıza sahip 1 müttefik, [Combustion] olan bir düşmanı yendiğinde, 1 rastgele düşmana 3 [Combustion] uygular"
   },
   {
   "id": 1040731,
   "name": "Yayılan Alev",
-  "desc": "En düşük Hıza sahip 1 müttefik, [Combustion] olan bir düşmanı yendiğinde, 2 rastgele düşmana 3 [Combustion] verir (Tur başına 1 kez)\n- Odaklı Karşılaşmalarda, 2 rastgele Parçaya",
-  "summary": "En düşük Hıza sahip 1 müttefik, [Combustion] olan bir düşmanı yendiğinde, 2 rastgele düşmana 3 [Combustion] verir"
+  "desc": "En düşük Hıza sahip 1 müttefik, [Combustion] olan bir düşmanı yendiğinde, 2 rastgele düşmana 3 [Combustion] uygular (Tur başına 1 kez)\n- Odaklı Karşılaşmalarda, 2 rastgele Parçaya",
+  "summary": "En düşük Hıza sahip 1 müttefik, [Combustion] olan bir düşmanı yendiğinde, 2 rastgele düşmana 3 [Combustion] uygular"
    },
    {
   "id": 1070801,
