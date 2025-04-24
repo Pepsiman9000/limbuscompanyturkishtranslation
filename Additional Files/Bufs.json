@@ -252,15 +252,15 @@
     },
     {
       "id": "Nail",
-      "name": "N Corp’s Nails",
-      "desc": "Turn Start: Gain 1 Bleed and increase the Bleed Count by {0}.\nTurn End: Reduce this effect by 1.",
+      "name": "N Kuruluşu Çivileri",
+      "desc": "Tur Başlangıcı: 1 Kanama kazan ve Kanama Miktarını {0} arttır.\nTur Sonu: Efekti 1 azalt.",
       "summary": "Gain 1 Bleed and add +{0} Bleed Count"
     },
     {
       "id": "Inactible",
-      "name": "Immobilized",
-      "desc": "Does not act for this turn.",
-      "summary": "Inactive"
+      "name": "Hareketsiz",
+      "desc": "Bu tur hareket etmez.",
+      "summary": "Hareketsiz"
     },
     {
       "id": "Combustion",
@@ -1679,8 +1679,8 @@
     },
     {
       "id": "VibrationExplosion",
-      "name": "Tremor Burst",
-      "desc": "Raise target's Stagger Threshold by Tremor Potency on target"
+      "name": "Sarsıntı Patlaması",
+      "desc": "Hedefin Sersemleme Eşiğini Sarsıntı Şiddeti kadar artır."
     },
     {
       "id": "OneOnOneDuel",
