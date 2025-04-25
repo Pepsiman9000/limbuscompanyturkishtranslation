@@ -3,7 +3,7 @@
         {
             "id": "get_10907_1",
             "desc": "Kişilik Edinildiğinde",
-            "dlg": "Şşşş...! Hey, bunu ye. Şaşırmış bir şekilde davranma. Sadece ağzına koy ve çiğne—bana teşekkür etmene gere yok, fuhu."
+            "dlg": "Şşşş...! Hey, bunu ye. Şaşırmış bir şekilde davranma. Sadece ağzına koy ve çiğne.Bana teşekkür etmene gere yok, fuhu."
         },
         {
             "id": "lobby_morning_10907_1",
@@ -13,7 +13,7 @@
         {
             "id": "lobby_noon_10907_1",
             "desc": "Tünaydın",
-            "dlg": "Sanırım bugün öğle yemeğini atlayacağım. Ne? \"Gözlerime inanamıyorum...\"? Bu çünkü, ııı... Yani, Birlik kütuphanesinde birşeyler atıştırdım... biraz fazlaca galiba."
+            "dlg": "Sanırım bugün öğle yemeğini atlayacağım. Ne? \"Gözlerime inanamıyorum...\"? Bu çünkü, ııı... Yani, Birlik kütüphanesinde birşeyler atıştırdım... biraz fazlaca galiba."
         },
         {
             "id": "lobby_night_10907_1",
@@ -23,12 +23,12 @@
         {
             "id": "smalltalk_10907_1",
             "desc": "Sohbet #1",
-            "dlg": "Paylaşmak benim için sorun depil, ama bunu baş kütuphanecinin gözlerinden uzak tutalım, tamam mı?\nEğer yine atıştırırken yakalanırsam, Sanırım 1 haftalık kütuphane yasağıyla bitmeyecek."
+            "dlg": "Paylaşmak benim için sorun değil, ama bunu baş kütuphanecinin gözlerinden uzak tutalım, tamam mı?\nEğer yine atıştırırken yakalanırsam, Sanırım 1 haftalık kütuphane yasağıyla bitmeyecek."
         },
         {
             "id": "smalltalk_10907_2",
             "desc": "Sohbet #2",
-            "dlg": "Gizlice atıştırmanın sırrı...? Hepsi gözlerde. En ölü, en dalgın gözler.\nSanki beynin çok fazla bilgiden aşırı yüklenmiş... gerçekte yüzün tatlılardan dolup taşıyor."
+            "dlg": "Gizlice atıştırmanın sırrı...? Hepsi gözlerde. En ölü, en dalgın gözler.\nSanki beynin çok fazla bilgiden aşırı yüklenmiş... gerçekte yüzün atıştırmalıklardan dolup taşıyor."
         },
         {
             "id": "smalltalk_10907_3",
@@ -38,22 +38,22 @@
         {
             "id": "smalltalk_10907_4",
             "desc": "Uptie-Sonrası Sohbet 1",
-            "dlg": "Nasıl bu kadar güçlüyüm? Ahh, nasıl bu kadar basit birşeyi bilmiyorsun?\nDine beni... 'Bilgi güçtür'."
+            "dlg": "Nasıl bu kadar güçlüyüm? Ahh, nasıl bu kadar basit birşeyi bilmiyorsun?\nDinle beni... 'Bilgi güçtür'."
         },
         {
             "id": "smalltalk_10907_5",
             "desc": "Uptie-Sonrası Sohbet 2",
-            "dlg": "Our Association has two large divisions: the Keys and the Fists. Which one am I? Fuhu, can'tcha tell? I'll knock some enlightenment into them blockheads with these fists."
+            "dlg": "Birliğimizin iki büyük departmanı vardı: Anahtarlar ve Yumruklar. Ben hangisinde miyim? Fuhu, anlayamıyor musun? O tuğlakafana bu yumruklarla biraz aydınlanma sokacağım."
         },
         {
             "id": "neglect_10907_1",
             "desc": "Boşta",
-            "dlg": "Mmm... Evet? Hayır hanımefendi. Sadece çalışıyordum."
+            "dlg": "Mmm... Evet? Hayır Hanımefendi. Sadece çalışıyordum."
         },
         {
             "id": "gacksung_10907_1",
             "desc": "Uptying",
-            "dlg": "How'd it go again? With knowledge as my key... I shall continue to devote myself to the opening of the door."
+            "dlg": "Nasıl Söyleniyordu? Bilgelik anahtarım olarak... Kapının açılmasına kendimi adamaya devam edeceğim."
         },
         {
             "id": "formation_10907_1",
