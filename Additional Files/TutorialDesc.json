@@ -130,31 +130,31 @@
     },
     {
       "id": "tutorial_203_01",
-      "content": "The blue orb next to a character’s health bar is an indicator of their <Sanity>, or SP."
+      "content": "Bir karakterin canının yanında gördüğün mavi küre, onun <Sakinlik> Puanıdır, yani SP."
     },
     {
       "id": "tutorial_203_02_popup_title",
-      "content": "What is Sanity?"
+      "content": "Sakinlik Puanı nedir?"
     },
     {
       "id": "tutorial_203_02",
-      "content": "The sphere on a unit’s right indicates their <Sanity>, or SP. It has a range of -45 to +45.\nUnits with higher Sanity have a higher chance of their Coin flips landing heads.\nDefeating enemies boosts Sanity, while ally deaths will harm Sanity.\nEnemy units at low Sanity may fall into states of “Low Morale” or “Panic”."
+      "content": "Bir karakterin yanındaki küre <Sakinlik> Puanıdır, yani SP. -45 ve +45 arasında olabilir.\nBir birimin Jetonunun Tura gelme olasılığı, %50 + sahip olduğu SP'dir.\nDüşman yenmek SP artırır, müttefik ölümleri ise düşürür.\nDüşük SP'ye sahip birimler “Düşük Moral” veya “Panik” geçirebilir."
     },
     {
       "id": "tutorial_203_06",
-      "content": "You can view the effects and ailments on a unit in the indicated area."
+      "content": "Bir birim üzerindeki efektleri bu bölgeden görebilirsin."
     },
     {
       "id": "tutorial_203_07",
-      "content": "Press or hover over one of the effect icons to examine it in detail."
+      "content": "Daha detaylı bir açıklama için efekt resimlerinden birine basabilirsin."
     },
     {
       "id": "tutorial_203_08",
-      "content": "All of our foes have fallen into panic. Now’s our chance. Give us orders at your discretion."
+      "content": "Tüm düşmanlarımız panik altında. İşte şimdi saldırma şansı. Emirleri ver."
     },
     {
       "id": "tutorial_301_01",
-      "content": "Please form a chain of skills. I have more to teach you."
+      "content": "Lütfen bir saldırı zinciri oluştur. Sana öğreteceklerim var."
     },
     {
       "id": "tutorial_301_02_popup_tItle",
