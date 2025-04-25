@@ -2,44 +2,44 @@
   "dataList": [
     {
       "id": 1,
-      "name": "Ücretli Lunacy",
-      "desc": "A rose-shaped crystalline material. Used for performing extractions and purchasing Enkefalin boxes.",
-      "flavor": "A crystal rose that seems to be facing a certain direction at all times. This humanlike object is said to absorb the moisture from a certain river to bloom."
+      "name": "Paralı Lunacy",
+      "desc": "Gül şeklinde kristalimsi bir materyal. Ekstraksiyon yapmakta ve Enkefalin kutuları satın almakta kullanılabilir.",
+      "flavor": "Sürekli belirli bir yöne dönük gibi görünen kristal bir gül. Bu insanımsı nesnenin çiçek açabilmek için gizemli bir nehrin nemini içine çektiği söylenir."
     },
     {
       "id": 2,
       "name": "Bedava Lunacy",
-      "desc": "A rose-shaped crystalline material. Used for performing extractions and purchasing Enkefalin boxes.",
-      "flavor": "A crystal rose that seems to be facing a certain direction at all times. This humanlike object is said to absorb the moisture from a certain river to bloom."
+      "desc": "Gül şeklinde kristalimsi bir materyal. Ekstraksiyon yapmakta ve Enkefalin kutuları satın almakta kullanılabilir.",
+      "flavor": "Sürekli belirli bir yöne dönük gibi görünen kristal bir gül. Bu insanımsı nesnenin çiçek açabilmek için gizemli bir nehrin nemini içine çektiği söylenir."
     },
     {
       "id": 3,
       "name": "Lunacy",
-      "desc": "A rose-shaped crystalline material. Used for performing extractions and purchasing Enkefalin boxes.",
-      "flavor": "Embracing the madness is a necessary step for humans to move forward."
+      "desc": "Gül şeklinde kristalimsi bir materyal. Ekstraksiyon yapmakta ve Enkefalin kutuları satın almakta kullanılabilir.",
+      "flavor": "Deliliği kucaklamak insanlığın ilerlemesi için gerekli bir adımdır."
     },
     {
       "id": 11,
       "name": "Enkefalin Modülü",
-      "desc": "Used for entering dungeons.",
+      "desc": "Zindanlara giriş için kullanılabilir.",
       "flavor": "A spherical module designed for special containment.\n[NOTE] Utilizing a dosage of liquid Enkefalin allows for more stable usage compared to its gaseous form.\nThe Enkefalin can be converted into energy by plugging the module into a designated socket.\n[CAUTION] Modularization of Enkefalin is an irreversible process; the module may only be expended via a socket.\nUsage outside of intended purposes or modification is strictly forbidden."
     },
     {
       "id": 101,
       "name": "Ekstraksiyon Bileti",
-      "desc": "Can be used to perform 1 extraction.",
+      "desc": "1 ekstraksiyon gerçekleştirmek için kullanılabilir.",
       "flavor": "A consumable item weaved from Lunacy, the source of Mephistopheles’ extractive energy.\nIt looks like a thin sheet of paper at a glance, but something seems to be pulsating inside."
     },
     {
       "id": 102,
       "name": "Çoklu Ekstraksiyon Bileti",
-      "desc": "Can be used to perform 10 extractions.",
+      "desc": "10'lu ekstraksiyon gerçekleştirmek için kullanılabilir.",
       "flavor": "A consumable item weaved from Lunacy, the source of Mephistopheles’ extractive energy.\nIt looks like a thin sheet of paper at a glance, but something seems to be pulsating inside."
     },
     {
       "id": 103,
       "name": "3★ Garantili Çoklu Ekstraksiyon Bileti",
-      "desc": "Can be used to perform 10 extractions where one 3★ Identity is guaranteed to appear.",
+      "desc": "Bir 3★ Kimliğin çıkmasının garanti olduğu 10'lu ekstraksiyon için kullanılabilir.",
       "flavor": "A special ticket with a mark on it. It can extract an Identity from a world of unlikely possibilities with certainty. The paper is fiercely beating and pulsing."
     },
     {
@@ -69,49 +69,49 @@
     {
       "id": 211,
       "name": "Kişilik Geliştirme Bileti I",
-      "desc": "Gives 50 Identity XP.",
+      "desc": "50 Kişilik XP'si verir.",
       "flavor": "A ticket bearing possibilities of the past, present, and future.\n“I found that a thought of something I’d never experienced planted itself firmly in my head.”"
     },
     {
       "id": 212,
       "name": "Kişilik Geliştirme Bileti II",
-      "desc": "Gives 200 Identity XP.",
+      "desc": "200 Kişilik XP'si verir.",
       "flavor": "A ticket bearing possibilities of the past, present, and future.\n“Hmhm~ I’ve never been to the southern quarter before, so why does it feel so familiar…?”"
     },
     {
       "id": 213,
       "name": "Kişilik Geliştirme Bileti III",
-      "desc": "Gives 1000 Identity XP.",
+      "desc": "1000 Kişilik XP'si verir.",
       "flavor": "A ticket bearing possibilities of the past, present, and future.\n“…If I could have had such a convenient thing in the past, those nightmarish plights would’ve been so simple to overcome.”"
     },
     {
       "id": 214,
       "name": "Kişilik Geliştirme Bileti IV",
-      "desc": "Gives 3000 Identity XP.",
+      "desc": "3000 Kişilik XP'si verir.",
       "flavor": "A Ticket shimmering with possibilities we experienced, are experiencing, and will experience.\n\"This is a feeling not unlike getting memories we did not experience forced into us. This is not the most pleasant feeling, but it is certainly efficient."
     },
     {
       "id": 221,
       "name": "Seviye Yükseltme Fişi I",
-      "desc": "Raises an Identity’s level to up to 10.",
+      "desc": "Bir kişiliğin seviyesini 10'a kadar yükseltir.",
       "flavor": "A limit-disengaging ticket that allows an Identity to hold excess experience.\n“Oho! Mine frame hath become more apt than ever to enact justice!”"
     },
     {
       "id": 222,
       "name": "Seviye Yükseltme Fişi II",
-      "desc": "Raises an Identity’s level to up to 20.",
+      "desc": "Bir kişiliğin seviyesini 20'ye kadar yükseltir.",
       "flavor": "A limit-disengaging ticket that allows an Identity to hold excess experience.\n“It’s… strangely calming. I feel like I can do things I couldn’t before.”"
     },
     {
       "id": 223,
       "name": "Seviye Yükseltme Fişi III",
-      "desc": "Raises an Identity’s level to up to 30.",
+      "desc": "Bir kişiliğin seviyesini 30'a kadar yükseltir.",
       "flavor": "A limit-disengaging ticket that allows an Identity to hold excess experience.\n“This thing would’ve been a real menace if it was available during wartime. Imagine fostering veterans in mere seconds.”"
     },
     {
       "id": 224,
       "name": "Seviye Yükseltme Fişi IV",
-      "desc": "Raises an Identity’s level to up to 40.",
+      "desc": "Bir kişiliğin seviyesini 40'a kadar yükseltir.",
       "flavor": "A limit-disengaging ticket that allows an Identity to hold excess experience. \n\"O.P. To give me years of experience in using a technique I've never used before...  there is no satisfaction here. Revolting.\""
     },
     {
@@ -544,7 +544,7 @@
       "id": 9001,
       "name": "Kkomi'nin Hediyesi",
       "desc": "401 Bedava Lunacy almak için açın..",
-      "flavor": "Garip bir rüyadan uyanmak gibi. Bu Kkomi'nin bahar ortasındaki gecede verdiği özür hediyesi, o peluş yumruklarıyla hepimizi dövdüğü içindir. \"Kkomi sonra görüşürüz diyor\" - Vergilius"
+      "flavor": "Garip bir rüyadan uyanmak gibi. Herhalde bu Kkomi'nin bahar ortasındaki gecede verdiği özür hediyesi, o peluş yumruklarıyla hepimizi dövdüğü içindir. \"Kkomi sonra görüşürüz diyor\" - Vergilius"
     }
   ]
 }
