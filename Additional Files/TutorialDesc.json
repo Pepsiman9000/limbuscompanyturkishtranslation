@@ -226,59 +226,59 @@
     },
     {
       "id": "tutorial_302_11",
-      "content": "When using Evade, the character will dodge if the Evade’s final Power value is greater than or equal to the incoming attack’s.\nThe attack will hit with full force if the Evade’s Power is lower, so be careful."
+      "content": "Bir Kaçınma Yeteneği kullanırken, eğer Kaçınmanın gücü gelen saldırıya eşit veya daha fazlaysa, karakter o saldırıdan tamamen kaçınır.\nFakat Kaçınma gücü gelen saldırı gücünden az ise, saldırı tam güç sana yapıştıracaktır. Dikkatli ol."
     },
     {
       "id": "tutorial_302_12",
-      "content": "These skills have been generated without a problem.\nNow, utilize them and continue the battle.\nYour goal is to eliminate all of our enemies."
+      "content": "Aferin sana.\nŞimdi, defansif yetenekleri de artık kullanarak savaşa devam et.\nHedefin tüm düşmanları yok etmek."
     },
     {
       "id": "tutorial_1001_01",
-      "content": "In dungeons, creatures we call <Abnormalities> exist.\nEncounters with them will be unavoidable."
+      "content": "Zindanlarda, <Anomali> dediğimiz varlıklar yaşar.\nOnlarla karşılaşmak kaçınılmaz."
     },
     {
       "id": "tutorial_1001_02_popup_title",
-      "content": "Abnormalities and their Parts"
+      "content": "Anomaliler ve Parçaları"
     },
     {
       "id": "tutorial_1001_02",
-      "content": "Abnormalities consist of at least one body part.\nEach part has its own slots, as well as individual skills."
+      "content": "Anomaliler en az bir vücut parçasından oluşur.\nHer parçanın kendi Yetenek Yuvaları ve Yetenekleri vardır."
     },
     {
       "id": "tutorial_1001_03",
-      "content": "Choose one of your Sinner’s skills and drag it to the Abnormality’s skill slot."
+      "content": "Günahkârlarından birinin bir Yeteneğini seç ve Anomalinin Yetenek Yuvalarından birine sürükle."
     },
     {
       "id": "tutorial_1001_04",
-      "content": "Abnormality skills also have <Speed> values.\nAlongside determining the order of actions, an Abnormality’s Speeds are something to pay attention to when you wish to redirect its attacks."
+      "content": "Anomalilerin de Yeteneklerinin <Hız> değerleri vardır.\nSaldırı sırasını değiştirmenin üzerine, bir Anomalinin saldırılarını yönlendirmek istiyorsan hızına dikkat etmek önemlidir."
     },
     {
       "id": "tutorial_1001_05",
-      "content": "When you order a Sinner with *higher* Speed to target one of the Abnormality’s skill slots, it will be forced to engage in a <Clash> with its new target."
+      "content": "Anomalinin Saldırılarından birini daha yüksek hıza sahip bir Günahkâr ile hedeflersen, bu yeni Günahkâr ile <Çarpışmak> zorunda kalacaktır."
     },
     {
       "id": "tutorial_1001_06",
-      "content": "Drag a skill belonging to a character with higher Speed to change the Abnormality’s target."
+      "content": "Anomalinin hedefini değiştirmek için daha yüksek hıza sahip bir Günahkâr ile yönlendir."
     },
     {
       "id": "tutorial_1001_07",
-      "content": "You’ve redirected the Abnormality’s target. These two will now get into a Clash this turn."
+      "content": "Anomalinin hedefini yönlendirdin. Bu tur, bu ikisi çarpışacaklar."
     },
     {
       "id": "tutorial_1001_08",
-      "content": "By using Speed this way,\nyou can freely manipulate who an Abnormality attacks.\nIn Focused Encounters, it is vital to *switch targets*\nso that they are forced into Clashes that will play out in your favor."
+      "content": "Hızı bu şekilde kullanarak,\nbir Anomalinin kime saldıracağını istediğin gibi manipüle edebilirsin.\nOdaklı Karşılaşmalarda, *hedef değiştirmek* hayati önem taşır.\nKendi işine gelen Çarpışmalara girmelisin."
     },
     {
       "id": "tutorial_1001_09",
-      "content": "Now, give your orders to the rest of the Sinners."
+      "content": "Şimdi, kalan Günahkârlara emirlerini ver."
     },
     {
       "id": "tutorial_1001_10",
-      "content": "After you’ve planned out your Sinners’ moves, press here to begin combat."
+      "content": "Günahkârlara emirlerini vermeyi bitirdiğinde, savaşı başlatmak için buraya tıkla."
     },
     {
       "id": "tutorial_1001_99_popup_title",
-      "content": "Breaking Parts"
+      "content": "Parça Kırmak"
     },
     {
       "id": "tutorial_1001_99",
