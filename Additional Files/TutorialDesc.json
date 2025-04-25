@@ -70,63 +70,63 @@
     },
     {
       "id": "tutorial_201_01",
-      "content": "All actions are dictated by a <Speed> value."
+      "content": "Her eylemin bir <Hız>ı vardır."
     },
     {
       "id": "tutorial_201_02_popup_title",
-      "content": "What is Speed?"
+      "content": "Hız nedir?"
     },
     {
       "id": "tutorial_201_02",
-      "content": "Speed is a random number chosen from within a given range each turn.\nThe positions of units are rearranged every turn according to their Speeds.\nThose with lower Speeds are placed at the front, making them easier targets."
+      "content": "Hız, belirli bir menzilden seçilen rastgele bir sayıdır.\nBirliklerin pozisyonları Hızlarına göre her tur yeniden dizilir.\nDüşük Hıza sahip olanlar önlere düşerler, bu onları daha kolay hedefler yapar."
     },
     {
       "id": "tutorial_201_05",
-      "content": "Before using a skill, characters will flip Coins to determine its final Power value.\nHigher Power means higher damage."
+      "content": "Bir Yetenek kullanmadan önce, Yeteneğin gücüne karar vermek için Jetonlar atılır.\nDaha yüksek güç daha fazla hasar demektir."
     },
     {
       "id": "tutorial_201_06",
-      "content": "The number of Coins indicates how many attacks are made. Two Coins means two hits."
+      "content": "Jeton sayısı kaç vuruş yapıldığını da belirtir. İki Jeton, iki vuruş demektir."
     },
     {
       "id": "tutorial_201_07",
-      "content": "Before using a skill, characters will flip Coins to determine its final Power value.\nHigher Power means higher damage."
+      "content": "Bir Yetenek kullanmadan önce, Yeteneğin gücüne karar vermek için Jetonlar atılır.\nDaha yüksek güç daha fazla hasar demektir."
     },
     {
       "id": "tutorial_201_08",
-      "content": "Usually, if a Coin lands on heads, its Power will be added to the skill’s Power.\nLooks like the skill will be strengthened this time."
+      "content": "Eğer Jeton Tura tutarsa, Jeton'un gücü Yeteneğin gücüne eklenir.\nJetonları güçleri negatif, pozitif veya sıfır olabilir."
     },
     {
       "id": "tutorial_201_09",
-      "content": "The added Power persists over to the next coin toss."
+      "content": "Jetonun eklenmiş gücü bir sonraki Jetona da geçer."
     },
     {
       "id": "tutorial_202_01",
-      "content": "At the start of each turn, a skill slot will be added for a Sinner in the order they were deployed during team setup, regardless of if the Sinner is <Staggered>, <in Panic>, or <E.G.O corrosion>."
+      "content": "Her turun başında, takım seçme kısmında seçilen sıraya göre bir Günahkâr bir tane daha Yetenek Yuvası kazanır. Günahkârın <Sersemlemiş>, <Panik> olmuş, veya <E.G.O Korozyonu> geçirmiş olması fark etmeksizin."
     },
     {
       "id": "tutorial_202_02",
-      "content": "When a Sinner and their target both use attack skills, a <Clash> occurs."
+      "content": "Hem bir Günahkâr, hem de hedefi birbirlerine karşı bir Yetenek kullanırlarsa, bir <Çarpışma> yaşanır."
     },
     {
       "id": "tutorial_202_03_popup_title",
-      "content": "What are Clashes?"
+      "content": "Çarpışma nedir?"
     },
     {
       "id": "tutorial_202_03",
-      "content": "A <Clash> occurs when two characters attack each other.\nThe side with the higher Power wins, removing 1 Coin from the loser.\nIf both sides still have Coins, more Clashes will occur until one side has lost all of its Coins.\nThe side that loses all their Coins will have their attack skill canceled.\nThe winner will then attack with their remaining Coins, gaining a damage bonus based on the total number of Clashes."
+      "content": "<Çarpışma> iki karakter birbirini hedeflediğinde yaşanır.\nDaha yüksek Güce sahip taraf kazanır, malup olan tarafın ise bir Jetonu kırılır.\nEğer iki tarafında hala Jetonları varsa, bir tarafta Jeton kalmayana dek Çarpışma devam eder.\nTüm Jetonları kırılan tarafın Yeteneği de kaybolur.\nKazan ise elinde kalan Jetonları kullanarak saldırır."
     },
     {
       "id": "tutorial_202_04",
-      "content": "In a <Clash>, the Clash Power of two opposing skills is compared, and the side with greater Power wins.\nThe gauge and text shown at the top of the screen predict your odds of winning."
+      "content": "Bir <Çarpışma> esnasında, çarpışan yeteneklerin Çarpışma Gücü karşılaştırılır, ve daha yüksek güce sahip taraf kazanır.\nEkranın üst tarafında gördüğün yazı, kazanma ihtimalini çok da doğru olmasa da tahmin etmeye çalışır."
     },
     {
       "id": "tutorial_202_05",
-      "content": "When a Clash begins, the two characters will each toss a Coin to determine their skills’ power in the Clash. Then, the side with more Power wins and destroys the opponent’s Coin."
+      "content": "Bir Çarpışma başladığında, iki karakter de tüm Jetonlarını atarlar. Ardından ise, daha yüksek güce sahip taraf kazanır ve kaybedenin bir Jetonunu kırar."
     },
     {
       "id": "tutorial_202_06",
-      "content": "The Clash will continue until one side has run out of Coins.\nWhen a character’s final Coin is destroyed, their skill is canceled, and the Clash will end in complete defeat."
+      "content": "Bir tarafta Jeton kalmayana dek Çarpışma devam eder.\nBir karakterin son Jetonu da kırıldığında, Yeteneği de silinir, ve Çarpışma kaybedilmiş olur."
     },
     {
       "id": "tutorial_203_01",
