@@ -2,119 +2,119 @@
   "dataList": [
     {
       "id": "announcer_cheer_14_1",
-      "dlg": "Uh... I mean. Uh, Ahem. Good luck, mate."
+      "dlg": "Uh... Yani. Ahem. İyi şanslar, dostum."
     },
     {
       "id": "announcer_cheer_14_2",
-      "dlg": "Do whatever you want out there! I'm sure you'll knock 'em all down with a single strike!"
+      "dlg": "Ne sik istiyorsan onu yap! Eminim hepsini bir vuruşta yerle bir edersin!"
     },
     {
       "id": "announcer_specialcheer_14_1",
-      "dlg": "Haah... This ain't the first time I've seen this sorry sight. Bloodied, teetering on the brink of death... But we don't want to run away and look like cowards, yeah?"
+      "dlg": "Haah... Bu, bu üzücü manzarayı ilk görüşüm değil. Kan içinde, ölümün eşiğinde... Ama götten bacaklı ödlekler misali kaçıp götoş gibi görünmek istemeyiz, değil mi?"
     },
     {
       "id": "announcer_specialcheer_14_2",
-      "dlg": "You'll all get killed at this rate... Well, Clockhead's here to bring you back, so don't let that stop you! Keep pushing, yeah?"
+      "dlg": "Bu hızla giderseniz hepiniz öleceksiniz... Neyse, Saatkafa burada sizi geri getirmek için var, o yüzden buna aldırmayın! Devam edin lan, tamam mı?"
     },
     {
       "id": "announcer_enemy_break_14_1",
-      "dlg": "Look at 'em, they're in tatters! That one's looking particularly knackered... smash that one's head in!"
+      "dlg": "Baksana, perişan olmuşlar! Şu piç özellikle bitkin görünüyor... Ez kafasını!"
     },
     {
       "id": "announcer_ally_break_14_1",
-      "dlg": "Bloody hell... I told you to get out of the way, didn't I? Oi, someone! Draw the enemy's attention 'till that one gets back up."
+      "dlg": "Hassiktir... Yoldan çekilmeni söylemedim mi? Hey! Birisi, o geri kalkana kadar düşmanın dikkatini çeksin!"
     },
     {
       "id": "announcer_killenemy_14_1",
-      "dlg": "One down. Keep knocking 'em down, and we'll be the only ones standing in the end. Now that's a proper fight, innit?"
+      "dlg": "Bir tanesi yarrağı yedi. Hepsini amına koymaya devam edin, sonunda tek ayakta kalan biz olucaz. İşte bu gerçek bir dövüş, değil mi?"
     },
     {
       "id": "announcer_ally_dead_14_1",
-      "dlg": "Good luck turning the clock on that one... looks like it'll hurt. Oi, maybe there's a way to die in ways that are less painful for Clockhead to go through?"
+      "dlg": "Bunda saati geriye almada iyi şanslar... Götün sikilecek gibi duruyor. Hey, belki Saatkafa'nın daha az acı çekeceği başka ölüm yolları vardır?"
     },
     {
       "id": "announcer_enemy_adv_14_1",
-      "dlg": "Hah, what a mess... You can keep going, but it'll just hurt more when you inevitably have to turn the clock later."
+      "dlg": "Ha, böyle karmaşanın ben amına.. Neyse, devam edebilirsin ama sonunda zamanı geri çevirmek zorunda kaldığında daha da acıyacak."
     },
     {
       "id": "announcer_ally_advex_14_1",
-      "dlg": "Right. What'd I say? The winner's always the last one standin'. Listen. Don't think about how much it'll hurt... think about what you'll do after that bloke's dead. It'll give you strength."
+      "dlg": "Tamam. Ne demiştim? Kazanan her zaman son ayakta kalan olur. Dinle. Ne kadar acıyacağını düşünme... O lavuğu öldürdükten sonra ne yapacağını düşün. Bu sana güç verecek."
     },
     {
       "id": "announcer_danger_14_1",
-      "dlg": "One little mistake and you'll be a goner! Think hard on it before makin' a move."
+      "dlg": "Bir küçük hata ve yarrağı yersin! Sonraki hareketini iyi düşün."
     },
     {
       "id": "announcer_enemy_specialskill_14_1",
-      "dlg": "Oi! Look at that twit over there! Something's goin' on... C'mon, hide!"
+      "dlg": "Hey! Şu orospu çocuğuna bakın! Bir şeyler oluyor... Saklanın lan!"
     },
     {
       "id": "announcer_enemy_specialgimmick_14_1",
-      "dlg": "I'm good at sussing things out, yeah? They're obviously about to do something, but I haven't a clue as to what. Think about it, why don't you?"
+      "dlg": "Bir şeyleri çözmede iyiyimdir, değil mi? Açıkça bir şey yapacaklar ama ne olduğu hakkında bir sik fikrim yok. Düşün biraz, neden düşünmeyesin??"
     },
     {
       "id": "announcer_advatk_physical_14_1",
-      "dlg": "Violence really is the best solution, innit? Beat its arse!"
+      "dlg": "Şiddet gerçekten en iyi çözüm, değil mi? Çak götüne tekmeyi!"
     },
     {
       "id": "announcer_disadvatk_physical_14_1",
-      "dlg": "That's uh... that ain't very effective, yeah? I mean, I suppose it wasn't completely useless, but... well, you'll get there eventually."
+      "dlg": "Bu, eh... pek etkili değil, değil mi? Yani, tamamen işe yaramadı sayılmaz ama... Neyse, eninde sonunda başarırsın."
     },
     {
       "id": "announcer_advatk_attr_14_1",
-      "dlg": "Ooh! That was a smart move, yeah? Reminds me of the brainy sort I met back in my Syndicate days."
+      "dlg": "Ooh! Bu akıllıca bir hamleydi, değil mi? Beni, Çete zamanlarımda tanıdığım zeki türlerden birine hatırlatıyor."
     },
     {
       "id": "announcer_disadvatk_attr_14_1",
-      "dlg": "That was... Hm. Don't make me call you stupid, now."
+      "dlg": "O... Hm. Beni seni dalyarak diye çağırmaya zorlama şimdi."
     },
     {
       "id": "announcer_enemy_specialbuff_14_1",
-      "dlg": "What are all them sods all excited about? I've got a bad feeling about this..."
+      "dlg": "Şu amcıklar neyle bu kadar heyecanlı lan? İçim kötüleşiyor, bir şeyler ters gidiyor gibi..."
     },
     {
       "id": "announcer_enemy_specialdebuff_14_1",
-      "dlg": "Oi, they all look bloody pissed on liquor!"
+      "dlg": "Hey, hepsi alkolle kafayı bulmuş gibi görünüyor!"
     },
     {
       "id": "announcer_ally_specialbuff_14_1",
-      "dlg": "Ooh, you're all full of beans! See anything funny?"
+      "dlg": "Oo, senin içinde iyi enerji var he! Komik bir şey mi gördün?"
     },
     {
       "id": "announcer_ally_specialdebuff_14_1",
-      "dlg": "What's up with the grimace? C'mon, smile! What, did someone die or something?"
+      "dlg": "Suratını niye asıyorsun lan? Hadi la, gülümse! Bi saniye, birisi falan mı öldü?"
     },
     {
       "id": "announcer_enemy_destroy_14_1",
-      "dlg": "Niiiice~ You broke the sod's leg. It ain't running from this fight any time soon!"
+      "dlg": "Çok iyiiii~ Orospu çocuğunun bacağını kırdın. Bu dövüşten yakın zamanda kaçacak gibi durmuyor!"
     },
     {
       "id": "announcer_enemy_destroy_14_2",
-      "dlg": "You destroyed the part that's been getting on my nerves. This is our chance! Lads, lasses! Get 'em!"
+      "dlg": "Sürekli sinirimi bozan vücut parçasını yok ettin. Bu bizim şansımız! Beyler, bayanlar! Saldırın lan!"
     },
     {
       "id": "announcer_round_takebigdmg_14_1",
-      "dlg": "Woah! Ah... that looked like it hurt. You all right, mate?"
+      "dlg": "Vay! Ah... acıtmış gibi duruyor. Her şey yolunda mı, dostum?"
     },
     {
       "id": "announcer_round_takebigdmg_14_2",
-      "dlg": "Might want to get that looked at before we go rushing in again. I know I've a temper, but that looked bad even in my eyes. Take a moment to recover."
+      "dlg": "Bir dahaki sefere atılmadan önce şunu bir kontrol ettirmen iyi olur. Çabuk sinirlenen birisiyim fakat bu bile gözüme kötü göründü. Biraz toparlanmak için zaman ayır."
     },
     {
       "id": "announcer_round_givebigdmg_14_1",
-      "dlg": "Blimey, that was some strike! You left 'em in shambles!"
+      "dlg": "Ananı sikeyim, vuruşa bak! Sikip geçtin lan!"
     },
     {
       "id": "announcer_round_givebigdmg_14_2",
-      "dlg": "Heh, that cost 'em an arm and a leg... what now? Oi, that was a bloody amazing strike, by the way!"
+      "dlg": "Heh, onlara bir kol ve bacağa mal oldu... şimdi n'apıcaz? Hey, çok harika bir vuruştu bu arada!"
     },
     {
       "id": "announcer_multikillenemy_14_1",
-      "dlg": "You did that... all on your own? Teach me how to do that, too."
+      "dlg": "Bunu... tamamen kendi başına mı yaptın? Bana da nasıl yapıldığını öğret."
     },
     {
       "id": "announcer_equip_14_1",
-      "dlg": "What should I tell Cathy when I finally see her...? Oh, the recording's started already? Ahem. I ain't too used to this mic business... but let's go."
+      "dlg": "Sonunda Cathy'i gördüğümde ona ne söylemeliyim...? Oh, kayıt zaten başlamış mı? Ahem. Bu mikrofon işine pek alışkın değilim... ama hadi başlayalım."
     }
   ]
 }
