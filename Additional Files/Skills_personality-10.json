@@ -411,17 +411,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fierce Charge",
+          "name": "Şiddetli Hücum",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] Ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin (once per Skill)",
-                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin"
+                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Jetonu Yeniden Kullan (Yetenek başına bir kez)",
+                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Jetonu Yeniden Kullan"
                 }
               ]
             }
@@ -429,17 +429,17 @@
         },
         {
           "level": 2,
-          "name": "Fierce Charge",
+          "name": "Şiddetli Hücum",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] Ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin (once per Skill)",
-                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin"
+                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Jetonu Yeniden Kullan (Yetenek başına bir kez)",
+                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Jetonu Yeniden Kullan"
                 }
               ]
             }
@@ -447,17 +447,17 @@
         },
         {
           "level": 4,
-          "name": "Fierce Charge",
+          "name": "Şiddetli Hücum",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] Ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin (once per Skill)",
-                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse this Coin"
+                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Jetonu Yeniden Kullan (Yetenek başına bir kez)",
+                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Jetonu Yeniden Kullan"
                 }
               ]
             }
@@ -470,27 +470,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sunset Blade",
+          "name": "Günbatımı Kılıcı",
           "desc": "[WhenUse] When in a Volatile E.G.O state, consume 5 SP\n[BeforeAttack] When in a Volatile E.G.O state, Atk Weight +1\n[EndSkill] When in a Volatile E.G.O state, consume 5 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı Ver"
                 }
               ]
             }
@@ -499,26 +499,26 @@
         {
           "level": 2,
           "name": "Sunset Blade",
-          "desc": "<style=\"highlight\">If target has 4+ [Combustion], Clash Power +1</style>\n[WhenUse] When in a Volatile E.G.O state, consume 5 SP\n[BeforeAttack] When in a Volatile E.G.O state, Atk Weight +1\n[EndSkill] When in a Volatile E.G.O state, consume 5 SP",
+          "desc": "<style=\"highlight\">Hedfte 4+ [Combustion] var ise, Çarpışma Gücü +1</style>\n[WhenUse] When in a Volatile E.G.O state, consume 5 SP\n[BeforeAttack] When in a Volatile E.G.O state, Atk Weight +1\n[EndSkill] When in a Volatile E.G.O state, consume 5 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı Ver"
                 }
               ]
             }
@@ -526,27 +526,27 @@
         },
         {
           "level": 4,
-          "name": "Sunset Blade",
-          "desc": "If target has 4+ [Combustion], Clash Power +1\n[WhenUse] When in a Volatile E.G.O state, consume 5 SP\n[BeforeAttack] When in a Volatile E.G.O state, Atk Weight +1\n<style=\"highlight\">- At 45 SP, Atk Weight +2 instead</style>\n[EndSkill] When in a Volatile E.G.O state, consume 5 SP",
+          "name": "Günbatımı Kılıcı",
+          "desc": "Hedefte 4+ [Combustion] var ise, Çarpışma Gücü +1\n[WhenUse] When in a Volatile E.G.O state, consume 5 SP\n[BeforeAttack] When in a Volatile E.G.O state, Atk Weight +1\n<style=\"highlight\">- At 45 SP, Atk Weight +2 instead</style>\n[EndSkill] When in a Volatile E.G.O state, consume 5 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı Ver"
                 }
               ]
             }
@@ -559,20 +559,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Stigmatize",
-          "desc": "If target has 10+ [Combustion], Coin Power +1\nWhen in a Volatile E.G.O State, activate Blazing Strike instead\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 10 SP",
+          "name": "Damgala",
+          "desc": "Hedefte 10+ [Combustion] var ise, Çarpışma Gücü +1\nWhen in a Volatile E.G.O State, activate Blazing Strike instead\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 10 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] Ver"
                 }
               ]
             }
@@ -580,20 +580,20 @@
         },
         {
           "level": 4,
-          "name": "Stigmatize",
+          "name": "Damgala",
           "desc": "<style=\"highlight\">Coin Power +1 for every 7 [Combustion] on target (max 2)</style>\nWhen in a Volatile E.G.O state, activate Blazing Strike instead\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 10 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] Ver"
                 }
               ]
             }
@@ -606,7 +606,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Rue",
+          "name": "Pişmanlık",
           "desc": "When in a Volatile E.G.O state, Base Power +1 for every 2 [Combustion] on target (max 10)",
           "coinlist": [
             {
@@ -620,7 +620,7 @@
         },
         {
           "level": 4,
-          "name": "Rue",
+          "name": "Pişmanlık",
           "desc": "When in a Volatile E.G.O state, Base Power +1 for every 2 [Combustion] on target (max <style=\"highlight\">20</style>)",
           "coinlist": [
             {
@@ -639,7 +639,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Blazing Strike",
+          "name": "Kavurucu Darbe",
           "desc": "Coin Power +1 for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +5% more damage for every Wrath Rezon. (max 30%)\n[EndSkill] Lose 15 SP",
           "coinlist": [
             {
@@ -649,11 +649,11 @@
                   "summary": "Deal more damage based on [Combustion] on target"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ [Combustion], inflict 2 [Combustion] against (# of highest Rezon.) random enemies",
+                  "desc": "[OnSucceedAttack] Hedfte 10+ [Combustion] var ise, inflict 2 [Combustion] against (# of highest Rezon.) random enemies",
                   "summary": "[OnSucceedAttack] Inflict [Combustion] based on Rezon."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
+                  "desc": "[OnSucceedAttack] 10 [Combustion] ver"
                 },
                 {
                   "desc": "[EnemyKill] Randomly inflict [Combustion] Potency of the defeated target between all enemies (max 10. In Focused Encounters, between all Parts)",
@@ -665,7 +665,7 @@
         },
         {
           "level": 4,
-          "name": "Blazing Strike",
+          "name": "Kavurucu Darbe",
           "desc": "Coin Power +<style=\"highlight\">2</style> for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +<style=\"highlight\">10</style>% more damage for every Wrath Rezon. (max <style=\"highlight\">60</style>%)\n<style=\"highlight\">If at 4+ highest Wrath A-Rezon., deal +20% more damage for every Wrath Rezon. instead (max 120%)</style>\n[EndSkill] Lose 15 SP",
           "coinlist": [
             {
@@ -679,7 +679,7 @@
                   "summary": "[OnSucceedAttack] Inflict [Combustion] based on Rezon."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
+                  "desc": "[OnSucceedAttack] 10 [Combustion] ver"
                 },
                 {
                   "desc": "[EnemyKill] Randomly inflict [Combustion] Potency of the defeated target between all enemies (max 10. In Focused Encounters, between all Parts)",
