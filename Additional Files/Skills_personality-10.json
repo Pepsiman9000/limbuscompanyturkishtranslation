@@ -5,14 +5,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fierce Assault",
+          "name": "Şiddetli Saldırı",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] +1 Sarsıntı Miktarı Kazan"
                 }
               ]
             },
@@ -20,7 +20,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] +1 Sarsıntı Miktarı Kazan"
                 }
               ]
             }
@@ -35,10 +35,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] +1 Sarsıntı Miktarı Ver"
                 }
               ]
             },
@@ -46,10 +46,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] +1 Sarsıntı Miktarı Ver"
                 }
               ]
             }
@@ -57,17 +57,17 @@
         },
         {
           "level": 4,
-          "name": "Fierce Assault",
+          "name": "Şiddetli Saldırı",
           "desc": "At 10+ Tremor Count, Coin Power +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] +1 Sarsıntı Miktarı Ver"
                 }
               ]
             },
@@ -75,10 +75,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] +1 Sarsıntı Miktarı Ver"
                 }
               ]
             }
@@ -91,13 +91,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Steady...",
-          "desc": "[WhenUse] Gain +2 Tremor Count",
+          "name": "Sakin Ol...",
+          "desc": "[WhenUse] +2 Sarsıntı Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı Ver"
                 }
               ]
             }
@@ -106,12 +106,12 @@
         {
           "level": 2,
           "name": "Steady...",
-          "desc": "[WhenUse] Gain +4 Tremor Count",
+          "desc": "[WhenUse] +4 Sarsıntı Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "[OnSucceedAttack] 4 Sarsıntı Ver"
                 }
               ]
             }
@@ -120,12 +120,12 @@
         {
           "level": 4,
           "name": "Steady...",
-          "desc": "[WhenUse] Gain +6 Tremor Count",
+          "desc": "[WhenUse] +6 Sarsıntı Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Tremor"
+                  "desc": "[OnSucceedAttack] 6 Sarsıntı Var"
                 }
               ]
             }
@@ -138,7 +138,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Gamble",
+          "name": "Risk Al",
           "desc": "",
           "coinlist": [
             {
@@ -152,13 +152,13 @@
         },
         {
           "level": 4,
-          "name": "Gamble",
-          "desc": "Coin Power +1 for every 10 Tremor Count on self (Max 2)",
+          "name": "Risk Al",
+          "desc": "Kendine bulunan her 10 Sarsıntı miktarı için Jeton Gücü +1(Maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gain 10 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage"
+                  "desc": "[OnSucceedAttack] 10+Sarsıntı Miktarında, Bütün Sarsıntı Miktarını hedefe aynısını vermek için kullan\n[OnSucceedAttack] 10dan az Sarsıntı Miktarında, 10 Sarsıntı kazan ve kendine Sarsıntı Patlaması Tetikle\nSarıntı patlamasına eşit Darbe hasarı ver"
                 }
               ]
             }
@@ -171,8 +171,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crab Bastards...!",
-          "desc": "[WhenUse] Gain 1 Rupture Protection (3 times per turn)",
+          "name": "Lanet Yengeçler...!",
+          "desc": "[WhenUse] +1 Parçalanma Koruması Kazan (Tur başına 3 defa)",
           "coinlist": [
             {
               "coindescs": [
@@ -190,13 +190,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Remise",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Yenilenmiş Saldırı",
+          "desc": "[WhenUse] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Agility] kazan"
                 }
               ]
             },
@@ -211,20 +211,20 @@
         },
         {
           "level": 2,
-          "name": "Remise",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Yenilenmiş Saldırı",
+          "desc": "[WhenUse] +2 [Breath] Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Agility] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Agility] kazan"
                 }
               ]
             }
@@ -232,20 +232,20 @@
         },
         {
           "level": 4,
-          "name": "Remise",
-          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count",
+          "name": "Yenilenmiş Saldırı",
+          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] +2 [Breath] Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Agility] Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Agility] Kazan"
                 }
               ]
             }
@@ -258,20 +258,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Engagement",
-          "desc": "[WinDuel] Gain +2 [Breath] Count",
+          "name": "Çatışma",
+          "desc": "[WinDuel] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı Kazan"
                 }
               ]
             },
@@ -280,20 +280,20 @@
         },
         {
           "level": 2,
-          "name": "Engagement",
+          "name": "Çatışma",
           "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı Kazan"
                 }
               ]
             },
@@ -302,20 +302,20 @@
         },
         {
           "level": 4,
-          "name": "Engagement",
+          "name": "Çatışma",
           "desc": "If this unit's Speed is faster than the target's, Coin Power +1 for every 2 Speed difference (Max 2)\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı Kazan"
                 }
               ]
             },
@@ -329,13 +329,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Contre Attaque",
+          "name": "Kontra Atak",
           "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed.\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, inflict 1 [Vulnerable] On Hit (Twice per turn)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DuelDeclaration_Sinclair]"
+                  "desc": "[OnSucceedAttack] Ver [DuelDeclaration_Sinclair]"
                 }
               ]
             },
@@ -343,7 +343,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta +30% Hasar"
                 }
               ]
             }
@@ -351,13 +351,13 @@
         },
         {
           "level": 4,
-          "name": "Contre Attaque",
+          "name": "Kontra Atak",
           "desc": "If this unit's Speed is faster than the target's, Coin Power +1 for every 2 Speed difference (Max 3)\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed. Against targets with [DuelDeclaration_Sinclair], gain [Breath] equal to ([Breath] Count consumed x 2) instead\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, inflict 1 [Vulnerable] On Hit (Twice per turn)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DuelDeclaration_Sinclair]"
+                  "desc": "[OnSucceedAttack] Ver [DuelDeclaration_Sinclair]"
                 }
               ]
             },
@@ -365,7 +365,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta +50% Hasar"
                 }
               ]
             }
@@ -378,7 +378,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Défensive",
+          "name": "Defansif",
           "desc": "",
           "coinlist": [
             {
@@ -392,7 +392,7 @@
         },
         {
           "level": 4,
-          "name": "Défensive",
+          "name": "Defansif",
           "desc": "",
           "coinlist": [
             {
