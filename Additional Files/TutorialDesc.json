@@ -278,19 +278,19 @@
     },
     {
       "id": "tutorial_1001_99_popup_title",
-      "content": "Parça Kırmak"
+      "content": "Vücut Parçası Parçalamak"
     },
     {
       "id": "tutorial_1001_99",
-      "content": "When the HP of a body part is reduced to 0, it is <Broken>.\nA broken part becomes vulnerable to all physical attack types.\nSome parts may lose certain skills or passives after breaking.\nDo note that some Abnormalities have regenerative parts, as well as that breaking certain ones may instead enrage an Abnormality."
+      "content": "Bir vücut parçasının canı 0'a düşerse, <Parçalanır>.\nParçalanmış bir vücut parçası tüm fiziksel saldırılara zayıf kalır.\nBazı parçalar kırıldıktan sonra belirli Yetenek veya Pasiflerini kaybedebilirler.\nDikkat et ki bazı Anomaliler yeniden çıkan parçalara sahiplerdir, bazıları ise vücut parçalarını kaybettikçe güçlenebilirler."
     },
     {
       "id": "tutorial_1101_01",
-      "content": "You may find Abnormalities with multiple parts in the dungeons you explore.\nIn such cases, each part will have different Resistances and Passives, and use different skills."
+      "content": "Keşfettiğin zindanlarda birden fazla parçaya sahip Anomaliler bulabilirsin.\nBu durumlarda, her parça farklı Direnç ve Pasiflere sahiptir, ve farklı Yetenekler kullanır."
     },
     {
       "id": "tutorial_1101_02",
-      "content": "We’ve prepared an <Abnormality Encyclopedia> for occasions like this.\nIt lists the Resistances, Skills, and Passives for each part.\nSelect an Abnormality to view its entry."
+      "content": "Bu tarz durumlar için bir <Anomali Ansiklopedisi> hazırladık.\nHer parçanın Dirençleri, Yetenekleri, ve Pasifleri yazıyor.\nBilgileri görmek için bir Anomali seç."
     },
     {
       "id": "tutorial_1101_03_popup_title",
