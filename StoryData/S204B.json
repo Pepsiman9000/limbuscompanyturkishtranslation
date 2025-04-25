@@ -2,22 +2,22 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Rehine Dükkanı",
-      "content": "Saude'nin tahmin ettiği gibi, bütün tefeciler beladan kaçınmak için sokak girişlerini kapatmakla meşgullerdi"
+      "place": "Rehineciler Sokağı",
+      "content": "Saude'nin tahmin ettiği gibi, bütün rehineciler beladan kaçınmak için kepenklerini kapatıyorlardı"
     },
     {
       "id": 1,
       "model": "세보이고싶었던콩콩파조직원",
       "teller": "Göğüs kabartan Tingtang'ci",
       "title": "Tingtang Çetesi",
-      "content": "Hey sizi çükkafalılar!! Olduğunuz yerde durun!"
+      "content": "Hey sizi çükkafalılar!! Olduğunuz yerde kalın!"
     },
     {
       "id": 2,
       "model": "세보이고싶었던콩콩파조직원",
       "teller": "Göğüs kabartan Tingtang'ci",
       "title": "Tingtang Çetesi",
-      "content": "Ailemizle uğraşmaktan sıyrılabilceğini mi zannediyorsun, küçük yavru?"
+      "content": "Ailemizle uğraşmaktan sıyrılabilceğini mi zannediyorsun, küçük veled?"
     },
     {
       "id": 3,
@@ -136,7 +136,7 @@
     {
       "id": 25,
       "model": "오티스",
-      "content": "Düşmanlar yaklaşıyor. Hazır mısın, Müdür?"
+      "content": "Düşmanlar yaklaşıyor. Müdür Efendi hazır mısınız?"
     }
   ]
 }
