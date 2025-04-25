@@ -302,15 +302,15 @@
     },
     {
       "id": "tutorial_1201_01",
-      "content": "During Focused Encounters, you may occasionally be tasked to make key <Decisions>.\nThese require you to choose a Sinner or an action based on your current situation.\nAn Abnormality’s response may vastly differ by the choices you make, so choose wisely."
+      "content": "Odaklı Karşılaşmalarda, ara sıra hayati <Kararlar> vermen gerekebilir.\nBunlar senin duruma göre bir Günahkâr veya eylem seçmeni gerektirir.\nBir Anomalinin davranışları yaptığın seçime göre değişebilir, bu yüzden dikkatli ol."
     },
     {
       "id": "tutorial_1301_01_popup_title",
-      "content": "Area-of-Effect Skills"
+      "content": "Alan-Hasarı Yetenekleri"
     },
     {
       "id": "tutorial_1301_01",
-      "content": "Area-of-Effect skills, or AoE skills for short, have an attack weight (Atk Weight) assigned to them.\nThe targets of an AoE skill depend on its targeting range. (Front, Middle, Back, Special, etc.)\nWith AoE skills, Clashes can only occur against the manually targeted unit.\nIf an AoE skill loses in a Clash, the attack will be canceled against all its targets.\nDefense skills will still activate against AoE skills."
+      "content": "Alan-Hasarı Yetenekleri, başka bir deyişle AoE, kendilerine verilmiş (Saldırı Ağırlığına) sahiplerdir.\nAoE Yeteneklerin hedefleri hedefleme türüne göre değişir. (Ön, Orta, Arka, Özel, vb.)\nAoE Yetenekler, yalnızca ana hedefle Çarpışabilirler.\nEğer AoE bir yetenek Çarpışma kaybederse, tüm hedeflere karşı saldırılar iptal olur.\nDefansif Yetenekler AoE saldırılara karşı yine de aktive olur."
     }
   ]
 }
