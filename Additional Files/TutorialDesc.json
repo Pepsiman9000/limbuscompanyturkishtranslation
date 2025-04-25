@@ -186,7 +186,7 @@
     },
     {
       "id": "tutorial_302_04",
-      "content": "Tıkla bakalım Gregor'un resmine."
+      "content": "Tıkla bakayım Gregor'un resmine."
     },
     {
       "id": "tutorial_302_05_popup_title",
@@ -194,35 +194,35 @@
     },
     {
       "id": "tutorial_302_05",
-      "content": "Guard creates a shield with health equal to its Power value.\nThis shield will absorb incoming damage first.\nUsing Guard multiple times in a single turn will have it activate that many times."
+      "content": "Korunma Yeteneği, Gücüne eşit bir miktarda Kalkan oluşturur.\nBu Kalkan bonus can olarak görev görür, gelen hasarı emer.\nBir turda birkaç kez Korunma kullanırsan, o kadar kez Kalkan oluşturabilirsin."
     },
     {
       "id": "tutorial_302_06",
-      "content": "Good. A Guard skill has been generated.\nLet’s do the same for a Counter skill."
+      "content": "Güzel. Bir Korunma Yeteneği oluşturdun.\nHadi şimdi de bir Karşı Saldırı Yeteneği oluşturalım."
     },
     {
       "id": "tutorial_302_07",
-      "content": "If you’d be so kind as to press Rodya’s portrait."
+      "content": "Tıkla bakayım Rodya'nın resmine."
     },
     {
       "id": "tutorial_302_08_popup_title",
-      "content": "Defense Skills: Counter"
+      "content": "Defansif Yetenek: Karşı Saldırı"
     },
     {
       "id": "tutorial_302_08",
-      "content": "Unlike other defense skills, Counter has an Affinity and will generate its corresponding E.G.O resource.\nWhen using Counter, the unit will launch an unopposed attack after being hit.\nHowever, the unit cannot launch a Counter while Staggered."
+      "content": "Bir Karşı Saldırı kullanırken, rakibin sana vurmasına izin verdikten sonra ona karşılıksız bir saldırı yaparsın.\nFakat dikkatli ol, Sersemlemiş durumdayken bu karşı saldırı yapılmaz."
     },
     {
       "id": "tutorial_302_09",
-      "content": "Gut gemacht.\nLastly, we’ll generate an Evade skill."
+      "content": "Gut gemacht.\nSon olarak, bir Kaçınma Yeteneği oluşturalım."
     },
     {
       "id": "tutorial_302_10",
-      "content": "If you’d be so kind as to press Faust’s portrait."
+      "content": "En zeki Günahkârın resmine tıkla."
     },
     {
       "id": "tutorial_302_11_popup_title",
-      "content": "Defense Skills: Evade"
+      "content": "Defansif Yetenek: Kaçınma"
     },
     {
       "id": "tutorial_302_11",
