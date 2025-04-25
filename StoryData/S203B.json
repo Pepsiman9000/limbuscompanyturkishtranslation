@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Rehinci Dükkanı",
+      "place": "Rehineci Dükkanı",
       "model": "소드",
       "teller": "Saude",
       "title": "LŞTÖ",
@@ -218,8 +218,8 @@
       "id": 43,
       "model": "전당포주인",
       "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehine Dükkanı",
-      "content": "Evet? Ah! Tabiki, olur, sakıncası yok. Lütfen istediğiniz kadar bakın hamfendi."
+      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "content": "Ne? Ah! Tabiki, olur, sakıncası yok. Lütfen istediğiniz kadar bakın hamfendi."
     },
     {
       "id": 44,
@@ -241,8 +241,8 @@
       "id": 47,
       "model": "전당포주인",
       "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehine Dükkanı",
-      "content": "Hyah~ What discerning eyes you have there, sir. This beaut is the mainstay of our shop’s catalogue. Only 10 of those were ever made, so its worth is positively un­—"
+      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "content": "Haah~ Kartal gibi gözleriniz var, bayım. Dükanımızın kataloğunun en nadide parçası olur kendileri. Dünya çapında sadece on tane üğretildi, yani değeri son derece paha­—"
     },
     {
       "id": 48,
@@ -252,8 +252,8 @@
     {
       "id": 49,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
+      "teller": "Rehineci",
+      "title": "J Kuruluşu. Rehineci Dükkanı",
       "content": "……"
     },
     {
@@ -266,105 +266,105 @@
       "model": "소드",
       "teller": "Saude",
       "title": "LŞTÖ",
-      "content": "Please take items that suit what’s written in the envelopes. You have roles to play."
+      "content": "Lütfen sadece dökümanda yazanlara uygun eşyaları alın. Size verdiğimiz görevlere göre kuşanın."
     },
     {
       "id": 52,
       "model": "돈키호테",
-      "content": "Pardon, but the envelope I have received says “janitor”, this must be an error of some sort!"
+      "content": "Pardon, amma velakin zatıma gelen takrirnamede “Hademe” yazmakta, bilakis noksan olmalı!"
     },
     {
       "id": 53,
       "model": "그레고르",
-      "content": "Okay, it’s good and all, but… Do you have the money to pay for all this?"
+      "content": "Tamam, Anladık, ama… bunların hepsini karşılayacak paramız varmı?"
     },
     {
       "id": 54,
       "model": "에피",
       "teller": "Effie",
       "title": "LŞTÖ",
-      "content": "Worrying about spendings? Who do you think we are, some low-rank hirelings? There’s nothing I can’t afford using this ‘Black Card’."
+      "content": "Bütçe hakkında mı endişe ediyorsun? Sen bizi ne sanıyorsun, düşük kıdem memurlar mı? Bu ‘Siyah Kart’ ile ödeyemeyeceğim mebla yok."
     },
     {
       "id": 55,
       "model": "로쟈",
-      "content": "Dante! What’s this about?! You told me we can’t have prime beef ‘cause we don’t have the budget!"
+      "content": "Dante! Ne diyor bu?! Bana dedin ki; dana antrikot yiyemeyiz çünkü bütçemiz yok!"
     },
     {
       "id": 56,
       "model": "파우스트",
-      "content": "So the rumors were true that teams with notable performance are given a company card with no spending limit."
+      "content": "Anlaşılan kayde değer performanstaki departmanların kendilerine özel limitsiz kartlar aldığıyla alakalı dedikodular doğruymuş."
     },
     {
       "id": 57,
-      "content": "While everyone was shocked by the proven existence of the fabled Black Card…"
+      "content": "Övgü dolu ‘Siyah Kart’ın varlığı kanıtlanmasıyla herkes şoke olmuşken…"
     },
     {
       "id": 58,
-      "content": "A loud voice came from outside."
+      "content": "Dışarıdan Yüksek bir ses işitildi."
     },
     {
       "id": 59,
       "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Oi, dotard! Didn’t I say ya payment was due today?"
+      "teller": "Gevşek Ağazlı Üye",
+      "title": "Tingtang Çetesi",
+      "content": "hey, morukh! ödeme günü bu gün dimedimmi?"
     },
     {
       "id": 60,
-      "content": "Someone who clearly belongs to a vicious Syndicate entered the pawnshop."
+      "content": "Yobaz bir çeteye ait olduğu belli olan birisi rehineci dükkanına girdi."
     },
     {
       "id": 61,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "P-Please… give me one more chance. I swear I’ll have the money ready."
+      "teller": "Rehineci",
+      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "content": "L-Lütfen… Bir şans daha verin. Söz vallahi paranızı getireceğim."
     },
     {
       "id": 62,
       "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "One more? Can’t ya do basic math? Ya said the same thing last time! Boss won’t like me wasting precious time reteaching you kindergarten, ya hear?"
+      "teller": "Gevşek Ağazlı Üye",
+      "title": "Tingtang Çetesi",
+      "content": "Bir şans daha mı? dört işlemin yöh mü? Aynisini geçen sefer didin! Patrönun siz ilhohul terklerin peşinden boşha goşmama kızacak, anldin?"
     },
     {
       "id": 63,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "I-I’m just a frail old man standing on doddery feet, there’s really nothing you’ll get out of shaking me down…!"
+      "teller": "Rehineci",
+      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "content": "B-Ben Sadece topal ayağının üstünde durmaya çalışan kırılgan bir adamım, beni hırpalayarak elde edebilceğin bir şey ok…!"
     },
     {
       "id": 64,
-      "content": "Pleading with an overtly loud voice, the pawnbroker looked at us."
+      "content": "Alenen yalvarırcasına bir üslupla, rehineci bizlere baktı."
     },
     {
       "id": 65,
       "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Eh? Ya talking back now? Yeah, go on then, get mad! I won’t feel so guilty that way!"
+      "teller": "Gevşek Ağazlı Üye",
+      "title": "Tingtang Çetesi",
+      "content": "Eh? Bana karşi mi keldin? taam, gel o zaman, Sinirlen! Öbür dürlü viçtan azabı çekmem!"
     },
     {
       "id": 66,
-      "content": "In a way, he looked like he was covertly begging us to help him, based on his expression."
+      "content": "Bir yandan kendini sefil göstermeye çalışırken, diğer yandan bizden bir şeyler umuyordu."
     },
     {
       "id": 67,
-      "content": "The Sinners’ attention was naturally drawn to the ongoing row."
+      "content": "Doğal olarak günahkârların dikkati adama çevrilmişti."
     },
     {
       "id": 68,
       "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "What’re ya lookin’ at? Ya think I’m playing?!"
+      "teller": "Gevşek Ağazlı Üye",
+      "title": "Tingtang Çetesi",
+      "content": "Niye bakiyonuz yiaa? Sizce oynüyömüyüm?!"
     },
     {
       "id": 69,
       "model": "이스마엘",
-      "content": "Gee… That was so stereotypical, I didn’t even get an urge to reply. Can’t people be more creative about throwing taunts?"
+      "content": "Vaa… That was so stereotypical, I didn’t even get an urge to reply. Can’t people be more creative about throwing taunts?"
     },
     {
       "id": 70,
@@ -373,7 +373,7 @@
     },
     {
       "id": 71,
-      "content": "Unlike Ishmael, who scoffed at the goon, Sinclair anxiously glanced over."
+      "content": "Ishmael'in aksine, hödüğü yerlemişti resmen, Sinclair endişeyle kavruldu."
     },
     {
       "id": 72,
@@ -396,21 +396,21 @@
     {
       "id": 75,
       "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Hmph, if y’ain’t got money, why don’t ya pay your dues in that instead? We keep telling you."
+      "teller": "Gevşek Ağazlı Üye",
+      "title": "Tingtang Çetesi",
+      "content": "Heh, paran yıhsa, Öbür türlü ödesine? Sana diip duruyoz."
     },
     {
       "id": 76,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "A-Anything but that… Please…"
+      "teller": "Rehineci Dükkanı",
+      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "content": "O-Onun dışında her şey… Lütfen…"
     },
     {
       "id": 77,
       "model": "단테",
-      "content": "<…Is it really okay to leave them be?>"
+      "content": "<…Onları böyle bırakmak cidden ahlaki mi?>"
     },
     {
       "id": 78,
@@ -420,22 +420,22 @@
     {
       "id": 79,
       "model": "그레고르",
-      "content": "What does that toughster mean by “that”, anyway?"
+      "content": "O kodamanın “Öbür Tür” den bahsettiği de ne?"
     },
     {
       "id": 80,
       "model": "파우스트",
-      "content": "…A currency more valuable than money exists in this District."
+      "content": "…İçinde bulunduğumuz eyalette bilinen anlmıyla paradan daha değerli olan bir birim mevcut."
     },
     {
       "id": 81,
       "model": "파우스트",
-      "content": "It’s well known that J Corp’s Singularity is a powerful security technology capable of locking anything."
+      "content": "J Kuruluşunun Tekilliğinin her şeyi kilitleme gücüne sahip üstün bir güvenlik teknolojisi olduğu çokça bilinir."
     },
     {
       "id": 82,
       "model": "파우스트",
-      "content": "What is less known, however, is the extensive cultural and historical background of the Backstreets of Nest J that lead to the Singularity’s creation."
+      "content": "Az bilinen ise, bu tekilliğin oluşumuna öncüllük eden J Kuruluşu Arka Sokaklarındaki kültürel ve tarihsel arkaplan."
     },
     {
       "id": 83,
@@ -444,27 +444,27 @@
     },
     {
       "id": 84,
-      "content": "In spite of the opposition, Faust went on with her explanation."
+      "content": "Ani çakışmaya karşılık Faust, açıklama getirdi."
     },
     {
       "id": 85,
       "model": "파우스트",
-      "content": "Here, a technology exists to extract ‘wishpower’ from people."
+      "content": "Bu Kuruluşta, insanlardan ‘İstek Gücü’ çıkartan bir teknoloji var."
     },
     {
       "id": 86,
       "model": "파우스트",
-      "content": "Though it’s not widely known outside this District since it didn’t quite have the generality to be recognized as a Singularity."
+      "content": "Tabi bir Tekillik olarak nitelendirilmediği için bu eyaletin dışında sık bilinmemesi doğal."
     },
     {
       "id": 87,
       "model": "파우스트",
-      "content": "In essence, it’s processing ‘luck’ into a commodity that can be traded. Like a form of money."
+      "content": "Özetle, ‘Şans’ı işleyip para gibi kullanılabilecek bir emtiaya çevirmekte. "
     },
     {
       "id": 88,
       "model": "파우스트",
-      "content": "It brought forth the need for a way to stop others from forcibly extracting this wishpower, leading to the creation of a security technology that ultimately developed into the Singularity we know today."
+      "content": "Şimdileri güvenlik için bir Tekillik diye bildiğimiz teknolojinin doğuşunun özünde bu ‘İstek Gücü’nün zoraki toplanmasının engellenmeye çalışılmasının sonucu yatmakta."
     },
     {
       "id": 89,
@@ -476,7 +476,7 @@
     {
       "id": 90,
       "model": "파우스트",
-      "content": "It’s fine, this was within my anticipated scenario."
+      "content": "Zararı yok, tahmini senaryolar dahilinde idi."
     },
     {
       "id": 91,
@@ -488,36 +488,36 @@
       "model": "소드",
       "teller": "Saude",
       "title": "LŞTÖ",
-      "content": "Come on now, gather the items to help with your disguises so we can leave."
+      "content": "Haydi haydi, şimdi rolleriniz için gerekli eşyaları alın da çıkalım."
     },
     {
       "id": 93,
-      "content": "Saude flapped the document full of scheduled plans to emphasize that we’d be busy."
+      "content": "Meşgul olduğumuzu ve böyle boş boş çene çalmamamız gerekdiğini vurgulamak için Saude içi kılı kırk yarılmış planlarla dolu zarfları gözümüze soktu."
     },
     {
       "id": 94,
       "model": "소드",
       "teller": "Saude",
       "title": "LŞTÖ",
-      "content": "We’re salaried workers, not “heroes” fighting for justice."
+      "content": "Bizler maaşlı çalışanlarız, Adalet için savaşan “Kahramanlar” değil."
     },
     {
       "id": 95,
       "model": "단테",
-      "content": "<Wait… Not that word…!>"
+      "content": "<Dur… Hayır, o kelime olmaz…!>"
     },
     {
       "id": 96,
-      "content": "A bad feeling rushing through my head prompted me to count the Sinners I could see."
+      "content": "Müdür olmamın bana şimdiden verdiği iç güdüler bilincime sıçrayıp beni görünürdeki Günahkârları saymaya itti."
     },
     {
       "id": 97,
       "model": "단테",
-      "content": "<That… does not align with a certain someone’s… beliefs…>"
+      "content": "<O kelime… Berilli bir “Şahs”ın inançlarıyla… Çelişiyor…>"
     },
     {
       "id": 98,
-      "content": "And it’s one that would severely provoke her principles…!"
+      "content": "Ve işte tam da bu “O”nun prensiplerini katietle tetikleyen şey…!"
     },
     {
       "id": 99,
@@ -526,37 +526,37 @@
     },
     {
       "id": 100,
-      "content": "Ishmael seems to have noticed what I meant, and hurriedly looked around."
+      "content": "Ishmael ne demek istediğimi anlamış olsa gerek ki etrafına hızlıca bakındı."
     },
     {
       "id": 101,
       "model": "돈키호테",
-      "content": "Thou darest try to pilfer the valuables of others? This behavior can only be seen as wholehearted villainy!"
+      "content": "Kimdir ki çehresinin mal varlığını kedisininkiyle bir tutar? Tavr-ı Zalimiyesi Firavun'unkine eş değer!"
     },
     {
       "id": 102,
       "model": "단테",
-      "content": "<Oh no…! Don Quixote…!>"
+      "content": "<Hayır…! Don Quixote…!>"
     },
     {
       "id": 103,
-      "content": "But it was a moment too late."
+      "content": "Ama çok geç kalmkıştık."
     },
     {
       "id": 104,
-      "content": "Don Quixote had already sprinted forward and was swinging her lance at the Tingtanger who gripped the pawnbroker by the collar."
+      "content": "Don Quixote hali hazırda çoktan elindeki kargıyla yaşlı rehineciyi yakasından kavramış TingTang üyesine doğru atılmıştı bile."
     },
     {
       "id": 105,
-      "content": "WHACK!"
+      "content": "DIIN!"
     },
     {
       "id": 106,
-      "content": "Caught completely unaware, the goon was hit right on the head with the blunt side of her lance."
+      "content": "Gafil avlandı, kodaman adam kafasının tam ortasına Don Quixote'nin kargısının keskin olmayan tarafını yemişti."
     },
     {
       "id": 107,
-      "content": "Knocked out on the floor in a frisky swing, the fainted goon became the center of attention for all of us inside the pawnshop for a solid minute."
+      "content": "Tiyatrodan bir sahnedeymişçesine yere serilen kodaman, iyi bir süreliğine rehineci dükkanındaki herkesin ilgi oldağı olmuştu."
     },
     {
       "id": 108,
@@ -568,57 +568,57 @@
     {
       "id": 109,
       "model": "파우스트",
-      "content": "Ah, for your information, keeping the Sinners in check is not part of my job description. That would be the job of this person here."
+      "content": "Oh, bilgilendirmek gerekirse, Günahkârların bakıcılığını yapmak benim sorumluluğum altında değil. O iş bu kişinin olacak."
     },
     {
       "id": 110,
       "model": "단테",
-      "content": "<Don’t give me that look. There’s nothing in my abilities to keep her under control…>"
+      "content": "<Bana öyle bakma. Onu kontrol altında tutmamın imkanı yok…>"
     },
     {
       "id": 111,
-      "content": "I couldn’t stop myself from defending my position even when I was aware that my voice wouldn’t reach anyone besides the Sinners."
+      "content": "Günahkârlardan başkasının beni duyamadığını bilsemde kendimi savunmadan edemedim."
     },
     {
       "id": 112,
-      "content": "Oh well. It’s not like my defense would’ve made them look any less baffled towards me if they could hear it."
+      "content": "Her neyse. Zaten muhtemel bir savunmadan öte gidemeyen sözlerim duyulsa bile onların gözünde beni daha az acemi göstermezdi."
     },
     {
       "id": 113,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
+      "teller": "Rehineci",
+      "title": "J Kuruluşu. Rehineci Dükkanı",
       "content": "Oooh…!"
     },
     {
       "id": 114,
-      "content": "The pawnbroker was the only one chuffed by this turn of events."
+      "content": "Gelişmelerden tek nemalanan kişi, Don Quixote dışında, rehineci olmuştu."
     },
     {
       "id": 115,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Great work, ma’am. Serves that hooligan right! But I’ll say, you could’ve whopped ‘em a tad harder, maybe."
+      "teller": "Rehineci",
+      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "content": "Elinize sağlık, efendim. Tam da o hödüğe layık! ama keşke, bu kan emiciye karşı biraz daha sert vursaydınız."
     },
     {
       "id": 116,
       "model": "돈키호테",
-      "content": "Vergilius advised me that while I am free to deliver justice unto villains, I must do so without unduly involving irrevelants in our mission! Thus, I showed moderation!"
+      "content": "Şanlı Vergilius, şahsıma tembih etti “Görüşündeki Despotlara adalet dağıtmakta serbest olsanda, bunu görevi tehlikeye atmadan yap!” binaenaleyh, ben de ölçütlü muamelede bulundum!"
     },
     {
       "id": 117,
-      "content": "Her proud expression never looked so provoking."
+      "content": "Kendinden eminliği hiç bu kadar sinir sinir bozucu olmamıştı."
     },
     {
       "id": 118,
       "model": "단테",
-      "content": "<Uh-huh. So you remembered his words and still leapt forward?>"
+      "content": "<Yani... sende bunu hatırlayarak adama doğru atıldın?>"
     },
     {
       "id": 119,
       "model": "돈키호테",
-      "content": "‘Twas a necessary action to stay true to my creed. Please understand my virtuous violence!"
+      "content": "Bu öğretilerime sadakatim için zaruri bir eylemdi. Faziletli şiddetimi mazur görün!"
     },
     {
       "id": 120,
