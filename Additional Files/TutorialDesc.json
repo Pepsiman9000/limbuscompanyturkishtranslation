@@ -158,39 +158,39 @@
     },
     {
       "id": "tutorial_301_02_popup_tItle",
-      "content": "Attack Types and Affinities"
+      "content": "Saldırı Türleri ve Günah Türleri"
     },
     {
       "id": "tutorial_301_02",
-      "content": "Skills have two major properties:\nTheir <Attack Type> and <Sin Affinity>.\nThe Attack Types are Slash, Pierce, and Blunt.\nThe Sin Affinities are Wrath, Lust, Sloth, Gluttony, Gloom, Pride, and Envy.\nCombined with Resistances, Attack Types and Affinities determine the damage of skills."
+      "content": "Yeteneklerin iki önemli değişkeni vardır:\n<Saldırı Türleri> ve <Günah Türleri>.\nSaldırı türleri Kesme, Delme, ve Darbeden oluşur.\nGünah Türleri ise are Öfke, Şehvet, Tembellik, Oburluk, Hüzün, Kibir, ve Hasettir.\nFarklı karakterler, farklı Saldırı ve Günah Türlerine dirençli veya zayıftır."
     },
     {
       "id": "tutorial_301_03",
-      "content": "Here, you can check the Attack Type and Sin Affinity of your Sinners' Skills."
+      "content": "Buradan, Günahkârlarının Yeteneklerinin Saldırı ve Günah Türlerine bakabilirsin."
     },
     {
       "id": "tutorial_301_04",
-      "content": "You can see the resistances and weaknesses of each unit up here. This hooligan is vulnerable to Slash attacks."
+      "content": "Buradan ise her birimin zayıflıklarına ve dirençlerine bakabilirsin. Örnek olarak bu serseri, Kesme Türü saldırılara zayıf."
     },
     {
       "id": "tutorial_302_01",
-      "content": "You can also use defense skills to deal with an enemy offense.\nDefense skills activate against the enemy attack paired with it.\nIf a defense skill isn't paired, it will activate when the unit is subject to an unopposed attack."
+      "content": "Bir saldırıya karşı, çarpışmak yerine alternatif olarak bir Defansif Yetenek de kullanabilirsin.\nDefansif Yetenekler seçilen düşman saldırısıyla beraber aktive olurlar.\nEğer herhangi bir düşman saldırısı seçilmemişse, karakter kendisinden yavaş bir saldırıya maruz kalacağı zaman aktive olurlar."
     },
     {
       "id": "tutorial_302_02",
-      "content": "Unlike attack skills, defense skills need to be generated."
+      "content": "Saldırı Yetenekleri aksine, Defansif Yeteneklerin manuel olarak oluşturulması gerekir."
     },
     {
       "id": "tutorial_302_03",
-      "content": "Let’s generate a Guard skill first."
+      "content": "Hadi bir Korunma yeteneği oluşturalım."
     },
     {
       "id": "tutorial_302_04",
-      "content": "If you’d be so kind as to press Gregor’s portrait."
+      "content": "Tıkla bakalım Gregor'un resmine."
     },
     {
       "id": "tutorial_302_05_popup_title",
-      "content": "Defense Skills: Guard"
+      "content": "Defansif Yetenek: Korunma"
     },
     {
       "id": "tutorial_302_05",
