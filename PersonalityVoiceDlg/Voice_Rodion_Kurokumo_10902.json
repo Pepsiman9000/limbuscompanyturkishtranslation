@@ -8,12 +8,12 @@
     {
       "id": "lobby_morning_10902_1",
       "desc": "Morning Greeting",
-      "dlg": "My day starts at night~ In other words… Don’t wake me up at this hour."
+      "dlg": "Benim günüm gece başlar~ Yani… Bu saatte beni uyandırma."
     },
     {
       "id": "lobby_noon_10902_1",
       "desc": "Afternoon Greeting",
-      "dlg": "‘Sup, Dante! What’d you have for lunch? Better not’ve had a better meal than mine."
+      "dlg": "N'aber, Dante! Öğle yemeğinde ne yedin? Umarım benim yediğimden iyi değildir."
     },
     {
       "id": "lobby_night_10902_1",
@@ -98,7 +98,7 @@
     {
       "id": "choice_success_p_10902_1",
       "desc": "Check Passed",
-      "dlg": "Never failed this kind of job!"
+      "dlg": "Bu tarz işleri hiç batırmadım!"
     },
     {
       "id": "choice_fail_n_10902_1",
@@ -113,12 +113,12 @@
     {
       "id": "battle_clear_ex_10902_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "See, there’s nothing I can’t cut."
+      "dlg": "Bak, kesemeyeceğim hiçbir şey yok."
     },
     {
       "id": "battle_defeat_10902_1",
       "desc": "Defeat Wail",
-      "dlg": "Things just don’t work out sometimes~ It’s not my sword’s fault."
+      "dlg": "Bazen işler yolunda gitmiyor~ Kılıcımın suçu yok."
     }
   ]
 }
