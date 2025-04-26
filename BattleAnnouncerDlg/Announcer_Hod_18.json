@@ -2,134 +2,134 @@
   "dataList": [
     {
       "id": "announcer_cheer_18_1",
-      "dlg": "You'll all be able to grow once you survive this hardship. We may have a few sacrifices along the way, but... as your Sephirah, I'm committed to helping you survive this."
+      "dlg": "Bu zor durumu geçtiğinizde hepiniz büyüyebileceksiniz. Bu yolda ilerlerken birkaç fedakarlık verebiliriz, fakat... Sephiranız olarak, Bu durumda hayatta kalmanıza yardım etmeye kararlıyım."
     },
     {
       "id": "announcer_cheer_18_2",
-      "dlg": "Is there anything you'd like to talk to me about? You know I'm always willing to listen to your difficulties in a counseling session."
+      "dlg": "Benimle konuşmak istediğin birşey var mı? Her zaman danışmanlık toplantılarından birinde zorluklarını dinlemek isterim."
     },
     {
       "id": "announcer_specialcheer_18_1",
-      "dlg": "S-see, Tiffany? Do you see how messed up things can get when you don't listen to me...?Oh... It's... nothing. Sorry, I keep hearing some weird noise..."
+      "dlg": "Gg-görüyor musun, Tiffany? Beni dinlemediğinde işlerin ne kadar kötüleşeceğini görüyor musun...?Oh... Şey... birşey yok. Özür dilerim, sürekli garip bir ses duyuyorum..."
     },
     {
       "id": "announcer_specialcheer_18_2",
-      "dlg": "No... Most employees are down... But... but I tried so hard. ... Was I really not that helpful in the end...?"
+      "dlg": "Hayır... Çalışanların çoğu düştü... Ama... ama çok denedim. ... İşin sonunda o kadar yararlı değil miydim...?"
     },
     {
       "id": "announcer_enemy_break_18_1",
-      "dlg": "The suppression target is shaken. Let's keep pushing, everyone!"
+      "dlg": "Bastırma hedefi sarsıldı. Saldırmaya devam, hepiniz!"
     },
     {
       "id": "announcer_ally_break_18_1",
-      "dlg": "An employee is looking pretty shaken. I hope someone'll help them soon..."
+      "dlg": "Bir çalışan çok sarsılmış gözüküyor. Umarım biri ona yardım eder..."
     },
     {
       "id": "announcer_killenemy_18_1",
-      "dlg": "The employees suppressed an entity. This'll prevent a lot of future harm, I'm sure!"
+      "dlg": "Çalışanlar bir varlığı bastırdı. Eminim, bu ileride zarar görmemizi engelleyecek!"
     },
     {
       "id": "announcer_ally_dead_18_1",
-      "dlg": "I saw their face, manager. I saw the desperate look on the dying employee. Do you think my training was lacking...?"
+      "dlg": "Yüzlerini gördüm, müdür. Ölen çalışanın çaresiz yüzünü gördüm. Sence benim eğitimim yetersiz miydi...?"
     },
     {
       "id": "announcer_enemy_adv_18_1",
-      "dlg": "Please don't say that this is all my fault, manager... You can't do that to me. I'm a good Sephirah after all, aren't I?"
+      "dlg": "Lütfen bunun tamamının benim suçum olduğunu söylemeyin, müdür... Bana bunu yapamazsınız. Çünkü ben iyi bir Sephirayım, değil mi?"
     },
     {
       "id": "announcer_ally_adv_18_1",
-      "dlg": "Look, manager! Everyone overcame the difficulty and became accomplished employees as a result! Do you think I was... helpful, this time?"
+      "dlg": "Müdür, bak! Eğitimlerin sonucunda herkes bu zorluğun altından kalktı ve başarılı çalışanlar oldular! Benim bu sefer... yardımcı olabildiğimi, düşünüyor musun?"
     },
     {
       "id": "announcer_danger_18_1",
-      "dlg": "I know things are worse, but... I tried my best... Why can't you understand how hard I'm trying— How kind I am? All of you would have been killed like insects by now if I hadn't helped you!"
+      "dlg": "Herşeyin kötüleştiğini biliyorum, fakat... elimden gelenin en iyisini yaptım... Ne kadar çok denemediğimi neden anlamıyorsun— Ne kadar nazik olduğumu? Size yardım etmeseydim hepiniz birer böcek gibi ölürdünüz!"
     },
     {
       "id": "announcer_enemy_specialskill_18_1",
-      "dlg": "Manager, please identify the hostile entity's specifications! More employees will get hurt if you don't!"
+      "dlg": "Müdür, lütfen saldırgan varlığın özelliklerini duyurun! Eğer yapmazsanız daha fazla çalışan ölecek!"
     },
     {
       "id": "announcer_enemy_specialgimmick_18_1",
-      "dlg": "Please focus, everyone. The entity we’ll suppress today needs to be handled a bit differently than the others."
+      "dlg": "Herkes, lütfen odaklanın. Bugün bastıracağımız varlık diğerlerinden farklı olacak."
     },
     {
       "id": "announcer_advatk_physical_18_1",
-      "dlg": "Why don't you try that same attack against that entity, too? Maybe we could record a video of it, and it'll be a nice positive example to help the other employees!"
+      "dlg": "O varlığa yaptığın saldırıyı neden  bu varlığa da denemiyorsun? Belki vidyosunu alabiliriz, ve bu başka çalışanlara pozitif bir çalışma örneği olur!"
     },
     {
       "id": "announcer_disadvatk_physical_18_1",
-      "dlg": "That wasn't the best countermeasure, but it was much better than nothing. Let's focus next time, okay?"
+      "dlg": "Bu en iyi önlem değildi, ama hiç yoktan iyidir. Sonrakine odaklanalım, tamam mı?"
     },
     {
       "id": "announcer_advatk_attr_18_1",
-      "dlg": "Perfect, you did just as I told you during our counseling session! I knew it... my counseling campaign was a great idea."
+      "dlg": "Mükemmel, size danışmanlık toplantısında söylediklerimin aynısını yaptınız! Biliyordum... benim danışmanlık kampanyam iyi bir fikirdi."
     },
     {
       "id": "announcer_disadvatk_attr_18_1",
-      "dlg": "Didn't I already have a counseling session with that employee? Why did they attack the entity like that...?"
+      "dlg": "Ben çoktan o çalışanla bir danışmanlık toplantısı yapmadım mı? Neden o varlığa öyle saldırdı...?"
     },
     {
       "id": "announcer_enemy_specialbuff_18_1",
-      "dlg": "This doesn't match the data we received from the Information Team, but... don't panic, manager! It'll all be okay as long as we maintain our composure."
+      "dlg": "Bu veriler Bilgi Takımından aldığımız verilerle uyuşmuyor, fakat... paniklemeyin, müdür! Tekrardan toplanabilirsek başarabiliriz."
     },
     {
       "id": "announcer_enemy_specialdebuff_18_1",
-      "dlg": "The suppression target is in pretty rough shape! Phew, I was worried that we might have to ask Gebura to call in the Rabbit Team."
+      "dlg": "Baskılama hedefi kötü bir durumda! Oh, Gebura'yı arayıp Tavşan Takımı'nı çağırması için sormamız gerektiğini düşünüyordum."
     },
     {
       "id": "announcer_ally_specialbuff_18_1",
-      "dlg": "It seems like... the employees are at an advantage. Maybe we can use this to suppress the entity..."
+      "dlg": "Çalışanlar avantajda... gibi gözüküyor. Belki bunu varlığı baskılamak için kullanabiliriz..."
     },
     {
       "id": "announcer_ally_specialdebuff_18_1",
-      "dlg": "Something's off about that employee... I told you, they can't work properly without my counseling sessions."
+      "dlg": "O çalışanlar ilgili birşeyler yanlış... Dediğim gibi, bein danışmanlık toplantılarım olmadan doğru düzgün çalışamıyorlar."
     },
     {
       "id": "announcer_enemy_destroy_18_1",
-      "dlg": "Our employees broke off a part of that entity! I told you that advance training would come in handy, didn't I?"
+      "dlg": "Çalışanlarımız o varlığın bir parçasını kırdı! Size eğitimin faydası olacağını söylemiştim, değil mi?"
     },
     {
       "id": "announcer_enemy_destroy_18_2",
-      "dlg": "The entity's part is broken. Let's use this chance to quickly suppress the entity so less of our employees will be hurt, manager!"
+      "dlg": "Varlığın parçası kırıldı. Hadi bu şansı işi hemen bitirmek için kullanalım ki başka çalışanlarda hasar almasın, müdür!"
     },
     {
       "id": "announcer_round_takebigdmg_18_1",
-      "dlg": "You! Get it together! You're going to blame me if you get yourself killed, aren't you?! Are... are you trying to make me a bad Sephirah?"
+      "dlg": "Sen! Topla kendini! Ölürsen suçu bana atacaksın, değil mi?! Sen... sen beni kötü bir Sephira gibi göstermeye mi çalışıyorsun?"
     },
     {
       "id": "announcer_round_takebigdmg_18_2",
-      "dlg": "Listen to me! I'm the only one of the Sephirot who even cares about your safety... So why won't you do as I taught you...?"
+      "dlg": "Beni dinleyin! Sizin güvenliğiniz hakkında düşünen tek Sephira benim... Neden size öğrettiğim gibi yapmıyorsunuz...?"
     },
     {
       "id": "announcer_round_givebigdmg_18_1",
-      "dlg": "You dealt a pretty big blow against the suppression target! A perfect attack I'd expect from an employee of the Training Team."
+      "dlg": "Baskılama hedefine güzel bir hasar vurdun! Eğitim Takımı'nın çalışanından beklenildiği gibi."
     },
     {
       "id": "announcer_round_givebigdmg_18_2",
-      "dlg": "Let's keep pushing just a little more! We're so close to suppressing this entity!"
+      "dlg": "Saldırıya biraz daha devam edelim! Bu varlığı bastırmaya çok yakınız!"
     },
     {
       "id": "announcer_multikillenemy_18_1",
-      "dlg": "Woah, we should show off that attack to the other Teams, too! I'm sure they can learn plenty from that move."
+      "dlg": "Vay be, bu saldırıyı başka takımlara da göstermeliyiz! Eminim ki bu saldırıdan bir sürü şey öğrenebilirler."
     },
     {
       "id": "announcer_add_18_1",
-      "dlg": "Manager, the Qliphoth Meltdown gauge is rising. At this rate, the Ordeal will be here at any minute!",
+      "dlg": "Müdür, Klipot Erime ölçeği artıyor. Bu durumda, Sınama her an burada olabilir!",
       "isHide": true
     },
     {
       "id": "announcer_add_18_2",
-      "dlg": "Manager, there's only one bar left of the Qliphoth Meltdown gauge! Prepare for the Noon of Violet!",
+      "dlg": "Müdür, Klipot Erime ölçeğinin dolmasına sadece bir tık kaldı! Morun Öğleni ile savaşmaya hazırlanın!",
       "isHide": true
     },
     {
       "id": "announcer_add_18_3",
-      "dlg": "The Physical Intervention Shield protected the employees. I'm so relieved that we managed to restore the Regenerator.",
+      "dlg": "Fiziksel Müdahale Kalkanı çalışanları korudu. Rejeneratörü tamir edebildiğimiz için çok rahatladım.",
       "isHide": true
     },
     {
       "id": "announcer_equip_18_1",
-      "dlg": "Hello, everyone! Please give the camera a bright smile~ As the Sephirah of the Training Team, I'll be joining you today to film a training video for hostile entity suppression!"
+      "dlg": "Hepiniz, merhaba! Lütfen kameraya güzelce gülümseyin~ Eğitim Takımı'nın Sephira'sı olarak, Size varlık baskılama videosu çekmek için katılıyor olacağım!"
     }
   ]
 }
