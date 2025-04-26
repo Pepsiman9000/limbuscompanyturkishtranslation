@@ -3,7 +3,7 @@
         {
             "id": "get_10107_1",
             "desc": "Identity Acquisition",
-            "dlg": "You may call me Yi Sang. I am the first mate of the Pequod."
+            "dlg": "Bana Yi Sang diyebilirsin. I am the first mate of the Pequod."
         },
         {
             "id": "lobby_morning_10107_1",
@@ -43,7 +43,7 @@
         {
             "id": "smalltalk_10107_5",
             "desc": "Post-Uptie Chat 2",
-            "dlg": "Captain Ishmael has not ordered you to your deaths! We must... All of us must kill it and return to where we belong!"
+            "dlg": "Kaptan Ishmael size ölümü emretmedi! We must... All of us must kill it and return to where we belong!"
         },
         {
             "id": "neglect_10107_1",
@@ -68,7 +68,7 @@
         {
             "id": "battle_select_10107_1",
             "desc": "Viewed in Battle",
-            "dlg": "Is the Captain in danger?"
+            "dlg": "Kaptan tehlikede mi?"
         },
         {
             "id": "battle_endcommand_10107_1",
@@ -88,12 +88,12 @@
         {
             "id": "battle_kill_10107_1",
             "desc": "Enemy Killed",
-            "dlg": "Tsk. There is no oil to be gleaned from this fellow."
+            "dlg": "Cık. There is no oil to be gleaned from this fellow."
         },
         {
             "id": "battle_dead_10107_1",
             "desc": "Death",
-            "dlg": "Ha ha ha... Thus does my... voyage... end..."
+            "dlg": "Ha ha ha... Böylece benim... seferim... biter..."
         },
         {
             "id": "choice_success_p_10107_2",
@@ -103,7 +103,7 @@
         {
             "id": "choice_fail_n_10107_1",
             "desc": "Check Failed",
-            "dlg": "Ahem... I have very seldom set my foot outside the ship... Do understand."
+            "dlg": "Öhöm... Gemiden nadiren dışarı adım attım... Anlayışla karşılayın."
         },
         {
             "id": "battle_clear_10107_1",
