@@ -109,7 +109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 [Sinking] uygular; +1 [Sinking] Miktarı uygula"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula; +1 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -125,7 +125,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Sinking] uygular; +2 [Sinking] Miktarı uygular"
+                  "desc": "[OnSucceedAttack] 2 [Sinking] uygula; +2 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -138,7 +138,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Dizeyi aşırma",
+          "name": "Dizeyi Aşırma",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -155,7 +155,7 @@
         },
         {
           "level": 4,
-          "name": "Dizeyi aşırma",
+          "name": "Dizeyi Aşırma",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -202,7 +202,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rüzgar gibi...",
+          "name": "Rüzgar Gibi...",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -217,7 +217,7 @@
         },
         {
           "level": 2,
-          "name": "Rüzgar gibi...",
+          "name": "Rüzgar Gibi...",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -4199,13 +4199,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strike Down",
+          "name": "Aşağı Hücum",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -4213,13 +4213,13 @@
         },
         {
           "level": 2,
-          "name": "Strike Down",
+          "name": "Aşağı Hücum",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -4232,20 +4232,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Axe Combo",
+          "name": "Balta Kombosu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -4253,20 +4253,20 @@
         },
         {
           "level": 2,
-          "name": "Axe Combo",
+          "name": "Balta Kombosu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -4274,23 +4274,23 @@
         },
         {
           "level": 4,
-          "name": "Axe Combo",
+          "name": "Balta Kombosu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Laceration] Miktarı uygula"
                 }
               ]
             }
