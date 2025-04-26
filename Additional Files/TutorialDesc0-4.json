@@ -6,43 +6,43 @@
     },
     {
       "id": "tutorial_401_02",
-      "content": "Bilgi panelini görmek için bir karaktere tıkla."
+      "content": "Bilgi kısmını görmek için bir karaktere tıkla."
     },
     {
       "id": "tutorial_401_03",
-      "content": "Bu panelde, Yetenekler de dahil olmak üzere birçok bilgi bulabilirsin."
+      "content": "Bu kısımda, Yetenekler de dahil olmak üzere birçok bilgi bulabilirsin."
     },
     {
       "id": "tutorial_401_04",
-      "content": "Kontrol ettiğin her Günahkârın kendine özel Yetenekleri vardır.\nA number of them from those Skillsets will be randomly selected and deployed on the Dashboard."
+      "content": "Kontrol ettiğin her Günahkârın kendine özel 3 Saldırı Yeteneği vardır.\nBu Yetenekler alttaki Panelde rastele bir sırayla gelirler."
     },
     {
       "id": "tutorial_401_05",
-      "content": "Used skills are treated as “discarded” from the set.\nThey will not reappear until every other skill in the Skillset has been used, thus refilling it."
+      "content": "Listede 3. Yetenekten 1 tane, 2.den 2 tane, 1.den ise 3 tane vardır.\nKullandığın Yetenekler listeden silinir, listenin tamamı bittiğinde yeni bir liste başlar."
     },
     {
       "id": "tutorial_401_06",
-      "content": "Additionally, attack skills have an “offense level”.\nIn clashes, the differences in offense levels may affect the outcome."
+      "content": "Bir de, Saldırı Yeteneklerinin “Saldırı Seviyesi” vardır.\nHer 3 Saldırı Seviyesi, 1 Çarpışma Gücüne tekabül eder."
     },
     {
       "id": "tutorial_401_07",
-      "content": "That should cover the basics of your Sinners’ skills.\nNow, give them your orders."
+      "content": "İlerledikçe alışırsın.\nŞimdi, emirleri ver."
     },
     {
       "id": "tutorial_402_01",
-      "content": "Besides skills, your Sinners have <Passive Abilities>.\nSinners in battle have their Combat Passives active."
+      "content": "Yeteneklerin yanı sıra, Günahkârlarının <Pasif Yetenekleri> de vardır.\nSavaşta yer alan Günahkârların Savaş Pasifleri aktive olur."
     },
     {
       "id": "tutorial_402_02",
-      "content": "Sinners who are not directly participating in battle will provide aid with their Support Passives."
+      "content": "Savaşta yer almayan Günahkârların ise, Destek Pasifleri aktive olur."
     },
     {
       "id": "tutorial_402_03",
-      "content": "To put theory into practice, activate the Passive by chaining two Pride skills."
+      "content": "Hadi, benim Pasifimi aktive etmek için 2'li bir Kibir Rezonansı yap."
     },
     {
       "id": "tutorial_402_04",
-      "content": "This portion will indicate what Passives are active.\nPassives activate when you possess a certain number of E.G.O resources or chain skills of certain Affinities to cause Resonance."
+      "content": "Bu kısım hangi Pasiflerin aktive olduğunu belirtir.\nPasifleri aktive etmek için belirli sayıda Günah Kaynağına veya Rezonansa ihtiyacın olur."
     },
     {
       "id": "tutorial_403_00",
