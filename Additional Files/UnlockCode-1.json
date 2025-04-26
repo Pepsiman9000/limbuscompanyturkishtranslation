@@ -2,28 +2,28 @@
   "dataList": [
     {
       "id": 101,
-      "openCondition": "Clear Canto 1"
+      "openCondition": "Canto 1'i Bitir"
     },
     {
       "id": 102,
-      "openCondition": "Clear Canto 2"
+      "openCondition": "Canto 2'yi Bitir"
     },
     {
       "id": 103,
-      "openCondition": "Clear Canto 3"
+      "openCondition": "Canto 3'ü Bitir"
     },
     {
       "id": 104,
-      "openCondition": "Clear Canto 4"
+      "openCondition": "Canto 4'ü Bitir"
     },
     {
       "id": 105,
-      "openCondition": "Clear Canto 5",
+      "openCondition": "Canto 5'i Bitir",
       "askLevelUp": "Identity level caps are unlocked by progressing through the main story,\nand the highest level achievable with this ticket(Lv. {0})\nwill be unlocked upon clearing Main Story Canto V."
     },
     {
       "id": 106,
-      "openCondition": "Clear Canto 6",
+      "openCondition": "Canto 6'yı Bitir",
       "askLevelUp": "Identity level caps are unlocked by progressing through the main story,\nand the highest level achievable with this ticket(Lv. {0})\nwill be unlocked upon clearing Main Story Canto VI."
     },
     {
