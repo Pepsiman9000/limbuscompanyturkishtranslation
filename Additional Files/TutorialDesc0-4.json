@@ -202,47 +202,47 @@
     },
     {
       "id": "tutorial_ego_overclock_title",
-      "content": "E.G.O Overclock"
+      "content": "E.G.O Aşırtması"
     },
     {
       "id": "tutorial_ego_overclock_1",
-      "content": "E.G.O Overclock can be Stable or Unstable depending on resources available."
+      "content": "E.G.O Aşırtması, sahip olduğun E.G.O kaynaklarına göre stabil olabilir veya olmayabilir."
     },
     {
       "id": "tutorial_ego_overclock_2",
-      "content": "Overclocking spends 1.5 times as many E.G.O resources and SP as the E.G.O skill’s usual cost."
+      "content": "Aşırtma, orijinalin 1.5 katı E.G.O Kaynağı ve SP harcar."
     },
     {
       "id": "tutorial_ego_overclock_3",
-      "content": "To overclock an E.G.O skill, you need to possess at least the base E.G.O resource cost; if you have the base cost but not enough for overclock, the overclock cost will be subtracted from your possession beyond 0."
+      "content": "Bir E.G.O Yeteneğini aşırtmak için, en azından orijinal gereksinimdeki kaynaklara sahip olman gerekir; eğer orijinal kaynaklara sahip ama aşırtma kaynaklarına sahip değilsen, kaynaklarını negatife düşürebilirsin."
     },
     {
       "id": "tutorial_ego_overclock_4",
-      "content": "The unit can still be corroded upon overclocking; in this case, only the base E.G.O resource cost will be consumed."
+      "content": "Aşırtmış olmana rağmen, E.G.O Korozyonu geçirebilirsin; bu durumda, yalnızca orijinal kaynaklar harcanır."
     },
     {
       "id": "tutorial_ego_overclock_5",
-      "content": "Stable overclocked E.G.O skills have the same effects and damage values as the corrosion skill while being able to distinguish allies from foes."
+      "content": "Stabil E.G.O Aşırtması, E.G.O Korozyonu Yeteneklerini Korozyon geçirmeden, ve dost düşman ayırt ederek atmanı sağlar."
     },
     {
       "id": "tutorial_ego_overclock_6",
-      "content": "Unstable overclocked skills carry the risk of targeting indiscriminately and have the same effects and values as the corrosion skill."
+      "content": "Stabil olmayan aşırtmalar ise, Korozyon geçirme riski taşır ve dosta da vurabilir."
     },
     {
       "id": "tutorial_403_06_New",
-      "content": "<E.G.O Skills> must be generated on the Dashboard, much like defensive skills. Press and hold the highlighted portrait."
+      "content": "<E.G.O Yetenekleri> Panelde manuel olarak oluşturulmalılardır, aynı Defansif Yetenekler gibi. İşaretlediğim yere basılı tut."
     },
     {
       "id": "tutorial_403_07_New",
-      "content": "Press the icon of the <E.G.O> you want to use."
+      "content": "Kullanmak istediğin E.G.O'yu seç."
     },
     {
       "id": "tutorial_403_07_1",
-      "content": "Consume E.G.O Resources to generate an E.G.O. Skill icon on the Dashboard."
+      "content": "Panelde bir E.G.O Yeteneği oluşturmak için E.G.O Kaynağı harca"
     },
     {
       "id": "tutorial_403_07_2",
-      "content": "E.G.O. Skills can be canceled by tapping on the portrait twice once they are added to the Dashboard. The E.G.O. skill will be canceled and your resources will be refunded."
+      "content": "E.G.O. Yetenekleri, Günahkârın portresine iki kere basarak iptal edilebilir. E.G.O. Yeteneği iptal edildiğinde harcadığın kaynaklar iade edilecektir."
     }
   ]
 }
