@@ -46,7 +46,7 @@
     },
     {
       "id": "tutorial_403_00",
-      "content": "Görünüşe göre şuan yüzleştiğimiz karşılaşmanın birkaç dalgası var."
+      "content": "Görünüşe göre şuan yüzleştiğimiz karşılaşma birkaç dalgadan oluşuyor."
     },
     {
       "id": "tutorial_403_01",
@@ -98,87 +98,87 @@
     },
     {
       "id": "tutorial_403_10",
-      "content": "After using an E.G.O Skill, its Passive ability will activate on the next turn and further empower the Sinner for the rest of the battle.\nMake good use of the variety of Passives that E.G.O has to offer."
+      "content": "Bir E.G.O Yeteneği kullandıktan sonra, savaşın geri kalanı boyunca E.G.O Yeteneğinin Pasifi aktive olur.\nE.G.O'ların sahip oldukları Pasiflere baktığından ve düzgün kullandığından emin ol."
     },
     {
       "id": "tutorial_403_11",
-      "content": "Attack skills can be single-target or multi-target;\nthe latter are called “AoE Skills”."
+      "content": "Yetenekler tek veya çok hedefli olabilir;\nÇoklu olanlara, “AoE Yetenekler” denir."
     },
     {
       "id": "tutorial_403_12",
-      "content": "It seems the E.G.O that’s about to be in play has an AoE Skill."
+      "content": "Görünüşe göre bu E.G.O, bir AoE Yetenek."
     },
     {
       "id": "tutorial_403_13_title",
-      "content": "Area-of-Effect Skills"
+      "content": "AoE Yetenekler"
     },
     {
       "id": "tutorial_403_13",
-      "content": "Targets of AoE skills are divided into two categories:\nthe main target, and sub-targets."
+      "content": "AoE Yeteneklerin hedefleri iki gruba ayrılır:\nAna hedef, ve alt hedefler."
     },
     {
       "id": "tutorial_403_14",
-      "content": "Clashes with AoE skills can only occur from the chosen main target."
+      "content": "AoE Yetenekler yalnızca ana hedef ile çarpışmaya girebilir."
     },
     {
       "id": "tutorial_403_15",
-      "content": "If an AoE skill loses its Clash, the attack will be canceled for every target."
+      "content": "Eğer bir AoE yetenek Çarpışma kaybederse, her hedef için saldırı iptal olur."
     },
     {
       "id": "tutorial_403_16",
-      "content": "Sub-targets are determined by the targeting range of the skill."
+      "content": "Alt hedefler, Yeteneğin hedefleme menziline göre seçilir."
     },
     {
       "id": "tutorial_403_17_title",
-      "content": "Targets of AoE skills are divided into two categories:\nthe main target, and sub-targets."
+      "content": "AoE Yeteneklerin hedefleri iki gruba ayrılır:\nAna hedef, ve alt hedefler."
     },
     {
       "id": "tutorial_403_17",
-      "content": "AoE skills target enemy skill slots."
+      "content": "AoE Yetenekler düşmanların Yetenek Yuvalarını hedefler."
     },
     {
       "id": "tutorial_403_18",
-      "content": "Each AoE skill has an attack weight (Atk Weight)."
+      "content": "Her AoE Yeteneğin bir Saldırı Ağırlığı vardır."
     },
     {
       "id": "tutorial_403_19",
-      "content": "Each slot has a “weight” which can take up a portion of an AoE skill's Atk Weight."
+      "content": "Bu Saldırı Ağırlığı, hedef sayısını belirtir."
     },
     {
       "id": "tutorial_403_20",
-      "content": "In regular encounters, an enemy is only attacked once by an AoE skill, even if the unit is taking up multiple targets."
+      "content": "Sıradan Karşılaşmalarda, düşmanlar AoE Yeteneklerin hedefledikleri Yetenek Yuvası sayısı fark etmeksizin yalnızca bir kez hasar yer."
     },
     {
       "id": "tutorial_403_21",
-      "content": "In Focused Encounters, the slots on their body parts are only attacked once, even if said slots are taking up multiple targets."
+      "content": "Odaklı Karşılaşmalarda ise, her vücut parçası bir kez hasar yer."
     },
     {
       "id": "tutorial_404_00",
-      "content": "Utilizing E.G.O will be an important part of your strategy."
+      "content": "E.G.O kullanmak stratejik olarak önemlidir."
     },
     {
       "id": "tutorial_404_01",
-      "content": "Our current encounter comes in multiple waves."
+      "content": "Görünüşe göre şuan yüzleştiğimiz karşılaşma birkaç dalgadan oluşuyor."
     },
     {
       "id": "tutorial_404_02",
-      "content": "Before we proceed, allow me to introduce you to a useful feature."
+      "content": "Devam etmeden önce, seni bir butonun varlığından haberdar edeyim."
     },
     {
       "id": "tutorial_404_03",
-      "content": "You can now let the game chain skills for you.\nChains will be automatically chosen depending on what button you press."
+      "content": "Çok düşünmek istemediğin zaman kararları bana bırakabilirsin.\nSeçtiğin iki butondan birine göre seçenekleri ben yapacağım."
     },
     {
       "id": "tutorial_404_04",
-      "content": "‘Win Rate’ picks skills that are the most likely to win Clashes.\n‘Damage’, as the name implies, picks skills that can hurt your enemies the most."
+      "content": "‘Otomatik’te çarpışmaların çoğunu kazanmaya çalışırım.\n‘Hasar’da ise, adından da belli olduğu gibi, en çok hasar vuran Yetenekleri seçerim."
     },
     {
       "id": "tutorial_404_05",
-      "content": "However, do keep in mind that auto-chaining does not take the full extent of every complex factor into consideration."
+      "content": "Butonları kullanıp kullanmamak tamamen senin tercihin."
     },
     {
       "id": "tutorial_404_06",
-      "content": "Also, you can toggle target arrow displays using the panel on the upper right, and configure the skill tooltip display and Coin flip controls from the settings."
+      "content": "Bir de, sağ üstteki panelden saldırı okları seçeneklerini değiştirebilirsin, ayarlardan ise Jeton Atma gibi birkaç seçenekle oynayabilirsin. Jeton Atmayı Manuele almanı öneriyorum."
     },
     {
       "id": "tutorial_404_07",
