@@ -129,23 +129,23 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Watch Your Back!",
-                    "desc": "If target has less than 0 SP, Coin Power +3",
+                    "name": "Arkanı Kolla!",
+                    "desc": "Eğer hedefin SP'si 0'dan az ise, Jeton Gücü +3",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 10 SP on self"
+                                    "desc": "[OnSucceedAttack] 10 SP yenile"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Attack Power Down next turn"
+                                    "desc": "[OnSucceedAttack] Bir sonraki tur 2 [Binding] ve 2 [Reduction] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses 20 SP"
+                                    "desc": "[OnSucceedAttack] Rakip 20 SP kaybeder"
                                 }
                             ]
                         }
@@ -158,8 +158,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Assemble",
-                    "desc": "[StartBattle] Summon 2 allies next turn",
+                    "name": "Toplanın!",
+                    "desc": "[StartBattle] Bir sonraki tur 2 müttefik çağır",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -177,8 +177,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Swear Vengeance",
-                    "desc": "[StartBattle] Gain 2 Test of the Big Brother. Gain 5 Bind and 5 Damage Up next turn.",
+                    "name": "İntikam Yemini",
+                    "desc": "[StartBattle] 2 [AaCePbBi] kazan. Bir sonraki tur 5 [Binding] ve 5 [AttackDmgUp] kazan.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -196,16 +196,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "MY HAIR COUPOOOOOOOOOOONS!!!",
-                    "desc": "If the main target has less than 0 SP, Final Power +5",
+                    "name": "SAÇ KUPONLARIMMMMMMMMM!!!",
+                    "desc": "Eğer ana hedefin SP'si 0'dan az ise, Final Güç +5",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30"
+                                    "desc": "[OnSucceedAttack] Sersemleme Eşiğini 30 artır"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] Bir sonraki tur 1 [Paralysis] uygula"
                                 }
                             ]
                         }
