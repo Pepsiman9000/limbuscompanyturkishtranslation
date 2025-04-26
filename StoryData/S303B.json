@@ -456,7 +456,7 @@
       "model": "검문소경비",
       "teller": "Checkpoint Official",
       "title": "K Corp.",
-      "content": "Requesting Thrombocyte units. Repeat, requesting Thrombocyte…"
+      "content": "Trombosit Birliği Talep ediyorum. Tekrar ediyorum, Trombosit Birliği…"
     },
     {
       "id": 94,
@@ -477,7 +477,7 @@
       "model": "더미2",
       "teller": "Announcement",
       "title": "K Corp.",
-      "content": "Attention all personnel: Code purple. Code purple. Circulation Hall 2, Inspection Booth 14. Thrombocyte, Leukocyte."
+      "content": "Attention all personnel: Code purple. Code purple. Circulation Hall 2, Inspection Booth 14. Trombosit, Lökosit."
     },
     {
       "id": 96,
@@ -496,12 +496,12 @@
     {
       "id": 99,
       "model": "이상",
-      "content": "Thrombo, Leuko… I believe they refer to platelets and white blood cells respectively."
+      "content": "Kan pıhtısı, ve löko... trombosit ve beyaz kan hücrelerinin mevzubahis olduğu görüşündeyim."
     },
     {
       "id": 100,
       "model": "파우스트",
-      "content": "It must be them. Fitting for K Corp, I’d say."
+      "content": "Evet öyle olmalı. K kuruluşu'na yakışçak biçimde, itiraf etmeliyim."
     },
     {
       "id": 101,
