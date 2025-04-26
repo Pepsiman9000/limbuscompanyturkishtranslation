@@ -42,39 +42,39 @@
     },
     {
       "id": "tutorial_402_04",
-      "content": "Bu kısım hangi Pasiflerin aktive olduğunu belirtir.\nPasifleri aktive etmek için belirli sayıda Günah Kaynağına veya Rezonansa ihtiyacın olur."
+      "content": "Bu kısım hangi Pasiflerin aktive olduğunu belirtir.\nPasifleri aktive etmek için belirli sayıda E.G.O Kaynağına veya Rezonansa ihtiyacın olur."
     },
     {
       "id": "tutorial_403_00",
-      "content": "Our current encounter comes in multiple waves."
+      "content": "Görünüşe göre şuan yüzleştiğimiz karşılaşmanın birkaç dalgası var."
     },
     {
       "id": "tutorial_403_01",
-      "content": "To help with this, your Sinners possess powerful skills called <E.G.O>, manifested by resonating with their emotions."
+      "content": "Düşmanımıza ne yazık, çünkü Günahkârlarımız kendi duyguları ile oluşturdukları <E.G.O> denen güçlü yeteneklere sahiptir."
     },
     {
       "id": "tutorial_403_02",
-      "content": "To use <E.G.O>, you need E.G.O resources."
+      "content": "<E.G.O> kullanmak için, E.G.O kaynağına ihtiyacın vardır."
     },
     {
       "id": "tutorial_403_03",
-      "content": "You can view the E.G.O resources you currently have stockpiled here on the right."
+      "content": "Sağ tarafta E.G.O kaynaklarını görebilirsin."
     },
     {
       "id": "tutorial_403_04",
-      "content": "As this is your first time trying your hand at <E.G.O>, I’ve collected the necessary resources for you.\nThis is a special power, so you’ll need to gather them on your own from now on."
+      "content": "Bu E.G.O'yu ilk kullanışın olduğu için, gerekli kaynakları senin için önceden hazırladım.\nBu kaynaklar yalnızca savaş başına geçerlidir, ve her savaş sıfırlanır."
     },
     {
       "id": "tutorial_403_05",
-      "content": "Sinners who can currently use <E.G.O> will be highlighted."
+      "content": "<E.G.O> kullanmaya hazır Günahkârlar bir parıltı ile vurgulanacaklardır."
     },
     {
       "id": "tutorial_403_06",
-      "content": "<E.G.O Skills> must be generated on the Dashboard, much like defense skills. Please press and hold here."
+      "content": "<E.G.O Yetenekleri> Panelde manuel olarak oluşturulmalılardır, aynı Defansif Yetenekler gibi. İşaretlediğim yere basılı tut."
     },
     {
       "id": "tutorial_403_07",
-      "content": "Press the icon of the <E.G.O> you will use.\nThis can also be used to cancel the ones you’ve generated."
+      "content": "Kullanmak istediğin E.G.O'yu seç.\nAynı bu şekilde oluşturduğun E.G.O'ları iptal da edebilirsin."
     },
     {
       "id": "tutorial_403_08_title",
@@ -82,19 +82,19 @@
     },
     {
       "id": "tutorial_403_08",
-      "content": "E.G.O is powerful equipment that manifests by resonating with your Sinners’ emotions.\nTo use an E.G.O skill, you need Sin Affinity-based E.G.O resources.\nWhenever you use an attack skill, you’ll gain an E.G.O resource matching its Affinity."
+      "content": "E.G.O, Günahkârlarının kendi duyguları ile oluşturdukları güçlü saldırılardır.\nBir E.G.O Yeteneği kullanmak için, Günah Türlerine dağılmış E.G.O Kaynaklarına ihtiyacın vardır.\nHerhangi bir Yetenek kullandığında, Yeteneğin türüne tekabül eden E.G.O Kaynağından kazanırsın."
     },
     {
       "id": "tutorial_403_09_title",
-      "content": "E.G.O Corrosion"
+      "content": "E.G.O Korozyonu"
     },
     {
       "id": "tutorial_403_09",
-      "content": "On top of requiring E.G.O resources, E.G.O takes a toll on a Sinner’s Sanity.\nAt low Sanity, the Sinner might suffer from <E.G.O Corrosion>.\nSinners corroded by E.G.O will ignore your commands, so ensure that your Sinners are in good mental health."
+      "content": "E.G.O Kaynağı gerektirmesinin üzerine, Anomali E.G.O'ları Günahkârların akıl sağlığı üzerinde kötü etkiler bırakır.\nDüşük SP'de, Günahkâr E.G.O Korozyonuna maruz kalabilir.\nE.G.O Korozyonu geçiren Günahkârlar emirlerini dinlemezler, Günahkârların E.G.O kullanırken yüksek SP'de olduklarından emin ol."
     },
     {
       "id": "tutorial_403_10_title",
-      "content": "E.G.O Passives"
+      "content": "E.G.O Pasifleri"
     },
     {
       "id": "tutorial_403_10",
