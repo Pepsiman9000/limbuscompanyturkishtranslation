@@ -8,7 +8,7 @@
         {
             "id": "lobby_morning_10707_1",
             "desc": "Morning Greeting",
-            "dlg": "Sunrise. Time to start work. Work hard."
+            "dlg": "Gün doğumu. Çalışma vakti. Sıkı çalış."
         },
         {
             "id": "lobby_noon_10707_1",
@@ -58,12 +58,12 @@
         {
             "id": "formation_10707_1",
             "desc": "Deployment",
-            "dlg": "Rope. Knot tight."
+            "dlg": "Halat. Sıkı bağla."
         },
         {
             "id": "battleentry_10707_1",
             "desc": "Stage Entry",
-            "dlg": "Let's go. Let's kill."
+            "dlg": "Hadi. Öldürelim."
         },
         {
             "id": "battle_select_10707_1",
@@ -88,7 +88,7 @@
         {
             "id": "battle_kill_10707_1",
             "desc": "Enemy Killed",
-            "dlg": "End of voyage. Nearing."
+            "dlg": "Seferin sonu. Yaklaşıyor."
         },
         {
             "id": "battle_dead_10707_1",
@@ -98,7 +98,7 @@
         {
             "id": "choice_success_p_10707_2",
             "desc": "Check Passed",
-            "dlg": "Did it. Job done."
+            "dlg": "Yaptım. İş tamam."
         },
         {
             "id": "choice_fail_n_10707_1",
