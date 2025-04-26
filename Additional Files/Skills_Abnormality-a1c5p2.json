@@ -5,20 +5,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Punching",
+                    "name": "Yumruk",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Blunt Damage +3"
+                                    "desc": "[OnSucceedAttack] Darbe Hasarı +3"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Blunt Damage +3"
+                                    "desc": "[OnSucceedAttack] Darbe Hasarı +3"
                                 }
                             ]
                         },
@@ -38,27 +38,27 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Kicking",
+                    "name": "Tekme",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Blunt Damage +5"
+                                    "desc": "[OnSucceedAttack] Darbe Hasarı +5"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Blunt Damage +5"
+                                    "desc": "[OnSucceedAttack] Darbe Hasarı +5"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] Sonraki Tur 3 [Paralysis] uygula"
                                 }
                             ]
                         }
@@ -71,14 +71,14 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Payback",
+                    "name": "İntikam",
                     "desc": "",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses 5 SP"
+                                    "desc": "[OnSucceedAttack] Hedef 5 SP kaybeder"
                                 }
                             ]
                         }
@@ -91,8 +91,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Domineer",
-                    "desc": "[StartBattle] Apply 1 Attack Power Up to all allies\n[StartBattle] Inflict 2 Attack Power Down to 2 enemies with the least SP",
+                    "name": "Dominasyon",
+                    "desc": "[StartBattle] Tüm Müttefiklere 1 [Enhancement] uygula\n[StartBattle] En az SP'ye sahip 2 düşmana 2 [Reduction] uygula",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -110,8 +110,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Make this Memorable",
-                    "desc": "[StartBattle] Gain 2 Test of the Big Brother. Gain 5 Bind next turn.",
+                    "name": "Bir Dahakine Unutma",
+                    "desc": "[StartBattle] 2 [AaCePbBi] kazan. Bir sonraki tur 5 [Binding] kazan.",
                     "coinlist": [
                         {
                             "coindescs": [
