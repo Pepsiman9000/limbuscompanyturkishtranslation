@@ -2,115 +2,115 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Within the Ice Castle",
-      "content": "THOOM!"
+      "place": "Buz Kalesinin İçinde",
+      "content": "BOOM!"
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<What the…?>"
+      "content": "<Ne oluyor…?>"
     },
     {
       "id": 2,
-      "content": "The castle trembles intensely as frosty rubble falls around us from above."
+      "content": "Yukarıdan etrafımıza düşen buzlu molozlar yüzünden kale şiddetle titriyordu."
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<Wait, if this keeps up…>"
+      "content": "<Bekle, eğer böyle devam ederse…>"
     },
     {
       "id": 4,
-      "content": "A foreboding idea flashes in my head."
+      "content": "Kafamda kötü bir fikir belirdi."
     },
     {
       "id": 5,
-      "content": "The ticking of my clock was like a reminder of how much time we had left."
+      "content": "Saatimin tik takları, geriye ne kadar zamanımızın kaldığını hatırlatıyordu sanki."
     },
     {
       "id": 6,
       "model": "단테",
-      "content": "<Out… Outside, now!>"
+      "content": "<Dış… Dışarı, şimdi!>"
     },
     {
       "id": 7,
-      "place": "Ice Castle Where Neighbors Lie",
-      "content": "We evacuated from it in a hurry."
+      "place": "Komşuların Yattığı Buz Kalesi",
+      "content": "Aceleyle oradan kaçtık."
     },
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "…Am I seeing this right?"
+      "content": "…Doğru mu görüyorum?"
     },
     {
       "id": 9,
       "model": "이스마엘",
-      "content": "The castle isn’t falling apart, it’s like…"
+      "content": "Kale yıkılmıyor, sanki…"
     },
     {
       "id": 10,
       "model": "파우스트",
-      "content": "Indeed, it’s most certainly rising to its feet."
+      "content": "Gerçekten de ayağa kalkıyor."
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "Don’t look back! Just run!"
+      "content": "Arkanıza bakmayın! Sadece koşun!"
     },
     {
       "id": 12,
       "model": "단테",
-      "content": "<Hoogh… Gahh… I, we ran quite a bit, but what now…?>"
+      "content": "<Ohh… Ahh…, biraz koştuk ama şimdi ne olacak…?>"
     },
     {
       "id": 13,
       "model": "뫼르소",
-      "content": "Footfalls. Not of a human. Rather slow and heavy."
+      "content": "Ayak sesleri. İnsana ait değil. Oldukça yavaş ve ağır."
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "…You could just say that something mammoth is after us!"
+      "content": "…Sadece devasa bir şeyin peşimizde olduğunu söyleyebilirdin!"
     },
     {
       "id": 15,
       "model": "뫼르소",
-      "content": "That may have served better."
+      "content": "Bu daha iyi olabilirdi."
     },
     {
       "id": 16,
       "model": "로쟈",
-      "content": "D—Dante! Our job here’s done, so we can just book it! Cool?"
+      "content": "D—Dante! Buradaki işimiz bitti, artık buradan tüyebiliriz! Harika, değil mi?"
     },
     {
       "id": 17,
       "model": "단테",
-      "content": "<G-Gimme a second! I never considered what to do after getting down here…>"
+      "content": "<B-Bana bir saniye ver! Buraya geldikten sonra ne yapacağımı hiç düşünmedim…>"
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Oh, really! Does this look like the time for dopey plans?!"
+      "content": "Oh, gerçekten mi! Sence aptalca planların sırası mı!?"
     },
     {
       "id": 19,
       "model": "그레고르",
-      "content": "The bus… Where’s the bus?"
+      "content": "Otobüs… Otobüs nerede?"
     },
     {
       "id": 20,
       "model": "히스클리프",
-      "content": "Stop yapping useless rubbish! We’re running the hell away!"
+      "content": "Boş boş konuşmayı bırakın artık! Buradan kaçmamız lazım!"
     },
     {
       "id": 21,
       "model": "파우스트",
-      "content": "That might be the first logical statement I’ve heard leave your mouth, Heathcliff."
+      "content": "Bu, ağzından duyduğum ilk mantıklı cümle olabilir, Heathcliff."
     },
     {
       "id": 22,
       "model": "히스클리프",
-      "content": "…I’m smashing your skull to pieces later."
+      "content": "…Daha sonra kafatasını parçalayacağım."
     }
   ]
 }
