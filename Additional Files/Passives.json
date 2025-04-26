@@ -87,7 +87,7 @@
     },
     {
       "id": 1060301,
-      "name": "Neşe",
+      "name": "Kanzi bi sigaran var mı?",
       "desc": "Sonraki turda (2x Oburluk Rezonansı) SP yenile."
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "id": 1080301,
-      "name": "Ölüm Çizgisinde Yürümek",
+      "name": "Ölüm ile Yüzleşme",
       "desc": "HP %50'nin altındayken, yeteneklerden 1 ekstra [Breath] kazan."
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "id": 1040121,
-      "name": "Telaş",
+      "name": "Sanat Eseri",
       "desc": "En düşük Max HP'ye sahip 1 müttefik, verdiği ve aldığı hasarı %20 artırır."
     },
     {
@@ -277,7 +277,7 @@
     },
     {
       "id": 1060321,
-      "name": "Gambit",
+      "name": "İdda",
       "desc": "En çok SP'ye sahip 1 müttefik, Heads Jetonlarıyla %20 daha fazla hasar uygular."
     },
     {
@@ -744,8 +744,8 @@
     {
       "id": 1070611,
       "name": "İçgüdüsel Okuma",
-      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\n<style=\"highlight\">Eğer bu birim dahil 4 veya daha fazla hayatta kalan birim Seven Association İşçözücüleriyse, ek olarak +1 daha fazla Parçalanma</style>",
-      "summary": "Bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular.\n4 veya daha fazla Seven Association İşçözücü müttefik varsa, ek olarak +1 daha fazla [Burst] uygular."
+      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\n<style=\"highlight\">Eğer bu birim dahil 4 veya daha fazla hayatta kalan birim Yedi Birliği İşçözücüleriyse, ek olarak +1 daha fazla Parçalanma</style>",
+      "summary": "Bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular.\n4 veya daha fazla Yedi Birliği İşçözücü müttefik varsa, ek olarak +1 daha fazla [Burst] uygular."
     },
     {
       "id": 1070621,
@@ -756,8 +756,8 @@
     {
       "id": 1070631,
       "name": "Noktaları Birleştir",
-      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\n<style=\"highlight\">Eğer müttefik bir Seven Association İşçözücüsüyse, ek olarak +1 daha fazla Parçalanma</style>",
-      "summary": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular.\nEğer müttefik bir Seven Association İşçözücüsüyse, ek olarak +1 daha fazla [Burst] uygular."
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\n<style=\"highlight\">Eğer müttefik bir Yedi Birliği İşçözücüsüyse, ek olarak +1 daha fazla Parçalanma</style>",
+      "summary": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular.\nEğer müttefik bir Yedi Birliği İşçözücüsüyse, ek olarak +1 daha fazla [Burst] uygular."
     },
     {
       "id": 1020601,
@@ -767,15 +767,15 @@
     },
     {
       "id": 1020621,
-      "name": "Seven Association Çay Saati",
+      "name": "Yedi Birliği Çay Saati",
       "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, hedefin <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> değerine göre daha fazla hasar uygular.\n+%1.5 her 1 [Burst] için (Maksimum %15)",
       "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, hedefin [Burst] değerine göre daha fazla hasar uygular."
     },
     {
       "id": 1020631,
-      "name": "Seven Association Çay Saati",
-      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin <style=\"highlight\">\"Zayıf\" veya \"Ölümcül\"(Direnç>x1)</style> olduğu bir hasar türüyle saldırırken, hedefin <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> değerine göre daha fazla hasar uygular.\n(+%1.5 her 1 Parçalanma; Maksimum %15)\n<style=\"highlight\">Eğer müttefik bir Seven Association İşçözücüsüyse, daha da artan hasar uygular.\n(+%0.5 her 1 Parçalanma; Maksimum %5)</style>",
-      "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, hedefin [Burst] değerine göre daha fazla hasar uygular.\nEğer müttefik bir Seven Association İşçözücüsüyse, daha da artan hasar uygular."
+      "name": "Yedi Birliği Çay Saati",
+      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin <style=\"highlight\">\"Zayıf\" veya \"Ölümcül\"(Direnç>x1)</style> olduğu bir hasar türüyle saldırırken, hedefin <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> değerine göre daha fazla hasar uygular.\n(+%1.5 her 1 Parçalanma; Maksimum %15)\n<style=\"highlight\">Eğer müttefik bir Yedi Birliği İşçözücüsüyse, daha da artan hasar uygular.\n(+%0.5 her 1 Parçalanma; Maksimum %5)</style>",
+      "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, hedefin [Burst] değerine göre daha fazla hasar uygular.\nEğer müttefik bir Yedi Birliği İşçözücüsüyse, daha da artan hasar uygular."
     },
     {
       "id": 1010501,
@@ -859,23 +859,23 @@
     },
     {
       "id": 1120721,
-      "name": "Yeni [Breath] Deliği",
-      "desc": "Eğer en çok <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u> olan 1 müttefik bir düşmanı yenersen, sonraki turda 1 Delme DMG Artışı kazan. (Tur başına bir kez)"
+      "name": "Yeni Mermi Deliği",
+      "desc": "Eğer en çok [Breath] olan 1 müttefik, bir düşmanı yenerse sonraki turda 1 Delme DMG Artışı kazan. (Tur başına bir kez)"
     },
     {
       "id": 1040601,
-      "name": "A S.B.",
-      "desc": "Eğer bu birim Tur Sonunda 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u> varsa, 8 SP yenile."
+      "name": "A.M.K",
+      "desc": "Eğer bu birim Tur Sonunda 7+ [Breath] varsa, 8 SP yenile."
     },
     {
       "id": 1040602,
-      "name": "A S.B.",
-      "desc": "<style=\"highlight\">- Her Zaman Aktif : karşılaşmalara 7 Mermi ile başla</style>\n- Eğer bu birim Tur Sonunda 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u> varsa, 8 SP yenile."
+      "name": "A.M.K",
+      "desc": "- Her Zaman Aktif : karşılaşmalara 7 Mermi ile başla\n- Eğer bu birim Tur Sonunda 7+ [Breath] varsa, 8 SP yenile."
     },
     {
       "id": 1040611,
-      "name": "A S.B.",
-      "desc": "- Her Zaman Aktif : karşılaşmalara 7 Mermi ile başla\n- Eğer bu birim Tur Sonunda 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u> varsa, 8 SP yenile.\n<style=\"highlight\">- Eğer bu birim yukarıdaki koşulu karşılarken maksimum SP'ye sahipse, sonraki turda 1 [Breath] kazan</style>"
+      "name": "A.M.K",
+      "desc": "- Her Zaman Aktif : karşılaşmalara 7 Mermi ile başla\n- Eğer bu birim Tur Sonunda 7+ [Breath] varsa, 8 SP yenile.\n- Eğer bu birim yukarıdaki koşulu karşılarken maksimum SP'ye sahipse, sonraki turda 1 [Breath] kazan"
     },
     {
       "id": 1040621,
@@ -954,12 +954,12 @@
     {
       "id": 1110601,
       "name": "Yönlendirme",
-      "desc": "Kaçınma yaparsa, sonraki turda 1 [Çeviklik] kazan (Maksimum 3)"
+      "desc": "Kaçınma yaparsa, sonraki turda 1 [Agility] kazan (Maksimum 3)"
     },
     {
       "id": 1110611,
       "name": "Yönlendirme",
-      "desc": "Kaçınma yaparsa, sonraki turda 1 [Çeviklik] kazan; bu birimin [Vibration] Eşiğini 5 düşür (Maksimum 3)"
+      "desc": "Kaçınma yaparsa, sonraki turda 1 [Agility] kazan; bu birimin [Vibration] Eşiğini 5 düşür (Maksimum 3)"
     },
     {
       "id": 1110621,
@@ -969,7 +969,7 @@
     {
       "id": 1110631,
       "name": "Akıl Hocasının Tavsiyesi",
-      "desc": "Eğer en hızlı müttefiğin Hızı tüm düşmanların Hızından yüksekse, en hızlı müttefik Çarpışma Gücü +1 kazanır.\nEğer söz konusu müttefik bir Cinq Association İşçözücüsüyse, en hızlı müttefik %10 daha fazla Delme Hasarı uygular."
+      "desc": "Eğer en hızlı müttefiğin Hızı tüm düşmanların Hızından yüksekse, en hızlı müttefik Çarpışma Gücü +1 kazanır.\nEğer söz konusu müttefik bir Cinq Birliği İşçözücüsüyse, en hızlı müttefik %10 daha fazla Delme Hasarı uygular."
     },
     {
       "id": 1100801,
@@ -984,7 +984,7 @@
     {
       "id": 1100821,
       "name": "Çok Yavaş",
-      "desc": "En hızlı müttefik, Kaçınma yaparsa sonraki turda 1 [Çeviklik] kazanır (Maksimum 5)"
+      "desc": "En hızlı müttefik, Kaçınma yaparsa sonraki turda 1 [Agility] kazanır (Maksimum 5)"
     },
     {
       "id": 1110701,
@@ -1118,12 +1118,12 @@
     },
     {
       "id": 1030801,
-      "name": "Kolektif [Breath]",
+      "name": "Kolektif Nefes",
       "desc": "Bu birim kendi Yetenek veya Jeton etkileriyle [Breath] Şiddeti kazandığında: [Breath]'i olmayan veya en az [Breath] Şiddetine sahip 1 müttefiğe 1 [Breath] Şiddeti uygular. (maksimum 3 kez)"
     },
     {
       "id": 1030811,
-      "name": "Kolektif [Breath]",
+      "name": "Kolektif Nefes",
       "desc": "Bu birim kendi Yetenek veya Jeton etkileriyle [Breath] Şiddeti kazandığında: [Breath]'i olmayan veya en az [Breath] Şiddetine sahip 1 müttefiğe 1 [Breath] Şiddeti uygular. (maksimum 5 kez)"
     },
     {
@@ -1155,7 +1155,7 @@
   {
   "id": 1090811,
   "name": "Yanan Tutku",
-  "desc": "Hedefteki her 6 [Combustion] Şiddeti için %10 daha fazla hasar ver (Maksimum %30)\nSavaş Başlangıcı: Tüm düşmanlarda 6+ [Combustion] Şiddeti varsa, (en yüksek Öfke A-Rezonansı olan) müttefiklere konuşlandırma sırasına göre 1 [CrimsonDamageUp] uygula\n- Odaklı Karşılaşmalarda, yukarıdaki etki tüm düşman Parçalarında 6+ [Combustion] olduğunda aktif olur\n- Müttefik bir Liu Association Fixer ise, 1 Saldırı Gücü Artışı uygula",
+  "desc": "Hedefteki her 6 [Combustion] Şiddeti için %10 daha fazla hasar ver (Maksimum %30)\nSavaş Başlangıcı: Tüm düşmanlarda 6+ [Combustion] Şiddeti varsa, (en yüksek Öfke A-Rezonansı olan) müttefiklere konuşlandırma sırasına göre 1 [CrimsonDamageUp] uygula\n- Odaklı Karşılaşmalarda, yukarıdaki etki tüm düşman Parçalarında 6+ [Combustion] olduğunda aktif olur\n- Müttefik bir Liu Birliği Fixer ise, 1 Saldırı Gücü Artışı uygula",
   "summary": "Hedefteki her 6 [Combustion] Şiddeti için %10 daha fazla hasar ver (Maksimum %30)\nBelirli Yanma ve Öfke A-Rezonans koşullarında, müttefiklere buff uygula"
   },
   {
@@ -1642,13 +1642,13 @@
   {
     "id": 1011011,
     "name": "Ateş.EvetAteşEdeceğim.",
-    "desc": "Saldırı Sonrası: Eğer bu birim hedefi öldürerek becerisini kullandıysa, [ReloadLament] uygula\nBu birim [BulletLament] kazandığında, bir sonraki turda 2 [Agility] kazanır (her turda bir kez)",
+    "desc": "Saldırı Sonrası: Eğer bu birim hedefi öldürerek Yeteneğini kullandıysa, [ReloadLament] uygula\nBu birim [BulletLament] kazandığında, bir sonraki turda 2 [Agility] kazanır (her turda bir kez)",
     "summary": "Bu birim Mermi kazandığında, bir sonraki turda Hız kazanır. Öldürme sonrası Yeniden Yükler."
   },
   {
     "id": 1011021,
     "name": "Kurtuluş Eli",
-    "desc": "Bir müttefik becerisini başarıyla kullandığında, hedefteki 2 [Sinking]i tüketerek 1 [SinkingWhite] uygula (her turda 3 kez)",
+    "desc": "Bir müttefik Yeteneğini başarıyla kullandığında, hedefteki 2 [Sinking]i tüketerek 1 [SinkingWhite] uygula (her turda 3 kez)",
     "summary": "Hedefin Sinking değerini Kelebek'e dönüştür"
   },
   {
@@ -1672,8 +1672,8 @@
   {
     "id": 1091021,
     "name": "Mükemmel Kurye",
-    "desc": "En hızlı Hıza sahip 1 müttefike: [Burst] Potansiyeli veya Sayısı uygulayan Beceriler için Clash Power +1 uygula",
-    "summary": "[Burst] Potansiyeli veya Sayısı uygulayan Beceriler için Clash Power +1 uygula"
+    "desc": "En hızlı Hıza sahip 1 müttefike: [Burst] Potansiyeli veya Sayısı uygulayan Yetenekler için Clash Power +1 uygula",
+    "summary": "[Burst] Potansiyeli veya Sayısı uygulayan Yetenekler için Clash Power +1 uygula"
   },
   {
     "id": 1081001,
@@ -1704,14 +1704,14 @@
   {
     "id": 1051101,
     "name": "Canlı Yayın",
-    "desc": "Tur Sonunda: Bu birimin kendisinde bulunan her 3 [Breath] Potansiyeli için 1 [Agility] kazan (maksimum 2)\nTemel Saldırı Becerisiyle Vuruş Yapıldığında: bir sonraki turda [ConcentratedAttackMeursault] uygula. (her beceri başına bir kez)",
-    "summary": "Tur Sonu: Bu birimdeki [Breath] Sayısına bağlı olarak [Agility] kazan. Temel Beceride vuruş yapıldığında, bir sonraki turda [ConcentratedAttackMeursault] uygula"
+    "desc": "Tur Sonunda: Bu birimin kendisinde bulunan her 3 [Breath] Potansiyeli için 1 [Agility] kazan (maksimum 2)\nTemel Saldırı Yeteneğiyle Vuruş Yapıldığında: bir sonraki turda [ConcentratedAttackMeursault] uygula. (her Yetenek başına bir kez)",
+    "summary": "Tur Sonu: Bu birimdeki [Breath] Sayısına bağlı olarak [Agility] kazan. Temel Yetenek ile bir vuruş yapıldığında, bir sonraki turda [ConcentratedAttackMeursault] uygula"
   },
    {
   "id": 1051111,
   "name": "Düello Canlı Yayını",
-  "desc": "Tur Sonunda: Üzerindeki her 3 [Breath] Gücü için sonraki tur 1 [Agility] kendine uygulanır (maksimum 2)\nTemel Saldırı Becerileriyle İsabet Alındığında: sonraki tur için [ConcentratedAttackMeursault] uygular (her Beceri için bir kez)\n<style=\"highlight\">Bu birlik [ConcentratedAttackMeursault] olan Yuva'yı hedef alıp sahibini mağlup ettiyse veya Parçayı kırdıysa, 7 SP iyileşir</style>",
-  "summary": "Tur Sonu: üzerindeki [Breath] miktarına göre [Agility] kendine uygulanır. Temel Beceriyle isabet ettirince, sonraki tur için [ConcentratedAttackMeursault] uygular. Öldürünce SP iyileştirir"
+  "desc": "Tur Sonunda: Üzerindeki her 3 [Breath] Gücü için sonraki tur 1 [Agility] kendine uygulanır (maksimum 2)\nTemel Saldırı Yetenekleriyle İsabet Alındığında: sonraki tur için [ConcentratedAttackMeursault] uygular (her Yetenek için bir kez)\n<style=\"highlight\">Bu birlik [ConcentratedAttackMeursault] olan Yuva'yı hedef alıp sahibini mağlup ettiyse veya Parçayı kırdıysa, 7 SP iyileşir</style>",
+  "summary": "Tur Sonu: üzerindeki [Breath] miktarına göre [Agility] kendine uygulanır. Temel Yetenekleri ile isabet ettirince, sonraki tur için [ConcentratedAttackMeursault] uygular. Öldürünce SP iyileştirir"
 },
 {
   "id": 1051121,
@@ -1722,13 +1722,13 @@
 {
   "id": 1061001,
   "name": "Neşeyle Avlanma Yolları",
-  "desc": "Hedef bir <Kan Hınzırı> ya da <Kan Torbası> ise %10 daha fazla hasar verilir\nBeceri Kullanımında, bu birlik [Laceration] taşıyorsa, İsabet Aldığında 3 [Burst] uygular (tur başına bir kez)",
+  "desc": "Hedef bir <Kan Hınzırı> ya da <Kan Torbası> ise %10 daha fazla hasar verilir\nYetenek Kullanımında, bu birlik [Laceration] taşıyorsa, İsabet Aldığında 3 [Burst] uygular (tur başına bir kez)",
   "summary": ""
 },
 {
   "id": 1061011,
   "name": "Neşeyle Avlanma Yolları",
-  "desc": "Hedef bir <Kan Hızır>, <Kan Torbası> ya da üzerinde 10+ [Burst] varsa, %10 daha fazla hasar verilir\nBeceri Kullanımında, bu birlik [Laceration] taşıyorsa, İsabet Aldığında 3 [Burst] uygular (tur başına 2 kez)",
+  "desc": "Hedef bir <Kan Hızır>, <Kan Torbası> ya da üzerinde 10+ [Burst] varsa, %10 daha fazla hasar verilir\nYetenek Kullanımında, bu birlik [Laceration] taşıyorsa, İsabet Aldığında 3 [Burst] uygular (tur başına 2 kez)",
   "summary": ""
 },
 {
@@ -1758,7 +1758,7 @@
 {
   "id": 1111121,
   "name": "Don Quixote Sertkan Sanatları 8: Makas",
-  "desc": "Hızı en yüksek olan 1 müttefik: Düşman Saldırı Sonrası ölürse, 10 Can iyileştirilir (tur başına 2 kez)\nHızı en yüksek olan 1 müttefik: Düşman Saldırı Sonrası ölürse, bir sonraki turda Beceri veya Tura etkileriyle [Laceration] Şiddeti uygulanırken +1 [Laceration] miktarı uygulanır (tur başına 3 kez)",
+  "desc": "Hızı en yüksek olan 1 müttefik: Düşman Saldırı Sonrası ölürse, 10 Can iyileştirilir (tur başına 2 kez)\nHızı en yüksek olan 1 müttefik: Düşman Saldırı Sonrası ölürse, bir sonraki turda Yetenek veya Tura etkileriyle [Laceration] Şiddeti uygulanırken +1 [Laceration] miktarı uygulanır (tur başına 3 kez)",
   "summary": "Düşman Saldırı Sonrası ölürse, Can iyileştirilir"
 },
 {
@@ -1794,7 +1794,7 @@
 {
   "id": 1091101,
   "name": "Sertkan Diken",
-  "desc": "Başka bir müttefik [Laceration] Hasarı aldığında veya [BloodDinner] tükettiğinde, 1 [BloomingThornsRodionFirst] kazanılır (tur başına 3 kez)\nTemel Becerilerle verilen Hasarın %20’si kadar Can kendine iyileştirilir (Beceri başına maksimum 10)",
+  "desc": "Başka bir müttefik [Laceration] Hasarı aldığında veya [BloodDinner] tükettiğinde, 1 [BloomingThornsRodionFirst] kazanılır (tur başına 3 kez)\nTemel Yetenekler ile verilen Hasarın %20’si kadar Can kendine iyileştirilir (Yetenek başına maksimum 10)",
   "summary": ""
 },
 {
@@ -1806,7 +1806,7 @@
 {
   "id": 1091111,
   "name": "Sertkan Diken",
-  "desc": "Başka bir müttefik [Laceration] Hasarı aldığında veya [BloodDinner] tükettiğinde, bu birlik 1 [BloomingThornsRodionFirst] kazanır (tur başına 5 kez)\nTemel Becerilerle verilen Hasarın %20’si kadar Can kendine iyileştirilir (Beceri başına maksimum 10)\n- Maksimum Can'dayken, fazladan iyileştirme ile Can yüzdesi en düşük olan 1 müttefik iyileştirilir",
+  "desc": "Başka bir müttefik [Laceration] Hasarı aldığında veya [BloodDinner] tükettiğinde, bu birlik 1 [BloomingThornsRodionFirst] kazanır (tur başına 5 kez)\nTemel Yetenekler ile verilen Hasarın %20’si kadar Can kendine iyileştirilir (Yetenek başına maksimum 10)\n- Maksimum Can'dayken, fazladan iyileştirme ile Can yüzdesi en düşük olan 1 müttefik iyileştirilir",
   "summary": ""
 },
 {
@@ -1846,12 +1846,12 @@
 {
   "id": 1031002,
   "name": "Variant Sancho Hardblood Sanatları",
-  "desc": "Tur Başlangıcı: 15+ [BloodArmorPersonalityFirst] varsa ve aşağıdaki her bir birim ya yenilmişse ya da karşılaşmaya katılıyorsa, bu birimin en soldaki Yuvası güçlendirilir.\nLa Manchaland[TabExplain] Rahibi Gregor: Beceri 1 güçlendirilir\nLa Manchaland[TabExplain] Berberi Outis: Beceri 2 güçlendirilir\nBu Birim: Beceri 3 güçlendirilir\nLa Manchaland[TabExplain] Prensesi Rodion: Savunma Becerisi[TabExplain] güçlendirilir\n\nMüttefik birimler [Laceration] hasarı aldığında veya [BloodDinner] tükettiğinde, bu birim 2 [BloodArmorPersonalityFirst] kazanır (tur başına 3 kez)"
+  "desc": "Tur Başlangıcı: 15+ [BloodArmorPersonalityFirst] varsa ve aşağıdaki her bir birim ya yenilmişse ya da karşılaşmaya katılıyorsa, bu birimin en soldaki Yuvası güçlendirilir.\nLa Manchaland[TabExplain] Rahibi Gregor: Yetenek 1 güçlendirilir\nLa Manchaland[TabExplain] Berberi Outis: Yetenek 2 güçlendirilir\nBu Birim: Yetenek 3 güçlendirilir\nLa Manchaland[TabExplain] Prensesi Rodion: Savunma Yeteneği[TabExplain] güçlendirilir\n\nMüttefik birimler [Laceration] hasarı aldığında veya [BloodDinner] tükettiğinde, bu birim 2 [BloodArmorPersonalityFirst] kazanır (tur başına 3 kez)"
 },
 {
   "id": 1031003,
   "name": "Kan Akrabalarının Taşıyıcısı",
-  "desc": "Bir karşılaşmada, başka bir <La Manchaland[TabExplain]> müttefik birim yenilirse:\n- Bu birimin Temel Saldırı Becerileriyle [BloodArmorPersonalityFirst] kazanırken 1 fazladan kazanılır\n- 3 veya daha fazla başka <La Manchaland[TabExplain]> müttefik birim yenilirse: 3 ek [BloodArmorPersonalityFirst] kazanılır; Tur Başlangıcında 1 [SadLamanchaland] kazanılır"
+  "desc": "Bir karşılaşmada, başka bir <La Manchaland[TabExplain]> müttefik birim yenilirse:\n- Bu birimin Temel Saldırı Yetenekleriyle [BloodArmorPersonalityFirst] kazanırken 1 fazladan kazanılır\n- 3 veya daha fazla başka <La Manchaland[TabExplain]> müttefik birim yenilirse: 3 ek [BloodArmorPersonalityFirst] kazanılır; Tur Başlangıcında 1 [SadLamanchaland] kazanılır"
 },
 {
   "id": 1031004,
@@ -1871,17 +1871,17 @@
 {
   "id": 1061102,
   "name": "Taktik Ateş Desteği",
-  "desc": "Full-Stop Ofisi İşçözücüsü Heathcliff [Retreat_FullStop] durumundaysa ya da Yedek birim olarak konuşlandırılmışsa, Full-Stop Ofisi Temsilcisi Hong Lu’nun Beceri 2 ve Beceri 3’ü güçlendirilir"
+  "desc": "Full-Stop Ofisi İşçözücüsü Heathcliff [Retreat_FullStop] durumundaysa ya da Yedek birim olarak konuşlandırılmışsa, Full-Stop Ofisi Temsilcisi Hong Lu’nun Yetenek 2 ve Yetenek 3’ü güçlendirilir"
 },
 {
   "id": 1061111,
   "name": "Taktik Ateş Desteği",
-  "desc": "Full-Stop Ofisi İşçözücüsü Heathcliff [Retreat_FullStop] durumundaysa ya da Yedek birim olarak konuşlandırılmışsa, Full-Stop Ofisi Temsilcisi Hong Lu’nun Beceri 2 ve Beceri 3’ü güçlendirilir\n\nSavaş Başlangıcı: 20+ [Breath] Kuvveti varsa, +1 [Breath] miktarı kazanılır"
+  "desc": "Full-Stop Ofisi İşçözücüsü Heathcliff [Retreat_FullStop] durumundaysa ya da Yedek birim olarak konuşlandırılmışsa, Full-Stop Ofisi Temsilcisi Hong Lu’nun Yetenek 2 ve Yetenek 3’ü güçlendirilir\n\nSavaş Başlangıcı: 20+ [Breath] Kuvveti varsa, +1 [Breath] miktarı kazanılır"
 },
 {
   "id": 1061121,
   "name": "Bastırıcı Ateş",
-  "desc": "En fazla [Bullet] sayısına sahip müttefik Kişilik, [Bullet] tüketen Becerilerle %10 daha fazla hasar verir\n([Bullet] yokken tetiklenmez)"
+  "desc": "En fazla [Bullet] sayısına sahip müttefik Kişilik, [Bullet] tüketen Yetenekler ile %10 daha fazla hasar verir\n([Bullet] yokken tetiklenmez)"
 },
 {
   "id": 1071101,
@@ -1891,7 +1891,7 @@
 {
   "id": 1071102,
   "name": "Keskin Hedefleme",
-  "desc": "Tur Sonu: Bu birimin üzerinde her 10 [Breath] için sonraki turda 1 [Agility] kazanılır (maksimum 2)\n\nTur Sonu: Bu birim hiçbir Saldırı Becerisi (E.G.O Becerileri dahil, [CoveringFire] hariç) kullanmayacaksa, 10 [Breath] ve 1 [PenetrateResultUp] kazanılır"
+  "desc": "Tur Sonu: Bu birimin üzerinde her 10 [Breath] için sonraki turda 1 [Agility] kazanılır (maksimum 2)\n\nTur Sonu: Bu birim hiçbir Saldırı Yeteneği (E.G.O Yetenekleri dahil, [CoveringFire] hariç) kullanmayacaksa, 10 [Breath] ve 1 [PenetrateResultUp] kazanılır"
 },
 {
   "id": 1071103,
@@ -1901,12 +1901,12 @@
 {
   "id": 1071111,
   "name": "Keskin Hedefleme",
-  "desc": "Tur Sonu: Bu birimin üzerinde her 10 [Breath] için sonraki turda 1 [Agility] kazanılır (maksimum 2)\n\n<style=\"highlight\">Savaş Başlangıcı: Bu birim herhangi bir Saldırı Becerisi (E.G.O dahil) kullanmayacaksa, en az Denge Kuvvetine sahip 1 müttefike 3 [Breath] uygulanır</style>\n\nTur Sonu: Bu birim herhangi bir Saldırı Becerisi kullanmadıysa (E.G.O dahil, [CoveringFire] hariç), 10 [Breath] ve 1 [PenetrateResultUp] kazanılır"
+  "desc": "Tur Sonu: Bu birimin üzerinde her 10 [Breath] için sonraki turda 1 [Agility] kazanılır (maksimum 2)\n\n<style=\"highlight\">Savaş Başlangıcı: Bu birim herhangi bir Saldırı Yeteneği (E.G.O dahil) kullanmayacaksa, en az Denge Kuvvetine sahip 1 müttefike 3 [Breath] uygulanır</style>\n\nTur Sonu: Bu birim herhangi bir Saldırı Yeteneği kullanmadıysa (E.G.O dahil, [CoveringFire] hariç), 10 [Breath] ve 1 [PenetrateResultUp] kazanılır"
 },
 {
   "id": 1071121,
   "name": "Gözcü",
-  "desc": "En az [Bullet] sayısına sahip 1 müttefik, [Bullet] tüketen bir Beceri kullandığında +2 [Breath] miktarı kazanır.\n- Eğer söz konusu müttefik bir Full-Stop Ofisi Kişiliği ise ya da [Breath] miktarı 5'in altındaysa, bunun yerine +4 [Breath] miktarı kazanılır (tur başına bir kez; [Bullet] olmayan birimler için geçerli değildir)"
+  "desc": "En az [Bullet] sayısına sahip 1 müttefik, [Bullet] tüketen bir Yetenek kullandığında +2 [Breath] miktarı kazanır.\n- Eğer söz konusu müttefik bir Full-Stop Ofisi Kişiliği ise ya da [Breath] miktarı 5'in altındaysa, bunun yerine +4 [Breath] miktarı kazanılır (tur başına bir kez; [Bullet] olmayan birimler için geçerli değildir)"
 },
 {
   "id": 1011101,
@@ -2016,12 +2016,12 @@
     {
   "id": 1031101,
   "name": "Yeşilimsi Piroyeşim",
-  "desc": "Tur Sonu: Üzerinde her 5 [Breath] Kudreti için bir sonraki tur 1 [Agility] kendine uygulanır (maksimum 2)\n\nBir Temel Saldırı Becerisinin son vurduğu hedefe (ya da Parçaya) bir sonraki tur [DianxueDonQuixote] uygulanır (tur başına bir kez)\n\nKritik Vuruşta, hedefteki [Combustion] Kudreti kadar (%) fazladan hasar verilir (maksimum %15)"
+  "desc": "Tur Sonu: Üzerinde her 5 [Breath] Kudreti için bir sonraki tur 1 [Agility] kendine uygulanır (maksimum 2)\n\nBir Temel Saldırı Yeteneğinin son vurduğu hedefe (ya da Parçaya) bir sonraki tur [DianxueDonQuixote] uygulanır (tur başına bir kez)\n\nKritik Vuruşta, hedefteki [Combustion] Kudreti kadar (%) fazladan hasar verilir (maksimum %15)"
 },
 {
   "id": 1031111,
   "name": "Yeşilimsi Piroyeşim",
-  "desc": "Tur Sonu: Üzerinde her <style=\"highlight\">3</style> [Breath] Kudreti için bir sonraki tur 1 [Agility] kendine uygulanır (maksimum 2)\n\nBir Temel Saldırı Becerisinin son vurduğu hedefe (ya da Parçaya) bir sonraki tur [DianxueDonQuixote] uygulanır (tur başına bir kez)\n\nKritik Vuruşta, hedefteki [Combustion] Kudreti kadar (%) fazladan hasar verilir (maksimum %15)\n<style=\"highlight\">- Hedefteki her 1 [DianxueDonQuixote] için bu maksimum değer %5 artar</style>"
+  "desc": "Tur Sonu: Üzerinde her <style=\"highlight\">3</style> [Breath] Kudreti için bir sonraki tur 1 [Agility] kendine uygulanır (maksimum 2)\n\nBir Temel Saldırı Yeteneğinin son vurduğu hedefe (ya da Parçaya) bir sonraki tur [DianxueDonQuixote] uygulanır (tur başına bir kez)\n\nKritik Vuruşta, hedefteki [Combustion] Kudreti kadar (%) fazladan hasar verilir (maksimum %15)\n<style=\"highlight\">- Hedefteki her 1 [DianxueDonQuixote] için bu maksimum değer %5 artar</style>"
 },
 {
   "id": 1031121,
@@ -2055,18 +2055,18 @@
 },
 {
   "id": 1111221,
-  "name": "Tavşanlardan Geriye Kalan",
+  "name": "Sürüden Geriye Kalanlar",
   "desc": "En hızlı 1 müttefik: [Burst] taşıyan hedeflere saldırırken %10 daha fazla hasar verilir\nBir sonraki tur için 1 [Agility] kendine uygulanır (tur başına bir kez)"
 },
 {
   "id": 1101201,
   "name": "Orta Unutmaz",
-  "desc": "Bir düşman bu birime vurduğunda, saldıran hedefe (ya da Parçaya) 3 [VendettaMark] uygulanır (tur başına bir kez)\n\nBaşka bir müttefik bir düşmandan darbe aldığında, saldıran hedefe (ya da Parçaya) 2 [VendettaMark] uygulanır (Kişilik başına turda bir kez)\n\nTemel Saldırı Becerileri veya Karşı Becerilerle saldırdıktan sonra, hedefteki tüm [VendettaMark] tüketilir\n- Hedefteki her bir [VendettaMark] tüketildiğinde, aynı miktarda [VengeanceBookSinclair] kendine uygulanır"
+  "desc": "Bir düşman bu birime vurduğunda, saldıran hedefe (ya da Parçaya) 3 [VendettaMark] uygulanır (tur başına bir kez)\n\nBaşka bir müttefik bir düşmandan darbe aldığında, saldıran hedefe (ya da Parçaya) 2 [VendettaMark] uygulanır (Kişilik başına turda bir kez)\n\nTemel Saldırı Yetenekleri veya Karşı Yetenekler ile saldırdıktan sonra, hedefteki tüm [VendettaMark] tüketilir\n- Hedefteki her bir [VendettaMark] tüketildiğinde, aynı miktarda [VengeanceBookSinclair] kendine uygulanır"
 },
 {
   "id": 1101211,
   "name": "Orta Unutmaz",
-  "desc": "Bir düşman bu birime vurduğunda, saldıran hedefe (ya da Parçaya) <style=\"highlight\">5</style> [VendettaMark] uygulanır (tur başına bir kez)\n\nBaşka bir müttefik bir düşmandan darbe aldığında, saldıran hedefe (ya da Parçaya) 2 [VendettaMark] uygulanır (Kişilik başına turda bir kez)\n<style=\"highlight\">- Eğer bu müttefik 'Orta'dansa, fazladan 3 [VendettaMark] daha uygulanır</style>\n\nTemel Saldırı Becerileri veya Karşı Becerilerle saldırdıktan sonra, hedefteki tüm [VendettaMark] tüketilir\n- Hedefteki her bir [VendettaMark] tüketildiğinde, aynı miktarda [VengeanceBookSinclair] kendine uygulanır"
+  "desc": "Bir düşman bu birime vurduğunda, saldıran hedefe (ya da Parçaya) <style=\"highlight\">5</style> [VendettaMark] uygulanır (tur başına bir kez)\n\nBaşka bir müttefik bir düşmandan darbe aldığında, saldıran hedefe (ya da Parçaya) 2 [VendettaMark] uygulanır (Kişilik başına turda bir kez)\n<style=\"highlight\">- Eğer bu müttefik 'Orta'dansa, fazladan 3 [VendettaMark] daha uygulanır</style>\n\nTemel Saldırı Yetenekleri veya Karşı Yetenekler ile saldırdıktan sonra, hedefteki tüm [VendettaMark] tüketilir\n- Hedefteki her bir [VendettaMark] tüketildiğinde, aynı miktarda [VengeanceBookSinclair] kendine uygulanır"
 },
 {
   "id": 1101221,
