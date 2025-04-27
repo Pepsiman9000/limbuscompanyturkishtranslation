@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Backstreets of District 10",
+      "place": "10. Eyalet Arka Sokakları",
       "model": "히스클리프",
       "content": "Dammit, they just won’t stop coming!"
     },
@@ -24,7 +24,7 @@
     {
       "id": 4,
       "model": "뫼르소",
-      "content": "The solution is simple: Any organization can be brought down by deposing its leader; with the head gone, the meat supporting it will break apart."
+      "content": "Çözüm basit: Herhangibi bir organizasyon liderini kaybetiğinde çökmeye mahkumdur; yılanın başı küçüken ezilirse, su içmeye gerek kalmaz ."
     },
     {
       "id": 5,
@@ -39,26 +39,26 @@
     {
       "id": 7,
       "model": "돈키호테",
-      "content": "Hence, onward we travail!"
+      "content": "Binaenaleyh, Tan Yeri Ağardı!"
     },
     {
       "id": 8,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "Wait! Come back here!"
+      "title": "LŞTÖ",
+      "content": "Hayır! Arızlaşma!"
     },
     {
       "id": 9,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "…This is the crowd you’re supposed to accompany, Faust?"
+      "title": "LŞTÖ",
+      "content": "…Senin görev takımın bunlar mı, Faust?"
     },
     {
       "id": 10,
       "model": "파우스트",
-      "content": "Life is full of mysteries."
+      "content": "Hayat benim için bile süprizlerle dolu."
     },
     {
       "id": 11,
@@ -72,17 +72,17 @@
     },
     {
       "id": 13,
-      "content": "Heathcliff grabbed a mook by the collar and shook it about violently. To me, it looked as if anything still conscious had left already."
+      "content": "Heathcliff çete üyesini fütursuzca sarstı. Hatta öyleki, bence adamın son kalan hayat beriltilerini de sökmüştü ama…."
     },
     {
       "id": 14,
-      "content": "…And maybe even more than that."
+      "content": "…Hatta belki daha fazlasını."
     },
     {
       "id": 15,
       "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
+      "teller": "Göğüs Kabartan Üye",
+      "title": "Tingtang Çetesi",
       "content": "The sea heart… is gonna be at the car pagoda…"
     },
     {
@@ -94,21 +94,21 @@
       "id": 17,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "It’s probably the scrapyard nearby."
     },
     {
       "id": 18,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Really though, are you actually planning to take down the gang’s boss?"
     },
     {
       "id": 19,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "That won’t be reflected in your employee performance review or anything, you know?"
     },
     {
@@ -125,51 +125,51 @@
       "id": 22,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "No… I do think that makes sense."
     },
     {
       "id": 23,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "Nothing to worry about, Effie. We always keep a Plan B, don’t we?"
+      "title": "LŞTÖ",
+      "content": "Sıkıntı yok değil mi, Effie? Sounçta her zaman B planımız hazırdır, değil mi?"
     },
     {
       "id": 24,
-      "content": "Saude spoke with a serene face."
+      "content": "Saude içi rahat bir ifadeyle konuşmuştu."
     },
     {
       "id": 25,
-      "content": "However, I could see her consciously trying to maintain calm from time to time, giving me reason to suspect that she’s putting on a veil of kindness."
+      "content": "Fakat, sakin kalmak için kendini sürekli zorladığını görebiliyordum, tahminimce bunu bir zırh olarak kullanıyordu."
     },
     {
       "id": 26,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "If disguising as your given roles is out of the question…"
+      "title": "LŞTÖ",
+      "content": "Rollere bürünmemiz artık imkanlar dahilinde değilse…"
     },
     {
       "id": 27,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "You can all get up as members of the Tingtang Gang instead."
+      "title": "LŞTÖ",
+      "content": "O zaman hepimiz TingTang Çetesi gibi giyine bilirisiniz."
     },
     {
       "id": 28,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "That way, you won’t arouse much suspicion moving in a large group, and you’ll be able to reach the top floor without much trouble."
+      "title": "LŞTÖ",
+      "content": "Böylelikle, takımlara ayırılmamıza gerek kalmaz ve çok şüphe uyandırmadan en üst kata ulaşabilirsiniz."
     },
     {
       "id": 29,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "And we could siphon some wishpower from the Tingtang Gang while we’re at it."
+      "title": "LŞTÖ",
+      "content": "Hatta, üstelik TingTang Çetesinden şans bile çalabiliriz"
     }
   ]
 }
