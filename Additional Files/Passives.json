@@ -642,7 +642,7 @@
     },
     {
       "id": 1050601,
-      "name": "rrR-#4 Kıyafet Basınçlandırmasını Etkinleştir",
+      "name": "rrR-#4 Kıyafet Basınçlandırması",
       "desc": "Tur sonunda, sonraki turda her 5 [Charge] Miktarı için Max Hız +2 kazan. (6'ya kadar sınırlı)"
     },
     {
@@ -652,7 +652,7 @@
     },
     {
       "id": 1090601,
-      "name": "Savunma [Breath]i",
+      "name": "Savunma Nefesi",
       "desc": "Savaş aşamasının başlangıcında, her 1 [Breath] Miktarı için 2 Kalkan kazan. (Maksimum 20)"
     },
     {
@@ -744,7 +744,7 @@
     {
       "id": 1070611,
       "name": "İçgüdüsel Okuma",
-      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\n<style=\"highlight\">Eğer bu birim dahil 4 veya daha fazla hayatta kalan birim Yedi Birliği İşçözücüleriyse, ek olarak +1 daha fazla Parçalanma</style>",
+      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\nEğer bu birim dahil 4 veya daha fazla hayatta kalan birim Yedi Birliği İşçözücüleriyse, ek olarak +1 daha fazla [Burst] uygular",
       "summary": "Bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular.\n4 veya daha fazla Yedi Birliği İşçözücü müttefik varsa, ek olarak +1 daha fazla [Burst] uygular."
     },
     {
