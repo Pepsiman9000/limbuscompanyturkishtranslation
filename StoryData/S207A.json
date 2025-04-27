@@ -4,74 +4,74 @@
       "id": 0,
       "place": "Casino Entrance",
       "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "Ya… tarned little roaches…"
+      "teller": "Tingtang Çete Lideri",
+      "title": "Tingtang Çetesi",
+      "content": "Sizi... Kokuşuk hamamböcekleri…"
     },
     {
       "id": 1,
       "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "Who the hell do ya work for…? ‘S about time… ya told us…"
+      "teller": "Tingtang Çete Lideri",
+      "title": "Tingtang Çetesi",
+      "content": "Kim için çalışıyorsunuz lan…? Anlatma vaktiniz geldi de geçiyor…"
     },
     {
       "id": 2,
       "model": "그레고르",
-      "content": "We…"
+      "content": "Biz…"
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "…are from Limbus Company."
+      "content": "…Limbus Şirketi'ndeniz."
     },
     {
       "id": 4,
       "model": "그레고르",
-      "content": "Finally. One less millstone ‘round the neck."
+      "content": "Sonunda lan. Bir düğümü daha çözdük."
     },
     {
       "id": 5,
       "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "That…doesn’t…help at all…!"
+      "teller": "Tingtang Çete Lideri",
+      "title": "Tingtang Çetesi",
+      "content": "Bu…bize hiç…yardımcı olmuyor ama…!"
     },
     {
       "id": 6,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "Oh, and for reference, Effie and I work in a different department. Please don’t associate us with them."
+      "title": "LSŞÖ",
+      "content": "Oh, demeden geçmeyeyim, Effie ve ben farklı bir kuruluşta görevliyiz. Onları bizimle aynı kefeye koymayın lütfen."
     },
     {
       "id": 7,
       "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
+      "teller": "Tingtang Çete Lideri",
+      "title": "Tingtang Çetesi",
       "content": "……"
     },
     {
       "id": 8,
-      "content": "The sheer frustration over our aversion to conversing sensibly must’ve played a considerable role in causing the boss to pass out."
+      "content": "Mantık çerçevesinde bir iletişim yürütmeye olan odağımız, muhtemelen çete liderinin bayılmasında büyük katkı sağlamıştı."
     },
     {
       "id": 9,
-      "content": "My condolences to the poor fellow’s patience."
+      "content": "Zavallı dostumuzun sabrı için baş sağlığı diliyorum."
     },
     {
       "id": 10,
       "model": "로쟈",
-      "content": "Do we seriously have to wear these, though? Stuff reeks of sweat and blood and… smells grody, too."
+      "content": "Bunları gerçekten de giymemiz mi lazım ya? Kan ter içinde kalmışlar… İğrenç de kokuyorlar hatta."
     },
     {
       "id": 11,
-      "content": "Rodya complained, lifting the shirt she took from a Tingtang member with two fingers like she was handling trash."
+      "content": "Rodya pek bir şikayetçiydi, elinde ise, bir Tingtang üyesinden aldığı kıyafeti çöp misali sallıyordu."
     },
     {
       "id": 12,
       "model": "로쟈",
-      "content": "Yuck, some hair, too… This is the first time I’m jealous of Dante’s missing eyes."
+      "content": "Öh, saç teli de çıktı… Dante'nin olmayan gözlerini ilk defa kıskanıyorum."
     },
     {
       "id": 13,
@@ -82,20 +82,20 @@
       "id": 14,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "This looks… pretty dandy, actually? I guess their business was more successful than I thought."
+      "title": "LSŞÖ",
+      "content": "Aslında bu… pek hoş görünüyor? Gel gör ki muhtemelen işleri düşündüğümüzden daha başarılı geçiyordu."
     },
     {
       "id": 15,
       "model": "료슈",
-      "content": "I want that. Bagsy."
+      "content": "İstiyorum. Versene onu."
     },
     {
       "id": 16,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "I-I can’t, it’s been tailor-made."
+      "title": "LSŞÖ",
+      "content": "V-veremem, el ile dikilmiş."
     },
     {
       "id": 17,
@@ -104,67 +104,67 @@
     },
     {
       "id": 18,
-      "content": "Noticing that my gaze was fixed on the label of his clothing, Effie barked."
+      "content": "Bakışlarımın kıyafetin üzerindeki ambleme kaydığını gören Effie, bir anda kuduruvermişti."
     },
     {
       "id": 19,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "Grr… W-We wouldn’t be doing any of this if you hadn’t caused that ruckus in the pawnshop."
+      "title": "LSŞÖ",
+      "content": "Grr… Rehinecide o kadar kargaşa çıkartmasanız, şu an bu duruma düşmüyor olurduk."
     },
     {
       "id": 20,
       "model": "홍루",
-      "content": "I don’t mind. I’ve always wanted to try on clothes like these. It’s like we’re filming a movie."
+      "content": "Bana sorun değil. Hep böyle kıyafetler giymeyi dilemiştim. Bir film çekiyoruz sanki."
     },
     {
       "id": 21,
       "model": "이스마엘",
-      "content": "To be honest, I’m a little nervous. It’s been a while since I’ve worked in disguise."
+      "content": "Dürüst olmam gerekirse, biraz endişeliyim. Böyle bir sahte kılık ile çalışmayalı uzun zaman olmuştu."
     },
     {
       "id": 22,
       "model": "료슈",
-      "content": "I don’t feel like it. This is the coward’s way."
+      "content": "Böyle yapasım yok. Korkakların yolundan gidemem."
     },
     {
       "id": 23,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "Sorry, but can someone please keep her mouth shut?"
+      "title": "LSŞÖ",
+      "content": "Pardon, ama birisi onun çenesini kapatabilir mi?"
     },
     {
       "id": 24,
       "model": "그레고르",
-      "content": "…You’re free to try as long as you’re good with your ribs being cut apart."
+      "content": "…Göğüs kafesinin parçalanmasını dert etmiyorsan sen de deneyebilirsin."
     },
     {
       "id": 25,
-      "content": "Gregor’s softly spoken riposte got the Sinners to crack up."
+      "content": "Gregor'un yumuşak bir ses ile söylediği cevabı, Günahkarları az daha çıldırtacaktı."
     },
     {
       "id": 26,
-      "content": "For a moment, Effie and Saude seemed to wonder how they should take it…"
+      "content": "Bir anlığına, Saude ve Effie bu cevabı nasıl karşılamaları gerektiğini düşündü…"
     },
     {
       "id": 27,
-      "content": "Before deciding that it’s not worth mulling over and moving on. Effie then lifted a small container that appeared to be inlaid with nacre."
+      "content": "Tabii akabinde bunun üzerine durmanın mantıksız olacağını düşünüp, yola devam ettiler. Effie ise içi sedef ile kaplanmış bir konteynırı yerden alıp kaldırmıştı."
     },
     {
       "id": 28,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "…This is a wish canister we seized from the Tingtang Gang’s boss."
+      "title": "LSŞÖ",
+      "content": "…Bu, Tingtang Çete Lideri'nden aldığımız bir Dilek Kutusu."
     },
     {
       "id": 29,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "Manager, here’s a simple role you can play."
+      "title": "LSŞÖ",
+      "content": "Müdür, size de oynamanız için bir rol vereceğim."
     },
     {
       "id": 30,
@@ -175,36 +175,36 @@
       "id": 31,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "I guess we owe you an explanation, judging from your clueless motions."
+      "title": "LSŞÖ",
+      "content": "Tepkine bakacak olursak, sana bir açıklama borçlu olduğumuz aşikar."
     },
     {
       "id": 32,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "The long and short of it is that this thing contains J Corp’s other Singularity. This is a tool that sucks up ‘wishes’ from people and stores them in some form of energy."
+      "title": "LSŞÖ",
+      "content": "İşin aslı, bu kutular J Kuruluşu'nun Tekillik'ini içinde bulunduruyor. Elimizdeki şey, insanların 'dileklerini' emip enerji olarak depolayan bir aygıt."
     },
     {
       "id": 33,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "When the time is right, squeeze that wishpower onto a sheet of paper, and voilà! You get a one-use stick-on tattoo that boosts your luck to high heavens."
+      "title": "LSŞÖ",
+      "content": "Vakti geldiğinde, bu dilek gücünü bir kağıda sık, ve voila! Şansını doruklara çıkartacak, tek kullanımlık bir dövmen var!"
     },
     {
       "id": 34,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "Seems the plan was to try to win the game on the top floor by scraping up others’ luck… Imagine, the boss of some lowly gang was carrying one of these."
+      "title": "LSŞÖ",
+      "content": "Görünüşe bakılırsa plan, en üst kattaki insanların şanslarını söküp zafer elde etmekti… Düşünsene, düşük çetenin birinin lideri bunlardan takıyor."
     },
     {
       "id": 35,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "Manager… Dante, right? I want you to hold on to this when we enter the casino."
+      "title": "LSŞÖ",
+      "content": "Müdür… Dante, değil mi? Kumarhaneye girdiğimizde bunu yanında tutmanı istiyorum."
     },
     {
       "id": 36,
@@ -215,22 +215,22 @@
       "id": 37,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "You don’t look like you’re oozing confidence. We do have reasons for assigning you to this task."
+      "title": "LSŞÖ",
+      "content": "Saatinden özgüven akıyor gibi görünmüyorsun ya zaten. Seni bu göreve atamamız için başka sebeplerimiz var."
     },
     {
       "id": 38,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "First off, a poker face is going to be vital when you’re gambling."
+      "title": "LSŞÖ",
+      "content": "Öncelikle yüz hatların, kumar esnasında çok büyük bir önem arz eder."
     },
     {
       "id": 39,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "No matter how good they are at reading expressions, they won’t be able to tell what emotions to read from a clock."
+      "title": "LSŞÖ",
+      "content": "Mimik okumakta ne kadar iyi olursan ol, bir saatin arkasındaki duyguları hiç bii okuyamayacak."
     },
     {
       "id": 40,
@@ -241,57 +241,57 @@
       "id": 41,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "Second, I trust that they’ve appointed you as manager for a reason."
+      "title": "LSŞÖ",
+      "content": "İkinci olarak, seni boşuna müdür olarak atamadıklarına güveniyorum."
     },
     {
       "id": 42,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "Call it a hunch, but something tells me you’ll be more useful than those Sinners you’re leading."
+      "title": "LSŞÖ",
+      "content": "Belki hatalıyımdır, ama içimdeki bir ses, peşine taktığın Günahkarlar'dan daha yararlı olacağını söylüyor."
     },
     {
       "id": 43,
-      "content": "Come to think of it, he had a point."
+      "content": "Düşününce, bir nevi haklıydı."
     },
     {
       "id": 44,
-      "content": "I was given the title of manager, but never had a chance to be the charismatic leader I’d envisioned; instead of showing respect, my Sinners would constantly berate and threaten me."
+      "content": "Müdür olduğum halde, kafamda kurduğum karizmatik lider olma fırsatını yakalayamıyordum; saygı göstermeyi bırakın, Günahkarlarım bana sürekli tehditler savururdu."
     },
     {
       "id": 45,
-      "content": "The only real role I could afford to play was bringing them back to life."
+      "content": "Onlara karşı olan tek rolüm, hepsini geri diriltmekti."
     },
     {
       "id": 46,
-      "content": "While the Sinners were engaged in fierce battle, all I would do is cower behind them, anxiously praying that their heads and hearts were unscathed."
+      "content": "Günahkarlar zorlu çatışmalarda iken, tek yaptığım şey arkalarında durup, kellelerinin bedenlerine bağlı olması için dua etmekti."
     },
     {
       "id": 47,
-      "content": "With a heavy heart, I nodded to let him know I was ready."
+      "content": "Kalbimde büyük bir acı ile, başımı sallayarak ona hazır olduğumu ilettim."
     },
     {
       "id": 48,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "Alright. Put this on your arm. You’ll become the luckiest person in the City for a short while."
+      "title": "LSŞÖ",
+      "content": "Tamam o halde. Bunu koluna yapıştır. Bir anlığına Şehir'deki en şanslı adam olacaksın."
     },
     {
       "id": 49,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "Now then, you’ll act as Tingtangers, and we’ll be croupiers. Break a leg, everyone."
+      "title": "LSŞÖ",
+      "content": "Şimdi, siz Tingtang'cılar olarak rol yaparken, biz de krupiyer olacağız. Ayaklanın bakalım."
     },
     {
       "id": 50,
-      "content": "Vowing that we’ll see this operation to success no matter what…"
+      "content": "Bu operasyonun ne olursa olsun başarılı olacağına ant içerek…"
     },
     {
       "id": 51,
-      "content": "We opened the door to the casino."
+      "content": "Kumarhanenin kapısını açmıştık."
     }
   ]
 }
