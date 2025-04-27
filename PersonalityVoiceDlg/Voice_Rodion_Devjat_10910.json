@@ -3,47 +3,47 @@
     {
       "id": "get_10910_1",
       "desc": "Identity Acquisition",
-      "dlg": "Phew... Now that's enough rest. Let's keep on keeping on, everyone. And stay toasty~"
+      "dlg": "Fiuv... Yeteri kadar dinlendim. Haydi hepimiz devam etmeye devam edelim. Ve sıcacık kalalım~"
     },
     {
       "id": "lobby_morning_10910_1",
-      "desc": "Morning Greeting",
-      "dlg": "Nngh... It's so cold here, even during midday. I'm worried about freezing to death every time I try to sleep on the road.\nWell, if it does get cold enough to kill me, I guess the trunk will automatically activate its thermal protection function..."
+      "desc": "Günaydınlar",
+      "dlg": "Ihhh... Burasi buz gibi, öğlen olmasına rağmen. Yolda yatmayı denediğim her zaman donup ölmekten korkuyorum.\nYani, beni öldürecek kadar soğuk olursa, iyi bir ihtimal sandık termal koruma moduna geçecek..."
     },
     {
       "id": "lobby_noon_10910_1",
-      "desc": "Afternoon Greeting",
-      "dlg": "Right, let's see... we're at checkpoint 17. Nngh~ Let's lunch here, how 'bout that? Aren'tcha tired of munching on energy bars for three meals straight? Open up, Polu!"
+      "desc": "Tünaydınlar",
+      "dlg": "Evet, bakalim... 17.kontrol noktasındayız. Ihh~ Burada öğle yemeği yiyelim, nasıl fikir sence? Sende 3 öğün sadece enerji barı yemekten yorulmadın mı? Açıl bakalım, Polu!"
     },
     {
       "id": "lobby_night_10910_1",
-      "desc": "Evening Greeting",
-      "dlg": "Better get ready to sleep ASAP when the sun goes down. Remember to flatten the terrain you're about to lie down on, too...\nWanna know what happened when we tried to move through the night because we were running low on time? I almost fell into a crevasse and died."
+      "desc": "iyi Aksamlar",
+      "dlg": "Günes battığı an en kısa sürede uyumalıyım. Remember to flatten the terrain you're about to lie down on, too...\nWanna know what happened when we tried to move through the night because we were running low on time? I almost fell into a crevasse and died."
     },
     {
       "id": "smalltalk_10910_1",
-      "desc": "Chatter #1",
-      "dlg": "Well, I don't do delivery work for fun. I guess there was some sense of purpose at first, but...\nOh! Yeah, I still love seeing all the sights as I move across the City, though."
+      "desc": "Sohbet #1",
+      "dlg": "Yani, Siparis isini eğlencesine yapmıyorum. Sanırım en basinda bir amaç hissiyatı vardı, ama...\nAh! Evet, Sehri gezerken manzaraları görmeye bayılıyorum, ama."
     },
     {
       "id": "smalltalk_10910_2",
-      "desc": "Chatter #2",
-      "dlg": "You can fit pretty much anything into these trunks~ If they fit the maximum capacity, of course... Still, it's a pretty big plus that the weight doesn't change no matter what you stuff into 'em! <color=#9eada4><size=60%><i>[WARNING. Unauthorized storage of non-designated delivery items is—]</i></size></color> Ehehe, shush, Polu!"
+      "desc": "Sohbet #2",
+      "dlg": "Bu sandıklara basitçe herhangi birseyi sığdırabilirsin~ Maksimum kapasiteye sığarlarsa, tabiikide... Yine de, ne koysanda agirligin degismemesi buyuk bir avantaj! <color=#9eada4><size=60%><i>[DIKKAT. Unauthorized storage of non-designated delivery items is—]</i></size></color> Ehehe, sessiz, Polu!"
     },
     {
       "id": "smalltalk_10910_3",
-      "desc": "Chatter #3",
-      "dlg": "Ah... what, this trunk? Nah, we don't get personalized trunks. Hmm~ how many people's hands used this trunk, I wonder... Oh, yeah. When someone gets killed in a delivery, we send people to pick it up and it becomes theirs. And when they die, someone else goes out to pick it up, and... ya get the gist, right? Ha ha."
+      "desc": "Sohbet #3",
+      "dlg": "Ah... ne, bu sandık? Yok, kisiye özel sandık almıyoruz. Hmm~ acaba kaç kisi bu sandıgı kullandı, Acaba... Ah, evet. Biri sipariste ölünce, alması için birini göndeririz ve onların olur. Ve onlar ölünce, baskası onu almaya gider, ve... anladın iste, dimi? Ha ha."
     },
     {
       "id": "smalltalk_10910_4",
-      "desc": "Post-Uptie Chat 1",
-      "dlg": "Niiice~ This looks like a piece of cake. Quit dragging your feet, let's get a move on, people! And don'tcha dare complain to me later about getting paid a reduced delivery fee~"
+      "desc": "Uptie-Sonrası Sohbet 1",
+      "dlg": "Güzzeell~ Bu is çantada keklik gibi. Ayagını süründürmeyi bırak, hadi hareket etmeye baslayalim, herkes! Ve bana azaltilmis siparis ücreti aldiginizda sakin sikayet etmeyin~"
     },
     {
       "id": "smalltalk_10910_5",
-      "desc": "Post-Uptie Chat 2",
-      "dlg": "Nngh, so heavy... I heard the guys down south carry around a slimmer suitcase, so what's up with us in the north getting saddled with something so bulky? I feel like I'm going to dislocate my shoulder swingin' this thing around."
+      "desc": "Uptie-Sonrası Sohbet 2",
+      "dlg": "Ufff, çok agır... Duydum ki güneydekiler çok daha ince bir sandik tasıyorlarmıs, o zaman niye kuzeydekilere bu kadar büyük birsey veriyorlar? Bu seyi sallayarak omuzumun yerinden cıkacagını düsünüyorum."
     },
     {
       "id": "neglect_10910_1",
