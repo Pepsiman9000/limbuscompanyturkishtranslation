@@ -2,48 +2,48 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Backstreets of District 10",
+      "place": "Eyalet 10'un Arka Sokakları",
       "model": "료슈",
-      "content": "They made for pathetic foes. That was absolutely nothing."
+      "content": "Ne acınası rakipler. Sanki sinek ısırdı."
     },
     {
       "id": 1,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "The Tingtang Gang had tight control over this area. This is not going to be the end of―"
+      "title": "LŞTÖ",
+      "content": "Tingtng Çetesi burayı çok sıkı kontrol altında tutuyor. Savaşımızın sonu bu olmayac―"
     },
     {
       "id": 2,
-      "content": "Just then, more Tingtangers began showing up from the street corners."
+      "content": "Tam o esnada, sokağın kenarlarından daha fazla çete üyesi ortaya çıkmıştı"
     },
     {
       "id": 3,
       "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Who sent ya haricots to mess with us?!"
+      "teller": "Göğsü Kabarık Tingtang'lı",
+      "title": "Tingtang Çetesi",
+      "content": "Sizi hangi pabuç yalayıcıları gönderdi buraya?!"
     },
     {
       "id": 4,
       "model": "돈키호테",
-      "content": "We are the proud soldiers of Limbu― Hmgh…"
+      "content": "Biz Limbus'un şanlı askerle― Hmgh…"
     },
     {
       "id": 5,
-      "content": "Effie quickly covered Don Quixote’s mouth."
+      "content": "Effie, hızlıca Don Quixote'un ağzını kapatmıştı."
     },
     {
       "id": 6,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "Have you lost it? Do you want the entire District after us?"
+      "title": "LŞTÖ",
+      "content": "Kafayı mı sıyırdın lan? Tüm eyaleti peşimize mi takacaksın?"
     },
     {
       "id": 7,
       "model": "오티스",
-      "content": "More are coming! Give us your command, Manager!"
+      "content": "Daha fazlası geliyor! Komuta sizindir, müdür efendi!"
     }
   ]
 }
