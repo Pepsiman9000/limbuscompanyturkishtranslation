@@ -2,139 +2,139 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Unending Hill of Corpses",
-      "content": "The fleshy hill exuded potent acid, melting Sinclair’s legs. All the other Sinners were being dissolved by the caustic secretion too."
+      "place": "Sonsuz Ceset Tepesi",
+      "content": "Etli tepe, Sinclair'ın bacaklarını eriten güçlü bir asit yayıyordu. Diğer bütün günahkarlar da yakıcı salgıyla eriyordu."
     },
     {
       "id": 1,
-      "content": "He trips and hits the ground. No, perhaps I should say he was thrown off his feet."
+      "content": "Ayağı takılıp yere düştü. Hayır, belki de ayakları yerden kesildi demeliyim."
     },
     {
       "id": 2,
-      "content": "In spite of that, he still crawls towards Kromer."
+      "content": "Buna rağmen hâlâ Kromer'e doğru sürünüyordu."
     },
     {
       "id": 3,
       "model": "변신크로머",
       "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Yes! That’s it! It hurts, doesn’t it? You’re filled with rage, aren’t you? Accept it all! Welcome it with open arms!"
+      "title": "Çivi ve Çekiç",
+      "content": "Evet! İşte bu! Canın yanıyor, değil mi? Öfkeyle dolusun, değil mi? Her şeyi kabul et! Kollarını açarak karşıla!"
     },
     {
       "id": 4,
       "model": "변신크로머",
       "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "And watch me! Watch my glorious body, closer to the purest form of humanity than ever before! This flesh here! The sheer, unmatched strength of purity!"
+      "title": "Çivi ve Çekiç",
+      "content": "Ve beni izle! Görkemli bedenime bak, insanlığın en saf haline her zamankinden daha yakın! İşte bu et! Saflığın eşsiz gücü!"
     },
     {
       "id": 5,
       "model": "변신크로머",
       "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Ahh, Sinclair… Look at how human you are! You can become like me too!"
+      "title": "Çivi ve Çekiç",
+      "content": "Ahh, Sinclair… Ne kadar insan olduğuna bak! Sen de benim gibi olabilirsin!"
     },
     {
       "id": 6,
       "model": "싱클레어",
-      "content": "I’ll… You’re…"
+      "content": "Ben… Sen…"
     },
     {
       "id": 7,
       "model": "변신크로머",
       "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Sinclair, you were scared all along, weren’t you? You lost your family, and you had to ride a bus with these strangers, forced to do things you didn’t want."
+      "title": "Çivi ve Çekiç",
+      "content": "Sinclair, sen hep korkmuştun, değil mi? Aileni kaybettin ve bu yabancılarla otobüse binmek zorunda kaldın, istemediğin şeyleri yapmaya zorlandın."
     },
     {
       "id": 8,
       "model": "변신크로머",
       "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "You knew in your heart that you didn’t belong there, right?"
+      "title": "Çivi ve Çekiç",
+      "content": "Kalbinin derinliklerinde oraya ait olmadığını biliyordun, değil mi?"
     },
     {
       "id": 9,
       "model": "변신크로머",
       "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Didn’t you want to run? Didn’t you want to quit it all? Am I wrong?"
+      "title": "Çivi ve Çekiç",
+      "content": "Koşmak istemedin mi? Her şeyi bırakmak istemedin mi? Yanılıyor muyum?"
     },
     {
       "id": 10,
       "model": "싱클레어",
-      "content": "I swear, I…"
+      "content": "Yemin ederim ki ben…"
     },
     {
       "id": 11,
       "model": "변신크로머",
       "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Join me, Sinclair! Don’t avoid this, embrace it! Complete my grudge!"
+      "title": "Çivi ve Çekiç",
+      "content": "Bana katıl, Sinclair! Bundan kaçınma, kucakla! ​​Kinimi tamamla!"
     },
     {
       "id": 12,
-      "content": "The arm Sinclair was using to hold his weapon was growing limp by the second."
+      "content": "Sinclair'in silahını tutmak için kullandığı kolu her geçen saniye gevşiyordu."
     },
     {
       "id": 13,
-      "content": "He nevertheless continues in Kromer’s direction."
+      "content": "Ancak yine de Kromer'a doğru yürümeye devam ediyor."
     },
     {
       "id": 14,
       "model": "변신크로머",
       "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "You must accept the pain! Only when we have transcended suffering itself can we be reborn!"
+      "title": "Çivi ve Çekiç",
+      "content": "Acıyı kabul etmelisin! Sadece acının kendisini aştığımızda yeniden doğabiliriz!"
     },
     {
       "id": 15,
       "model": "변신크로머",
       "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Bloat the flesh, spill the blood! Adding on the most human things each second!"
+      "title": "Çivi ve Çekiç",
+      "content": "Eti şişir, kanı dök! Her saniye en insani şeyleri ekle!"
     },
     {
       "id": 16,
       "model": "변신크로머",
       "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "To the purest world where the impurities plaguing the city of all folks have been filtered out!"
+      "title": "Çivi ve Çekiç",
+      "content": "Tüm şehri kirleten pislik insanların süzülüp atıldığı en saf dünyaya!"
     },
     {
       "id": 17,
       "model": "싱클레어",
-      "content": "Mama… Papa… Sis…"
+      "content": "Anne… Baba… Abla…"
     },
     {
       "id": 18,
-      "content": "Sinclair vacantly mutters, looking at the faces of his now dead fellow Sinners."
+      "content": "Sinclair, artık ölmüş olan Günahkar arkadaşlarının yüzlerine bakarak boş boş mırıldanıyordu."
     },
     {
       "id": 19,
-      "content": "I couldn’t leave him like this."
+      "content": "Onu böyle bırakamazdım."
     },
     {
       "id": 20,
       "model": "단테",
-      "content": "<Sinclair! Listen to me!>"
+      "content": "<Sinclair! Beni dinle!>"
     },
     {
       "id": 21,
-      "content": "I’m embarrassed that it took me so long to take action, but it was better late than never."
+      "content": "Harekete geçmem bu kadar uzun sürdüğü için utanıyorum ama geç olsun güç olmasın."
     },
     {
       "id": 22,
-      "content": "Act like the manager I am."
+      "content": "Benim gibi bir müdür gibi davran."
     },
     {
       "id": 23,
       "model": "단테",
-      "content": "<I know you think a lot! I know there’s a lot going on in your head that you can’t share with others!>"
+      "content": "<Çok düşündüğünü biliyorum! Kafanın içinde başkalarıyla paylaşamadığın çok şey olduğunu biliyorum!>"
     },
     {
       "id": 24,
-      "content": "That’s how he was."
+      "content": "İşte öyleydi."
     },
     {
       "id": 25,
@@ -158,14 +158,14 @@
       "id": 29,
       "model": "변신크로머",
       "teller": "Kromer",
-      "title": "Nagel und Hammer",
+      "title": "Çivi ve Çekiç",
       "content": "Exactly! It’s all your fault—so embrace it! That’s the way to become wholly reborn!"
     },
     {
       "id": 30,
       "model": "변신크로머",
       "teller": "Kromer",
-      "title": "Nagel und Hammer",
+      "title": "Çivi ve Çekiç",
       "content": "Follow me… and rest in my grip!"
     },
     {
