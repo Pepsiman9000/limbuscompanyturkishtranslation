@@ -2,23 +2,23 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Wuthering Heights Rooftop",
-            "content": "All that remained on the rooftop was a burnt Golden Bough in the coffin."
+            "place": "Uğultulu Tepeler'in Çatısı",
+            "content": "Çatı tepesinde tek kalan şey, tabutun içindeki sönük Altın Daldı."
         },
         {
             "id": 1,
             "model": "파우스트",
-            "content": "The Golden Bough is burnt white. It appears that someone has made off with the other."
+            "content": "Altın Dal bembeyaz solgun. Görünüşe göre ise birileri diğeri ile kaçmış."
         },
         {
             "id": 2,
             "model": "단테",
-            "content": "<Nelly... took the other one. The one that's intact.>"
+            "content": "<Nelly... Diğerini o aldı. Hala tek parça olanı.>"
         },
         {
             "id": 3,
             "model": "그레고르",
-            "content": "She must've taken it to her."
+            "content": "O'na götürmüş olmalı."
         },
         {
             "id": 4,
@@ -36,37 +36,37 @@
         {
             "id": 7,
             "model": "히스클리프",
-            "content": "This isn't a failure."
+            "content": "Bu bir başarısızlık değil."
         },
         {
             "id": 8,
             "model": "히스클리프",
-            "content": "We'll get it back."
+            "content": "Onu geri alacağız."
         },
         {
             "id": 9,
             "model": "히스클리프",
-            "content": "Even if our hearts may be broken apart, if I give it my all... we'll be connected once again."
+            "content": "Kalplerimiz kırılmış olsa bile, eğer ben her şeyimi verirsem... Birbirimize yeniden bağlanacağız."
         },
         {
             "id": 10,
             "model": "히스클리프",
-            "content": "As it did, even in the world where Catherine and I were both dead."
+            "content": "Catherine ve benim ikimizin de öldüğü dünyada bile olduğu gibi."
         },
         {
             "id": 11,
             "model": "싱클레어",
-            "content": "Is Catherine... the name of the person in this coffin?"
+            "content": "Catherine... Tabutun içindeki kişinin adı mı?"
         },
         {
             "id": 12,
             "model": "싱클레어",
-            "content": "I'm sorry, everything feels so... foggy..."
+            "content": "A-a üzgünüm, her şey çok... sisli ve bulanık..."
         },
         {
             "id": 13,
             "model": "파우스트",
-            "content": "The coffin and the person that lies within will be retrieved to the headquarters by the After Team."
+            "content": "Sonra Takımı tabutu ve içerisindeki kişiyi Genel Merkez'e götürecek."
         },
         {
             "id": 14,
@@ -75,60 +75,60 @@
         },
         {
             "id": 15,
-            "content": "I wanted to ask him if he was okay, but... I already knew the answer. So many things had gone wrong."
+            "content": "İyi olup olmadığını sormak isterdim, Fakat... Cevabını zaten biliyorudm. Onun için çok fazla şey mahvolmuştu."
         },
         {
             "id": 16,
             "model": "히스클리프",
-            "content": "No. I'm still... not okay."
+            "content": "Hayır. Hala... iyi değilim.."
         },
         {
             "id": 17,
-            "content": "Heathcliff's one and only goal... was gone."
+            "content": "Heatcliff'in bu dünyadaki tek isteği... Gitmişti."
         },
         {
             "id": 18,
-            "content": "But Heathcliff was no longer trapped in a living dream."
+            "content": "Ama artık, Heatcliff bir rüyada kapana kısılmış değildi."
         },
         {
             "id": 19,
-            "content": "... Perhaps that is precisely why he could open the door to see a new, wider world."
+            "content": "... Belkide bu yüzden kapağını açabildi, daha geniş açıdan bakabildi."
         },
         {
             "id": 20,
-            "content": "Not a single color remained in the silent Wuthering Heights once the tempest passed."
+            "content": "Az önce fırtınanın kasıp kavurduğu ama artık sadece sükûnetin hakim olan Uğultu Tepelerde tek bir renk hakimdi."
         },
         {
             "id": 21,
-            "content": "All monochromatic, save for..."
+            "content": "Tamamen monokromatiklik, sadece..."
         },
         {
             "id": 22,
-            "content": "... patches of color..."
+            "content": "... Bir renk tonu hariç..."
         },
         {
             "id": 23,
             "model": "히스클리프",
-            "content": "Those flowers... are called heath."
+            "content": "O çiçeklere... Heath denir.."
         },
         {
             "id": 24,
             "model": "히스클리프",
-            "content": "The loneliest flowers that take root and bloom in the wild moorlands... But they're also flowers that survive no matter what devastating tempest comes their way. They endure it all and wait."
+            "content": "Kıraç arazilerde kök salan ve çiçek açan en yalnız çiçekdirler... Ama aynı zamanda, başlarına ne kadar yıkıcı fırtına gelirse gelsin hayatta kalan. Her şeye katlanırlar ve beklerler."
         },
         {
             "id": 25,
             "model": "단테",
-            "content": "<Wait for... what?>"
+            "content": "<Ne için... beklerler?>"
         },
         {
             "id": 26,
             "model": "히스클리프",
-            "content": "I don't know. The time, I suppose."
+            "content": "Bilmiyorum. Zamanı, sanırım."
         },
         {
             "id": 27,
-            "content": "That is when Heathcliff finally told us the name of the flowers."
+            "content": "İşte, tam o an, Heatcliff'in sonunda bizlere çiçeklerin adını söylediği andı."
         },
         {
             "id": 28
@@ -137,34 +137,34 @@
             "id": 29,
             "place": "Backstreets of T Corp.",
             "model": "그레고르",
-            "content": "Woahh! Go after it! GO!"
+            "content": "Woahh! koş yakala! KOŞ!"
         },
         {
             "id": 30,
             "model": "히스클리프",
-            "content": "Oi, it took off. Where the bloody hell are you lookin' at?!"
+            "content": "Hey adam, topukladı. Nereye bakıyorsun oğlum?!"
         },
         {
             "id": 31,
             "model": "싱클레어",
-            "content": "Well, maybe you should've told me that first?!"
+            "content": "Aaa, ilk başta söyleseydin yaa?!"
         },
         {
             "id": 32,
-            "content": "Another day, another Distortion hunting in the streets of T Corp. as per LCD's orders."
+            "content": "Bir gün daha ve T Kuruluşu sokaklarına musallat olan bir Bozukluk daha. LŞB'nin emirleri üzerine tabi."
         },
         {
             "id": 33,
-            "content": "Looks like it didn't take too long for Heathcliff to be his usual energetic self once agai—"
+            "content": "Görünüşe göre Heatcliff'in eski haline dönmesi ço—"
         },
         {
             "id": 34,
             "model": "히스클리프",
-            "content": "Oi, I told you to send 'em this way! I'll smash your head in once this is over!"
+            "content": "Oğlum, dedim ya lan onları bu tarafa yolla diye! Bu iş bitince kafanı ezerim bak!"
         },
         {
             "id": 35,
-            "content": "... Maybe he's gotten too passionate."
+            "content": "... Belkide kendini biraz fazla kaptırdı."
         },
         {
             "id": 36,
@@ -174,7 +174,7 @@
         {
             "id": 37,
             "model": "단테",
-            "content": "<Long time no— Wait. Why are you... how do you still have color?>"
+            "content": "<Uzun zam— Dur. Neden sen... nasıl olurda hala ışğın olur?>"
         },
         {
             "id": 38,
