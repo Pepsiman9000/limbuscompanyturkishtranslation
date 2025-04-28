@@ -2,28 +2,28 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 1F",
-      "content": "The casino could be best described as “busy”."
+      "place": "Kumarhane 1F",
+      "content": "Kumarhaneye en iyi uyacak kelime, muhtemelen 'meşgul' olurdu."
     },
     {
       "id": 1,
-      "content": "Excessively cheery sounds blared from slot machines."
+      "content": "Şen şakrak gürültüler, slot makinelerinden fışkırıyordu."
     },
     {
       "id": 2,
-      "content": "The lights were so bright that some of our Sinners had to cover their eyes."
+      "content": "Işıklar öylesine parlaktı ki, bazı Günahkarlar'ın gözlerini kapatmaları gerekiyordu."
     },
     {
       "id": 3,
-      "content": "And the security guards took note of our garish outfits to give us a customary nod."
+      "content": "Güvenlikler ise, havalı mı havalı kıyafetlerimizi görmeleri ile beraber bize adetten bir selam çakmışlardı."
     },
     {
       "id": 4,
-      "content": "Saude and Effie, dressed as croupiers, discreetly nodded at us as they accompanied Rodya to the casino’s cage."
+      "content": "Saude ve Effie ise, krupiyer kılıkları ile Rodya'yı kumarhanenin kafesine götürürken bize selam verdiler."
     },
     {
       "id": 5,
-      "content": "I was amazed by their ability to feign expertise; from the way they carried themselves to the facial expressions they made, few would doubt that they’re long-time employees."
+      "content": "Görevlerine bu kadar ustaca adapte olmalarına şaşırmıştım doğrusu; Mimikleri ve hareketlerine bakıldığında, burada çok uzun zamandır çalışıyor gibi görünüyorladı."
     },
     {
       "id": 6,
@@ -33,26 +33,26 @@
     {
       "id": 7,
       "model": "그레고르",
-      "content": "Try not to go saucer-eyed at everything like a fascinated kid, Don Quixote. You’ll seem fishy…"
+      "content": "Her şeye sihir numarası görmüş çocuklar gibi bakınma, Don Quixote. Üstümüze şüphe çekeceksin…"
     },
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "The guests here look dead inside with their dim eyes, and they smell worse than the Tingtang schmucks we faced. Do they even wash…"
+      "content": "Misafirlerin hepsi, içeriden ölülermiş gibi görünüyorlar. Ayrıca hepsi şu Tingtang çapulcularından bile beter kokuyor. Hayatlarında hiç yıkandılar mı acaba…"
     },
     {
       "id": 9,
       "model": "그레고르",
-      "content": "I don’t think they’d be too happy about you holding your nose right before their faces, Ishmael…"
+      "content": "Bana sorarsan, götlerinin dibine burnunu sokmandan hiç memnun olmazlar, Ishmael…"
     },
     {
       "id": 10,
       "model": "이스마엘",
-      "content": "But, this is the kind of bilgy stench I’d only ever caught from deckhands…"
+      "content": "Ama, bu kadar bir beter kokuyu sadece güvertedeki tayfamdan alıyordum…"
     },
     {
       "id": 11,
-      "content": "Fortunately, most of them were too focused on the machines to care about what we were doing."
+      "content": "İşimize gelecek şekilde buradakilerin çoğu, naptığımızı umursamak için makinelere fazla odaklıydı."
     },
     {
       "id": 12,
@@ -71,7 +71,7 @@
     },
     {
       "id": 15,
-      "content": "Looking at all the flashy symbols and numbers spinning had slowly eroded my resolve to act the part of a stern manager."
+      "content": "Tüm bu dönerli sayılara ve ışıklara bakmak, sanki müdürlük yeteneklerimi içeriden çürütüyor gibiydi."
     },
     {
       "id": 16,
@@ -85,11 +85,11 @@
     },
     {
       "id": 18,
-      "content": "I swear upon my minute and hour hands that I had no intention to press that button, absolutely none."
+      "content": "Başımdaki akrep ve yelkovan üzerine yemin ederim ki, o butona basmak gibi bir planım katiyen yoktu."
     },
     {
       "id": 19,
-      "content": "The hand I’d swiftly outstretched to stop Don Quixote from touching the machine unexpectedly fumbled and landed smack on the button—"
+      "content": "Don Quixote'u durdurmak için hızlıca kaldırdığım elim, bir anda kayıp makinedeki butonlara çarpıvermişti—"
     },
     {
       "id": 20,
@@ -98,48 +98,48 @@
     },
     {
       "id": 21,
-      "content": "—and in an unpredictable series of coincidences, someone had left a token in it, enough for one game."
+      "content": "—ve inanılmaz bir şans silsilesinin sonucunda, birisinin makine içerisine, tek oyuna yetecek kadar jeton bıraktığını fark etmiştim."
     },
     {
       "id": 22,
-      "content": "Reels started spinning under fanfare…"
+      "content": "Silindirlerin dönmeye başlaması ile beraber…"
     },
     {
       "id": 23,
-      "content": "We could only watch as the chain of events unfolded."
+      "content": "Yapabildiğimiz tek şey olay örgüsünün takipçisi kalmaktı."
     },
     {
       "id": 24,
       "model": "소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "By the way, I hope Dante handles the wish stickers we took from the Tingtang Gang with care."
+      "content": "Umarım ki, Dante şu Tingtang Çetesi'nden itinayla aldığımız dilek çıkartmalarını usulüne göre kullanır."
     },
     {
       "id": 25,
       "model": "에피",
       "teller": "Effie",
       "title": "LCCB",
-      "content": "That manager? It was the only favor we asked of them, they’d better be doing a good job."
+      "content": "Müdür mü? Ondan istediğimiz tek şey de buydu zaten, bir zahmet bunu da başarabilsin."
     },
     {
       "id": 26,
       "model": "로쟈",
-      "content": "You can count on Dante, dear duo~ They’re one of the few sensible pals who gets what’s up."
+      "content": "Dante'ye güvenebilirsiniz, canlarım~ Saksıyı çalıştırabilen sayılı elemanlarımızdan kendisi."
     },
     {
       "id": 27,
       "model": "소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "That’s good to hear. With so many sheets attached, they should be able to win any game with ease."
+      "content": "Bunu duymak güzel. O kadar yoğun çıkartmalar ile, bir oyunu kazanmak onun için çocuk oyuncağı olmalı."
     },
     {
       "id": 28,
       "model": "소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "We just need to be careful not to draw attention here."
+      "content": "Tek yapmamız gereken şey dikkat çekmemek."
     },
     {
       "id": 29,
@@ -147,55 +147,55 @@
     },
     {
       "id": 30,
-      "content": "The players next to us stared with jaws dropped so far that their chins could touch the floor…"
+      "content": "Yanımızdaki oyuncuların çenesi, neredeyse yere değecek kadar açık kalmıştı…"
     },
     {
       "id": 31,
-      "content": "Waves of casino chips plunged from the machine, so many that I wouldn’t dare try to gather them up."
+      "content": "Yerden toplayamayacağım kadar çok çip, bir anda makineden fırlayıp yere yığılmıştı."
     },
     {
       "id": 32,
-      "content": "I’m so sorry, Effie, Saude."
+      "content": "Ç-çok üzgünüm, Effie ve Saude."
     },
     {
       "id": 33,
-      "content": "I came here determined to do something right, and it fell apart all so soon."
+      "content": "Bir şeyi doğru yapmaya çok kararlıydım, ama her zamanki gibi yine batırdım."
     },
     {
       "id": 34,
       "teller": "One Casinogoer",
       "title": "Chump",
-      "content": "A jackpot? What machine is it?"
+      "content": "Jackpot mu? Hangi makine bu?"
     },
     {
       "id": 35,
       "teller": "Another Casinogoer",
       "title": "Chump",
-      "content": "Just like that, no warning? Right now?"
+      "content": "Bir anda, uyarmadan? Gerçekten mi?"
     },
     {
       "id": 36,
       "model": "각잡힌카지노경호원",
       "teller": "Rigid Security",
       "title": "J Corp. Casino",
-      "content": "A moment, please…"
+      "content": "Bir saniye lütfen…"
     },
     {
       "id": 37,
       "model": "각잡힌카지노경호원",
       "teller": "Rigid Security",
       "title": "J Corp. Casino",
-      "content": "Let me just check your ID."
+      "content": "Kimliğinizi kontrol etmeme izin verin."
     },
     {
       "id": 38,
       "model": "히스클리프",
-      "content": "What’s with the aggro? Is it a crime to win big at a casino?"
+      "content": "Ne rolleniyorsunuz lan? Parayı kırmak suç mu burada?"
     },
     {
       "id": 39,
       "model": "파우스트",
-      "content": "Chance in this place doesn’t work the way we think it usually does. You could accumulate your luck for a big payout or trickle in small amounts to break even, but winning the jackpot on your first try should be a literal impossibility here."
+      "content": "Şans, burada düşündüğümüz gibi çalışmıyor. Şansını bir anda kullanabileceğin gibi, azar azar kazançlar için de dengeli dağıtabilirsin, ama ilk gününden parayı vurmak, kimseler için mümkün bir şey değildir."
     },
     {
       "id": 40,
@@ -205,60 +205,60 @@
     {
       "id": 41,
       "model": "이스마엘",
-      "content": "I’d hoped you of all people would have a sense of responsibility… Yet all it took was Don Quixote’s siren plea for you to give in."
+      "content": "En azından senin biraz sorumluluk bilincin olur sanıyordum… Ama gel gör ki, Don Quixote'un naraları seni düşürmek için yeterliymiş."
     },
     {
       "id": 42,
       "model": "이스마엘",
-      "content": "I’m disappointed. You’re none other than our manager, and I expected you to show your capability and clear the disgrace of failure from us."
+      "content": "Hayal kırıklığına uğradım. Müdürümüz olarak sorumluluk sahibi olmanı ve eski başarısızlığımızı telafi edebilecek şeyler yapmanı beklerdim."
     },
     {
       "id": 43,
-      "content": "Ishmael’s barrage of scathing whispers was something to marvel at, as Gregor muttered in awe."
+      "content": "Ishmael’in hayal kırıklığı dolu fısıltılarının yanı sıra, Gregor bile buna karşı hafif bir korkuya kapılmıştı."
     },
     {
       "id": 44,
-      "content": "On top of that, her piercing gaze I had never felt before…"
+      "content": "Üstüne üstlük, onun böylesine iğneleyici bakışları…"
     },
     {
       "id": 45,
-      "content": "…It made me want to weasel away under a rock, if there were one."
+      "content": "…Yakında olsaydı, bir taşın altına başımı koymamı bile sağlardı."
     },
     {
       "id": 46,
-      "content": "For once, I thanked my clock for lacking eyes to meet her glare."
+      "content": "Bir anlığına, gözlerim olmadığı için kafama teşekkür etmiştim."
     },
     {
       "id": 47,
       "model": "그레고르",
-      "content": "…Now hold on, that might not be our only problem…"
+      "content": "…Dur bi' bakalım... tek sorunumuz bu olmayabilir…"
     },
     {
       "id": 48,
-      "content": "Gregor was fretfully looking in every direction, until he stopped to point at the shocking discovery he’d just made."
+      "content": "Gregor endişeli bir şekilde her yere bakıyordu, ta ki yaptığı korkutucu keşfi göstermek için elini kaldırdığı ana dek."
     },
     {
       "id": 49,
-      "content": "And where he pointed—"
+      "content": "Gösterdiği yerde ise—"
     },
     {
       "id": 50,
       "model": "그레고르",
-      "content": "How long have you been off your disguise, Ryōshū?"
+      "content": "Ne zamandan beridir kılığını bıraktın, Ryōshū?"
     },
     {
       "id": 51,
-      "content": "—was a sullen Ryōshū, wearing the same clothes she’s always worn."
+      "content": "—Her zaman giydiği üniformasını giren bir Ryōshū vardı."
     },
     {
       "id": 52,
       "model": "료슈",
-      "content": "I don’t put on others’ discarded clothing."
+      "content": "Başkalarının eskilerini hayatta giymem."
     },
     {
       "id": 53,
       "model": "그레고르",
-      "content": "Gah… Manager Bud, today isn’t our day, huh…"
+      "content": "Gah… Müdür Ahbap, bugün bizim günümüz değil gibi…"
     },
     {
       "id": 54,
@@ -270,34 +270,34 @@
       "model": "에피",
       "teller": "Effie",
       "title": "LCCB",
-      "content": "This can’t be… All the work we did to put this plan in motion…"
+      "content": "Nasıl olur… Planı ayakta tutabilmek için verdiğimiz onca efor…"
     },
     {
       "id": 56,
       "model": "에피",
       "teller": "Effie",
       "title": "LCCB",
-      "content": "Faust, what were you thinking volunteering to bring these fools along for your missions? You’re supposed to have near-unparalleled brilliance, right? Then use it!"
+      "content": "Faust, bu aptalları göreve gönüllü olarak sokarken aklından ne geçiyordu? Kimsenin boy ölçüşemeyeceği bir zekan yok muydu? Kullansana!"
     },
     {
       "id": 57,
       "model": "파우스트",
-      "content": "Even though I haven’t worked with them for long, I was able to realize something:"
+      "content": "Onlar ile uzun süre çalışmadığım halde, bir kanıya varmış bulunmaktayım:"
     },
     {
       "id": 58,
       "model": "파우스트",
-      "content": "I ought to become a Faust that believes in uncertainty."
+      "content": "Belirsizlere inanan bir Faust olmayı yeğliyorum."
     },
     {
       "id": 59,
       "model": "파우스트",
-      "content": "When the lack of a plan becomes the plan, all variables become constants."
+      "content": "Bir planın yokluğunun plan olması durumunda, tüm belirsizlikler daimiyete erişebilir."
     },
     {
       "id": 60,
       "model": "파우스트",
-      "content": "That is what my ‘plan’ entails."
+      "content": "Planım tam olarak da buydu."
     },
     {
       "id": 61,
@@ -309,15 +309,15 @@
     {
       "id": 62,
       "model": "이스마엘",
-      "content": "…Sigh."
+      "content": "…Öf."
     },
     {
       "id": 63,
-      "content": "Faust turned to me with a tranquil face."
+      "content": "Faust sakin bir yüz ifadesi ile bana dönmüştü."
     },
     {
       "id": 64,
-      "content": "Thanks to her, my role right now became clear."
+      "content": "Onun sayesinde, bu tiyatrodaki rolüm daha açıktı."
     },
     {
       "id": 65,
