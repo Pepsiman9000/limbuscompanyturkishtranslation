@@ -4,17 +4,17 @@
       "id": 0,
       "place": "High Rollers Floor",
       "model": "단테",
-      "content": "<This isn’t good. We’ve reached the top floor, but we don’t have nearly enough wishpower…>"
+      "content": "<Bu hiç iyi değil. Son kata geldik, ama yeterli dilek çıkartmamız yok…>"
     },
     {
       "id": 1,
       "model": "로쟈",
-      "content": "Aah~ No worries. I’ve been itching to tell you this, and it’s finally time."
+      "content": "Aah~ Hiç sorun yok. Bunu size söylemek için sabırsızlanıyordum ve sonunda zamanı geldi."
     },
     {
       "id": 2,
       "model": "로쟈",
-      "content": "I actually pinched a little wishpower back at the pawnshop. It’s not a lot, but it should be just enough, right?"
+      "content": "Tefecideyken birkaç dilek çıkartması aşırmıştım. O kadar da çok değil, ama yeterli olur herhalde, değil mi?"
     },
     {
       "id": 3,
@@ -25,12 +25,12 @@
       "model": "소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Why didn’t you tell us earlier?"
+      "content": "Niye önceden söylemedin?"
     },
     {
       "id": 5,
       "model": "로쟈",
-      "content": "Like you said, gambling is all about keeping a poker face. Wouldn’t want to see one of us slip and complicate things."
+      "content": "Dediğin gibi, gambling is all about keeping a poker face. Wouldn’t want to see one of us slip and complicate things."
     },
     {
       "id": 6,
@@ -66,30 +66,30 @@
       "id": 12,
       "place": "Private Room",
       "model": "로쟈",
-      "content": "The contestant enters~"
+      "content": "Yarışmacınız geliyoz~"
     },
     {
       "id": 13,
       "model": "로쟈",
-      "content": "Wait, I’m not the last? Aw, there goes my cool entry."
+      "content": "Bekle, son kişi ben değil miymişim? Vah, havalı girişim boşa gitti be."
     },
     {
       "id": 14,
       "teller": "???",
       "title": "???",
-      "content": "You are…?"
+      "content": "Sen kimsin…?"
     },
     {
       "id": 15,
       "model": "로쟈",
-      "content": "My name’s Rodion. I’m here to gamble for the right to access the basement."
+      "content": "Adım Rodion. Bodrum katına gidebilme hakkı için kumar oynamaya geldim."
     },
     {
       "id": 16,
       "model": "아이드",
       "teller": "???",
       "title": "???",
-      "content": "Pwfhah!"
+      "content": "Puhaha!"
     },
     {
       "id": 17,
@@ -108,45 +108,45 @@
       "model": "아이드",
       "teller": "???",
       "title": "???",
-      "content": "Well, you aren’t wrong there. The fact that you were able to get here is proof enough that you’re qualified."
+      "content": "Eee, haksız değilsin. The fact that you were able to get here is proof enough that you’re qualified."
     },
     {
       "id": 20,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "A pleasure. I’m Aida."
+      "content": "Tanıştığıma memnun oldum. Ben Aida."
     },
     {
       "id": 21,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "And this is…"
+      "content": "Ve bu da…"
     },
     {
       "id": 22,
       "model": "철공회보스",
       "teller": "Crew Boss",
       "title": "Tieqiu Crew",
-      "content": "Golly, my back’s hurtin’."
+      "content": "Aman be, sırtım sızlıyor."
     },
     {
       "id": 23,
       "model": "로쟈",
-      "content": "…A robot? No, a prosthetic…?"
+      "content": "…Bir robot mu? Hayır, bir prostetik mi…?"
     },
     {
       "id": 24,
       "model": "철공회보스",
       "teller": "Crew Boss",
       "title": "Tieqiu Crew",
-      "content": "What’s that stare? Never seen a full-body prosthetic before?"
+      "content": "Ne bakıyorsun be? Hiç tüm vücudu prostetik olan birini görmedin mi?"
     },
     {
       "id": 25,
       "model": "로쟈",
-      "content": "Isn’t that model… a bit too antiquated? It kinda looks like it belongs in a museum."
+      "content": "Kullandığın model… biraz fazla antika değil mi? Bir müzeye aitmiş gibi duruyor."
     },
     {
       "id": 26,
