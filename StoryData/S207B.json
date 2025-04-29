@@ -11,7 +11,7 @@
     {
       "id": 1,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
+      "teller": "Fasülye Yemeyen Üye",
       "title": "Tingtang Çetesi",
       "content": "Patron! Nerden olduğunu bile sölemeyen bir grup ucube, bir anda sokağa bodozlama daldı!"
     },
@@ -42,7 +42,7 @@
     {
       "id": 6,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
+      "teller": "Fasülye Yemeyen Tingtanger",
       "title": "Tingtang Çetesi",
       "content": "Patron… bence bu herifler… ahalinin konuştuğu şu garip elemanlar… bilirsiniz, millete maskaralık yapan şu elemanlar."
     },
@@ -55,12 +55,12 @@
     },
     {
       "id": 8,
-      "content": "Now, our assumed big boss of the gang is looking at us with genuine disgust."
+      "content": "Şimdi, Çetenin “Büyük Patron”u olduğunu farz ettiğimiz adam, bizlere karşı hakiki ve gayri ihtiyarı bir tiksintiye sahipti."
     },
     {
       "id": 9,
       "model": "단테",
-      "content": "<…I have not wanted to win a fight as desperately as I do now.>"
+      "content": "<…Şu ana kadar bir savaşı kazanmayı hiç bu kadar istememiştim.>"
     }
   ]
 }
