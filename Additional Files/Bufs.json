@@ -62,7 +62,7 @@
     {
       "id": "SelfHarm_LowMorale",
       "name": "Baskı",
-      "desc": "- Düşük Moral\n- Tur Başı: 2 Hızlanma ve 2 Kırılganlık kazanır",
+      "desc": "- Düşük Moral\n- Tur Başı: 2 Hızlanma ve 2 Kırılganlık kazan",
       "undefined": "-"
     },
     {
@@ -74,7 +74,7 @@
     {
       "id": "Blame_LowMorale",
       "name": "Taşkınlık",
-      "desc": "- Düşük Moral\n- Tur Başı: 2 Saldırı Gücü Artışı ve 2 Kırılganlık kazanır",
+      "desc": "- Düşük Moral\n- Tur Başı: 2 Saldırı Gücü Artışı ve 2 Kırılganlık kazan",
       "undefined": "-"
     },
     {
@@ -159,9 +159,9 @@
     },
     {
       "id": "AttackDmgDown",
-      "name": "Damage Down",
-      "desc": "Deal -{0}0% damage with skills this turn. (Max 100%)",
-      "summary": "-{0}0% Damage Dealt"
+      "name": "Hasar Düşüşü",
+      "desc": "Bu tur boyunca Yeteneklerle -{0}0% daha az hasar uygula. (Max 100%)",
+      "summary": "-{0}0% Uygulanan Hasar"
     },
     {
       "id": "DefenseDown",
@@ -1092,9 +1092,9 @@
     },
     {
       "id": "CollapseAmpoule",
-      "name": "Decay Ampule",
-      "desc": "Take damage by {0} * 2% of Max HP",
-      "summary": "Take damage by {0} * 2% of Max HP"
+      "name": "Çürüme Kapsülü",
+      "desc": "Max HP'nin {0} * 2%si kadar hasar al",
+      "summary": "Max HP'nin {0} * 2%si kadar hasar al"
     },
     {
       "id": "InterlockingTime",
