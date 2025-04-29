@@ -85,21 +85,21 @@
     },
     {
       "id": "EgoErode",
-      "name": "E.G.O Corrosion",
+      "name": "E.G.O Korozyonu",
       "desc": "Won’t listen to orders and will only use Corrosion Skills.",
       "summary": "Out of control; uses Corrosion Skills",
       "undefined": "-"
     },
     {
       "id": "Charge",
-      "name": "Charge",
+      "name": "Yük",
       "desc": "Resource used by certain skills for additional effects. Its Count can go up to 20. Count lowers by 1 at the end of each turn.\n\n<color=#1aece7>Total Count consumed: {2}</color>",
       "summary": "Specific Skill Resource",
       "undefined": "-"
     },
     {
       "id": "DamageOverTime",
-      "name": "Ongoing Damage",
+      "name": "Giden Hasar",
       "desc": "Turn Start: Take {0} fixed HP damage.",
       "summary": "{0} fixed HP damage"
     },
@@ -189,7 +189,7 @@
     },
     {
       "id": "TimesCoinValueDown",
-      "name": "Multiply Coin Drop",
+      "name": "Katlanmış Jeton Düşüşü",
       "desc": "Multiply Coin Power -{0} for this turn.",
       "summary": "Multiply Coin Power -{0}"
     },
@@ -201,7 +201,7 @@
     },
     {
       "id": "MoonLight",
-      "name": "Moonlight",
+      "name": "Ay Işığı",
       "desc": "Resource used by certain skills for additional effects.",
       "summary": "For additional effects"
     },
@@ -300,19 +300,19 @@
     },
     {
       "id": "BloodPocket",
-      "name": "Blood Sac",
+      "name": "Kan Kesesi",
       "desc": "Use a powerful attack at a certain Count.",
       "summary": "Readies a powerful attack"
     },
     {
       "id": "WaterPocket",
-      "name": "Fluid Sac",
+      "name": "Sıvı Kesesi",
       "desc": "Heals {0} x 20 HP.",
       "summary": "HP heal boost"
     },
     {
       "id": "DogThunder",
-      "name": "Lightning",
+      "name": "Yıldırım",
       "desc": "Powers up at a certain Count.",
       "summary": "Strengthens self"
     },
@@ -324,31 +324,31 @@
     },
     {
       "id": "Operation",
-      "name": "Surgery",
+      "name": "Ameliyat",
       "desc": "Die when Count reaches 5.\nReduce Max HP by 20% per Count ({0}).\nDeal +20% damage per Count ({0}).\nTurn Start: Gain {0} Haste.",
       "summary": "Dies at 5 Count"
     },
     {
       "id": "Emergency_Operation",
-      "name": "Makeshift Surgery",
+      "name": "Merdiven Altı Ameliyat",
       "desc": "Boost Max HP by 25% and skill Power by 1 per this effect’s Count.\nEach turn, increase this effect’s Count by 1.\nDie when Count reaches 5.",
       "summary": "Dies at 5 Count"
     },
     {
       "id": "BabayagaTimeLimit",
-      "name": "Baba Yaga’s Coming!",
+      "name": "Öcü Geliyor!",
       "desc": "Baba Yaga is closing in. Clear the way or face certain death.",
       "summary": "Baba Yaga approaches!"
     },
     {
       "id": "PinkRibbon_Ishmael",
-      "name": "Pink Ribbons",
+      "name": "Pembe Kurdele",
       "desc": "Increase Count by 1 whenever the unit tosses an attack skill Coin.\nTurn End: Gain Bind by the Count, then remove this effect.",
       "summary": "Gain {0} Bind"
     },
     {
       "id": "Muckworm",
-      "name": "Maggots",
+      "name": "Yavşaklar",
       "desc": "Turn End: Take Gluttony damage by the Count, then lower it by 1; Bleed Count +1.",
       "summary": "Gluttony damage; Bleed Count +1"
     },
@@ -1304,7 +1304,7 @@
     },
     {
       "id": "EgoAwakenDongrangSeed",
-      "name": "Seeds",
+      "name": "Tohumlar",
       "desc": "Turn End: At 5+ Count, gain Nutrient Drain for 2 turns; at less than 5 Count, reduce Count by 1"
     },
     {
@@ -1314,17 +1314,17 @@
     },
     {
       "id": "EgoAwakenDongrangOverHeal",
-      "name": "Overheal",
+      "name": "Aşırı İyileşme",
       "desc": "Count rises by the amount of HP Dongrang caused to heal; at 50+ Count, take Gluttony damage by the effect's Count, gain 5 Fragile, and remove the effect."
     },
     {
       "id": "SinkingSurge",
-      "name": "Sinking Deluge",
+      "name": "Batış Sağanağı",
       "desc": "Deal SP damage by (Sinking Count * Sinking Potency), then remove Sinking\nIf target's SP is -45 or lower, the excess SP damage is dealt as Gloom-affinity HP damage\n(Units with no Sanity take all of it as Gloom HP damage)"
     },
     {
       "id": "Blue",
-      "name": "Tears",
+      "name": "Göz Yaşları",
       "desc": "Turn End: Lose 5 SP\nTails Coins inflict 2 Sinking"
     },
     {
@@ -1335,48 +1335,48 @@
     },
     {
       "id": "EgoAwakenDongrangTreeDisplay",
-      "name": "Nutrient Drain",
+      "name": "Besin Tüketimi",
       "desc": "Turn End: Dongrang heals 10 HP"
     },
     {
       "id": "DongbaekFullBloomDisplay",
-      "name": "Fully Bloomed",
+      "name": "Tamamen Açmış",
       "desc": "Cannot act\nAt the end of the turn, lose 20 SP; if SP reaches -45, fully heal SP, then gain 'Dazzled Mind' next turn.\nIf this effect isn't removed for 2 turns, remove it at the end of the turn.",
       "summary": ""
     },
     {
       "id": "EgoAwakenDongrangShardOfBrokenConnection",
-      "name": "Piece of a Broken Bond",
+      "name": "Kırık Bir Bağın Parçası",
       "desc": "Yi Sang's skills gain +2 Final Power\nWhen an ally dies, remaining allies gain 1 Haste and 1 Attack Power Up next turn (Once per turn)\nAs long as at least one other ally is alive in this battle, Yi Sang does not die",
       "summary": ""
     },
     {
       "id": "Choice_1040301",
-      "name": "Unknown Wound",
+      "name": "Bilinmeyen Yara",
       "desc": "Gain 10 Rupture for this turn.",
       "summary": "Gain 10 Rupture for the turn"
     },
     {
       "id": "TakeHpHealIncrease",
-      "name": "HP Healing Boost",
+      "name": "HP İyileştirme Artışı",
       "desc": "Heal +{0}0% HP from Passives, Skills, and Coin effects this turn. (Max 5)",
       "summary": "HP Healing +{0}0%"
     },
     {
       "id": "Choice_90104001",
-      "name": "Understanding",
+      "name": "Anlayışlı",
       "desc": "At the start of the battle, gain 2 E.G.O resources for every Affinity",
       "summary": "Gain +2 E.G.O resource for all Affinities"
     },
     {
       "id": "Choice_9010400101",
-      "name": "Determined",
+      "name": "Azimli",
       "desc": "All Ally Units gain +2 Skill Final Power for this battle",
       "summary": "Skill Final Power +2"
     },
     {
       "id": "Choice_90104002",
-      "name": "Longing",
+      "name": "Özlem",
       "desc": "All Ally Units gain +1 Skill Power for this battle",
       "summary": "Skill Power +1"
     },
@@ -1406,13 +1406,13 @@
     },
     {
       "id": "SkillPowerUp",
-      "name": "Base Power Up",
+      "name": "Taban Güç Artışı",
       "desc": "Skill Base Power +{0} for this turn.",
       "summary": "Skill Base Power +{0}"
     },
     {
       "id": "MaxHpMultiplier",
-      "name": "Max HP Up",
+      "name": "Maks HP Artışı",
       "desc": "Increase Max HP by {0}0",
       "summary": "Max HP +{0}0"
     },
@@ -1430,13 +1430,13 @@
     },
     {
       "id": "KCorpSerum",
-      "name": "K Corp Ampule",
+      "name": "K Kuruluşu Aşısı",
       "desc": "Turn Start: At less than 4 Count, heal by ({0} * 5)% of Max HP\nAt 4+ Count, the unit dies",
       "summary": ""
     },
     {
       "id": "Talisman",
-      "name": "Talisman",
+      "name": "Tılsım",
       "desc": "On hit, inflict {0} Rupture; When hit, gain {0} Rupture\nTurn End: At 6+ Count, remove all Talisman and take fixed damage by its Count",
       "summary": "Inflict Rupture with attacks and gain Rupture when hit"
     },
@@ -1472,18 +1472,18 @@
     },
     {
       "id": "MentalSystemResultIncrease_Typo",
-      "name": "SP Heal Efficiency",
+      "name": "SP Kazanma Verimliliği",
       "desc": "Amount of SP healed due to the Identity's 'Base factors increasing Sanity(SP)'"
     },
     {
       "id": "MentalSystemResultDecrease_Typo",
-      "name": "SP Loss Efficiency",
+      "name": "SP Kaybetme Verimliliği",
       "desc": "Amount of SP lost due to the Identity's 'Base factors decreasing Sanity(SP)'"
     },
     {
       "id": "DuelDeclaration",
-      "name": "Declared Duel",
-      "desc": "In a clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power, and gains 1 Haste next turn after a successful attack. (4 times per turn) Effect lifted when the unit that declared duel declares it on a different target. Replaced when another unit declares a duel. "
+      "name": "Resmî Düello",
+      "desc": "In a clash between the unit that inflicted Resmî Düello and the unit with the status, the declarer has +1 Clash Power, and gains 1 Haste next turn after a successful attack. (4 times per turn) Effect lifted when the unit that Resmî Düello declares it on a different target. Replaced when another unit declares a duel. "
     },
     {
       "id": "Aggro",
@@ -1497,12 +1497,12 @@
     },
     {
       "id": "EmergencyFeed",
-      "name": "Emergency Nutrient Supply",
+      "name": "Acil Besin Kaynağı",
       "desc": "At the end of the turn, if this unit has healed 15% of Max HP or more, the body is restored next turn."
     },
     {
       "id": "Bullet_Crab",
-      "name": "Molted Shell Shot",
+      "name": "Erimiş Kabuk Saldırısı",
       "desc": "Resource used by certain skills for additional effects."
     },
     {
@@ -1517,12 +1517,12 @@
     },
     {
       "id": "PseudoLastBoss_KingCrap",
-      "name": "Crab Rage",
+      "name": "YENGEÇ HİDDETİ",
       "desc": "At the start of the turn, apply Attack Power Up to all other allied crabs, and gain 2 Protection if its Shell isn't broken.\n-5 SP to target when using a skill.\nAt 50%- HP, every part gains 2 Attack Power Up and 2 Fragile."
     },
     {
       "id": "ChargeForceField",
-      "name": "Charge Barrier",
+      "name": "Yük Bariyeri",
       "desc": "- Gain ({0} x 3) Shield.\n- Lose 1 Charge Barrier # after losing ({0} x 3) Shield.\n- (If the unit is a W Corp. employee, ALL Charge Barrier effects activate at ({0} x 5) instead of at ({0} x 3))\n- Turn End: Gain a Charge Count for each Charge Barrier #, and Charge Barrier and Shield Gained from Charge Barrier expire completely next turn"
     },
     {
@@ -1597,19 +1597,19 @@
     },
     {
       "id": "RailBuffForLine2_K_ALLY",
-      "name": "Heal All"
+      "name": "Hepsini İyieştir"
     },
     {
       "id": "RailBuffForLine2_L_ALLY",
-      "name": "Heal Selected"
+      "name": "Seçileni İyileştir"
     },
     {
       "id": "RailBuffForLine2_T_ALLY",
-      "name": "Resurrect"
+      "name": "Dirilt"
     },
     {
       "id": "Discard",
-      "name": "Discard",
+      "name": "Kaldır",
       "desc": "- Delete Skills that fit the condition and are selectable during the Chaining Phase from the Dashboard. (Defensive & E.G.O Skills do not count. Does not delete the Skill from the upcoming Skills list)\n- Discarded Skills will not activate Skill effects or Coin effects other than effects from Discard, and will not give E.G.O resources."
     },
     {
@@ -1638,21 +1638,21 @@
     },
     {
       "id": "RailBuffForLine2_S_ALLY",
-      "name": "Charge Boost"
+      "name": "Yük Artışı"
     },
     {
       "id": "KnowledgeExplored",
-      "name": "Insight",
+      "name": "İçgörü",
       "desc": "Last Discarded Skill Rank: {0} (Base Value: 1)"
     },
     {
       "id": "Unjust_Enrichment",
-      "name": "Unjust Enrichment",
+      "name": "Usülsüz Zenginlik",
       "desc": "- Gained on Heads Hit against target with Bleed (Max 4)\n- When 'Bullets are Pricey' Passive activates, consume all Unjust Enrichment stack to deal bonus damage"
     },
     {
       "id": "RetaliationBook",
-      "name": "Vengeance Mark",
+      "name": "İntikam İşareti",
       "desc": "Applied to the unit that dealt the most damage to an ally (Max 1)",
       "undefined": "-"
     },
@@ -1664,18 +1664,18 @@
     },
     {
       "id": "DuelDeclaration_DonQuixote",
-      "name": "Declared Duel - Don Quixote",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when another unit inflicts Declared Duel on the same target."
+      "name": "Resmî Düello - Don Quixote",
+      "desc": "- In a Clash between the unit that inflicted Resmî Düello and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Resmî Düello on a different target. Replaced when another unit inflicts Resmî Düello on the same target."
     },
     {
       "id": "DuelDeclaration_Outis",
-      "name": "Declared Duel - Outis",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when another unit inflicts Declared Duel on the same target."
+      "name": "Resmî Düello - Outis",
+      "desc": "- In a Clash between the unit that inflicted Resmî Düello and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Resmî Düello on a different target. Replaced when another unit inflicts Resmî Düello on the same target."
     },
     {
       "id": "DuelDeclaration_Sinclair",
-      "name": "Declared Duel - Sinclair",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when another unit inflicts Declared Duel on the same target."
+      "name": "Resmî Düello - Sinclair",
+      "desc": "- In a Clash between the unit that inflicted Resmî Düello and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Resmî Düello on a different target. Replaced when another unit inflicts Resmî Düello on the same target."
     },
     {
       "id": "VibrationExplosion",
@@ -1694,37 +1694,37 @@
     },
     {
       "id": "FreischutzShotCount",
-      "name": "Magic Bullet",
-      "desc": "- Max Value: 7\n- Value changes depending on certain Skill effects.\n- [Lobotomy E.G.O::Magic Bullet Outis Only]\n· Skill 3 Base Power +{0}\n· Skill 3 Coin Power +{1}"
+      "name": "Sihirli Mühimmat",
+      "desc": "- Max Value: 7\n- Value changes depending on certain Skill effects.\n- [Lobotomy E.G.O::Sihirli Mühimmat Outis Only]\n· Skill 3 Base Power +{0}\n· Skill 3 Coin Power +{1}"
     },
     {
       "id": "DarkFlame",
-      "name": "Dark Flame",
+      "name": "Kara Alev",
       "desc": "- Unique Burn\n- Max Value: 7\n- Target Defense Level -{0}\n- Turn End: Deal ({0} x Burn on target) Pride Affinity damage, then expires"
     },
     {
       "id": "CtrlTeamCaptain",
-      "name": "Control Team Captain",
+      "name": "Kontrol Takımı Kaptanı",
       "desc": "- Skill Slot +1\n- Modify Skill pool: Gain 1 use of Skill 3, but lose 1 use of Skill 1\n- When this unit defeats an enemy with a Skill, 2 allies(including this unit) with the least SP heal 25 SP. Gain +2 E.G.O resource to the Affinity of the Skill that defeated the enemy; gain +1 E.G.O resource to rest of the Affinities"
     },
     {
       "id": "HeatedGasHarpoon",
-      "name": "Heated Gas Harpoon",
+      "name": "Isınmış Gaz Zıpkını",
       "desc": "This Turn: Inflict 1 Burn with Heads Hit"
     },
     {
       "id": "OverHeatedGasHarpoon",
-      "name": "Overheated Gas Harpoon",
+      "name": "Aşırı-Isınmış Gaz Zıpkını",
       "desc": "This Turn: inflict 1 Burn On Hit"
     },
     {
       "id": "CoverAttack",
-      "name": "Assist Attack",
+      "name": "Destek Saldırısı",
       "desc": "- If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with its Skill 1 against the same enemy Unit A attacked with its Skill. Activates at Unit A's Attack End.\n- The Skill used as an Assist Attack does not affect Unit B's upcoming Skills list."
     },
     {
       "id": "ReCompulsion",
-      "name": "Reverse Compulsion",
+      "name": "Ters Baskı",
       "desc": "Heal 15 SP at every Turn Start"
     },
     {
@@ -1735,31 +1735,31 @@
     },
     {
       "id": "BladeResultUpTier1",
-      "name": "Sword of the Homeland - Rending",
+      "name": "Anavatanın Kılıç Oyunu - Kesme",
       "desc": "Skill 1 Final Power +{0} for this turn.",
       "summary": "Skill 1 Final Power +{0}"
     },
     {
       "id": "BladeResultUpTier2",
-      "name": "Sword of the Homeland - Penetrating",
+      "name": "Anavatanın Kılıç Oyunu - Delme",
       "desc": "Skill 2 Final Power +{0} for this turn.",
       "summary": "Skill 2 Final Power +{0}"
     },
     {
       "id": "SwordPlayOfTheHomeland",
-      "name": "Swordplay of the Homeland",
+      "name": "Anavatanın Kılıç Oyunu",
       "desc": "- When at 5+ Poise, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\n- When at 7+ Poise, upon Skill use, Skill 3 deals +(30/# of Coins)% damage and deals +(50/# of Coins)% damage on Critical Hit",
       "summary": "Enhance Skill when over a certain Poise threshold"
     },
     {
       "id": "SwordPlayOfTheMemorial",
-      "name": "Remembrance",
+      "name": "Hatıralar",
       "desc": "When at 5+ Poise, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\nWhen at 7+ Poise, upon Skill use, Skill 3 deals +(30/# of Coins)% damage and deals +(50/# of Coins)% damage on Critical Hit",
       "summary": "Enhance Skill when over a certain Poise threshold"
     },
     {
       "id": "RedApricotBlossom",
-      "name": "Red Plum Blossom",
+      "name": "Erik Çiçeği",
       "desc": "- Unique Bleed\n- Max value: 10\n- +10% chance for this unit to be Critically Hit if this unit is the main target\n- When struck by a Critical Hit, gain Bleed equal to the half of the value and take +({0} x 3)% damage on Critical Hit\n- Reduce value by 1 when hit",
       "summary": "Higher chance to be Critically Hit; take more damage upon Critical Hit"
     },
@@ -1843,223 +1843,223 @@
     },
     {
       "id": "VibrationCollapse",
-      "name": "Tremor - Decay",
+      "name": "Sarsıntı - Çürüme",
       "desc": "Lose 1 Defense Level for every 4 Tremor Potency on self\nFor {1} turns: when Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by {0}\n(Interacts the same way as normal Tremor does to effects that raises or reduces Tremor Potency/Count)",
       "summary": "Lose 1 Defense Level for every 4 Tremor Potency on self\nRaise Stagger Threshold by {0}"
     },
     {
       "id": "EchoOfMansion",
-      "name": "Echoes of the Manor",
-      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Echoes of the Manor. When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit next turn\n- Units without SP: -10% chance to flip Heads\n- Reduce by 1 at Turn End",
+      "name": "Malikanenin Yankıları",
+      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Malikanenin Yankıları. When this unit Panics, inflict 2 Malikanenin Yankıları to 2 random other allies of this unit next turn\n- Units without SP: -10% chance to flip Heads\n- Reduce by 1 at Turn End",
       "summary": ""
     },
     {
       "id": "EchoOfMansion_Main",
-      "name": "Echoes of the Manor",
-      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Change this unit's Panic Type to Echoes of the Manor.\n- When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit\n- Reduced by 1 at Turn End",
+      "name": "Malikanenin Yankıları",
+      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Change this unit's Panic Type to Malikanenin Yankıları.\n- When this unit Panics, inflict 2 Malikanenin Yankıları to 2 random other allies of this unit\n- Reduced by 1 at Turn End",
       "summary": ""
     },
     {
       "id": "EchoOfMansion_Sub",
-      "name": "Echoes of the Manor",
+      "name": "Malikanenin Yankıları",
       "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- -10% chance to flip Heads\n- Reduce by 1 at Turn End",
       "summary": ""
     },
     {
       "id": "VibrationCrack",
-      "name": "Tremor - Fracture",
+      "name": "Sarsınt - Kırılım",
       "desc": "- When Staggered, and when the sum of Tremor Potency and Count adds up to 20 or higher, raise Stagger Level by 1\n- Cannot exceed maximum Stagger Level with this effect\nWhen hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by {0}. Lasts {1} turns\n(Interacts the same way as normal Tremor does to effects that raises or reduces Tremor Potency/Count)",
       "summary": "When Staggered, and when the sum of Tremor Potency and Count adds up to 20 or higher, raise Stagger Level by 1\nRaise Stagger Threshold by {0}"
     },
     {
       "id": "ForwardToTheKing",
-      "name": "Before the King",
+      "name": "Kralın Önünde",
       "desc": "On Hit, inflict 50% of the resulting Coin value On Hit as (Affinity/Attack Type of the Attack Skill used to hit) damage against 2 other attackable enemies with the least HP.",
       "summary": ""
     },
     {
       "id": "ForwardToTheBoundKing",
-      "name": "Before the King in Binds",
+      "name": "Bağlanmış Kralın Önünde",
       "desc": "On Hit, inflict 100% of the resulting Coin value On Hit as (Affinity/Attack Type of the Attack Skill used to hit) damage against 2 other attackable enemies with the least HP.",
       "summary": ""
     },
     {
       "id": "Switch_Vibration",
-      "name": "Amplitude Conversion",
+      "name": "Sarsıntı Uyarlaması",
       "desc": "Converts Tremor or already converted Tremor on target to a different type of Tremor.\nPotency and Count values do not change over the conversion."
     },
     {
       "id": "MarkOfButler",
-      "name": "B.M.",
+      "name": "H.İ",
       "desc": "Enhances Edgar Family Chief Butler Ryōshū Skills against targets with this effect.\nReduced by 1 at Turn End",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LibrarianOfHistoryNormal",
-      "name": "Assistant Librarian of History",
+      "name": "Tarihin Yardımcı Kütüphanecisi",
       "desc": "- Skill Slot +1\n- Heal 15 SP at Turn Start\n- Inflicts double the amount of Potency & Count for Burn, Bleed, Rupture, Sinking, and Tremor. (applies to 'Unique' Status effects as well)",
       "summary": ""
     },
     {
       "id": "PreparedMeat",
-      "name": "Prepared Meat",
+      "name": "Hazırlanmış Et",
       "desc": "If conditions are met, Fairy Queen kills this unit at Turn End"
     },
     {
       "id": "Hunger",
-      "name": "Hunger",
+      "name": "Açlık",
       "desc": "Turn End: gain 1 if this unit failed to defeat an ally with Prepared Meat.\nAt 75%- HP, gain 2. At 50%- HP, gain 3.\nTurn Start: lose 1 if this unit defeated an ally with Prepared Meat.\nAt 0 value, gain (# of allies defeated x 3)Attack Power Down and Defense Power Down.",
       "summary": ""
     },
     {
       "id": "UnstableFeeling",
-      "name": "Volatile Passion",
+      "name": "Dengesiz Tutku",
       "desc": "- On Hit, inflict 1 Burn\n- If the main target has Burn, Final Power +1\n- If this unit has a Defense Skill chained at Combat Start, inflict 1 Burn per hit against the attacker for the turn\n- Turn End: lose ({0} x 5) SP. (Max SP loss : 40)",
       "summary": " "
     },
     {
       "id": "LibrarianOfHistoryHard",
-      "name": "Librarian of History",
+      "name": "Tarih Bölümü Kütüphanecisi",
       "desc": "- Skill Slot +1\n- Heal 15 SP at Turn Start\n- Inflicts double the amount of Potency & Count for Burn, Bleed, Rupture, Sinking, and Tremor. (applies to 'Unique' Status effects as well)\n- When an enemy is defeated, 2 allies(including this unit) with the least SP heal 25 SP.\n- On Kill, gain +2 E.G.O resource for the Affinity that defeated the enemy; +1 to all E.G.O resources",
       "summary": ""
     },
     {
       "id": "PriceOfCare",
-      "name": "Bottomless Hunger",
+      "name": "Bitmeyen Açlık",
       "desc": "Fairy Mass Devoured: {0}",
       "summary": ""
     },
     {
       "id": "VibrationEcho",
-      "name": "Tremor - Reverb",
+      "name": "Sarsıntı - Geri",
       "desc": "- For {1} Turns: On Tremor Burst, take {0} Sloth damage.\n- For {1} Turns: When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by {0}.\n- Turn End: reduce the Count by 1.\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": ""
     },
     {
       "id": "ShieldManagerCryingToad",
-      "name": "Blubberbubble",
+      "name": "Kabkabarcık",
       "desc": "- This effect counts as a 'Shield Management' effect.\n- Turn End: Reduce Count by 1\n- This unit does not lose Shield at Turn End as long as it has the Blubberbubble effect (unless depleted by damage or effect)\n- If the Shield affected by Blubberbubble breaks due to taking damage, inflict 4 Sinking Potency/Count against the attacker. (How much of that '4' value is Potency or Count is randomly determined)\n- This unit can stack their Shield value by using this effect. However, as long as Blubberbubble is in effect, the Shield value cannot exceed 60% of this unit's Max HP.",
       "summary": ""
     },
     {
       "id": "VibrationContinue",
-      "name": "Tremor - Everlasting",
+      "name": "Sarsıntı - Bitmeyen",
       "desc": "- When hit by Skills or Coin effects that trigger Tremor Burst, (Tremor Potency on self)% chance to trigger an additional Tremor Burst. (max 50%)\n- When hit by Skills or Coin effects that trigger Tremor Burst, (Tremor Count on self)% chance to trigger an additional Tremor Burst. (max 50%)\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": ""
     },
     {
       "id": "TimeSuspend",
-      "name": "Time Moratorium",
+      "name": "Zaman Gözetimi",
       "desc": "- Does not take any damage as long as this effect is active; store all damage received instead\n- Combat End: If there is only 1 Count left of this effect, the effect triggers {0} Tremor Burst(s) after dealing {3} Sloth damage.\n- Turn End: gain 1 Stack and lose 1 Count\n- The Time Moratorium will immediately expire after triggering the Tremor Burst and the Sloth damage effect if another instance of Time Moratorium is inflicted on a unit with Time Moratorium.\n- Stored damage: {2}",
       "summary": ""
     },
     {
       "id": "TimeRentalTwoPersonality",
-      "name": "Borrowed Time",
+      "name": "Zaman Borcu",
       "desc": "Turn End at 2+ Count:\n- Gain {1} Haste, Clash Power Up, and Fragile next turn\n- If this unit is set to gain more Bind than Haste next turn, the Borrowed Time effect expires at the next Turn Start, and this unit gets Staggered\n\nTurn End: At 1 Count, gain {0} Bind next turn\nTurn End: Gain 1 Stack, lose 1 Count",
       "summary": ""
     },
     {
       "id": "VibrationChainPersonality",
-      "name": "Tremor - Chain",
+      "name": "Sarsıntı - Zincir",
       "desc": "- Lose 1 Clash Power for every 10 Tremor Potency on self (max 3)\n- When Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": ""
     },
     {
       "id": "GazePersonality",
-      "name": "Gaze of Contempt",
+      "name": "Tefekkür Bakışı",
       "desc": "- Max Value: 7\n- Deal +7% damage for every Gaze of Contempt\n- Turn End: this effect expires\n- Turn End: At 7 Gaze of Contempt value, convert it to Contempt of the Gaze next turn instead of expiring",
       "summary": ""
     },
     {
       "id": "ContemptPersonality",
-      "name": "Contempt of the Gaze",
+      "name": "Bakışa Tefekkür",
       "desc": "- Gain 7 Protection\n- Gain 7 Damage Down\n- One of this unit's Skill Slots gains +20 Aggro\n- Cannot gain Gaze of Contempt as long as Contempt of the Gaze is active\n- Turn End: this effect expires",
       "summary": ""
     },
     {
       "id": "KnowledgeTraining",
-      "name": "Erudition",
+      "name": "Bilgelik",
       "desc": "- Max Value: 6\n- When Discarding a Skill, gain (Erudition x 1.5)% of this unit's max HP as Shield (once per turn)\n- If this unit Discards a Skill at 2+ Insight, gain 1 Clash Power (once per turn)\n- Reduced by 1 when taking HP damage after getting hit by an enemy's Attack Skill\n- Expires when Staggered",
       "summary": ""
     },
     {
       "id": "BoseProjektil",
-      "name": "Torn Memory",
+      "name": "Tükenmiş Hafıza",
       "desc": "- Max Value : 7\n- Used for certain Skills",
       "summary": ""
     },
     {
       "id": "ChargeLoad",
-      "name": "Load",
+      "name": "Yükleme",
       "desc": "- Max Value: 6\n- Attack Skills that consumed Charge Count: deal +({0} x 2.5)% damage (max 15%)\n- If the affected unit is a W Corp. employee, deal +({0} x 5)% damage instead. (max 30%)\n- Turn End: this effect expires",
       "summary": ""
     },
     {
       "id": "PhotoElectricity",
-      "name": "Photoelectricity",
+      "name": "Fotoelektriklenme",
       "desc": "Max Value: 3\nWhen this unit is hit, the Attacker gains Charge Count equal to the value (once per Skill)\n- If the Attacker has 5- Charge Count, they gain +3 additional Charge Count\nTurn End: this effect expires",
       "summary": ""
     },
     {
       "id": "AaCfPaBa_Alt1",
-      "name": "Unending Bereavement",
+      "name": "Dinmeyen Yas",
       "desc": "Every Turn Start: heal 5 SP\nWhen hit, lose 3 SP and gain 2 Offense Level Up next turn (3 times per turn)\nTurn Start: at less than 0 SP, gain 3 Attack Power Up",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCfPaBa_Alt2",
-      "name": "Behead Heathcliffs",
+      "name": "Heathcliff’lerin Kellesini Uçur",
       "desc": "Every Turn Start: heal 10 SP\nWhen hit, gain 2 Offense Level Up next turn (3 times per turn)\nTurn Start: at less than 0 SP, gain 3 Attack Power Up",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBa_Alt1",
-      "name": "Pouring Wrath",
+      "name": "Taşan Öfke",
       "desc": "Turn End: heal 10 SP\nWhen hit, gain 1 Offense Level Up next turn (3 times per turn)\nTurn Start: at less than 0 SP, gain 3 Attack Power Up\nTurn Start: if this unit has Dullahan, gain 1 Damage Up and 3 Defense Level Down",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBa_Alt2",
-      "name": "Behead Heathcliffs",
+      "name": "Heathcliff’lerin Kellesini Uçurun",
       "desc": "Turn End: heal 10 SP\nWhen hit, gain 1 Offense Level Up next turn (3 times per turn)\nTurn Start: at less than 10 SP, gain 3 Attack Power Up\nTurn Start: if this unit has Dullahan, gain 3 Damage Up and 3 Defense Level Down",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBa_Alt3",
-      "name": "Affection and Hatred",
+      "name": "Sevgi ve Nefret",
       "desc": "Turn End: heal 15 SP\nOn Hit, gain 1 Haste and 1 Offense Level Up next turn (3 times per turn)\nTurn Start: at less than 10 SP, gain 3 Attack Power Up\nTurn Start: if this unit has Dullahan, gain 3 Damage Up",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBa_Alt4",
-      "name": "Faded Promise",
+      "name": "Sönmüş Dilek",
       "desc": "Turn End: heal 15 SP\nOn Hit, gain 1 Offense Level Up next turn (3 times per turn)\nTurn Start: at less than 20 SP, gain 3 Attack Power Up\nTurn Start: if this unit has Dullahan, gain 3 Damage Up and 3 Offense Level Up\nAt 1 HP, heal 40% HP and 25 SP (once per Encounter)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBa_Alt5",
-      "name": "Faded Promise",
+      "name": "Sönmüş Dilek",
       "desc": "Turn End: heal 15 SP\nOn Hit, gain 1 Offense Level Up next turn (3 times per turn)\nTurn Start: at less than 20 SP, gain 3 Attack Power Up\nTurn Start: if this unit has Dullahan, gain 3 Damage Up and 3 Offense Level Up\nAs long as there is at least 1 other surviving ally, Heathcliff's HP does not drop below 1\nAt 1 HP, heal 40% HP and 25 SP (once per Encounter)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Coffin",
-      "name": "Coffin",
+      "name": "Mezar",
       "desc": "- Max Value: 10\n- At Turn End:\n  - Gain 2 Damage Up next turn for every 3 Value (max 6)\n  - Raise minimum Speed by 1 next turn for every 4 Value (max 2)\n  - Gain 1 Clash Power Up next turn for every 5 Value (max 2)",
       "summary": ""
     },
     {
       "id": "WildHunt",
-      "name": "Wild Hunt",
+      "name": "Vahşi Av",
       "desc": "- In the same turn this unit gained Wild Hunt for the first time, always have 1 remaining HP; \"revive\"(heal 50% HP and reset SP to 0) this unit at Turn End.\n- On death, gain 1 E.G.O resource for the least-owned E.G.O resource\n- If this unit is killed by an attack, inflict 3 Sinking against the last attacker\n- Dies at the end of the same turn this unit was revived in",
       "summary": ""
     },
@@ -2071,176 +2071,176 @@
     },
     {
       "id": "WanderingFootsteps",
-      "name": "Impending Ruin",
+      "name": "Yaklaşan Yıkım",
       "desc": "- Units with SP: change their Panic Type to \"\"Ruin\"\".\n(Ruin: When this unit enters Low Morale state, gain 3 Sinking at every Turn End and lose 1 Clash Power. When this unit Panics, gain 5 Sinking and 3 Sinking Count at every Turn End and lose 2 Clash Power)\n- Units without SP: -10% chance to flip Heads\n- Reduced by 1 at Turn End\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value.\n※ Apply the \"\"Units without SP\"\" conditional to certain enemies that have SP but can't change their Panic Types.",
       "summary": ""
     },
     {
       "id": "WanderingFootsteps_Main",
-      "name": "Impending Ruin",
+      "name": "Yaklaşan Yıkım",
       "desc": "- Targets with SP: Change their Panic Type to 'Ruin'\n- Reduced by 1 at Turn End",
       "summary": ""
     },
     {
       "id": "WanderingFootsteps_Sub",
-      "name": "Impending Ruin",
+      "name": "Yaklaşan Yıkım",
       "desc": "- -10% chance to flip Heads\n- Reduced by 1 at Turn End",
       "summary": ""
     },
     {
       "id": "WanderingFootsteps_LowMorale",
-      "name": "Ruin",
+      "name": "Mahvolmuş",
       "desc": "- Low Morale\n- Clash Power -1 on self. Gain 3 Sinking at every Turn End",
       "summary": "Clash Power -1 on self. Gain 3 Sinking at every Turn End",
       "undefined": "-"
     },
     {
       "id": "WanderingFootsteps_Panic",
-      "name": "Ruin",
+      "name": "Mahvolmuş",
       "desc": "- Panic\n- Clash Power -2 on self. Gain 5 Sinking and +3 Sinking Count at every Turn End",
       "summary": "Clash Power -2 on self. Gain 5 Sinking and +3 Sinking Count at every Turn End",
       "undefined": "-"
     },
     {
       "id": "UninvitedGuestPersonality",
-      "name": "The Uninvited",
+      "name": "Davet Edilmeyen",
       "desc": "- Max Value: 2\n- Upon death, the last attacker heals 3 SP; then, a random ally without this effect gains 2 Stacks of this effect.\n- Take +0.5% damage for every Sinking on self (max 10%; for Focused Encounters, count Sinking on each Part separately)\n- Turn End: reduced by 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DevyatDimensionalSack",
-      "name": "Courier Trunk - Rodion",
+      "name": "Kurye Zulası - Rodion",
       "desc": "- Base Value: 0\n- Turn Start: gain 3 Stack\n- Stack does not expire upon Retreat; it is stored instead\n- At 10+ Stack: raise Min & Max Speed values by 1\n- At 20+ Stack: Gain 1 Clash Power Up and 1 Slash Damage Up\n- At 30+ Stack:\n· On Skill Use, take (Stack/3)% HP damage and (Stack/3) SP damage\n· On Turn End, take (Stack/2)% HP damage and (Stack/2) SP damage (applies before Retreat)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Retreat",
-      "name": "Strategic R&R Mode",
+      "name": "Stratejik Dinlenme",
       "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DefensiveStance",
-      "name": "Defensive Stance",
+      "name": "Defansif Duruş",
       "desc": "- Max Value: 2\n- This effect does not compound in potency; stacking it only extends its duration.\n- Reduced by 1 at Turn End\n- When a unit gains this effect, gain the following effects next turn:\n  · Fix this unit's Speed to its minimum value\n  · Gain 5 Defense Level Up\n  · Each of this unit's Slots gain +(10 / this unit's # of Slots) Aggro\n  · When chaining Skills, this unit can draw enemies' attack toward this unit regardless of Speed (Focused Encounters only)\n  · Upon Clash Win, trigger Tremor Burst\n  · Cannot be Staggered by damage",
       "summary": ""
     },
     {
       "id": "CanDuelGuard",
-      "name": "Clashable Guard",
+      "name": "Çarpışabilen Karşı Saldırı",
       "desc": "- On Clash Win: raise the target's Stagger Threshold by this unit's final Clash Power.\n- On Clash Lose: when hit, reduce the attacker's final Skill Power by this unit's Final Power.\n- On Clash Lose: does not gain Final Power from the following sources: Resonance and the Level disparity against the Attack Skill",
       "summary": ""
     },
     {
       "id": "SuperCoin",
-      "name": "Unbreakable Coin",
+      "name": "Kırılmayan Jeton",
       "desc": "- This coin does not break upon Clash Lose.\n- If an Attack Skill has this Coin, attack with this Coin after getting hit.\n- Upon Clash Lose, fix the Coin Power of the unbroken Coin to 1",
       "summary": ""
     },
     {
       "id": "BloodScissorPersonalityFirst",
-      "name": "Blood-tinged Scissorblades",
-      "desc": "- Max Value: 10\n- Stage 1 Blood-tinged Scissorblades\n- At 10+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades II.\n- At 20+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- Blood-tinged Scissorblades does not drop below 1.\n- At Blood-tinged Scissorblades II, gain 1 Offense Level Up and 1 Defense Level Down based on the Stack\n- At Blood-tinged Scissorblades III, gain 1 Offense Level Up based on the Stack",
+      "name": "Kan Bulaşmış Makas",
+      "desc": "- Max Value: 10\n- Stage 1 Kan Bulaşmış Makas\n- At 10+ Kan Bulaşmış Makas, converts to Kan Bulaşmış Makas II.\n- At 20+ Kan Bulaşmış Makas, converts to Kan Bulaşmış Makas III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- Kan Bulaşmış Makas does not drop below 1.\n- At Kan Bulaşmış Makas II, gain 1 Offense Level Up and 1 Defense Level Down based on the Stack\n- At Kan Bulaşmış Makas III, gain 1 Offense Level Up based on the Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodScissorPersonalitySecond",
-      "name": "Blood-tinged Scissorblades II",
-      "desc": "- Max Value: 20\n- Stage 2 Blood-tinged Scissorblades\n- Turn Start: gain 1 Offense Level Up and 1 Defense Level Down for every 5 Stack\n- At 10+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades II.\n- At 20+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- Blood-tinged Scissorblades does not drop below 1.\n- At Blood-tinged Scissorblades II, gain 1 Offense Level Up and 1 Defense Level Down based on the Stack\n- At Blood-tinged Scissorblades III, gain 1 Offense Level Up based on the Stack",
+      "name": "Kan Bulaşmış Makas II",
+      "desc": "- Max Value: 20\n- Stage 2 Kan Bulaşmış Makas\n- Turn Start: gain 1 Offense Level Up and 1 Defense Level Down for every 5 Stack\n- At 10+ Kan Bulaşmış Makas, converts to Kan Bulaşmış Makas II.\n- At 20+ Kan Bulaşmış Makas, converts to Kan Bulaşmış Makas III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- Kan Bulaşmış Makas does not drop below 1.\n- At Kan Bulaşmış Makas II, gain 1 Offense Level Up and 1 Defense Level Down based on the Stack\n- At Kan Bulaşmış Makas III, gain 1 Offense Level Up based on the Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodScissorPersonalityThird",
-      "name": "Blood-tinged Scissorblades III",
-      "desc": "- Max Value: 30\n- Stage 3 Blood-tinged Scissorblades\n- Turn Start: gain 1 Offense Level Up for every 5 Stack\n- At 10+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades II.\n- At 20+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- Blood-tinged Scissorblades does not drop below 1.\n- At Blood-tinged Scissorblades II, gain 1 Offense Level Up and 1 Defense Level Down based on the Stack\n- At Blood-tinged Scissorblades III, gain 1 Offense Level Up based on the Stack",
+      "name": "Kan Bulaşmış Makas III",
+      "desc": "- Max Value: 30\n- Stage 3 Kan Bulaşmış Makas\n- Turn Start: gain 1 Offense Level Up for every 5 Stack\n- At 10+ Kan Bulaşmış Makas, converts to Kan Bulaşmış Makas II.\n- At 20+ Kan Bulaşmış Makas, converts to Kan Bulaşmış Makas III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- Kan Bulaşmış Makas does not drop below 1.\n- At Kan Bulaşmış Makas II, gain 1 Offense Level Up and 1 Defense Level Down based on the Stack\n- At Kan Bulaşmış Makas III, gain 1 Offense Level Up based on the Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LineCuttingPersonality",
-      "name": "Sewing Target",
+      "name": "Dikişlenmiş Hedef",
       "desc": "- Max Value: 1\n- Take +0.5% damage for every Bleed (max 10%)\n- Turn End: reduced by 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Snare",
-      "name": "Lasso",
+      "name": "Yeşil Kement",
       "desc": "- Max Value: 3\n- Turn End: gain Rupture Potency equal to this unit's current Speed value (max 5), and gain 1 Bind next turn\n- Turn End: reduced by 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHandGregFirst",
-      "name": "Bloodied Hand",
+      "name": "Kanlı El",
       "desc": "- Max Value: 10\n- Stage 1 Bloodied Hand\n- At 10+ Bloodied Hand, converts to Bloodied Hand II.\n- At 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- At Bloodied Hand II, gain 1 Offense Level Up based on the Stack\n- At Bloodied Hand III, gain 1 Offense Level Up based on the Stack, and additionally inflict 1 Rupture and 1 Bleed On Hit with Base Skills",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHandGregSecond",
-      "name": "Bloodied Hand II",
+      "name": "Kanlı El II",
       "desc": "- Max Value: 20\n- Stage 2 Bloodied Hand\n- Turn Start: gain 1 Offense Level Up for every 10 Stack\n- At 10+ Bloodied Hand, converts to Bloodied Hand II.\n- At 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- At Bloodied Hand II, gain 1 Offense Level Up based on the Stack\n- At Bloodied Hand III, gain 1 Offense Level Up based on the Stack, and additionally inflict 1 Rupture and 1 Bleed On Hit with Base Skills",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHandGregThird",
-      "name": "Bloodied Hand III",
+      "name": "Kanlı El III",
       "desc": "- Max Value: 30\n- Stage 3 Bloodied Hand\n- Turn Start: gain 1 Offense Level Up for every 10 Stack\n- On Hit with Base Skills: additionally inflict 1 Rupture and 1 Bleed\n- At 10+ Bloodied Hand, converts to Bloodied Hand II.\n- At 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- At Bloodied Hand II, gain 1 Offense Level Up based on the Stack\n- At Bloodied Hand III, gain 1 Offense Level Up based on the Stack, and additionally inflict 1 Rupture and 1 Bleed On Hit with Base Skills",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WornHeartGreg",
-      "name": "Ailing Heart",
+      "name": "Yaralı Gönül",
       "desc": "- Max Value: 10\n- Turn End: gain 1 Stack\n- Turn Start: gain 1 Defense Level Up for every 3 Stack\n- At 50%- HP, gain 1 Defense Level for every 3 Stack\n- At 40%- HP, On Hit with Base Skills, heal (Stack x 5)% of damage dealt On Hit as HP (min 1; rounded down; heal up to 30 HP per Skill)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloomingThornsRodionFirst",
-      "name": "Blooming Thorn",
+      "name": "Kanlı Dikenler",
       "desc": "- Max Value: 10\n- Stage 1 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture with this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloomingThornsRodionSecond",
-      "name": "Blooming Thorn II",
+      "name": "Kanlı Dikenler II",
       "desc": "- Max Value: 20\n- Stage 2 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture with this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloomingThornsRodionThird",
-      "name": "Blooming Thorn III",
+      "name": "Kanlı Dikenler III",
       "desc": "- Max Value: 30\n- Stage 3 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture with this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FestivalFeverRodion",
-      "name": "Festive Fever",
+      "name": "Şenlik Heyecanı",
       "desc": "- Max Value: 10\n- Expires at Turn End\n- Deal +({0} x 1.5)% damage against targets with Bleed\n- Skills that consume or gain Bloodfeast : deal +({0} x 3)% damage instead",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VibrationSpring",
-      "name": "Tremor - Clockwinding",
+      "name": "Sarsıntı - Saatçevirme",
       "desc": "- Max Speed + 2\n- Inflict 1 more of each when inflicting Tremor Potency of Count with this unit's Skill or Coin effects by consuming 1 Tremor Count on self\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": "Max Speed +2\nConsume Tremor Count on self to inflict +1 more Tremor Potency and Count",
       "undefined": "-"
     },
     {
       "id": "DevyatDimensionalSackSinclair",
-      "name": "Courier Trunk - Sinclair",
+      "name": "Kurye Zulası - Sinclair",
       "desc": "- Base Value: 0\n- Turn Start: gain 3 Stack\n- Stack does not expire upon Retreat; it is stored instead\n- At 10+ Stack: raise Min & Max Speed values by 1\n- At 20+ Stack: Gain 1 Clash Power Up and 1 Blunt Damage Up\n- At 30+ Stack:\n· On Skill Use, take (Stack/3)% HP damage and (Stack/3) SP damage\n· On Turn End, take (Stack/2)% HP damage and (Stack/2) SP damage (applies before Retreat)",
       "summary": "",
       "undefined": "-"
@@ -2283,42 +2283,42 @@
     },
     {
       "id": "FreishutzOutisEgoBullet_1st",
-      "name": "The First Magic Bullet",
+      "name": "Birinci Sihirli Mühimmat",
       "desc": "- Deals +20% damage\n- Raise the target's Stagger Threshold by damage dealt (max 30)"
     },
     {
       "id": "FreishutzOutisEgoBullet_2nd",
-      "name": "The Second Magic Bullet",
+      "name": "İkinci Sihirli Mühimmat",
       "desc": "- Deal +10% damage\n- Deal damage to targets other than the main target (max targets: 4); the main target takes 0 damage\n- On Hit, inflict 3 Paralyze"
     },
     {
       "id": "FreishutzOutisEgoBullet_3rd",
-      "name": "The Third Magic Bullet",
+      "name": "Üçüncü Sihirli Mühimmat",
       "desc": "- Deal +20% damage\n- Before Attack: gain +2 Atk Weight\n- On Hit, inflict 2 Attack Power Down and 10 Burn"
     },
     {
       "id": "FreishutzOutisEgoBullet_4th",
-      "name": "The Fourth Magic Bullet",
+      "name": "Dördüncü Sihirli Mühimmat",
       "desc": "- Deal +30% damage\n- Before Attack: gain +3 Atk Weight\n- On Hit, raise the target's Stagger Threshold by damage dealt (max 20); then, inflict 3 Fragility next turn"
     },
     {
       "id": "FreishutzOutisEgoBullet_5th",
-      "name": "The Fifth Magic Bullet",
+      "name": "Beşinci Sihirli Mühimmat",
       "desc": "- Deal +30% damage\n- Before Attack: gain +4 Atk Weight\n- On Hit, inflict 10 Burn; then, inflict 4 Offense Level down and 4 Defense Level Down next turn"
     },
     {
       "id": "FreishutzOutisEgoBullet_6th",
-      "name": "The Sixth Magic Bullet",
+      "name": "Altıncı Sihirli Mühimmat",
       "desc": "- Before Attack: gain +6 Atk Weight\n- On Hit, raise the target's Stagger Threshold by damage dealt (max 30)\n- Reuse the Coin for every 7 Burn on the main target (2 times max)\n- Plus Coin Skill Base Power -16\n- Minus Coin Skill Base Power -22\n - Plus Coin Power -8\n - Minus Coin Power -12"
     },
     {
       "id": "FreishutzOutisEgoBullet_7th",
-      "name": "The Seventh Magic Bullet",
+      "name": "Yedinci Sihirli Mühimmat",
       "desc": "- Deal +200% damage\n- Deal +2.5% damage for every 1% missing HP on target (max 200%)\n- Before Attack: for this attack, if the Pierce Damage Res. on target or on self are less than 2.0, change them to Fatal(x2.0)\n- After Attack: kills this unit"
     },
     {
       "id": "FreishutzOutisEgoBulletCnt",
-      "name": "Marksman's Bullet",
+      "name": "Nişancının Mermisi",
       "desc": "Uses a different Ammo depending on Marksman's Bullet"
     },
     {
@@ -2348,88 +2348,88 @@
     },
     {
       "id": "MeleeCover",
-      "name": "Melee Support",
+      "name": "Yakın Destek",
       "desc": "- If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with the 'Melee Support' Skill against the same enemy that attacked Unit A. Activates at Unit A's Skill End.\n- The Skill used due to the 'Melee Support' effect does not affect Unit B's upcoming Skills list."
     },
     {
       "id": "RequestedTarget",
-      "name": "Requested Target",
+      "name": "Hedef Belirlendi",
       "desc": "+0.2 Resistance to Attack Types with 1.5 or less Resistance. If the target with this effect is defeated, gain 1 E.G.O resource for all Affinities, and the unit that defeated the target heals 10 SP"
     },
     {
       "id": "GlowingLantern",
-      "name": "Fairy Lure",
+      "name": "Peri Tütsüsü",
       "desc": "- Max Stack: 5\n- Turn Start: leftmost Slot on the Dashboard gains +10 Aggro\n- Take +50% damage\n- When hit, inflict 1 Rupture against the Attacker (3 times per target's Skill)\n· At less than 50% HP, inflict 1 additional Rupture\n· If the target has 15+ Rupture, this effect does not inflict Rupture\n- Reduced by 1 at Turn End"
     },
     {
       "id": "HoldingBreath",
-      "name": "Deep Inhale",
+      "name": "Derin Nefes",
       "desc": "- Max Stack: 20\n- On Crit, at 15+ Poise Potency and 5+ Poise Count, consume (Poise Potency on self / 5) Poise Potency to deal +(Poise Potency consumed x 4)% damage on Critical Hit and lose 1 Stack",
       "summary": "Deal more Damage on Critical Hit"
     },
     {
       "id": "NebulizerInhale",
-      "name": "Nebulizer β",
+      "name": "Nebülizatör β",
       "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- When activating Pride A-Reson.: on Combat Start, apply 3 Poise and +3 Poise Count on self and (Stack) allies (prioritizes allies that gain or use Poise or Poise Count; among them, prioritize allies with the least Poise Potency)",
       "summary": "Gain Poise and Poise Count"
     },
     {
       "id": "Hohenheim_LowMorale",
-      "name": "Anguish",
+      "name": "Izdırap I",
       "desc": "Turn Start: gain 1 Fragile and 2 SP Heal Efficiency Down"
     },
     {
       "id": "Hohenheim_Panic",
-      "name": "Anguish",
+      "name": "Izdırap II",
       "desc": "Turn Start: gain 2 Fragile and 3 SP Heal Efficiency Down"
     },
     {
       "id": "BlackCloud",
-      "name": "Dark Cloud",
+      "name": "Kara Bulut",
       "desc": "Max Stack: 1\nConverts all of this unit's Base Attack Skill Coins used this turn to [Unbreakable Coins], prevents damage from Staggering this unit until Skill End, and inflict +1 more of Bleed effects\nOn Clash Lose: gain Final Power +3\nTurn End: this effect expires"
     },
     {
       "id": "BlackCloudBlade",
-      "name": "Dark Cloud Blade",
+      "name": "Kara Bulut Kılıcı",
       "desc": "Max Stack: 1\nGain 1 Slash Power\nInflict 1 Bleed On Hit with Slash Skills"
     },
     {
       "id": "EngageToBattle",
-      "name": "Battle Ready",
+      "name": "Savaşa Hazır",
       "desc": "Max Value: 1\nBleed Potency and Count inflicted with this unit's Skill or Coin effects: +1\nGain 1 Slash Power Up and 3 Slash DMG Up for the duration of this Encounter"
     },
     {
       "id": "CloudWall",
-      "name": "Cumulus Wall",
+      "name": "Buharlı Duvar",
       "desc": "Max Stack: 1\nDefense Skill Final Power +1\nThis effect expires at Turn End or after the following attack ends: 'Rules of the Backstreets'"
     },
     {
       "id": "NebulizerExhale",
-      "name": "Nebulizer α",
+      "name": "Nebülizatör α",
       "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- Combat Start: on all allies, including this unit, apply 1 Poise Potency and +1 Poise Count"
     },
     {
       "id": "ReleaseBreath",
-      "name": "Shallow Exhale",
+      "name": "Tutuk Nefes",
       "desc": "- Max Value: 1\n- At 20+ Poise Potency, gain +1 Count as well whenever this unit gains Poise Potency with Skill and Coin effects\n- Expires at Turn End"
     },
     {
       "id": "FirePunchFuel",
-      "name": "District 12 Fuel",
+      "name": "12. Eyalet Yakıtı",
       "desc": "Max Stack: 100\nConsumed by certain Skills.\nAt 50- Stack, become Overheated Fuel\nFuel consumed: {0}",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FirePunchFuelOverheated",
-      "name": "Overheated Fuel",
+      "name": "Yanmış Yakıt",
       "desc": "Max Stack: 100\nConsuming District 12 Fuel in Overheated Fuel State consumes Overheated Fuel instead\nConsuming Overheated Fuel counts as consuming District 12 Fuel\nAt over 50 Stack, become District 12 Fuel\nFuel consumed: {0}",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DianxueDonQuixote",
-      "name": "Nerve Strike - Don Quixote",
+      "name": "Sinir Saldırısı - Don Quixote",
       "desc": "- Max Stack: 3\n- The unit that inflicted this Nerve Strike gains the following effects based on target's(or targeted Part's) Nerve Strike Stack\n· 1x Stack: Gain Clash Power +1\n· 2x Stack: Gain Base Power +1\n· 3x Stack: Gain Clash Power +1 and Base Power +1\n- Expires if the unit that inflicted it inflicts this effect against a different target(or a different Part)\n- Replaced when another unit inflicts Nerve Strike",
       "summary": "",
       "undefined": "-"
@@ -2444,14 +2444,14 @@
     {
       "id": "VendettaMark",
       "name": "Vendetta Mark",
-      "desc": "- Max Stack: 10\n- Consumed by certain Skills or Passives\n- Take +2% damage from The Middle enemies for every Stack (max 20%)\n- Turn End: the unit with the highest Stack of this effect gains 1 Sibling Vengeance Mark next turn\n(Counted separately from Vengeance Mark; if more than a single unit has the highest Stack of this effect, this effect targets the one with a higher HP percentage)",
+      "desc": "- Max Stack: 10\n- Consumed by certain Skills or Passives\n- Take +2% damage from The Middle enemies for every Stack (max 20%)\n- Turn End: the unit with the highest Stack of this effect gains 1 Sibling İntikam İşareti next turn\n(Counted separately from İntikam İşareti; if more than a single unit has the highest Stack of this effect, this effect targets the one with a higher HP percentage)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RetaliationBookFamily",
-      "name": "Sibling Vengeance Mark",
-      "desc": "- Max Stack: 1\n- Expires at Turn End\n- Every Identity treats this unit as having their Vengeance Mark",
+      "name": "Sibling İntikam İşareti",
+      "desc": "- Max Stack: 1\n- Expires at Turn End\n- Every Identity treats this unit as having their İntikam İşareti",
       "summary": "",
       "undefined": "-"
     }
