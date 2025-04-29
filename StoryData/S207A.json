@@ -42,7 +42,7 @@
       "model": "소드",
       "teller": "Saude",
       "title": "LSŞÖ",
-      "content": "Oh, demeden geçmeyeyim, Effie ve ben farklı bir kuruluşta görevliyiz. Onları bizimle aynı kefeye koymayın lütfen."
+      "content": "Oh, demeden geçmeyeyim, Effie ve ben farklı bir departmanda görevliyiz. Onları bizimle aynı kefeye koymayın lütfen."
     },
     {
       "id": 7,
@@ -53,7 +53,7 @@
     },
     {
       "id": 8,
-      "content": "Mantık çerçevesinde bir iletişim yürütmeye olan odağımız, muhtemelen çete liderinin bayılmasında büyük katkı sağlamıştı."
+      "content": "Mantık çerçevesi dışındaki konuşmalarımızın açtiği şaşırmışlık ve öfke, muhtemelen çete liderinin bayılmasında büyük katkı sağlamıştı."
     },
     {
       "id": 9,
@@ -66,7 +66,7 @@
     },
     {
       "id": 11,
-      "content": "Rodya pek bir şikayetçiydi, elinde ise, bir Tingtang üyesinden aldığı kıyafeti çöp misali sallıyordu."
+      "content": "Diye şikayet etti Rodya,elinde bir Tingtang üyesinden aldığı kıyafeti iğrenip iki parmağı arasında tutarak."
     },
     {
       "id": 12,
@@ -76,14 +76,14 @@
     {
       "id": 13,
       "model": "단테",
-      "content": "<I can see, by the way…>"
+      "content": "<Biliyormusun bilmem ama… Bende görebiliyorum, evet.>"
     },
     {
       "id": 14,
       "model": "에피",
       "teller": "Effie",
       "title": "LSŞÖ",
-      "content": "Aslında bu… pek hoş görünüyor? Gel gör ki muhtemelen işleri düşündüğümüzden daha başarılı geçiyordu."
+      "content": "Aslında bu… pek hoş görünüyor? Gel gör ki muhtemelen işleri düşündüğümüzden daha başarılı ilerliyordu."
     },
     {
       "id": 15,
@@ -100,23 +100,23 @@
     {
       "id": 17,
       "model": "단테",
-      "content": "<…The label here says it’s good for all girths.>"
+      "content": "<…Etiketinde her beden için uygun olduğu yazıyor>"
     },
     {
       "id": 18,
-      "content": "Bakışlarımın kıyafetin üzerindeki ambleme kaydığını gören Effie, bir anda kuduruvermişti."
+      "content": "Bakışlarımın kıyafetin üzerindeki ambleme kaydığını gören Effie, bir anda sinirlendi."
     },
     {
       "id": 19,
       "model": "에피",
       "teller": "Effie",
       "title": "LSŞÖ",
-      "content": "Grr… Rehinecide o kadar kargaşa çıkartmasanız, şu an bu duruma düşmüyor olurduk."
+      "content": "Hey… Rehinecide o kadar kargaşa çıkartmasanız, şu an bu duruma düşmüyor olurduk."
     },
     {
       "id": 20,
       "model": "홍루",
-      "content": "Bana sorun değil. Hep böyle kıyafetler giymeyi dilemiştim. Bir film çekiyoruz sanki."
+      "content": "Bana sorun değil. Hep böyle kıyafetler giymeyi dilemiştim. Bir film çekiyormuş gibi."
     },
     {
       "id": 21,
@@ -142,15 +142,15 @@
     },
     {
       "id": 25,
-      "content": "Gregor'un yumuşak bir ses ile söylediği cevabı, Günahkarları az daha çıldırtacaktı."
+      "content": "Gregor'un yumuşak sesle söylenmiş cevabı, Günahkârları az daha çıldırtıyordu."
     },
     {
       "id": 26,
-      "content": "Bir anlığına, Saude ve Effie bu cevabı nasıl karşılamaları gerektiğini düşündü…"
+      "content": "Bir anlığına, Saude ve Effie bu cevabı nasıl karşılamaları gerektiğini konusunda duraksama yaşadı…"
     },
     {
       "id": 27,
-      "content": "Tabii akabinde bunun üzerine durmanın mantıksız olacağını düşünüp, yola devam ettiler. Effie ise içi sedef ile kaplanmış bir konteynırı yerden alıp kaldırmıştı."
+      "content": "Tabii akabinde bunun üzerine durmanın mantıksız olacağını düşünüp, yollarına devam ettiler. Effie ise içi sedef taşı ile kaplanmış bir kabı yerden aldı."
     },
     {
       "id": 28,
@@ -169,7 +169,7 @@
     {
       "id": 30,
       "model": "단테",
-      "content": "<What are you…?>"
+      "content": "<Neyden bahsediyor…?>"
     },
     {
       "id": 31,
@@ -183,7 +183,7 @@
       "model": "에피",
       "teller": "Effie",
       "title": "LSŞÖ",
-      "content": "İşin aslı, bu kutular J Kuruluşu'nun Tekillik'ini içinde bulunduruyor. Elimizdeki şey, insanların 'dileklerini' emip enerji olarak depolayan bir aygıt."
+      "content": "İşin aslı, bu kutular J Kuruluşu'nun Tekilliğini içinde bulunduruyor. Elimizdeki şey, insanların “Şans”ını emip bir çeşit enerji olarak depolayan bir aygıt."
     },
     {
       "id": 33,
@@ -209,7 +209,7 @@
     {
       "id": 36,
       "model": "단테",
-      "content": "<Am I really allowed to carry such a big responsibility?>"
+      "content": "<Bu kadar büyük bir sorumluğu cidden ben mi taşıyacağım? Bunu yapabilirmiyim ki ?>"
     },
     {
       "id": 37,
@@ -230,7 +230,7 @@
       "model": "에피",
       "teller": "Effie",
       "title": "LSŞÖ",
-      "content": "Mimik okumakta ne kadar iyi olursan ol, bir saatin arkasındaki duyguları hiç bii okuyamayacak."
+      "content": "Mimik okumakta ne kadar iyi olursan ol, bir saatin arkasındaki duyguları hiç biri okuyamayacak."
     },
     {
       "id": 40,
@@ -257,19 +257,19 @@
     },
     {
       "id": 44,
-      "content": "Müdür olduğum halde, kafamda kurduğum karizmatik lider olma fırsatını yakalayamıyordum; saygı göstermeyi bırakın, Günahkarlarım bana sürekli tehditler savururdu."
+      "content": "Müdür olduğum halde, zihnimde tassavura gelen karizmatik lider fikrini yakalayamıyordum; saygı göstermeyi bırakın, Günahkârlarım bana sürekli tehditler savuruyorlardı."
     },
     {
       "id": 45,
-      "content": "Onlara karşı olan tek rolüm, hepsini geri diriltmekti."
+      "content": "Onlara karşı oynaya bildiğim tek rol, hepsini geri dirilten sihirli bir saat olmaktı."
     },
     {
       "id": 46,
-      "content": "Günahkarlar zorlu çatışmalarda iken, tek yaptığım şey arkalarında durup, kellelerinin bedenlerine bağlı olması için dua etmekti."
+      "content": "Günahkârlar zorlu çatışmalarda iken, tek yaptığım şey arkalarında durup, işleri bittiğinde kellelerinin bedenlerine bağlı olması için dua etmekti."
     },
     {
       "id": 47,
-      "content": "Kalbimde büyük bir acı ile, başımı sallayarak ona hazır olduğumu ilettim."
+      "content": "Duygulanmış bie yürek ile, başımı sallayarak ona hazır olduğumu ilettim."
     },
     {
       "id": 48,
