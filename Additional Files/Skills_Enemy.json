@@ -366,7 +366,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "[Protection]",
+          "name": "Korunma",
           "desc": ""
         }
       ]
@@ -2316,7 +2316,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bü[Charge] Görev Tamamlanacak…!",
+          "name": "Bü Görev Tamamlanacak…!",
           "desc": "[WhenUse] Sonraki Tur bütün Müttefiklere 1 [Assemble] uygula",
           "coinlist": [
             {}
@@ -2471,7 +2471,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "[Protection]",
+          "name": "Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -2529,7 +2529,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "[Protection]",
+          "name": "Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -2587,7 +2587,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "[Protection]",
+          "name": "Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -2657,7 +2657,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "[Protection]",
+          "name": "Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -3071,7 +3071,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "[Vibration] Uygula",
+          "name": "Sarsıntı Uygula",
           "desc": "",
           "coinlist": [
             {
@@ -3094,7 +3094,7 @@
         {
           "level": 1,
           "name": "Parçalanıyor.",
-          "desc": "[Vibration] sı olan düşmanlara saldırı önceliği uygular",
+          "desc": "Sarsıntı sı olan düşmanlara saldırı önceliği uygular",
           "coinlist": [
             {
               "coindescs": [
@@ -3116,7 +3116,7 @@
         {
           "level": 1,
           "name": "UYARI, UYARI: Sallanıyor",
-          "desc": "[Vibration] sı olan düşmanlara saldırı önceliği uygular",
+          "desc": "Sarsıntı sı olan düşmanlara saldırı önceliği uygular",
           "coinlist": [
             {
               "coindescs": [
@@ -3349,7 +3349,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sürtünme [Charge]selmesi",
+          "name": "Sürtünme Yükselmesi",
           "desc": "",
           "coinlist": [
             {
@@ -3743,7 +3743,7 @@
         {
           "level": 1,
           "name": "Tutuklanıyor!",
-          "desc": "[Vibration] sı olan düşmanlara saldırı önceliği uygular",
+          "desc": "Sarsıntı sı olan düşmanlara saldırı önceliği uygular",
           "coinlist": [
             {
               "coindescs": [
@@ -3812,7 +3812,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "[CollapseAmpoule] Kullanılıyor",
+          "name": "Çürüme Kapsülü Kullanılıyor",
           "desc": "",
           "coinlist": [
             {
@@ -4108,7 +4108,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sıvı [Protection]sı",
+          "name": "Sıvı Korunması",
           "desc": "",
           "coinlist": [
             {
@@ -4311,7 +4311,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sıvı [Protection]sı",
+          "name": "Sıvı Korunması",
           "desc": "[WhenUse] Maks HP'nin %5ini iyileştir\nSonraki Tur 2 [Vulnerable] kazan\n[EndBattle] Bütün [Tipsiness]ı kaldır",
           "coinlist": [
             {
@@ -4389,7 +4389,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "[Paralysis] Eden Lanet",
+          "name": "Felç Eden Lanet",
           "desc": "[EndBattle] Hedefteki [ReattachedCurseTag] larının hepsini kaldır",
           "coinlist": [
             {},
