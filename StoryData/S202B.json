@@ -9,22 +9,22 @@
     {
       "id": 1,
       "model": "파우스트",
-      "content": "Öncül hedefimiz kumarhanenin içine farkedilmeden girmek olucak; Altın Dal'ın güvenli bir şekilde elde edilmesi için önem arz etmekte."
+      "content": "Öncül hedefimiz kumarhanenin içine farkedilmeden girmek olacak; Altın Dal'ın güvenli bir şekilde elde edilmesi için önem arz etmekte."
     },
     {
       "id": 2,
       "model": "파우스트",
-      "content": "Elimize geçen bilgiye göre, Kumarhanenin 3 girişi var."
+      "content": "Elimize geçen bilgiye göre, kumarhanenin 3 girişi var."
     },
     {
       "id": 3,
       "model": "파우스트",
-      "content": "Normal misafirler için olan, VIP'ler için olan, son olarak, çalışanlar tarafından kullanılan arka kapı."
+      "content": "Normal misafirler için olan bir giriş, VIP'ler için olan bir giriş, ve son olarak, çalışanlar tarafından kullanılan arka kapı."
     },
     {
       "id": 4,
       "model": "파우스트",
-      "content": "Kapı başı dört Günahkâr olucak şekilde 3 guruba ayrılacağız… Dört kişi krupiyer olarak, dört kişi misafir olarak ve dört kişi VIP olarak."
+      "content": "Kapı başı dört Günahkâr olacak şekilde 3 gruba ayrılacağız… Dört kişi krupiyer olarak, dört kişi misafir olarak ve dört kişi VIP olarak."
     },
     {
       "id": 5,
@@ -39,27 +39,27 @@
     {
       "id": 7,
       "model": "파우스트",
-      "content": "Sizlere verdiğim zarfları açın, içerisinde size uygun görülen rolü bulucaksınız."
+      "content": "Sizlere verdiğim zarfları açın, içerisinde size uygun görülen rolü bulacaksınız."
     },
     {
       "id": 8,
       "model": "파우스트",
-      "content": "Ayriyeten, şirketimizin üst kademeleri performansımız hakkında endişeli."
+      "content": "Ayrıyeten, şirketimizin üst kademeleri performansımız hakkında endişeli."
     },
     {
       "id": 9,
       "model": "파우스트",
-      "content": "Şirketin gelecek planlarının bu operasyonun başarısına bağlı olduğunun altını çizdiler ."
+      "content": "Şirketin gelecek planlarının bu operasyonun başarısına bağlı olduğunun altını çizdiler."
     },
     {
       "id": 10,
       "model": "파우스트",
-      "content": "Bundan dolayı çife operasyon yapacağız."
+      "content": "Bundan dolayı çifte bir operasyon yapacağız."
     },
     {
       "id": 11,
       "model": "단테",
-      "content": "<Çifte operasyon?>"
+      "content": "<Çifte bir operasyon?>"
     },
     {
       "id": 12,
@@ -88,11 +88,11 @@
     },
     {
       "id": 17,
-      "content": "Hong Lu heycanlı heycanlı etrafta göz gezdirdi, Faust'un onları bizlere her an tanıtıcağını umarak."
+      "content": "Hong Lu heyecanlı bir şekilde etrafa göz gezdirdi, Faust'un onları bizlere her an tanıtacağını umarak."
     },
     {
       "id": 18,
-      "content": "…Gördüğünüz gibi, onun ümitlerinin aksine kimsecikler yoktu."
+      "content": "…Fakat malesef, onun ümitlerinin aksine kimsecikler yoktu."
     },
     {
       "id": 19,
@@ -112,7 +112,7 @@
     {
       "id": 22,
       "model": "파우스트",
-      "content": "Burası rendevu noktamız. Haydi içeri girelim."
+      "content": "Burası randevu noktamız. Haydi içeri girelim."
     }
   ]
 }
