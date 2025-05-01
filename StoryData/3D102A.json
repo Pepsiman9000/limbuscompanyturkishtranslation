@@ -2,81 +2,81 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 11 - LC Branch Interior",
-      "content": "I heard that familiar yet ominous sound of a nail being dragged across the floor from not too far away."
+      "place": "11. Eyalet - LŞ Şube İçi",
+      "content": "Çok uzaktan gelmeyen, tanıdık gelen ama bir o kadar da uğursuz olan çivinin yerde sürtünme sesini duydum."
     },
     {
       "id": 1,
       "model": "오티스",
-      "content": "…Manager. If I may be forward, I would suggest soon including steps in your combat protocol to confirm that our foes are dead."
+      "content": "…Müdür. Söylememe izin verirseniz, Savaş protokolünüze ekstra bir adım olarak düşmanlarımızın öldüğünü kesinleştirme eklemenizi tavsiye ederim."
     },
     {
       "id": 2,
-      "content": "The thought of his return makes what hair I have stand on end."
+      "content": "Onun dönüşünü düşünmek bile tüylerimin diken diken olmasına sebep oldu."
     },
     {
       "id": 3,
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "Ye Heretics… must be exterminated."
+      "content": "Sizi Kâfirler… idam edilmeli."
     },
     {
       "id": 4,
       "model": "단테",
-      "content": "<How long have you been…>"
+      "content": "<Ne kadar zamandır…>"
     },
     {
       "id": 5,
-      "content": "Guido approaches at a slower gait than before, but his gaze is firmly fixed on me."
+      "content": "Guido öncekinden daha yavaş bir yürüyüşle gelirken, gözleri tamamen bana bakıyordu."
     },
     {
       "id": 6,
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "And… the rest… shall be purified."
+      "content": "Ve… geri kalanı… arındırılmalı."
     },
     {
       "id": 7,
-      "content": "I needed to rewind the clock."
+      "content": "Saati geri sarmam lazımdı."
     },
     {
       "id": 8,
-      "content": "Most of the Sinners were either dead or gravely injured."
+      "content": "Çoğu Günahkar ya ölüydü yada ağır derecede yaralanmıştı."
     },
     {
       "id": 9,
-      "content": "There was no way an effectively non-combatant manager and someone barely holding on to her life could take him."
+      "content": "Savaşamayan bir müdür ve zarzor hayata tutunan bir kadının bu adamı indirmesi imkansızdı."
     },
     {
       "id": 10,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Please stop…"
+      "content": "Lütfen dur…"
     },
     {
       "id": 11,
-      "content": "Just then, Saude pulled out a gun."
+      "content": "Tam o anda, Saude bir silah çıkardı."
     },
     {
       "id": 12,
-      "content": "She pointed the barrel at me."
+      "content": "Ucunu bana doğrulttu."
     },
     {
       "id": 13,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "I need you… to keep still…"
+      "content": "Senin… yerinde durmana ihtiyacım var…"
     },
     {
       "id": 14,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "The moment you try to turn that clock, my gun… will blow off your head…"
+      "content": "O saati döndürmeye çalıştığın anda, silahım… kafanı uçuracak…"
     },
     {
       "id": 15,
@@ -88,25 +88,25 @@
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Don’t look at me… like that… I can’t hear you. But, I can tell you this."
+      "content": "Bana öyle… bakma… Seni duyamıyorum. Ama, sana bunu söyleyebilirim."
     },
     {
       "id": 17,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "They promised… to let Effie go… if I helped to get rid of you…"
+      "content": "Effie'yi bırakacaklarına… söz verdiler… seni yok etmelerine yardım edersem…"
     },
     {
       "id": 18,
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "I let too much time pass."
+      "content": "Çok fazla zaman geçmesine izin verdim."
     },
     {
       "id": 19,
-      "content": "Guido comes to me and grabs me by the neck."
+      "content": "Guido bana doğru geldi ve boynumdan tuttu."
     },
     {
       "id": 20,
@@ -115,7 +115,7 @@
     },
     {
       "id": 21,
-      "content": "Then, he grips my head tightly with his other hand as if to crush it."
+      "content": "Sonra, sanki parçalayacakmış gibi öteki eliyle kafamı tutup sıktı."
     },
     {
       "id": 22,
@@ -124,148 +124,148 @@
     },
     {
       "id": 23,
-      "content": "Creaks, cracks, and rattles ring inside my head."
+      "content": "Gıcırtılar, çatlaklar, takırtılar kafamın içinde çalıyor."
     },
     {
       "id": 24,
-      "content": "His fingers being inches away from shattering my head terrifies me."
+      "content": "Parmaklarının beni parçalamaya santimetreler kalması beni korkutuyor."
     },
     {
       "id": 25,
-      "content": "Is this it? Is this how I die?"
+      "content": "Buraya kadar mıydı? Böyle mi öleceğim?"
     },
     {
       "id": 26,
-      "content": "Could this… have turned out differently if I was a better manager?"
+      "content": "Bu… ben daha iyi bir müdür olsaydım daha farklı olabilr miydi?"
     },
     {
       "id": 27,
-      "content": "I remember Heathcliff menacingly asking if there was a way to open up my head so he could see what’s inside."
+      "content": "Heathcliff'in bana sertçe kafamın içinde ne olduğunu görebilmek için açıp açamayacağını sorduğunu hatırlıyorum."
     },
     {
       "id": 28,
-      "content": "Tough luck, Heathcliff."
+      "content": "Kötü şans, Heathcliff."
     },
     {
       "id": 29,
-      "content": "You’ll be missing out on a good show…"
+      "content": "Güzel bir şovu kaçıracaksın…"
     },
     {
       "id": -1,
       "model": "//효과음",
-      "content": "Thwack"
+      "content": "Tak"
     },
     {
       "id": 30,
-      "content": "I heard a sound."
+      "content": "Bir ses duydum."
     },
     {
       "id": 31,
-      "content": "It was the sound of something breaking."
+      "content": "Bir şeyin kırılması gibiydi."
     },
     {
       "id": 32,
-      "content": "Fortunately for me…"
+      "content": "Neyseki…"
     },
     {
       "id": 33,
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "Ngh…"
+      "content": "Ahh…"
     },
     {
       "id": 34,
-      "content": "It didn’t come from my head."
+      "content": "O ses kafamdan gelmedi."
     },
     {
       "id": 35,
       "model": "싱클레어",
-      "content": "Huff, hoogh… Hahk."
+      "content": "Huff, hoh… Hah."
     },
     {
       "id": 36,
-      "content": "Guido staggers."
+      "content": "Guido sarsıldı."
     },
     {
       "id": 37,
-      "content": "A nail was lodged in his back, and Sinclair was gasping for air behind him."
+      "content": "Arkasına bir çivi saplanmıştı, ve Sinclair arkasında nefes nefese kalmıştı ."
     },
     {
       "id": 38,
-      "content": "He was nearly unconscious, lying still until moments ago—it’s a miracle that he managed to get up and do this."
+      "content": "Neredeyse bilinci yerinde değildi, az önce yerde yatmasına rağmen—ayağa kalkıp bunu yapabilmesi bir mucizeydi."
     },
     {
       "id": 39,
-      "content": "I could escape Guido’s grasp thanks to him…"
+      "content": "Guido'nun ellerinden onun sayesinde kaçabilmiştim…"
     },
     {
       "id": 40,
-      "content": "But Guido stood firm despite Sinclair’s desperate attack; he collected his breath and slowly turned around."
+      "content": "Fakat Guido Sinclair'ın çaresiz saldırısına rağmen sağlam duruyordu; nefesini geri topladı ve yavaşça arkasına döndü."
     },
     {
       "id": 41,
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "…I see."
+      "content": "…Görüyorum."
     },
     {
       "id": 42,
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "You, too, are a filthy heretic…"
+      "content": "Sen de, pis bir kâfirsin…"
     },
     {
       "id": 43,
       "model": "싱클레어",
-      "content": "You’re… all insane… out of your minds…"
+      "content": "Siz… hepiniz çılgınsınız… delisiniz…"
     },
     {
       "id": 44,
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "The One Who Grips had once said…"
+      "content": "Kavrayan kişi bir zamanlar şöyle demişti…"
     },
     {
       "id": 45,
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "That you could have become the One as well."
+      "content": "Senin de onun gibi biri olabileceğini söylemişti."
     },
     {
       "id": 46,
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "What a shame…"
+      "content": "Ne kadar yazık…"
     },
     {
       "id": 47,
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "You grip with the wrong direction."
+      "content": "Farklı tarafı kavrıyorsun."
     },
     {
       "id": 48,
       "model": "단테",
-      "content": "<Sinclair… run away… I can’t… help you…>"
+      "content": "<Sinclair… kaç… Sana… yardım edemiyorum…>"
     },
     {
       "id": 49,
       "model": "싱클레어",
-      "content": "No… I’m not running anymore."
+      "content": "Hayır… Artık kaçmayacağım."
     },
     {
       "id": 50,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "…I like that answer, Sinclair."
+      "content": "…O cevabı sevdim, Sinclair."
     },
     {
       "id": -1,
@@ -273,11 +273,11 @@
     },
     {
       "id": 51,
-      "content": "Gunfire filled my ears."
+      "content": "Silah sesi kulaklarımı çınlattı."
     },
     {
       "id": 52,
-      "content": "But the bullet struck Guido’s head."
+      "content": "Ama mermi Guido'nun kafasını deldi."
     },
     {
       "id": 53,
@@ -291,30 +291,30 @@
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "You, who bring ruination upon yourselves…"
+      "content": "Siz, yıkmı üstünüze getirenler…"
     },
     {
       "id": 55,
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "The Hammer shall continue to pursue you…"
+      "content": "Çekiç sizi takip edecek…"
     },
     {
       "id": 56,
-      "content": "With those words…"
+      "content": "Bu sözlerden sonra…"
     },
     {
       "id": 57,
-      "content": "Guido fell to the floor, motionless."
+      "content": "Guido yere düştü, hareketsizdi."
     },
     {
       "id": 58,
-      "content": "And in that hush…"
+      "content": "Ve o anda…"
     },
     {
       "id": 59,
-      "content": "I heard her handgun drop to the floor."
+      "content": "Silahının yere düşme sesi geldi."
     },
     {
       "id": 60,
@@ -326,107 +326,107 @@
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Effie, he’s… he’s dead, isn’t he?"
+      "content": "Effie, o… o öldü, değil mi?"
     },
     {
       "id": 62,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "You’re all terrible liars. At least try to make it somewhat believable."
+      "content": "Hepiniz kötü yalancılarsınız. En azından biraz inanılır yapmaya çalışın."
     },
     {
       "id": 63,
       "model": "그레고르",
-      "content": "…C’mon Saude, let’s get out of here. You’ll be okay… Just gotta stop the bleeding, and… get you patched up."
+      "content": "…Hadi Saude, hadi burdan gidelim. İyi olacaksın… Sadece kanamayı durdurman lazım, ve… hadi seni saralım."
     },
     {
       "id": 64,
       "model": "이스마엘",
-      "content": "Right. I’ll get a tourniquet…"
+      "content": "Doğru. Turnike alacağım…"
     },
     {
       "id": 65,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Don’t be stupid. I can hardly lift a finger."
+      "content": "Aptal olma. Zarzor parmağımı oynatabiliyorum."
     },
     {
       "id": 66,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Besides, those Inquisitors will keep on coming, won’t they? You guys need to keep moving down."
+      "content": "Ayrıca, şu Engizisyoncualr gelmeye devam ediyorlar, değil mi? Aşağı doğru ilerlemeniz gerek."
     },
     {
       "id": 67,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "I’ll hold them off here. You should go."
+      "content": "Ben onları burada tutacağım. Gitmelisiniz."
     },
     {
       "id": 68,
       "model": "싱클레어",
-      "content": "You can’t—You can’t do that…"
+      "content": "Sen—Sen yapamazsın…"
     },
     {
       "id": 69,
       "model": "이스마엘",
-      "content": "You said yourself that you can hardly lift a finger. I can’t let you watch our backs when you’re in such a mess… Please?"
+      "content": "Zarzor parmağını oynatabildiğini sen söyledin. böyle bir durumdayken arkamızı kollamana izin veremem… Lütfen?"
     },
     {
       "id": 70,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "You know… in moments like this… you’re supposed to just nod at me and be on your way."
+      "content": "Biliyorsun… böyle durumlarda… sadece kafanızı sallayıp gitmeniz gerekiyor."
     },
     {
       "id": 71,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Why do you care so much about the one who volunteered to stay behind?"
+      "content": "Neden arkada kalmak için gönüllü olana bu kadar üzülüyorsunuz?"
     },
     {
       "id": 72,
       "model": "싱클레어",
-      "content": "You can’t… You can’t just…"
+      "content": "Sen… sen sadece…"
     },
     {
       "id": 73,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Aw… You’re making this pretty awkward, you know that? Here I thought I could have a cool farewell."
+      "content": "Ah… Bunu çok garip yapıyorsunuz, biliyorsunuz değil mi? Ben de havalı bir hoşçakalım olur diyordum."
     },
     {
       "id": 74,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Faust, please take these absolute dorks out of here."
+      "content": "Faust, lütfen şu aptalları buradan götür."
     },
     {
       "id": 75,
       "model": "파우스트",
-      "content": "I’ll make sure to give Vergilius your regards."
+      "content": "Vergilius'a selamlarını ileteceğim."
     },
     {
       "id": 76,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "No need."
+      "content": "Gerek yok."
     },
     {
       "id": 77,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "…Just tell him to come visit and say hello someday. You know what I mean?"
+      "content": "…SAdece ona bi ara ziyaret etmesini ve merhaba demesini söyleyin. Ne dediğimi biliyorsun değil mi?"
     },
     {
       "id": 78,
@@ -436,15 +436,15 @@
     {
       "id": 79,
       "model": "파우스트",
-      "content": "Of course."
+      "content": "Tabii ki."
     },
     {
       "id": 80,
-      "content": "We headed for the next area, leaving Saude to die."
+      "content": "Saude'u ölüme bırakarak, Sonraki alana doğru ilerledik."
     },
     {
       "id": 81,
-      "content": "We all stayed silent for a long while."
+      "content": "Hepimiz bir süre sessiz kaldık."
     }
   ]
 }
