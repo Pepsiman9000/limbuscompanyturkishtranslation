@@ -17,7 +17,7 @@
     },
     {
       "d": 2,
-      "content": "Dükkana girdiğimiz gibi yaşlı bir Rehincinin kaba selamlamasıyla karşılaştık."
+      "content": "Dükkana girdiğimiz gibi yaşlı bir rehincinin kaba selamlamasıyla karşılaştık."
     },
     {
       "d": 3,
@@ -37,12 +37,12 @@
     {
       "d": 6,
       "model": "이스마엘",
-      "content": "Bakın işte diyor ki, şansınıza bağlı olarak farklı miktarda ödüllendirileceksiniz."
+      "content": "Diyor ki, şansınıza bağlı olarak farklı miktarlarda para veriliyor."
     },
     {
       "d": 7,
       "model": "이스마엘",
-      "content": "Büyük şans seçerseniz, fazladan para kazanacaksınız, lakin talihsizlik seçenler rehin edilen malın değerinden çok daha düşük alır."
+      "content": "Eğer şanslıysanız, fazladan para kazanırsınız, lakin talihsiz olanlar rehin edilen malın değerinden çok daha düşük alırlar."
     },
     {
       "d": 8,
@@ -57,7 +57,7 @@
     {
       "d": 10,
       "model": "이스마엘",
-      "content": "Vay, cidden ha? Yani o rahat aile evinde keyif çatmak senin kaderinsi. Belki de ikinci bir hakkım olursa zengin bir ailede doğmayı dileyebilirim."
+      "content": "Vay, cidden ha? Yani o rahat aile evinde keyif çatmak senin kaderindi. Belki de ikinci bir hakkım olursa zengin bir ailede doğmayı dileyebilirim."
     },
     {
       "d": 11,
@@ -72,7 +72,7 @@
     {
       "d": 13,
       "model": "히스클리프",
-      "content": "Lan yok, ben onu kastetmemiştim.!"
+      "content": "Lan yok, ben onu kastetmemiştim!"
     },
     {
       "d": 14,
@@ -86,7 +86,7 @@
       "model": "전당포주인",
       "teller": "Rehinci",
       "title": "J Kuruluşu. Rehinci Dükkanı",
-      "content": "Her neyse… Sizin cidden rehine bırakıcak bir şeyiniz var mı ki? Yanınza kayde değer bir şe…"
+      "content": "Her neyse… Sizin cidden rehine bırakacak bir şeyiniz var mı ki? Yanınızda kayda değer bir şey görmüyorum…"
     },
     {
       "d": 16,
@@ -102,7 +102,7 @@
     {
       "d": 18,
       "model": "로쟈",
-      "content": "Sence kaça patlar, ihtiyar adam?"
+      "content": "Sence kaça patlar, ihtiyar?"
     },
     {
       "d": 19,
@@ -112,7 +112,7 @@
     {
       "d": 20,
       "model": "파우스트",
-      "content": "Sizinle daha önceden iletişime geçilmişti, biz Limbus Şirketi'ndeniz ve…"
+      "content": "Sizinle daha önceden iletişime geçilmişti, biz Limbus Şirketindeniz ve…"
     },
     {
       "d": 21,
@@ -128,19 +128,19 @@
       "model": "전당포주인",
       "teller": "Rehinci",
       "title": "J Kuruluşu. Rehinci Dükkanı",
-      "content": "Oho… İpek üzerine Ejderha oyulmuş. Ayrietten titiz bir nakış işçiliği sergiliyor, Sanırım… Bir bakalım , yedi milyon Ahn?"
+      "content": "Oho… İpek üzerine Ejderha oyulmuş. Ayrıyeten titiz bir nakış işçiliği sergiliyor, Sanırım… Bir bakalım , yedi milyon Ahn?"
     },
     {
       "d": 24,
       "model": "히스클리프",
-      "content": "Böyle siktiriboktan bi bez parçası bu kadar mı eder lan?! Gözlerin mi çürüdü, ihtiyar?!"
+      "content": "Böyle siktiriboktan bi bez parçası bu kadar mı eder lan?! Gözlerin mi çürük, ihtiyar?!"
     },
     {
       "d": 25,
       "model": "전당포주인",
       "teller": "Rehinci",
       "title": "J Kuruluşu. Rehinci Dükkanı",
-      "content": "Ne? Bak bu kumaşın kalitesi öyl—­­ Aman, şimdi anladım. ucuz bir yüzğe hazine gibi değer verip takıyorsun… Ay ay ay."
+      "content": "Ne? Bak bu kumaşın kalitesi öyl—­­ Aman, tipinden belli zaten. Ucuz bir yüzüğü hazine gibi değer vererek takıyorsun… Çk Çk Çk."
     },
     {
       "d": 26,
@@ -150,7 +150,7 @@
     {
       "d": 27,
       "model": "로쟈",
-      "content": "OF be, sussanıza be! Dante~ Lütfen susturuver şunları~"
+      "content": "OF, bi susun be! Dante~ Lütfen susturuver şunları~"
     },
     {
       "d": 28,
@@ -166,23 +166,23 @@
       "model": "소드",
       "teller": "???",
       "title": "???",
-      "content": "Saat dört olduğunda buluşmalıydık, Ama çoktan on beş dakika geçti bile. Anolog saat okumayı unutmadın, değil mi?"
+      "content": "Saat dört olduğunda buluşmalıydık, ama çoktan on beş dakika geçmiş bile. Saat okumayı unutmadın, değil mi?"
     },
     {
       "d": 31,
       "model": "파우스트",
-      "content": "İmkanı yok. Otobüsün şöförü hakkında yapabiliceğim bir şey yoktu."
+      "content": "İmkanı yok. Otobüsün şoförü hakkında yapabileceğim bir şey yoktu."
     },
     {
       "d": 32,
       "model": "에피",
       "teller": "???",
       "title": "???",
-      "content": "Aha, Yani sana zamanda refakatçi olsun diye bir saat kafa alıyorsun yanına? Amma velakin alarmı kurulu değilmiş."
+      "content": "Aha, sana zamanda refakatçi olsun diye mi bir saat kafa alıyorsun yanına? Amma velakin alarmı kurulu değilmiş."
     },
     {
       "d": 33,
-      "content": "Narin sesi mütakiben ses ise küçümsemeciliğini gizlemiyordu."
+      "content": "Narin sesi çok geçmeden küçümserliğini hiç de gizlemeye çalışmayan bir tanesi takip etti."
     },
     {
       "d": 34,
@@ -191,42 +191,42 @@
     },
     {
       "d": 35,
-      "content": "Günahkâlar dışında kimsenin duymayacağını biliyordum, ama hala kaba yorumlara karşı kırılgandım."
+      "content": "Günahkârlar dışında kimsenin duymayacağını biliyordum, ama hala kaba yorumlara karşı kırılgandım."
     },
     {
       "d": 36,
       "model": "에피",
       "teller": "???",
       "title": "???",
-      "content": "Ah, Yani sizler misiniz? Hani ilk Altın Dal alma operasyonunu batıran kişiler."
+      "content": "Ah, yani sizler misiniz? Hani ilk Altın Dal alma operasyonunu batıran kişiler."
     },
     {
       "d": 37,
       "model": "에피",
       "teller": "???",
       "title": "???",
-      "content": "Milletin sizden umudu büyüktü, Şehirdeki en zeki sayılan birkaç kişiden oluşuyordunuz."
+      "content": "Milletin sizden umudu büyüktü, Şehirdeki en zeki sayılan kişilerden olduğunuzu sanardık."
     },
     {
       "d": 38,
       "model": "소드",
       "teller": "???",
       "title": "???",
-      "content": "Şüphe yoktur ki… Bayan Faust hiç te mutlu gözükmüyordu."
+      "content": "Bayan Faust'un hiç de mutlu gözükmemesine şaşmamalı."
     },
     {
       "d": 39,
       "model": "파우스트",
-      "content": "Benim yüzüm her zamanki halindeydi."
+      "content": "Benim yüzüm her zaman sabit kaldı."
     },
     {
       "d": 40,
       "model": "히스클리프",
-      "content": "Hey, ne dikilip duruyosun lan öyle? Hadi, konuş sana. Bu herif de zeki biridir ha. Öyle hafife alma sakın."
+      "content": "Hey, ne dikilip duruyosun lan öyle? Hadi, konuşsana. Bu herif de zeki biridir ha. Öyle hafife alma sakın."
     },
     {
       "d": 41,
-      "content": "Heathcliff Yi Sang'a yöneldi, ama aldığı yanıt umduğu gibi değildi."
+      "content": "Heathcliff Yi Sang'a bi bakış attı, ama aldığı yanıt umduğu gibi değildi."
     },
     {
       "d": 42,
@@ -236,12 +236,12 @@
     {
       "d": 43,
       "model": "히스클리프",
-      "content": "Fakat aşağıda bayağı konuşkandın? Sen kimsin ve Yi Sang'a n'aptın?"
+      "content": "Fakat o bodrumda bayağı konuşkandın? Sen kimsin ve Yi Sang'a naptın?"
     },
     {
       "d": 44,
       "model": "이상",
-      "content": "Ben şimdi de, eskiden de aynada gördüğünüz güruhtum."
+      "content": "Ben aynadaki karşılığımım, ve her zaman da öyle oldum."
     },
     {
       "d": 45,
@@ -251,7 +251,7 @@
     {
       "d": 46,
       "model": "파우스트",
-      "content": "Görevimiz mağlubiyet beklenerek planlanmıştı."
+      "content": "İlk görevimiz mağlubiyet de hesaplanarak planlanmıştı."
     },
     {
       "d": 47,
@@ -266,7 +266,7 @@
     {
       "d": 49,
       "model": "오티스",
-      "content": "Kaybolmaya mahkum bir plan mı? böyle bir şey teklif dahi edilemez."
+      "content": "Amacı kaybetmek olan bir plan mı? Böyle bir saçmalık teklif dahi edilemez."
     },
     {
       "d": 50,
@@ -285,7 +285,7 @@
     {
       "d": 52,
       "model": "히스클리프",
-      "content": "Tch… Bizi oradan bu kadar uzağa bu yüzden mi bıraktı lan! Harbi bizden utandığından mı?!"
+      "content": "Çh… Bizi oradan bu kadar uzağa bu yüzden mi bıraktı lan! Harbi bizden utandığından mı?!"
     },
     {
       "d": 53,
@@ -295,19 +295,19 @@
     {
       "d": 54,
       "model": "이스마엘",
-      "content": "Ve önce kendimizi tanıtmazsak, bu kadar övünmemiz boşa çıkmayacak mıdır?"
+      "content": "Ve önce kendinizi tanıtmazsanız, bu kadar övünme ve blöf boşa çıkmayacak mı?"
     },
     {
       "d": 55,
       "model": "파우스트",
-      "content": "Bu iki kişi şimdiki görevimizde yardımcılarımız olucak. Limbus Şirketi Temizlik departmanındanlar, LŞT olarak da bilinir."
+      "content": "Bu iki kişi şimdiki görevimizde yardımcılarımız olacak. Limbus Şirketi Temizlik departmanındanlar, LŞT olarak da bilinir."
     },
     {
       "d": 56,
       "model": "소드",
       "teller": "Saude",
       "title": "LŞTÖ",
-      "content": "Temizlik departmanı Öncü Takımı lütfen. Ah, Ben Saude, ve bu da Effie."
+      "content": "Temizlik Departmanı Öncü Takımı lütfen. Ah, Ben Saude, ve bu da Effie."
     },
     {
       "d": 57,
@@ -317,7 +317,7 @@
     {
       "d": 58,
       "model": "홍루",
-      "content": "Mükemmel! Onur duydum."
+      "content": "Harika! Onur duydum."
     },
     {
       "d": 59,
@@ -325,7 +325,7 @@
     },
     {
       "d": 60,
-      "content": "Kendilerini tanıtmaları bitene kadar üstün bir çoğunluk onlara soğuk gözlerle bakarken, diğerleri temkinli davrandı."
+      "content": "Kendilerini tanıtmaları bitene kadar üstün bir çoğunluk onlara soğuk gözlerle baktı, diğerleri ise temkinli davrandı."
     }
   ]
 }
