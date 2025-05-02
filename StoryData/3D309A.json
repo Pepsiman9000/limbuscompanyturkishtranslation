@@ -25,12 +25,12 @@
       "model": "데미안",
       "teller": "Demian",
       "title": "???",
-      "content": "I’ve said it before, haven’t I? “When you fear someone…”"
+      "content": "I’ve said it before, haven’t I? “Birinden korkuyorsan…”"
     },
     {
       "id": 4,
       "model": "싱클레어",
-      "content": "“That’s because… you gave them the power to have control over you…”"
+      "content": "“Bu onlara, seni kontrol etme gücünü bahşettiğin içindir…”"
     },
     {
       "id": 5,
@@ -299,27 +299,27 @@
       "id": 54,
       "teller": "???",
       "title": "???",
-      "content": "…We found ‘em!"
+      "content": "…Buldum onları!"
     },
     {
       "id": 55,
-      "content": "I can hear multiple footsteps approaching our horribly incapacitated team."
+      "content": "Acınası bir şekilde saf dışı kalmış takımımıza koşan, bir çok adım sesleri duymaya başlamıştım."
     },
     {
       "id": 56,
-      "content": "…Vergilius must’ve figured we’d get into a mess and called the After Team to scoop us off the ground."
+      "content": "…Muhtemelen Vergilius, aşağıda işi batıracağımızı tahmin edip, bizi çıkartması için Sonra Takımı'nı arkamızdan göndermişti."
     },
     {
       "id": 57,
       "teller": "???",
       "title": "LCCA",
-      "content": "This looks like the individual we seek. Do I inject it now?"
+      "content": "Aradığımız kişiye benziyor. Şimdi mi enjekte edeyim?"
     },
     {
       "id": 58,
       "teller": "???",
       "title": "LCCA",
-      "content": "The others can be revived as long as this one lives. Focus all resources on restoring their body."
+      "content": "Bu yaşadığı sürece, diğerleri de pekala iyileşebilir. Tüm kaynakları vücudunu restore etmeye adayın."
     },
     {
       "id": 59,
@@ -334,25 +334,25 @@
       "id": 61,
       "teller": "???",
       "title": "LCCA",
-      "content": "We were provided three HP ampules. Do I use all three on them?"
+      "content": "Üç tane HP ampulümüz var. Üçünü de onun üzerinde mi kullanayim?"
     },
     {
       "id": 62,
       "teller": "???",
       "title": "LCCA",
-      "content": "Keep an eye on the regeneration progress and use them at your discretion."
+      "content": "Rejenerasyon durumuna göz kulak olduğun sürece, kendi sağduyuna göre kullanabilirsin."
     },
     {
       "id": 63,
       "teller": "???",
       "title": "LCCA",
-      "content": "Lucky straphangers… They’re rolling in luxury thanks to having a Color on their team—one with a friend in K Corp at that, too…"
+      "content": "Şanslı yolcular… K Kuruluşu'nda dostları olan bir Renkli İşçözücü sağolsun, refah içinde yüzüyorlar…"
     },
     {
       "id": 64,
       "teller": "???",
       "title": "LCCA",
-      "content": "…ction …firmed. Addi…"
+      "content": "…jeksiyon …aylandı. Eklem…"
     },
     {
       "id": 65,
@@ -381,22 +381,22 @@
     {
       "id": 71,
       "model": "베르길리우스",
-      "content": "I bought enough chicken kebabs for all of you to have one, so if anyone didn’t get theirs, go and put your detective caps on by yourselves."
+      "content": "Hepinize yetecek kadar şiş kebap almıştım, eğer almayanınız olduysa, dedektif şapkalarını takıp kendi payını arasın."
     },
     {
       "id": 72,
       "model": "홍루",
-      "content": "Such curious cuisine. What is the intention of skewering chicken meat with a stick?"
+      "content": "Ne merak uyandırıcı bir mutfak. Tavuk etini şişten geçirmenin olayı ne ki?"
     },
     {
       "id": 73,
       "model": "이상",
-      "content": "I may be familiar with this kind of dish… a kkochi of the dak variety."
+      "content": "Bu tarz bir yiyecek ile haşır neşirim… dak tarzlı bir kkochi."
     },
     {
       "id": 74,
       "model": "카론",
-      "content": "A sweet smell. The kind Mephi likes."
+      "content": "Güzel bir koku. Mephi'nin sevdiği türden."
     },
     {
       "id": 75,
@@ -409,27 +409,27 @@
     {
       "id": 77,
       "model": "그레고르",
-      "content": "Charon, isn’t Christmas still a long ways off?"
+      "content": "Charon, Noel'e daha çok zaman yok muydu?"
     },
     {
       "id": 78,
       "model": "카론",
-      "content": "Don’t put a damper on Charon’s fun, Bug Guy."
+      "content": "Charon'un eğlencesine karışma, Böcek Adam."
     },
     {
       "id": 79,
       "model": "카론",
-      "content": "If Charon feels like it’s Christmas, then that’s that."
+      "content": "Charon bugün Noel'miş gibi hissediyorsa öyledir."
     },
     {
       "id": 80,
       "model": "그레고르",
-      "content": "Bu— C’mon, I called you by your name for once!"
+      "content": "A— Hadi be, sadece bir kez adınla seslendim sana!"
     },
     {
       "id": 81,
       "model": "로쟈",
-      "content": "Well, why don’tcha settle the score by giving her a “bus girlie” then~ Y’know, tit-for-tat and all that?"
+      "content": "Öyleyse, neden ona “otobüs kızı” diyip ödeşmiyorsunuz~ Bilirsin, kısasa kısas falab?"
     },
     {
       "id": 82,
@@ -479,37 +479,37 @@
     {
       "id": 92,
       "model": "로쟈",
-      "content": "Ahahaha! What was that about, Dante? Drop the goofy poetry and have a kebab! C’mon! Say aah~"
+      "content": "Ahahaha! O neydi be, Dante? Şairliği bırak, ve bir kebap al kendine! Hadi! Aç ağzını, uçak geliyor~"
     },
     {
       "id": 93,
       "model": "뫼르소",
-      "content": "Our manager has no mouth."
+      "content": "Müdürümüzün bir ağzı yok."
     },
     {
       "id": 94,
       "model": "오티스",
-      "content": "The executive manager has no need for a mouth as they’re perfectly capable of commanding us without a word. Do keep that in mind."
+      "content": "Söz bile etmeden bizi mükemmel bir şekilde komuta edebildiği için müdürümüzün bir ağza ihtiyacı bulunmuyor. Bunu aklınızda tutun."
     },
     {
       "id": 95,
       "model": "이스마엘",
-      "content": "Golly… Don’t you ever get tired of licking their boot so clean, Outis?"
+      "content": "Yuh yani… Müdürümüzün pabucunu yalamak hiç yormuyor mu seni, Outis?"
     },
     {
       "id": 96,
       "model": "히스클리프",
-      "content": "Oi! …Got more of this scran? It’s peak."
+      "content": "Lan! …Bu maldan dahası var mı? Fenaymış."
     },
     {
       "id": 97,
       "model": "료슈",
-      "content": "Heyo, BG. Gimme a light."
+      "content": "Heyo, BA. Bi' ışık yak bakalım."
     },
     {
       "id": 98,
       "model": "그레고르",
-      "content": "…Thought I wouldn’t know what that’s short for?"
+      "content": "…Kısaltmasının ne olduğunu tahmin edemeyeceğimi mi sandın?"
     },
     {
       "id": 99,
@@ -535,7 +535,7 @@
     {
       "id": 104,
       "model": "베르길리우스",
-      "content": "What."
+      "content": "Ne var."
     },
     {
       "id": 105,
@@ -550,7 +550,7 @@
     {
       "id": 107,
       "model": "베르길리우스",
-      "content": "…Go right ahead."
+      "content": "…Önden buyur."
     },
     {
       "id": 108,
