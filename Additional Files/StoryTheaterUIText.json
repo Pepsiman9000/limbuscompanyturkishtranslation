@@ -2,35 +2,35 @@
   "dataList": [
     {
       "id": "MAINSTORY",
-      "content": "Main Story"
+      "content": "Ana Hikaye"
     },
     {
       "id": "PERSONALITYSTORY",
-      "content": "Identity Archive"
+      "content": "Kişilik\nArşivleri"
     },
     {
       "id": "NOTE_OF_DANTE",
-      "content": "Dante’s Notes"
+      "content": "Dante’nin Notları"
     },
     {
       "id": "EPISODE",
-      "content": "Ep. {0}"
+      "content": "Böl. {0}"
     },
     {
       "id": "PAGE",
-      "content": "Pg. {0}"
+      "content": "Syf. {0}"
     },
     {
       "id": "PROGRESS",
-      "content": "Progress"
+      "content": "İlerleme"
     },
     {
       "id": "Before",
-      "content": "Pre-battle"
+      "content": "Savaş-Öncesi"
     },
     {
       "id": "After",
-      "content": "Post-battle"
+      "content": "Savaş-Sonrası"
     },
     {
       "id": "None",
@@ -38,51 +38,51 @@
     },
     {
       "id": "ENTER",
-      "content": "Enter"
+      "content": "Gir"
     },
     {
       "id": "CLOSE",
-      "content": "Close"
+      "content": "Kapat"
     },
     {
       "id": "MIRRORWOLDS",
-      "content": "Mirror Worlds"
+      "content": "Ayna Dünyalar"
     },
     {
       "id": "STORY",
-      "content": "Story"
+      "content": "Hikaye"
     },
     {
       "id": "SECURITY_MATERIAL",
-      "content": "Classified Logs"
+      "content": "Sınıflandırılmış Kayıtlar"
     },
     {
       "id": "SPEECH",
-      "content": "Dialogue"
+      "content": "Diyalog"
     },
     {
       "id": "OPEN_CONDITION",
-      "content": "To Unlock: "
+      "content": "Açmak İçin: "
     },
     {
       "id": "DEEP_ANALYSIS",
-      "content": "In-depth: "
+      "content": "Derin: "
     },
     {
       "id": "DATA_DOWNLOAD",
-      "content": "Data Download"
+      "content": "Veri Yükle"
     },
     {
       "id": "DATA_DOWNLOAD_DESC",
-      "content": "Play sound files for voiced dialogue?\nAdditional data will be downloaded."
+      "content": "Sesli diyaloglar için ses dosyaları çalınsın mı?\nEk veriler indirilecektir"
     },
     {
       "id": "DATA_DOWNLOAD_NO",
-      "content": "Unvoiced\n(0.00 MB)"
+      "content": "Seslendirilmemiş\n(0.00 MB)"
     },
     {
       "id": "DATA_DOWNLOAD_YES",
-      "content": "Voiced\n({0} MB)"
+      "content": "Seslendirilmiş\n({0} MB)"
     },
     {
       "id": "CV_1",
@@ -110,7 +110,7 @@
     },
     {
       "id": "CV_7",
-      "content": "Hong Seung-hyo"
+      "content": "Cem Yılmaz"
     },
     {
       "id": "CV_8",
@@ -134,7 +134,7 @@
     },
     {
       "id": "gacksung",
-      "content": "Uptie"
+      "content": "Kademe"
     },
     {
       "id": "EnterStoryPopupDesc",
@@ -146,51 +146,51 @@
     },
     {
       "id": "DetailStoryDungeon",
-      "content": "Within Story Dungeon"
+      "content": "Hikaye Zindanı İçinde"
     },
     {
       "id": "NeedsPersonality",
-      "content": "Identity Required"
+      "content": "Kişilik Elde Edinildiğinde"
     },
     {
       "id": "NeedsPersonalityButton",
-      "content": "View Requirements"
+      "content": "Gereksinimleri Göster"
     },
     {
       "id": "MainStoryOpenCondition_101",
-      "content": "Clear 1-1"
+      "content": "1-1'i Bitir"
     },
     {
       "id": "MainStoryOpenCondition_102",
-      "content": "Clear 2-1"
+      "content": "2-1'i Bitir"
     },
     {
       "id": "MainStoryOpenCondition_103",
-      "content": "Clear 3-1"
+      "content": "3-1'i Bitir"
     },
     {
       "id": "PersonalityStory_OpenCodition",
-      "content": "Unlocked at Uptie Tier {0}"
+      "content": "{0}. Kademede Açılır"
     },
     {
       "id": "OTHERSTORY",
-      "content": "Detour Tales"
+      "content": "Yan Hikayeler"
     },
     {
       "id": "DanteNote_Record",
-      "content": "Record"
+      "content": "Kayıtlar"
     },
     {
       "id": "DanteNote_Time",
-      "content": "Time"
+      "content": "Zaman"
     },
     {
       "id": "DanteNote_Update",
-      "content": "Update"
+      "content": "Güncelle"
     },
     {
       "id": "DanteNote_Main",
-      "content": "I’m not sure where to even start.\nI guess it’s only natural, given that I can’t tell how much I forgot to begin with.\nMaybe I’ll start by making notes whenever I run into things I don’t remember."
+      "content": "Nereden başlayacağımı bile bilmiyorum.\nSanırım ne kadarını unuttuğumu bilmediğim için bu normal.\nBelki de hatırlamadığım bir şeyle karşılaştığımda notlar alarak başlarım."
     },
     {
       "id": "MINI",
@@ -198,7 +198,7 @@
     },
     {
       "id": "DetailStoryMini",
-      "content": "Mini Episodes"
+      "content": "Mini Bölümler"
     },
     {
       "id": "OtherStoryOpenCondition_9103",
@@ -258,7 +258,7 @@
     },
     {
       "id": "theStoryOf",
-      "content": "'s Story"
+      "content": "'s Hikayesi"
     },
     {
       "id": "OtherStoryOpenCondition_9109",
