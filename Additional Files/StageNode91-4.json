@@ -1,76 +1,76 @@
 {
-    "dataList": [
-        {
-            "id": 910401,
-            "title": "The Beach Episode!",
-            "place": "Aboard Mephistopheles",
-            "desc": "After a long, long journey through a tunnel, we finally arrived at a place called the Great Lake.\nTaking in the view of the vast and turquoise waters, the Sinners begin excitedly chattering about what they want to do at the beach.\nBut... are we really here on vacation?"
-        },
-        {
-            "id": 910402,
-            "title": "Mudflat Scrapyard",
-            "place": "Backstreets of District 21",
-            "desc": "Of course, our destination was some squelchy, green, and fetid mudflat.\nThough I can see the blue sea in the distance, it feels as far away as a dream... buried in mountains of trash from who-knows-where.\nWhat could we possibly be here for?"
-        },
-        {
-            "id": 910403,
-            "title": "Trash Crabs?",
-            "place": "Backstreets of District 21",
-            "desc": "From mountainous refuse, out crawled crustacean creatures covered in all sorts of scrap. According to Ishmael, they're pretty infamous in the Backstreets of U Corp.\nSpeaking of which... I wonder what's going on with her? She's been in the doldrums all day."
-        },
-        {
-            "id": 910404,
-            "title": "The Boatwrights",
-            "place": "Molar Boatworks",
-            "desc": "The pair called Mika and Rain seems to have been expecting us. I guess the LCCB already informed them of our arrival.\nLooks like we're going to have to modify Mephistopheles in order to get to our next destination."
-        },
-        {
-            "id": 910405,
-            "title": "Time to Collect Scrap!",
-            "place": "Backstreets of District 21",
-            "desc": "Time to salvage scrap and prepare the bus for both hell and high water."
-        },
-        {
-            "id": 910406,
-            "title": "Makeshift Bus Mods",
-            "place": "Molar Boatworks",
-            "desc": "We finally collected enough scrap for them to start working on the bus modifications.\nI wonder if we can get some time off?\nIf we do... then I should try talking to Ishmael."
-        },
-        {
-            "id": 910407,
-            "title": "Beach... Volleyball?",
-            "place": "Backstreets of District 21",
-            "desc": "Taking Don Quixote and Yi Sang's advice to mend the growing rift between Ishmael and the other Sinners, I decided that we should all try out a few rounds of beach volleyball.\nMaybe this activity can be an opportunity to build some rapport."
-        },
-        {
-            "id": 910408,
-            "title": "Dissolution",
-            "place": "Molar Boatworks",
-            "desc": "The beach volleyball plan completely backfired…\nEveryone has a scowl on their face as they fight off the trash crabs.\nI have to do something about this…"
-        },
-        {
-            "id": 910409,
-            "title": "Time to Collect Scrap...",
-            "place": "Backstreets of District 21",
-            "desc": "The situation's bleaker than the color of this mudflat...\nBut, we have to keep collecting more scrap."
-        },
-        {
-            "id": 910410,
-            "title": "Troubled Waters",
-            "place": "Molar Boatworks",
-            "desc": "We continued to collect scrap for a few more days.\nI decided to watch as the Sinners got to work,\nwondering what I could do about Ishmael and Heathcliff..."
-        },
-        {
-            "id": 910411,
-            "title": "The Last Scrap",
-            "place": "Molar Boatworks",
-            "desc": "Nothing's been resolved, but Mephistopheles' modifications are almost complete.\nMika grimly requested that everyone gather to watch the test drive.\nI'm glad that the modifications are finally complete... but can we really press on in this state?"
-        },
-        {
-            "id": 910412,
-            "title": "King Trash Crab Hunt",
-            "place": "Backstreets of District 21",
-            "desc": "Let's battle the King Trash Crab, and get us a huge piece of scrap."
-        }
-    ]
+  "dataList": [
+    {
+      "id": 910401,
+      "title": "Plaj Bölümü!",
+      "place": "Mephistopheles'de",
+      "desc": "Uzun bir tünelden sonra nihayet Büyük Göl adı verilen bir yere vardık.\nBüyük ve turkuaz suların manzarasını izlerken, Günahkârlar plajda ne yapacaklarını heyecanla tartışmaya başlıyor.\nAma... gerçekten tatilde miyiz?"
+    },
+    {
+      "id": 910402,
+      "title": "Çamurluk Hurda Yığını",
+      "place": "Eyalet 21 Arka Sokakları",
+      "desc": "Tabii ki, varış noktamız bataklık, yeşil ve pis kokan bir çamurluktu.\nUzakta mavi denizi görebiliyorum, ama sanki bir hayal gibi... kim bilir nereden gelen çöp dağlarının altında gömülmüş.\nBurada ne yapıyor olabiliriz?"
+    },
+    {
+      "id": 910403,
+      "title": "Çöp Yengeçleri mi?",
+      "place": "Eyalet 21 Arka Sokakları",
+      "desc": "Çöp yığınlarından, her türlü hurda ile kaplanmış kabuklu deniz hayvanları sürünerek çıkıyor. Ishmael'e göre, bunlar U Corp'un Arka Sokakları'nda oldukça ünlü.\nBu arada... acaba onun durumu ne? Tüm gün keyifsiz."
+    },
+    {
+      "id": 910404,
+      "title": "Tekne Yapıcıları",
+      "place": "Molar Tekne Atölyesi",
+      "desc": "Mika ve Rain adlı çift, bizi bekliyormuş gibi görünüyor. Sanırım LCCB, varışımızı zaten onlara bildirdi.\nGörünüşe göre, bir sonraki hedefimize ulaşmak için Mephistopheles'i modifiye etmemiz gerekecek."
+    },
+    {
+      "id": 910405,
+      "title": "Hurda Toplama Zamanı!",
+      "place": "Eyalet 21 Arka Sokakları",
+      "desc": "Hurda toplama zamanı ve hem cehennem hem de fırtına için otobüsü hazırlama zamanı."
+    },
+    {
+      "id": 910406,
+      "title": "Geçici Otobüs Modifikasyonları",
+      "place": "Molar Tekne Atölyesi",
+      "desc": "Sonunda yeterince hurda topladık, böylece onlar otobüs modifikasyonlarına başlayabilirler.\nAcaba biraz tatil alabilir miyiz?\nAlırsak... o zaman Ishmael ile konuşmalıyım."
+    },
+    {
+      "id": 910407,
+      "title": "Plaj... Topu mu?",
+      "place": "Eyalet 21 Arka Sokakları",
+      "desc": "Ishmael ile diğer Günahkârlar arasındaki büyüyen uçurumu düzeltmek için Don Quixote ve Yi Sang'ın önerisini alarak, hep birlikte birkaç set plaj voleybolu oynamaya karar verdim.\nBelki bu aktivite, aramızdaki ilişkiyi kurmak için bir fırsat olabilir."
+    },
+    {
+      "id": 910408,
+      "title": "Çözülme",
+      "place": "Molar Tekne Atölyesi",
+      "desc": "Plaj voleybolu planı tamamen ters tepti…\nHerkes, çöp yengeçleriyle savaşırken surat asmış.\nBununla bir şey yapmam gerekiyor…"
+    },
+    {
+      "id": 910409,
+      "title": "Hurda Toplama Zamanı...",
+      "place": "Eyalet 21 Arka Sokakları",
+      "desc": "Durum, bu çamurluğun renginden bile daha kararmış...\nAma, daha fazla hurda toplamaya devam etmemiz gerekiyor."
+    },
+    {
+      "id": 910410,
+      "title": "Sıkıntılı Sular",
+      "place": "Molar Tekne Atölyesi",
+      "desc": "Birkaç gün daha hurda toplamaya devam ettik.\nGünahkârların çalışmasını izlemeye karar verdim,\nacaba Ishmael ve Heathcliff ile ne yapabilirim diye düşündüm..."
+    },
+    {
+      "id": 910411,
+      "title": "Son Hurda",
+      "place": "Molar Tekne Atölyesi",
+      "desc": "Hiçbir şey çözülmedi, ama Mephistopheles'in modifikasyonları neredeyse tamamlandı.\nMika, herkesin test sürüşünü izlemek için toplanmasını isteyerek ciddi bir şekilde davet etti.\nModifikasyonların nihayet tamamlanmasına sevindim... ama bu durumda gerçekten devam edebilir miyiz?"
+    },
+    {
+      "id": 910412,
+      "title": "King Trash Crab Avı",
+      "place": "Eyalet 21 Arka Sokakları",
+      "desc": "Hadi King Trash Crab ile savaşıp büyük bir hurda parçası kazanalım."
+    }
+  ]
 }
