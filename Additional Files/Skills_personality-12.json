@@ -1331,27 +1331,27 @@
         },
         {
           "level": 4,
-          "name": "Firefist",
+          "name": "Ateş Yumruğu",
           "desc": "<style=\"highlight\">Coin Power +1 for every 3 [Combustion] Count on target (max 2)</style>\n[WhenUse] Base Power +1 for every 6 [Combustion] on target (max <style=\"highlight\">3</style>)\n[WhenUse] Consume up to 25 [FirePunchFuel] and deal +<style=\"highlight\">2</style>% more damage for every [FirePunchFuel] consumed (max <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">4</style>% more damage for every [FirePunchFuel] consumed (max <style=\"highlight\">100</style>%)\n[EndSkill] If target is defeated, or if this Skill consumed [FirePunchFuel], gain <style=\"highlight\">2</style> [HitDamageUp] next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit consumed [FirePunchFuel], inflict <style=\"highlight\">2</style> [Combustion] and +1 [Combustion] Count"
+                  "desc": ""[OnSucceedAttack] Eğer [FirePunchFuel] tüketildiyse, <style=\"highlight\">2</style> [Combustion] ve +1 [Combustion] miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit consumed [FirePunchFuel], inflict <style=\"highlight\">2</style> [Combustion] and +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Eğer [FirePunchFuel] tüketildiyse, <style=\"highlight\">2</style> [Combustion] ve +1 [Combustion] miktarı uygular"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +<style=\"highlight\">2</style>% more damage for every [FirePunchFuel] consumed by this Skill (max <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">4</style>% more damage for every [FirePunchFuel] consumed instead (max <style=\"highlight\">100</style>%)"
+                  "desc": "[OnSucceedAttack] Bu Beceri tarafından tüketilen her bir [FirePunchFuel] için %<style=\"highlight\">2</style> daha fazla Hasar verir (maksimum %<style=\"highlight\">50</style>)\n- [FirePunchFuelOverheated] durumundayken, tüketilen her bir [FirePunchFuel] için bunun yerine %<style=\"highlight\">4</style> daha fazla Hasar verir (maksimum %<style=\"highlight\">100</style>)"
                 }
               ]
             }
@@ -1364,13 +1364,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I have to keep going for big sis",
-          "desc": "[DuelCounter]\n[StartBattle] Gain 100 [FirePunchFuel]",
+          "name": "Ablam için ilerlemek zorundayım",
+          "desc": "[DuelCounter]\n[StartBattle] 100 [FirePunchFuel] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             }
@@ -1378,13 +1378,13 @@
         },
         {
           "level": 4,
-          "name": "I have to keep going for big sis",
-          "desc": "[DuelCounter]\n[StartBattle] Gain 100 [FirePunchFuel]",
+          "name": "Ablam için ilerlemek zorundayım",
+          "desc": "[DuelCounter]\n[StartBattle] 100 [FirePunchFuel] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             }
