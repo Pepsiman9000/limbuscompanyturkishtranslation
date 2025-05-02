@@ -1,82 +1,82 @@
 {
-    "dataList": [
-        {
-            "id": 910501,
-            "title": "Tedium",
-            "place": "Mephistopheles the Busboat",
-            "desc": "Our wait in the Lake grows ever longer. One by one, the Sinners begin succumbing to the tedium.\nThen Heathcliff suddenly and anxiously calls over to Vergilius..."
-        },
-        {
-            "id": 910502,
-            "title": "A Tempting Offer",
-            "place": "Mephistopheles the Busboat",
-            "desc": "Don Quixote brought us to the helm of the ship.\nThere it was, the monitor that Faust would analyze whenever we had a Backdoor volatility. ... And there they were again, those unknown symbols."
-        },
-        {
-            "id": 910503,
-            "title": "An Unexpected Journey",
-            "place": "Bus’s Backdoor",
-            "desc": "We entered the Backdoor Don Quixote claimed to have seen. In it was... what appeared to be a factory.\nClearly not her first time in this establishment, Don Quixote calls over to someone..."
-        },
-        {
-            "id": 910504,
-            "title": "Monstrous Gifts",
-            "place": "Gift Factory Reception Hall",
-            "desc": "What popped out from the sack we found atop the sleigh were... several mutilated bodies and a small child.\nIt looks like they were kidnapped here... I wonder what happened."
-        },
-        {
-            "id": 910505,
-            "title": "A Touching Reunion",
-            "place": "Gift Distribution Factory",
-            "desc": "Heathcliff and Don Quixote were both out cold, but I managed to survive thanks to the Sinners who came for me.\n... But I don't see the two unconscious Sinners anywhere."
-        },
-        {
-            "id": 910506,
-            "title": "To Find the Pair",
-            "place": "Gift Distribution Factory",
-            "desc": "They must've been taken to a different sector of this factory. Crayon must be there with them... We have to find them, quick."
-        },
-        {
-            "id": 910507,
-            "title": "To Find the Pair",
-            "place": "Gift Distribution Factory",
-            "desc": "They must've been taken to a different sector of this factory. Crayon must be there with them... We have to find them, quick."
-        },
-        {
-            "id": 910508,
-            "title": "For Whom the Gnomes Pack",
-            "place": "Gift Assembly Factory",
-            "desc": "The factory was much larger and much more complicated than it first appeared. Who are the gnomes making these gifts for? And why?"
-        },
-        {
-            "id": 910509,
-            "title": "For Whom the Gnomes Pack",
-            "place": "Gift Assembly Factory",
-            "desc": "The factory was much larger and much more complicated than it first appeared. Who are the gnomes making these gifts for? And why?"
-        },
-        {
-            "id": 910510,
-            "title": "Gift of Hatred, Given Shape",
-            "place": "Gift Assembly",
-            "desc": "The location pointed out by Meursault was the gift assembly line. The sight of them assembling gifts with the 'materials' they kidnapped was... shocking.\nAnd the two Sinners we were searching for were also about to be turned into gifts themselves."
-        },
-        {
-            "id": 910511,
-            "title": "The Gift-giving Giant",
-            "place": "Gift Assembly",
-            "desc": "Our negotiation attempt with the beard giant Santata predictably fell through. We have no choice but to defeat him here."
-        },
-        {
-            "id": 910512,
-            "title": "A Journey's End",
-            "place": "Gift Assembly",
-            "desc": "We defeated Santata, but his body begins to expand as though it's about to explode. That's when we hear a sudden, unfamiliar voice from somewhere..."
-        },
-        {
-            "id": 910513,
-            "title": "Santata",
-            "place": "Gift Assembly",
-            "desc": "Our negotiation attempt with the beard giant Santata predictably fell through. We have no choice but to defeat him here."
-        }
-    ]
+  "dataList": [
+    {
+      "id": 910501,
+      "title": "Sıkıntı",
+      "place": "Mephistopheles Otobüs Botu",
+      "desc": "Göl kenarındaki bekleyişimiz gittikçe uzuyor. Birer birer, Günahkârlar sıkıntıya düşmeye başlıyor.\nSonra Heathcliff aniden endişeli bir şekilde Vergilius'a sesleniyor..."
+    },
+    {
+      "id": 910502,
+      "title": "Cazibeli Bir Teklif",
+      "place": "Mephistopheles Otobüs Botu",
+      "desc": "Don Quixote bizi geminin güvertesine götürdü.\nİşte oradaydı, Faust'un her Arka Kapı dengesizliği olduğunda analiz ettiği monitör... Ve oradaydılar yine, o bilinmeyen semboller."
+    },
+    {
+      "id": 910503,
+      "title": "Beklenmedik Bir Yolculuk",
+      "place": "Otobüsün Arka Kapısı",
+      "desc": "Don Quixote'nin gördüğünü iddia ettiği Arka Kapıya girdik. İçerisi... bir fabrika gibi görünüyordu.\nAçıkça bu tesiste ilk kez olmamakla birlikte, Don Quixote birine sesleniyor..."
+    },
+    {
+      "id": 910504,
+      "title": "Canavari Bir Hediye",
+      "place": "Hediye Fabrikası Karşılama Salonu",
+      "desc": "Kızak üzerinde bulduğumuz çuvalın içinden çıkanlar... birkaç parçalanmış ceset ve küçük bir çocuktu.\nGörünüşe göre buraya kaçırılmışlar... Ne olmuş olabilir ki?"
+    },
+    {
+      "id": 910505,
+      "title": "Dokunaklı Bir Buluşma",
+      "place": "Hediye Dağıtım Fabrikası",
+      "desc": "Heathcliff ve Don Quixote baygın düşmüşlerdi, ancak beni kurtaran Günahkârlar sayesinde hayatta kaldım.\n... Ama baygın durumda olan iki Günahkârı hiçbir yerde göremiyorum."
+    },
+    {
+      "id": 910506,
+      "title": "Çifti Bulmak",
+      "place": "Hediye Dağıtım Fabrikası",
+      "desc": "Bunlar, fabrikanın başka bir sektörüne götürülmüş olmalı. Crayon onların yanındadır... Hızla bulmalıyız."
+    },
+    {
+      "id": 910507,
+      "title": "Çifti Bulmak",
+      "place": "Hediye Dağıtım Fabrikası",
+      "desc": "Bunlar, fabrikanın başka bir sektörüne götürülmüş olmalı. Crayon onların yanındadır... Hızla bulmalıyız."
+    },
+    {
+      "id": 910508,
+      "title": "Cücelerin Kimin İçin Paketlediği",
+      "place": "Hediye Fabrikası",
+      "desc": "Fabrika, ilk başta göründüğünden çok daha büyük ve çok daha karmaşıktı. Cüceler bu hediyeleri kimler için yapıyor? Ve neden?"
+    },
+    {
+      "id": 910509,
+      "title": "Cücelerin Kimin İçin Paketlediği",
+      "place": "Hediye Fabrikası",
+      "desc": "Fabrika, ilk başta göründüğünden çok daha büyük ve çok daha karmaşıktı. Cüceler bu hediyeleri kimler için yapıyor? Ve neden?"
+    },
+    {
+      "id": 910510,
+      "title": "Nefretin Hediye Edilmesi, Şekil Alması",
+      "place": "Hediye Montaj Alanı",
+      "desc": "Meursault'un gösterdiği yer, hediye montaj hattıydı. Onların, kaçırdıkları 'malzemelerle' hediyeler hazırlarken gördükleri manzara... şok ediciydi.\nVe aradığımız iki Günahkâr da, kendileri de hediye yapılmak üzereydi."
+    },
+    {
+      "id": 910511,
+      "title": "Hediye Veren Dev",
+      "place": "Hediye Montaj Alanı",
+      "desc": "Santata ile yaptığımız müzakere girişimi tahmin edileceği gibi başarısız oldu. Onu burada yenmekten başka seçeneğimiz yok."
+    },
+    {
+      "id": 910512,
+      "title": "Bir Yolculuğun Sonu",
+      "place": "Hediye Montaj Alanı",
+      "desc": "Santata'yı yendik, ancak bedeni patlayacakmış gibi büyümeye başladı. O anda, bir yerden tanımadığımız bir ses duyduk..."
+    },
+    {
+      "id": 910513,
+      "title": "Noel-Bababa",
+      "place": "Hediye Montaj Alanı",
+      "desc": "Santata ile yaptığımız müzakere girişimi tahmin edileceği gibi başarısız oldu. Onu burada yenmekten başka seçeneğimiz yok."
+    }
+  ]
 }
