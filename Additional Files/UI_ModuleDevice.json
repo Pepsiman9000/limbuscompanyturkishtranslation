@@ -2,67 +2,67 @@
   "dataList": [
     {
       "id": "select_personality_gacksung_up_ticket",
-      "content": "Select Identity to Takeoff"
+      "content": "Yükseltmek için Kişilik Seç"
     },
     {
       "id": "tip_long_click_to_view_personality",
-      "content": "※ Long-press an Identity to view more detailed info."
+      "content": "※ Daha fazla bilgi görmek için bir Kişiliğe uzun bas."
     },
     {
       "id": "leap_up_confim_main_only_gacksung",
-      "content": "[{0}] Identity's Uptie Tier will be changed as follows."
+      "content": "[{0}] Kişiliğin Yükseltim Aşaması aşağıdaki şekilde değiştirilecek."
     },
     {
       "id": "select_ego_gacksung_up_ticket",
-      "content": "Select E.G.O to Takeoff"
+      "content": "Yükseltmek için E.G.O Seç"
     },
     {
       "id": "tip_long_click_to_view_ego",
-      "content": "※ Long-press an E.G.O to view more detailed info."
+      "content": "※ Daha fazla bilgi görmek için bir E.G.O'ya uzun bas."
     },
     {
       "id": "ego_leap_up_confim_main_only_gacksung",
-      "content": "[{0}] E.G.O's Threadspinning Tier will be changed as follows."
+      "content": "[{0}] E.G.O'nun Rütbesi aşağıdaki şekilde değiştirilecek."
     },
     {
       "id": "all_egos",
-      "content": "All E.G.Os"
+      "content": "Tüm E.G.O'lar"
     },
     {
       "id": "leap_up_able_uptie_ego_tier",
-      "content": "Can be Threadspun"
+      "content": "Rütbe Arttırılabilir"
     },
     {
       "id": "ego_gacksung_grade",
-      "content": "Threadspin Tier"
+      "content": "Rütbe"
     },
     {
       "id": "leap_up_ego_confim_title",
-      "content": "Selecting E.G.O"
+      "content": "E.G.O Seçiliyor"
     },
     {
       "id": "check_default_personality_leap_up",
-      "content": "This is an Identity that can be Uptied for free to Tier 3 by progressing through the Main Story.\n\nUptie this Identity anyway?"
+      "content": "Bu, Ana Hikâyede ilerleyerek ücretsiz şekilde 3. Aşamaya kadar Yükseltilebilecek bir Kişiliktir.\n\nYine de bu Kişiliği Yükseltmek istiyor musun?"
     },
     {
       "id": "check_default_ego_leap_up",
-      "content": "This is an E.G.O that can be Threadspun for free to Tier 3 by progressing through the Main Story.\n\nUptie this Identity anyway?"
+      "content": "Bu, Ana Hikâyede ilerleyerek ücretsiz şekilde 3. Aşamaya kadar Kademe yükseltilebilecek bir E.G.O'dur.\n\nYine de bu Kişiliği Yükseltmek istiyor musun?"
     },
     {
       "id": "select_identity_popup_title",
-      "content": "Select Identity"
+      "content": "Kişilik Seç"
     },
     {
       "id": "select_identity_popup_title_season_1",
-      "content": "Select Season 1 Identity"
+      "content": "Sezon 1 Kişiliğini Seç"
     },
     {
       "id": "select_ego_popup_title_season_1_battlepass",
-      "content": "Select Season 1 Battle Pass E.G.O"
+      "content": "Sezon 1 Savaş Bileti E.G.O'sunu Seç"
     },
     {
       "id": "select_ego_popup_title",
-      "content": "Select E.G.O"
+      "content": "E.G.O Seç"
     }
   ]
 }
