@@ -356,7 +356,7 @@
         {
           "level": 4,
           "name": "Riposte",
-          "desc": "[WinDuel] Sonraki tur 3 [Paralsis] uygula\n[WinDuel] 1 [Burst] miktarı ekle",
+          "desc": "[WinDuel] Sonraki Tur 3 [Paralsis] uygula\n[WinDuel] 1 [Burst] miktarı ekle",
           "keywords": [
             "Paralysis"
           ],
@@ -422,7 +422,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Breath] kazan"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [Breath] kazan"
                 }
               ]
             }
@@ -437,7 +437,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Breath] kazan"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [Breath] kazan"
                 }
               ]
             }
@@ -451,7 +451,7 @@
         {
           "level": 1,
           "name": "Topuk Dönüşü",
-          "desc": "[WinDuel] Sonraki tur +1 [Breath] miktarı kazan",
+          "desc": "[WinDuel] Sonraki Tur +1 [Breath] miktarı kazan",
           "keywords": [],
           "coinlist": [
             {},
@@ -461,7 +461,7 @@
         {
           "level": 2,
           "name": "Topuk Dönüşü",
-          "desc": "[WinDuel] Sonraki tur +2 [Breath] miktarı kazan",
+          "desc": "[WinDuel] Sonraki Tur +2 [Breath] miktarı kazan",
           "keywords": [],
           "coinlist": [
             {},
@@ -471,7 +471,7 @@
         {
           "level": 4,
           "name": "Topuk Dönüşü",
-          "desc": "[WinDuel] Sonraki tur +2 [Breath] miktarı kazan",
+          "desc": "[WinDuel] Sonraki Tur +2 [Breath] miktarı kazan",
           "keywords": [],
           "coinlist": [
             {},
@@ -492,7 +492,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 [Breath] kazan"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 2 [Breath] kazan"
                 }
               ]
             },
@@ -515,7 +515,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 [Breath] kazan"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 2 [Breath] kazan"
                 }
               ]
             },
@@ -608,7 +608,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 [AttackDown] uygula"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 2 [AttackDown] uygula"
                 }
               ]
             }
@@ -624,7 +624,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 [AttackDown] uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [AttackDown] uygula"
                 }
               ]
             }
@@ -644,14 +644,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [AttackDown] uygula"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 1 [AttackDown] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 [AttackDown] uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [AttackDown] uygula"
                 }
               ]
             }
@@ -830,7 +830,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tek Saldırı",
+          "name": "Tekli Saldırı",
           "desc": "",
           "coinlist": [
             {
@@ -844,7 +844,7 @@
         },
         {
           "level": 2,
-          "name": "Tek Saldırı",
+          "name": "Tekli Saldırı",
           "desc": "",
           "coinlist": [
             {
@@ -858,13 +858,13 @@
         },
         {
           "level": 4,
-          "name": "Tek Saldırı",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Tekli Saldırı",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -877,27 +877,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Deep Cuts",
+          "name": "Derin Kesikler",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath] next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath] next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 Haste next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 2 [Agility] kazan"
                 }
               ]
             }
@@ -905,27 +905,27 @@
         },
         {
           "level": 2,
-          "name": "Deep Cuts",
+          "name": "Derin Kesikler",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 Haste next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 4 [Agility] kazan"
                 }
               ]
             }
@@ -933,30 +933,30 @@
         },
         {
           "level": 4,
-          "name": "Deep Cuts",
+          "name": "Derin Kesikler",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 Haste next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 4 [Agility] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Breath] kazan"
                 }
               ]
             }
@@ -969,14 +969,14 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Opportunistic Slash",
-          "desc": "If user took no damage last turn, Coin Power +3",
+          "name": "Fırsatçıl Kesik",
+          "desc": "Eğer Günahkâr önceki Tur hasar almamışsa, Jeton Gücü +3",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 5 [Burst] uygula"
                 }
               ]
             }
@@ -8065,7 +8065,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] sıradaki tur 1 Fanatic Kazan"
+                  "desc": "[OnSucceedAttackTail] sıradaki Tur 1 Fanatic Kazan"
                 },
                 {
                   "desc": "[OnSucceedAttack] 2 Burn uygula"
@@ -8083,7 +8083,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] sıradaki tur 1 Fanatic Kazan"
+                  "desc": "[OnSucceedAttackTail] sıradaki Tur 1 Fanatic Kazan"
                 },
                 {
                   "desc": "[OnSucceedAttack] 3 Burn uygula"
@@ -8188,7 +8188,7 @@
                   "desc": "[OnSucceedAttack] eğer hedefte 5+ Bleed varsa, 5 Burn uygula"
                 },
                 {
-                  "desc": "[EnemyKill] sıradaki tur 1 Darbe Gücü Artışı Kazan"
+                  "desc": "[EnemyKill] sıradaki Tur 1 Darbe Gücü Artışı Kazan"
                 }
               ]
             }
@@ -8213,7 +8213,7 @@
                   "desc": "[OnSucceedAttack] eğer hedefte 5+ Bleed varsa, 7 Burn uygula"
                 },
                 {
-                  "desc": "[EnemyKill] sıradaki tur 1 Darbe Gücü Artışı Kazan"
+                  "desc": "[EnemyKill] sıradaki Tur 1 Darbe Gücü Artışı Kazan"
                 }
               ]
             }
@@ -9263,7 +9263,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Sonraki tur 1 Felç uygula"
+                  "desc": "[OnSucceedAttackTail] Sonraki Tur 1 Felç uygula"
                 }
               ]
             },
@@ -9274,7 +9274,7 @@
                   "desc": "[OnSucceedAttack] 5 Parçalanma uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Sonraki tur 1 Kırılganlık uygula"
+                  "desc": "[OnSucceedAttackTail] Sonraki Tur 1 Kırılganlık uygula"
                 }
               ]
             }
@@ -9293,7 +9293,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Sonraki tur 1 Felç kazan"
+                  "desc": "[OnSucceedAttackTail] Sonraki Tur 1 Felç kazan"
                 }
               ]
             },
@@ -9317,7 +9317,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Sonraki tur 1 Felç kazan"
+                  "desc": "[OnSucceedAttackTail] Sonraki Tur 1 Felç kazan"
                 }
               ]
             },
@@ -9347,14 +9347,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Batma Miktarı uygula"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur +1 Batma Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Batma Miktarı uygula"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur +1 Batma Miktarı uygula"
                 }
               ]
             }
@@ -9369,14 +9369,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur +1 Batma Miktarı uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur +1 Batma Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur +1 Batma Miktarı uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur +1 Batma Miktarı uygula"
                 }
               ]
             }
@@ -9391,14 +9391,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur +1 Batma Miktarı uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur +1 Batma Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur +2 Batma Miktarı uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur +2 Batma Miktarı uygula"
                 }
               ]
             }
@@ -9417,21 +9417,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Batış uygula"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 2 Batış uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Batış uygula"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 2 Batış uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Batış uygula"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 2 Batış uygula"
                 }
               ]
             }
@@ -9445,21 +9445,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 2 Batış uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 2 Batış uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 2 Batış uygula"
                 }
               ]
             }
@@ -9473,21 +9473,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 2 Batış uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 2 Batış uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 2 Batış uygula"
                 }
               ]
             }
