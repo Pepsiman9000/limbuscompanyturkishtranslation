@@ -2,44 +2,44 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Eunbong’s Bar & Fryers Kitchen",
-      "content": "I stared at Gregor’s dish for a good while."
+      "place": "Eunbong’un Barı ve Kızartmacısı'nın Mutfağı",
+      "content": "Gregor’un tabağına bir süre baktım."
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<What uh, is this, Gregor?>"
+      "content": "<Bu da ne, Gregor?>"
     },
     {
       "id": 2,
       "model": "그레고르요리사",
-      "content": "A military survivalist meal… or something like that?"
+      "content": "Bir askeri hayatta kalma yemeği… ya da buna benzer bir şey?"
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<Do they… really eat this in the military?>"
+      "content": "<Askerde gerçekten bunu mu yiyorlar?>"
     },
     {
       "id": 4,
       "model": "그레고르요리사",
-      "content": "Look, Manager Bud, didn’t you say you’re an amnesiac? Since when were you such a delicate food critic, huh?"
+      "content": "Bak, Müdür Ahbap, amnezi hastası olduğunu söylememiş miydin? Ne zamandan beri bu kadar hassas bir yemek eleştirmeni oldun, ha?"
     },
     {
       "id": 5,
-      "content": "Gregor lost his usual calm demeanor and suddenly snapped at me."
+      "content": "Gregor her zamanki sakin tavrını kaybetti ve aniden bana çıkıştı."
     },
     {
       "id": 6,
-      "content": "I looked at Ryōshū’s serving next."
+      "content": "Daha sonra Ryōshū’nun yemeğine baktım."
     },
     {
       "id": 7,
-      "content": "I felt like I was looking at a brand-new work of art."
+      "content": "Sanki yepyeni bir sanat eserine bakıyormuşum gibi hissettim."
     },
     {
       "id": 8,
-      "content": "As in, I had no idea what it was supposed to be."
+      "content": "Ki ne olduğuna dair hiç bir fikrim yoktu."
     },
     {
       "id": 9,
@@ -49,121 +49,121 @@
     {
       "id": 10,
       "model": "단테",
-      "content": "<Ryōshū, just to make sure, you didn’t mistake our objective with assassinating the Distorted restaurant owner, did you?>"
+      "content": "<Ryōshū, emin olmak için soruyorum, amacımızı bozuk restoran sahibini öldürmek olarak algılamadın, değil mi?"
     },
     {
       "id": 11,
       "model": "료슈요리사",
-      "content": "S.T.C.U."
+      "content": "S.A.K."
     },
     {
       "id": 12,
       "model": "싱클레어",
-      "content": "She wants to shut the clock up…"
+      "content": "Saat ağnızı kapamanı istiyor…"
     },
     {
       "id": 13,
-      "content": "Heathcliff and Meursault had caught the owner of Eunbong’s and put him in a seat in the meantime…"
+      "content": "Heathcliff ve Meursault bu arada Eunbong’un sahibini yakalayıp bir koltuğa oturtmuşlardı…"
     },
     {
       "id": 14,
-      "content": "We started by feeding him Ryōshū’s cooking."
+      "content": "Ona Ryōshū’nun yemeğini yedirerek başladık."
     },
     {
       "id": 15,
       "model": "뒤틀린주인",
-      "teller": "Eunbong’s Bar & Fryers Owner",
-      "title": "Eunbong’s Bar & Fryers",
-      "content": "Grr… Urgh… Hrrgh…"
+      "teller": "Eunbong’un Barı ve Kızartmacısı'nın Sahibi",
+      "title": "Eunbong’un Barı ve Kızartmacısı",
+      "content": "Grr… Uuh… Hrrgh…"
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "The Distortion’s language is difficult to parse. It will take me at least 70 hours to decipher it based on the speech pattern and cadence."
+      "content": "Bozukluk'un dilini çözmek zor. Konuşma örüntüsü ve ritmine dayanarak onu çözmem en az 70 saatimi alacak."
     },
     {
       "id": 17,
       "model": "싱클레어",
-      "content": "That long? We can’t be frying chickens for all that time!"
+      "content": "O kadar uzun mu? O kadar uzun süre tavuk kızartamayız!"
     },
     {
       "id": 18,
       "model": "단테",
-      "content": "<Wait…!>"
+      "content": "<Bekle bir saniye…!>"
     },
     {
       "id": 19,
       "model": "단테",
-      "content": "<I think I can hear his voice in my head.>"
+      "content": "<Sanırım sesini kafamın içinde duyabiliyorum.>"
     },
     {
       "id": 20,
       "model": "파우스트",
-      "content": "Hmm, how curious. This could be due to the influence of the Golden Boughs we’ve collected resonating with Manager Dante’s head."
+      "content": "Hmm, ne kadar ilginç. Bu, topladığımız Altın Dalların Müdür Dante'nin kafasıyla rezonansa girmesinden kaynaklanıyor olabilir."
     },
     {
       "id": 21,
-      "content": "Ugh… I think I just heard a staggering statement, but the owner’s cries are too distracting…"
+      "content": "Uuhh… Sanırım az önce şaşırtıcı bir ifade duydum ama restoran sahibinin ağlamaları çok dikkat dağıtıcı…"
     },
     {
       "id": 22,
       "model": "뒤틀린주인",
-      "teller": "Eunbong’s Bar & Fryers Owner",
-      "title": "Eunbong’s Bar & Fryers",
+      "teller": "Eunbong’un Barı ve Kızartmacısı'nın Sahibi",
+      "title": "Eunbong’un Barı ve Kızartmacısı",
       "content": "Gruh…Urg…Arrh…"
     },
     {
       "id": 23,
       "model": "료슈요리사",
-      "content": "What is he trying to say?"
+      "content": "Ne demeye çalışıyor?"
     },
     {
       "id": 24,
       "model": "단테",
-      "content": "<“A funeral procession in my mouth…”>"
+      "content": "<“Ağzımda bir cenaze alayı…”>"
     },
     {
       "id": 25,
       "model": "뒤틀린주인",
-      "teller": "Eunbong’s Bar & Fryers Owner",
-      "title": "Eunbong’s Bar & Fryers",
+      "teller": "Eunbong’un Barı ve Kızartmacısı'nın Sahibi",
+      "title": "Eunbong’un Barı ve Kızartmacısı",
       "content": "Grh… Urhh…erh…"
     },
     {
       "id": 26,
       "model": "단테",
-      "content": "<“Is your cooking theme ‘poultry apocalypse’”, he asks…>"
+      "content": "<“Yemek pişirme temanız ‘kümes hayvanı kıyameti’ mi?” diye soruyor…>"
     },
     {
       "id": 27,
       "model": "료슈요리사",
-      "content": "Right… Today will be the day I rip that clock from its stem."
+      "content": "Doğru… Bugün o saati sapından sökeceğim gün olacak."
     },
     {
       "id": 28,
       "model": "단테",
-      "content": "<I was just relaying his review!>"
+      "content": "<Ben sadece onun yorumunu aktarıyordum!>"
     },
     {
       "id": 29,
       "model": "료슈요리사",
-      "content": "Then the two of you can go to hell together."
+      "content": "Öyleyse ikiniz de cehenneme gideceksiniz."
     },
     {
       "id": 30,
       "model": "그레고르요리사",
-      "content": "Got too cocky, eh, Ryōshū? Confidence is good and all, but it’s no match for hard-boiled experience."
+      "content": "Çok küstahlaştın, ha, Ryōshū? Kendine güven iyidir ve her şeydir, ancak sert deneyimlerle boy ölçüşemez."
     },
     {
       "id": 31,
       "model": "그레고르요리사",
-      "content": "Alright, guess it’s my turn. Open wide now, pal."
+      "content": "Tamam, sanırım sıra bende. Şimdi ağzını iyice aç, dostum."
     },
     {
       "id": 32,
       "model": "뒤틀린주인",
-      "teller": "Eunbong’s Bar & Fryers Owner",
-      "title": "Eunbong’s Bar & Fryers",
+      "teller": "Eunbong’un Barı ve Kızartmacısı'nın Sahibi",
+      "title": "Eunbong’un Barı ve Kızartmacısı",
       "content": "Ghh… Urhh… Urrg…"
     },
     {
@@ -174,12 +174,12 @@
     {
       "id": 34,
       "model": "그레고르요리사",
-      "content": "Aha, is he starting to open up his heart?"
+      "content": "Aha, acaba yüreğini mi açmaya başlıyor?"
     },
     {
       "id": 35,
       "model": "단테",
-      "content": "<He’s wondering if it was sludged up from the food waste dumpster outside…>"
+      "content": "<Acaba dışarıdaki yemek atığı çöp konteynırından mı yedi diye merak ediyor…>"
     },
     {
       "id": 36,
@@ -189,15 +189,15 @@
     {
       "id": 37,
       "model": "단테",
-      "content": "<Looks like both your dishes failed…>"
+      "content": "<Sanırım ikinizin de yemeği başarısız oldu…>"
     },
     {
       "id": 38,
-      "content": "The owner and his chickens came at us with growls."
+      "content": "Restoran sahibi ve tavukları bize doğru hırlayarak yaklaştılar."
     },
     {
       "id": 39,
-      "content": "As if to express their master’s anger in full…"
+      "content": "Sanki efendilerinin öfkesini tam olarak ifade etmek istercesine…"
     }
   ]
 }
