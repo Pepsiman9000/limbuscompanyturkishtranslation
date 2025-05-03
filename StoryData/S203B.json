@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Rehineci Dükkanı",
+      "place": "Rehinci Dükkanı",
       "model": "소드",
       "teller": "Saude",
       "title": "LŞTÖ",
-      "content": "Şimdi… bu görev için sizlere herşeyi basitçe anlatacağız. Tek yapmanız gereken 'Çantadaki Keklik'i yemek olucak."
+      "content": "Şimdi… bu görev için sizlere her şeyi basitçe anlatacağız. Tek yapmanız gereken “çantadaki keklik”i yemek olacak."
     },
     {
       "id": 1,
@@ -17,11 +17,11 @@
     },
     {
       "id": 2,
-      "content": "Saude'nin konuşma tarzı, hele sürekli vurgu yaparak bizlere anaokulu çocuğu gibi davranması beni biraz kışkırtmıştı. Ama üzerinde durmadım."
+      "content": "Saude'ın konuşma tarzı, hele sürekli vurgu yaparak bizlere anaokulu çocuğu gibi davranması beni biraz kışkırtmıştı. Ama üzerinde durmadım."
     },
     {
       "id": 3,
-      "content": "Dursaydım bile, saatin seslerinden başka birşey duymayacaktı."
+      "content": "Dursaydım bile, saatin seslerinden başka bir şey duymayacaktı."
     },
     {
       "id": 4,
@@ -46,7 +46,7 @@
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "…galiba onların istediği gibi yapmalıyız??"
+      "content": "…onların istediği gibi yapmalıyız??"
     },
     {
       "id": 9,
@@ -56,26 +56,26 @@
     {
       "id": 10,
       "model": "이스마엘",
-      "content": "… Bize sundukları dökümanlar. Eşsizler."
+      "content": "…Bize sundukları dökümanlar, kusursuzlar."
     },
     {
       "id": 11,
       "model": "이스마엘",
-      "content": "Baksana. Rotalar falan çizilmiş. Böyle titiz ve açık bir planı göreli uzun zaman oldu."
+      "content": "Baksana. Rotalar falan çizilmiş. Böyle titiz ve açık bir plan göreli uzun zaman oldu."
     },
     {
       "id": 12,
       "model": "오티스",
-      "content": "Mhm, kesinlikle. Usulüne uygun operasyon planları hazırlayabilme bilgisine sahip olduklatını kanıtlayan bir döküman."
+      "content": "Mhm, kesinlikle. Usulüne uygun operasyon planları hazırlayabilme bilgisine sahip olduklarını kanıtlayan bir döküman."
     },
     {
       "id": 13,
       "model": "오티스",
-      "content": "Ah, Tabii ki bu, müdürümüzün ışığının en ufak parıltısına bile sahip olduklarını söyletemez."
+      "content": "Ah, fakat tabii ki de bu, müdürümüzün ışığının en ufak parıltısına sahip olduklarını göstermez."
     },
     {
       "id": 14,
-      "content": "Ishmael’in şakın taktirleri üzerine ikna olmuş olmalıyım ki, zarfı açıp dikkatlice okudum."
+      "content": "Ishmael’in taktirleri üzerine ikna olmuş olmalıyım ki, zarfı açıp dikkatlice okudum."
     },
     {
       "id": 15,
@@ -83,11 +83,11 @@
     },
     {
       "id": 16,
-      "content": "‘Kumarhanenin tepesine ulaş.’"
+      "content": "“Kumarhanenin tepesine ulaş.”"
     },
     {
       "id": 17,
-      "content": "Planın şimdi uygulanmasının asıl sebebi bu gün kumarhanenin en son katında oynancak olan kumardaki büyük ödüldü."
+      "content": "Planın şimdi uygulanmasının asıl sebebi bu gün kumarhanenin en son katında oynanacak olan oyundaki büyük ödüldü."
     },
     {
       "id": 18,
@@ -95,11 +95,11 @@
     },
     {
       "id": 19,
-      "content": "Bu şans oyununda bahiste bulunan dört çete olucaktı…"
+      "content": "Bu şans oyununda bahiste bulunan dört çete olacaktı…"
     },
     {
       "id": 20,
-      "content": "dört çeteden kılığına gireceğimiz isim…"
+      "content": "Dört çeteden kılığına gireceğimiz olan çete…"
     },
     {
       "id": 21,
@@ -114,32 +114,32 @@
     {
       "id": 23,
       "model": "이상",
-      "content": "Önyargı denen puslu camın arkasından bakış açısı almayı tercih etmek, hiç ideal bir seçenek değildir."
+      "content": "Önyargı denen puslu camın arkasından bir bakış açısı almayı tercih etmek, hiç de ideal bir seçenek değildir."
     },
     {
       "id": 24,
       "model": "단테",
-      "content": "<…Tabi tabi.>"
+      "content": "<…Tabi.>"
     },
     {
       "id": 25,
-      "content": "…Plana dönücek olursak, ‘Tingtang Çetesi’nin lidernin kılığına girip şans oyununu kazanmalıyız."
+      "content": "…Plana dönecek olursak, “Tingtang Çetesi” liderinin kılığına girip şans oyununu kazanmalıyız."
     },
     {
       "id": 26,
-      "content": "Daha sonra, Altın Dal'ın tutulduğu alt kaltlara girmemiz lazım."
+      "content": "Daha sonra ise, Altın Dal'ın tutulduğu alt katlara girmemiz lazım."
     },
     {
       "id": 27,
-      "content": "Oyuna doğru ilerken, bize uygun görülen roller için civardaki rehineci dükkanlarından bulduğumuz kıyafetleri kullanacağız, Kumarhaneye girip tepedeki takımın oyunu kazanmasını bekleyeceğiz."
+      "content": "Oyuna doğru ilerlerken, bize uygun görülen roller için civardaki rehinci dükkanlarından bulduğumuz kıyafetleri kullanacağız, ardından ise kumarhaneye girip tepedeki takımın oyunu kazanmasını bekleyeceğiz."
     },
     {
       "id": 28,
-      "content": "Plan kabaca böyledi…"
+      "content": "Plan kabaca böyleydi…"
     },
     {
       "id": 29,
-      "content": "Hey, bir saniye. bütün planımız oyunu oynayan kişi kaybederse suya düşmüyor mu?"
+      "content": "Hey, bir saniye. Bütün planımız oyunu oynayan kişi kaybederse suya düşmüyor mu?"
     },
     {
       "id": 30,
@@ -172,27 +172,27 @@
       "model": "에피",
       "teller": "Effie",
       "title": "LŞTÖ",
-      "content": "Sizelere Büyük Şans tılsımı vereceğiz. Böylelikle çantada keklik olacak, ihtiyacınız olan tek şey sadece bir çift gören göz."
+      "content": "Sizlere “iyi şans” vereceğiz. Oyun çoktan cepte, ihtiyacınız olan tek şey bir çift gören göz."
     },
     {
       "id": 35,
-      "content": "Diye Effie kendi kendine söylendi, gurubumuza bir kez daha küçümser bakışlar atarak."
+      "content": "Son kısmı Effie kendi kendine tekrarladı, gurubumuza bir kez daha küçümser bakışlar atarak."
     },
     {
       "id": 36,
-      "content": "Bizlere hakkaten hiç güvenmiyordu."
+      "content": "Bizlere hakikaten hiç güvenmiyordu."
     },
     {
       "id": 37,
       "model": "그레고르",
-      "content": "TingTang Çetesi'nin Liderinin yerine nasıl geçiceğiz?"
+      "content": "TingTang Çetesi'nin liderinin yerine nasıl geçeceğiz?"
     },
     {
       "id": 38,
       "model": "소드",
       "teller": "Saude",
       "title": "LŞTÖ",
-      "content": "Kasinodaki yemeklere sakinleştirici atıcağız. Aşçı başını ayartmayı başardık bile."
+      "content": "Kasinodaki yemeklere sakinleştirici atacağız. Aşçı başını ayartmayı başardık bile."
     },
     {
       "id": 39,
@@ -212,18 +212,18 @@
       "model": "소드",
       "teller": "Saude",
       "title": "LŞTÖ",
-      "content": "Hey, sayın rehineci~ burdan boydan boya olan kısımdaki eşyalarına biraz göz gezdireceğiz~"
+      "content": "Hey, sayın rehinci~ burdan boydan boya olan kısımdaki eşyalarına biraz göz gezdireceğiz~"
     },
     {
       "id": 43,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkanı",
-      "content": "Ne? Ah! Tabiki, olur, sakıncası yok. Lütfen istediğiniz kadar bakın hamfendi."
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkanı",
+      "content": "Ne? Ah! Tabiki, olur, sakıncası yok. Lütfen istediğiniz kadar bakın hanımefendi."
     },
     {
       "id": 44,
-      "content": "Rehinecinin tavrı hor görenden yağcı başına doğru keskin bir dönüş yaptı."
+      "content": "Rehincinin tavrı hor görenden yağcı başına doğru keskin bir dönüş yaptı."
     },
     {
       "id": 45,
@@ -235,31 +235,31 @@
     {
       "id": 46,
       "model": "홍루",
-      "content": "Vay be! Bu Guppcha Tasarımlı bir iğne, değil mi?"
+      "content": "Vay be! Bu Guppcha tasarımlı bir iğne, değil mi?"
     },
     {
       "id": 47,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkanı",
-      "content": "Haah~ Kartal gibi gözleriniz var, bayım. Dükanımızın kataloğunun en nadide parçası olur kendileri. Dünya çapında sadece on tane üğretildi, yani değeri son derece paha­—"
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkanı",
+      "content": "Haah~ Kartal gibi gözleriniz var, bayım. Dükanımızın kataloğunun en nadide parçası olur. Dünya çapında sadece on tane üğretildi, yani değeri son derece paha­—"
     },
     {
       "id": 48,
       "model": "홍루",
-      "content": "Köpeğimi sabah yürüyüşüne çıkartırken, boyunluğuna bunlardan takardık. Güzel maziyi gözümde canlandıran şeyler görebilmek çok hoş bir his!"
+      "content": "Köpeğimi sabah yürüyüşüne çıkartırken, boyunluğuna bunlardan takardık. Güzel maziyi gözümde canlandıran şeyler görmek çok hoş bir his!"
     },
     {
       "id": 49,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkanı",
       "content": "……"
     },
     {
       "id": 50,
       "model": "로쟈",
-      "content": "Bu inek derisi eldivenleri çok beğendim. Kim sahiplendiyse modadan çok pis anlıyordu kesin~"
+      "content": "Bu inek derisi eldivenleri çok beğendim. Zamanında kim kullanmışsa modadan çok pis anlıyormuş~"
     },
     {
       "id": 51,
@@ -271,24 +271,24 @@
     {
       "id": 52,
       "model": "돈키호테",
-      "content": "Pardon, amma velakin zatıma gelen takrirnamede “Hademe” yazmakta, bilakis noksan olmalı!"
+      "content": "Pardon, amma velakin zatıma gelen taktirnamede “Hademe” yazmakta, bilakis bir noksan olmalı!"
     },
     {
       "id": 53,
       "model": "그레고르",
-      "content": "Tamam, Anladık, ama… bunların hepsini karşılayacak paramız varmı?"
+      "content": "Tamam, anladık, ama… bunların hepsini karşılayacak paramız varmı?"
     },
     {
       "id": 54,
       "model": "에피",
       "teller": "Effie",
       "title": "LŞTÖ",
-      "content": "Bütçe hakkında mı endişe ediyorsun? Sen bizi ne sanıyorsun, düşük kıdem memurlar mı? Bu ‘Siyah Kart’ ile ödeyemeyeceğim mebla yok."
+      "content": "Bütçe hakkında mı endişe ediyorsun? Sen bizi ne sanıyorsun, düşük kıdem memurlar mı? Bu “Siyah Kart” ile ödeyemeyeceğim mebla yok."
     },
     {
       "id": 55,
       "model": "로쟈",
-      "content": "Dante! Ne diyor bu?! Bana dedin ki; dana antrikot yiyemeyiz çünkü bütçemiz yok!"
+      "content": "Dante! Ne diyor bu?! Bana demiştin ki, dana antrikot yiyemeyiz çünkü bütçemiz yok!"
     },
     {
       "id": 56,
@@ -312,13 +312,13 @@
     },
     {
       "id": 60,
-      "content": "Yobaz bir çeteye ait olduğu belli olan birisi rehineci dükkanına girdi."
+      "content": "Yobaz bir çeteye ait olduğu belli olan birisi rehinci dükkanına girdi."
     },
     {
       "id": 61,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkanı",
       "content": "L-Lütfen… Bir şans daha verin. Söz vallahi paranızı getireceğim."
     },
     {
@@ -331,13 +331,13 @@
     {
       "id": 63,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkanı",
       "content": "B-Ben Sadece topal ayağının üstünde durmaya çalışan kırılgan bir adamım, beni hırpalayarak elde edebilceğin bir şey yok…!"
     },
     {
       "id": 64,
-      "content": "Alenen yalvarırcasına bir üslupla, rehineci bizlere baktı."
+      "content": "Alenen yalvarırcasına bir üslupla, rehinci bizlere baktı."
     },
     {
       "id": 65,
@@ -403,8 +403,8 @@
     {
       "id": 76,
       "model": "전당포주인",
-      "teller": "Rehineci Dükkanı",
-      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "teller": "Rehinci Dükkanı",
+      "title": "J Kuruluşu. Rehinci Dükkanı",
       "content": "O-Onun dışında her şey… Lütfen…"
     },
     {
@@ -544,7 +544,7 @@
     },
     {
       "id": 104,
-      "content": "Don Quixote hali hazırda çoktan elindeki kargıyla yaşlı rehineciyi yakasından kavramış TingTang üyesine doğru atılmıştı bile."
+      "content": "Don Quixote hali hazırda çoktan elindeki kargıyla yaşlı rehinciyi yakasından kavramış TingTang üyesine doğru atılmıştı bile."
     },
     {
       "id": 105,
@@ -556,7 +556,7 @@
     },
     {
       "id": 107,
-      "content": "Tiyatrodan bir sahnedeymişçesine yere serilen kodaman, iyi bir süreliğine rehineci dükkanındaki herkesin ilgi oldağı olmuştu."
+      "content": "Tiyatrodan bir sahnedeymişçesine yere serilen kodaman, iyi bir süreliğine rehinci dükkanındaki herkesin ilgi oldağı olmuştu."
     },
     {
       "id": 108,
@@ -586,19 +586,19 @@
     {
       "id": 113,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkanı",
       "content": "Oooh…!"
     },
     {
       "id": 114,
-      "content": "Gelişmelerden tek nemalanan kişi, Don Quixote harici, rehineci olmuştu."
+      "content": "Gelişmelerden tek nemalanan kişi, Don Quixote harici, rehinci olmuştu."
     },
     {
       "id": 115,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkanı",
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkanı",
       "content": "Elinize sağlık, efendim. Tam da o hödüğe layık! Ama keşke, bu kan emiciye karşı biraz daha sert vursaydınız."
     },
     {
@@ -623,8 +623,8 @@
     {
       "id": 120,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkan",
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkan",
       "content": "Lafınızı bölmek gibi olmasın, ama… o serseri henüz ölmedi, değil mi?"
     },
     {
@@ -635,8 +635,8 @@
     {
       "id": 122,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkan",
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkan",
       "content": "İsterim, isterim… ama Yurodiviye gelirse işler sarpa sarardı, bilirsiniz ya."
     },
     {
@@ -647,8 +647,8 @@
     {
       "id": 124,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkan",
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkan",
       "content": "En son gelişmelerden haberdar değilsiniz, değil mi, madam? Son aylarda buralarda sorun çıkarıp duruyorlar."
     },
     {
@@ -659,8 +659,8 @@
     {
       "id": 126,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkan",
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkan",
       "content": "Ooo, biz masum esnaflar için onlarda birer kodaman tabi. Bir şeyler geveleyip duruyorlardı, neydi; aç gözlü satıcılardan paralar kendilerine almak ve ihtiyacı olanlara vermek mi ney. Bir şeyleri dağıtmak demişlerdi…"
     },
     {
@@ -671,15 +671,15 @@
     {
       "id": 128,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkan",
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkan",
       "content": "Aaaa~ Evet oydu, sağ ol genç adam. o sahtekârlar biz sefil esnafları az biraz varlığımızdan da ediyorlar. Ve kirli işi kendileri de yapmıyorlar, yerel kabadayıları üzerimize salıyorlar. İnanabiliyomusun?"
     },
     {
       "id": 129,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkan",
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkan",
       "content": "Neyse neyse, o çakma Robin Hood'lar gibiler yüzünden hayatımız perişan oldu. Buraya ilk geldiklerinde bir şeyi arıyorlar gibiydi, ama şimdilerde tek yaptıkları bizleri inek gibi sağmak…"
     },
     {
@@ -689,7 +689,7 @@
     },
     {
       "id": 131,
-      "content": "Bana öyle geldi ki, Rodya rehinecinin sözlerini bilerek kesmek istedi, ama amacını sorgulamak önceliğim değildi."
+      "content": "Bana öyle geldi ki, Rodya rehincinin sözlerini bilerek kesmek istedi, ama amacını sorgulamak önceliğim değildi."
     },
     {
       "id": 132,
@@ -705,7 +705,7 @@
     {
       "id": 134,
       "model": "그레고르",
-      "content": "Hey, Muffin ve Sablé, miydi? bu kadar da mayhoş olmayın. bütün sokakta başka rehinecilerde var, değil mi? Başka bir tane bu—"
+      "content": "Hey, Muffin ve Sablé, miydi? bu kadar da mayhoş olmayın. bütün sokakta başka rehincilerde var, değil mi? Başka bir tane bu—"
     },
     {
       "id": 135,
@@ -760,7 +760,7 @@
     },
     {
       "id": 143,
-      "content": "Sanki rehineci dükkanına rehin bırakmaya gelmiş masum müşteriler gibi gözükmek için elimizden geleni yaptık."
+      "content": "Sanki rehinci dükkanına rehin bırakmaya gelmiş masum müşteriler gibi gözükmek için elimizden geleni yaptık."
     },
     {
       "id": 144,
@@ -793,13 +793,13 @@
     },
     {
       "id": 149,
-      "content": "Zaten, “Kirmiz Ziman Pösüntusü”dan kasıt benim olduğum belli, sanki bu koca Eyalet'te o peltek zamire uyabilicek birileri varmış gibi."
+      "content": "Zaten, “Kirmiz Ziman Pösüntusü”dan kasıt benim olduğum belli, sanki bu koca Eyalet'te o peltek zamire uyabilecek birileri varmış gibi."
     },
     {
       "id": 150,
       "model": "전당포주인",
-      "teller": "Rehineci",
-      "title": "J Kuruluşu. Rehineci Dükkan",
+      "teller": "Rehinci",
+      "title": "J Kuruluşu. Rehinci Dükkan",
       "content": "Yanlış anlaşılma olmasın, olan bitenle benim bir alakam yok. Hatta ben saygılı Hamurcağımıza havlu getiriyordum."
     },
     {
@@ -814,7 +814,7 @@
     },
     {
       "id": 153,
-      "content": "Rehinecinin anında bizi satması ve “Hamurcağın” ayılması benim suçum olmasa da, duygularım incinmişti, ama şimdi durulmanın sırası değildi."
+      "content": "Rehincinin anında bizi satması ve “Hamurcağın” ayılması benim suçum olmasa da, duygularım incinmişti, ama şimdi durulmanın sırası değildi."
     },
     {
       "id": 154,
@@ -862,7 +862,7 @@
     },
     {
       "id": 162,
-      "content": "Ishmael bu aşağılanmadan provoke olmuştu, tam bir karşılık vercekti ki önünde duran hödüklerin daha büyük bir sorun teşkil ettiğini hatırladı."
+      "content": "Ishmael bu aşağılanmadan provoke olmuştu, tam bir karşılık verecekti ki önünde duran hödüklerin daha büyük bir sorun teşkil ettiğini hatırladı."
     },
     {
       "id": 163,
