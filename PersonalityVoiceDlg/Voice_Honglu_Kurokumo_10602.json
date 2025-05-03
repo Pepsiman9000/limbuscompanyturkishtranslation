@@ -3,7 +3,7 @@
     {
       "id": "get_10602_1",
       "desc": "Identity Acquisition",
-      "dlg": "I can follow your commands no problem~ Obedience might be a tall order, though~"
+      "dlg": "Emirlerinizi sorunsuz yerine getireceğim~ Obedience might be a tall order, though~"
     },
     {
       "id": "lobby_morning_10602_1",
@@ -23,7 +23,7 @@
     {
       "id": "smalltalk_10602_1",
       "desc": "Chatter #1",
-      "dlg": "It’s always fun to slash things. Doing it out of obligation, though… rather dampens the mood."
+      "dlg": "Bir şeyleri kesmek hep eğlenceli. Ama, zorunlu olarak yapmak… modu düşürüyor gibi."
     },
     {
       "id": "smalltalk_10602_2",
@@ -38,7 +38,7 @@
     {
       "id": "smalltalk_10602_4",
       "desc": "Post-Uptie Chat 1",
-      "dlg": "You’re the only one I treat with genuine respect, Lord Dante. I wouldn’t be calling you my lord if I didn’t truly feel that you deserve the title."
+      "dlg": "Gerçekten saydığım tek kişi sizsiniz, Lord Dante. Eğer bu ünvanı hakettiğinizi düşünmeseydim size lord demezdim."
     },
     {
       "id": "smalltalk_10602_5",
@@ -48,17 +48,17 @@
     {
       "id": "neglect_10602_1",
       "desc": "Idle",
-      "dlg": "Where’d you go, Lord Dante? Have you hidden among the clouds?"
+      "dlg": "Nereye gittiniz, Lord Dante? bulutların arasına mı saklandınız?"
     },
     {
       "id": "gacksung_10602_1",
       "desc": "Uptying",
-      "dlg": "Thank you. Is there anything else you’d like me to fell?"
+      "dlg": "Teşekkürler. Is there anything else you’d like me to fell?"
     },
     {
       "id": "formation_10602_1",
       "desc": "Deployment",
-      "dlg": "If that’s your orders~"
+      "dlg": "Eğer emriniz bu ise~"
     },
     {
       "id": "battleentry_10602_1",
@@ -68,7 +68,7 @@
     {
       "id": "battle_select_10602_1",
       "desc": "Viewed in Battle",
-      "dlg": "Ah, you’re here, Lord Dante~"
+      "dlg": "Ah, buradasınız, Lord Dante~"
     },
     {
       "id": "battle_endcommand_10602_1",
@@ -88,7 +88,7 @@
     {
       "id": "battle_kill_10602_1",
       "desc": "Enemy Killed",
-      "dlg": "What a joy it is to slash~"
+      "dlg": "Kesmek ne kadar da zevkli~"
     },
     {
       "id": "battle_allydead_10602_1",
@@ -98,12 +98,12 @@
     {
       "id": "choice_success_p_10602_1",
       "desc": "Check Passed",
-      "dlg": "I told you, I’ll follow your commands no problem~"
+      "dlg": "Dediğim gibi, emirlerinizi sorunsuz yerine getireceğim~"
     },
     {
       "id": "choice_fail_n_10602_1",
       "desc": "Check Failed",
-      "dlg": "Mmm… It’s fine~ I followed your orders after all, right?"
+      "dlg": "Mmm… Olur öyle şeyler~ Sonuçta emirlerinize uydum, değil mi?"
     },
     {
       "id": "battle_clear_10602_1",
@@ -118,7 +118,7 @@
     {
       "id": "battle_defeat_10602_1",
       "desc": "Defeat Wail",
-      "dlg": "The blade must’ve gotten a bit dull~"
+      "dlg": "Kılıç ufaktan körelmiş olmalı~"
     }
   ]
 }
