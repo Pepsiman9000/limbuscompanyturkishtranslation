@@ -2,79 +2,79 @@
   "dataList": [
     {
       "id": "ADDITIONAL_COST_START",
-      "description": "Starting Cost +{0}"
+      "description": "Başlangıç Parası +{0}"
     },
     {
       "id": "ADDITIONAL_COST_AFTER_WIN_BATTLE",
-      "description": "Gain {0} more Cost after winning a combat encounter"
+      "description": "Bir karşılaşmas kazanıldıktan sonra {0} ek Para kazan"
     },
     {
       "id": "EGO_RESOURCE",
-      "description": "E.G.O resource for all Affinities +{0}"
+      "description": "Tüm Türler için E.G.O kaynağı +{0}"
     },
     {
       "id": "EGO_RESOURCE_FORMATION",
-      "description": "E.G.O resource for Affinities of starting Identities +{0}"
+      "description": "Başlangıçtaki Kişiliklerin Uyumları için E.G.O kaynağı +{0}"
     },
     {
       "id": "HP_RECOVER_RATE_AFTER_WIN_BATTLE",
-      "description": "After winning a combat encounter, heal {0}% of Max HP"
+      "description": "Bir savaş karşılaşmasını kazandıktan sonra Maksimum Candan %{0} iyileş"
     },
     {
       "id": "MP_RECOVER_NUMBER_AFTER_EVENT_ENCOUNTER",
-      "description": "After an event encounter, heal {0} SP"
+      "description": "Bir etkinlik karşılaşmasından sonra {0} SP iyileş"
     },
     {
       "id": "AttackLevelAdder",
-      "description": "Offense Level +{0}"
+      "description": "Saldırı Seviyesi +{0}"
     },
     {
       "id": "AttackLevelMultiply",
-      "description": "Offense Level +{0}%"
+      "description": "Saldırı Seviyesi +%{0}"
     },
     {
       "id": "DefenseLevelAdder",
-      "description": "Defense Level +{0}"
+      "description": "Savunma Seviyesi +{0}"
     },
     {
       "id": "DefenseLevelMultiply",
-      "description": "Defense Level +{0}%"
+      "description": "Savunma Seviyesi +%{0}"
     },
     {
       "id": "MaxHpAdder",
-      "description": "Max HP +{0}"
+      "description": "Maksimum Can +{0}"
     },
     {
       "id": "MaxHpMultiply",
-      "description": "Max HP +{0}%"
+      "description": "Maksimum Can +%{0}"
     },
     {
       "id": "MaxSpeedUpAdder",
-      "description": "Max Speed +{0}"
+      "description": "Maksimum Hız +{0}"
     },
     {
       "id": "AttackDamageAdder",
-      "description": "Damage Dealt +{0}"
+      "description": "Verilen Hasar +{0}"
     },
     {
       "id": "AttackDamageMultiply",
-      "description": "Damage Dealt +{0}%"
+      "description": "Verilen Hasar +%{0}"
     },
     {
       "id": "TakeAttackDamageReducer",
-      "description": "Damage Taken -{0}"
+      "description": "Alınan Hasar -{0}"
     },
     {
       "id": "TakeAttackDamageMultipliedReducer",
-      "description": "Damage Taken -{0}%"
+      "description": "Alınan Hasar -%{0}"
     },
     {
       "id": "StickCoinHeadAndTailToMaxPer",
-      "description": "Every {0} turns, all Coins on each skill used by allies land on the same side depending on the Coin's type"
+      "description": "Her {0} turda bir, müttefikler tarafından kullanılan her yetenekteki tüm jetonlar, jeton türüne göre aynı yüzüne denk gelir"
     },
     {
       "id": "RemoveBreakSection",
-      "description": "The 1st stagger thresholds of allies are nullified"
+      "description": "Müttefiklerin ilk sersemletilme eşikleri iptal edilir"
     }
   ]
 }
