@@ -412,13 +412,13 @@
         {
           "level": 1,
           "name": "Sapla",
-          "desc": "[WhenUse] Gain +2 Poise Count",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -427,16 +427,16 @@
         {
           "level": 2,
           "name": "Sapla",
-          "desc": "[WhenUse] Gain +2 Poise Count",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -445,16 +445,16 @@
         {
           "level": 4,
           "name": "Sapla",
-          "desc": "[WhenUse] Gain +2 Poise Count",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -468,19 +468,19 @@
         {
           "level": 1,
           "name": "İnsafsız Saplama",
-          "desc": "[WhenUse] Gain +2 Poise Count\nAt 5+ Poise, Clash Power +2",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan\n5+ [Breath]'de, Çarpışma Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 Poise"
+                  "desc": "[OnSucceedAttackHead] +2 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 }
               ]
             }
@@ -488,23 +488,23 @@
         },
         {
           "level": 2,
-          "name": "Relentless Stabbing",
-          "desc": "[WhenUse] Gain +2 Poise Count\nAt 5+ Poise, Clash Power +2",
+          "name": "İnsafsız Saplama",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan\n5+ [Breath]'de, Çarpışma Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 Poise"
+                  "desc": "[OnSucceedAttackHead] +2 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Reuse this Coin (1 time max)"
+                  "desc": "[CriticalOnSucceedAttack] Bu Jetonu yeniden kullan (max 1)"
                 }
               ]
             }
@@ -512,23 +512,23 @@
         },
         {
           "level": 4,
-          "name": "Relentless Stabbing",
-          "desc": "[WhenUse] Gain +2 Poise Count\nAt 5+ Poise, Clash Power +3",
+          "name": "İnsafsız Saplama",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan\n5+ [Breath]'de, Çarpışma Gücü +3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Poise"
+                  "desc": "[OnSucceedAttack] +2 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Reuse this Coin (3 times max)"
+                  "desc": "[CriticalOnSucceedAttack] Bu Jetonu yeniden kullan (max 3)"
                 }
               ]
             }
@@ -542,22 +542,22 @@
         {
           "level": 3,
           "name": "Pusu",
-          "desc": "[WhenUse] Gain 5 Poise",
+          "desc": "[WhenUse] +5 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Poise Count"
+                  "desc": "[OnSucceedAttackHead] +2 [Breath] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +4 Bleed Count"
+                  "desc": "[CriticalOnSucceedAttack] +4 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -566,22 +566,22 @@
         {
           "level": 4,
           "name": "Pusu",
-          "desc": "[WhenUse] Gain 5 Poise\nAt 7+ Poise, Coin Power +1",
+          "desc": "[WhenUse] +5 [Breath] kazan\n7+ [Breath]'de, Jeton Gücü +3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Poise Count"
+                  "desc": "[OnSucceedAttack] +2 [Breath] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +6 Bleed Count"
+                  "desc": "[CriticalOnSucceedAttack] +4 [Laceration] Miktarı uygula"
                 }
               ]
             }
