@@ -2,20 +2,20 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Unending Hill of Corpses",
-      "content": "I see endless mounds of dead bodies."
+      "place": "Sonsuz Ceset Tepesi",
+      "content": "Sonu gelmeyen ceset yığınları görüyordum."
     },
     {
       "id": 1,
-      "content": "The Inquisitors were raising their arms in unison as if to worship something."
+      "content": "Engizitörler bir şeye tapınıyorlarmış gibi kollarını hep birlikte kaldırıyorlardı."
     },
     {
       "id": 2,
-      "content": "And there Kromer stood at the highest peak."
+      "content": "Ve tepenin zirvesinde ise Kromer vardı."
     },
     {
       "id": 3,
-      "content": "She held out her hands in a prayerlike gesture toward the Golden Bough atop an altar."
+      "content": "Ellerini dua eder bir şekilde sunaktaki Altın Dal'a doğru uzatıyordu."
     },
     {
       "id": 4,
@@ -35,7 +35,7 @@
     {
       "id": -1,
       "model": "파우스트",
-      "content": "Evvel zaman önce… insanlar tanrılara taparmış, or so I heard."
+      "content": "Evvel zaman önce… insanlar tanrılara taparmış, diye duydum."
     },
     {
       "id": -1,
@@ -224,13 +224,13 @@
     {
       "id": 37,
       "teller": "Reminisced Classmate",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Yan sınıftaki Rahul'un iki kolundan da ameliyat olacağını duydum. Daha önce gelip görünmemiş bir teknolojiymiş. Ne havalı, değil mi?"
     },
     {
       "id": 38,
       "teller": "Reminisced Schoolmate",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Şu dergi kapaklarını işgal eden elemanı biliyorsunuzi, değil mi? Adamın, annemin göz doktorunda ameliyat olacağını söylemiş miydim size? Sıra o kadar uzundu ki, öne geçmek için bizzat bize yalvardılar."
     },
     {
@@ -296,13 +296,13 @@
     {
       "id": 51,
       "teller": "Reminisced Classmate",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Oha… Gerçekten mi, Sinclair?"
     },
     {
       "id": 52,
       "teller": "Reminisced Schoolmate",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "P Kuruluşu? Şu Kanat olan mı?! Vay be… Kıskandım."
     },
     {
@@ -323,7 +323,7 @@
     {
       "id": 56,
       "teller": "Reminisced Classmate",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Oh evet, Sinclair! Senin prosedürün de yakın, değil mi? Biliyorsun, protezler."
     },
     {
@@ -405,7 +405,7 @@
       "id": 72,
       "model": "학생크로머",
       "teller": "Kromer",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Parmağın… kanıyor."
     },
     {
@@ -432,7 +432,7 @@
       "id": 77,
       "model": "학생크로머",
       "teller": "Kromer",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Dinle beni, şu teneffüste dediklerin… Gerçek miydi?"
     },
     {
@@ -444,7 +444,7 @@
       "id": 79,
       "model": "학생크로머",
       "teller": "Kromer",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Anlıyorum. Baban sözü geçen birisi olsa gerek, değil mi?"
     },
     {
@@ -466,7 +466,7 @@
       "id": 83,
       "model": "학생크로머",
       "teller": "Kromer",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Ama… Neden öyle bir yüz takınıyorsun?"
     },
     {
@@ -478,7 +478,7 @@
       "id": 85,
       "model": "학생크로머",
       "teller": "Kromer",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Biliyorsun… Sen de düşünmeden edemiyorsun."
     },
     {
@@ -490,7 +490,7 @@
       "id": 87,
       "model": "학생크로머",
       "teller": "Kromer",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Bu işin kirli olduğunu düşünüyorsun."
     },
     {
@@ -522,7 +522,7 @@
       "id": 93,
       "model": "학생크로머",
       "teller": "Kromer",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Pffh… Çünkü… Ben de sana katılıyorum."
     },
     {
@@ -534,14 +534,14 @@
       "id": 95,
       "model": "학생크로머",
       "teller": "Kromer",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Seninle aynı dalga uzunluğunda olan kişileri, çok rahat hissedebiliyorsun."
     },
     {
       "id": 96,
       "model": "학생크로머",
       "teller": "Kromer",
-      "title": "Student",
+      "title": "Öğrenci",
       "content": "Tanıştığıma memnun oldum, ben Kromer."
     },
     {
