@@ -38,12 +38,12 @@
       "model": "흥겨운마리아치조직원",
       "teller": "Mariachi Alegre",
       "title": "Los Mariachis",
-      "content": "Eğer masanın keyfini bozmaya devam edersen, senden bir pañata partisi düzenleyebiliriz."
+      "content": "Eğer masanın keyfini bozmaya devam edersen, senden bir pañata partisi düzenlemek zorunda kalabiliriz."
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "(Uh, pañata partisi ne anlama geliyor?)"
+      "content": "(Uh, pañata partisi de ne?)"
     },
     {
       "id": 7,
@@ -52,15 +52,15 @@
     },
     {
       "id": 8,
-      "content": "Ağlayan konuk, maruz kaldığı hafif baskı yüzünden ayağa kalktı."
+      "content": "Maruz kaldığı hafif baskıdan dolayı ağlayan konuk, ayağa kalktı."
     },
     {
       "id": 9,
-      "content": "Sonra ona personel tarafından bir çift marakas verildi, ve…"
+      "content": "Sonra ona personel tarafından bir çift maraka verildi, ve o…"
     },
     {
       "id": 10,
-      "content": "…hıçkıra hıçkıra ağlayarak dans etmeye başladı…"
+      "content": "…Hıçkıra hıçkıra ağlarken dans etmeye başladı…"
     },
     {
       "id": 11,
@@ -72,7 +72,7 @@
       "model": "경쾌한마리아치조직원",
       "teller": "Mariachi Vivaz",
       "title": "Los Mariachis",
-      "content": "Bu kata gelen her ziyaretçinin uyması gereken bir kural vardır—una mariachi'nin geleneğidir diyebiliriz."
+      "content": "Bu kata gelen her ziyaretçinin uyması gereken bir kural vardır—una mariachi, anlarsınız ya."
     },
     {
       "id": 13,
@@ -84,11 +84,11 @@
     {
       "id": 14,
       "model": "돈키호테",
-      "content": "Allow this knight to demonstrate what dancing is about!"
+      "content": "İzin verin bu cengaver şövalyeye ki, dans nasıl edilirmiş göstersin sizlere!"
     },
     {
       "id": 15,
-      "content": "Ne yazık ki, beklenenden daha sert jürilik yapıyorlardı."
+      "content": "Ne yazık ki, dans konusu gelince göründüklerinden daha sert eleştirmenlerdi."
     },
     {
       "id": 16,
@@ -107,7 +107,7 @@
     {
       "id": 18,
       "model": "돈키호테",
-      "content": "What on earth do you mean?!"
+      "content": "Sizin ağızınız ne konuşur?!"
     },
     {
       "id": 19,
@@ -131,7 +131,7 @@
     {
       "id": 22,
       "model": "돈키호테",
-      "content": "…I find thine assessment rather disgracious."
+      "content": "…Hükmünüzü nezaketsiz buluyorum ."
     },
     {
       "id": 23,
