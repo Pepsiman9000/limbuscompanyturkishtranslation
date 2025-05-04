@@ -14,15 +14,15 @@
     {
       "id": 2,
       "model": "단테",
-      "content": "<Bildiğiniz gibi, benim anılarım pek bulanık, şu… dans dediğiniz şey, he…? Pek ona aşina olduğumu söyleyemem.>"
+      "content": "<Bilidğiniz üzere, anılarım en kesin zamanında sayılmaz. Bu dans etmek denilen şey… Tam olarak nedir>"
     },
     {
       "id": 3,
-      "content": "Hafızamın kayıp olması bu gibi anlardan kaçmak için güzel bir mazeret oldu."
+      "content": "Amnezi bu gibi durumlardan sıyrılmak için iyi bir bahane oluyor."
     },
     {
       "id": 4,
-      "content": "Tabii, dans etmenin ne olduğunu unutmadım, ama o kadar da dürüst olmama gerek yok, değil mi?"
+      "content": "Tabi ki de, dans etmenin ne olduğunu unutmadım, ama o kadar da dürüst olmama gerek yok, değil mi?"
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
     {
       "id": 7,
       "model": "단테",
-      "content": "<…Onları burada bulamayız. Geç.>"
+      "content": "<…Onları burada bulamayız. Sıradaki.>"
     },
     {
       "id": 8,
@@ -57,7 +57,7 @@
     {
       "id": 11,
       "model": "돈키호테",
-      "content": "Dance is where I—! Hrrmph! Cease this relentless obstruction of my words!"
+      "content": "Dans zatımın p—! Aa-! Nutkumun yersiz inkıtalarını durdurun!"
     },
     {
       "id": 12,
@@ -77,7 +77,7 @@
     {
       "id": 15,
       "model": "그레고르",
-      "content": "Benim için fark etmez, ama  kolum uyarılardan dolayı kontrolden çıkıp seyircilerin kafalarına saldırabilir."
+      "content": "Benim için fark etmez, ama kolum uyarılardan dolayı kontrolden çıkıp seyircilerin kafalarına saldırabilir."
     },
     {
       "id": 16,
@@ -87,12 +87,12 @@
     {
       "id": 17,
       "model": "파우스트",
-      "content": "Faust pek dans etmekten hoşlanmaz ama eğer görev içinse seve seve bir gösteri sunabilir."
+      "content": "Faust eğlenmek gibi aktiviteler için dans etmez, ama görev bunu talep ediyorsa seve seve bir gösteri sunabilir."
     },
     {
       "id": 18,
       "model": "파우스트",
-      "content": "Ancak, onların istediği şey mükemmellik değil. Değişken ve cilasız bir şey arıyorlar…"
+      "content": "Ancak, onların istediği şey teknik mükemmellik değil. Dengesiz ve cilasız bir şey arıyorlar…"
     },
     {
       "id": 19,
@@ -112,17 +112,17 @@
     {
       "id": 22,
       "model": "싱클레어",
-      "content": "D-Dans mı? Ben… okulumda sosyal bilimler dersi olarak temel marakas kursu almıştım herhalde…"
+      "content": "D-Dans mı? Ben… okulumda sosyal bilimler dersi olarak temel maraka kursu almıştım herhalde…"
     },
     {
       "id": 23,
       "model": "단테",
-      "content": "<O da mı zengin bir aileden gelmiş? Bunu nasıl anladın, Rodya?>"
+      "content": "<O da mı varlıklı bir aileden gelmiş? Bunu nasıl anladın, Rodya?>"
     },
     {
       "id": 24,
       "model": "로쟈",
-      "content": "Yürüyüşünden ve konuşmasından anladım."
+      "content": "Yürüyüşünden ve konuşmasına bakarak anlaya bilirim."
     },
     {
       "id": 25,
@@ -131,7 +131,7 @@
     },
     {
       "id": 26,
-      "content": "Rodya Heatcliff'e bakarken sessizce kıkırdadı, sonra da gizlice Sinclair'in arkasına yaklaşıp ellerini onun omzuna attı."
+      "content": "Rodya Heathcliff'e bakarak hafifçe güldü, sonra Sinclair'ın arkasına geçip ellerini kolları arasına sokuşturdu."
     },
     {
       "id": 27,
@@ -145,12 +145,12 @@
     },
     {
       "id": 29,
-      "content": "Saniyeler sonra, Sinclair ciddiyetle sahneye çıktı."
+      "content": "Bir süre sonra, Sinclair ciddi bir şekilde sahneye adımını attı."
     },
     {
       "id": 30,
       "model": "단테",
-      "content": "<Sinclair… Bunu yapabilirsin.>"
+      "content": "<Sinclair…yapabilirsin.>"
     },
     {
       "id": 31,
@@ -183,7 +183,7 @@
     },
     {
       "id": 37,
-      "content": "Sinclair kararlı bir şekilde başını salladı."
+      "content": "Sinclair Rodyadan azim almışçasına başını salladı."
     },
     {
       "id": 38,
@@ -230,18 +230,18 @@
       "model": "흥겨운마리아치조직원",
       "teller": "Mariachi Alegre",
       "title": "Los Mariachis",
-      "content": "Genç adam, bize takılmayı düşünmez misin? Büyüme potensiyelin var."
+      "content": "Genç adam, bize katılmayı düşünmez misin? Büyüme potensiyelin var."
     },
     {
       "id": 45,
       "model": "소드",
       "teller": "Saude",
       "title": "LŞCÖ",
-      "content": "O çocuk bizim şirketimize ait. Yetenekli kişileri mevcut işlerinden izinsiz olarak almanın ciddi bir suç olduğunu bilmeniz gerek."
+      "content": "O çocuk bizim şirketimize ait. Yetenekli kişileri mevcut işlerinden izinsiz olarak vakumlamanın ciddi bir suç olduğunu bilmeniz gerek."
     },
     {
       "id": 46,
-      "content": "Birkaç saat önce, Sinclair anca bizim gerizekalılar takımımızdaki salaklardan biriydi, ama şimdi şirketin kıymetli kişilerinden birine yükselmişti."
+      "content": "Sadece birkaç saat önce, Sinclair bizim kuş beyinliler takımının başka bir moron üyesi daha iken, şimdi şirketin kıymetli personellerinden birine dönmüştü."
     },
     {
       "id": 47,
@@ -255,7 +255,7 @@
       "model": "경쾌한마리아치조직원",
       "teller": "Mariachi Vivaz",
       "title": "Los Mariachis",
-      "content": "Geçebilirsiniz. Hak ettiniz."
+      "content": "Geçebilirsiniz. Bunu hak ettiniz."
     },
     {
       "id": 49,
@@ -266,7 +266,7 @@
     },
     {
       "id": 50,
-      "content": "Sinclair canlanmış bir şekilde bize geri döndü."
+      "content": "Sinclair yeniden canlanmış gibi geri döndü."
     },
     {
       "id": 51,
@@ -280,15 +280,15 @@
     },
     {
       "id": 53,
-      "content": "Sendikayı derinden etkileyen ve dans yoluyla ifade ettiği o içsel mücadelesini merak ediyordum."
+      "content": "Çete üyelerini derinden sarsan dansı ile aktardığı “İçimde kabaran şey” kavramının ne tam olarak ne anlama geldiğini bilmek istiyordum."
     },
     {
       "id": 54,
-      "content": "Onun gibi bir genç beyefendi nasıl zorluklardan geçmiş olabilirdi ki…"
+      "content": "Ve onun gibi bir gencin neler yaşamış olabileceğini…"
     },
     {
       "id": 55,
-      "content": "Ama bu sorular şimdilik bekleyecekti; çünkü biz şimdi üçüncü kata doğru yukarı çıkıyorduk."
+      "content": "Ama bu suallerin cevabı şimdilik ehemmiyetsizdi. Şu anki asıl hedefimize ulaşmak için üçüncü kata çıktık."
     }
   ]
 }
