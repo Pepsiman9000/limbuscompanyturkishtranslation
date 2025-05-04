@@ -30,48 +30,48 @@
     {
       "id": 5,
       "model": "로쟈",
-      "content": "Dediğin gibi, gambling is all about keeping a poker face. Wouldn’t want to see one of us slip and complicate things."
+      "content": "Dediğin gibi, kumarbazlık duygularını belli etmemekten ibarettir. İçimizden birinin foyamızı ortaya çıkarmasını istemedim."
     },
     {
       "id": 6,
       "model": "로쟈",
-      "content": "As for the boss role~ Mind if I borrow it for a sec, Dante?"
+      "content": "Şu patronluk rolünü bir saniyeliğine ödünç alabilir miyim, Dante?"
     },
     {
       "id": 7,
-      "content": "I nodded, seeing as I wasn’t really doing much in this guise anyways."
+      "content": "Zaten bu rolde pek bir şey yapmadığımı görerek, kafamla onayladım."
     },
     {
       "id": 8,
-      "content": "Even if I were committed to the act, it would only be right for me to forfeit it with my knees bent, since things played out the way they did."
+      "content": "Rolüme kendimi adamış olsam bile, yaşanan şeyler yüzünden rolümü diz çökerek vermek bile doğru olurdu."
     },
     {
       "id": 9,
       "model": "소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "…I would’ve been vehemently against this only hours ago. But now…"
+      "content": "…Daha birkaç saat önce buna kesinlikle karşı çıkardım. Fakat şimdi…"
     },
     {
       "id": 10,
       "model": "로쟈",
-      "content": "Good thinking. I’ve never lost once in anything where money was involved."
+      "content": "Güzel karar. Daha önce hiç işin içinde para olduğunda kaybetmedim."
     },
     {
       "id": 11,
       "model": "로쟈",
-      "content": "Alright…"
+      "content": "Pekala…"
     },
     {
       "id": 12,
       "place": "Private Room",
       "model": "로쟈",
-      "content": "Yarışmacınız geliyoz~"
+      "content": "Yarışmacınız geliyor~"
     },
     {
       "id": 13,
       "model": "로쟈",
-      "content": "Bekle, son kişi ben değil miymişim? Vah, havalı girişim boşa gitti be."
+      "content": "Bir saniye, son kişi ben değil miymişim? Vah, havalı girişim boşa gitti be."
     },
     {
       "id": 14,
@@ -96,19 +96,19 @@
       "model": "아이드",
       "teller": "???",
       "title": "???",
-      "content": "I was looking forward to finally meeting the infamous “wishpower whisker” in person, and look who we get instead. Aren’t you a little too confident for some unidentified stranger?"
+      "content": "Sonunda şu meşhur “dilek gücü bulucu” ile tanışmayı merakla bekliyordum, ve bakın onun yerinde kim var. Kim olduğu bilinmeyen bir yabancı için fazla özgüvenli değil misin?"
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "What a dull take~ It’s not who you are that matters in this world, right? It’s about who wins."
+      "content": "Ne sıkıcı bir yorum~ Bu dünyada kim olduğun önemsizdir, değil mi? Önemli olan kimin kazandığıdır."
     },
     {
       "id": 19,
       "model": "아이드",
       "teller": "???",
       "title": "???",
-      "content": "Eee, haksız değilsin. The fact that you were able to get here is proof enough that you’re qualified."
+      "content": "Eee, haksız değilsin. Buraya gelebilmiş olman, nitelikli olduğunun kanıtıdır."
     },
     {
       "id": 20,
@@ -127,8 +127,8 @@
     {
       "id": 22,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
+      "teller": "Çete Patronu",
+      "title": "Tieqiu Çetesi",
       "content": "Aman be, sırtım sızlıyor."
     },
     {
@@ -139,8 +139,8 @@
     {
       "id": 24,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
+      "teller": "Çete Patronu",
+      "title": "Tieqiu Çetesi",
       "content": "Ne bakıyorsun be? Hiç tüm vücudu prostetik olan birini görmedin mi?"
     },
     {
@@ -151,22 +151,22 @@
     {
       "id": 26,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Old is gold, as they say. Patched it up a few times, and now it’s sturdier than most new ones."
+      "teller": "Çete Patronu",
+      "title": "Tieqiu Çetesi",
+      "content": "Eski diye atma kürkünü; gerek olur bürünürsün bir günü. Birkaç kere onardım ve şimdi çoğu yeni modelden daha iyi."
     },
     {
       "id": 27,
       "model": "철공회보스",
       "teller": "Crew Boss",
       "title": "Tieqiu Crew",
-      "content": "Why’s that boy bein’ so sluggish about comin’ here anyway? Arrogant brat thinks he can show up late to serious business, eh?"
+      "content": "Şu çocuk da niye bıraya uyuşuk uyuşuk geliyor ki? Haddini bilmez velet önemli işe geç gelebileceğini sanıyor, eh?"
     },
     {
       "id": 28,
       "teller": "???",
       "title": "???",
-      "content": "Pardon me. I had an urgent matter."
+      "content": "Affedersiniz. Önemli bir işim vardı."
     },
     {
       "id": 29,
@@ -178,14 +178,14 @@
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "You think the world revolves around you, Sonya? Do you crave attention so much that you have to arrive late and be showered in glares?"
+      "content": "Dünya senin etrafında mı dönüyor sanıyorsun, Sonya? Sırf ilgi için geç kalıp bakış yağmuruna maruz kalmak mı istiyorsun?"
     },
     {
       "id": 31,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Haha, I didn’t mean to. If anything, you’d fit better as the protagonist of life, Aida."
+      "content": "Haha, istemeyerek oldu. Tersine, hayatın ana kahramanı olmaya sen daha uygun olurdun, Aida."
     },
     {
       "id": 32,
@@ -197,68 +197,68 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "It’s been a while, Rodya."
+      "content": "Uzun zaman oldu, Rodya."
     },
     {
       "id": 34,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "What’s up? You two know each other?"
+      "content": "Hayırdır? Siz ikiniz birbirinizle tanışıyor musunuz?"
     },
     {
       "id": 35,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Let’s say that we… share a hometown. Isn’t that right, Rodya?"
+      "content": "Hemşeriyiz… diyelim. Haksız mıyım, Rodya?"
     },
     {
       "id": 36,
       "model": "로쟈",
-      "content": "So, are you… still leading the Yurodiviye, then?"
+      "content": "Peki, sen hala… Yurodiviye'yi mi yönetiyorsun o zaman?"
     },
     {
       "id": 37,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Dunno, it might be too early to say “still”… You were the one who left on your own just like that."
+      "content": "Bilmem, “hala” demek için çok erken olabilir… Zamanında kendi isteğinle ayrılan kişi sendin."
     },
     {
       "id": 38,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Now now, that’s enough chatting. Since we have all the players, let’s go over the rules again."
+      "content": "Hadi hadi, yeterince konuştunuz. Tüm oyuncular buradaysa, kuralların üstünden tekrar geçelim."
     },
     {
       "id": 39,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "The four bidders for the casino are all here: Sonya, Aida, the Tieqiu, and… representing the Tingtang Gang’s boss… a suspicious yet shameless stand-in…"
+      "content": "Casino'daki teklif sunan dört kişi burada: Sonya, Aida, the Tieqiu, ve… Tingtang Çete'sinin liderini temsil eden… şüpheli ama arsız bir dublör…"
     },
     {
       "id": 40,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "No cheats or sleights of hand are allowed during the game. The moment you’re spotted in the act, you’re out."
+      "content": "Oyun sırasında el çabukluğu veya hileler yasak. Yaptığınız fark edilirse, diskalifiye olursunuz."
     },
     {
       "id": 41,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "It should go without saying that anything involving wishpower is forbidden as well."
+      "content": "Dilek Gücü'nün yasak olduğunu da söylememe gerek yok."
     },
     {
       "id": 42,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Soon as you’re caught, you’re on the choppin’ block! You’ll sorely regret it!"
+      "teller": "Çete Lideri",
+      "title": "Tieqiu Çetesi",
+      "content": "Yakalandığın anda, sana son veririz! Pişman olursun!"
     },
     {
       "id": 43,
@@ -270,111 +270,111 @@
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "We’ll play three games in total, and the one with the most chips wins. Simple enough?"
+      "content": "Toplamda üç oyun oynayacağız, ve en fazla fişi olan kazanacak. Yeterince basit mi?"
     },
     {
       "id": 45,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "The winner will get to take the elevator to the underground portion where the Golden Bough is."
+      "content": "Kazanan Altın Dal'ın olduğu bodrum katına inme şansını elde edecek."
     },
     {
       "id": 46,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "It’s the treasure the former owner of this casino was so desperate to claim, digging a whole tunnel to unearth it."
+      "content": "Bu Casino'nun eski sahibinin elde etmeyi çok istediği, ona erişmek için yerin altına tüneller kazdırdığı bir hazine."
     },
     {
       "id": 47,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "But then they suddenly croaked for reasons unknown, making us the “lucky” bidders…"
+      "content": "Ama birden bire bilinmeyen sebeplerden dolayı öldü, ve bu da bizi “şanslı” telif verenler yaptı…"
     },
     {
       "id": 48,
       "model": "로쟈",
-      "content": "…What an elegant way to put that they died under shady circumstances."
+      "content": "…Şüpheli bir şekilde öldüğünü söylemenin ne zarif bir yolu."
     },
     {
       "id": 49,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Haha, oh Rodya. You’re still as cynical as ever, huh?"
+      "content": "Haha, oh Rodya. Hala her zamanki gibi şüphecisin, ha?"
     },
     {
       "id": 50,
       "model": "로쟈",
-      "content": "…Shut it. How do you guys all know about the Golden Bough, though? Didn’t think it would be so widely known to the public."
+      "content": "…Kes sesini. Sizler Altın Dal'ı nereden biliyorsunuz, peki? Halka bu kadar açık bir şey olduğunu bilmiyordum."
     },
     {
       "id": 51,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Any Syndicate worth its name has caught wind of the stories. Those about the Golden Bough buried down here… and the riches and fame it’ll bring to the owner."
+      "content": "Adına layık her Çete hikayeleri duymuştur. Burada gömülü Altın Dal… ve sahibine getireceği zenginlikler hakkınad olan."
     },
     {
       "id": 52,
       "model": "로쟈",
-      "content": "If that’s the case, seems someone has gained an interest for worldly luxuries, huh? I thought you warned me to stay away from those things, Sonya."
+      "content": "Hal böyleyse, görünüyor ki birisi dünyevi zevklere ilgi duymaya başlamış, he? Bana o tarz şeylerden uzak durmamı söylediğini hatırlıyorum, Sonya."
     },
     {
       "id": 53,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "The Golden Bough can be used to achieve far greater things, Rodya. My purpose has stayed the same. To destroy the system of oppression and exploitation, preventing the concentration of wealth…"
+      "content": "Altın Dal çok daha iyi şeyler için kullanılabilir, Rodya. Benim amacım hep aynı kaldı. Baskı ve sömürü sistemini yok edip, zenginliğin yoğunlaşmasını önlemek…"
     },
     {
       "id": 54,
       "model": "철공회보스",
       "teller": "Crew Boss",
       "title": "Tieqiu Crew",
-      "content": "Yeesh, there he goes again with the grand words. Someone stop ‘im."
+      "content": "Aman, yine şaşalı konuşmaya başladı. Birisi onu durdursun."
     },
     {
       "id": 55,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "My apologies. It reminded me of the old times."
+      "content": "Affedersiniz. Aklımda eski anılar belirdi."
     },
     {
       "id": 56,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "It’s funny. I used to keep you from your obsession with gambling and money."
+      "content": "Ne komik. Seni para ve kumar ile alakalı takıntından uzak tutmaya çalışırdım."
     },
     {
       "id": 57,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Yet here we are at the same table, keeping our hands of cards from each other in a gamble with our goals on the line."
+      "content": "Fakat şimdi aynı masadayız, hedeflerimizin söz konusu olduğu bir oyunda ellerimizi birbirimizden saklıyoruz."
     },
     {
       "id": 58,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "What is your goal?"
+      "content": "Amacın ne?"
     },
     {
       "id": 59,
       "model": "로쟈",
-      "content": "…To win."
+      "content": "…Kazanmak."
     },
     {
       "id": 60,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "…Of course."
+      "content": "…Doğal olarak."
     }
   ]
 }
