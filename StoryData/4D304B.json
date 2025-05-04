@@ -6,76 +6,76 @@
             "model": "구보",
             "teller": "Gubo",
             "title": "N Corp.",
-            "content": "Have you decided to leave, my foolish companion?"
+            "content": "Gitmeye mi karar verdin, zavallı dostum?"
         },
         {
             "id": 1,
             "model": "이상",
-            "content": "They were words not meant to persuade me, but merely to pounce at me..."
+            "content": "Kelimeleri beni ikna etmek için değil, sadece benimle dalga geçmek için dökülüyordu..."
         },
         {
             "id": 2,
             "model": "이상",
-            "content": "Although they did not hurt, they may have left a mark."
+            "content": "Acıtmasalar dahi, bende bir iz bırakmışlardı."
         },
         {
             "id": 3,
             "model": "구보",
             "teller": "Gubo",
             "title": "N Corp.",
-            "content": "You have nowhere to return to, and you're dragging that tottering body along?"
+            "content": "Dönebilecek hiç bir yerin olmadığı halde, o çürümüş bedeni de mi yanında götürüyorsun?"
         },
         {
             "id": 4,
             "model": "구보",
             "teller": "Gubo",
             "title": "N Corp.",
-            "content": "Do you truly believe you will find a place to call home, wherever you might go?"
+            "content": "Gittiğin herhangi bir yerde, ev olarak görebileceğin bir yeri bulabileceğine gerçekten inanıyor musun?"
         },
         {
             "id": 5,
             "model": "구보",
             "teller": "Gubo",
             "title": "N Corp.",
-            "content": "Enjoy your rest, then."
+            "content": "İstirahatin tadını çıkar o halde."
         },
         {
             "id": 6,
             "model": "구보",
             "teller": "Gubo",
             "title": "N Corp.",
-            "content": "I'll return once twilight arrives."
+            "content": "Alacakaranlık çöktüğü vakit geri döneceğim."
         },
         {
             "id": 7,
             "model": "이상",
-            "content": "With that, I parted from Gubo, who was my last remaining compatriot."
+            "content": "Bununla birlikte, son yoldaşım olan Gubo ile de yollarımı ayırmıştım."
         },
         {
             "id": 8,
             "model": "이상",
-            "content": "I was thoroughly isolated."
+            "content": "Baştan başa izoleydim."
         },
         {
             "id": 9,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That's right. With this, we all ended up alone."
+            "content": "Bu doğru. O günden sonra, hepimiz tek başımıza kaldık."
         },
         {
             "id": 10,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Only then..."
+            "content": "Sadece o zaman..."
         },
         {
             "id": 11,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "At long last."
+            "content": "Sonnunda."
         },
         {
             "id": 12,
@@ -83,17 +83,17 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "My turn had come."
+            "content": "Benim sıram geldi."
         },
         {
             "id": 13,
             "model": "싱클레어",
-            "content": "...This is the part where Mr. Dongrang hands the glass technology over to K Corp."
+            "content": "...Bay Dongrang'ın cam teknolojisini K Kuruluşu'na teslim ettiği bölüme geldik."
         },
         {
             "id": 14,
             "model": "싱클레어",
-            "content": "We were in the League's shoes if only for a short while, so we know what's been going on."
+            "content": "Biraz olsun Lig'in bakış açısındaydık, yani nelerin yaşandığını biliyoruz."
         },
         {
             "id": 15,
@@ -101,14 +101,14 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "...But I must say it's a bit disheartening to hear you call them children's playthings."
+            "content": "...Fakat demeliyim ki, bunları çocuk oyuncağı yerine koymamız kalbimi gerçekten de kırıyor."
         },
         {
             "id": 16,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "You won't be saying that once you learn that animals feel pain exactly like we do."
+            "content": "Hayvanların da tıpkı bizim gibi acı çekebildiğini öğrendiğinizde bunu diyemeyeceksiniz tabii ki."
         },
         {
             "id": 17,
@@ -116,41 +116,41 @@
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "Dongrang, don't make clumsy attempts unless you're planning to save everyone in the City."
+            "content": "Dongrang, Şehir'deki herkesi kurtarmayı planlıyorsan böyle sakar hareketler yapma."
         },
         {
             "id": 18,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "If I thought this measly technology had what it takes to give every single person the help they needed, I would've given my all for it."
+            "content": "Eğer böylesine cılız bir teknoloji, her insana ihtiyacı olan yardımı sağlayabilseydi, Varımı yoğumu ona adardım."
         },
         {
             "id": 19,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "But... you think that'll change anything? The world will still be a terrible mess."
+            "content": "Fakat... bunun bir şeyi değiştireceğine inanıyor musun gerçekten? Dünya hala büyük bir çöplük olarak kalacak."
         },
         {
             "id": 20,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It was perfectly fine to be hurt. I didn't have to strain my body and heart trying to cure things. I was so stupid, wasn't I?"
+            "content": "Canımın yanmasında hiç bir sorun yoktu. Bir şeyleri iyileştirmek için bedenimi böylesine yormama gerek yoktu. Ne kadar da aptaldım, değil mi?"
         },
         {
             "id": 21,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "Then you should've braced for it! Have the guts to bite your tongue and die if you couldn't stand to survive alone in the hometown!"
+            "content": "O zaman bu sonucu da beklemeliydin! Memleketinde tek başına kalmaya dayanamıyorsan, dilini yutup ölebilecek kadar da cesur olmalısın!"
         },
         {
             "id": 22,
             "place": "K Corp. Laboratory",
             "model": "그레고르",
-            "content": "Yup, looks like Dongrang's..."
+            "content": "Evet, görünüşe bakılırsa Dongrang'ın..."
         },
         {
             "id": 23
@@ -160,63 +160,63 @@
             "model": "알폰소",
             "teller": "Alfonso",
             "title": "K Corp.",
-            "content": "Why the surprise? You must have heard stories about our Wing's Singularity."
+            "content": "Neye şaşırdın ki? Kanat'ımızın Tekilliği hakkında çokça hikaye duymuş olmalısın."
         },
         {
             "id": 25,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "...Looking at it in person felt different is all. I didn't think I would come all the way here..."
+            "content": "...Bizzat bunu görmek, çok farklı hissettiriyor. Buraya kadar yükselebileceğimi düşünmüyordum..."
         },
         {
             "id": 26,
             "model": "알폰소",
             "teller": "Alfonso",
             "title": "K Corp.",
-            "content": "Yeah, most have similar reactions. So... can you remind me of what you can do?"
+            "content": "Evet evet, çoğu kişi benzer tepkiler veriyor. Yani... bana ne yapabileceğini hatırlatır mısın?"
         },
         {
             "id": 27,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, to start with an explanation of the technology I invented..."
+            "content": "Ah, icat ettiğim teknolojinin özetini geçmek gerekirse..."
         },
         {
             "id": 28,
             "model": "알폰소",
             "teller": "Alfonso",
             "title": "K Corp.",
-            "content": "My expectations are particularly high since I heard you were a member of the League of Nine. That... Young-ji person is still missing, is that right?"
+            "content": "Lig'in bir parçası olduğundan beklentilerim oldukça yüksek. Şu... Young-ji denen adam hala kayıp, değil mi?"
         },
         {
             "id": 29,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "...Yes, he is."
+            "content": "...Evet, kayıp."
         },
         {
             "id": 30,
             "model": "알폰소",
             "teller": "Alfonso",
             "title": "K Corp.",
-            "content": "Well, it's a shame about the League disbanding... But it's fortunate we managed to recruit one of them."
+            "content": "Eh, Lig'in dağılması pek üzücü oldu... Şanslıyız ki içlerinden birini işe alabildik."
         },
         {
             "id": 31,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "The League of Nine... always serves as a plentiful shade, doesn't it. Then and now..."
+            "content": "Lig... her zaman ferah bir gölge gibiydi, değil mi. Geçmişten bugüne..."
         },
         {
             "id": 32,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "By the way, this reminds me of a thing that would cry at me like this in the past..."
+            "content": "Bu arada, bu bana geçmişte tıpkı böyle ağlayan birisini hatırlattı..."
         },
         {
             "id": 33,
@@ -230,7 +230,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Oh... I mean, the reason I've come here is..."
+            "content": "Oh... Yani, buraya gelme sebebim..."
         },
         {
             "id": 35
@@ -238,94 +238,94 @@
         {
             "id": 36,
             "model": "이스마엘",
-            "content": "The thing that used to cry at Dongrang..."
+            "content": "Dongrang'a ağlayan şey..."
         },
         {
             "id": 37,
             "model": "이스마엘",
-            "content": "He must mean the yellow calf..."
+            "content": "Sarı buzağından bahsediyor olmalı..."
         },
         {
             "id": 38,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Haha. What are you doing now?"
+            "content": "Haha. Napıyorsun sen?"
         },
         {
             "id": 39,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "The League of Nine has disbanded, and the play is over. You're not Yurang anymore."
+            "content": "Lig çoktandır dağıldı, tiyatro da son buldu. Artık Yurang değilsin."
         },
         {
             "id": 40,
             "model": "이스마엘",
-            "content": "You're right, I guess I got too immersed and felt like I was one of your \"companions\" for a second."
+            "content": "Haklısın, sanırım kendimi kaptırıp, kendimi gerçekten de sizin \"yoldaşınız\" sandım."
         },
         {
             "id": 41,
             "model": "이스마엘",
-            "content": "You said you fulfilled your wish, but it didn't seem that way to me no matter which way I looked at it."
+            "content": "Dileğini gerçekleştirdiğini söylemiştin, ama neresinden bakarsak bakayim, öyle bir şey göremiyorum."
         },
         {
             "id": 42,
             "model": "이스마엘",
-            "content": "Did you feel the same when you saved that calf?"
+            "content": "O buzağını kurtarırken de mi aynı şeyleri hissettin?"
         },
         {
             "id": 43,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Will you watch your words? I didn't save the calf expecting a reward."
+            "content": "Ağzını toplar mısın? O buzağını bir ödül bekleyerekten kurtarmadım."
         },
         {
             "id": 44,
             "model": "히스클리프",
-            "content": "You think we don't know that? You saved the poor creature right before it got crushed to death 'cause you felt like it. I remember when we took turns feeding it milk."
+            "content": "Bunu bilmiyor muyuz sanıyorsun lan? Sırf keyfinin kahyasına o zavallı hayvanı ezilmeden önce kurtardın. Sıra sıra ona süt içirdiğimizi zamanı hatırlıyorum."
         },
         {
             "id": 45,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I believed that it would be okay to save lives without a price back then."
+            "content": "O zamanlar, bir bedeli olmadan hayatları sorunsuzca kurtabileceğimizi düşünürdüm."
         },
         {
             "id": 46,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I guess it wasn't just my work… that burned away in the incinerator that day."
+            "content": "Görünüşe bakılırsa o gün… o öğütücüde kül olan tek şey benim emeğim değildi."
         },
         {
             "id": 47,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "My mind's garden I had been tending to burned down with it."
+            "content": "Zihnimde bakıcılığını yaptığım bahçem de kül olup gitti."
         },
         {
             "id": 48,
             "model": "이상",
-            "content": "Taking a backward glance at our trails... all of us have been suffering great losses."
+            "content": "Geçtiğimiz yollara tekrardan bakınca... hepimiz büyük kayıplar yaşadık."
         },
         {
             "id": 49,
             "model": "이상",
-            "content": "Failing to see... what needed to be seen."
+            "content": "Görülmesi gerekeni... göremedik."
         },
         {
             "id": 50,
             "model": "이상",
-            "content": "Allow me to apologize. For casting only slantwise glances."
+            "content": "Size yan yan baktığım için özür dilememe izin verin."
         },
         {
             "id": 51,
             "model": "이상",
-            "content": "We were all falling into ruin all the same, and you were no different... I did not realize it then."
+            "content": "Hepimizin hayatı çöküş noktasındaydı, ve sen de bundan farksızdın... O zamanlar bunu idrak edememiştim."
         },
         {
             "id": 52,
@@ -339,99 +339,99 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "...I wonder, do you think the cow is peacefully grazing grass somewhere right now?"
+            "content": "...Merak ediyorum, sizce o inek, şu an barışçıl bir şekilde otlanmakla mı meşguldür?"
         },
         {
             "id": 54,
             "model": "오티스",
-            "content": "I'm sure of it. He'll be waiting for you, even if you won't go back."
+            "content": "Kesinlikle. Geri dönmeyeceksen bile, şu an seni bekliyor olmalı."
         },
         {
             "id": 55,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I don't think... it'll recognize me..."
+            "content": "Beni... hatırlayacağını sanmıyorum..."
         },
         {
             "id": 56,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I've changed too much from who I was in the past."
+            "content": "Geçmişte olduğum kişiden çok fazla değiştim."
         },
         {
             "id": 57,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Yeah, you're right. All the trophies and awards on my desk praising my excellence are empty husks."
+            "content": "Evet, haklısınız. Başarılarımı simgeleyen tüm ödüller ve kupalar, her birinin içi bomboş."
         },
         {
             "id": 58,
             "model": "동랑",
-            "teller": "Dongrang, Who Denies All",
+            "teller": "Dongrang, Her Şeyi Reddeden",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Although they dazzle gloriously... they're empty inside. They're husks I couldn't have ever gotten if I weren't a member of the League."
+            "content": "İhtişamlı bir şekilde parlasalar dahi... bir kabuktan öteye gidemezler. Lig'in bir üyesi olmasaydım almayı hayal bile edemeyeceğim nafile başarımlar."
         },
         {
             "id": 59,
             "model": "동랑",
             "teller": "Dongrang, Who Denies All",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That's why I liked photographs. They... contain my image in all its honesty."
+            "content": "Bu yüzden fotoğrafları seviyorum. Resimlerimi... En dürüst halinde saklıyorlar."
         },
         {
             "id": 60,
             "model": "동랑",
             "teller": "Dongrang, Who Denies All",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "For however long, when I look up at the sky... I can't see a thing. It's like I'm under a giant shadow..."
+            "content": "Bunca zamandır, gökyüzüne baktığımda... Hiç bir şey göremiyorum. Sanki koca bir bölgenin altındaymış gibi..."
         },
         {
             "id": 61,
             "model": "싱클레어",
-            "content": "Who is... Mr. Dongrang talking to...?"
+            "content": "Bay Dongrang... Kiminle konuşuyor...?"
         },
         {
             "id": 62,
             "model": "단테",
-            "content": "<This time... It doesn't seem to be me.>"
+            "content": "<Bu defa... Bana konuşmuyor gibi.>"
         },
         {
             "id": 63,
             "model": "돈키호테",
-            "content": "I... might know what is about to transpire."
+            "content": "Ne olacağını... biliyor olabilirim."
         },
         {
             "id": 64,
             "model": "돈키호테",
-            "content": "That man is heading toward distortion..."
+            "content": "O adam, bozulmak üzere..."
         },
         {
             "id": 65,
             "model": "파우스트",
-            "content": "Certainly, and the distortion... might not be the terminus, but rather a step in a process."
+            "content": "Kesinlikle, ki bu bozulma... yolun sonu değil, yolunun tek bir parçası olabilir."
         },
         {
             "id": 66,
             "model": "싱클레어",
-            "content": "Then... I-Is there any way we can help..."
+            "content": "O zaman... Ona yardım edebilecek bir yolumuz var mı..."
         },
         {
             "id": 67,
             "model": "파우스트",
-            "content": "To stop him from going astray in this space where mental images take physical form."
+            "content": "Zihinsel düşüncelerin fiziksel yapılara dönüştüğü bu dünyada, onun kendini kaptırmasını önlemek."
         },
         {
             "id": 68,
             "model": "파우스트",
-            "content": "As we do, he will naturally come to accept that what lies ahead is his path."
+            "content": "Tıpkı bizim gibi, o da karşısına çıkacakları doğal olaraktan kabullenecek."
         },
         {
             "id": 69,
             "model": "파우스트",
-            "content": "That is how we can help him."
+            "content": "Ona böyle yardım edebiliriz."
         }
     ]
 }
