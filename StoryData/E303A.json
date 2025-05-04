@@ -2,44 +2,44 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Eunbong’s Bar & Fryers Kitchen",
+            "place": "Eunbong’un Barı ve Kızartmacısı'nın Mutfağı",
             "model": "뒤틀린주인카운트1",
-            "teller": "Eunbong’s Bar & Fryers Owner",
-            "title": "Eunbong’s Bar & Fryers",
+            "teller": "Eunbong’un Barı ve Kızartmacısı'nın Sahibi",
+            "title": "Eunbong’un Barı ve Kızartmacısı",
             "content": "……"
         },
         {
             "id": 1,
             "model": "히스클리프",
-            "content": "…What’re these numbers?"
+            "content": "…Bu sayılar da ne?"
         },
         {
             "id": 2,
             "model": "이상",
-            "content": "It may be an indicator… alerting us of squandering two out of five opportunities…"
+            "content": "Bu, beş fırsattan ikisini boşa harcadığımıza dair bizi uyaran bir gösterge olabilir…"
         },
         {
             "id": 3,
             "model": "단테",
-            "content": "<I guess each team can prepare another dish then. How’s that sound?>"
+            "content": "<Sanırım her takım bir yemek hazırlayabilir o zaman. Kulağa nasıl geliyor?>"
         },
         {
             "id": 4,
-            "content": "And just like that…"
+            "content": "Ve böyleyece…"
         },
         {
             "id": 5,
-            "content": "Thus began Limbus Company’s petite cooking competition…"
+            "content": "Böylece Limbus Şirketi’nin küçük yemek yarışması başlamış oldu…"
         },
         {
             "id": 6,
             "model": "그레고르요리사",
-            "content": "Right, now… Let’s assign each of us a role. Not that it’ll make a difference, but…"
+            "content": "Tamam, şimdi... Her birimize bir rol atayalım. Bir fark yaratacağı anlamına gelmiyor ama…"
         },
         {
             "id": 7,
             "model": "그레고르요리사",
-            "content": "Say, Hong Lu… Have you ever seen a kitchen before?"
+            "content": "Söyle bakalım Hong Lu… Daha önce hiç mutfak gördün mü?"
         },
         {
             "id": 8,
@@ -49,7 +49,7 @@
         {
             "id": 9,
             "model": "홍루",
-            "content": "Well, my room didn’t have any kitchenettes. Though, I did sneak into the grand dining hall on the second floor a few times for snacks when I was a kid."
+            "content": "Odamda mini mutfak yoktu. Yine de çocukken atıştırmalıklar için birkaç kez ikinci kattaki büyük yemek salonuna gizlice girdim.."
         },
         {
             "id": 10,
@@ -59,17 +59,17 @@
         {
             "id": 11,
             "model": "그레고르요리사",
-            "content": "Next up, we have Yi Sang…"
+            "content": "Sırada Yi Sang var…"
         },
         {
             "id": 12,
             "model": "히스클리프",
-            "content": "Wasn’t he the only one who came out fine when we drank that spoilt milk the other day?"
+            "content": "Geçen gün bozuk sütü içtiğimizde tek iyi çıkan o değil miydi?"
         },
         {
             "id": 13,
             "model": "이상",
-            "content": "Mmmmmh… The smell was a sensual one, permeating my pulmonary depths."
+            "content": "Mmmmmh… Koku duyusal bir kokuydu, akciğerlerimin derinliklerine işledi."
         },
         {
             "id": 14,
@@ -79,26 +79,26 @@
         {
             "id": 15,
             "model": "그레고르요리사",
-            "content": "Don Quixote, is something wrong with your throat?"
+            "content": "Don Quixote, boğazında bir sorun mu var?"
         },
         {
             "id": 16,
             "model": "돈키호테",
-            "content": "What say you let me take the mantle?"
+            "content": "Ne dersin, mantoyu bana bırak?"
         },
         {
             "id": 17,
-            "content": "She said this with a bashful expression, her hands behind her back."
+            "content": "Bunu utangaç bir ifadeyle, elleri arkasında birleştirerek söyledi."
         },
         {
             "id": 18,
             "model": "그레고르요리사",
-            "content": "Don Quixote… This isn’t time for kids’ stuff."
+            "content": "Don Quixote… Çocukça şeylerle uğraşmanın vakti değil."
         },
         {
             "id": 19,
             "model": "돈키호테",
-            "content": "I am no child! And why am I denied the chef’s place when Sinclair is allowed to do such on the other team!"
+            "content": "Ben çocuk değilim! Ve Sinclair'in diğer takımda şeflik yapmasına izin verilirken, neden bana şeflik görevi verilmiyor?"
         },
         {
             "id": 20,
@@ -108,83 +108,83 @@
         {
             "id": 21,
             "model": "오티스",
-            "content": "The chicken is chopped too unevenly. You should cut them better. Keep your back straight."
+            "content": "Tavuk çok eşitsiz doğranmış. Daha iyi kesmelisin. Sırtını dik tut."
         },
         {
             "id": 22,
             "model": "싱클레어",
-            "content": "Right… Okay…!"
+            "content": "Tamam… Pekala…!"
         },
         {
             "id": 23,
             "model": "로쟈",
-            "content": "Kiddo~ Isn’t this a bit bland? I think it could use a teensy bit more sweetness."
+            "content": "Çocuk~ Bu biraz tatsız değil mi? Bence biraz daha tatlılık kullanabilir."
         },
         {
             "id": 24,
             "model": "싱클레어",
-            "content": "S-Sweetness? Uhh, let’s see… Where’s the sugar…"
+            "content": "T-Tatlılık mı? Ahh, bi bakalım… Şeker nerede…"
         },
         {
             "id": 25,
             "model": "파우스트",
-            "content": "Based on what Faust is seeing, the heat needs to be pitched up one notch."
+            "content": "Faust'un gördüklerine dayanarak, ısının bir kademe daha artırılması gerekiyor."
         },
         {
             "id": 26,
             "model": "료슈요리사",
-            "content": "That one’s hopeless. The knife grip is all wrong."
+            "content": "Bu umutsuz vaka. Bıçak tutuşu bile tamamen yanlış."
         },
         {
             "id": 27,
             "model": "이스마엘",
-            "content": "Why don’t you all stop being backseat chefs and actually help?"
+            "content": "Neden hepiniz arka planda şeflik yapmayı bırakıp yardım etmiyorsunuz?"
         },
         {
             "id": 28,
             "model": "그레고르요리사",
-            "content": "Hmm… I mean, you could definitely trust Sinclair to take on that kind of stuff… His palate should be a good enough judge, too, growing up in a wealthy family ‘n all…"
+            "content": "Hmm… Yani, Sinclair'in bu tür şeyleri üstleneceğine kesinlikle güvenebilirsin… Zengin bir ailede büyüdüğü için damağı da yeterince iyi bir gurme olmalı…"
         },
         {
             "id": 29,
             "model": "히스클리프",
-            "content": "Now wait a tick, why isn’t anybody giving me any suggestions? Watch, I can cook an egg—"
+            "content": "Şimdi bir dakika, neden kimse bana bir öneri vermiyor? İzleyin, yumurta pişirebiliyorum—"
         },
         {
             "id": 30,
             "model": "히스클리프",
-            "content": "Bloody hell! Why is the damn fry pan heated? It almost grilled me dead!"
+            "content": "Kahretsin! Bu lanet tava neden ısıtılmış? Beni neredeyse öldüresiye kızartacaktı!"
         },
         {
             "id": 31,
-            "content": "Everyone watched as the pan Heathcliff threw hit a wall and broke into pieces."
+            "content": "Herkes, Heathcliff'in fırlattığı tavanın duvara çarpıp parçalanmasını izliyordu."
         },
         {
             "id": 32,
             "model": "뫼르소",
-            "content": "…This restaurant reeks of mold and other uncleaned stains. It is likely that the kitchen has been left unattended for at least 140 days."
+            "content": "…Bu restoran küf ve diğer temizlenmemiş lekelerle dolu. Mutfağın en az 140 gündür gözetimsiz bırakılmış olması muhtemel."
         },
         {
             "id": 33,
             "model": "뫼르소",
-            "content": "Cooking outside may be more sanitary to the current situation."
+            "content": "Mevcut duruma bakılacak olursa dışarıda pişirmek daha hijyenik olacaktır."
         },
         {
             "id": 34,
             "model": "돈키호테",
-            "content": "I prithee, give me permission to cook!!!"
+            "content": "Lütfen bana yemek pişirme izni verin!!!"
         },
         {
             "id": 35,
             "model": "뒤틀린닭1",
-            "teller": "Raw Chicken",
-            "title": "Distorted Thing",
+            "teller": "Çiğ Tavuk",
+            "title": "Bozulmuş Yaratık",
             "content": "Bwakbwakbawkbawkbawk!!!!"
         },
         {
             "id": 36,
             "model": "단테",
-            "content": "<“How dare you mess up our kitchen! You’ll reckon with our wrath for your fowl deed!”>"
+            "content": "<“Mutfağımızı nasıl mahvedersin! Bu çirkin davranışın için gazabımızla hesaplaşacaksın!”>"
         },
         {
             "id": 37,
@@ -194,12 +194,12 @@
         {
             "id": 38,
             "model": "단테",
-            "content": "<It just felt like that’s what it was saying…>"
+            "content": "<Sadece söylediği şeyin bu olduğunu hissettim…>"
         },
         {
             "id": 39,
             "model": "그레고르요리사",
-            "content": "…C’mon, keep it together, Gregor."
+            "content": "…Hadi ama, kendini toparla, Gregor."
         }
     ]
 }
