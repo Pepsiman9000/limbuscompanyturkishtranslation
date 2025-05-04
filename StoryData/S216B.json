@@ -55,12 +55,12 @@
     {
       "id": 10,
       "model": "로쟈",
-      "content": "Good thinking. I’ve never lost once in anything where money was involved."
+      "content": "Güzel karar. Daha önce hiç işin içinde para olduğunda kaybetmedim.."
     },
     {
       "id": 11,
       "model": "로쟈",
-      "content": "Alright…"
+      "content": "Pekala…"
     },
     {
       "id": 12,
@@ -96,19 +96,19 @@
       "model": "아이드",
       "teller": "???",
       "title": "???",
-      "content": "I was looking forward to finally meeting the infamous #olum bunu da çevirdik bir yerde ne ahh ne diye çevirdik la ben niye 1 hafta ara verdim ki# “wishpower whisker” in person, and look who we get instead. Aren’t you a little too confident for some unidentified stranger?"
+      "content": "Sonunda şu meşhur “dilek gücü bulucu” ile tanışmayı merakla bekliyordum, ve bakın onun yerinde kim var. Kim olduğu bilinmeyen bir yabancı için fazla özgüvenli değil misin?"
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "What a dull take~ It’s not who you are that matters in this world, right? It’s about who wins."
+      "content": "Ne sıkıcı bir görüş~ Bu dünyada kim olduğun önemsizdir, değil mi? Önemli olan kimin kazandığıdır."
     },
     {
       "id": 19,
       "model": "아이드",
       "teller": "???",
       "title": "???",
-      "content": "Eee, haksız değilsin. The fact that you were able to get here is proof enough that you’re qualified."
+      "content": "Eee, haksız değilsin. Buraya gelebilmiş olman, nitelikli olduğunun kanıtıdır."
     },
     {
       "id": 20,
@@ -127,8 +127,8 @@
     {
       "id": 22,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
+      "teller": "Çete Lideri",
+      "title": "Tieqiu Çetesi",
       "content": "Aman be, sırtım sızlıyo."
     },
     {
@@ -139,8 +139,8 @@
     {
       "id": 24,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
+      "teller": "Çete Lideri",
+      "title": "Tieqiu Çetesi",
       "content": "Ne bakıyorsun be? Hiç tüm vücudu prostetik olan birini görmedin mi?"
     },
     {
@@ -151,15 +151,15 @@
     {
       "id": 26,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Köhne est aureum/Köhne altındır #yani hangisini seçersin bilmem ama ilki latincesine gönderme 2. si Sukut altındıra gönder me de 2 si de çok anlaşılmıyo belki bilmem biraz kürtürlü olmak gerek#, dedikleri gibi. Üzerine birkaç kez yama yaptım, şimdi de yeni olanlardan kat kat daha sağlam."
+      "teller": "Çete Lideri",
+      "title": "Tieqiu Çetesi",
+      "content": "Köhne altındır. Üzerine birkaç kez yama yaptım, şimdi de yeni olanlardan kat kat daha sağlam."
     },
     {
       "id": 27,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
+      "teller": "Çete Lideri",
+      "title": "Tieqiu Çetesi",
       "content": "O oğlan buraya gelmekte neden bu kadar miskin? Kibirli veled önemli işlere çat kapı girebileceğini sanıyor, deme?"
     },
     {
@@ -178,7 +178,7 @@
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "You think the world revolves around you, Sonya? Do you crave attention so much that you have to arrive late and be showered in glares?"
+      "content": "Dünya senin etrafında mı dönüyor sanıyorsun, Sonya? Sırf ilgi için geç kalıp bakış yağmuruna maruz kalmak mı istiyorsun?"
     },
     {
       "id": 31,
@@ -204,7 +204,7 @@
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "What’s up? You two know each other?"
+      "content": "Hayrola? Siz ikiniz tanışıyor musunuz?"
     },
     {
       "id": 35,
@@ -230,35 +230,35 @@
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Now now, that’s enough chatting. Since we have all the players, let’s go over the rules again."
+      "content": "Hadi hadi, yeterince konuştunuz. Tüm oyuncular buradaysa, kuralların üstünden tekrar geçelim."
     },
     {
       "id": 39,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "The four bidders for the casino are all here: Sonya, Aida, the Tieqiu, and… representing the Tingtang Gang’s boss… a suspicious yet shameless stand-in…"
+      "content": "Casino'daki teklif sunan dört kişi burada: Sonya, Aida, the Tieqiu, ve… Tingtang Çete'sinin liderini temsil eden… şüpheli ama arsız bir dublör…"
     },
     {
       "id": 40,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "No cheats or sleights of hand are allowed during the game. The moment you’re spotted in the act, you’re out."
+      "content": "Oyun sırasında el çabukluğu veya hileler yasak. Yaptığınız fark edilirse, diskalifiye olursunuz."
     },
     {
       "id": 41,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "It should go without saying that anything involving wishpower is forbidden as well."
+      "content": "Dilek Gücü'nün yasak olduğunu da söylememe gerek yok herhalde."
     },
     {
       "id": 42,
       "model": "철공회보스",
       "teller": "Crew Boss",
       "title": "Tieqiu Crew",
-      "content": "Yakalandığın gibi, tahtalı köyü boylayacak olan sensin! Fena halde pişman olursun!"
+      "content": "Yakalandığın gibi, tahtalı köyü boylarsın! Fena halde pişman olursunuz!"
     },
     {
       "id": 43,
@@ -270,33 +270,33 @@
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "We’ll play three games in total, and the one with the most chips wins. Simple enough?"
+      "content": "Toplamda üç oyun oynayacağız, ve en fazla fişi olan kazanacak. Yeterince basit mi?"
     },
     {
       "id": 45,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "The winner will get to take the elevator to the underground portion where the Golden Bough is."
+      "content": "Kazanan Altın Dal'ın olduğu bodrum katına inme şansını elde edecek.."
     },
     {
       "id": 46,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "It’s the treasure the former owner of this casino was so desperate to claim, digging a whole tunnel to unearth it."
+      "content": "Bu Casino'nun eski sahibinin elde etmeyi çok istediği, ona erişmek için yerin altına tüneller kazdırdığı bir hazine."
     },
     {
       "id": 47,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "But then they suddenly croaked for reasons unknown, making us the “lucky” bidders…"
+      "content": "Ama birden bire bilinmeyen sebeplerden dolayı öldü, ve bu da bizi “şanslı” telif sunanlar yaptı…"
     },
     {
       "id": 48,
       "model": "로쟈",
-      "content": "…What an elegant way to put that they died under shady circumstances."
+      "content": "…Şüpheli bir şekilde öldüğünü söylemenin ne zarif bir yolu."
     },
     {
       "id": 49,
@@ -308,14 +308,14 @@
     {
       "id": 50,
       "model": "로쟈",
-      "content": "…Shut it. How do you guys all know about the Golden Bough, though? Didn’t think it would be so widely known to the public."
+      "content": "…Kes sesini. Sizler Altın Dal'ı nereden biliyorsunuz, peki? Halka bu kadar açık bir şey olduğunu bilmiyordum."
     },
     {
       "id": 51,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Any Syndicate worth its name has caught wind of the stories. Those about the Golden Bough buried down here… and the riches and fame it’ll bring to the owner."
+      "content": "Adına layık her Çete hikayeleri duymuştur. Burada gömülü Altın Dal… ve sahibine getireceği zenginlikler hakkında olan."
     },
     {
       "id": 52,
@@ -332,8 +332,8 @@
     {
       "id": 54,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
+      "teller": "Çete Lideri",
+      "title": "Tieqiu Çetesi",
       "content": "Ahh, evet gene gidiyor o ağır sözleriyle. Birileri durdunsun onu."
     },
     {
