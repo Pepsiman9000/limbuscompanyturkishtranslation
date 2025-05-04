@@ -2,22 +2,22 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Rehineciler Sokağı",
-      "content": "Saude'nin tahmin ettiği gibi, bütün rehineciler beladan kaçınmak için kepenklerini kapatıyorlardı"
+      "place": "Rehinciler Sokağı",
+      "content": "Saude'nin tahmin ettiği gibi, bütün rehinciler beladan kaçınmak için kepenklerini kapatıyorlardı"
     },
     {
       "id": 1,
       "model": "세보이고싶었던콩콩파조직원",
       "teller": "Göğüs kabartan Tingtang'ci",
       "title": "Tingtang Çetesi",
-      "content": "Hey sizi çükkafalılar!! Olduğunuz yerde kalın!"
+      "content": "Hey sizi çükkafalar!! Olduğunuz yerde kalın!"
     },
     {
       "id": 2,
       "model": "세보이고싶었던콩콩파조직원",
       "teller": "Göğüs kabartan Tingtang'ci",
       "title": "Tingtang Çetesi",
-      "content": "Ailemizle uğraşmaktan sıyrılabilceğini mi zannediyorsun, küçük veled?"
+      "content": "Ailemizle uğraşmaktan sıyrılabileceğini mi zannediyorsun, küçük veled?"
     },
     {
       "id": 3,
@@ -29,7 +29,7 @@
       "model": "세보이고싶었던콩콩파조직원",
       "teller": "Göğüs kabartan Tingtang'ci",
       "title": "Tingtang Çetesi",
-      "content": "Bizim değerli Hamurcağımızın kafasında bıraktığın darbeye bak!"
+      "content": "Bizim değerli hamurcağımızın kafasında bıraktığın darbeye bak!"
     },
     {
       "id": 5,
@@ -58,7 +58,7 @@
     {
       "id": 10,
       "model": "오티스",
-      "content": "Siz ikiniz, siz bizim şimdiye kadar değerisz bir pislik olduğumuzu düşünüyordunuz, değil mi?"
+      "content": "Siz ikiniz, siz bizim şimdiye kadar değersiz pislikler olduğumuzu düşünüyordunuz, değil mi?"
     },
     {
       "id": 11,
@@ -89,7 +89,7 @@
     {
       "id": 16,
       "model": "오티스",
-      "content": "Diğerlerinin pis suya batmış çöpler olduğunu da kabul etmiyor değilim…"
+      "content": "Diğerlerinin pis suya batmış çöpler olduğunu da kabul ediyor olsam da…"
     },
     {
       "id": 17,
@@ -104,7 +104,7 @@
     {
       "id": 19,
       "model": "오티스",
-      "content": "Ben her zaman yenilmezliğimi korudum ve müdürümüz bizi yeniden canlandırabilecek güçe sahip, neredeyse ölmemizi imkansızlaştıracak düzeyde."
+      "content": "Ben her zaman yenilmezliğimi korudum ve müdürümüz bizi yeniden canlandırabilecek güce sahip, neredeyse ölmemizi imkansızlaştıracak düzeyde."
     },
     {
       "id": 20,
@@ -119,24 +119,24 @@
     {
       "id": 22,
       "model": "그레고르",
-      "content": "…Off."
+      "content": "…Hah."
     },
     {
       "id": 23,
       "model": "이스마엘",
-      "content": "Bu, yaşayan, soluyan bir çöp olduğumuzu yeniden teyit etmenin çok ilham verici bir yoluydu."
+      "content": "Bu sana göre yaşayan, soluyan çöpler olduğumuzu yeniden teyit etmenin çok ilham verici bir yoluydu."
     },
     {
       "id": 24,
       "model": "에피",
       "teller": "Effie",
       "title": "LCCB",
-      "content": "…Geri zekalılar."
+      "content": "…Gerizekalılar."
     },
     {
       "id": 25,
       "model": "오티스",
-      "content": "Düşmanlar yaklaşıyor. Müdür Efendi hazır mısınız?"
+      "content": "Düşmanlar yaklaşıyor. Hazır mısınız Müdürüm?"
     }
   ]
 }
