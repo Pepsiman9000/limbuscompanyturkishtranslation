@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "GetConditionTitle",
-      "content": "Requirements"
+      "content": "Gereksinimler"
     },
     {
       "id": "BannerSelect",
-      "content": "Banner"
+      "content": "Afiş"
     },
     {
       "id": "Personality",
-      "content": "Identities"
+      "content": "Kişilikler"
     },
     {
       "id": "CharacterNumber",
@@ -18,235 +18,235 @@
     },
     {
       "id": "Rarity",
-      "content": "Rarity"
+      "content": "Nadirlik"
     },
     {
       "id": "Season",
-      "content": "Season"
+      "content": "Sezon"
     },
     {
       "id": "Group",
-      "content": "Faction"
+      "content": "Grup"
     },
     {
       "id": "Name",
-      "content": "Name"
+      "content": "İsim"
     },
     {
       "id": "LastLoginDay",
-      "content": "Last Online:"
+      "content": "En son Online:"
     },
     {
       "id": "Manager",
-      "content": "Manager"
+      "content": "Müdür"
     },
     {
       "id": "Company",
-      "content": "Company"
+      "content": "Şirket"
     },
     {
       "id": "Friends",
-      "content": "Friends"
+      "content": "Arkadaşlar"
     },
     {
       "id": "Add_Friends",
-      "content": "Add a Friend"
+      "content": "Arkadaşı Ekle"
     },
     {
       "id": "Delete_Friends",
-      "content": "Remove Friend"
+      "content": "Arkadaşı Çıkar"
     },
     {
       "id": "Waiting_Friends",
-      "content": "Sent Requests"
+      "content": "Gelen İstekler"
     },
     {
       "id": "Accept_Friends",
-      "content": "Inbox"
+      "content": "Gelen Kutusu"
     },
     {
       "id": "Last_Reload",
-      "content": "{0}s ago!"
+      "content": "{0}s önce!"
     },
     {
       "id": "WaitCancle",
-      "content": "Cancel"
+      "content": "İptal"
     },
     {
       "id": "Refuse",
-      "content": "Decline"
+      "content": "Reddet"
     },
     {
       "id": "Accept",
-      "content": "Accept"
+      "content": "Kabul Et"
     },
     {
       "id": "Send_Add_Friends",
-      "content": "Send them a friend request?"
+      "content": "Arkadaşlık İsteği gönderilsin mi?"
     },
     {
       "id": "Delete_Friends_Apply",
-      "content": "Are you sure you want to remove this user from your friend list?"
+      "content": "Arkadaşlıktan çıkarmak istediğine emin misin?"
     },
     {
       "id": "SendSendFriend_1",
-      "content": "You have too many requests."
+      "content": "Çok Fazla Arkadaşlık isteğin var."
     },
     {
       "id": "SendSendFriend_2",
-      "content": "Your friend list is full."
+      "content": "Arkadaş Listen dolu."
     },
     {
       "id": "SendSendFriend_3",
-      "content": "This user currently has too many requests."
+      "content": "Bu Kullanıcıya çok fazla istek atılmış."
     },
     {
       "id": "SendSendFriend_4",
-      "content": "This user’s friend list is full."
+      "content": "Bu Kullanıcının Arkadaş listesi maksimum sınıra ulaşmıştır."
     },
     {
       "id": "SendSendFriend_5",
-      "content": "Invalid user."
+      "content": "Geçersiz Kullanıcı."
     },
     {
       "id": "SendSendFriend_6",
-      "content": "The user is already on the request list."
+      "content": "bu Kullanıcıya zaten istek atılmış."
     },
     {
       "id": "SendSendFriend_7",
-      "content": "An unexpected error has occurred."
+      "content": "Beklenmeyen bir hata ile karşılaşıldı"
     },
     {
       "id": "SendAcceptReceivedFriend_1",
-      "content": "Your friend list is full."
+      "content": "Arkadaş Listen Sınıra ulaşmıştır."
     },
     {
       "id": "SendAcceptReceivedFriend_2",
-      "content": "This user’s friend list became full."
+      "content": "Bu Kullanıcının Arkadaş listesi maksimum sınıra ulaşmıştır."
     },
     {
       "id": "SendAcceptReceivedFriend_3",
-      "content": "The user canceled their request."
+      "content": "Kullanıcı, İsteği reddeti"
     },
     {
       "id": "SendAcceptReceivedFriend_4",
-      "content": "An unexpected error has occurred."
+      "content": "Beklenmeyen bir hata ile karşılaşıldı"
     },
     {
       "id": "Today",
-      "content": "Today!"
+      "content": "Bugün!"
     },
     {
       "id": "Ago",
-      "content": "{0}d ago"
+      "content": "{0}gün Önce"
     },
     {
       "id": "Day_Ago",
-      "content": "MM/dd"
+      "content": "AY/gün"
     },
     {
       "id": "Change_Introduce",
-      "content": "Edit Intro Tagline"
+      "content": "Giriş Sloganını Düzenle"
     },
     {
       "id": "Sorting_Level",
-      "content": "Level"
+      "content": "Seviye"
     },
     {
       "id": "Sorting_LastLogin",
-      "content": "Last Online"
+      "content": "En Son Çevrimiçi"
     },
     {
       "id": "Season_0",
-      "content": "Regular"
+      "content": "Normal"
     },
     {
       "id": "Season_1",
-      "content": "Season 1"
+      "content": "Sezon 1"
     },
     {
       "id": "Season_2",
-      "content": "Season 2"
+      "content": "Sezon 2"
     },
     {
       "id": "Change",
-      "content": "Change"
+      "content": "Değiştir"
     },
     {
       "id": "Uninstall",
-      "content": "Unequip"
+      "content": "Çıkar"
     },
     {
       "id": "All",
-      "content": "All"
+      "content": "Hepsi"
     },
     {
       "id": "Reset_Company_Title",
-      "content": "Reset Settings"
+      "content": "Ayarları Sıfırla"
     },
     {
       "id": "Reset_Company_desc",
-      "content": "Are you sure you want to reset your company settings?"
+      "content": "Şirket Detaylarını sıfırlamak istediğine emin misin?"
     },
     {
       "id": "NO_Friends",
-      "content": "Nothing to display here yet."
+      "content": "Burada Gösterilecek hiçbirşey yok."
     },
     {
       "id": "NO_SendFriends",
-      "content": "No requests made."
+      "content": "İstek Atılmamış"
     },
     {
       "id": "NO_AcceptFriends",
-      "content": "No requests received."
+      "content": "Arkadaşlık İsteği Alınmadı"
     },
     {
       "id": "SupportPersonality_Reset",
-      "content": "Reset"
+      "content": "Sıfırla"
     },
     {
       "id": "SearchFriends",
-      "content": "Discover w/ ID"
+      "content": "ID ile keşfet"
     },
     {
       "id": "ReLoad",
-      "content": "Refresh"
+      "content": "Yenile"
     },
     {
       "id": "Btn_Search",
-      "content": "Search"
+      "content": "Ara"
     },
     {
       "id": "Sentence",
-      "content": "Phrase"
+      "content": "İfade"
     },
     {
       "id": "Word",
-      "content": "Word"
+      "content": "Kelime"
     },
     {
       "id": "Uid_Copy",
-      "content": "Copy"
+      "content": "Kopyala"
     },
     {
       "id": "Uid_Copy_ModalTitle",
-      "content": "Copy Success"
+      "content": "Kopyalama, Başarılı."
     },
     {
       "id": "Uid_Copy_ModalDesc",
-      "content": "The ID has been copied."
+      "content": "ID Kopyalandı"
     },
     {
       "id": "TicketCustom_Button",
-      "content": "Customize"
+      "content": "Değiştir"
     },
     {
       "id": "TicketCustom_Popup_L",
-      "content": "Border 1"
+      "content": "Kenar 1"
     },
     {
       "id": "TicketCustom_Popup_R",
-      "content": "Border 2"
+      "content": "Kenar 2"
     },
     {
       "id": "TicketCustom_Popup_EGOBG",
@@ -254,35 +254,35 @@
     },
     {
       "id": "Using",
-      "content": "In Use"
+      "content": "Kullanımda"
     },
     {
       "id": "IntroduceSort_Default",
-      "content": "Default"
+      "content": "Varsayılan"
     },
     {
       "id": "IntroduceSort_ABC",
-      "content": "Alphabetical"
+      "content": "Alfabetik"
     },
     {
       "id": "IntroduceSort_Acquisition",
-      "content": "Claim Date"
+      "content": "Alım Tarihi"
     },
     {
       "id": "SimilarBanner",
-      "content": "Banner List"
+      "content": "Afiş Listesi"
     },
     {
       "id": "SimilarTicket",
-      "content": "Ticket List"
+      "content": "Bilet Listesi"
     },
     {
       "id": "Choosing",
-      "content": "Selecting"
+      "content": "Seçilen"
     },
     {
       "id": "IntroduceSort_Release",
-      "content": "Release Date"
+      "content": "Çıkış Tarihi"
     }
   ]
 }
