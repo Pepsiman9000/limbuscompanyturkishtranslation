@@ -2,42 +2,42 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 1F",
+      "place": "Kumarhane Kat 1",
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Emin olmak için soruyorum…"
     },
     {
       "id": 1,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Hedefimizin kumarhanenin zemin katını başımıza yıkmaktansa, en üst kattaki oyunu kazanmak olduğunu biliyorsunuz, değil mi?"
     },
     {
       "id": 2,
-      "content": "Bazılarımızın onu umursamadığının farkındaydım, ama bunu onlara söylemek doğru olmazdı."
+      "content": "Bazılarımızın görevi umursamadığının farkındaydım, ama bunu hatırlatmanın pek de tatlı olmayacağına kanaat getirdim."
     },
     {
       "id": 3,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "En üste ulaşmamız yetmezmiş gibi, bir de oyunu kazanmamız gerekiyor…"
     },
     {
       "id": 4,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Yani, buna yetecek “Şans”a ihtiyacımız var."
     },
     {
       "id": 5,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Onca eforla topladığımız “Şans”ın ne kadar saçma şekillerde boşa aktığını tartışmakla uğraşmayacağım. Moralinizi yerle bir etmek istemiyorum."
     },
     {
@@ -53,7 +53,7 @@
       "id": 8,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Girişin hemen yanındaki ruletten. Kumarhaneyi ziyaret edenler günlük şanslarını orada deneyip, sonuca göre “Şans”ını kaybediyor veya katlıyor."
     },
     {
@@ -74,7 +74,7 @@
     {
       "id": 12,
       "model": "오티스",
-      "content": "Sizin aptalca gaffınız, büyük resme bakıldığında bir hiç kalıyor, Müdür Efendi."
+      "content": "Sizin absürt gafınız, büyük resme bakıldığında bir hiç kalıyor, Müdürüm."
     },
     {
       "id": 13,
@@ -84,7 +84,7 @@
     {
       "id": 14,
       "model": "단테",
-      "content": "<Aptalca… Anlıyorum… Dur bir saniye!>"
+      "content": "<Absürt… Anlıyorum… Dur bi' saniye!>"
     },
     {
       "id": 15,
@@ -96,11 +96,11 @@
     },
     {
       "id": 17,
-      "content": "Dikkatimizi sohbete çok mu vermiştik, yoksa topluca bunamışmıydık?"
+      "content": "Dikkatimizi sohbete çok mu vermiştik, yoksa topluca bunamış mıydık?"
     },
     {
       "id": 18,
-      "content": "İki senaryoda da, kimse Heatcliff'in ne peşinde olduğunu bilmiyordu."
+      "content": "İki senaryoda da, kimse Heathcliff'in ne peşinde olduğunu bilmiyordu."
     },
     {
       "id": 19,
@@ -139,8 +139,8 @@
     {
       "id": 26,
       "model": "카지노경호원대장",
-      "teller": "Security Chief",
-      "title": "J Corp. Casino",
+      "teller": "Güvenlik Şefi",
+      "title": "J Kuruluşu Kumarhanesi",
       "content": "Ngh… L-Lanet olası…"
     },
     {
@@ -161,8 +161,8 @@
     {
       "id": 30,
       "model": "카지노경호원대장",
-      "teller": "Security Chief",
-      "title": "J Corp. Casino",
+      "teller": "Güvenlik Şefi",
+      "title": "J Kuruluşu Kumarhanesi",
       "content": "Seni kendini beğenmiş…!"
     },
     {
@@ -171,14 +171,14 @@
     },
     {
       "id": 32,
-      "content": "…Ve Heathcliff'in sopanın gidiş alanından çekilmesi ile, arkasındaki rulet sopanın tüm kuvvetini sırtlanarak parçalara ayrılmıştı."
+      "content": "…Ve Heathcliff'in sopanın gidiş alanından çekilmesi ile, arkasındaki rulet sopanın tüm kuvvetini sırtlanarak parçalara ayrıldı."
     },
     {
       "id": 33,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "Dilek Kutusu…!"
+      "title": "LŞTÖ",
+      "content": "Di-Dilek Kutusu…!"
     },
     {
       "id": 34,
@@ -190,7 +190,7 @@
     },
     {
       "id": 36,
-      "content": "“Büyüdüğümde zaman herkese umut saçacak bir dilek çıkartması olmak istiyorum!”"
+      "content": "“Büyüdüğüm zaman herkese umut saçacak bir dilek çıkartması olmak istiyorum!”"
     },
     {
       "id": 37,
@@ -204,32 +204,32 @@
     {
       "id": 39,
       "model": "히스클리프",
-      "content": "Patronunuza aleti bizim ile boğuşurken kırdığınızı itiraf edip okkalı bi' dayak mı yemeyi tercih edersiniz..."
+      "content": "Patronunuza aleti bizle boğuşurken kırdığınızı itiraf edip okkalı bi' dayak yemeyi mi tercih edersiniz..."
     },
     {
       "id": 40,
       "model": "히스클리프",
-      "content": "Yoksa suçu bize yükleyip üst kata damlamamıza izin mi verirdiniz?"
+      "content": "Yoksa suçu bize yükleyip üst kata damlamamıza izin vermeyi mi?"
     },
     {
       "id": 41,
       "model": "각잡힌카지노경호원",
-      "teller": "Rigid Security",
-      "title": "J Corp. Casino",
-      "content": "B-Bu “Şans”… bir ay değerindeyd…"
+      "teller": "Sıkı Güvenlik",
+      "title": "J Kuruluşu Kumarhanesi",
+      "content": "B-Bu “Şans”… bir ay değerindeydi…"
     },
     {
       "id": 42,
       "model": "카지노경호원대장",
-      "teller": "Security Chief",
-      "title": "J Corp. Casino",
+      "teller": "Güvenlik Şefi",
+      "title": "J Kuruluşu Kumarhanesi",
       "content": "……"
     },
     {
       "id": 43,
       "model": "카지노경호원대장",
-      "teller": "Security Chief",
-      "title": "J Corp. Casino",
+      "teller": "Güvenlik Şefi",
+      "title": "J Kuruluşu Kumarhanesi",
       "content": "Üst katlar sizin için hiç güvenli olmayacak…"
     },
     {
@@ -255,7 +255,7 @@
       "id": 48,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Aklım başıma geldi. Artık bu tip insanlar ile plan veya benzeri şeyleri katiyen konuşmayacağım."
     },
     {
@@ -267,12 +267,12 @@
       "id": 50,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Faust… Çeneni kapatmanın daha iyi olacağı nadir zamanlar içindeyiz."
     },
     {
       "id": 51,
-      "content": "Böylelikle, üst katlara geçmeyi başarmıştık."
+      "content": "Böylelikle, bir üst kata sürükledik kendimizi."
     }
   ]
 }
