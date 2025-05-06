@@ -2,16 +2,16 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Kumarhane 1F",
+      "place": "Kumarhane Kat 1",
       "content": "Kumarhaneye en iyi uyacak kelime, muhtemelen “meşgul” olurdu."
     },
     {
       "id": 1,
-      "content": "Slot makinelerinden fışkırıam şen şakrak gürültüler,"
+      "content": "Slot makinelerinden fışkıran şen şakrak gürültüler..."
     },
     {
       "id": 2,
-      "content": "Öylesine parlak ışıklar ki, bazı Günahkarlar'ın gözlerini kapatmalarını gerekiyordu."
+      "content": "Öylesine parlak ışıklar ki, bazı Günahkârlar'ın gözlerini kapatmaları gerekiyordu."
     },
     {
       "id": 3,
@@ -19,7 +19,7 @@
     },
     {
       "id": 4,
-      "content": "Saude ve Effie ise, krupiyer kılıkları ile Rodya'yı kumarhanenin kafesine götürürken bize selam verdiler."
+      "content": "Saude ve Effie'ye gelirsek, krupiyer kılıkları ile Rodya'yı kumarhanenin kafesine götürürken bize selam verdiler."
     },
     {
       "id": 5,
@@ -38,26 +38,26 @@
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "Misafirlerin hepsi, içeriden ölülermiş gibi görünüyorlar. Ayrıca hepsi şu Tingtang çapulcularından bile beter kokuyor. Hayatlarında hiç yıkandılar mı bunlar acaba…"
+      "content": "Misafirlerin hepsi, içeriden ölülermiş gibi görünüyorlardı. Ayrıca hepsi şu Tingtang çapulcularından bile beter kokuyor, hayatlarında hiç yıkandılar mı bunlar acaba…"
     },
     {
       "id": 9,
       "model": "그레고르",
-      "content": "Bana sorarsan, götlerinin dibine burnunu sokmandan hiç memnun olmazlar, Ishmael…"
+      "content": "Onların dibinde burnunu tutmandan çok memnun olmayabilirler, Ishmael…"
     },
     {
       "id": 10,
       "model": "이스마엘",
-      "content": "Ama, bu kadar bir beter kokuyu sadece güvertedeki tayfamdan alıyordum…"
+      "content": "Ama, bu kadar kötü bir kokuyu yalnızca güverte tayfasından almışımdır…"
     },
     {
       "id": 11,
-      "content": "Şansa burdakilerin çoğu, naptığımızı umursamak için makinelere fazla odaklanmışlardı."
+      "content": "Şansa buradakilerin çoğu, ne yaptığımızı umursamak için makinelere fazla odaklanmışlardı."
     },
     {
       "id": 12,
       "model": "돈키호테",
-      "content": "Müdür Efendi! zat-ı şahaneniz hiç böyle bir şeye tanıklık etiler mi?"
+      "content": "Müdür Efendi! Zat-ı şahaneniz hiç böyle bir şeye tanıklık ettiler mi?"
     },
     {
       "id": 13,
@@ -67,16 +67,16 @@
     {
       "id": 14,
       "model": "단테",
-      "content": "<Böyle bir yere daha önce geldiysem bile hatırlayamam, yani daha çok bana sormamalısın…>"
+      "content": "<Böyle bir yere daha önce geldiysem bile hatırlayamam, sorman gereken kişi ben değilim…>"
     },
     {
       "id": 15,
-      "content": "Tüm bu dönerli sayılara ve parlak ışıklara temaşa etmek sanki ağırbaşlı müdürlük özelliklerimi yavaştan uçuruyor gibiydi."
+      "content": "Tüm bu dönerli sayılara ve parlak ışıklara bakmak sanki ağırbaşlı müdürlük özelliklerimi yavaştan uçuruyor gibiydi."
     },
     {
       "id": 16,
       "model": "단테",
-      "content": "<Sanırım, yani sanırsam küçük bir göz kaymasının zararı olmaz?>"
+      "content": "<Yani sanırsam küçük bir göz kaymasının zararı olmaz?>"
     },
     {
       "id": 17,
@@ -85,7 +85,7 @@
     },
     {
       "id": 18,
-      "content": "Başımdaki akrep ve yelkovan üzerine yemin ederim ki o butona basmak gibi bir planım katiyen yoktu."
+      "content": "Başımdaki akrep ve yelkovan üzerine yemin ederim ki o butona basmak gibi bir niyetim yoktu."
     },
     {
       "id": 19,
@@ -98,7 +98,7 @@
     },
     {
       "id": 21,
-      "content": "—ve inanılmaz bir şans silsilesinin sonucunda, birisinin makine içerisine, bir oyunluk kadar jeton bıraktığını fark ettim."
+      "content": "—ve inanılmaz bir şans silsilesiyle, birisi makinenin içerisinde, bir oyunluk kadar jeton bırakmış."
     },
     {
       "id": 22,
@@ -112,14 +112,14 @@
       "id": 24,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Bu arada, umarım ki Dante şu Tingtang Çetesi'nden itinayla aldığımız dilek çıkartmalarını usulüne göre kullanır."
     },
     {
       "id": 25,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Müdür mü? Ondan istediğimiz tek şey de buydu zaten, bir zahmet bunu da başarabilsin."
     },
     {
@@ -131,14 +131,14 @@
       "id": 27,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Bunu duymak güzel. O kadar fazla çıkartma ile, sayısal lotoyu üst üste beş kere tutturur."
     },
     {
       "id": 28,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Tek yapmamız gereken şey dikkat çekmemek."
     },
     {
@@ -147,15 +147,15 @@
     },
     {
       "id": 30,
-      "content": "Yanımızdaki oyuncuların çenesi o kadar açılmştı ki, neryese yere deydiklerini görebiliyordum…"
+      "content": "Yanımızdaki oyuncuların çenesi o kadar açılmıştı ki, az daha yere değecekti…"
     },
     {
       "id": 31,
-      "content": "Makeineden adeta kumarhane ciplerinden oluşan bir tusunami fırladı, o kadar ki yerden almaya tenezzül bile etmezsiniz."
+      "content": "Makineden adeta kumarhane ciplerinden oluşan bir tusunami fırladı, o kadar ki yerden almaya tenezzül bile etmezsiniz."
     },
     {
       "id": 32,
-      "content": "Ç-çok üzgünüm, Effie ve Saude."
+      "content": "Üzgünüm, Effie ve Saude."
     },
     {
       "id": 33,
@@ -163,28 +163,28 @@
     },
     {
       "id": 34,
-      "teller": "One Casinogoer",
-      "title": "Chump",
+      "teller": "Kasinocu",
+      "title": "Mankafa",
       "content": "Jackpot mu? Hangi makine bu?"
     },
     {
       "id": 35,
-      "teller": "Another Casinogoer",
-      "title": "Chump",
+      "teller": "Başka Bir Kasinocu",
+      "title": "Mankafa",
       "content": "Bir anda, uyarı olmadan? Cidden mi?"
     },
     {
       "id": 36,
       "model": "각잡힌카지노경호원",
-      "teller": "Rigid Security",
-      "title": "J Corp. Casino",
+      "teller": "Sıkı Güvenlik",
+      "title": "J Kuruluşu Kasinosu",
       "content": "Bir saniye lütfen…"
     },
     {
       "id": 37,
       "model": "각잡힌카지노경호원",
-      "teller": "Rigid Security",
-      "title": "J Corp. Casino",
+      "teller": "Sıkı Güvenlik",
+      "title": "J Kuruluşu Kasinosu",
       "content": "Kimliğinizi kontrol etmeme izin verin."
     },
     {
@@ -214,19 +214,19 @@
     },
     {
       "id": 43,
-      "content": "“Ishmeal'in iğneleyici bombardımanı, hayret edilesi doğrusu.” Dedi Gregor hayranlıkla"
+      "content": "“Ishmeal'in iğneleyici bombardımanı, hayret edilesi doğrusu.” Diye mırıldandı sanki Gregor"
     },
     {
       "id": 44,
-      "content": "Birde onun daha önce hiç hedefinde olmadığım bıçak gibi bakışlarını bana sor Gregor…"
+      "content": "Ishmeal'in bir de üzerine onun daha önce hiç görmediğim o bıçak gibi bakışı…"
     },
     {
       "id": 45,
-      "content": "…Gelincik gibi bir taşın altına girip kuyruğumu kıstırmak istedim. Tabii eyer etrafta bir tane olsaydı"
+      "content": "…Gelincik gibi bir taşın altına girip kuyruğumu kıstırmak istedim. Tabii eğer etrafta bir tane olsaydı"
     },
     {
       "id": 46,
-      "content": "Bir anlığına, gözlerim olmadığı için şükreder buldum kendimi."
+      "content": "Bir anlığına, onun bakışlarına geri dönecek gözlerim olmadığı için şükreder buldum kendimi."
     },
     {
       "id": 47,
@@ -244,21 +244,21 @@
     {
       "id": 50,
       "model": "그레고르",
-      "content": "Ne zamandan beridir kılığını bıraktın, Ryōshū?"
+      "content": "Ne zamandan beridir kılığında değilsin, Ryōshū?"
     },
     {
       "id": 51,
-      "content": "—Her zaman giydiği üniformasını giren bir Ryōshū vardı."
+      "content": "—Her zaman giydiği üniformasını giyen bir Ryōshū vardı."
     },
     {
       "id": 52,
       "model": "료슈",
-      "content": "Başkalarının eskilerini hayatta giymem."
+      "content": "Başkalarının artıklarını hayatta giymem."
     },
     {
       "id": 53,
       "model": "그레고르",
-      "content": "Gah… Müdür Ahbap, bugün bizim günümüz değil gibi…"
+      "content": "Ahh… Müdür Ahbap, bugün bizim günümüz değil gibi…"
     },
     {
       "id": 54,
@@ -269,14 +269,14 @@
       "id": 55,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Nasıl olur… Planı ayakta tutabilmek için verdiğimiz onca çaba…"
     },
     {
       "id": 56,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Faust, bu aptalları göreve gönüllü olarak sokarken aklından ne geçiyordu? Kimsenin boy ölçüşemeyeceği bir zekan yok muydu? Kullansana!"
     },
     {
@@ -303,7 +303,7 @@
       "id": 61,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "……"
     },
     {
