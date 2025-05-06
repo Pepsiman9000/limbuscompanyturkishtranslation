@@ -2,14 +2,14 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 1F",
+      "place": "Kasino Kat 1",
       "model": "료슈",
       "content": "Bu zırvalığı izlemeye daha fazla dayanamıyorum."
     },
     {
       "id": 1,
       "model": "료슈",
-      "content": "Acemilerle savaşarak daha ne kadar zamanı boşa harcayacaksınız?"
+      "content": "Şu çerezlerle savaşarak daha ne kadar zaman harcayacaksınız?"
     },
     {
       "id": 2,
@@ -43,15 +43,15 @@
     {
       "id": 8,
       "model": "료슈",
-      "content": "Eyvallah."
+      "content": "Eyw."
     },
     {
       "id": 9,
-      "content": "Ryōshū bıçağını eline aldı ve bir hışımla yukarı fırlattı."
+      "content": "Ryōshū bıçağı eline aldı ve bir hışımla yukarı fırlattı."
     },
     {
       "id": 10,
-      "content": "Tavandaki avize takımını çatıya sabitleyen zincirleri deldi, tehlikeli bir şekilde yere sererek."
+      "content": "Tavandaki avize takımını çatıya sabitleyen zincirleri delmişti, tehlikeli bir şekilde yere sererek."
     },
     {
       "id": 11,
@@ -63,15 +63,15 @@
     },
     {
       "id": 13,
-      "content": "Tabii, benim sözlerime bir paket sigara dan daha az saygı duyuyordu ama, orası bir problem değildi."
+      "content": "Tabii, benim sözlerime bir paket sigaradan daha az saygı duyuyordu ama, orası bir problem değildi."
     },
     {
       "id": 14,
-      "content": "Herkezin gözleri salanan avizeye merkuzdu…"
+      "content": "Herkezin gözleri sallanan avizeye merkuzdu…"
     },
     {
       "id": 15,
-      "content": "Ve eninde sonunda, üstüne düşen bütün nazarlardan kızmış olucak ki…"
+      "content": "Ve eninde sonunda, üstüne düşen bütün gözlerden utanmış olacak ki…"
     },
     {
       "id": 16,
@@ -81,25 +81,25 @@
     {
       "id": 17,
       "model": "각잡힌카지노경호원",
-      "teller": "Rigid Security",
-      "title": "J Corp. Casino",
+      "teller": "Sıkı Güvenlik",
+      "title": "J Kuruluşu Kasinosu",
       "content": "Ha?"
     },
     {
       "id": 18,
       "model": "카지노경호원대장",
       "teller": "Security Chief",
-      "title": "J Corp. Casino",
-      "content": "D-Dikkat et!"
+      "title": "J Kuruluşu Kasinosu",
+      "content": "D-Dikkat!"
     },
     {
       "id": 19,
-      "content": "PAAMM!"
+      "content": "BAAMM!"
     },
     {
       "id": 20,
-      "place": "Topsy-turvy Casino 1F",
-      "content": "Avize bilfiil yere çakıldı, muazzam bir ses çıkararak."
+      "place": "Yerle Bir Olmuş Kasino Kat 1",
+      "content": "Avize bilfiil yere çakılmıştı, muazzam bir ses çıkararak."
     },
     {
       "id": 21,
@@ -107,7 +107,7 @@
     },
     {
       "id": 22,
-      "content": "Ve… Sadece öyle oldu."
+      "content": "Ve… O kadar."
     },
     {
       "id": 23,
@@ -115,7 +115,7 @@
     },
     {
       "id": 24,
-      "content": "Her iki tarafta sönen ışığın ardından birbirlerine baka kaldılar."
+      "content": "Her iki taraf da sönen ışığın ardından birbirlerine baka kaldılar."
     },
     {
       "id": 25,
@@ -125,7 +125,7 @@
     {
       "id": 26,
       "model": "료슈",
-      "content": "…Sanat Performansı."
+      "content": "…Bir performans."
     },
     {
       "id": 27,
@@ -135,7 +135,7 @@
     {
       "id": 28,
       "model": "싱클레어",
-      "content": "Yine de, hiç birimizin canı acımadığı için mutluyum!"
+      "content": "Yine de, hiçbirimizin canı acımadığı için mutluyum!"
     },
     {
       "id": 29,
