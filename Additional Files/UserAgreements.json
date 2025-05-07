@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "UserAgreement_popup_title",
-      "content": "Terms of Service"
+      "content": "Kullanım Koşullları"
     },
     {
       "id": "UserAgreement_title",
-      "content": "User Agreement"
+      "content": "Kullanıcı Sözleşmesi"
     },
     {
       "id": "UserAgreement_personality_title",
-      "content": "Information and Privacy Policy"
+      "content": "Bilgi ve Gizlilik Politikası"
     },
     {
       "id": "UserAgreement_agreed",
-      "content": "I agree."
+      "content": "Kabul Ediyorum"
     }
   ]
 }
