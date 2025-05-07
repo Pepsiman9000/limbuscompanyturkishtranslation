@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 2F",
+      "place": "Kumarhane Kat 2",
       "model": "이스마엘",
       "content": "Kulağa ne kadar saçma gelse de, eğer bu kattan erken ayrılmak istiyorsak…"
     },
     {
       "id": 1,
       "model": "이스마엘",
-      "content": "Onların kalplerine güçlü bir dans ile dokunmamız gerekicek."
+      "content": "Onların kalplerine güçlü bir dans ile dokunmamız gerekecek."
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<Bilidğiniz üzere, anılarım en kesin zamanında sayılmaz. Bu dans etmek denilen şey… Tam olarak nedir>"
+      "content": "<Bildiğiniz üzere, hafızam azıcık buğulu. Yani işte… dans falan… çok anlamam.>"
     },
     {
       "id": 3,
@@ -22,12 +22,12 @@
     },
     {
       "id": 4,
-      "content": "Tabi ki de, dans etmenin ne olduğunu unutmadım, ama o kadar da dürüst olmama gerek yok, değil mi?"
+      "content": "Tabii ki de dans etmenin ne olduğunu unutmadım, ama o kadar da dürüst olmama gerek yok, değil mi?"
     },
     {
       "id": 5,
       "model": "단테",
-      "content": "<Söylesene, Hong Lu, hiç dans dersi falan aldın mı sen?>"
+      "content": "<Söylesene, Hong Lu, hiç dans dersi falan aldın mı?>"
     },
     {
       "id": 6,
@@ -47,17 +47,17 @@
     {
       "id": 9,
       "model": "이상",
-      "content": "My inner voice expresses fear."
+      "content": "İç sesim yalnızca korku ifade ediyor."
     },
     {
       "id": 10,
       "model": "이스마엘",
-      "content": "…Ben mi? Ben hayatımın yarısını gemide geçirdim."
+      "content": "…Ben mi? Hayatımın yarısını gemide geçirdim."
     },
     {
       "id": 11,
       "model": "돈키호테",
-      "content": "Dans zatımın p—! Aa-! Nutkumun yersiz inkıtalarını durdurun!"
+      "content": "Dans zatımın p—! Aa-! Nutkumun bu yersiz kesilişini bir an önce durdurun!"
     },
     {
       "id": 12,
@@ -72,12 +72,12 @@
     {
       "id": 14,
       "model": "로쟈",
-      "content": "Ş-Şey, Dante… Çoğu şeyde iyiyimdir, amaaa, benim dans edişim biraz… utanç vericidir… Hahah!"
+      "content": "Ş-Şey, Dante… Çoğu şeyde iyiyimdir, amaaa, dans edişim biraz… utanç verici olabilir… Hahah!"
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "Benim için fark etmez, ama kolum uyarılardan dolayı kontrolden çıkıp seyircilerin kafalarına saldırabilir."
+      "content": "Benim için fark etmez, ama kolum uyaranlardan dolayı kontrolden çıkıp seyircilerin kafalarına saldırabilir."
     },
     {
       "id": 16,
@@ -112,7 +112,7 @@
     {
       "id": 22,
       "model": "싱클레어",
-      "content": "D-Dans mı? Ben… okulumda sosyal bilimler dersi olarak temel maraka kursu almıştım herhalde…"
+      "content": "D-Dans mı? …Okulumda sosyal bilimler dersi olarak temel maraka kursu almıştım herhalde…"
     },
     {
       "id": 23,
@@ -122,7 +122,7 @@
     {
       "id": 24,
       "model": "로쟈",
-      "content": "Yürüyüşünden ve konuşmasına bakarak anlaya bilirim."
+      "content": "Yürüyüşüne ve konuşmasına bakarak anlayabilirsin."
     },
     {
       "id": 25,
@@ -136,7 +136,7 @@
     {
       "id": 27,
       "model": "로쟈",
-      "content": "Hadi bakalım~ Canım Sinclair'im, Senin için çok mu çok önemli bir görevim var."
+      "content": "Hadi bakalım~ canım Sinclair'im, Senin için çok mu çok önemli bir görevim var."
     },
     {
       "id": 28,
@@ -150,17 +150,17 @@
     {
       "id": 30,
       "model": "단테",
-      "content": "<Sinclair…yapabilirsin.>"
+      "content": "<Sinclair …yapabilirsin.>"
     },
     {
       "id": 31,
       "model": "이스마엘",
-      "content": "Evet, Heathcliff'in seni ezdiği anları düşün…"
+      "content": "Evet, Heathcliff'in seni ezdiği o onca anı düşün…"
     },
     {
       "id": 32,
       "model": "싱클레어",
-      "content": "Ben, ben…"
+      "content": "B-Be… Ben…"
     },
     {
       "id": 33,
@@ -179,7 +179,7 @@
     {
       "id": 36,
       "model": "로쟈",
-      "content": "Bu zaten tek senin yapabileceğin bir şey."
+      "content": "Bu yalnızca senin yapabileceğin bir şey."
     },
     {
       "id": 37,
@@ -230,7 +230,7 @@
       "model": "흥겨운마리아치조직원",
       "teller": "Mariachi Alegre",
       "title": "Los Mariachis",
-      "content": "Genç adam, bize katılmayı düşünmez misin? Büyüme potensiyelin var."
+      "content": "Genç adam, bize katılmayı düşünmez misin? Büyüme potansiyelin var."
     },
     {
       "id": 45,
@@ -241,7 +241,7 @@
     },
     {
       "id": 46,
-      "content": "Sadece birkaç saat önce, Sinclair bizim kuş beyinliler takımının başka bir moron üyesi daha iken, şimdi şirketin kıymetli personellerinden birine dönmüştü."
+      "content": "Sadece birkaç saat önce, Sinclair bizim kuş beyinliler takımının başka bir moron üyesi daha iken, şimdi şirketin kıymetli personellerinden birine terfi edilmişti."
     },
     {
       "id": 47,
@@ -262,7 +262,7 @@
       "model": "흥겨운마리아치조직원",
       "teller": "Mariachi Alegre",
       "title": "Los Mariachis",
-      "content": "Ama uyarıyım, yukarıdakiler bizim gibi akla yatkın davranmazlar. Onların kafasında şenlik kavramı bile yok."
+      "content": "Ama uyarayım, yukarıdakiler bizim gibi akla yatkın davranmazlar. Onların kafasında şenlik kavramı bile yok."
     },
     {
       "id": 50,
@@ -280,7 +280,7 @@
     },
     {
       "id": 53,
-      "content": "Çete üyelerini derinden sarsan dansı ile aktardığı “İçimde kabaran şey” kavramının ne tam olarak ne anlama geldiğini bilmek istiyordum."
+      "content": "Çete üyelerini derinden sarsan dansı ile aktardığı o içinde kabaran şeyin tam olarak ne olduğunu bilmek istiyordum."
     },
     {
       "id": 54,
@@ -288,7 +288,7 @@
     },
     {
       "id": 55,
-      "content": "Ama bu suallerin cevabı şimdilik ehemmiyetsizdi. Şu anki asıl hedefimize ulaşmak için üçüncü kata çıktık."
+      "content": "Ama bu suallerin cevabı şimdilik ehemmiyetsizdi. Şuanın işi, hedefimize ulaşmak için üçüncü kata çıkmaktı."
     }
   ]
 }
