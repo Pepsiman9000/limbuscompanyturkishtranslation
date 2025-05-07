@@ -5,17 +5,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crow’s Eye View",
+          "name": "Karga Bakış Açısı",
           "abName": "Yi Sang",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Attack Power Down"
+                  "desc": "[OnSucceedAttackHead] 2 [Reduction] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply 1 Haste to all allies next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur bütün Müttefiklere 1 [Agility] uygula"
                 }
               ]
             }
@@ -23,17 +23,17 @@
         },
         {
           "level": 3,
-          "name": "Crow’s Eye View",
+          "name": "Karga Bakış Açısı",
           "abName": "Yi Sang",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down"
+                  "desc": "[OnSucceedAttack] 2 [Reduction] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply 3 Haste to all allies next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur bütün Müttefiklere 3 [Agility] uygula"
                 }
               ]
             }
@@ -41,20 +41,20 @@
         },
         {
           "level": 4,
-          "name": "Crow’s Eye View",
+          "name": "Karga Bakış Açısı",
           "abName": "Yi Sang",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down"
+                  "desc": "[OnSucceedAttack] 2 [Reduction] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply 3 Haste to all allies next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur bütün Müttefiklere 3 [Agility] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 2 [Binding] uygula"
                 }
               ]
             }
