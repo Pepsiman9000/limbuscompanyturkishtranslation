@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "dawn_of_green_reward_button",
-      "content": "Missions"
+      "content": "Görevler"
     },
     {
       "id": "dawn_of_green_story_theater_button",
-      "content": "To Theater"
+      "content": "Tiyatroya"
     },
     {
       "id": "dawn_of_green_normal_stage",
@@ -14,11 +14,11 @@
     },
     {
       "id": "dawn_of_green_hard_stage",
-      "content": "Hard"
+      "content": "Zor"
     },
     {
       "id": "dawn_of_green_hard_stage_unlock_condition",
-      "content": "Clear Normal Difficulty to Unlock"
+      "content": "Normal Zorluk Seviyesi Tamamlayın, Kilidi Açın"
     },
     {
       "id": "reward_Noraml",
@@ -26,7 +26,7 @@
     },
     {
       "id": "reward_Hard",
-      "content": "Hard"
+      "content": "Zor"
     },
     {
       "id": "EVENT_NEWYEAR_2024_NORMAL",
@@ -34,83 +34,83 @@
     },
     {
       "id": "EVENT_NEWYEAR_2024_HARD",
-      "content": "Hard"
+      "content": "Zor"
     },
     {
       "id": "missionConditionTitle_10001",
-      "content": "Dawn of Green entities defeated in a single Encounter"
+      "content": "Birlikte Tek Bir Savaşta 'Yeşil Şafak' varlıkları yok edin"
     },
     {
       "id": "missionConditionTitle_10002",
-      "content": "Dawn of Green - Doubt - γ entities defeated in a single Encounter"
+      "content": "'Yeşil Şafak - Şüphe - γ' varlıklarını tek bir savaşta yok edin"
     },
     {
       "id": "missionConditionTitle_10003",
-      "content": "Dawn of Green - Doubt - δ entities defeated in a single Encounter"
+      "content": "'Yeşil Şafak - Şüphe - δ' varlıklarını tek bir savaşta yok edin"
     },
     {
       "id": "missionConditionTitle_10004",
-      "content": "Complete Suppression without any ally deaths"
+      "content": "Bütün baskıyı hiçbir dost kaybı olmadan tamamlayın"
     },
     {
       "id": "missionConditionTitle_10005",
-      "content": "Complete Suppression without any of the allies' SP dropping to -45 SP"
+      "content": "Bütün baskıyı, dostlardan herhangi birinin SP'si -45 SP'ye düşmeden tamamlayın"
     },
     {
       "id": "missionConditionTitle_10006",
-      "content": "Defeat 3 Dawn of Green entities with a single Attack Skill"
+      "content": "Tek bir saldırı yeteneğiyle 3 'Yeşil Şafak' varlığını yok edin"
     },
     {
       "id": "missionConditionTitle_10007",
-      "content": "Dawn of Green entities defeated by the Control Team Captain's Attack Skill in a single Encounter"
+      "content": "'Yeşil Şafak' varlıklarını, Kontrol Takımı Kaptanı'nın saldırı yeteneğiyle tek bir savaşta yok edin"
     },
     {
       "id": "missionConditionTitle_10008",
-      "content": "Complete Suppression with Control Team Captain surviving and taking less than 10 hits from enemy Attack Skills"
+      "content": "Bütün baskıyı, Kontrol Takımı Kaptanı hayatta kalarak ve düşman saldırı yeteneklerinden 10'dan az darbe alarak tamamlayın"
     },
     {
       "id": "missionConditionTitle_20001",
-      "content": "Dawn of Green entities defeated in a single Encounter"
+      "content": "Birlikte Tek Bir Savaşta 'Yeşil Şafak' varlıkları yok edin"
     },
     {
       "id": "missionConditionTitle_20002",
-      "content": "Dawn of Green - Doubt - γ entities defeated in a single Encounter"
+      "content": "'Yeşil Şafak - Şüphe - γ' varlıklarını tek bir savaşta yok edin"
     },
     {
       "id": "missionConditionTitle_20003",
-      "content": "Dawn of Green - Doubt - δ entities defeated in a single Encounter"
+      "content": "'Yeşil Şafak - Şüphe - δ' varlıklarını tek bir savaşta yok edin"
     },
     {
       "id": "missionConditionTitle_20004",
-      "content": "Complete Suppression without any ally deaths"
+      "content": "Bütün baskıyı hiçbir dost kaybı olmadan tamamlayın"
     },
     {
       "id": "missionConditionTitle_20005",
-      "content": "Complete Suppression without any of the allies' SP dropping to -45 SP"
+      "content": "Bütün baskıyı, dostlardan herhangi birinin SP'si -45 SP'ye düşmeden tamamlayın"
     },
     {
       "id": "missionConditionTitle_20006",
-      "content": "Defeat 7 Dawn of Green entities with a single Attack Skill"
+      "content": "Tek bir saldırı yeteneğiyle 7 'Yeşil Şafak' varlığını yok edin"
     },
     {
       "id": "missionConditionTitle_20007",
-      "content": "Dawn of Green entities defeated by the Control Team Captain's Attack Skill in a single Encounter"
+      "content": "'Yeşil Şafak' varlıklarını, Kontrol Takımı Kaptanı'nın saldırı yeteneğiyle tek bir savaşta yok edin"
     },
     {
       "id": "missionConditionTitle_20008",
-      "content": "Complete Suppression with Control Team Captain surviving and taking less than 5 hits from enemy Attack Skills"
+      "content": "Bütün baskıyı, Kontrol Takımı Kaptanı hayatta kalarak ve düşman saldırı yeteneklerinden 5'ten az darbe alarak tamamlayın"
     },
     {
       "id": "missionConditionTitle_30001",
-      "content": "Complete all Missions in both Normal and Hard difficulties"
+      "content": "Normal ve Zor zorluklarında tüm görevleri tamamlayın"
     },
     {
       "id": "dawnofgreen_rewardpage_desc",
-      "content": "Suppress Dawn of Green entities in 'Normal' and 'Hard' difficulties from the Dawn of Green Ordeal.\n\nEarn various rewards by clearing these missions."
+      "content": "'Yeşil Şafak' varlıklarını 'Normal' ve 'Zor' zorluklarında baskı altına alın.\n\nBu görevleri tamamlayarak çeşitli ödüller kazanın."
     },
     {
       "id": "mainui_battleresult_wa",
-      "content": "Ordeals Suppressed"
+      "content": "'Olaylar' Bastırıldı"
     }
   ]
 }
