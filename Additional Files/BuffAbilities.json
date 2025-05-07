@@ -318,31 +318,31 @@
     },
     {
       "id": "MRR553",
-      "desc": "E.G.O Skills deal +{0}% more damage"
+      "desc": "E.G.O Yetenekleri +{0}% daha fazla hasar verir"
     },
     {
       "id": "MRR521",
-      "desc": "Remove the first Stagger threshold"
+      "desc": "İlk Sersemleme Eşiğini Kaldır"
     },
     {
       "id": "MRR557",
-      "desc": "Deal +(10 + {0} Potency + {0} Count)% more damage on Critical Hit (max 50%)"
+      "desc": "Kritik Vuruşta, (10 + {0} Şiddeti + {0} Mikatarı)% daha fazla hasar ver (maksimum %50)"
     },
     {
       "id": "LacerationStackAndTurnAdderIfNotZero",
-      "desc": "+{0} to {1} Potency and Count inflicted with Skill & Coin effects"
+      "desc": "Yetenek etkileriyle {0} ile {1} arası Şiddeti ve Miktarı uygular"
     },
     {
       "id": "AttackDmgMultiplierSpecificType",
-      "desc": "{0} Skills deal +30% more damage"
+      "desc": "{0} Yetenekler +%30 daha fazla hasar verir"
     },
     {
       "id": "MRR565MaxSpeedAdder",
-      "desc": "Max Speed {0}"
+      "desc": "Maks Hız {0}"
     },
     {
       "id": "MRR565MinSpeedAdder",
-      "desc": "Min Speed {0}"
+      "desc": "Min Hız {0}"
     }
   ]
 }
