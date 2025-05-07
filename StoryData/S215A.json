@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 3F",
+      "place": "Kumarhane Kat 3",
       "model": "단테",
-      "content": "<Ne yapacağız? Savaşmaya devam ederek hiçbir yere varamayacağız…>"
+      "content": "<Ne yapacağız? Savaşmaya devam ederek hiçbir yere varamayız…>"
     },
     {
       "id": 1,
@@ -18,7 +18,7 @@
     {
       "id": 3,
       "model": "단테",
-      "content": "<Elimizin altına ne varmış?>"
+      "content": "<Ne varmış elimizin altında?>"
     },
     {
       "id": 4,
@@ -28,7 +28,7 @@
     {
       "id": 5,
       "model": "료슈",
-      "content": "Ona iyice bir @#$@#$ verdikten sonra @$#% ve sonra, onu $#%@#$."
+      "content": "Ona iyice bir@#$@#$ verdikten sonra @$#% ve sonra, onu $#%@#$."
     },
     {
       "id": 6,
@@ -42,28 +42,28 @@
     },
     {
       "id": 8,
-      "content": "İnsan dilinin ve kelime dağarcığının sınırlarının bu iğrenç ve mide bulandırıcı şeylerin hesabını bu kadar detaylı bir şekilde tutabileceğine ve bu derece iğrenç bir tasvir kullananileceğine inanmazdım."
+      "content": "İnsan dilinin ve kelime dağarcığının sınırlarının bu iğrenç ve mide bulandırıcı şeylerin hesabını bu kadar detaylı bir şekilde tutabileceğine ve bu derece iğrenç bir şive kullanabileceğine inanmazdım."
     },
     {
       "id": 9,
-      "content": "Çete üyelerinin gözleri onlardan beklemyecek şekilde parıldıyordu, hatta bazıları not bile alıyordu."
+      "content": "Çete üyelerinin gözleri onlardan beklenmeyecek şekilde parıldıyordu, hatta bazıları not bile alıyordu."
     },
     {
       "id": 10,
       "teller": "Tehditkar Çete Üyesi",
       "title": "Tieqiu Çetesi",
-      "content": "Pes doğrusu, bu kadarını beklemiyordum."
+      "content": "Vay ağumu dokiim, şaşırttı beni heeri."
     },
     {
       "id": 11,
       "teller": "Gösterişli Çete Üyesi",
       "title": "Tieqiu Çetesi",
-      "content": "Vay anasının gözü, bu daha da etkiliyici olamazdı herhalde... Demek sana bu dilin üfürükçüsü diyorlar, ha, hanımefendi?"
+      "content": "Uiyy, ka bu ne ehel konuşdu... Şivenin Cazısı didikleri bu olsa, he gı??"
     },
     {
       "id": 12,
       "model": "히스클리프",
-      "content": "Yok. Daha çok balkonda dedikodu yapan yaşlı kaltaklarınkinden bu."
+      "content": "Yok. İçine cin kaçmış teyzelerinkinden bu."
     },
     {
       "id": 13,
@@ -72,7 +72,7 @@
     {
       "id": 14,
       "model": "이상",
-      "content": "Bu yaratıcılığınızı alkışlamaktan başka bir şey elimden gelmiyor... Doğrudur ki, kalem... hayır, dil kılıçtan keskindir"
+      "content": "Yaratıcılığı takdir etmekten başka yapabileceğim bir şey yok. Gerçekten de, kalem… Hayır, dil kılıçtan keskinmiş."
     },
     {
       "id": 15,
@@ -82,20 +82,20 @@
     {
       "id": 16,
       "model": "이스마엘",
-      "content": "Ancak bu, kendi kelime dağarcığımın buzdağının görünen tarafı olduğunu fark etmemi sağladı."
+      "content": "Bu, kendi kelime dağarcığımın buzdağının görünen tarafı olduğunu fark etmemi sağladı."
     },
     {
       "id": 17,
       "model": "소드",
       "teller": "Saude",
-      "title": "LŞCÖ",
+      "title": "LŞTÖ",
       "content": "……"
     },
     {
       "id": 18,
       "model": "소드",
       "teller": "Saude",
-      "title": "LŞCÖ",
+      "title": "LŞTÖ",
       "content": "Açıkçası, baştakilerin niye sizin gibi kişilerden oluşan bir ekip kurduğunu anlayamamıştım."
     },
     {
@@ -107,14 +107,14 @@
       "id": 20,
       "model": "소드",
       "teller": "Saude",
-      "title": "LŞCÖ",
+      "title": "LŞTÖ",
       "content": "Ve hala bu personel seçiminin anlamını çözmekte zorlanıyorum…"
     },
     {
       "id": 21,
       "model": "소드",
       "teller": "Saude",
-      "title": "LŞCÖ",
+      "title": "LŞTÖ",
       "content": "Ama, sanırsam… bu o kadar da kötü değilmiş."
     },
     {
