@@ -4,59 +4,59 @@
             "id": 0,
             "place": "Withering League of Nine Littérateurs",
             "model": "이상",
-            "content": "There was wilting among the nine."
+            "content": "Dokuzu da, solmaya başlamıştı."
         },
         {
             "id": 1,
             "model": "이상",
-            "content": "Those who indulged in research with purity and astonishment on their faces as they did in the old days have already withdrawn their buds."
+            "content": "Eski günlerde, saf bir zihin ve şaşkın bir yüz ifadesi ile araştırmalara dalanlar, çoktan köklerini içlerine çekmişti."
         },
         {
             "id": 2,
             "model": "이상",
-            "content": "In exchange, unfamiliar sounds began to fill the air."
+            "content": "Karşılığında ise, yabancı sesler odayı doldurmaya başlamıştı."
         },
         {
             "id": 3,
             "model": "이상",
-            "content": "Orderly footsteps, sounds of wind-up keys that signify their position, and heavy, low voices."
+            "content": "Sıralı adım sesleri, pozisyonlarını gösteren madalyaların savruluş sesi, ve ağır, tok sesler."
         },
         {
             "id": 4,
             "model": "오티스",
-            "content": "Why... Why did you tell them the League's location, Aneung?"
+            "content": "Neden... Neden onlara Lig'in yerini söyledin, Aneung?"
         },
         {
             "id": 5,
             "model": "싱클레어",
-            "content": "...Anyone would have done the same."
+            "content": "...Kim olsa aynısını yapardı."
         },
         {
             "id": 6,
             "model": "싱클레어",
-            "content": "They said if I don't reveal the source of the technology... I'll be forcefully repatriated to S Corp."
+            "content": "Teknolojinin kaynağını söylemeseydim... Zorla S Kuruluşu'na sınır dışı edileceğimi söylediler."
         },
         {
             "id": 7,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "Then you should've braced for it! Have the guts to bite your tongue and die if you couldn't stand to survive alone in the hometown!"
+            "content": "Then you should've braced for it! Have the guts to bite your tongue and die if you couldn't stand to survive alone in the hometown! (floor 3de var bu line, bulan koysun tşk)"
         },
         {
             "id": 8,
             "model": "이스마엘",
-            "content": "W-Why are these people dragging me away?"
+            "content": " N-Neden bu insanlar beni yerlerde sürüklüyor?"
         },
         {
             "id": 9,
             "model": "이스마엘",
-            "content": "Why is it a crime that I couldn't yield my technology?"
+            "content": "Neden teknolojimi verememek bir suç teşkil ediyor?"
         },
         {
             "id": 10,
             "model": "이스마엘",
-            "content": "My technology was worthless! You said it yourself, Young-ji! Help! I don't want to go!"
+            "content": "İcatlarımın bir değeri yok! Bunu kendin demiştin, Young-ji! Yardım et! Gitmek istemiyorum!"
         },
         {
             "id": 11,
@@ -66,84 +66,84 @@
         {
             "id": 12,
             "model": "홍루",
-            "content": "No matter how hard we think... There's really only one way."
+            "content": "Ne kadar düşünürsek düşünelim... Sadece tek bir yol bize açılıyordu."
         },
         {
             "id": 13,
             "model": "홍루",
-            "content": "It'll all be over once I go back. If I give away the glass..."
+            "content": "Döndüğümde her şey sona erecek. Eğer camı verirsem..."
         },
         {
             "id": 14,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "If you're caught, the League will be done for. Who knows what might they do with your technology once it falls into their hands?"
+            "content": "Yakalanırsan, Lig'in işi biter. Kim bilir teknolojin kötü ellere düşse, onunla ne yaparlar?"
         },
         {
             "id": 15,
             "model": "이상",
-            "content": "The voices of desperation ringing in the air did not change a thing."
+            "content": "Havadaki çaresizlik sesleri, kaideyi değiştirmemişti."
         },
         {
             "id": 16,
             "model": "이상",
-            "content": "And so, there were those who rejected the notion of yielding their creations..."
+            "content": "Ve, yarattıklarını feragat etmeyi reddedenler bir bir döküldükçe..."
         },
         {
             "id": 17,
             "model": "뫼르소",
-            "content": "I knew my turn would come."
+            "content": "Sıranın bana geleceğinin farkına varmıştım."
         },
         {
             "id": 18,
             "model": "뫼르소",
-            "content": "And... I don't believe we'll ever see each other again."
+            "content": "Ve... Birbirimizi bir daha göreceğimize dair inancım yoktu."
         },
         {
             "id": 19,
             "model": "이상",
-            "content": "Those who calmly let themselves be taken away..."
+            "content": "Sakince kendilerine alıkoyulmasına izin verenler..."
         },
         {
             "id": 20,
             "model": "그레고르",
-            "content": "I'm bored of living in hiding."
+            "content": "Saklanarak yaşamaktan bıkmıştım."
         },
         {
             "id": 21,
             "model": "그레고르",
-            "content": "I've decided to go my own way. Let's hope we never meet again."
+            "content": "Kendi yolumdan gitmeye karar verdim. Umarım ki bir daha asla görüşmeyiz."
         },
         {
             "id": 22,
             "model": "이상",
-            "content": "Those who left on their own..."
+            "content": "Tek başlarına kalanlar..."
         },
         {
             "id": 23,
             "model": "파우스트",
-            "content": "I saw a child who resembled the ocean."
+            "content": "Okyanusa benzeyen bir çocuk görmüştüm."
         },
         {
             "id": 24,
             "model": "파우스트",
-            "content": "It's not like the glass... or the mirror, but I like the things reflected on the waves and tides of the ocean."
+            "content": "Cam gibi... veya ayna gibi değil, ama okyanusun dalgalarından gelen yansımalara bayılıyorum."
         },
         {
             "id": 25,
             "model": "파우스트",
-            "content": "Since I couldn't fathom the depth of the waters, I decided to follow along."
+            "content": "Suyun derinliğini idrak edemediğimden, takipte kalmayı tercih etmiştim."
         },
         {
             "id": 26,
             "model": "이상",
-            "content": "And those who forever disappeared, leaving unknowable parting remarks."
+            "content": "Ve ebediyete dek kaybolup, arkalarında çok ufak izler bırakanlar."
         },
         {
             "id": 27,
             "model": "이상",
-            "content": "Like that... winter approached."
+            "content": "Ve böylece... kış geldi çattı."
         },
         {
             "id": 28,
@@ -153,12 +153,12 @@
         {
             "id": 29,
             "model": "이스마엘",
-            "content": "That was a painful experience. It was like I was actually in the shoes of a League of Nine member..."
+            "content": "Acı verici bir deneyimdi. Gerçekten de bir Lig üyesinin yerindeymiş gibi hissettim kendimi..."
         },
         {
             "id": 30,
             "model": "파우스트",
-            "content": "We're synchronizing with their memories. It's only natural that their traces will influence us."
+            "content": "Anıları ile senkronize oluyoruz. Kalıntılarının bizi etkilemesi çok doğal."
         }
     ]
 }
