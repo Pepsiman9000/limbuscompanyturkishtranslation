@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 2F",
+      "place": "Kumarhane Kat 2",
       "model": "파우스트",
       "content": "Buradaki atmosfer diğer kattan oldukça farklı. Görünüyor ki başka bir Çete bu katı mesken edinmiş."
     },
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "model": "료슈",
-      "content": "Bunu niye bana bakarak dedin? Ben. Seni BOK edeceğim."
+      "content": "Bunu niye bana bakarak dedin? Seni. BOK. Edeceğim."
     },
     {
       "id": 4,
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "model": "료슈",
-      "content": "Boyununu ortadan kırmak."
+      "content": "Boynunu ortadan kırmak."
     },
     {
       "id": 6,
@@ -47,7 +47,7 @@
       "model": "흥겨운마리아치조직원",
       "teller": "Mariachi Alegre",
       "title": "Los Mariachis",
-      "content": "Ey, diğerini boşver. Bunun suratı daha sorunlu sanki, değil mi? Senin gözlerinin hangi kol olması lazım be?"
+      "content": "Ey, diğerini boşver. Bunun suratı daha sorunlu sanki, değil mi? Gözlerinin hangi kol olması gerekiyor be?"
     },
     {
       "id": 8,
@@ -57,7 +57,7 @@
     {
       "id": 9,
       "model": "료슈",
-      "content": "Emin ol, Dante."
+      "content": "Çoktan, Dante."
     }
   ]
 }
