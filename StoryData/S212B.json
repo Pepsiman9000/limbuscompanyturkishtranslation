@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 2F",
+      "place": "Kumarhane Kat 2",
       "teller": "Ağlayan Kumarbaz",
-      "title": "J Corp. Casino",
+      "title": "J Kuruluşu Kumarhanesi",
       "content": "OFFF!!! YİNE Mİ YA!!!"
     },
     {
       "id": 1,
       "teller": "Ağlayan Kumarbaz",
-      "title": "J Corp. Casino",
+      "title": "J Kuruluşu Kumarhanesi",
       "content": "Yine kaybettim, lanet olsun! Bu ne zaman sona erecek?"
     },
     {
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "teller": "Ağlayan Kumarbaz",
-      "title": "J Corp. Casino",
+      "title": "J Kuruluşu Kumarhanesi",
       "content": "A-Ama… Tüm param bu kadardı…"
     },
     {
@@ -38,12 +38,12 @@
       "model": "흥겨운마리아치조직원",
       "teller": "Mariachi Alegre",
       "title": "Los Mariachis",
-      "content": "Eğer masanın keyfini bozmaya devam edersen, senden bir pañata partisi düzenlemek zorunda kalabiliriz."
+      "content": "Eğer masanın keyfini bozmaya devam edersen, senden bi' pinyata partisi düzenlemek zorunda kalabiliriz."
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "(Uh, pañata partisi de ne?)"
+      "content": "(Uh, pinyata partisi de ne?)"
     },
     {
       "id": 7,
@@ -107,7 +107,7 @@
     {
       "id": 18,
       "model": "돈키호테",
-      "content": "Sizin ağızınız ne konuşur?!"
+      "content": "Sizin ağzınız ne konuşur?!"
     },
     {
       "id": 19,
@@ -131,7 +131,7 @@
     {
       "id": 22,
       "model": "돈키호테",
-      "content": "…Hükmünüzü nezaketsiz buluyorum ."
+      "content": "…Hükmünüzü nezaketsiz buluyorum."
     },
     {
       "id": 23,
@@ -145,7 +145,7 @@
       "model": "소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Oh, önceden özür metinimizi yazıyordum."
+      "content": "Oh, önceden özür metnimizi yazıyordum."
     }
   ]
 }
