@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 3F",
+      "place": "Kumarhane Kat 3",
       "model": "몸푸는철공회조직원",
-      "teller": "Flexing Crewman",
-      "title": "Tieqiu Crew",
+      "teller": "Hava Atan Çete Üyesi",
+      "title": "Tieqiu Çetesi",
       "content": "Hımışınızı da sağ salim yanınızda tutun, çünkü tenekeyi size fırlatacağımızda bir şeyler lazım olucak gari."
     },
     {
       "id": 1,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Az daha unutuyordum… Bunlar inanılmaz derecede bozuk ağızlarıyle bilinenler…"
     },
     {
       "id": 2,
       "model": "에피",
       "teller": "Effie",
-      "title": "LCCB",
-      "content": "Dedikodulara göre kabalıkları ve yaratıkları travma ile kendilerine rakip gördükleri Çeteleri sadece psikolojik hasar vererek altetmişler…"
+      "title": "LŞTÖ",
+      "content": "Dedikodulara göre kabalıkları ve yarattıkları travma ile kendilerine rakip gördükleri Çeteleri sadece psikolojik hasar vererek alt edebiliyorlarmış…"
     },
     {
       "id": 3,
       "model": "히스클리프",
-      "content": "Hey! Çenenizi kapatın, ben-"
+      "content": "Hey! Ben daha işimi bitirmeden konuşma-"
     },
     {
       "id": 4,
       "model": "몸푸는철공회조직원",
-      "teller": "Flexing Crewman",
-      "title": "Tieqiu Crew",
-      "content": "Kime bakıyon la dangalak? Yüzünü bize çevirme, anlaştık mı ha? Senin şu fır gibi yerinden çıkacak gözlerin ne sinir bozucu be…"
+      "teller": "Hava Atan Çete Üyesi",
+      "title": "Tieqiu Çetesi",
+      "content": "Kime bagıyon lo dangalag? Yüzünü bize çevirme, anlaştık mı gı? Senin şoo fır gibu yerinden çıkacak gözlerun sinir bozucu…"
     },
     {
       "id": 5,
       "model": "위협적인철공회조직원",
-      "teller": "Threatening Crewman",
-      "title": "Tieqiu Crew",
-      "content": "Sakin ol, abi. Az önce bu yumurta kafalalılara bi bağırdım, saksı boşmuş gibi sesim bi yankılandı var ya."
+      "teller": "Tehtit Edici Çete Üyesi",
+      "title": "Tieqiu Çetesi",
+      "content": "Sakin kal, abu. Daha geçen şoo yumurda kafalolulara bi bağırdıg, saksı boşmuş gibu sesim bi yankılandı var ya."
     },
     {
       "id": 6,
       "model": "몸푸는철공회조직원",
-      "teller": "Flexing Crewman",
-      "title": "Tieqiu Crew",
-      "content": "Hay anasını satiyim, beyinlerinde hiçbişi yok mu harbiden? Omuzlarındaki şey ne o zaman? Bok çuvalı mı?"
+      "teller": "Hava Atan Çete Üyesi",
+      "title": "Tieqiu Çetesi",
+      "content": "Hay ananu satayum, beyunlerinde hiçbişi yok mu harbi gı? Omuzlarındaku şey ne o zaman? Bok çuvalü?"
     },
     {
       "id": 7,
@@ -66,7 +66,7 @@
     {
       "id": 10,
       "model": "로쟈",
-      "content": "Ş—Şey, biraz komikti ya. N-Niye bana öyle baktığını pek bilmiyorum~"
+      "content": "Ş—Şey, komikti be. N-Niye bana öyle baktığını anlamadım~"
     },
     {
       "id": 11,
@@ -76,7 +76,7 @@
     {
       "id": 12,
       "model": "히스클리프",
-      "content": "…Hepniz YARRAĞI YEDİNİZ!!"
+      "content": "…Hepiniz YARRAĞI YEDİNİZ!!"
     }
   ]
 }
