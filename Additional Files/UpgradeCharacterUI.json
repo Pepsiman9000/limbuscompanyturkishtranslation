@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "upgrade_character_exp_up",
-      "content": "Experience\ngained."
+      "content": "TP Kazanıldı."
     },
     {
       "id": "upgrade_character_level_up",
-      "content": "Level Up"
+      "content": "Seviye Yükseldi"
     },
     {
       "id": "upgrade_character_level_max",
-      "content": "<color=#f8c200>MAX LEVEL</color>\nhas been reached."
+      "content": "<color=#f8c200>MAKS SEVİYEYE</color>\nulaşıldı."
     }
   ]
 }
