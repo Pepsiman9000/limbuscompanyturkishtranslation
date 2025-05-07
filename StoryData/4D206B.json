@@ -4,53 +4,53 @@
             "id": 0,
             "place": "Withering League of Nine Littérateurs",
             "model": "이상",
-            "content": "As it turned out, each of us wanted to protect a different point in time."
+            "content": "Görünüşe bakılırsa, her birimiz başka bir zaman aralığını korumak istiyordu."
         },
         {
             "id": 1,
             "model": "이상",
-            "content": "Some wished it to stop where it was,"
+            "content": "Bazıları olduğu yerde durmak isterken,"
         },
         {
             "id": 2,
             "model": "이상",
-            "content": "While some wished it to advance."
+            "content": "Bazıları hareket etmesini istiyordu."
         },
         {
             "id": 3,
             "model": "이상",
-            "content": "In my case..."
+            "content": "Benim durumumda ise..."
         },
         {
             "id": 4,
-            "content": "*Wham! Wham! Wham!*"
+            "content": "*Tak! Tak! Tak!*"
         },
         {
             "id": 5,
             "teller": "Class 2 Collector",
             "title": "T Corp.",
-            "content": "We have received a report that you are in possession of unauthorized technology."
+            "content": "Yasadışı teknolojilere sahip olduğunuz hakkında bir rapor aldık."
         },
         {
             "id": 6,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "I sent Young-ji a letter in advance telling him to seek refuge."
+            "content": "Young-Ji'ye kaçmasını söylemek için çoktan bir mektup yolladım."
         },
         {
             "id": 7,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "We must hide the glass window and the mirror in the basement before they can take them."
+            "content": "Onlar ulaşmadan, aynayı ve camı mahzene götürmemiz gerek."
         },
         {
             "id": 8,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "Dongrang and I will carry them to safety... I want the rest of you to hold the door while we do."
+            "content": "Dongrang ve ben onları güvenli bir yere götüreceğiz... Bu esnada kalanların kapıyı tutmasını istiyorum."
         }
     ]
 }
