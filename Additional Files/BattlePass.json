@@ -2,263 +2,263 @@
   "dataList": [
     {
       "id": "battlepass_battlepass",
-      "content": "Battle Pass"
+      "content": "Savaş Bileti"
     },
     {
       "id": "battlepass_passmission",
-      "content": "Pass Missions"
+      "content": "Bilet Görevleri"
     },
     {
       "id": "battlepass_dailymission",
-      "content": "Daily"
+      "content": "Günlük"
     },
     {
       "id": "battlepass_weeklymission",
-      "content": "Weekly"
+      "content": "Haftalık"
     },
     {
       "id": "battlepass_seasonmission",
-      "content": "Seasonal"
+      "content": "Sezonluk"
     },
     {
       "id": "battlepass_freeandpaid",
-      "content": "Paid {0} Free {1}"
+      "content": "Ücretli {0} Ücretsiz {1}"
     },
     {
       "id": "battlepass_mission_tag_normal",
-      "content": "Regular"
+      "content": "Normal"
     },
     {
       "id": "battlepass_mission_tag_battle",
-      "content": "Combat"
+      "content": "Savaş"
     },
     {
       "id": "battlepass_remain_time",
-      "content": "{0} days {1} hours left"
+      "content": "{0} gün {1} saat kaldı"
     },
     {
       "id": "battlepass_ask_purchase_limbus_pass",
-      "content": "Purchasing the Limbus Pass will give you the following benefits during {0}:"
+      "content": "{0} süresince Limbus Bileti'ni satın almak sana şu avantajları sağlar:"
     },
     {
       "id": "battlepass_limbus_pass_benefit_reward",
-      "content": "Limbus Pass Rewards Available"
+      "content": "Limbus Bileti Ödülleri Alınabilir"
     },
     {
       "id": "battlepass_limbus_pass_benefit_ex_reward",
-      "content": "Max Pass Level Reward Upgraded"
+      "content": "Maksimum Bilet Seviyesi Ödülü Yükseltildi"
     },
     {
       "id": "battlepass_level_up",
-      "content": "Pass Level-up"
+      "content": "Bilet Seviye Atlama"
     },
     {
       "id": "battlepass_level_up_ask",
-      "content": "Level up the Pass using [Paid Lunacy]?"
+      "content": "Bileti [Ücretli Lunacy] ile seviye atlatmak istiyor musun?"
     },
     {
       "id": "battlepass_level_upgrade",
-      "content": "Pass Level Up"
+      "content": "Bilet Seviye Atlama"
     },
     {
       "id": "battlepass_level_max",
-      "content": "<color=#f8c200>Max Pass Level</color> reached."
+      "content": "<color=#f8c200>Maksimum Bilet Seviyesi</color>'ne ulaşıldı."
     },
     {
       "id": "battlepass_purchase_level_up_failed",
-      "content": "Cannot Purchase Pass Level"
+      "content": "Bilet Seviyesi Satın Alınamıyor"
     },
     {
       "id": "lack_if_paid_lunacy",
-      "content": "Insufficient Paid Lunacy"
+      "content": "Yetersiz Ücretli Lunacy"
     },
     {
       "id": "remain_days_with_label",
-      "content": "{0}d left"
+      "content": "{0}g kaldı"
     },
     {
       "id": "remain_hours_with_label",
-      "content": "{0}h left"
+      "content": "{0}s kaldı"
     },
     {
       "id": "remain_minutes_with_label",
-      "content": "{0}m left"
+      "content": "{0}dk kaldı"
     },
     {
       "id": "update_progress",
-      "content": "Progress Updated"
+      "content": "İlerleme Güncellendi"
     },
     {
       "id": "able_to_acquire_ex_pass_level_reward",
-      "content": "Eligible for Max Pass Level rewards"
+      "content": "Maksimum Bilet Seviyesi ödülleri alınabilir"
     },
     {
       "id": "ask_to_use_paid_lunacy_to_level_up_pass",
-      "content": "Spend {0} Paid Lunacy to purchase Pass Levels?"
+      "content": "{0} Ücretli Lunacy harcayarak Bilet Seviyesi satın alınsın mı?"
     },
     {
       "id": "battlepass_purchase_level_up",
-      "content": "Buy Pass Levels"
+      "content": "Bilet Seviyesi Satın Al"
     },
     {
       "id": "lack_of_paid_lunacy",
-      "content": "You don’t have enough paid Lunacy."
+      "content": "Yeterli ücretli Lunacy'n yok."
     },
     {
       "id": "only_paid_lunacy_for_battlepass_levelup",
-      "content": "※ Purchasing Battle Pass Levels costs 300 Paid Lunacy."
+      "content": "※ Bilet Seviyesi satın almak 300 Ücretli Lunacy gerektirir."
     },
     {
       "id": "buy_battlepass_word",
-      "content": "Buy"
+      "content": "Satın Al"
     },
     {
       "id": "battlepass_level_ex_reward",
-      "content": "Max Pass Level Reward"
+      "content": "Maksimum Bilet Seviyesi Ödülü"
     },
     {
       "id": "battlepass_progress",
-      "content": "Battle Pass XP"
+      "content": "Savaş Bileti XP"
     },
     {
       "id": "battlepass_free",
-      "content": "Free"
+      "content": "Ücretsiz"
     },
     {
       "id": "battlepass_limbuspass",
-      "content": "Limbus Pass"
+      "content": "Limbus Bileti"
     },
     {
       "id": "battlepass_unable_levelup_by_level",
-      "content": "Max Level Reached"
+      "content": "Maksimum Seviyeye Ulaşıldı"
     },
     {
       "id": "battlepass_reward_opened_at",
-      "content": "{0} Update"
+      "content": "{0} Güncellemesinde Açıldı"
     },
     {
       "id": "battlepass_package_purchase",
-      "content": "<font=\"BebasKai SDF\">LIMBUS PASS</style> Package"
+      "content": "<font=\"BebasKai SDF\">LIMBUS BİLETİ</style> Paketi"
     },
     {
       "id": "battlepass_package_desc_level",
-      "content": "Contains various rewards including the 「Limbus Pass Package Special Banner」"
+      "content": "「Limbus Bileti Paketi Özel Afişi」 dahil çeşitli ödülleri içerir"
     },
     {
       "id": "battlepass_package_desc_banner",
-      "content": "+ [LIMBUS PASS] Activation"
+      "content": "+ [LIMBUS BİLETİ] Etkinleştirme"
     },
     {
       "id": "battlepass_package_ask_purchase",
-      "content": "Spend {0} Paid Lunacy to purchase this Package?"
+      "content": "Bu paketi satın almak için {0} Ücretli Lunacy harcansın mı?"
     },
     {
       "id": "battlepass_package_warning",
-      "content": "※ This item will be immediately used upon purchase; refund may be restricted."
+      "content": "※ Bu öğe satın alındığında hemen kullanılacaktır; iade sınırlı olabilir."
     },
     {
       "id": "battlepass_limbus_pass_benefit_ex_box_reward",
-      "content": "Receive the following Max Pass Level EX Rewards upon purchase"
+      "content": "Satın alındığında şu Maksimum Bilet Seviyesi+ Ödülleri verilir"
     },
     {
       "id": "battlepass_limbus_pass_benefit_ex_box_reward_count",
-      "content": "<size=75%>(At your Pass Level, you can obtain <style=\"highlightConverted\">{1}</style> Season {0} Nominable Egoshard Crates upon purchase)</size>"
+      "content": "<size=75%>(Geçerli Bilet Seviyende satın alındığında <style=\"highlightConverted\">{1}</style> Sezon {0} Seçilebilir Egoshard Sandığı elde edebilirsin)</size>"
     },
     {
       "id": "battlepass_select_product_popup_title",
-      "content": "Select Pass/Package"
+      "content": "Bilet/Paket Seç"
     },
     {
       "id": "only_paid_lunacy_for_battlepass_levelup_with_number",
-      "content": "※ Purchasing a Pass Level costs {0} Paid Lunacy."
+      "content": "※ Bir Bilet Seviyesi satın almak {0} Ücretli Lunacy gerektirir."
     },
     {
       "id": "battle_pass_package_button_desc",
-      "content": "Various Rewards\nIncluding the Special Banner"
+      "content": "Çeşitli Ödüller\nÖzel Afiş Dahil"
     },
     {
       "id": "battle_pass_select_popup_package_desc",
-      "content": "Various Rewards\nIncluding the Special Banner"
+      "content": "Çeşitli Ödüller\nÖzel Afiş Dahil"
     },
     {
       "id": "battle_pass_select_popup_limbus_desc",
-      "content": "◆ Unlocks Limbus Pass Rewards\n◆ Upgrades Max Pass Level EX Rewards"
+      "content": "◆ Limbus Bileti Ödüllerinin kilidini açar\n◆ Maksimum Bilet Seviyesi+ Ödüllerini yükseltir"
     },
     {
       "id": "battle_pass_package_purchase_popup_desc",
-      "content": "◆ Gain 10 Pass Levels immediately upon purchase.\n◆ Includes the following contents."
+      "content": "◆ Satın alındığında hemen 10 Bilet Seviyesi kazanırsın.\n◆ Şu içerikleri içerir:"
     },
     {
       "id": "battle_pass_limbus_purchase_popup_desc",
-      "content": "◆ Receive various rewards from the Limbus Pass.\n◆ Receive 3 [Season 3] Nominable Egoshard Crates instead of 1 from the Max Pass Level EX Rewards."
+      "content": "◆ Limbus Bileti'nden çeşitli ödüller alırsın.\n◆ Maksimum Bilet Seviyesi+ Ödüllerinden 1 yerine 3 [Sezon 3] Seçilebilir Egoshard Sandığı alırsın."
     },
     {
       "id": "battle_pass_package_button_desc_with_limbus",
-      "content": "Various Rewards\nIncluding the Special Banner\n+ [LIMBUS PASS]"
+      "content": "Çeşitli Ödüller\nÖzel Afiş Dahil\n+ [LIMBUS BİLETİ]"
     },
     {
       "id": "battle_pass_package_purchase_popup_desc_in_box",
-      "content": "- Limbus Pass Package Special Banner\n- Level Boost Ticket IV"
+      "content": "- Limbus Bileti Paketi Özel Afişi\n- Seviye Atlama Bileti IV"
     },
     {
       "id": "until_season_4_start",
-      "content": "~ Until Season 4 Update"
+      "content": "~ Sezon 4 Güncellemesine kadar"
     },
     {
       "id": "until_season_5_start",
-      "content": "Until Season 6 Update"
+      "content": "Sezon 6 Güncellemesine kadar"
     },
     {
       "id": "battlepass_ask_purchase_limbus_pass_package",
-      "content": "Purchasing the Limbus Pass Package will\ngive you the following benefits during {0}:"
+      "content": "{0} süresince Limbus Bileti Paketi'ni satın almak sana şu avantajları sağlar:"
     },
     {
       "id": "battlepass_purchase_desc_pass",
-      "content": "Various rewards included in the Limbus Pass"
+      "content": "Limbus Bileti kapsamında çeşitli ödüller"
     },
     {
       "id": "battlepass_purchase_desc_ex",
-      "content": "Receive <style=\"highlightConverted\">{1}</style> Season 5 Nominable Egoshard Crates from Max Pass Level+ Rewards instead of <style=\"highlightConverted\">{0}</style>"
+      "content": "Maksimum Bilet Seviyesi+ Ödüllerinden <style=\"highlightConverted\">{0}</style> yerine <style=\"highlightConverted\">{1}</style> Sezon 5 Seçilebilir Egoshard Sandığı alırsın"
     },
     {
       "id": "battlepass_purchase_desc_pass_level",
-      "content": "Immediately gain 10 Pass Levels upon purchase"
+      "content": "Satın alındığında anında 10 Bilet Seviyesi kazanırsın"
     },
     {
       "id": "battlepass_purchase_desc_level_ticket",
-      "content": "Level Boost Ticket V"
+      "content": "Seviye Atlama Bileti V"
     },
     {
       "id": "battlepass_purchase_desc_special_banner",
-      "content": "Limbus Pass Package Special Banner"
+      "content": "Limbus Bileti Paketi Özel Afişi"
     },
     {
       "id": "battlepass_purchase_desc_policy",
-      "content": "※ This item will be used immediately upon purchase; refund will be restricted.\n\n※ The Battle Pass is guaranteed to last [at least 90 days from the start of the Season].\nThe exact end date of the Battle Pass will be notified when the next [Guide for the upcoming Season] is posted.\nPlease note that your Battle Pass purchase date has no effect on the active duration of the Battle Pass."
+      "content": "※ Bu öğe satın alındığında hemen kullanılacaktır; iade kısıtlanacaktır.\n\n※ Savaş Bileti [Sezonun başlangıcından itibaren en az 90 gün] boyunca aktif kalacaktır.\nSavaş Bileti'nin tam bitiş tarihi, bir sonraki [Yaklaşan Sezon Rehberi] duyurusunda bildirilecektir.\nSavaş Bileti'ni ne zaman satın aldığın, aktif süresini etkilemez."
     },
     {
       "id": "owned_count",
-      "content": "{0} Owned"
+      "content": "{0} Adet"
     },
     {
       "id": "battle_pass_package_button_desc_with_limbus_2",
-      "content": "◆ Immediately gain 10 Pass LV upon purchase\n◆ Receive 2 Special Banners\n◆ Level Boost Ticket V"
+      "content": "◆ Satın alındığında hemen 10 Bilet Seviyesi kazanırsın\n◆ 2 Özel Afiş alırsın\n◆ Seviye Atlama Bileti V"
     },
     {
       "id": "battle_pass_product_limbus_desc_summary",
-      "content": "◆ Unlocks Limbus Pass Rewards\n◆ Upgrades Max Pass Level EX Rewards"
+      "content": "◆ Limbus Bileti Ödüllerinin kilidini açar\n◆ Maksimum Bilet Seviyesi+ Ödüllerini yükseltir"
     },
     {
       "id": "battle_pass_product_package_with_limbus_desc_summary",
-      "content": "◆ Season 5 Limbus Pass\n◆ Immediately gain 10 Pass LV upon purchase\n◆ Level Boost Ticket V\n◆ Limbus Package Special Banner x2"
+      "content": "◆ Sezon 5 Limbus Bileti\n◆ Satın alındığında hemen 10 Bilet Seviyesi kazanırsın\n◆ Seviye Atlama Bileti V\n◆ Limbus Paketi Özel Afişi x2"
     },
     {
       "id": "battle_pass_product_package_without_limbus_desc_summary",
-      "content": "◆ Immediately gain 10 Pass LV upon purchase\n◆ Level Boost Ticket V\n◆ Limbus Package Special Banner x2"
+      "content": "◆ Satın alındığında hemen 10 Bilet Seviyesi kazanırsın\n◆ Seviye Atlama Bileti V\n◆ Limbus Paketi Özel Afişi x2"
     },
     {
       "id": "battle_pass_sale_10",
-      "content": "10% Discount"
+      "content": "%10 İndirim"
     }
   ]
 }
