@@ -42,11 +42,11 @@
     },
     {
       "id": "missionConditionTitle_10029",
-      "content": "Anlayış Meyvesi 'Decay' Yeteneğini kullanmadan önce bastırmayı tamamla"
+      "content": "Anlayış Meyvesi 'Çürüme' Yeteneğini kullanmadan önce bastırmayı tamamla"
     },
     {
       "id": "missionConditionTitle_10030",
-      "content": "Tek bir düşmana (Unique)Yanma, Kanama, Yırtılma veya (Unique)Batma türünden 8+ kez hasar verdikten sonra bastırmayı tamamla"
+      "content": "Tek bir düşmana (Özgün)Yanma, Kanama, Yırtılma veya (Özgün)Batma türünden 8+ kez hasar verdikten sonra bastırmayı tamamla"
     },
     {
       "id": "missionConditionTitle_10031",
@@ -90,7 +90,7 @@
     },
     {
       "id": "missionConditionTitle_20030",
-      "content": "Tek bir düşmana (Unique)Yanma, Kanama, Yırtılma veya (Unique)Batma türünden 18+ kez hasar verdikten sonra bastırmayı tamamla"
+      "content": "Tek bir düşmana (Özgün)Yanma, Kanama, Yırtılma veya (Özgün)Batma türünden 18+ kez hasar verdikten sonra bastırmayı tamamla"
     },
     {
       "id": "missionConditionTitle_20031",
@@ -194,7 +194,7 @@
     },
     {
       "id": "tutorial_mainui_walpu4_03_desc_01",
-      "content": "Kolay zorluk Karşılaşmasına başlamak için kapıyı seçin. Girişte bir Enkephalin Modülü harcanır. Kolay zorlukta, Seviye 45’in altındaki tüm Atanmış Kişilikler Seviye 45’e yükseltilir. Ayrıca, Tier 3 Yükseltme/İplik Seviyesi altındaki tüm Atanmış Kişilikler ve E.G.O'lar Tier 3 Yükseltme Seviyesine yükseltilir."
+      "content": "Kolay zorluk Karşılaşmasına başlamak için kapıyı seçin. Girişte bir Enkephalin Modülü harcanır. Kolay zorlukta, Seviye 45’in altındaki tüm Atanmış Kişilikler Seviye 45’e yükseltilir. Ayrıca, Tier 3 Yükseltme/Rütbe Seviyesi altındaki tüm Atanmış Kişilikler ve E.G.O'lar Tier 3 Yükseltme Seviyesine yükseltilir."
     },
     {
       "id": "tutorial_mainui_walpu4_03_title_02",
@@ -202,7 +202,7 @@
     },
     {
       "id": "tutorial_mainui_walpu4_03_desc_02",
-      "content": "Kolay zorluk Karşılaşmasını tamamladığınızda Zor zorluk açılır. Zor zorlukta, Kişiliklerinizin mevcut Seviyeleri, Yükseltme Kademeleri ve E.G.O İplik Seviyeleri doğrudan yansıtılır."
+      "content": "Kolay zorluk Karşılaşmasını tamamladığınızda Zor zorluk açılır. Zor zorlukta, Kişiliklerinizin mevcut Seviyeleri, Yükseltme Kademeleri ve E.G.O Rütbe Seviyeleri doğrudan yansıtılır."
     },
     {
       "id": "tutorial_mainui_walpu4_04_title_01",
