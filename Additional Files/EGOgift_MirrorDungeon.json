@@ -2,9 +2,8 @@
   "dataList": [
     {
       "id": 9001,
-      "name": "Cehennemkebeleği'nin Rüyası",
-      "desc": "[Combustion] Şiddeti veya 'Unique Yanma' etkisi uygulanmış bir düşmana [Combustion] veya 'Unique Yanma' uygularken, Bütün düşmanlara rastgele toplam 3 [Combustion] şiddeti uygula.\n\nTam Öfke Rezonansı etkinleştirildiği zaman, savaşın başında bütün düşmanlara rastgele toplam 5 [Combustion] Şiddeti uygula"
-     
+      "name": "Cehennem Kelebeği'nin Rüyası",
+      "desc": "[Combustion] Şiddeti veya 'Özgün Yanma' etkisi uygulanmış bir düşmana [Combustion] veya 'Özgün Yanma' uygularken, Bütün düşmanlara rastgele toplam 3 [Combustion] şiddeti uygula.\n\nTam Öfke Rezonansı etkinleştirildiği zaman, savaşın başında bütün düşmanlara rastgele toplam 5 [Combustion] Şiddeti uygula",
       "simpleDesc": [
         {
           "abilityID": 9001,
@@ -18,8 +17,8 @@
     },
     {
       "id": 19001,
-      "name": "Cehennemkebeleği'nin Rüyası+",
-      "desc": "[Combustion] Şiddeti veya 'Unique Yanma' etkisi uygulanmış bir düşmana [Combustion] veya 'Unique Yanma' uygularken, Bütün düşmanlara rastgele toplam <style=\"upgradeHighlight\">4 [Combustion] Şiddeti</style> uygula.\n\nTam Öfke Rezonansı etkinleştirildiği zaman, savaşın başında bütün düşmanlara rastgele toplam <style=\"upgradeHighlight\">6 [Combustion] Şiddeti </style> Uygula",
+      "name": "Cehennem Kelebeği'nin Rüyası+",
+      "desc": "[Combustion] Şiddeti veya 'Özgün Yanma' etkisi uygulanmış bir düşmana [Combustion] veya 'Özgün Yanma' uygularken, Bütün düşmanlara rastgele toplam <style=\"upgradeHighlight\">4 [Combustion] Şiddeti</style> uygula.\n\nTam Öfke Rezonansı etkinleştirildiği zaman, savaşın başında bütün düşmanlara rastgele toplam <style=\"upgradeHighlight\">6 [Combustion] Şiddeti </style> Uygula",
       "simpleDesc": [
         {
           "abilityID": 19001,
@@ -34,13 +33,7 @@
     {
       "id": 29001,
       "name": "Hellterfly’s Dream++",
-      "desc": "
-      ]
-    },
-    {
-      "id": 19001,
-      "name": "Cehennemkebeleği'nin Rüyası+",
-      "desc": "[Combustion] Şiddeti veya 'Unique Yanma' etkisi uygulanmış bir düşmana [Combustion] veya 'Unique Yanma' uygularken, Bütün düşmanlara rastgele toplam <style=\"upgradeHighlight\">5 [Combustion] Şiddeti</style> uygula.\n\nTam Öfke Rezonansı etkinleştirildiği zaman, savaşın başında bütün düşmanlara rastgele toplam <style=\"upgradeHighlight\">8 [Combustion] Şiddeti </style> Uygula",
+      "desc": "[Combustion] Şiddeti veya 'Özgün Yanma' etkisi uygulanmış bir düşmana [Combustion] veya 'Özgün Yanma' uygularken, Bütün düşmanlara rastgele toplam <style=\"upgradeHighlight\">5 [Combustion] Şiddeti</style> uygula.\n\nTam Öfke Rezonansı etkinleştirildiği zaman, savaşın başında bütün düşmanlara rastgele toplam <style=\"upgradeHighlight\">8 [Combustion] Şiddeti </style> Uygula",
       "simpleDesc": [
         {
           "abilityID": 29001,
@@ -70,7 +63,7 @@
     {
       "id": 9003,
       "name": "Ashes to Ashes",
-      "desc": "Combat Start: if all enemies (or all Abnormality parts) have [Combustion] or 'Unique Burn', inflict 2 [Combustion] Potency on all enemies (or all Abnormality parts).",
+      "desc": "Combat Start: if all enemies (or all Abnormality parts) have [Combustion] or 'Özgün Burn', inflict 2 [Combustion] Potency on all enemies (or all Abnormality parts).",
       "simpleDesc": [
         {
           "abilityID": 9003,
@@ -81,7 +74,7 @@
     {
       "id": 19003,
       "name": "Ashes to Ashes+",
-      "desc": "Combat Start: <style=\"upgradeHighlight\">inflict 2 [Combustion] Potency on all enemies (or all Abnormality parts) with [Combustion] or 'Unique Burn'</style>.",
+      "desc": "Combat Start: <style=\"upgradeHighlight\">inflict 2 [Combustion] Potency on all enemies (or all Abnormality parts) with [Combustion] or 'Özgün Burn'</style>.",
       "simpleDesc": [
         {
           "abilityID": 19003,
@@ -118,7 +111,7 @@
     {
       "id": 9005,
       "name": "Wound Clerid",
-      "desc": "When hitting an enemy with a Skill that inflicts [Laceration] Potency or 'Unique Bleed', inflict 4 [Laceration] Potency.",
+      "desc": "When hitting an enemy with a Skill that inflicts [Laceration] Potency or 'Özgün Bleed', inflict 4 [Laceration] Potency.",
       "simpleDesc": [
         {
           "abilityID": 9005,
@@ -129,7 +122,7 @@
     {
       "id": 19005,
       "name": "Wound Clerid+",
-      "desc": "When <style=\"upgradeHighlight\">hitting an enemy with a Skill that inflicts [Laceration] Potency or 'Unique Bleed', or with a Wrath Affinity Skill</style>, <style=\"upgradeHighlight\">inflict 5 [Laceration] Potency</style>.",
+      "desc": "When <style=\"upgradeHighlight\">hitting an enemy with a Skill that inflicts [Laceration] Potency or 'Özgün Bleed', or with a Wrath Affinity Skill</style>, <style=\"upgradeHighlight\">inflict 5 [Laceration] Potency</style>.",
       "simpleDesc": [
         {
           "abilityID": 19005,
@@ -140,7 +133,7 @@
     {
       "id": 29005,
       "name": "Wound Clerid++",
-      "desc": "When hitting an enemy with a Skill that inflicts [Laceration] Potency or 'Unique Bleed', or with a Wrath Affinity Skill, <style=\"upgradeHighlight\">inflict 5 [Laceration] Potency and +1 [Laceration] Count</style>.",
+      "desc": "When hitting an enemy with a Skill that inflicts [Laceration] Potency or 'Özgün Bleed', or with a Wrath Affinity Skill, <style=\"upgradeHighlight\">inflict 5 [Laceration] Potency and +1 [Laceration] Count</style>.",
       "simpleDesc": [
         {
           "abilityID": 29005,
@@ -181,7 +174,7 @@
     {
       "id": 9008,
       "name": "Grimy Iron Stake",
-      "desc": "When hitting an enemy using a single-Coin Skill, inflict 1 [Laceration] Potency. Inflict 2 [DefenseDown] until the end of the next turn.\nIf the target already has [Laceration] or 'Unique Bleed', inflict 3 [Laceration] Potency instead.",
+      "desc": "When hitting an enemy using a single-Coin Skill, inflict 1 [Laceration] Potency. Inflict 2 [DefenseDown] until the end of the next turn.\nIf the target already has [Laceration] or 'Özgün Bleed', inflict 3 [Laceration] Potency instead.",
       "simpleDesc": [
         {
           "abilityID": 9008,
@@ -196,7 +189,7 @@
     {
       "id": 9009,
       "name": "Fiery Down",
-      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Unique Burn', inflict 3 [Combustion] Potency.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, (Current [Combustion] Potency on enemy) x2",
+      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Özgün Burn', inflict 3 [Combustion] Potency.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, (Current [Combustion] Potency on enemy) x2",
       "simpleDesc": [
         {
           "abilityID": 9009,
@@ -211,7 +204,7 @@
     {
       "id": 19009,
       "name": "Fiery Down+",
-      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Unique Burn', <style=\"upgradeHighlight\">inflict 4 [Combustion] Potency</style>.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, (Current [Combustion] Potency on enemy) x2",
+      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Özgün Burn', <style=\"upgradeHighlight\">inflict 4 [Combustion] Potency</style>.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, (Current [Combustion] Potency on enemy) x2",
       "simpleDesc": [
         {
           "abilityID": 19009,
@@ -226,7 +219,7 @@
     {
       "id": 29009,
       "name": "Fiery Down++",
-      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Unique Burn', inflict 4 [Combustion] Potency.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, <style=\"upgradeHighlight\">(Current [Combustion] Potency on enemy) x2.5</style>",
+      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Özgün Burn', inflict 4 [Combustion] Potency.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, <style=\"upgradeHighlight\">(Current [Combustion] Potency on enemy) x2.5</style>",
       "simpleDesc": [
         {
           "abilityID": 29009,
@@ -710,7 +703,7 @@
     {
       "id": 9029,
       "name": "Little and To-be-Naughty Plushie",
-      "desc": "Deal +10% damage against enemies with [Laceration] or 'Unique Bleed' at Combat Start\n\nTake -20% damage from enemies with [Laceration] or 'Unique Bleed' at Combat Start\n\nAllies with Pride Affinity Attack Skills deal +20% damage against enemies with [Laceration] or 'Unique Bleed' instead.\n\nAllies with Pride Affinity Attack Skills take -30% damage from enemies with [Laceration] or 'Unique Bleed' instead.",
+      "desc": "Deal +10% damage against enemies with [Laceration] or 'Özgün Bleed' at Combat Start\n\nTake -20% damage from enemies with [Laceration] or 'Özgün Bleed' at Combat Start\n\nAllies with Pride Affinity Attack Skills deal +20% damage against enemies with [Laceration] or 'Özgün Bleed' instead.\n\nAllies with Pride Affinity Attack Skills take -30% damage from enemies with [Laceration] or 'Özgün Bleed' instead.",
       "simpleDesc": [
         {
           "abilityID": 9029,
@@ -819,7 +812,7 @@
     {
       "id": 9034,
       "name": "Pinpoint Logic Circuit",
-      "desc": "When hitting an enemy with an Envy Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Unique Burn', inflict additional [Combustion] Potency by half the Skill's total Coins. (rounded up)",
+      "desc": "When hitting an enemy with an Envy Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Özgün Burn', inflict additional [Combustion] Potency by half the Skill's total Coins. (rounded up)",
       "simpleDesc": [
         {
           "abilityID": 9034,
@@ -952,7 +945,7 @@
     {
       "id": 9041,
       "name": "Red Order",
-      "desc": "Whenever an ally inflicts [Sinking] Potency, Count, or 'Unique Sinking' on enemies with Skill Effects, the ally gains 1 'Offense Level' next turn. (Max 3)\n\nAllies with Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, gain 2 'Offense Level' next turn instead. (Max 4)",
+      "desc": "Whenever an ally inflicts [Sinking] Potency, Count, or 'Özgün Sinking' on enemies with Skill Effects, the ally gains 1 'Offense Level' next turn. (Max 3)\n\nAllies with Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, gain 2 'Offense Level' next turn instead. (Max 4)",
       "simpleDesc": [
         {
           "abilityID": 9041,
@@ -967,7 +960,7 @@
     {
       "id": 19041,
       "name": "Red Order+",
-      "desc": "Whenever an ally inflicts [Sinking] Potency, Count, or 'Unique Sinking' on enemies with Skill Effects, the ally gains 1 'Offense Level' next turn. <style=\"upgradeHighlight\">(Max 4)</style>\n\nAllies with Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, gain 2 'Offense Level' next turn instead. <style=\"upgradeHighlight\">(Max 5)</style>",
+      "desc": "Whenever an ally inflicts [Sinking] Potency, Count, or 'Özgün Sinking' on enemies with Skill Effects, the ally gains 1 'Offense Level' next turn. <style=\"upgradeHighlight\">(Max 4)</style>\n\nAllies with Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, gain 2 'Offense Level' next turn instead. <style=\"upgradeHighlight\">(Max 5)</style>",
       "simpleDesc": [
         {
           "abilityID": 19041,
@@ -982,7 +975,7 @@
     {
       "id": 29041,
       "name": "Red Order++",
-      "desc": "Whenever an ally inflicts [Sinking] Potency, Count, or 'Unique Sinking' on enemies with Skill Effects, the ally <style=\"upgradeHighlight\">gains 2 'Offense Level' next turn</style>. (Max 4)\n\nAllies with Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, <style=\"upgradeHighlight\">gain 3 'Offense Level' next turn instead. (Max 6)</style>",
+      "desc": "Whenever an ally inflicts [Sinking] Potency, Count, or 'Özgün Sinking' on enemies with Skill Effects, the ally <style=\"upgradeHighlight\">gains 2 'Offense Level' next turn</style>. (Max 4)\n\nAllies with Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, <style=\"upgradeHighlight\">gain 3 'Offense Level' next turn instead. (Max 6)</style>",
       "simpleDesc": [
         {
           "abilityID": 29041,
@@ -997,7 +990,7 @@
     {
       "id": 9042,
       "name": "Smokes and Wires",
-      "desc": "Against enemies, allies inflict x2 [Laceration] Potency with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose 2 Speed next turn.",
+      "desc": "Against enemies, allies inflict x2 [Laceration] Potency with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Özgün Bleed' lose 2 Speed next turn.",
       "simpleDesc": [
         {
           "abilityID": 9042,
@@ -1012,7 +1005,7 @@
     {
       "id": 19042,
       "name": "Smokes and Wires+",
-      "desc": "Against enemies, allies inflict x2 [Laceration] Potency with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose <style=\"upgradeHighlight\">3</style> Speed next turn.",
+      "desc": "Against enemies, allies inflict x2 [Laceration] Potency with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Özgün Bleed' lose <style=\"upgradeHighlight\">3</style> Speed next turn.",
       "simpleDesc": [
         {
           "abilityID": 19042,
@@ -1027,7 +1020,7 @@
     {
       "id": 29042,
       "name": "Smokes and Wires++",
-      "desc": "Against enemies, allies inflict <style=\"upgradeHighlight\">x2.5 [Laceration] Potency</style> with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose 3 Speed next turn.",
+      "desc": "Against enemies, allies inflict <style=\"upgradeHighlight\">x2.5 [Laceration] Potency</style> with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Özgün Bleed' lose 3 Speed next turn.",
       "simpleDesc": [
         {
           "abilityID": 29042,
@@ -1042,7 +1035,7 @@
     {
       "id": 9043,
       "name": "Employee Card",
-      "desc": "When activating Wrath Absolute Resonance or using a Skill that gains or applies [Charge] Count or 'Unique Charge', all allies gain +3 [Charge] Count at the next Turn Start. (Once per turn)",
+      "desc": "When activating Wrath Absolute Resonance or using a Skill that gains or applies [Charge] Count or 'Özgün Charge', all allies gain +3 [Charge] Count at the next Turn Start. (Once per turn)",
       "simpleDesc": [
         {
           "abilityID": 9043,
@@ -1053,7 +1046,7 @@
     {
       "id": 19043,
       "name": "Employee Card+",
-      "desc": "When activating <style=\"upgradeHighlight\">Wrath Resonance</style> or using a Skill that gains or applies [Charge] Count or 'Unique Charge', all allies gain +3 [Charge] Count at the next Turn Start. (Once per turn)",
+      "desc": "When activating <style=\"upgradeHighlight\">Wrath Resonance</style> or using a Skill that gains or applies [Charge] Count or 'Özgün Charge', all allies gain +3 [Charge] Count at the next Turn Start. (Once per turn)",
       "simpleDesc": [
         {
           "abilityID": 19043,
@@ -1064,7 +1057,7 @@
     {
       "id": 29043,
       "name": "Employee Card++",
-      "desc": "When activating Wrath Resonance or using a Skill that gains or applies [Charge] Count or 'Unique Charge', all allies <style=\"upgradeHighlight\">gain +4 [Charge] Count</style> at the next Turn Start. (Once per turn)",
+      "desc": "When activating Wrath Resonance or using a Skill that gains or applies [Charge] Count or 'Özgün Charge', all allies <style=\"upgradeHighlight\">gain +4 [Charge] Count</style> at the next Turn Start. (Once per turn)",
       "simpleDesc": [
         {
           "abilityID": 29043,
@@ -1225,7 +1218,7 @@
     {
       "id": 9048,
       "name": "Rusted Cutting Knife",
-      "desc": "When inflicting [Laceration] Potency or 'Unique Bleed' with Skill effects against non-Staggered enemies, inflict 1 [Laceration] Potency and +1 [Laceration] Count.\n\nIf the Skill's Affinity was Lust, inflict 3 [Laceration] Potency and +1 [Laceration] Count instead.",
+      "desc": "When inflicting [Laceration] Potency or 'Özgün Bleed' with Skill effects against non-Staggered enemies, inflict 1 [Laceration] Potency and +1 [Laceration] Count.\n\nIf the Skill's Affinity was Lust, inflict 3 [Laceration] Potency and +1 [Laceration] Count instead.",
       "simpleDesc": [
         {
           "abilityID": 9048,
@@ -1240,7 +1233,7 @@
     {
       "id": 19048,
       "name": "Rusted Cutting Knife+",
-      "desc": "When inflicting [Laceration] Potency or 'Unique Bleed' with Skill effects, inflict <style=\"upgradeHighlight\">2 [Laceration] Potency</style> and +1 [Laceration] Count.\n\nIf the Skill's Affinity was Lust, inflict 3 [Laceration] Potency and +1 [Laceration] Count instead.",
+      "desc": "When inflicting [Laceration] Potency or 'Özgün Bleed' with Skill effects, inflict <style=\"upgradeHighlight\">2 [Laceration] Potency</style> and +1 [Laceration] Count.\n\nIf the Skill's Affinity was Lust, inflict 3 [Laceration] Potency and +1 [Laceration] Count instead.",
       "simpleDesc": [
         {
           "abilityID": 19048,
@@ -1255,7 +1248,7 @@
     {
       "id": 29048,
       "name": "Rusted Cutting Knife++",
-      "desc": "When inflicting [Laceration] Potency or 'Unique Bleed' with Skill effects, inflict <style=\"upgradeHighlight\">3 [Laceration] Potency</style> and +1 [Laceration] Count.\n\nIf the Skill's Affinity was Lust, inflict 3 [Laceration] Potency and <style=\"upgradeHighlight\">+2 [Laceration] Count</style> instead.",
+      "desc": "When inflicting [Laceration] Potency or 'Özgün Bleed' with Skill effects, inflict <style=\"upgradeHighlight\">3 [Laceration] Potency</style> and +1 [Laceration] Count.\n\nIf the Skill's Affinity was Lust, inflict 3 [Laceration] Potency and <style=\"upgradeHighlight\">+2 [Laceration] Count</style> instead.",
       "simpleDesc": [
         {
           "abilityID": 29048,
@@ -1270,7 +1263,7 @@
     {
       "id": 9049,
       "name": "Thorny Path",
-      "desc": "When hitting and dealing HP damage to an enemy with a Skill that inflicts [Sinking] Potency or 'Unique Sinking', inflict 3 [Sinking] Potency and +2 [Sinking] Count at Turn End. (Once per enemy per turn)\n\nWhen activating Lust Absolute Resonance, inflict 2 [Sinking] Potency and +3 [Sinking] Count to all enemies(for Abnormalities, a random Part) at Combat Start.",
+      "desc": "When hitting and dealing HP damage to an enemy with a Skill that inflicts [Sinking] Potency or 'Özgün Sinking', inflict 3 [Sinking] Potency and +2 [Sinking] Count at Turn End. (Once per enemy per turn)\n\nWhen activating Lust Absolute Resonance, inflict 2 [Sinking] Potency and +3 [Sinking] Count to all enemies(for Abnormalities, a random Part) at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 9049,
@@ -1285,7 +1278,7 @@
     {
       "id": 19049,
       "name": "Thorny Path+",
-      "desc": "When hitting and dealing HP damage to an enemy with a Skill that inflicts [Sinking] Potency or 'Unique Sinking', inflict 3 [Sinking] Potency and +2 [Sinking] Count at Turn End. (Once per enemy per turn)\n\nWhen <style=\"upgradeHighlight\">activating Lust Resonance</style>, inflict 2 [Sinking] Potency and +3 [Sinking] Count to all enemies(for Abnormalities, a random Part) at Combat Start.",
+      "desc": "When hitting and dealing HP damage to an enemy with a Skill that inflicts [Sinking] Potency or 'Özgün Sinking', inflict 3 [Sinking] Potency and +2 [Sinking] Count at Turn End. (Once per enemy per turn)\n\nWhen <style=\"upgradeHighlight\">activating Lust Resonance</style>, inflict 2 [Sinking] Potency and +3 [Sinking] Count to all enemies(for Abnormalities, a random Part) at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 19049,
@@ -1300,7 +1293,7 @@
     {
       "id": 29049,
       "name": "Thorny Path++",
-      "desc": "When hitting and dealing HP damage to an enemy with a Skill that inflicts [Sinking] Potency or 'Unique Sinking', inflict <style=\"upgradeHighlight\">4 [Sinking] Potency and +3 [Sinking] Count</style> at Turn End. (Once per enemy per turn)\n\nWhen activating Lust Resonance, inflict 3 [Sinking] Potency and +3 [Sinking] Count to all enemies(for Abnormalities, a random Part) at Combat Start.",
+      "desc": "When hitting and dealing HP damage to an enemy with a Skill that inflicts [Sinking] Potency or 'Özgün Sinking', inflict <style=\"upgradeHighlight\">4 [Sinking] Potency and +3 [Sinking] Count</style> at Turn End. (Once per enemy per turn)\n\nWhen activating Lust Resonance, inflict 3 [Sinking] Potency and +3 [Sinking] Count to all enemies(for Abnormalities, a random Part) at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 29049,
@@ -1405,7 +1398,7 @@
     {
       "id": 9052,
       "name": "Portable Battery Socket",
-      "desc": "Turn Start: Two random allies gain +2 [Charge] Count. (Prioritizes Identities with Skills that gain [Charge] Count or 'Unique Charge')\n\nWhen activating Sloth Absolute Resonance, one random ally gains +3 [Charge] Count at Combat Start.",
+      "desc": "Turn Start: Two random allies gain +2 [Charge] Count. (Prioritizes Identities with Skills that gain [Charge] Count or 'Özgün Charge')\n\nWhen activating Sloth Absolute Resonance, one random ally gains +3 [Charge] Count at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 9052,
@@ -1420,7 +1413,7 @@
     {
       "id": 19052,
       "name": "Portable Battery Socket+",
-      "desc": "Turn Start: two random allies gain <style=\"upgradeHighlight\">+3 [Charge] Count</style>. (Prioritizes Identities with Skills that gain [Charge] Count or 'Unique Charge')\n\nWhen <style=\"upgradeHighlight\">activating Sloth Resonance</style>, one random ally gains +3 [Charge] Count at Combat Start.",
+      "desc": "Turn Start: two random allies gain <style=\"upgradeHighlight\">+3 [Charge] Count</style>. (Prioritizes Identities with Skills that gain [Charge] Count or 'Özgün Charge')\n\nWhen <style=\"upgradeHighlight\">activating Sloth Resonance</style>, one random ally gains +3 [Charge] Count at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 19052,
@@ -1435,7 +1428,7 @@
     {
       "id": 29052,
       "name": "Portable Battery Socket++",
-      "desc": "Turn Start: <style=\"upgradeHighlight\">three random allies</style> gain +3 [Charge] Count. (Prioritizes Identities with Skills that gain [Charge] Count or 'Unique Charge')\n\nWhen activating Sloth Resonance, one random ally <style=\"upgradeHighlight\">gains +5 [Charge] Count</style> at Combat Start.",
+      "desc": "Turn Start: <style=\"upgradeHighlight\">three random allies</style> gain +3 [Charge] Count. (Prioritizes Identities with Skills that gain [Charge] Count or 'Özgün Charge')\n\nWhen activating Sloth Resonance, one random ally <style=\"upgradeHighlight\">gains +5 [Charge] Count</style> at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 29052,
@@ -1675,7 +1668,7 @@
     {
       "id": 9062,
       "name": "Curriculum Vitae",
-      "desc": "Turn End: allies with 7+ ([Charge] Count + 'Unique Charge') gain 1 [Agility] next turn.\n\nIf the ally has Gloom Affinity Skills, gain 2 [Agility] and 1 [ResultEnhancement] next turn instead.",
+      "desc": "Turn End: allies with 7+ ([Charge] Count + 'Özgün Charge') gain 1 [Agility] next turn.\n\nIf the ally has Gloom Affinity Skills, gain 2 [Agility] and 1 [ResultEnhancement] next turn instead.",
       "simpleDesc": [
         {
           "abilityID": 9062,
@@ -1690,7 +1683,7 @@
     {
       "id": 19062,
       "name": "Curriculum Vitae+",
-      "desc": "Turn End: allies with 7+ ([Charge] Count + 'Unique Charge') gain <style=\"upgradeHighlight\">2 [Agility] next turn.</style>\n\nIf the ally has Gloom Affinity Skills, gain <style=\"upgradeHighlight\">3 [Agility]</style> and 1 [ResultEnhancement] next turn instead.",
+      "desc": "Turn End: allies with 7+ ([Charge] Count + 'Özgün Charge') gain <style=\"upgradeHighlight\">2 [Agility] next turn.</style>\n\nIf the ally has Gloom Affinity Skills, gain <style=\"upgradeHighlight\">3 [Agility]</style> and 1 [ResultEnhancement] next turn instead.",
       "simpleDesc": [
         {
           "abilityID": 19062,
@@ -1705,7 +1698,7 @@
     {
       "id": 29062,
       "name": "Curriculum Vitae++",
-      "desc": "Turn End: allies with 7+ ([Charge] Count + 'Unique Charge') gain <style=\"upgradeHighlight\">3 [Agility] next turn.</style>\n\nIf the ally has Gloom Affinity Skills, gain <style=\"upgradeHighlight\">4 [Agility]</style> and 1 [ResultEnhancement] next turn instead.",
+      "desc": "Turn End: allies with 7+ ([Charge] Count + 'Özgün Charge') gain <style=\"upgradeHighlight\">3 [Agility] next turn.</style>\n\nIf the ally has Gloom Affinity Skills, gain <style=\"upgradeHighlight\">4 [Agility]</style> and 1 [ResultEnhancement] next turn instead.",
       "simpleDesc": [
         {
           "abilityID": 29062,
@@ -1892,7 +1885,7 @@
     {
       "id": 9069,
       "name": "Wrist Guards",
-      "desc": "Turn Start: allies with 5+ ([Charge] Count + 'Unique Charge') gain 1 [AttackDmgUp].\n\nIf the ally has Pride Affinity Attack Skills, gain 2 [AttackDmgUp] instead.",
+      "desc": "Turn Start: allies with 5+ ([Charge] Count + 'Özgün Charge') gain 1 [AttackDmgUp].\n\nIf the ally has Pride Affinity Attack Skills, gain 2 [AttackDmgUp] instead.",
       "simpleDesc": [
         {
           "abilityID": 9069,
@@ -1907,7 +1900,7 @@
     {
       "id": 19069,
       "name": "Wrist Guards+",
-      "desc": "Turn Start: allies with <style=\"upgradeHighlight\">3+ ([Charge] Count + 'Unique Charge')</style> gain 1 [AttackDmgUp].\n\nIf the ally has Pride Affinity Attack Skills, gain 2 [AttackDmgUp] instead.",
+      "desc": "Turn Start: allies with <style=\"upgradeHighlight\">3+ ([Charge] Count + 'Özgün Charge')</style> gain 1 [AttackDmgUp].\n\nIf the ally has Pride Affinity Attack Skills, gain 2 [AttackDmgUp] instead.",
       "simpleDesc": [
         {
           "abilityID": 19069,
@@ -1922,7 +1915,7 @@
     {
       "id": 29069,
       "name": "Wrist Guards++",
-      "desc": "Turn Start: allies with <style=\"upgradeHighlight\">([Charge] Count + 'Unique Charge') gain 2 [AttackDmgUp]</style>.\n\nIf the ally has Pride Affinity Attack Skills, gain <style=\"upgradeHighlight\">3 [AttackDmgUp] instead.</style>",
+      "desc": "Turn Start: allies with <style=\"upgradeHighlight\">([Charge] Count + 'Özgün Charge') gain 2 [AttackDmgUp]</style>.\n\nIf the ally has Pride Affinity Attack Skills, gain <style=\"upgradeHighlight\">3 [AttackDmgUp] instead.</style>",
       "simpleDesc": [
         {
           "abilityID": 29069,
@@ -2357,7 +2350,7 @@
     {
       "id": 9088,
       "name": "Soothe the Dead",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Combustion] Potency, Count, or 'Unique Burn' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: inflict 3 [Combustion] Count to all enemies (or all Abnormality parts); randomly inflict a total of 15 [Combustion] Potency between all enemies (or all Abnormality parts).\n\nTo Skills that inflict [Combustion] Potency, Count, or 'Unique Burn': Final Power +1, Coin Power +1, inflicted [Combustion] Potency +1, inflicted [Combustion] Count +1.\n\nWhen winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Unique Burn', inflict (# of remaining Coins + 1) [Combustion] Potency to the target enemy.",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Combustion] Potency, Count, or 'Özgün Burn' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: inflict 3 [Combustion] Count to all enemies (or all Abnormality parts); randomly inflict a total of 15 [Combustion] Potency between all enemies (or all Abnormality parts).\n\nTo Skills that inflict [Combustion] Potency, Count, or 'Özgün Burn': Final Power +1, Coin Power +1, inflicted [Combustion] Potency +1, inflicted [Combustion] Count +1.\n\nWhen winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Özgün Burn', inflict (# of remaining Coins + 1) [Combustion] Potency to the target enemy.",
       "simpleDesc": [
         {
           "abilityID": 9088,
@@ -2421,7 +2414,7 @@
     {
       "id": 9090,
       "name": "Bloody Mist",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] Potency, Count, or 'Unique Bleed' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nAllies inflict double the amount of [Laceration] Potency and Count with Skill effects against enemies.\n\nThe ally highest in the Deployment order) Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed': Coin Power +2, damage dealt +100%. If the enemy attacked by or Clashed with the said ally dies, inflict the remaining [Laceration] Potency on the enemy randomly between all enemies. (for Focused Encounters, Parts)\n\nCoin Power +1 to all Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed'",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] Potency, Count, or 'Özgün Bleed' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nAllies inflict double the amount of [Laceration] Potency and Count with Skill effects against enemies.\n\nThe ally highest in the Deployment order) Skills that inflict [Laceration] Potency, Count, or 'Özgün Bleed': Coin Power +2, damage dealt +100%. If the enemy attacked by or Clashed with the said ally dies, inflict the remaining [Laceration] Potency on the enemy randomly between all enemies. (for Focused Encounters, Parts)\n\nCoin Power +1 to all Skills that inflict [Laceration] Potency, Count, or 'Özgün Bleed'",
       "simpleDesc": [
         {
           "abilityID": 9090,
@@ -2433,7 +2426,7 @@
         },
         {
           "abilityID": 90902,
-          "simpleDesc": "Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed' gain Coin Power +1."
+          "simpleDesc": "Skills that inflict [Laceration] Potency, Count, or 'Özgün Bleed' gain Coin Power +1."
         },
         {
           "abilityID": 90903,
@@ -2477,7 +2470,7 @@
     {
       "id": 9092,
       "name": "Coupled Oscillation",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor'. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: Inflict 5 [Vibration] and +5 [Vibration] Count to all enemies. (or all Abnormality parts)\n\nApply 5 [Vibration] Potency and 2 [Vulnerable] this turn and next turn to enemies affected by [VibrationExplosion]. (activates once per Attack Skill that triggers [VibrationExplosion])\n\nAfter triggering 3 [VibrationExplosion] to a target this turn, Stagger the target at the next Turn Start and add a new Stagger Threshold at 66% and 33% marks of the target's current HP. (once per Encounter)\n\nWhen triggering [Switch_Vibration] or [FusionVibration], inflict 1 [Vulnerable] (3 times per turn)",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Özgün Tremor'. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: Inflict 5 [Vibration] and +5 [Vibration] Count to all enemies. (or all Abnormality parts)\n\nApply 5 [Vibration] Potency and 2 [Vulnerable] this turn and next turn to enemies affected by [VibrationExplosion]. (activates once per Attack Skill that triggers [VibrationExplosion])\n\nAfter triggering 3 [VibrationExplosion] to a target this turn, Stagger the target at the next Turn Start and add a new Stagger Threshold at 66% and 33% marks of the target's current HP. (once per Encounter)\n\nWhen triggering [Switch_Vibration] or [FusionVibration], inflict 1 [Vulnerable] (3 times per turn)",
       "simpleDesc": [
         {
           "abilityID": 9092,
@@ -2581,7 +2574,7 @@
     {
       "id": 9096,
       "name": "Black Sheet Music",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Sinking] Potency, Count, or 'Unique Sinking'. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nOn Hit against an enemy with a Skill: inflict 5 [Sinking] Potency.\n\nTurn Start: enemies or Parts with [Sinking] regain ([Sinking] Count each enemy lost On Hit last turn / 2) [Sinking] Count.\n\nIf the Base Attack Skill hits against a target with less than 0 SP(for enemies without SP, if they have 1.2+ Gloom Resist.), inflict ([Sinking] Potency / 10) Gloom Affinity damage (min 1, this effect can activate up to 10 times per turn)",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Sinking] Potency, Count, or 'Özgün Sinking'. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nOn Hit against an enemy with a Skill: inflict 5 [Sinking] Potency.\n\nTurn Start: enemies or Parts with [Sinking] regain ([Sinking] Count each enemy lost On Hit last turn / 2) [Sinking] Count.\n\nIf the Base Attack Skill hits against a target with less than 0 SP(for enemies without SP, if they have 1.2+ Gloom Resist.), inflict ([Sinking] Potency / 10) Gloom Affinity damage (min 1, this effect can activate up to 10 times per turn)",
       "simpleDesc": [
         {
           "abilityID": 9096,
@@ -2697,7 +2690,7 @@
     {
       "id": 9100,
       "name": "T-1 Perpetual Motion Machine",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge'. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: all allies gain 7 [ChargeForceField].\n\nTurn Start: all allies gain (([Charge] Count + 'Unique Charge')/5 +1) Damage Up. (max 9, rounded up)\n\nEach Identity gains (total [Charge] Count consumed by using Attack Skills during this Encounter / 4) Offense Level Up at Turn Start. (maxes out after consuming 40 [Charge] Count)\n\nEach Identity gains 1 [Charge] every time they consume 20 [Charge] Count. (2 times per Identity per Encounter; Unique Charge does not interact with this effect)\n\nAfter Attack of a Skill that consumed [Charge] Count on self: inflict ([Charge] - 1) [DefenseDown] (5 times per enemy per turn; can inflict up to 3 [DefenseDown] at a time)",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Özgün Charge'. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: all allies gain 7 [ChargeForceField].\n\nTurn Start: all allies gain (([Charge] Count + 'Özgün Charge')/5 +1) Damage Up. (max 9, rounded up)\n\nEach Identity gains (total [Charge] Count consumed by using Attack Skills during this Encounter / 4) Offense Level Up at Turn Start. (maxes out after consuming 40 [Charge] Count)\n\nEach Identity gains 1 [Charge] every time they consume 20 [Charge] Count. (2 times per Identity per Encounter; Özgün Charge does not interact with this effect)\n\nAfter Attack of a Skill that consumed [Charge] Count on self: inflict ([Charge] - 1) [DefenseDown] (5 times per enemy per turn; can inflict up to 3 [DefenseDown] at a time)",
       "simpleDesc": [
         {
           "abilityID": 9100,
@@ -2724,7 +2717,7 @@
     {
       "id": 9101,
       "name": "Melted Paraffin",
-      "desc": "When winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Unique Burn', inflict (# of remaining Coins/2) [Combustion] Potency on the target.",
+      "desc": "When winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Özgün Burn', inflict (# of remaining Coins/2) [Combustion] Potency on the target.",
       "simpleDesc": [
         {
           "abilityID": 9101,
@@ -2735,7 +2728,7 @@
     {
       "id": 19101,
       "name": "Melted Paraffin+",
-      "desc": "When winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Unique Burn', inflict <style=\"upgradeHighlight\">(# of remaining Coins/2 + 1)</style> [Combustion] Potency on the target.",
+      "desc": "When winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Özgün Burn', inflict <style=\"upgradeHighlight\">(# of remaining Coins/2 + 1)</style> [Combustion] Potency on the target.",
       "simpleDesc": [
         {
           "abilityID": 19101,
@@ -2746,7 +2739,7 @@
     {
       "id": 29101,
       "name": "Melted Paraffin++",
-      "desc": "When winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Unique Burn', inflict <style=\"upgradeHighlight\">(# of remaining Coins + 1)</style> [Combustion] Potency on the target.",
+      "desc": "When winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Özgün Burn', inflict <style=\"upgradeHighlight\">(# of remaining Coins + 1)</style> [Combustion] Potency on the target.",
       "simpleDesc": [
         {
           "abilityID": 29101,
@@ -2757,7 +2750,7 @@
     {
       "id": 9102,
       "name": "Polarization",
-      "desc": "If the ally has 30 or more SP than the target, deal +7.5% more damage with Skills that inflict [Combustion] Potency, Count, or 'Unique Burn'. (For enemies without SP, their 'SP' counts as 0)",
+      "desc": "If the ally has 30 or more SP than the target, deal +7.5% more damage with Skills that inflict [Combustion] Potency, Count, or 'Özgün Burn'. (For enemies without SP, their 'SP' counts as 0)",
       "simpleDesc": [
         {
           "abilityID": 9102,
@@ -2768,7 +2761,7 @@
     {
       "id": 19102,
       "name": "Polarization+",
-      "desc": "If the ally has <style=\"upgradeHighlight\">25</style> or more SP than the target, deal <style=\"upgradeHighlight\">+12.5%</style> more damage with Skills that inflict [Combustion] Potency, Count, or 'Unique Burn'. (For enemies without SP, their 'SP' counts as 0)",
+      "desc": "If the ally has <style=\"upgradeHighlight\">25</style> or more SP than the target, deal <style=\"upgradeHighlight\">+12.5%</style> more damage with Skills that inflict [Combustion] Potency, Count, or 'Özgün Burn'. (For enemies without SP, their 'SP' counts as 0)",
       "simpleDesc": [
         {
           "abilityID": 19102,
@@ -2779,7 +2772,7 @@
     {
       "id": 29102,
       "name": "Polarization++",
-      "desc": "If the ally has <style=\"upgradeHighlight\">15</style> or more SP than the target, deal <style=\"upgradeHighlight\">+20%</style> more damage with Skills that inflict [Combustion] Potency, Count, or 'Unique Burn'. (For enemies without SP, their 'SP' counts as 0)",
+      "desc": "If the ally has <style=\"upgradeHighlight\">15</style> or more SP than the target, deal <style=\"upgradeHighlight\">+20%</style> more damage with Skills that inflict [Combustion] Potency, Count, or 'Özgün Burn'. (For enemies without SP, their 'SP' counts as 0)",
       "simpleDesc": [
         {
           "abilityID": 29102,
@@ -2790,51 +2783,51 @@
     {
       "id": 9103,
       "name": "Pain of Stifled Rage",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain 1 [Agility] and 2 [AttackUp] instead. (once per Skill, 2 times per turn)",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nWhen inflicting [Combustion] or 'Özgün Burn' with a Skill effect to an enemy that has [Combustion] or 'Özgün Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain 1 [Agility] and 2 [AttackUp] instead. (once per Skill, 2 times per turn)",
       "simpleDesc": [
         {
           "abilityID": 9103,
-          "simpleDesc": "When inflicting [Combustion] or 'Unique Burn' with a Skill effect, gain 1 [Agility] next turn."
+          "simpleDesc": "When inflicting [Combustion] or 'Özgün Burn' with a Skill effect, gain 1 [Agility] next turn."
         }
       ]
     },
     {
       "id": 19103,
       "name": "Pain of Stifled Rage+",
-      "desc": "[Effects apply only to #1, #2, <style=\"upgradeHighlight\">and #3</style> Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain <style=\"upgradeHighlight\">2 [Agility]</style> and 2 [AttackUp] instead. (once per Skill, 2 times per turn)",
+      "desc": "[Effects apply only to #1, #2, <style=\"upgradeHighlight\">and #3</style> Deployed Identities]\n\nWhen inflicting [Combustion] or 'Özgün Burn' with a Skill effect to an enemy that has [Combustion] or 'Özgün Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain <style=\"upgradeHighlight\">2 [Agility]</style> and 2 [AttackUp] instead. (once per Skill, 2 times per turn)",
       "simpleDesc": [
         {
           "abilityID": 19103,
-          "simpleDesc": "When inflicting [Combustion] or 'Unique Burn' with a Skill effect, gain 1 [Agility] next turn."
+          "simpleDesc": "When inflicting [Combustion] or 'Özgün Burn' with a Skill effect, gain 1 [Agility] next turn."
         }
       ]
     },
     {
       "id": 29103,
       "name": "Pain of Stifled Rage++",
-      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain 2 [Agility], 2 [AttackUp], and <style=\"upgradeHighlight\">2 [AttackDmgUp]</style> instead. (once per Skill, 2 times per turn)",
+      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nWhen inflicting [Combustion] or 'Özgün Burn' with a Skill effect to an enemy that has [Combustion] or 'Özgün Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain 2 [Agility], 2 [AttackUp], and <style=\"upgradeHighlight\">2 [AttackDmgUp]</style> instead. (once per Skill, 2 times per turn)",
       "simpleDesc": [
         {
           "abilityID": 29103,
-          "simpleDesc": "When inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn."
+          "simpleDesc": "When inflicting [Combustion] or 'Özgün Burn' with a Skill effect to an enemy that has [Combustion] or 'Özgün Burn', gain 1 [Agility] next turn."
         }
       ]
     },
     {
       "id": 9104,
       "name": "Ardent Flower",
-      "desc": "[Effect applies only to #1, #2 Deployed Identities]\n\nWhen an ally attacks an enemy, if the target has ([Combustion] Potency on self)% or less HP(for Abnormalities, Core HP), deal +50% more damage with Attack Skills that inflict [Combustion] Potency, Count, or 'Unique Burn'.",
+      "desc": "[Effect applies only to #1, #2 Deployed Identities]\n\nWhen an ally attacks an enemy, if the target has ([Combustion] Potency on self)% or less HP(for Abnormalities, Core HP), deal +50% more damage with Attack Skills that inflict [Combustion] Potency, Count, or 'Özgün Burn'.",
       "simpleDesc": [
         {
           "abilityID": 9104,
-          "simpleDesc": "If conditions are met: deal +50% more damage with Attack Skills that inflict [Combustion] Potency, Count, or 'Unique Burn'"
+          "simpleDesc": "If conditions are met: deal +50% more damage with Attack Skills that inflict [Combustion] Potency, Count, or 'Özgün Burn'"
         }
       ]
     },
     {
       "id": 9105,
       "name": "Fragment of Hellfire",
-      "desc": "Activates when using E.G.O Skills that apply [Combustion] Potency, Count, or 'Unique Burn'.\n\nGain Final Power equal to (Wrath E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nWrath E.G.O Skills: Inflict additional [Combustion] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal +(Atk Weight/# of attack targets x 20)% more damage.",
+      "desc": "Activates when using E.G.O Skills that apply [Combustion] Potency, Count, or 'Özgün Burn'.\n\nGain Final Power equal to (Wrath E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nWrath E.G.O Skills: Inflict additional [Combustion] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal +(Atk Weight/# of attack targets x 20)% more damage.",
       "simpleDesc": [
         {
           "abilityID": 9105,
@@ -2882,40 +2875,40 @@
     {
       "id": 9107,
       "name": "Tangled Bundle",
-      "desc": "When the ally with the fastest Speed deals damage to an enemy with a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', deal +12.5% more damage.",
+      "desc": "When the ally with the fastest Speed deals damage to an enemy with a Skill that inflicts [Laceration] Potency, Count, or 'Özgün Bleed', deal +12.5% more damage.",
       "simpleDesc": [
         {
           "abilityID": 9107,
-          "simpleDesc": "When dealing damage to an enemy with a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', deal +12.5% more damage"
+          "simpleDesc": "When dealing damage to an enemy with a Skill that inflicts [Laceration] Potency, Count, or 'Özgün Bleed', deal +12.5% more damage"
         }
       ]
     },
     {
       "id": 19107,
       "name": "Tangled Bundle+",
-      "desc": "When <style=\"upgradeHighlight\">2</style> allies with the fastest Speed deals damage to an enemy with a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', deal +15% more damage.",
+      "desc": "When <style=\"upgradeHighlight\">2</style> allies with the fastest Speed deals damage to an enemy with a Skill that inflicts [Laceration] Potency, Count, or 'Özgün Bleed', deal +15% more damage.",
       "simpleDesc": [
         {
           "abilityID": 19107,
-          "simpleDesc": "When dealing damage to an enemy with a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', deal +15% more damage"
+          "simpleDesc": "When dealing damage to an enemy with a Skill that inflicts [Laceration] Potency, Count, or 'Özgün Bleed', deal +15% more damage"
         }
       ]
     },
     {
       "id": 29107,
       "name": "Tangled Bundle++",
-      "desc": "When <style=\"upgradeHighlight\">3</style> allies with the fastest Speed deals damage to an enemy with a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', deal <style=\"upgradeHighlight\">+20%</style> more damage.",
+      "desc": "When <style=\"upgradeHighlight\">3</style> allies with the fastest Speed deals damage to an enemy with a Skill that inflicts [Laceration] Potency, Count, or 'Özgün Bleed', deal <style=\"upgradeHighlight\">+20%</style> more damage.",
       "simpleDesc": [
         {
           "abilityID": 29107,
-          "simpleDesc": "When dealing damage to an enemy with a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', deal +20% more damage"
+          "simpleDesc": "When dealing damage to an enemy with a Skill that inflicts [Laceration] Potency, Count, or 'Özgün Bleed', deal +20% more damage"
         }
       ]
     },
     {
       "id": 9108,
       "name": "Awe",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nWhen using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', and if the main target has 7+ [Laceration] Count, deal +10% more damage",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nWhen using a Skill that inflicts [Laceration] Potency, Count, or 'Özgün Bleed', and if the main target has 7+ [Laceration] Count, deal +10% more damage",
       "simpleDesc": [
         {
           "abilityID": 9108,
@@ -2926,7 +2919,7 @@
     {
       "id": 19108,
       "name": "Awe+",
-      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nWhen using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', and if the main target has 5+ [Laceration] Count, deal <style=\"upgradeHighlight\">+15%</style> more damage",
+      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nWhen using a Skill that inflicts [Laceration] Potency, Count, or 'Özgün Bleed', and if the main target has 5+ [Laceration] Count, deal <style=\"upgradeHighlight\">+15%</style> more damage",
       "simpleDesc": [
         {
           "abilityID": 19108,
@@ -2937,7 +2930,7 @@
     {
       "id": 29108,
       "name": "Awe++",
-      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nWhen using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', and if the main target has 3+ [Laceration] Count, deal <style=\"upgradeHighlight\">+20%</style> more damage",
+      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nWhen using a Skill that inflicts [Laceration] Potency, Count, or 'Özgün Bleed', and if the main target has 3+ [Laceration] Count, deal <style=\"upgradeHighlight\">+20%</style> more damage",
       "simpleDesc": [
         {
           "abilityID": 29108,
@@ -2948,7 +2941,7 @@
     {
       "id": 9109,
       "name": "Respite",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nActivates upon Clash Win using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed'\n\nInflict +(# of remaining Coins/2) [Laceration] Count to the target, and gain [AttackUp] equal to that value next turn\n\nFor Skills with 2- Coins, use (# of remaining Coins+3) to calculate instead",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nActivates upon Clash Win using a Skill that inflicts [Laceration] Potency, Count, or 'Özgün Bleed'\n\nInflict +(# of remaining Coins/2) [Laceration] Count to the target, and gain [AttackUp] equal to that value next turn\n\nFor Skills with 2- Coins, use (# of remaining Coins+3) to calculate instead",
       "simpleDesc": [
         {
           "abilityID": 9109,
@@ -2963,7 +2956,7 @@
     {
       "id": 9110,
       "name": "Fragment of Allurement",
-      "desc": "Activates when using E.G.O Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed'.\n\nGain Final Power equal to (Lust E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nLust E.G.O Skills: Inflict additional [Laceration] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal additional Lust damage equal to [Laceration] Potency on target",
+      "desc": "Activates when using E.G.O Skills that inflict [Laceration] Potency, Count, or 'Özgün Bleed'.\n\nGain Final Power equal to (Lust E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nLust E.G.O Skills: Inflict additional [Laceration] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal additional Lust damage equal to [Laceration] Potency on target",
       "simpleDesc": [
         {
           "abilityID": 9110,
@@ -3135,7 +3128,7 @@
     {
       "id": 9116,
       "name": "Fragment of Inertia",
-      "desc": "Activates when using E.G.O Skills that apply [Vibration] Potency, Count, or 'Unique Tremor'.\n\nGain Final Power equal to (Sloth E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nSloth E.G.O Skills: Inflict additional [Vibration] Count Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +([Vibration] Potency on target x 1.5)% more damage",
+      "desc": "Activates when using E.G.O Skills that apply [Vibration] Potency, Count, or 'Özgün Tremor'.\n\nGain Final Power equal to (Sloth E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nSloth E.G.O Skills: Inflict additional [Vibration] Count Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +([Vibration] Potency on target x 1.5)% more damage",
       "simpleDesc": [
         {
           "abilityID": 9116,
@@ -3251,7 +3244,7 @@
     {
       "id": 9122,
       "name": "Eldtree Snare",
-      "desc": "Attack Skills(except E.G.O Skills) that inflict [Sinking] Potency, Count, or 'Unique Sinking' deal +5% more damage.\n\nFor Skills with 2- Coins, gain Clash Power +1 and deal +10% more damage instead.",
+      "desc": "Attack Skills(except E.G.O Skills) that inflict [Sinking] Potency, Count, or 'Özgün Sinking' deal +5% more damage.\n\nFor Skills with 2- Coins, gain Clash Power +1 and deal +10% more damage instead.",
       "simpleDesc": [
         {
           "abilityID": 9122,
@@ -3266,7 +3259,7 @@
     {
       "id": 19122,
       "name": "Eldtree Snare+",
-      "desc": "Attack Skills(except E.G.O Skills) that inflict [Sinking] Potency, Count, or 'Unique Sinking' deal +<style=\"upgradeHighlight\">7.5</style>% more damage.\n\nFor Skills with 2- Coins, gain Clash Power +1 and deal +<style=\"upgradeHighlight\">12.5</style>% more damage instead.",
+      "desc": "Attack Skills(except E.G.O Skills) that inflict [Sinking] Potency, Count, or 'Özgün Sinking' deal +<style=\"upgradeHighlight\">7.5</style>% more damage.\n\nFor Skills with 2- Coins, gain Clash Power +1 and deal +<style=\"upgradeHighlight\">12.5</style>% more damage instead.",
       "simpleDesc": [
         {
           "abilityID": 19122,
@@ -3281,7 +3274,7 @@
     {
       "id": 29122,
       "name": "Eldtree Snare++",
-      "desc": "Attack Skills(except E.G.O Skills) that inflict [Sinking] Potency, Count, or 'Unique Sinking' deal +<style=\"upgradeHighlight\">10</style>% more damage.\n\nFor Skills with 2- Coins, gain Clash Power +1 and deal +<style=\"upgradeHighlight\">15</style>% more damage instead.",
+      "desc": "Attack Skills(except E.G.O Skills) that inflict [Sinking] Potency, Count, or 'Özgün Sinking' deal +<style=\"upgradeHighlight\">10</style>% more damage.\n\nFor Skills with 2- Coins, gain Clash Power +1 and deal +<style=\"upgradeHighlight\">15</style>% more damage instead.",
       "simpleDesc": [
         {
           "abilityID": 29122,
@@ -3296,7 +3289,7 @@
     {
       "id": 9123,
       "name": "Rags",
-      "desc": "Allies with Attack Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking' heal 5 additional SP(once per turn) upon Clash Win; if at max SP, deal +7.5% more damage.\n\nWhen the said allies use a minus Coin Skill(except E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(amount of lost SP)% more damage; if already at less than -15 SP, deal +15% more damage.",
+      "desc": "Allies with Attack Skills that inflict [Sinking] Potency, Count, or 'Özgün Sinking' heal 5 additional SP(once per turn) upon Clash Win; if at max SP, deal +7.5% more damage.\n\nWhen the said allies use a minus Coin Skill(except E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(amount of lost SP)% more damage; if already at less than -15 SP, deal +15% more damage.",
       "simpleDesc": [
         {
           "abilityID": 9123,
@@ -3311,7 +3304,7 @@
     {
       "id": 19123,
       "name": "Rags+",
-      "desc": "Allies with Attack Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking' heal <style=\"upgradeHighlight\">6</style> additional SP(once per turn) upon Clash Win; if at max SP, deal +<style=\"upgradeHighlight\">10</style>% more damage.\n\nWhen the said allies use a minus Coin Skill(except E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(amount of lost SP <style=\"upgradeHighlight\">+ 5</style>)% more damage; if already at less than -15 SP, deal +<style=\"upgradeHighlight\">20</style>% more damage.",
+      "desc": "Allies with Attack Skills that inflict [Sinking] Potency, Count, or 'Özgün Sinking' heal <style=\"upgradeHighlight\">6</style> additional SP(once per turn) upon Clash Win; if at max SP, deal +<style=\"upgradeHighlight\">10</style>% more damage.\n\nWhen the said allies use a minus Coin Skill(except E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(amount of lost SP <style=\"upgradeHighlight\">+ 5</style>)% more damage; if already at less than -15 SP, deal +<style=\"upgradeHighlight\">20</style>% more damage.",
       "simpleDesc": [
         {
           "abilityID": 19123,
@@ -3326,7 +3319,7 @@
     {
       "id": 29123,
       "name": "Rags++",
-      "desc": "Allies with Attack Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking' heal <style=\"upgradeHighlight\">7</style> additional SP(once per turn) upon Clash Win; if at max SP, deal +<style=\"upgradeHighlight\">12.5</style>% more damage.\n\nWhen the said allies use a minus Coin Skill(except E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(SP lost <style=\"upgradeHighlight\">+ 10</style>)% more damage; if already at less than -15 SP, deal +<style=\"upgradeHighlight\">25</style>% more damage.",
+      "desc": "Allies with Attack Skills that inflict [Sinking] Potency, Count, or 'Özgün Sinking' heal <style=\"upgradeHighlight\">7</style> additional SP(once per turn) upon Clash Win; if at max SP, deal +<style=\"upgradeHighlight\">12.5</style>% more damage.\n\nWhen the said allies use a minus Coin Skill(except E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(SP lost <style=\"upgradeHighlight\">+ 10</style>)% more damage; if already at less than -15 SP, deal +<style=\"upgradeHighlight\">25</style>% more damage.",
       "simpleDesc": [
         {
           "abilityID": 29123,
@@ -3341,7 +3334,7 @@
     {
       "id": 9124,
       "name": "Grandeur",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency, Count, or 'Unique Sinking' against targets with 10+ ([Sinking] Potency + Count), inflict 2 [Sinking] Potency and +2 [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict 4 [Sinking] Potency and +2 [Sinking] Count instead (once per turn per Identity)",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency, Count, or 'Özgün Sinking' against targets with 10+ ([Sinking] Potency + Count), inflict 2 [Sinking] Potency and +2 [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict 4 [Sinking] Potency and +2 [Sinking] Count instead (once per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 9124,
@@ -3352,7 +3345,7 @@
     {
       "id": 19124,
       "name": "Grandeur+",
-      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency, Count, or 'Unique Sinking' against targets with <style=\"upgradeHighlight\">8</style>+ ([Sinking] Potency + Count), inflict <style=\"upgradeHighlight\">3</style> [Sinking] Potency and +2 [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict <style=\"upgradeHighlight\">5</style> [Sinking] Potency and +2 [Sinking] Count instead (once per turn per Identity)",
+      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency, Count, or 'Özgün Sinking' against targets with <style=\"upgradeHighlight\">8</style>+ ([Sinking] Potency + Count), inflict <style=\"upgradeHighlight\">3</style> [Sinking] Potency and +2 [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict <style=\"upgradeHighlight\">5</style> [Sinking] Potency and +2 [Sinking] Count instead (once per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 19124,
@@ -3363,7 +3356,7 @@
     {
       "id": 29124,
       "name": "Grandeur++",
-      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency, Count, or 'Unique Sinking' against targets with <style=\"upgradeHighlight\">5</style>+ ([Sinking] Potency + Count), inflict 3 [Sinking] Potency and <style=\"upgradeHighlight\">+3</style> [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict 5 [Sinking] Potency and <style=\"upgradeHighlight\">+3</style> [Sinking] Count instead (once per turn per Identity)",
+      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency, Count, or 'Özgün Sinking' against targets with <style=\"upgradeHighlight\">5</style>+ ([Sinking] Potency + Count), inflict 3 [Sinking] Potency and <style=\"upgradeHighlight\">+3</style> [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict 5 [Sinking] Potency and <style=\"upgradeHighlight\">+3</style> [Sinking] Count instead (once per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 29124,
@@ -3374,7 +3367,7 @@
     {
       "id": 9125,
       "name": "Distant Star",
-      "desc": "When activating the [Sinking] effect(including 'Unique Sinking') on the target with an On Hit effect from a Base Attack Skill that inflicts or gains [Sinking] Potency, [Sinking] Count, or 'Unique Sinking', heal 3 SP at Turn End (2 times per turn per Identity)\n\nIf the said unit was at 45 SP at Turn Start, the effect changes to the following: when activating the [Sinking] effect(including 'Unique Sinking') on the target with an On Hit effect with a Base Attack Skill, inflict +2 [Sinking] Count on the target (2 times per turn per Identity)",
+      "desc": "When activating the [Sinking] effect(including 'Özgün Sinking') on the target with an On Hit effect from a Base Attack Skill that inflicts or gains [Sinking] Potency, [Sinking] Count, or 'Özgün Sinking', heal 3 SP at Turn End (2 times per turn per Identity)\n\nIf the said unit was at 45 SP at Turn Start, the effect changes to the following: when activating the [Sinking] effect(including 'Özgün Sinking') on the target with an On Hit effect with a Base Attack Skill, inflict +2 [Sinking] Count on the target (2 times per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 9124,
@@ -3385,7 +3378,7 @@
     {
       "id": 9126,
       "name": "Fragment of Decay",
-      "desc": "Activates when using E.G.O Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking'.\n\nGain Final Power equal to (Gloom E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nGloom E.G.O Skills: Inflict additional [Sinking] Count Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +(SP consumed to activate E.G.O Skill x 2.5)% more damage.",
+      "desc": "Activates when using E.G.O Skills that inflict [Sinking] Potency, Count, or 'Özgün Sinking'.\n\nGain Final Power equal to (Gloom E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nGloom E.G.O Skills: Inflict additional [Sinking] Count Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +(SP consumed to activate E.G.O Skill x 2.5)% more damage.",
       "simpleDesc": [
         {
           "abilityID": 9126,
@@ -3578,7 +3571,7 @@
     {
       "id": 9133,
       "name": "Uncapped Defibrilator",
-      "desc": "Turn End: heal HP and SP equal to the sum of [Charge] Count and 'Unique Charge' consumed by Attack Skills this turn.\n\nIf this unit has 50%- remaining HP, boost the heal amount by x1.5.",
+      "desc": "Turn End: heal HP and SP equal to the sum of [Charge] Count and 'Özgün Charge' consumed by Attack Skills this turn.\n\nIf this unit has 50%- remaining HP, boost the heal amount by x1.5.",
       "simpleDesc": [
         {
           "abilityID": 9133,
@@ -3589,7 +3582,7 @@
     {
       "id": 19133,
       "name": "Uncapped Defibrilator+",
-      "desc": "Turn End: heal HP and SP equal to <style=\"upgradeHighlight\">(the sum of [Charge] Count and 'Unique Charge' consumed by Attack Skills this turn + 1)</style>.\n\nIf this unit has 50%- remaining HP, boost the heal amount by <style=\"upgradeHighlight\">x2</style>.",
+      "desc": "Turn End: heal HP and SP equal to <style=\"upgradeHighlight\">(the sum of [Charge] Count and 'Özgün Charge' consumed by Attack Skills this turn + 1)</style>.\n\nIf this unit has 50%- remaining HP, boost the heal amount by <style=\"upgradeHighlight\">x2</style>.",
       "simpleDesc": [
         {
           "abilityID": 19133,
@@ -3600,7 +3593,7 @@
     {
       "id": 29133,
       "name": "Uncapped Defibrilator++",
-      "desc": "Turn End: heal HP and SP equal to (the sum of [Charge] Count and 'Unique Charge' consumed by Attack Skills this turn <style=\"upgradeHighlight\">+ 2</style>).\n\nIf this unit has <style=\"upgradeHighlight\">75</style>%- remaining HP, boost the heal amount by x2.",
+      "desc": "Turn End: heal HP and SP equal to (the sum of [Charge] Count and 'Özgün Charge' consumed by Attack Skills this turn <style=\"upgradeHighlight\">+ 2</style>).\n\nIf this unit has <style=\"upgradeHighlight\">75</style>%- remaining HP, boost the heal amount by x2.",
       "simpleDesc": [
         {
           "abilityID": 29133,
@@ -3611,7 +3604,7 @@
     {
       "id": 9134,
       "name": "Patrolling Flashlight",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals +10% more damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply 2 [ChargeForceField] next turn.",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Özgün Charge', the Identity's Skill 1 gains Clash Power +1 and deals +10% more damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply 2 [ChargeForceField] next turn.",
       "simpleDesc": [
         {
           "abilityID": 9134,
@@ -3626,7 +3619,7 @@
     {
       "id": 19134,
       "name": "Patrolling Flashlight+",
-      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals <style=\"upgradeHighlight\">+15</style>% more damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply <style=\"upgradeHighlight\">3</style> [ChargeForceField] next turn.",
+      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Özgün Charge', the Identity's Skill 1 gains Clash Power +1 and deals <style=\"upgradeHighlight\">+15</style>% more damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply <style=\"upgradeHighlight\">3</style> [ChargeForceField] next turn.",
       "simpleDesc": [
         {
           "abilityID": 19134,
@@ -3641,7 +3634,7 @@
     {
       "id": 29134,
       "name": "Patrolling Flashlight++",
-      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals <style=\"upgradeHighlight\">+25</style>% more damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply <style=\"upgradeHighlight\">4</style> [ChargeForceField] next turn.",
+      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Özgün Charge', the Identity's Skill 1 gains Clash Power +1 and deals <style=\"upgradeHighlight\">+25</style>% more damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply <style=\"upgradeHighlight\">4</style> [ChargeForceField] next turn.",
       "simpleDesc": [
         {
           "abilityID": 29134,
@@ -3656,11 +3649,11 @@
     {
       "id": 9135,
       "name": "Imitative Generator",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nActivates when the unit has 10+ ([Charge] Count + 'Unique Charge') at Turn Start.\n\nCoin Power +1 to Skill 3 that gains or consumes [Charge] Count or 'Unique Charge'.\n\nIf the said Skill has less than 5 Base Power, deal +25% more damage; if it has 5+ Base Power, gain an additional Coin Power +1.",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nActivates when the unit has 10+ ([Charge] Count + 'Özgün Charge') at Turn Start.\n\nCoin Power +1 to Skill 3 that gains or consumes [Charge] Count or 'Özgün Charge'.\n\nIf the said Skill has less than 5 Base Power, deal +25% more damage; if it has 5+ Base Power, gain an additional Coin Power +1.",
       "simpleDesc": [
         {
           "abilityID": 9135,
-          "simpleDesc": "Coin Power +1 to Skill 3 that consumes [Charge] Count or 'Unique Charge'"
+          "simpleDesc": "Coin Power +1 to Skill 3 that consumes [Charge] Count or 'Özgün Charge'"
         },
         {
           "abilityID": 91351,
@@ -3671,7 +3664,7 @@
     {
       "id": 9136,
       "name": "Fragment of Friction",
-      "desc": "Activates when using E.G.O Awakening Skills that gain or consume [Charge] Count or 'Unique Charge'.\n\nGain Final Power equal to (Envy E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nEnvy E.G.O Skills: gain additional [Charge] Count Before Attack(ZAYIN gains +2 Count, TETH gains +3 Count, HE gains +4 Count, and so on), and deal +(([Charge] Count on self + 'Unique Charge') x 5)% more damage. (200% max)",
+      "desc": "Activates when using E.G.O Awakening Skills that gain or consume [Charge] Count or 'Özgün Charge'.\n\nGain Final Power equal to (Envy E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nEnvy E.G.O Skills: gain additional [Charge] Count Before Attack(ZAYIN gains +2 Count, TETH gains +3 Count, HE gains +4 Count, and so on), and deal +(([Charge] Count on self + 'Özgün Charge') x 5)% more damage. (200% max)",
       "simpleDesc": [
         {
           "abilityID": 9136,
@@ -4374,7 +4367,7 @@
     {
       "id": 9155,
       "name": "Decamillennial Stewpot",
-      "desc": "Skills that inflict [Combustion] Potency, Count, or 'Unique Burn' gain Clash Power +1.",
+      "desc": "Skills that inflict [Combustion] Potency, Count, or 'Özgün Burn' gain Clash Power +1.",
       "simpleDesc": [
         {
           "abilityID": 9155,
@@ -4385,7 +4378,7 @@
     {
       "id": 9157,
       "name": "Secret Cookbook",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Combustion] Potency, Count, or 'Unique Burn' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nSkills that inflict [Combustion] Potency, Count, or 'Unique Burn': Final Power +1\n\nOn Clash Win with Skills that inflict [Combustion] Potency, Count, or 'Unique Burn': inflict ((# of remaining Coins / 2) +1) [Combustion] Potency on the target",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Combustion] Potency, Count, or 'Özgün Burn' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nSkills that inflict [Combustion] Potency, Count, or 'Özgün Burn': Final Power +1\n\nOn Clash Win with Skills that inflict [Combustion] Potency, Count, or 'Özgün Burn': inflict ((# of remaining Coins / 2) +1) [Combustion] Potency on the target",
       "simpleDesc": [
         {
           "abilityID": 9157,
@@ -4400,7 +4393,7 @@
     {
       "id": 9159,
       "name": "Millarca",
-      "desc": "Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed' gain Clash Power +1.",
+      "desc": "Skills that inflict [Laceration] Potency, Count, or 'Özgün Bleed' gain Clash Power +1.",
       "simpleDesc": [
         {
           "abilityID": 9159,
@@ -4411,7 +4404,7 @@
     {
       "id": 9161,
       "name": "Devotion",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] Potency, Count, or 'Unique Bleed' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\n1 ally with the fastest Speed) Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed': Coin Power +1, damage dealt +50%\n\nFinal Power +1 to all Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed'.",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] Potency, Count, or 'Özgün Bleed' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\n1 ally with the fastest Speed) Skills that inflict [Laceration] Potency, Count, or 'Özgün Bleed': Coin Power +1, damage dealt +50%\n\nFinal Power +1 to all Skills that inflict [Laceration] Potency, Count, or 'Özgün Bleed'.",
       "simpleDesc": [
         {
           "abilityID": 9161,
@@ -4419,14 +4412,14 @@
         },
         {
           "abilityID": 91611,
-          "simpleDesc": "Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed' gain Final Power +1."
+          "simpleDesc": "Skills that inflict [Laceration] Potency, Count, or 'Özgün Bleed' gain Final Power +1."
         }
       ]
     },
     {
       "id": 9165,
       "name": "Interlocked Cogs",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor'. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nWhen [VibrationExplosion] triggers on a target for the 6th time this turn, add an additional Stagger Threshold at 0% mark of their current HP (once per Encounter)\n\nInflict 1 [Vulnerable] when triggering [Switch_Vibration] or [FusionVibration] (once per turn)",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Özgün Tremor'. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nWhen [VibrationExplosion] triggers on a target for the 6th time this turn, add an additional Stagger Threshold at 0% mark of their current HP (once per Encounter)\n\nInflict 1 [Vulnerable] when triggering [Switch_Vibration] or [FusionVibration] (once per turn)",
       "simpleDesc": [
         {
           "abilityID": 9165,
@@ -4456,7 +4449,7 @@
     {
       "id": 9174,
       "name": "Tangled Bones",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Sinking] Potency, Count, or 'Unique Sinking'. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nTurn Start: enemies with [Sinking](for Abnormalities, all Parts) regain ([Sinking] Count lost on hit last turn / 3) [Sinking] Count.\n\nIf the Base Attack Skill hits against a target with less than 0 SP(for enemies without SP, if they have 1.5+ Gloom Resist.), inflict ([Sinking] Potency / 10) Gloom Affinity damage (min 1, 10 times per turn for this effect)",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Sinking] Potency, Count, or 'Özgün Sinking'. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nTurn Start: enemies with [Sinking](for Abnormalities, all Parts) regain ([Sinking] Count lost on hit last turn / 3) [Sinking] Count.\n\nIf the Base Attack Skill hits against a target with less than 0 SP(for enemies without SP, if they have 1.5+ Gloom Resist.), inflict ([Sinking] Potency / 10) Gloom Affinity damage (min 1, 10 times per turn for this effect)",
       "simpleDesc": [
         {
           "abilityID": 9174,
@@ -4497,7 +4490,7 @@
     {
       "id": 9182,
       "name": "T-1B Octagonal Bolt",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge'. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nTurn Start: all allies gain (([Charge] Count + 'Unique Charge') / 10) [AttackDmgUp]. (max 2, rounded up)\n\nTurn End: allies without [ChargeForceField] gain 1 [ChargeForceField].\n\nEach Identity gains 1 [Charge] Potency every time they consume 20 [Charge] Count. (2 times per Identity per Encounter; Unique Charge does not interact with this effect)",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Özgün Charge'. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nTurn Start: all allies gain (([Charge] Count + 'Özgün Charge') / 10) [AttackDmgUp]. (max 2, rounded up)\n\nTurn End: allies without [ChargeForceField] gain 1 [ChargeForceField].\n\nEach Identity gains 1 [Charge] Potency every time they consume 20 [Charge] Count. (2 times per Identity per Encounter; Özgün Charge does not interact with this effect)",
       "simpleDesc": [
         {
           "abilityID": 9182,
@@ -4775,7 +4768,7 @@
     {
       "id": 9196,
       "name": "Broken Greatsword",
-      "desc": "Slash Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Slash base Attack Skills this turn. (max 3)\n\nAllies with Slash Attack Type for all of their base Attack Skills gain 2 [SlashDamageUp] at Turn Start. (except for Empowered Skills or Skills that need unique conditionals)\n\nWhen using Guard(except Power Guard), gain 1 [Protection] and 3 [DefenseUp] (once per Identity per turn). When, in a single turn, an allied Identity takes 2 instances of HP or Shield HP damage by getting attacked by enemy's single-target Attack Skill, gain 1 [DefenseUp] next turn (max 3)\n\nAt Turn Start, Zwei Association Identities gain 2 [Enhancement] and 1 [SlashResultUp]; then, gain 2 [DefenseUp] for every other Zwei Association Identity (max 8)",
+      "desc": "Slash Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Slash base Attack Skills this turn. (max 3)\n\nAllies with Slash Attack Type for all of their base Attack Skills gain 2 [SlashDamageUp] at Turn Start. (except for Empowered Skills or Skills that need Özgün conditionals)\n\nWhen using Guard(except Power Guard), gain 1 [Protection] and 3 [DefenseUp] (once per Identity per turn). When, in a single turn, an allied Identity takes 2 instances of HP or Shield HP damage by getting attacked by enemy's single-target Attack Skill, gain 1 [DefenseUp] next turn (max 3)\n\nAt Turn Start, Zwei Association Identities gain 2 [Enhancement] and 1 [SlashResultUp]; then, gain 2 [DefenseUp] for every other Zwei Association Identity (max 8)",
       "simpleDesc": [
         {
           "abilityID": 9196,
@@ -4899,7 +4892,7 @@
     {
       "id": 9200,
       "name": "Dueling Manual Book 3",
-      "desc": "Pierce Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Pierce base Attack Skills this turn. (max 3)\n\nAllies with Pierce Attack Type for all of their base Attack Skills gain 2 [PenetrateDamageUp] at Turn Start. (except for Empowered Skills or Skills that need unique conditionals)\n\nEvade Skill Power +2. Every time an allied Identity successfully Evades 2 times within a single turn, they gain 1 [AttackDmgUp] next turn (max 3)\n\nAt Turn Start, Cinq Association Identities gain 1 [PenetrateResultUp] and 2 [PenetrateDamageUp]; if a Cinq Association Identity dealt damage On Hit against an enemy inflicted by their 'Declared Duel', 'Nerve Strike', or 'Focused Attack', gain 2 [PenetrateDamageUp] and 1 [Agility] next turn. (once per Identity per turn)",
+      "desc": "Pierce Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Pierce base Attack Skills this turn. (max 3)\n\nAllies with Pierce Attack Type for all of their base Attack Skills gain 2 [PenetrateDamageUp] at Turn Start. (except for Empowered Skills or Skills that need Özgün conditionals)\n\nEvade Skill Power +2. Every time an allied Identity successfully Evades 2 times within a single turn, they gain 1 [AttackDmgUp] next turn (max 3)\n\nAt Turn Start, Cinq Association Identities gain 1 [PenetrateResultUp] and 2 [PenetrateDamageUp]; if a Cinq Association Identity dealt damage On Hit against an enemy inflicted by their 'Declared Duel', 'Nerve Strike', or 'Focused Attack', gain 2 [PenetrateDamageUp] and 1 [Agility] next turn. (once per Identity per turn)",
       "simpleDesc": [
         {
           "abilityID": 9200,
@@ -4997,7 +4990,7 @@
     {
       "id": 9204,
       "name": "The Book of Vengeance",
-      "desc": "Blunt Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Blunt base Attack Skills this turn. (max 3)\n\nAllies with Blunt Attack Type for all of their base Attack Skills gain 2 [HitDamageUp] at Turn Start. (except for Empowered Skills or Skills that need unique conditionals)\n\nWhen using a Counter Skill(except Power Counters), gain 7.5% of this unit's max HP as Shield HP and deal +20% more damage. Cannot be Staggered by damage when using a Counter Skill (once per Identity per Encounter)\n\nAt Turn Start, The Middle Identities gain 1 [HitResultUp] and 2 [Endurance]; when The Middle Identity uses a Counter Skill, the above Counter Skill enhancement activates twice per Encounter and deals +40% more damage instead.",
+      "desc": "Blunt Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Blunt base Attack Skills this turn. (max 3)\n\nAllies with Blunt Attack Type for all of their base Attack Skills gain 2 [HitDamageUp] at Turn Start. (except for Empowered Skills or Skills that need Özgün conditionals)\n\nWhen using a Counter Skill(except Power Counters), gain 7.5% of this unit's max HP as Shield HP and deal +20% more damage. Cannot be Staggered by damage when using a Counter Skill (once per Identity per Encounter)\n\nAt Turn Start, The Middle Identities gain 1 [HitResultUp] and 2 [Endurance]; when The Middle Identity uses a Counter Skill, the above Counter Skill enhancement activates twice per Encounter and deals +40% more damage instead.",
       "simpleDesc": [
         {
           "abilityID": 9204,
