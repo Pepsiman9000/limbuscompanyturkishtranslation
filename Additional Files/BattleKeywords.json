@@ -305,8 +305,8 @@
     },
     {
       "id": "HitResistUp",
-      "name": "Künt Direnci Artışı",
-      "desc": "Künt Direncini yük sayısına göre düşür.\n(Yük başına 0.1)"
+      "name": "Darbe Direnci Artışı",
+      "desc": "Darbe Direncini yük sayısına göre düşür.\n(Yük başına 0.1)"
     },
     {
       "id": "SlashDamageUp",
@@ -320,8 +320,8 @@
     },
     {
       "id": "HitDamageUp",
-      "name": "Künt Hasarı Artışı",
-      "desc": "Bu etkinin Miktarına göre bir turluğuna Künt yetenekler ile daha fazla hasar ver. (Maks 10)"
+      "name": "Darbe Hasarı Artışı",
+      "desc": "Bu etkinin Miktarına göre bir turluğuna Darbe yetenekler ile daha fazla hasar ver. (Maks 10)"
     },
     {
       "id": "SlashResistDown",
@@ -335,8 +335,8 @@
     },
     {
       "id": "HitResistDown",
-      "name": "Künt Direnci Azalışı",
-      "desc": "Künt Direncini yük sayısına göre artır.\n(Yük başına 0.1)"
+      "name": "Darbe Direnci Azalışı",
+      "desc": "Darbe Direncini yük sayısına göre artır.\n(Yük başına 0.1)"
     },
     {
       "id": "SlashDamageDown",
@@ -350,8 +350,8 @@
     },
     {
       "id": "HitDamageDown",
-      "name": "Künt Hasarı Azalışı",
-      "desc": "Bu etkinin Miktarına göre bir turluğuna Künt yetenekler ile daha az hasar ver."
+      "name": "Darbe Hasarı Azalışı",
+      "desc": "Bu etkinin Miktarına göre bir turluğuna Darbe yetenekler ile daha az hasar ver."
     },
     {
       "id": "CrimsonResistDown",
@@ -505,8 +505,8 @@
     },
     {
       "id": "Bullet",
-      "name": "Ammo",
-      "desc": "Spent by certain skills.\nSome attacks cancel if lacking Ammo."
+      "name": "Mermi",
+      "desc": "Bazı Yetenekler tarafından kullanılır.\nEğer Mermin yoksa, bazı saldırılar iptal olur."
     },
     {
       "id": "Meursault_Last_Remodeling",
