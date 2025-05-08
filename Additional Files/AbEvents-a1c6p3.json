@@ -42,45 +42,43 @@
       ]
     },
     {
-      "id": 817302,
-      "title": "",
-      "prevDesc": "",
-      "eventDesc": "\"What is... happening...?\"\n\nA frail, desperate voice echoes. The voice shudders so terribly.\n\n\"This is not at all what I wished for, no...\"\n\nI carefully ask the voice a question.\n\n\"<So all of this is...>\"\n\n\"I never wanted Heathcliff who exists for Catherine and only Catherine...\"\n\n... I don't think she can hear our voices.\n\n\"All I wanted... was for every Heathcliff to be happy...\"\n\n\"All I wanted... was to kill every existence of myself...\"\n\n\"Please, someone... help me.\"\n\n\"Can anyone hear me?!\"",
-      "behaveDesc": "Shout. Shout that we can hear her.",
-      "successDesc": [
-        "\"This is...\"\n\nThe warm light of the Golden Bough begins emanating from somewhere.\n\n\"Heathcliff?! Is that you?\"\n\n\"Y-yeah, Cathy! I'm back! I'm...\"\n\nSorrow. Joy. Wrath. Obsession... I can feel the storm of emotions raging within Heathcliff.\n\n\"Oh... Yet all is silent... I cannot hear his voice...\"\n\nThe same emotions can be felt from Catherine's voice.\n\n\"Bloody hell...\"\n\nCold slowly takes over the warmth as it grows weaker.\n\nI can no longer hear Catherine's voice.\n\n\"Tsk. I knew that it won't be this easy.\"\n\nBut Heathcliff refuses to let disappointment hold him back. Instead, he forges on with determination.\n\n... The other Sinners follow suit, prepared for battle."
-      ],
-      "failureDesc": [
-        "\"<I don't think she can hear us...>\"\n\nHeathcliff and I shouted as hard as we could, but none of our words reached her.\n\nIt is complete silence, save for Catherine's quiet weeping.\n\n\"... That's okay. I didn't think it'd be this easy.\"\n\n\"But that... that is her voice. I'm certain of it.\"\n\n\"I'll shout and shout until she hears me. I'll shout that I'll never run again.\"\n\nHeathcliff grits his teeth, determined. The other Sinners form a line alongside him, invigorated by his resolve.\n\nYeah. We can still do this."
-      ]
-    },
-    {
-      "id": 817304,
-      "title": "",
-      "prevDesc": "",
-      "eventDesc": "\"Cathy, I...!\"\n\nJust as Heathcliff began to speak, a shrill cry tears through our heads.\n\n\"Catherine!!! Do not obstruct me now!!!\"\n\n\"We promised, didn't we? We promised to kill all of us so that Heathcliff may find happiness!!!\"\n\nThat cutting voice is tinged with an odd warmth, like a different voice.\n\n\"No, I...\"\n\nMaybe the two Catherines are vying for control.\n\nOne of her collosal hands are twitching and stumbling.\n\n... Maybe this is our chance to neutralize that hand.",
-      "behaveDesc": "Who will step forth?",
-      "successDesc": [
-        "[{0}] immediately knew what I was going for, and leapt toward the hand.\n\n\"T-this can't be...!\"\n\nGood. We caught her off guard... and neutralized the hand.\n\nI instinctively knew...\n\n... that we were so, so close.",
-        "\"I know exactly what you mean...!\"\n\nHeathcliff wears the most serious expression I've seen from him as he rushes toward the great hand.\n\n\"Agh, Heathcliff...!\"\n\n\"Give my Cathy back... There's so much that I have to tell her...!\"\n\nHeathcliff's sudden assault took the hand completely off guard, successfully neutralizing it.\n\nI instinctively knew...\n\n... that we were so, so close."
-      ],
-      "failureDesc": [
-        "[{0}] immediately knew what I was going for, and leapt toward the hand.\n\n\"BEGONE!!!\"\n\nPerhaps someone she deemed to be irrelevant stood out even more in that chaos.\n\n{0} barely managed to duck under the swinging hand.",
-        "\"I know exactly what you're trying to do...!\"\n\nHeathcliff wears the most serious expression I've seen from him as he rushes toward the great hand.\n\n\"Heathcliff?! How could...!\"\n\nShe immediately recognized Heathcliff, even amidst all this chaos.\n\n\"Shite!\"\n\nHeathcliff barely managed to duck under the swinging hand.\n\n\"<Heathcliff...>\"\n\n\"Don't look so down, Clockhead. Be bold.\"\n\n\"I ain't giving up again. I'll never give up.\""
-      ]
-    },
-    {
-      "id": 817305,
-      "title": "",
-      "prevDesc": "",
-      "eventDesc": "Dammit, this is...\n\n... Cathy's coffin.\n\nIt's so cold... and dark inside.\n\n... You remained trapped here all along...\n\nJust for... my happiness...\n\nYou, who hated the dark so, so much...",
-      "behaveDesc": "Burst forth from the coffin.",
-      "successDesc": [
-        "If... if only I waited to hear your words to the end.\n\nIf only I... didn't run away. If only I approached you to talk to you first.\n\nWhat a witless mess I am.\n\nBUT...!\n\n“…!”\n\n\"So you've broken free from the coffin, Heathcliff?\"\n\n\"Pointless. It's all pointless...! You should have remained in there, suffocating in the worst regret of your life!\"\n\n“Shut your trap.”\n\nI won't run anymore. Not here, at the end of all things.\n\nI know it's too late. But... I will take this chance before even this passes forever.\n\nEven if this chance won't lead me to my happiness.\n\nEven if path won't end with your happiness.\n\nBecause I know for certain that, as long as our words are left unsaid...\n\n... no one will ever be happy.\n\n“…I see.”\n\n\"You're right. To wish for your happiness without even talking to you first, out of fear... I... should never have done that. I was wrong.\"\n\nI think...\n\nI heard Cathy's voice."
-      ],
-      "failureDesc": [
-        ""
-      ]
-    }
+  "id": 817302,
+  "title": "",
+  "prevDesc": "",
+  "eventDesc": "\"Ne... oluyor...?\"\n\nZayıf ve umutsuz bir ses yankılanıyor. Ses öylesine titriyor ki...\n\n\"Bu hiç ama hiç istediğim şey değil, hayır...\"\n\nSese dikkatlice bir soru sordum.\n\n\"<Yani tüm bunlar...>\"\n\n\"Catherine ve sadece Catherine için var olan bir Heathcliff asla istemedim...\"\n\n... Sanırım sesimizi duyamıyor.\n\n\"Tek istediğim... her Heathcliff'in mutlu olmasıydı...\"\n\n\"Tek istediğim... kendi varlığımın her birini yok etmekti...\"\n\n\"Lütfen, biri... yardım etsin.\"\n\n\"Beni duyan var mı?!\"",
+  "behaveDesc": "Bağır. Onu duyduğumuzu haykır.",
+  "successDesc": [
+    "\"Bu...\"\n\nAltın Dal’ın sıcak ışığı bir yerlerden yayılmaya başlıyor.\n\n\"Heathcliff?! Bu sen misin?\"\n\n\"E-evet, Cathy! Geri döndüm! Ben...\"\n\nKeder. Sevinç. Öfke. Takıntı... Heathcliff’in içinde fırtınalar kopuyor.\n\n\"Ah... Ama yine de her şey sessiz... Sesini duyamıyorum...\"\n\nCatherine’in sesinden de aynı duygular hissediliyor.\n\n\"Lanet olsun...\"\n\nSıcaklık yavaş yavaş soğukluğa yenik düşüyor.\n\nCatherine’in sesini artık duyamıyorum.\n\n\"Tsk. Bunun bu kadar kolay olmayacağını biliyordum.\"\n\nAma Heathcliff hayal kırıklığına kapılmayı reddediyor. Onun yerine kararlılıkla ilerliyor.\n\n... Diğer Günahkarlar da onun izinden gidiyor, savaşa hazır şekilde."
+  ],
+  "failureDesc": [
+    "\"<Sanırım sesimizi duyamıyor...>\"\n\nHeathcliff ve ben tüm gücümüzle bağırdık, ama hiçbir sözümüz ona ulaşmadı.\n\nSessizlik hüküm sürüyor, sadece Catherine’in sessiz hıçkırıkları duyuluyor.\n\n\"... Sorun değil. Zaten bu kadar kolay olacağını sanmıyordum.\"\n\n\"Ama bu... bu onun sesi. Eminim.\"\n\n\"Duyana kadar bağıracağım. Artık asla kaçmayacağımı haykıracağım.\"\n\nHeathcliff dişlerini sıktı, kararlıydı. Diğer Günahkarlar onun kararlılığıyla hizaya girdi.\n\nEvet. Hâlâ bunu başarabiliriz."
+  ]
+},
+{
+  "id": 817304,
+  "title": "",
+  "prevDesc": "",
+  "eventDesc": "\"Cathy, ben...!\"\n\nHeathcliff konuşmaya başlar başlamaz, tiz bir çığlık kafamızın içinde patladı.\n\n\"Catherine!!! Şimdi bana engel olma!!!\"\n\n\"Söz verdik, değil mi? Tüm benliklerimizi öldürüp Heathcliff'in mutlu olmasını sağlayacaktık!!!\"\n\nO keskin sesin içinde garip bir sıcaklık vardı, sanki başka bir sese aitti.\n\n\"Hayır, ben...\"\n\nBelki de iki Catherine kontrol için mücadele ediyor.\n\nDev ellerinden biri titriyor, sendeleyerek hareket ediyor.\n\n... Belki de bu, o eli etkisiz hale getirmek için fırsatımızdır.",
+  "behaveDesc": "Kim öne atılacak?",
+  "successDesc": [
+    "[{0}] ne yapmak istediğimi hemen anladı ve elin üstüne atladı.\n\n\"B-bu olamaz...!\"\n\nGüzel. Onu gafil avladık... ve eli etkisiz hale getirdik.\n\nİçgüdüsel olarak biliyorum...\n\n... çok, çok yaklaştık.",
+    "\"Ne demek istediğini tam olarak anlıyorum...!\"\n\nHeathcliff, şimdiye kadar gördüğüm en ciddi ifadeyle dev ele doğru atıldı.\n\n\"Agh, Heathcliff...!\"\n\n\"Cathy'mi geri ver... Ona söylemem gereken çok şey var...!\"\n\nHeathcliff’in ani saldırısı eli tamamen hazırlıksız yakaladı, başarıyla etkisiz hale getirdi.\n\nİçgüdüsel olarak biliyorum...\n\n... çok, çok yaklaştık."
+  ],
+  "failureDesc": [
+    "[{0}] ne yapmak istediğimi hemen anladı ve elin üstüne atladı.\n\n\"DEFOL!!!\"\n\nBelki de kaosun içinde önemsiz gördüğü biri daha çok göze battı.\n\n{0}, savrulan elden kıl payı kurtuldu.",
+    "\"Ne yapmaya çalıştığını tam olarak biliyorum...!\"\n\nHeathcliff, şimdiye kadar gördüğüm en ciddi ifadeyle dev ele doğru atıldı.\n\n\"Heathcliff?! Nasıl...!\"\n\nTüm bu karmaşanın içinde bile Heathcliff’i hemen tanıdı.\n\n\"Lanet olsun!\"\n\nHeathcliff, savrulan elden kıl payı kurtuldu.\n\n\"<Heathcliff...>\"\n\n\"Moralini bozma, Saatkafa. Cesur ol.\"\n\n\"Bir daha asla vazgeçmeyeceğim. Hiçbir zaman.\""
+  ]
+},
+{
+  "id": 817305,
+  "title": "",
+  "prevDesc": "",
+  "eventDesc": "Lanet olsun, bu...\n\n... Cathy'nin tabutu.\n\nİçerisi çok soğuk... ve karanlık.\n\n... Hep burada mı kaldın...\n\nSadece... benim mutluluğum için...\n\nSen ki karanlıktan böylesine nefret ederdin...",
+  "behaveDesc": "Tabuttan fırlayıp çık.",
+  "successDesc": [
+    "Eğer... eğer sadece sözlerini sonuna kadar dinleseydim.\n\nEğer kaçmasaydım. Eğer ilk adımı ben atıp konuşsaydım seninle.\n\nNe aptalca bir karmaşanın içindeyim.\n\nAMA...!\n\n“…!”\n\n\"Tabuttan çıktın demek, Heathcliff?\"\n\n\"Boşuna. Hepsi boşuna...! Orada kalmalıydın, hayatının en büyük pişmanlığıyla boğulmalıydın!\"\n\n“Kapa çeneni.”\n\nArtık kaçmayacağım. Burada, her şeyin sonunda.\n\nGeç kaldığımı biliyorum. Ama... bu fırsatı değerlendireceğim, sonsuza dek geçip gitmeden önce.\n\nBu şans beni mutluluğuma götürmese bile.\n\nBu yol senin mutluluğunla bitmese bile.\n\nBiliyorum ki, sözlerimiz söylenmemiş olarak kaldığı sürece...\n\n... kimse mutlu olamayacak.\n\n“…Anlıyorum.”\n\n\"Seninle konuşmadan, sadece korkudan dolayı mutluluğunu dilemeyi... Yapmamalıydım. Yanıldım.\"\n\nSanırım...\n\nCathy'nin sesini duydum."
+  ],
+  "failureDesc": [
+    ""
   ]
 }
