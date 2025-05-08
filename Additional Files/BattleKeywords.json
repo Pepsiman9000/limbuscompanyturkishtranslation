@@ -84,11 +84,11 @@
     {
       "id": "Blame_Panic",
       "name": "Atarlanma",
-      "desc": "- Panik\n- Tur Başlangıcında: Rastgele bir müttefik 20 AP kaybeder" 
+      "desc": "- Panik\n- Tur Başlangıcında: Rastgele bir müttefik 20 SP kaybeder" 
     },
     {
       "id": "Charge",
-      "name": "Şarj",
+      "name": "Yük",
       "desc": "Belirli yetenekler tarafından ilave etkiler için kullanılan kaynak. Miktarı 20'ye kadar çıkabilir. Her turun sonunda Miktarı 1 azalır." 
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "id": "ResultReduction",
-      "name": "Zayıfla",
+      "name": "Zayıflama",
       "desc": "Yetenekler bir turluğuna bu etkinin Miktarı kadar son Güç kaybeder",
       "summary": "Son Yetenek Gücü -{0}"
     },
@@ -180,7 +180,7 @@
     },
     {
       "id": "MoonLight",
-      "name": "AyIşığı",
+      "name": "Ay Işığı",
       "desc": "Belirli yetenekler tarafından ilave etkiler için kullanılan kaynak." 
     },
     {
@@ -196,32 +196,32 @@
     {
       "id": "Combustion",
       "name": "Yanma",
-      "desc": "Turun sonunda, etkinin Kuvveti kadar sabit hasar al.\nSonrasında, Miktarını 1 azalt." 
+      "desc": "Turun sonunda, etkinin Şiddeti kadar sabit hasar al.\nSonrasında, Miktarını 1 azalt." 
     },
     {
       "id": "Laceration",
       "name": "Kanama", 
-      "desc": "Saldırı Jetonu atılırken, etkinin Kuvveti kadar sabit hasar al.\nSonrasında, Miktarını 1 azalt."
+      "desc": "Saldırı Jetonu atılırken, etkinin Şiddeti kadar sabit hasar al.\nSonrasında, Miktarını 1 azalt."
     },
     {
       "id": "Vibration",
-      "name": "Titreşim",  
-      "desc": "Titreşim patlaması tetikleyen yetenekler tarafından vurulduğunda, Sersemleme Eşiğini etkinin Kuvveti kadar artır.\nTur sonunda, Miktarını 1 azalt."
+      "name": "Sarsıntı",  
+      "desc": "Sarsıntı patlaması tetikleyen yetenekler tarafından vurulduğunda, Sersemleme Eşiğini etkinin Şiddeti kadar artır.\nTur sonunda, Miktarını 1 azalt."
     },
     {
       "id": "Burst",
       "name": "Parçalanma",
-      "desc": "Bir saldırıyla vurulduğunda, etkinin Kuvveti kadar sabit hasar al.\nSonrasında Miktarını 1 azalt." 
+      "desc": "Bir saldırıyla vurulduğunda, etkinin Şiddeti kadar sabit hasar al.\nSonrasında Miktarını 1 azalt." 
     },
     {
       "id": "Sinking",
-      "name": "Batma",
-      "desc": "Bir saldırıyla vurulduğunda, etkinin Kuvveti kadar AP hasarı al.\n(Aklıselimliği olmayan varlıklar bunun yerine Kasvet hasarı alırlar)\nSonrasında Miktarını 1 azalt."
+      "name": "Batış",
+      "desc": "Bir saldırıyla vurulduğunda, etkinin Şiddeti kadar SP hasarı al.\n(Aklıselimliği olmayan varlıklar bunun yerine Kasvet hasarı alırlar)\nSonrasında Miktarını 1 azalt."
     },
     {
       "id": "Breath",
-      "name": "İstikrar",
-      "desc": "Vuruşta, kritik hasar vurabilmek için istikrar-bazlı şans elde et, eğer başarılı olursa Miktarı 1 azalt.\nTur sonunda, Miktarını 1 azalt." 
+      "name": "Nefes",
+      "desc": "Vuruşta, kritik hasar vurabilmek için Nefes-bazlı şans elde et, eğer başarılı olursa Miktarı 1 azalt.\nTur sonunda, Miktarını 1 azalt." 
     },
     {
       "id": "BloodPocket",
@@ -261,7 +261,7 @@
     {
       "id": "PinkRibbon",
       "name": "Pembe Kurdeleler",
-      "desc": "Tur sonunda, eğer Kuvveti 5+ ise, bu etkiyi kaldır ve sonraki tur 'Arzulu' kazan."
+      "desc": "Tur sonunda, eğer Şiddeti 5+ ise, bu etkiyi kaldır ve sonraki tur 'Arzulu' kazan."
     },
     {
       "id": "Greedy",
@@ -281,12 +281,12 @@
     {
       "id": "AttackUp",
       "name": "Saldırı Seviyesi Artışı",
-      "desc": "Saldırı seviyesi bir turluğuna bu etkinin Kuvveti kadar artar." 
+      "desc": "Saldırı seviyesi bir turluğuna bu etkinin Şiddeti kadar artar." 
     },
     {
       "id": "AttackDown",
       "name": "Saldırı Seviyesi Azalışı",
-      "desc": "Saldırı seviyesi bir turluğuna bu etkinin Kuvveti kadar düşer."
+      "desc": "Saldırı seviyesi bir turluğuna bu etkinin Şiddeti kadar düşer."
     },
     {
       "id": "Liu_Meursault_Guard_Buff",
@@ -908,7 +908,7 @@
     {
       "id": "ATL_Breath",
       "name": "Aim True!",
-      "desc": "Gain 3 Poise",
+      "desc": "Gain 3 Nefes",
       "summary": "표시용"
     },
     {
@@ -1354,12 +1354,12 @@
     {
       "id": "SwordPlayOfTheHomeland",
       "name": "Swordplay of the Homeland",
-      "desc": "- When at 5+ Poise, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\n- When at 7+ Poise, upon Skill use, Skill 3 deals +(30/# of Coins)% more damage and deals +(50/# of Coins)% damage on Critical Hit"
+      "desc": "- When at 5+ Nefes, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\n- When at 7+ Nefes, upon Skill use, Skill 3 deals +(30/# of Coins)% more damage and deals +(50/# of Coins)% damage on Critical Hit"
     },
     {
       "id": "SwordPlayOfTheMemorial",
       "name": "Remembrance",
-      "desc": "- When at 5+ Poise, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\n- When at 7+ Poise, upon Skill use, Skill 3 deals +(30/# of Coins)% more damage and deals +(50/# of Coins)% damage on Critical Hit"
+      "desc": "- When at 5+ Nefes, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\n- When at 7+ Nefes, upon Skill use, Skill 3 deals +(30/# of Coins)% more damage and deals +(50/# of Coins)% damage on Critical Hit"
     },
     {
       "id": "RedApricotBlossom",
@@ -1813,14 +1813,14 @@
     {
       "id": "HoldingBreath",
       "name": "Deep Inhale",
-      "desc": "- Max Stack: 20\n- On Crit, at 15+ Poise Potency and 5+ Poise Count, consume (Poise Potency on self / 5) Poise Potency to deal +(Poise Potency consumed x 4)% more Damage on Critical Hit and lose 1 Stack",
+      "desc": "- Max Stack: 20\n- On Crit, at 15+ Nefes Potency and 5+ Nefes Count, consume (Nefes Potency on self / 5) Nefes Potency to deal +(Nefes Potency consumed x 4)% more Damage on Critical Hit and lose 1 Stack",
       "summary": "Deal more Damage on Critical Hit"
     },
     {
       "id": "NebulizerInhale",
       "name": "Nebulizer β",
-      "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- When activating Pride A-Reson.: on Combat Start, apply 3 Poise and +3 Poise Count on self and (Stack) allies (prioritizes allies that gain or use Poise or Poise Count; among them, prioritize allies with the least Poise Potency)",
-      "summary": "Gain Poise and Poise Count"
+      "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- When activating Pride A-Reson.: on Combat Start, apply 3 Nefes and +3 Nefes Count on self and (Stack) allies (prioritizes allies that gain or use Nefes or Nefes Count; among them, prioritize allies with the least Nefes Potency)",
+      "summary": "Gain Nefes and Nefes Count"
     },
     {
       "id": "Hohenheim_LowMorale",
@@ -1860,12 +1860,12 @@
     {
       "id": "NebulizerExhale",
       "name": "Nebulizer α",
-      "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- Combat Start: on all allies, including this unit, apply 1 Poise Potency and +1 Poise Count"
+      "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- Combat Start: on all allies, including this unit, apply 1 Nefes Potency and +1 Nefes Count"
     },
     {
       "id": "ReleaseBreath",
       "name": "Shallow Exhale",
-      "desc": "- Max Value: 1\n- At 20+ Poise Potency, gain +1 Count as well whenever this unit gains Poise Potency with Skill and Coin effects\n- Expires at Turn End"
+      "desc": "- Max Value: 1\n- At 20+ Nefes Potency, gain +1 Count as well whenever this unit gains Nefes Potency with Skill and Coin effects\n- Expires at Turn End"
     },
     {
       "id": "FirePunchFuel",
