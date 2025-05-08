@@ -63,440 +63,440 @@
     },
     {
       "id": "Target",
-      "name": "Marked",
-      "desc": "Targeted by the character with the Passive [Sharp Edge]."
+      "name": "İşaretli",
+      "desc": "[Keskin Uç] Pasifine sahip karakter tarafından hedef alınmış." 
     },
     {
       "id": "SelfHarm_LowMorale",
-      "name": "Compulsion",
-      "desc": "- Low Morale\n- Turn Start: Gain 2 Haste and 2 Fragile"
+      "name": "Dürtü",
+      "desc": "- Düşük Moral\n- Tur Başlangıcında: 2 Atiklik ve 2 Kırılgan kazan" 
     },
     {
       "id": "SelfHarm_Panic",
-      "name": "Compulsion",
-      "desc": "- Panic\n- Turn Start: Lose 10 HP"
+      "name": "Dürtü",
+      "desc": "- Panik\n- Tur Başlangıcında: 10 CAN kaybet"
     },
     {
       "id": "Blame_LowMorale",
-      "name": "Outlash",
-      "desc": "- Low Morale\n- Turn Start: Gain 2 Attack Power Up and 2 Fragile"
+      "name": "Atarlanma",
+      "desc": "- Düşük Moral\n- Tur Başlangıcında: 2 Saldırı Gücü Artışı and 2 Kırılgan kazan"
     },
     {
       "id": "Blame_Panic",
-      "name": "Outlash",
-      "desc": "- Panic\n- Turn Start: A random ally loses 20 SP"
+      "name": "Atarlanma",
+      "desc": "- Panik\n- Tur Başlangıcında: Rastgele bir müttefik 20 AP kaybeder" 
     },
     {
       "id": "Charge",
-      "name": "Charge",
-      "desc": "Resource used by certain skills for additional effects. Its Count can go up to 20. Count lowers by 1 at the end of each turn."
+      "name": "Şarj",
+      "desc": "Belirli yetenekler tarafından ilave etkiler için kullanılan kaynak. Miktarı 20'ye kadar çıkabilir. Her turun sonunda Miktarı 1 azalır." 
     },
     {
       "id": "DamageOverTime",
-      "name": "Ongoing Damage",
-      "desc": "At the start of the turn, take fixed damage by the effect’s Count."
+      "name": "Devam Eden Hasar", 
+      "desc": "Tur başlangıcında, etkinin Miktarı kadar sabit hasar al." 
     },
     {
       "id": "ResultEnhancement",
-      "name": "Power Up",
-      "desc": "Skills gain final Power by the effect’s Count for one turn.",
-      "summary": "Skill Final Power +{0}"
+      "name": "Güçlen",
+      "desc": "Yetenekler bir turluğuna bu etkinin Miktarı kadar son Güç kazanır.", 
+      "summary": "Son Yetenek Gücü +{0}" 
     },
     {
       "id": "Protection",
-      "name": "Protection",
-      "desc": "Take less damage from skills based on the effect’s Count for one turn. (Max 10)",
-      "summary": "-{0}0% Damage Taken"
+      "name": "Koruma",
+      "desc": "Bir turluğuna bu etkinin Miktarına göre yeteneklerden daha az hasar al. (Maks 10)", 
+      "summary": "-{0}0% Alınan Hasar"
     },
     {
       "id": "AttackDmgUp",
-      "name": "Damage Up",
-      "desc": "Deal more damage with skills based on the effect’s Count for one turn. (Max 10)",
-      "summary": "+{0}0% Damage Dealt"
+      "name": "Hasar Artışı", 
+      "desc": "Bir turluğuna bu etkinin Miktarına göre yeteneklerle daha fazla hasar ver. (Maks 10)", 
+      "summary": "+{0}0% Verilen Hasar"
     },
     {
       "id": "DefenseUp",
-      "name": "Defense Level Up",
-      "desc": "Defense Level increases based on the effect's Potency for one turn.",
-      "summary": "Defense Level +{0}"
+      "name": "Savunma Seviyesi Artışı",
+      "desc": "Bir turluğuna etkinin Kuvvet değeri kadar Savunma Seviyesi artar.",
+      "summary": "Savunma Seviyesi +{0}"
     },
     {
       "id": "PlusCoinValueUp",
-      "name": "Plus Coin Boost",
-      "desc": "Raise the Power of Plus Coins by the effect’s Count."
+      "name": "Artı Jeton Güçlendirmesi", 
+      "desc": "Bu etkinin Miktarı kadar Artı Jetonların Gücünü yükselt." 
     },
     {
       "id": "MinusCoinValueUp",
-      "name": "Minus Coin Boost",
-      "desc": "Raise the Power of Minus Coins by the effect’s Count."
+      "name": "Eksi Jeton Güçlendirmesi", 
+      "desc": "Bu etkinin Miktarı kadar Eksi Jetonların Gücünü yükselt." 
     },
     {
       "id": "TimesCoinValueUp",
-      "name": "Multiply Coin Boost",
-      "desc": "Raise the Power of Multiply Coins by the effect’s Count."
+      "name": "Çarpım Jeton Güçlendirmesi", 
+      "desc": "Bu etkinin Miktarı kadar Çarpım Jetonların Gücünü yükselt." 
     },
     {
       "id": "Disarming",
-      "name": "Defense Power Down",
-      "desc": "Defense skills lose final Power by the effect’s Count for one turn."
+      "name": "Savunma Gücü Azalışı",
+      "desc": "Savunma yetenekleri bir turluğunda bu etkinin Miktarı kadar son güç kaybederler." 
     },
     {
       "id": "ResultReduction",
-      "name": "Power Down",
-      "desc": "All skills lose final Power by the effect’s Count for one turn.",
-      "summary": "Skill Final Power -{0}"
+      "name": "Zayıfla",
+      "desc": "Yetenekler bir turluğuna bu etkinin Miktarı kadar son Güç kaybeder",
+      "summary": "Son Yetenek Gücü -{0}"
     },
     {
       "id": "AttackDmgDown",
-      "name": "Damage Down",
-      "desc": "Deal less damage with skills based on the effect’s Count for one turn. (Max 10)",
-      "summary": "-{0}0% Damage Dealt"
+      "name": "Hasar Azalması",
+      "desc": "Bir turluğuna bu etkinin Miktarına göre yeteneklerle daha az hasar ver. (Maks 10)",
+      "summary": "-{0}0% Verilen Hasar"
     },
     {
       "id": "DefenseDown",
-      "name": "Defense Level Down",
-      "desc": "Defense Level decreases based on the effect's Potency for one turn.",
-      "summary": "Defense Level -{0}"
+      "name": "Savunma Seviyesi Azalışı",
+      "desc": "Savunma seviyesi bir turluğuna bu etkinin Miktarı kadar azalır.", 
+      "summary": "Savunma Seviyesi -{0}"
     },
     {
       "id": "Paralysis",
-      "name": "Paralyze",
-      "desc": "Fix the Power of Coins to 0 for one turn, with one Coin per the effect’s Count."
+      "name": "Felç",
+      "desc": "Bu etkinin her bir Miktarı başına bir jeton olmak üzere, jetonların Gücünü bir turluğuna 0'a sabitle."
     },
     {
       "id": "PlusCoinValueDown",
-      "name": "Plus Coin Drop",
-      "desc": "Reduce the power of Plus Coins by the effect’s Count."
+      "name": "Artı Jeton Zayıflatması",
+      "desc": "Artı Jetonların Gücünü bu etkinin Miktarı kadar azalt." 
     },
     {
       "id": "MinusCoinValueDown",
-      "name": "Minus Coin Drop",
-      "desc": "Reduce the power of Minus Coins by the effect’s Count."
+      "name": "Eksi Jeton Zayıflatması", 
+      "desc": "Eksi Jetonların Gücünü bu etkinin Miktarı kadar azalt."
     },
     {
       "id": "TimesCoinValueDown",
-      "name": "Multiply Coin Drop",
-      "desc": "Reduce the power of Multiply Coins by the effect’s Count."
+      "name": "Çarpım Jeton Zayıflatması",
+      "desc": "Çarpım Jetonların Gücünü bu etkinin Miktarı kadar azalt."
     },
     {
       "id": "MoonLight",
-      "name": "Moonlight",
-      "desc": "Resource used by certain skills for additional effects."
+      "name": "AyIşığı",
+      "desc": "Belirli yetenekler tarafından ilave etkiler için kullanılan kaynak." 
     },
     {
       "id": "Anger",
-      "name": "Rage",
-      "desc": "Spent by certain skills. Required for the use of certain skills."
+      "name": "Öfke",
+      "desc": "Belirli yetenekler tarafından harcanır. Belirli yeteneklerin kullanımı için gereklidir." 
     },
     {
       "id": "Inactible",
-      "name": "Immobilize",
-      "desc": "Does not act for the turn."
+      "name": "Hareketsizlik",
+      "desc": "Tur boyunca hareket etmez."
     },
     {
       "id": "Combustion",
       "name": "Yanma",
-      "desc": "Turun sonunda, bu efektin Şiddeti kadar sabit hasar al.\nArdından, Miktarı 1 azalt."
+      "desc": "Turun sonunda, etkinin Kuvveti kadar sabit hasar al.\nSonrasında, Miktarını 1 azalt." 
     },
     {
       "id": "Laceration",
-      "name": "Kanama",
-      "desc": "Bir saldırı Jetonu atarken, bu efektin Şiddeti kadar sabit hasar al.\nArdından, Miktarı 1 azalt."
+      "name": "Kanama", 
+      "desc": "Saldırı Jetonu atılırken, etkinin Kuvveti kadar sabit hasar al.\nSonrasında, Miktarını 1 azalt."
     },
     {
       "id": "Vibration",
-      "name": "Sarsıntı",
-      "desc": "Sarsıntı Patlaması tetikleyen saldırılar tarafından vurulunca, Sersemleme Eşiğini bu efektin Şiddeti kadar arttır.\nTurun sonunda, Miktarı 1 azalt."
+      "name": "Titreşim",  
+      "desc": "Titreşim patlaması tetikleyen yetenekler tarafından vurulduğunda, Sersemleme Eşiğini etkinin Kuvveti kadar artır.\nTur sonunda, Miktarını 1 azalt."
     },
     {
       "id": "Burst",
       "name": "Parçalanma",
-      "desc": "Bir saldırı tarafından vurulunca, bu efektin Şiddeti kadar sabit hasar al.\nArdından, Miktarı 1 azalt"
+      "desc": "Bir saldırıyla vurulduğunda, etkinin Kuvveti kadar sabit hasar al.\nSonrasında Miktarını 1 azalt." 
     },
     {
       "id": "Sinking",
-      "name": "Batış",
-      "desc": "Bir saldırı tarafından vurulunca, bu efektin Şiddeti kadar sabit SP hasarı al.\n(Akıl Sağlığına sahip olmayan düşmanlar, bunu yerine Hüzün hasarı yerler.)\nArdından, Miktarı 1 azalt"
+      "name": "Batma",
+      "desc": "Bir saldırıyla vurulduğunda, etkinin Kuvveti kadar AP hasarı al.\n(Aklıselimliği olmayan varlıklar bunun yerine Kasvet hasarı alırlar)\nSonrasında Miktarını 1 azalt."
     },
     {
       "id": "Breath",
-      "name": "Nefes",
-      "desc": "Her vuruşta, bu efektin Şiddeti ile orantılı bir şekilde Kritik hasar vurma şansına sahip ol, eğer başarılı olursa Miktarı 1 azalt.\nTurun sonunda, Miktarı 1 azalt."
+      "name": "İstikrar",
+      "desc": "Vuruşta, kritik hasar vurabilmek için istikrar-bazlı şans elde et, eğer başarılı olursa Miktarı 1 azalt.\nTur sonunda, Miktarını 1 azalt." 
     },
     {
       "id": "BloodPocket",
-      "name": "Blood Sac",
-      "desc": "Use a powerful attack after the Count reaches a certain amount."
+      "name": "Kan Kesesi",
+      "desc": "Miktar belirli bir sayıya ulaşınca güçlü bir saldırı kullan." 
     },
     {
       "id": "WaterPocket",
-      "name": "Fluid Sac",
-      "desc": "Heals HP based on the Count."
+      "name": "Sıvı Kesesi",
+      "desc": "Miktara göre can yenile."
     },
     {
       "id": "DogThunder",
-      "name": "Lightning",
-      "desc": "Powers up after the Count reaches a certain amount."
+      "name": "Yıldırım",
+      "desc": "Miktarı belirli bir sayıya ulaşınca güçlenir."
     },
     {
       "id": "Run_Panic",
-      "name": "Oppression",
-      "desc": "Cannot act for one turn. When hit, flees battle after the attacker’s skill has finished."
+      "name": "Baskı",
+      "desc": "Bir tur eylem yapamaz. Vurulduğunda, saldırganın yeteneği bittiğinde çatışmadan kaçar."
     },
     {
       "id": "Operation",
-      "name": "Surgery",
-      "desc": "Die when Count reaches 5.\nReduce Max HP by 20% (per Count).\nDeal 20% (per Count) more damage.\nAt the start of the turn, gain Haste by the effect’s Count."
+      "name": "Ameliyat",
+      "desc": "Miktarı 5'e ulaştığında ölür.\nMaksimum canı %20 azalt.(Miktar başına)\nTur başında, etkinin Miktarı kadar Atiklik kazan."
     },
     {
       "id": "Emergency_Operation",
-      "name": "Makeshift Surgery",
-      "desc": "Boost Max HP by 25% and skill Power by 1 per this effect’s Count.\nEach turn, increase this effect’s Count by 1.\nDie when Count reaches 5."
+      "name": "Derme Çatma Ameliyat",
+      "desc": "Maksimum canı %25 artırır ve yetenek Gücünü bu etkinin Miktarı başına 1 artırır.\nHer tur, bu etkinin Miktarını 1 artır.\nMiktar 5'e ulaştığında ölür." 
     },
     {
       "id": "BabayagaTimeLimit",
-      "name": "Baba Yaga’s Coming!",
+      "name": "Baba Yaga Geliyor!!",
       "desc": ""
     },
     {
       "id": "PinkRibbon",
-      "name": "Pink Ribbons",
-      "desc": "At the end of the turn, if at 5+ Potency, remove this effect and apply ‘Desirous’ next turn."
+      "name": "Pembe Kurdeleler",
+      "desc": "Tur sonunda, eğer Kuvveti 5+ ise, bu etkiyi kaldır ve sonraki tur 'Arzulu' kazan."
     },
     {
       "id": "Greedy",
-      "name": "Desirous",
-      "desc": "At the start of the turn, gain 10 Bind.\nAll phys. resistances change to ‘Fatal’.\nAttack Skill Power +2.\nDefense Skill Power -2."
+      "name": "Arzulu",
+      "desc": "Tur başında, 10 mıhlanma elde et.\nBütün fiziksel dirençler 'Ölümcül'e değişir.\nSaldırı Yeteneği Gücü +2.\nSavunma Yeteneği Gücü -2."
     },
     {
       "id": "PinkRibbon_Ishmael",
-      "name": "Pink Ribbons",
-      "desc": "Count increases by 1 whenever the affected unit tosses an attack skill Coin.\nAt the end of the turn, inflict Bind by the effect’s Count, then remove the effect."
+      "name": "Pembe Kurdeleler",
+      "desc": "Etkilenmiş kişi ne zaman bir saldırı jetonu atarsa Miktarı 1 artar.\nTur sonunda, etkinin Miktarı kadar Mıhlama uygula, sonrasında ektiyi kaldır."
     },
     {
       "id": "Muckworm",
-      "name": "Maggots",
-      "desc": "Turn End: Take Gluttony damage by the Count, then lower it by 1; Bleed Count +1."
+      "name": "Kurtçuklar",
+      "desc": "Tur Sonunda: Miktarı kadar Oburluk hasarı al, sonrasında Miktarı 1 azalt; Kanama Miktarı +1."
     },
     {
       "id": "AttackUp",
-      "name": "Offense Level Up",
-      "desc": "Offense level increases based on the effect's Potency for one turn."
+      "name": "Saldırı Seviyesi Artışı",
+      "desc": "Saldırı seviyesi bir turluğuna bu etkinin Kuvveti kadar artar." 
     },
     {
       "id": "AttackDown",
-      "name": "Offense Level Down ",
-      "desc": "Offense level decreases based on the effect's Potency for one turn."
+      "name": "Saldırı Seviyesi Azalışı",
+      "desc": "Saldırı seviyesi bir turluğuna bu etkinin Kuvveti kadar düşer."
     },
     {
       "id": "Liu_Meursault_Guard_Buff",
-      "name": "Great Mountain",
-      "desc": "When attacked, inflict +1 Burn Count on the attacker."
+      "name": "Yüce Dağ",
+      "desc": "Saldırıldığında, saldırana +1 Yanma Miktarı uygula." 
     },
     {
       "id": "SlashResistUp",
-      "name": "Slash Resist Up",
-      "desc": "Decrease Slash Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Kesme Direnci Artışı", 
+      "desc": "Kesme Direncini yük sayısına göre düşür.\n(Yük başına 0.1)"
     },
     {
       "id": "PenetrateResistUp",
-      "name": "Pierce Resist Up",
-      "desc": "Decrease Pierce Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Delme Direnci Artışı",
+      "desc": "Delme Direncini yük sayısına göre düşür.\n(Yük başına 0.1)"
     },
     {
       "id": "HitResistUp",
-      "name": "Blunt Resist Up",
-      "desc": "Decrease Blunt Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Künt Direnci Artışı",
+      "desc": "Künt Direncini yük sayısına göre düşür.\n(Yük başına 0.1)"
     },
     {
       "id": "SlashDamageUp",
-      "name": "Slash DMG Up",
-      "desc": "Deal more damage with Slash skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Kesme Hasarı Artışı",
+      "desc": "Bu etkinin Miktarına göre bir turluğuna Kesme yetenekler ile daha fazla hasar ver. (Maks 10)"
     },
     {
       "id": "PenetrateDamageUp",
-      "name": "Pierce DMG Up",
-      "desc": "Deal more damage with Pierce skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Delme Hasarı Artışı",
+      "desc": "Bu etkinin Miktarına göre bir turluğuna Delme yetenekler ile daha fazla hasar ver. (Maks 10)"
     },
     {
       "id": "HitDamageUp",
-      "name": "Blunt DMG Up",
-      "desc": "Deal more damage with Blunt skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Künt Hasarı Artışı",
+      "desc": "Bu etkinin Miktarına göre bir turluğuna Künt yetenekler ile daha fazla hasar ver. (Maks 10)"
     },
     {
       "id": "SlashResistDown",
-      "name": "Slash Resist Down",
-      "desc": "Increase Slash Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Kesme Direnci Azalışı", 
+      "desc": "Kesme Direncini yük sayısına göre artır.\n(Yük başına 0.1)" 
     },
     {
       "id": "PenetrateResistDown",
-      "name": "Pierce Resist Down",
-      "desc": "Increase Pierce Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Delme Direnci Azalışı",
+      "desc": "Delme Direncini yük sayısına göre artır.\n(Yük başına 0.1)"
     },
     {
       "id": "HitResistDown",
-      "name": "Blunt Resist Down",
-      "desc": "Increase Blunt Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Künt Direnci Azalışı",
+      "desc": "Künt Direncini yük sayısına göre artır.\n(Yük başına 0.1)"
     },
     {
       "id": "SlashDamageDown",
-      "name": "Slash DMG Down",
-      "desc": "Deal less damage with Slash skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Kesme Hasarı Azalışı",
+      "desc": "Bu etkinin Miktarına göre bir turluğuna Kesme yetenekler ile daha az hasar ver. (Maks 10)"
     },
     {
       "id": "PenetrateDamageDown",
-      "name": "Pierce DMG Down",
-      "desc": "Deal less damage with Pierce skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Delme Hasarı Azalışı",
+      "desc": "Bu etkinin Miktarına göre bir turluğuna Delme yetenekler ile daha az hasar ver."
     },
     {
       "id": "HitDamageDown",
-      "name": "Blunt DMG Down",
-      "desc": "Deal less damage with Blunt skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Künt Hasarı Azalışı",
+      "desc": "Bu etkinin Miktarına göre bir turluğuna Künt yetenekler ile daha az hasar ver."
     },
     {
       "id": "CrimsonResistDown",
-      "name": "Wrath Resist Down",
-      "desc": "Increase Wrath Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Öfke Direnci Azalışı",
+      "desc": "Öfke Direnci çarpanını yük sayısına göre artır.\n(Yük başına 0.1)"
     },
     {
       "id": "ScarletResistDown",
-      "name": "Lust Resist Down",
-      "desc": "Increase Lust Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Şehvet Direnci Azalışı",
+      "desc": "Şehvet Direnci çarpanını yük sayısına göre artır.\n(Yük başına 0.1)"
     },
     {
       "id": "AmberResistDown",
-      "name": "Sloth Resist Down",
-      "desc": "Increase Sloth Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Tembellik Direnci Azalışı",
+      "desc": "Tembellik Direnci çarpanını yük sayısına göre artır.\n(Yük başına 0.1)"
     },
     {
       "id": "ShamrockResistDown",
-      "name": "Gluttony Resist Down",
-      "desc": "Increase Gluttony Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Oburluk Direnci Azalışı",
+      "desc": "Oburluk Direnci çarpanını yük sayısına göre artır.\n(Yük başına 0.1)"
     },
     {
       "id": "AzureResistDown",
-      "name": "Gloom Resist Down",
-      "desc": "Increase Gloom Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Kasvet Direnci Azalışı",
+      "desc": "Kasvet Direnci çarpanını yük sayısına göre artır.\n(Yük başına 0.1)"
     },
     {
       "id": "IndigoResistDown",
-      "name": "Pride Resist Down",
-      "desc": "Increase Pride Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Kibir Direnci Azalışı",
+      "desc": "Kibir Direnci çarpanını yük sayısına göre artır.\n(Yük başına 0.1)"
     },
     {
       "id": "VioletResistDown",
-      "name": "Envy Resist Down",
-      "desc": "Increase Envy Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Kıskançlık Direnci Azalışı",
+      "desc": "Kıskançlık Direnci çarpanını yük sayısına göre artır.\n(Yük başına 0.1)"
     },
     {
       "id": "CrimsonResistUp",
-      "name": "Wrath Resist Up",
-      "desc": "Reduce Wrath Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Öfke Direnci Artışı",
+      "desc": "Öfke Direnci çarpanını yük sayısına göre azalt.\n(Yük başına 0.1)"
     },
     {
       "id": "ScarletResistUp",
-      "name": "Lust Resist Up",
-      "desc": "Reduce Lust Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Şehvet Direnci Artışı",
+      "desc": "Şehvet Direnci çarpanını yük sayısına göre azalt.\n(Yük başına 0.1)"
     },
     {
       "id": "AmberResistUp",
-      "name": "Sloth Resist Up",
-      "desc": "Decrease Sloth Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Tembellik Direnci Artışı",
+      "desc": "Tembellik Direnci çarpanını yük sayısına göre azalt.\n(Yük başına 0.1)"
     },
     {
       "id": "ShamrockResistUp",
-      "name": "Gluttony Resist Up",
-      "desc": "Decrease Gluttony Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Oburluk Direnci Artışı",
+      "desc": "Oburluk Direnci çarpanını yük sayısına göre azalt.\n(Yük başına 0.1)"
     },
     {
       "id": "AzureResistUp",
-      "name": "Gloom Resist Up",
-      "desc": "Decrease Gloom Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Kasvet Direnci Artışı",
+      "desc": "Kasvet Direnci çarpanını yük sayısına göre azalt.\n(Yük başına 0.1)"
     },
     {
       "id": "IndigoResistUp",
-      "name": "Pride Resist Up",
-      "desc": "Decrease Pride Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Kibir Direnci Artışı",
+      "desc": "Kibir Direnci çarpanını yük sayısına göre azalt.\n(Yük başına 0.1)"
     },
     {
       "id": "VioletResistUp",
-      "name": "Envy Resist Up",
-      "desc": "Decrease Envy Resistance based on Stack.\n(0.1 per Stack)"
+      "name": "Kıskançlık Direnci Azalışı",
+      "desc": "Kıskançlık Direnci çarpanını yük sayısına göre azalt.\n(Yük başına 0.1)"
     },
     {
       "id": "CrimsonDamageDown",
-      "name": "Wrath DMG Down",
-      "desc": "Deal less damage with Wrath skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Öfke Hasarı Azalışı",
+      "desc": "Bir turluğuna Öfke yetenekleri ile bu etkinin Miktarına göre daha az hasar ver. (Maks 10)"
     },
     {
       "id": "ScarletDamageDown",
-      "name": "Lust DMG Down",
-      "desc": "Deal less damage with Lust skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Şehvet Hasarı Azalışı",
+      "desc": "Bir turluğuna Şehvet yetenekleri ile bu etkinin Miktarına göre daha az hasar ver. (Maks 10)"
     },
     {
       "id": "AmberDamageDown",
-      "name": "Sloth DMG Down",
-      "desc": "Deal less damage with Sloth skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Tembellik Hasarı Azalışı",
+      "desc": "Bir turluğuna Tembellik yetenekleri ile bu etkinin Miktarına göre daha az hasar ver. (Maks 10)"
     },
     {
       "id": "ShamrockDamageDown",
-      "name": "Gluttony DMG Down",
-      "desc": "Deal less damage with Gluttony skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Oburluk Hasarı Azalışı",
+      "desc": "Bir turluğuna Oburluk yetenekleri ile bu etkinin Miktarına göre daha az hasar ver. (Maks 10)"
     },
     {
       "id": "AzureDamageDown",
-      "name": "Gloom DMG Down",
-      "desc": "Deal less damage with Gloom skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Kasvet Hasarı Azalışı",
+      "desc": "Bir turluğuna Kasvet yetenekleri ile bu etkinin Miktarına göre daha az hasar ver. (Maks 10)"
     },
     {
       "id": "IndigoDamageDown",
-      "name": "Pride DMG Down",
-      "desc": "Deal less damage with Pride skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Kibir Hasarı Azalışı",
+      "desc": "Bir turluğuna Kibir yetenekleri ile bu etkinin Miktarına göre daha az hasar ver. (Maks 10)"
     },
     {
       "id": "VioletDamageDown",
-      "name": "Envy DMG Down",
-      "desc": "Deal less damage with Envy skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Kıskançlık Hasarı Azalışı",
+      "desc": "Bir turluğuna Kıskançlık yetenekleri ile bu etkinin Miktarına göre daha az hasar ver. (Maks 10)"
     },
     {
       "id": "CrimsonDamageUp",
-      "name": "Wrath DMG Up",
-      "desc": "Deal more damage with Wrath skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Öfke Hasarı Artışı",
+      "desc": "Bir turluğuna Öfke yetenekleri ile bu etkinin Miktarına göre daha fazla hasar ver. (Maks 10)"
     },
     {
       "id": "ScarletDamageUp",
-      "name": "Lust DMG Up",
-      "desc": "Deal more damage with Lust skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Şehvet Hasarı Artışı",
+      "desc": "Bir turluğuna Şehvet yetenekleri ile bu etkinin Miktarına göre daha fazla hasar ver. (Maks 10)"
     },
     {
       "id": "AmberDamageUp",
-      "name": "Sloth DMG Up",
-      "desc": "Deal more damage with Sloth skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Tembellik Hasarı Artışı",
+      "desc": "Bir turluğuna Tembellik yetenekleri ile bu etkinin Miktarına göre daha fazla hasar ver. (Maks 10)"
     },
     {
       "id": "ShamrockDamageUp",
-      "name": "Gluttony DMG Up",
-      "desc": "Deal more damage with Gluttony skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Oburluk Hasarı Artışı",
+      "desc": "Bir turluğuna Oburluk yetenekleri ile bu etkinin Miktarına göre daha fazla hasar ver. (Maks 10)"
     },
     {
       "id": "AzureDamageUp",
-      "name": "Gloom DMG Up",
-      "desc": "Deal more damage with Gloom skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Kasvet Hasarı Artışı",
+      "desc": "Bir turluğuna Kasvet yetenekleri ile bu etkinin Miktarına göre daha fazla hasar ver. (Maks 10)"
     },
     {
       "id": "IndigoDamageUp",
-      "name": "Pride DMG Up",
-      "desc": "Deal more damage with Pride skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Kibir Hasarı Artışı",
+      "desc": "Bir turluğuna Kibir yetenekleri ile bu etkinin Miktarına göre daha fazla hasar ver. (Maks 10)"
     },
     {
       "id": "VioletDamageUp",
-      "name": "Envy DMG Up",
-      "desc": "Deal more damage with Envy skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Kıskançlık Hasarı Artışı",
+      "desc": "Bir turluğuna Kıskançlık yetenekleri ile bu etkinin Miktarına göre daha fazla hasar ver. (Maks 10)"
     },
     {
       "id": "Curse",
-      "name": "Curse",
-      "desc": "Turn End: Next turn, randomly gain one of the following, then reduce this effect’s Count by 1.\n1 Attack Power Down/1 Defense Power Down/2 Offense Level Down/2 Defense Level Down."
+      "name": "Lanet", 
+      "desc": "Tur Sonu: Sonraki tur, sıradaki etkilerden bir tanesini rastgele kazan, sonrasında bu Etkinin miktarını 1 azalt.\n1 Saldırı Gücü Azalışı/1 Savunma Gücü Azalışı/2 Saldırı Seviyesi Artışı/2 Savunma Seviyesi Azalışı."
     },
     {
       "id": "AttackDmgUp_Weak",
