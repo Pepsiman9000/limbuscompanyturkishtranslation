@@ -70,23 +70,23 @@
     },
     {
       "id": "battle_log_use_ego",
-      "content": "{0} awakens {1}!!"
+      "content": "{0} uyanıyor {1}!!"
     },
     {
       "id": "battle_log_use_ego_corrosion",
-      "content": "{1} corrodes {0}!!"
+      "content": "{1} aşınıyor {0}!!"
     },
     {
       "id": "battle_log_personality_corrosion",
-      "content": "{0} has a breakdown!!"
+      "content": "{0} ruhsal çöküntü yaşıyor!!"
     },
     {
       "id": "battle_log_low_morale",
-      "content": "{0}’s morale is low!"
+      "content": "{0}’in morali düştü!"
     },
     {
       "id": "battle_log_panic",
-      "content": "{0} is panicking!!"
+      "content": "{0} panik içinde!!"
     },
     {
       "id": "choice_result_success",
@@ -162,7 +162,7 @@
     },
     {
       "id": "turnplace_test_name",
-      "content": "Terk Edilmiş bir LC branşı"
+      "content": "Terk Edilmiş bir LŞ şubesi"
     },
     {
       "id": "death",
@@ -270,11 +270,11 @@
     },
     {
       "id": "get_ego_gift",
-      "content": "E.G.O Gift Alındı"
+      "content": "E.G.O Hediyesi Alındı"
     },
     {
       "id": "get_ego_gift_desc",
-      "content": "E.G.O Gift Alındı!"
+      "content": "E.G.O Hediyesi Alındı!"
     },
     {
       "id": "selection",
@@ -290,11 +290,11 @@
     },
     {
       "id": "enter",
-      "content": "Gir"
+      "content": "Giriş Yap"
     },
     {
       "id": "recommend_level",
-      "content": "Ideal LVL"
+      "content": "Ideal SV."
     },
     {
       "id": "enemy_info",
@@ -310,7 +310,7 @@
     },
     {
       "id": "crime_state_judgment",
-      "content": "{0} Check"
+      "content": "{0} Kontrol"
     },
     {
       "id": "choice_personality",
@@ -362,7 +362,7 @@
     },
     {
       "id": "areaatk_attack",
-      "content": "AoE Yetenekler"
+      "content": "Alan Hasar Yetenekler"
     },
     {
       "id": "enter_battle",
@@ -378,7 +378,7 @@
     },
     {
       "id": "skillinfo_passivetitle",
-      "content": "Pasifles"
+      "content": "Pasifler"
     },
     {
       "id": "skillinfo_coinabilitytitle",
@@ -386,7 +386,7 @@
     },
     {
       "id": "dungeon_save_desc",
-      "content": "Checkpoint ulaşıldı.\nZindan ilerlemesi kaydedildi.\nTüm Günahkârlar iyileştirildi."
+      "content": "Kayıt Noktasına ulaşıldı.\nZindan ilerlemesi kaydedildi.\nTüm Günahkârlar iyileştirildi."
     },
     {
       "id": "battle_battleunit_evade",
@@ -442,7 +442,7 @@
     },
     {
       "id": "abnormality_part_hp",
-      "content": "Bölge HPsi"
+      "content": "Uzuv HPsi"
     },
     {
       "id": "abnormality_research_level",
@@ -490,7 +490,7 @@
     },
     {
       "id": "hit_resistance",
-      "content": "Ezme Dayanıklılığı."
+      "content": "Darbe Dayanıklılığı."
     },
     {
       "id": "Lack_Buff",
@@ -510,7 +510,7 @@
     },
     {
       "id": "stage_GiveUp",
-      "content": "Pes"
+      "content": "Savaşı Bırak"
     },
     {
       "id": "show_skillTool",
@@ -526,7 +526,7 @@
     },
     {
       "id": "battle_operation_offset",
-      "content": "Offset"
+      "content": "Ofset"
     },
     {
       "id": "oneside_defense",
@@ -534,7 +534,7 @@
     },
     {
       "id": "cantIdentify",
-      "content": "<color=#ff0000>[Indiscriminate]</color>"
+      "content": "<color=#ff0000>[Ayrım Gözetmeyez]</color>"
     },
     {
       "id": "popup_message_ego_irrevocable",
@@ -630,31 +630,31 @@
     },
     {
       "id": "LobotomyClearTypo_Name_1",
-      "content": "Doubt"
+      "content": "Şüphe"
     },
     {
       "id": "LobotomyClearTypo_Desc_1",
-      "content": "To live was a process full of pain."
+      "content": "Yaşamak acılarla dolu bir süreçti"
     },
     {
       "id": "LobotomyEndTypo_Title",
-      "content": "Time Limit Reached"
+      "content": "Zaman Sınırına Ulaşıldı"
     },
     {
       "id": "LobotomyEndTypo_Desc",
-      "content": "Remaining Ordeal Entities: {0}"
+      "content": "Şuanki 'Olay' Varlıkları: {0}"
     },
     {
       "id": "abnormality_all_part",
-      "content": "All Parts"
+      "content": "Bütün Uzuvlar"
     },
     {
       "id": "applying_buff_format",
-      "content": "{0} Activated"
+      "content": "{0} Aktifleştirilmiş"
     },
     {
       "id": "level_number_UNDEF",
-      "content": "Undef."
+      "content": "Bilinmeyen"
     },
     {
       "id": "level_number_HYPHEN",
@@ -670,7 +670,7 @@
     },
     {
       "id": "BatonPassUIText",
-      "content": "Substitute"
+      "content": "Vekil"
     },
     {
       "id": "perfect",
@@ -678,31 +678,31 @@
     },
     {
       "id": "ab_part_destroyed",
-      "content": "Destroyed"
+      "content": "Parçalanan"
     },
     {
       "id": "ab_part_vanished",
-      "content": "Destr. & Severed"
+      "content": "Kırılan & Kopartılan"
     },
     {
       "id": "ab_part_cannot_destroy_and_vanish",
-      "content": "Indestr. & Unsever."
+      "content": "Kırılamaz & Kopartılamaz"
     },
     {
       "id": "current_hp",
-      "content": "Current HP"
+      "content": "Mevcut HP"
     },
     {
       "id": "break_section_format",
-      "content": "Stagger [{0}]"
+      "content": "Sersemleme [{0}]"
     },
     {
       "id": "no_break_section",
-      "content": "No Stagger Threshold"
+      "content": "Sersemleme EŞİĞİ yOK"
     },
     {
       "id": "correction_based_on_unit_keyword",
-      "content": "{0} Identity Modifier: {1}(, )"
+      "content": "{0} Karakter Değişkeni: {1}(, )"
     },
     {
       "id": "battle_operation_counter",
@@ -710,71 +710,71 @@
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
-      "content": "Dawn"
+      "content": "Şafak"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_1",
-      "content": "Noon"
+      "content": "Öğle"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_2",
-      "content": "Dusk"
+      "content": "Alacakaranlık"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_3",
-      "content": "Midnight"
+      "content": "Geceyarısı"
     },
     {
       "id": "LobotomyOrdealTypo_QliphothLevel",
-      "content": "Qliphoth Meltdown - Level {0}"
+      "content": "Klipoth Erimesi - Seviye {0}"
     },
     {
       "id": "SinkingWhite_stack",
-      "content": "The Living"
+      "content": "Yaşam"
     },
     {
       "id": "SinkingWhite_turn",
-      "content": "The Departed"
+      "content": "Vefat"
     },
     {
       "id": "BulletLament_stack",
-      "content": "The Living(Ammo)"
+      "content": "Yaşam(Mermi)"
     },
     {
       "id": "BulletLament_turn",
-      "content": "The Departed(Ammo)"
+      "content": "Vefat(Mermi)"
     },
     {
       "id": "Retreat_Textalram",
-      "content": "!Retreat!"
+      "content": "!Geri Çekil!"
     },
     {
       "id": "Retreat_TextPassive",
-      "content": "Retreating"
+      "content": "Geri Çekliyior"
     },
     {
       "id": "battle_operation_defense",
-      "content": "Power Guard"
+      "content": "Güç Savunması"
     },
     {
       "id": "battle_operation_defense_TextTypo",
-      "content": "Depowered!"
+      "content": "Güçsüzleştirilmiş!"
     },
     {
       "id": "battle_StageBuffUI_Stackdesc",
-      "content": "(Current Value: {0})"
+      "content": "(Şuanki Değer: {0})"
     },
     {
       "id": "EGOSelectUI_not_allow",
-      "content": "This E.G.O cannot be equipped at the moment."
+      "content": "Bu E.G.O şuanda kullanılamıyor"
     },
     {
       "id": "laceration_surge",
-      "content": "Bleed Deluge!"
+      "content": "Kanama Tufanı!"
     },
     {
       "id": "QTE_Notice",
-      "content": "GALLOP ON, TOGETHER!"
+      "content": "DÖRTNALA, HEP BERABER!"
     },
     {
       "id": "septempeccata_classification",
@@ -782,7 +782,7 @@
     },
     {
       "id": "run_forBattlePortraitStateText",
-      "content": "FLED"
+      "content": "KAÇTI"
     }
   ]
 }
