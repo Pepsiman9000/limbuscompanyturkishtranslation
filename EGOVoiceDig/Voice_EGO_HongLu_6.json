@@ -28,7 +28,7 @@
     {
       "id": "battle_awaken_20604_1",
       "desc": "E.G.O Activation",
-      "dlg": "Tadaa~ Dönüşüm tamamlandı! Hah, koca bir tekne dolusu hem de!"
+      "dlg": "Tadaa~ Dönüşüm tamamlandı!\nHah al sana, koca bir tekne dolusu hem de!"
     },
     {
       "id": "battle_erosion_20604_1",
@@ -63,7 +63,7 @@
     {
       "id": "battle_erosion_20607_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Hahah! Yakaladım~! This is what happens when\nyou don't know your place and run away, fugitive."
+      "dlg": "Hahaha! Yakaladım~!\nİşte yerini bilmeyip kaçarsan böyle olur, kaçgın şey."
     }
   ]
 }
