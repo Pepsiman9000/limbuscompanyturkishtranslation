@@ -6,23 +6,23 @@
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Ah… Tam olarak nesin sen…?"
+      "content": "Ah… Şimdi sizlerde kim oluyorsunuz…?"
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<Rodya, how did it go?!>"
+      "content": "<Rodya, nasıl gitti?!>"
     },
     {
       "id": 2,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Boş zamanında yeni arkadaşlar mı edindin, Rodya?"
+      "content": "Bakıyorum da bu arada yeni arkadaşlar edinmişsin, Rodya?"
     },
     {
       "id": 3,
-      "content": "Sonya, kartlarını göz göre göre masaya dizivermişti."
+      "content": "Sonya, kartları gözükçek biçimde elini masaya dizdi."
     },
     {
       "id": 4,
@@ -40,11 +40,11 @@
     },
     {
       "id": 6,
-      "content": "He then left through the door and didn’t return."
+      "content": "Kendisi sonra kapıya doğru yönelip basitçe odadan çıktı."
     },
     {
       "id": 7,
-      "content": "Instead, a deafeningly hollow clap suddenly filled the room."
+      "content": "Onun çıkmasıyla beraber, odayı ruhsuz bir alkış sesi doldurdu."
     },
     {
       "id": 8,
@@ -77,7 +77,7 @@
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Mhm. Sence de şu an yaptığım, zaferimi kabullenmekten daha mı az eğlenceli?"
+      "content": "Mhm. Sence de şu an yaptığım, yenilgimi kutlamaktan daha mı az eğlenceli olur?"
     },
     {
       "id": 13,
@@ -99,7 +99,7 @@
     {
       "id": 16,
       "model": "로쟈",
-      "content": "Benim de öylece oturmaktan canım çıkacaktı."
+      "content": "Benim de öylece oturmaktan canım sıkılmaya başlamıştı."
     }
   ]
 }
