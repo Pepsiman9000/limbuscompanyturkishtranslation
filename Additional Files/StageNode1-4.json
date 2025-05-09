@@ -1,64 +1,64 @@
 {
   "dataList": [
-    {
+     {
       "id": 10401,
-      "title": "Off the Bus",
-      "place": "Aboard Mephistopheles",
-      "desc": "I found myself looking at dead and dying Sinners in the middle of the Nest, a place that's supposed to be peaceful. And in front of me is... I began tracing back my memories to figure out what happened."
+      "title": "Otobüsten İniş",
+      "place": "Mephistopheles'te",
+      "desc": "Kendimi, huzurlu olması gereken Yuvanın ortasında ölü ve ölmekte olan Günahkarlara bakarken buldum. Ve önümde duran... Ne olduğunu anlamak için hafızamı tazelemeye başladım."
     },
     {
       "id": 10402,
-      "title": "Talent and Genius",
-      "place": "K Corp's Nest",
-      "desc": "Why are there Abnormalities in the middle of K Corp's Nest? Vergilius seemed to mean it when he said we could return to the bus after we've dealt with this commotion. Passing by frightened crowds, we head to the center of the mess."
+      "title": "Yetenek ve Deha",
+      "place": "K Kuruluşu Yuvası",
+      "desc": "K Kuruluşu Yuvasının ortasında neden Anormallikler var? Vergilius, bu kargaşayı hallettikten sonra otobüse dönebileceğimizi söylerken ciddi görünüyordu. Korkmuş kalabalıkların arasından geçerek, olayların merkezine doğru ilerliyoruz."
     },
     {
       "id": 10403,
-      "title": "Drones and Abnormalities",
-      "place": "K Corp's Nest",
-      "desc": "Getting suspicious drones out of the way, we're dealing with the chaos. They look quite expensive at a glance, and the K Corp. logo on them makes me all the more hesitant about destroying them."
+      "title": "Dronlar ve Anormallikler",
+      "place": "K Kuruluşu Yuvası",
+      "desc": "Şüpheli dronları etkisiz hale getirirken kaosla başa çıkmaya çalışıyoruz. İlk bakışta oldukça pahalı görünüyorlar ve üzerlerindeki K Kuruluşu logosu onları yok etme konusunda tereddüt etmeme neden oluyor."
     },
     {
       "id": 10404,
-      "title": "Drones and Abnormalities 2",
-      "place": "K Corp's Nest",
-      "desc": "Getting suspicious drones out of the way, we're dealing with the chaos. They look quite expensive at a glance, and the K Corp. logo on them makes me all the more hesitant about destroying them."
+      "title": "Dronlar ve Anormallikler 2",
+      "place": "K Kuruluşu Yuvası",
+      "desc": "Şüpheli dronları etkisiz hale getirirken kaosla başa çıkmaya çalışıyoruz. İlk bakışta oldukça pahalı görünüyorlar ve üzerlerindeki K Kuruluşu logosu onları yok etme konusunda tereddüt etmeme neden oluyor."
     },
     {
       "id": 10405,
-      "title": "Drones and Abnormalities 3",
-      "place": "K Corp's Nest",
-      "desc": "Getting suspicious drones out of the way, we're dealing with the chaos. They look quite expensive at a glance, and the K Corp. logo on them makes me all the more hesitant about destroying them."
+      "title": "Dronlar ve Anormallikler 3",
+      "place": "K Kuruluşu Yuvası",
+      "desc": "Şüpheli dronları etkisiz hale getirirken kaosla başa çıkmaya çalışıyoruz. İlk bakışta oldukça pahalı görünüyorlar ve üzerlerindeki K Kuruluşu logosu onları yok etme konusunda tereddüt etmeme neden oluyor."
     },
     {
       "id": 10406,
-      "title": "Return",
-      "place": "K Corp's Nest",
-      "desc": "We no longer see those annoying drones. Now, it's us between the Abnormalities, the threat we actually should remove."
+      "title": "Dönüş",
+      "place": "K Kuruluşu Yuvası",
+      "desc": "Artık o sinir bozucu dronları görmüyoruz. Şimdi, asıl tehdit olan Anormalliklerin arasındayız."
     },
     {
       "id": 10407,
-      "title": "The Client",
-      "place": "K Corp. Laboratory",
-      "desc": "We managed to defeat the Abnormalities and got back on the bus. Who could be giving us a request? I looked out the window, pretending not to hear Ishmael's faint humming."
+      "title": "Müşteri",
+      "place": "K Kuruluşu Laboratuvarı",
+      "desc": "Anormallikleri yenmeyi başardık ve otobüse geri döndük. Bize bu talebi kim iletiyor olabilir? Pencereden dışarı bakarken, Ishmael'in hafif mırıltılarını duymamazlıktan geldim."
     },
     {
       "id": 10408,
-      "title": "Application",
-      "place": "K Corp. Laboratory",
-      "desc": "We saw someone we never thought we would see again. But, the Sinners didn't seem too thrilled about the reunion. The client, who says his name is 'Dongrang', starts a friendly conversation. This is despite the fact that no one other than the Sinners can hear what I say..."
+      "title": "Başvuru",
+      "place": "K Kuruluşu Laboratuvarı",
+      "desc": "Bir daha görmeyi beklemediğimiz biriyle karşılaştık. Ancak Günahkarlar bu buluşmadan pek memnun görünmüyordu. Kendisine 'Dongrang' diyen müşteri, samimi bir sohbete başladı. Bu, Günahkarlar dışında kimsenin benim söylediklerimi duyamayacağı gerçeğine rağmen..."
     },
     {
       "id": 10409,
-      "title": "Regeneration Ampules",
-      "place": "K Corp. Laboratory",
-      "desc": "After boasting about K Corp's regeneration technology, Dongrang invited us to his lab. Disregarding Samjo's visible shock, we followed Dongrang into his workplace."
+      "title": "Rejenerasyon Ampülleri",
+      "place": "K Kuruluşu Laboratuvarı",
+      "desc": "K Kuruluşunun rejenerasyon teknolojisi hakkında övündükten sonra, Dongrang bizi laboratuvarına davet etti. Samjo'nun gözle görülür şaşkınlığını görmezden gelerek, Dongrang'ı iş yerine kadar takip ettik."
     },
     {
       "id": 10410,
-      "title": "Terrorist Organization",
-      "place": "K Corp. Laboratory",
-      "desc": "Intruders broke into the lab. Samjo called them terrorists, but they rejected the notion and instead introduced themselves as the 'technology liberation alliance'. Whatever they are, we have to fight them to survive the attack and proceed with the request."
+      "title": "Terör Örgütü",
+      "place": "K Kuruluşu Laboratuvarı",
+      "desc": "Laboratuvara izinsiz girenler girdi. Samjo onlara terörist dedi, ancak onlar bu fikri reddederek kendilerini 'teknoloji kurtuluş birliği' olarak tanıttılar. Her ne iseler, saldırıdan kurtulup görevi sürdürmek için onlarla savaşmak zorundayız."
     },
     {
       "id": 10411,
