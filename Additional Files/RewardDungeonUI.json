@@ -2,99 +2,99 @@
   "dataList": [
     {
       "id": "enter_exp_dungeon",
-      "content": "EXP Luxcavation"
+      "content": "TP Kazısı"
     },
     {
       "id": "enter_mirror_dungeon",
-      "content": "Mirror Dungeons"
+      "content": "Ayna Zindanı"
     },
     {
       "id": "enter_thread_dungeon",
-      "content": "Thread Luxcavation"
+      "content": "Ampül Kazısı"
     },
     {
       "id": "enter_count",
-      "content": "Entries"
+      "content": "Girişler"
     },
     {
       "id": "remain_time",
-      "content": "Time Left"
+      "content": "Kalan Zaman"
     },
     {
       "id": "open_at_day_of_the_week",
-      "content": "Opens {0}"
+      "content": "Açılış {0}"
     },
     {
       "id": "recommended_level",
-      "content": "Difficulty"
+      "content": "Zorluk"
     },
     {
       "id": "equal_or_more",
-      "content": "or above"
+      "content": "yada üstü"
     },
     {
       "id": "valid_attack_type",
-      "content": "Useful Types"
+      "content": "Tavsiye Edilen\nTür"
     },
     {
       "id": "exp_dungeon_index",
-      "content": "EXP Luxcavation #{0}"
+      "content": "TP Kazısı #{0}"
     },
     {
       "id": "Monday",
-      "content": "MON"
+      "content": "PZT"
     },
     {
       "id": "Tuesday",
-      "content": "TUE"
+      "content": "SAL"
     },
     {
       "id": "Wednesday",
-      "content": "WED"
+      "content": "ÇAR"
     },
     {
       "id": "Thursday",
-      "content": "THU"
+      "content": "PER"
     },
     {
       "id": "Friday",
-      "content": "FRI"
+      "content": "CUM"
     },
     {
       "id": "Saturday",
-      "content": "SAT"
+      "content": "CMRT"
     },
     {
       "id": "Sunday",
-      "content": "SUN"
+      "content": "PAZ"
     },
     {
       "id": "select_level",
-      "content": "Level Select"
+      "content": "Seviye Seç"
     },
     {
       "id": "require_clear_story_stage",
-      "content": "Clear Main Story {0}-{1}"
+      "content": "Ana Hikayeyi bitir {0}-{1}"
     },
     {
       "id": "daily_bonus_count",
-      "content": "Daily Bonuses"
+      "content": "Günlük\nBonus"
     },
     {
       "id": "reward_dungeon_exp",
-      "content": "EXP"
+      "content": "TP"
     },
     {
       "id": "reward_dungeon_thread",
-      "content": "Thread"
+      "content": "Ampül"
     },
     {
       "id": "reward_dungeon_mining",
-      "content": "Luxcavation"
+      "content": "Kazılar"
     },
     {
       "id": "thread_dungeon_stage_name_with_attribute",
-      "content": "Thread Luxcavation ({0})"
+      "content": "Ampül Kazısı ({0})"
     }
   ]
 }
