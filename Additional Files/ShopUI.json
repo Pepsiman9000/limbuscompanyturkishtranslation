@@ -2,255 +2,255 @@
   "dataList": [
     {
       "id": "mainui_shop_charge_enkephalin_tab",
-      "content": "Charge Enkephalin"
+      "content": "Enkefalin Şarj Et"
     },
     {
       "id": "mainui_shop_buy_enkephalin_box_tab",
-      "content": "Purchase Enkephalin Box"
+      "content": "Enkefalin Kutusu Satın Al"
     },
     {
       "id": "mainui_shop_buy_enkephalin_box",
-      "content": "Enkephalin Box purchased."
+      "content": "Enkefalin Kutusu satın alındı."
     },
     {
       "id": "mainui_shop_scarce_madness",
-      "content": "You don’t have enough Lunacy."
+      "content": "Yeterli Lunacy'niz yok."
     },
     {
       "id": "mainui_shop_ask_buy_enkephalin_box",
-      "content": "Would you like to purchase Enkephalin Boxes?"
+      "content": "Enkefalin Kutuları satın almak ister misiniz?"
     },
     {
       "id": "mainui_shop_own",
-      "content": "Owned"
+      "content": "Sahip"
     },
     {
       "id": "mainui_shop_enkephalin_fulled",
-      "content": "Enkephalin is already at max capacity."
+      "content": "Enkefalin zaten maksimum kapasitede."
     },
     {
       "id": "mainui_shop_ask_charge_enkephalin",
-      "content": "Would you like to charge Enkephalin?"
+      "content": "Enkefalin şarj etmek ister misiniz?"
     },
     {
       "id": "mainui_shop_charge_enkephalin",
-      "content": "Enkephalin charged."
+      "content": "Enkefalin şarj edildi."
     },
     {
       "id": "mainui_shop_enkephalin_number",
-      "content": "Enkephalin"
+      "content": "Enkefalin"
     },
     {
       "id": "mainui_shop_madness_tab",
-      "content": "Lunacy Shop"
+      "content": "Lunacy Dükkanı"
     },
     {
       "id": "mainui_shop_package_tab",
-      "content": "Packs"
+      "content": "Paketler"
     },
     {
       "id": "mainui_shop_only_once",
-      "content": "First-time Offers"
+      "content": "İlk Alım Teklifleri"
     },
     {
       "id": "mainui_shop_additional_give",
-      "content": "Bonus Supplies"
+      "content": "Bonus Malzemeler"
     },
     {
       "id": "mainui_shop_not_free",
-      "content": "Paid"
+      "content": "Ücretli"
     },
     {
       "id": "mainui_shop_purchase_per_today_fulled",
-      "content": "You’ve reached the maximum of Enkephalin Box purchases for today."
+      "content": "Bugünkü maksimum Enkefalin Kutusu satın alma limitine ulaştınız."
     },
     {
       "id": "mainui_shop_purchase_success",
-      "content": "Purchase successful."
+      "content": "Satın alma başarılı."
     },
     {
       "id": "mainui_shop_enkephalin_box_scarce",
-      "content": "You don’t have enough Enkephalin Boxes."
+      "content": "Yeterli Enkefalin Kutunuz yok."
     },
     {
       "id": "mainui_shop_lunacy_scarce",
-      "content": "You don’t have enough Lunacy."
+      "content": "Yeterli Lunacy'niz yok."
     },
     {
       "id": "mainui_shop_limit_purchase_permanent",
-      "content": "{0} Left"
+      "content": "{0} Kaldı"
     },
     {
       "id": "mainui_shop_limit_purchase_periodic",
-      "content": "{0} in Stock"
+      "content": "{0} Stokta"
     },
     {
       "id": "mainui_shop_acquire_at_mailbox",
-      "content": "※ Redeemable at the mailbox."
+      "content": "※ Posta kutusundan alınabilir."
     },
     {
       "id": "mainui_shop_purchase_product_success",
-      "content": "Successfully purchased\n{0}."
+      "content": "{0} başarıyla satın alındı."
     },
     {
       "id": "mainui_shop_remain_days_minutes",
-      "content": "{0}D {1}H remain"
+      "content": "{0}G {1}S kaldı"
     },
     {
       "id": "shopui_use_enkephalin_box",
-      "content": "Use Enkephalin Box"
+      "content": "Enkefalin Kutusu Kullan"
     },
     {
       "id": "shopui_use_lunacy",
-      "content": "Use Lunacy"
+      "content": "Lunacy Kullan"
     },
     {
       "id": "shopui_no_more_purchase_chance_today",
-      "content": "Reached the daily purchase limit."
+      "content": "Günlük satın alma limitine ulaşıldı."
     },
     {
       "id": "shopui_scarce_lunacy",
-      "content": "You don’t have enough Lunacy."
+      "content": "Yeterli Lunacy'niz yok."
     },
     {
       "id": "shopui_scarce_enkephalin_box",
-      "content": "You don’t have enough Enkephalin Boxes."
+      "content": "Yeterli Enkefalin Kutunuz yok."
     },
     {
       "id": "shopui_scarce_enkephalin",
-      "content": "Insufficient Enkephalin."
+      "content": "Yetersiz Enkefalin."
     },
     {
       "id": "shopui_make_enkephalin_module",
-      "content": "Assemble Enkephalin Modules"
+      "content": "Enkefalin Modülleri Oluştur"
     },
     {
       "id": "shopui_charge_enkephalin_about",
-      "content": "Recharge {0} Enkephalin?"
+      "content": "{0} Enkefalin şarj edilsin mi?"
     },
     {
       "id": "shopui_recover_enkephalin_after_time",
-      "content": "{1} Enkephalin recovered in {0}."
+      "content": "{0} içinde {1} Enkefalin dolacak."
     },
     {
       "id": "shopui_ask_create_enkephalin_module",
-      "content": "Would you like to assemble Enkephalin Modules?"
+      "content": "Enkefalin Modülleri oluşturmak ister misiniz?"
     },
     {
       "id": "shopui_charge_as_lunacy",
-      "content": "Use Lunacy"
+      "content": "Lunacy Kullan"
     },
     {
       "id": "shopui_charge_as_box",
-      "content": "Use Boxes"
+      "content": "Kutuları Kullan"
     },
     {
       "id": "shopui_create_module",
-      "content": "Modules"
+      "content": "Modüller"
     },
     {
       "id": "remain_days",
-      "content": "{0}d"
+      "content": "{0}g"
     },
     {
       "id": "remain_hours",
-      "content": "{0}h"
+      "content": "{0}s"
     },
     {
       "id": "remain_minutes",
-      "content": "{0}m"
+      "content": "{0}d"
     },
     {
       "id": "enkephalin_charge_finished",
-      "content": "Enkephalin Charged"
+      "content": "Enkefalin Şarj Edildi"
     },
     {
       "id": "unable_to_charge",
-      "content": "Cannot Charge"
+      "content": "Şarj Edilemez"
     },
     {
       "id": "lack_of_enkephalin_box",
-      "content": "Not Enough Boxes"
+      "content": "Yeterli Kutu Yok"
     },
     {
       "id": "enkephalin_full",
-      "content": "Max Enkephalin"
+      "content": "Maksimum Enkefalin"
     },
     {
       "id": "purchase_limitation_full",
-      "content": "Purchase Limit Reached"
+      "content": "Satın Alma Limiti Doldu"
     },
     {
       "id": "lack_of_lunacy",
-      "content": "Not Enough Lunacy"
+      "content": "Yeterli Lunacy Yok"
     },
     {
       "id": "create_enkephalin_module_success",
-      "content": "Module Assembled"
+      "content": "Modül Oluşturuldu"
     },
     {
       "id": "unable_to_create_enkephalin_module",
-      "content": "Cannot Assemble Modules"
+      "content": "Modül Oluşturulamaz"
     },
     {
       "id": "lack_of_enkephalin",
-      "content": "Not Enough Enkephalin"
+      "content": "Yeterli Enkefalin Yok"
     },
     {
       "id": "remain_days_with_number",
-      "content": "{0}d left"
+      "content": "{0}g kaldı"
     },
     {
       "id": "enkephalin_module",
-      "content": "Enkephalin Module"
+      "content": "Enkefalin Modülü"
     },
     {
       "id": "enkephalin_box",
-      "content": "Enkephalin Box"
+      "content": "Enkefalin Kutusu"
     },
     {
       "id": "today_purchase_count",
-      "content": "Daily Count"
+      "content": "Günlük Sayım"
     },
     {
       "id": "lack_of_lunacy_ask_to_move_shop",
-      "content": "You don’t have enough Lunacy. Would you like to head to the shop?"
+      "content": "Yeterli Lunacy'niz yok. Dükkana gitmek ister misiniz?"
     },
     {
       "id": "remain_hours_with_number",
-      "content": "{0}h left"
+      "content": "{0}s kaldı"
     },
     {
       "id": "enkephalin_module_count_max",
-      "content": "Max Enkephalin Modules"
+      "content": "Maksimum Enkefalin Modülü"
     },
     {
       "id": "enkephalin_module_count_max_desc",
-      "content": "Cannot assemble Modules; you have too many in storage."
+      "content": "Depoda çok fazla modül olduğundan oluşturulamaz."
     },
     {
       "id": "mainui_shop_lunacy_package_tab",
-      "content": "Packs #2"
+      "content": "Paketler #2"
     },
     {
       "id": "mainui_shop_until_season_finished",
-      "content": "Until Season 6 Update"
+      "content": "Sezon 6 Güncellemesine Kadar"
     },
     {
       "id": "mainui_shop_purchase",
-      "content": "Purchase"
+      "content": "Satın Al"
     },
     {
       "id": "mainui_shop_popup_title",
-      "content": "Shop"
+      "content": "Dükkan"
     },
     {
       "id": "paidShop_category_SPECIAL",
-      "content": "Special"
+      "content": "Özel"
     },
     {
       "id": "paidShop_category_PACKAGE",
-      "content": "Packs"
+      "content": "Paketler"
     },
     {
       "id": "paidShop_category_LUNACY",
@@ -258,63 +258,63 @@
     },
     {
       "id": "paidShop_category_GROWTH",
-      "content": "Growth"
+      "content": "Büyüme"
     },
     {
       "id": "returnpolicy_info_title",
-      "content": "Refund Policy"
+      "content": "İade Politikası"
     },
     {
       "id": "paidShop_Tab_LIMITED",
-      "content": "Limited"
+      "content": "Sınırlı"
     },
     {
       "id": "paidShop_Tab_WEEKLY",
-      "content": "Weekly"
+      "content": "Haftalık"
     },
     {
       "id": "paidShop_Tab_MONTHLY",
-      "content": "Monthly"
+      "content": "Aylık"
     },
     {
       "id": "paidShop_Tab_ALWAYS",
-      "content": "Always Available"
+      "content": "Daima Mevcut"
     },
     {
       "id": "go_to_mail_popup",
-      "content": "To Inbox"
+      "content": "Gelen Kutusuna Git"
     },
     {
       "id": "membership_remain_side_title",
-      "content": "[Pack Expiry Notice]"
+      "content": "[Paket Son Kullanma Bildirimi]"
     },
     {
       "id": "membership_remain_side_desc",
-      "content": "{1} day(s) remaining for your {0}."
+      "content": "{0} için {1} gün kaldı."
     },
     {
       "id": "returnpolicy_table_battlePassPackge",
-      "content": "Limbus Pass Package"
+      "content": "Limbus Pass Paketi"
     },
     {
       "id": "paid_runacy_lack",
-      "content": "Not enough paid Lunacy."
+      "content": "Yeterli ücretli Lunacy yok."
     },
     {
       "id": "membership_remain_side_desc_oneDay",
-      "content": "{0} expires today."
+      "content": "{0} bugün sona eriyor."
     },
     {
       "id": "restore_purchase_btn",
-      "content": "Restore Purchase"
+      "content": "Satın Alımı Geri Yükle"
     },
     {
       "id": "restore_purchase_no_product",
-      "content": "No product available for restoration."
+      "content": "Geri yüklenecek ürün yok."
     },
     {
       "id": "restore_purchase_succeed",
-      "content": "Your unclaimed products have been restored."
+      "content": "Alınmamış ürünleriniz geri yüklendi."
     }
   ]
 }
