@@ -2,174 +2,160 @@
     "dataList": [
         {
             "id": 810001,
-            "title": "Skin Prophet",
-            "prevDesc": "The prophet records endlessly.",
-            "eventDesc": "The records, inscribed with that burning quill, are endless.\n\nYet the prophet must write.\n\nBecause the future is also endless.",
-            "behaveDesc": "Who will read the records?",
+            "title": "Deri Peygamberi",
+            "prevDesc": "Peygamber durmaksızın kayıt tutar.",
+            "eventDesc": "O yanan kalemle yazılan kayıtların sonu yoktur.\n\nAncak peygamber yazmak zorundadır.\n\nÇünkü gelecek de sonsuzdur.",
+            "behaveDesc": "Bu kayıtları kim okuyacak?",
             "successDesc": [
-                "[{0}] snuffed the burning flames and looked into the records.\n\n@#$!@%!!@%!@%!@%\n\nThe Sinner could not understand a single word of it... but soon realized that reading it was unnecessary.\n\n[{0}] merely accepted the records as they naturally came to them.\n\nThe Sinner felt as though something was constricting around their head, but... their weapon arm felt empowered.\n\n... One of its heads was glaring in their direction."
+                "[{0}] yanan alevleri söndürdü ve kayıtlara baktı.\n\n@#$!@%!!@%!@%!@%\n\nGünahkâr tek bir kelimesini bile anlayamadı... ama sonunda okumanın gereksiz olduğunu fark etti.\n\n[{0}] kayıtları olduğu gibi kabul etti.\n\nGünahkâr kafasında bir şeylerin sıkıştığını hissetti, ama... silah tutan kolu güçlenmişti.\n\n... Başlarından biri ona doğru bakıyordu."
             ],
             "failureDesc": [
-                "Not all of its flames could be snuffed out.\n\n[{0}] awkwardly looked into the records.\n\n@#$!@%!!@%!@%!@%\n\nAn impure, terrifying sensation climbed the Sinner's body.\n\nThe Sinner could not help but stumble a few steps back.\n\nIn doing so, [{0}] instinctively raised their hands...\n\n... and dropped the book of Prophecy, full of writing, on the ground.\n\nThe book dropped with its contents visible for all Sinners to see...\n\nStriking all those who gazed upon it with an ineffable terror."
+                "Alevlerin hepsi söndürülemedi.\n\n[{0}] garip bir şekilde kayıtlara baktı.\n\n@#$!@%!!@%!@%!@%\n\nSaf olmayan, ürkütücü bir his Günahkâr'ın bedenine yayıldı.\n\nGünahkâr birkaç adım geriye gitmekten kendini alamadı.\n\nBunu yaparken, [{0}] içgüdüsel olarak ellerini kaldırdı...\n\n... ve yazılarla dolu Kehanet kitabını yere düşürdü.\n\nKitap, içindekiler herkesin görebileceği şekilde yere düştü...\n\nOna bakan tüm Günahkârlara tarifsiz bir korku saldı."
             ]
         },
         {
             "id": 810101,
-            "title": "Ambling Pearl",
-            "prevDesc": "What is that twinkling thing in that effervescent filth?",
-            "eventDesc": "Looking closely at it... it appears to be a gem of sorts.\n\nBorn after a long, long time of waiting...\n\nBorn in the ebb and flow of the filth that fills and leaves that thing with its every movement.\n\nTaking its gem would be equivalent to taking its reason for existence away. It may fall apart without it.",
-            "behaveDesc": "Who will take its meaning away?",
+            "title": "Yürüyen İnci",
+            "prevDesc": "Şu köpüren pisliğin içindeki parıldayan şey de ne?",
+            "eventDesc": "Yakından bakınca... bir çeşit mücevher gibi görünüyor.\n\nUzun, çok uzun bir bekleyişin ardından doğmuş...\n\nO şeyin her hareketinde dolup boşalan pisliğin akışında doğmuş.\n\nOnun mücevherini almak, varoluş amacını elinden almak demek. Mücevhersiz dağılabilir.",
+            "behaveDesc": "Onun anlamını kim elinden alacak?",
             "successDesc": [
-                "[{0}] reaches toward the twinkling light.\n\nThe green slime... the acidic, burning sensation... the writhing larva... all of it unnerves the Sinner.\n\nBut despite all that, [{0}] prevails, claiming the gem with their hand.\n\n!!!\n\nAn incomprehensible roar echoes.\n\nIt quickly regenerated something new in its maws...\n\nBut it won't be the same."
+                "[{0}] parıldayan ışığa uzanır.\n\nYeşil sümük... asitli, yakan his... kıvrılan larva... hepsi Günahkâr'ı rahatsız ediyor.\n\nAma tüm bunlara rağmen, [{0}] dayanır ve eliyle mücevheri alır.\n\n!!!\n\nAnlaşılmaz bir kükreme yankılanır.\n\nÇenelerinde hızla yeni bir şey oluşturdu...\n\nAma artık aynı olmayacak."
             ],
             "failureDesc": [
-                "[{0}] reaches toward the twinkling light.\n\nThe green slime... the acidic, burning sensation... the writhing larva... all of it unnerves the Sinner.\n\n... It is no easy task, rummaging through all that in search of that light.\n\n[{0}] could not stand it anymore.\n\nPatience and perseverence does not last forever. The Sinner had to free their hand from its maws.\n\nThis experience left nothing but wounds for both [{0}] and the thing."
+                "[{0}] parıldayan ışığa uzanır.\n\nYeşil sümük... asitli, yakan his... kıvrılan larva... hepsi Günahkâr'ı rahatsız ediyor.\n\n... O ışığı aramak için tüm bunların içinde debelenmek kolay bir iş değil.\n\n[{0}] daha fazla dayanamadı.\n\nSabır ve sebat sonsuza kadar sürmez. Günahkâr elini onun çenelerinden çekmek zorunda kaldı.\n\nBu deneyim, hem [{0}] hem de o şey için yaralardan başka bir şey bırakmadı."
             ]
         },
         {
             "id": 810201,
-            "title": "Dream-Devouring Siltcurrent",
-            "prevDesc": "Something sways in the rolling waves.",
-            "eventDesc": "Where did that flotsam float from?\n\nFrom where, and how did it end up here?\n\nAfter so many years, even that flotsam may no longer recall from whence it came.\n\n... As long as it can be used to stop that Abnormality's attack.",
-            "behaveDesc": "Who will approach the flotsam?",
+            "title": "Rüya Yutan Silt Akıntısı",
+            "prevDesc": "Dalgaların arasında bir şeyler salınıyor.",
+            "eventDesc": "O deniz enkazı nereden geldi?\n\nNereden ve nasıl buraya kadar geldi?\n\nO kadar yıl sonra, belki de o enkaz geldiği yeri hatırlamıyordur bile.\n\n... Yeter ki o Anormalliğin saldırısını durdurmak için kullanılabilsin.",
+            "behaveDesc": "Enkaza kim yaklaşacak?",
             "successDesc": [
-                "[{0}] eventually managed to reach the flotsam.\n\nThis was possible because the other Sinners tried their best to draw the Abnormality's attention.\n\n[{0}] grabbed onto the flotsam, tried to move it out of the way... before slamming their weapon down upon it.\n\nThis ended up leaving several, sharp edges on the flotsam.\n\nIf something were to charge into this flotsam... it would be impaled, unable to progress further."
+                "[{0}] sonunda enkaza ulaşmayı başardı.\n\nBu, diğer Günahkârların Anormalliğin dikkatini çekmek için ellerinden geleni yapması sayesinde mümkün oldu.\n\n[{0}] enkaza tutundu, onu kenara çekmeye çalıştı... sonra silahını üzerine indirdi.\n\nBu, enkazın üzerinde birkaç keskin kenar bıraktı.\n\nEğer bir şey bu enkaza çarparsa... saplanıp kalır, ilerleyemez."
             ],
             "failureDesc": [
-                "[{0}] eventually managed to reach the flotsam.\n\nThis was possible because the other Sinners tried their best to draw the Abnormality's attention.\n\n[{0}] grabbed onto the flotsam, tried to move it out of the way... before slamming their weapon down upon it.\n\nBut it's no easy thing, trying to swing one's weapon in midst of the swaying waters.\n\nEven worse, the flotsam was sturdier than it appeared.\n\nAll that the Sinner managed to do was to make a loud noise.\n\n... Which drew the Abnormality's attention to [{0}]. It did not take long before the Abnormality began charging at [{0}]."
+                "[{0}] sonunda enkaza ulaşmayı başardı.\n\nBu, diğer Günahkârların Anormalliğin dikkatini çekmek için ellerinden geleni yapması sayesinde mümkün oldu.\n\n[{0}] enkaza tutundu, onu kenara çekmeye çalıştı... sonra silahını üzerine indirdi.\n\nAma sallanan suların ortasında silahını sallamak kolay bir iş değil.\n\nDaha da kötüsü, enkaz göründüğünden daha sağlamdı.\n\nGünahkâr'ın yapabildiği tek şey yüksek bir ses çıkarmaktı.\n\n... Bu da Anormalliğin dikkatini [{0}]'e çekti. Anormallik kısa sürede [{0}]'e doğru saldırmaya başladı."
             ]
         },
         {
             "id": 1050101,
-            "title": "Check underneath the ship",
-            "eventDesc": "\"Yeah, of course we should.\"\n\nAs soon as we decided to check underneath the boat, a powerful shock rocked the stern of the boat.\n\n\"Mermaids! Hostiles are climbing from the bottom of the ship...\"\n\n\"We can minimize our losses by having one of us go push them off the ship before they latch on.\"\n\nAs soon as that was decided, two Sinners jumped from their seats and approached me.\n\n\"I will go, Executive Manager!\"\n\n\"No. I am better suited for this task.\"\n\nThe two Sinners begin bickering.",
+            "title": "Geminin altını kontrol et",
+            "eventDesc": "\"Evet, tabii ki yapmalıyız.\"\n\nGeminin altını kontrol etmeye karar verir vermez, geminin kıçında güçlü bir sarsıntı hissedildi.\n\n\"Denizkızları! Düşmanlar geminin altından tırmanıyor...\"\n\n\"Birimiz gidip onları gemiye yapışmadan iterse kayıplarımızı en aza indirebiliriz.\"\n\nBu karar verilir verilmez, iki Günahkâr yerlerinden fırlayıp bana yaklaştı.\n\n\"Ben giderim, Yönetici!\"\n\n\"Hayır. Bu iş için daha uygunum ben.\"\n\nİki Günahkâr tartışmaya başladı.",
             "prevDesc": "",
-            "behaveDesc": "... We don't know what'll happen down there. Let's choose someone fearless.",
+            "behaveDesc": "... Aşağıda ne olacağını bilmiyoruz. Korkusuz birini seçelim.",
             "successDesc": [
-                "[{0}] struck at a Mermaid crawling up from the waters.",
-                "As soon as I chose [{0}] for the task, the Sinner ran and smashed the Mermaid's head in.\n\n\"We can't let these Mermaids waste any more of our time.\"\n\nThe impact of the strike caused something to fall from the Mermaid.\n\n\"…….\"\n\nThat's an LCCB employee badge... just like the one Pilot was wearing.\n\nThis is awful. ...But we have to keep moving."
+                "[{0}] sudan tırmanan bir Denizkızı'na saldırdı.",
+                "[{0}]'i göreve seçer seçmez, Günahkâr koştu ve Denizkızı'nın kafasını parçaladı.\n\n\"Bu Denizkızları zamanımızı daha fazla harcayamaz.\"\n\nVuruşun şiddetiyle Denizkızı'ndan bir şey düştü.\n\n\"…….\"\n\nBu bir LCCB çalışan rozeti... tıpkı Pilot'un taktığı gibi.\n\nBu korkunç. ...Ama devam etmeliyiz."
             ],
             "failureDesc": [
-                "[{0}] froze upon seeing the Mermaid crawling up the side of our ship.\n\n\"…….\"\n\nSomething on that Mermaid must've caused them to hesitate.\n\n\"What the hell are you doing?!\"\n\n\"They're climbing onto our ship!\"\n\n…We have to fight off the mermaids first.\n\nWe'll ask them what happened later."
+                "[{0}] geminin yanından tırmanan Denizkızı'nı görünce donup kaldı.\n\n\"…….\"\n\nO Denizkızı'ndaki bir şey onu tereddüt ettirmiş olmalı.\n\n\"Ne halt ediyorsun?!\"\n\n\"Gemimize tırmanıyorlar!\"\n\n…Önce Denizkızlarıyla savaşmalıyız.\n\nNe olduğunu sonra sorarız."
             ]
         },
         {
             "id": 10502,
-            "title": "Left or Right",
+            "title": "Sağ mı Sol mu",
             "prevDesc": "",
-            "eventDesc": "We entered a narrow waterway of sorts.\n\n\"... Executive Manager.\"\n\nI see Mermaids swimming under the ship.\n\nMermaids latched onto the walls are glaring at us as well.\n\n\"This place, hard to steer. Steer and keep track of directions, hard to do at once.\"\n\nSomeone'll have to keep track of the directions.",
-            "behaveDesc": "Who should keep track of the directions?",
+            "eventDesc": "Dar bir su yoluna girdik.\n\n\"... Yönetici.\"\n\nGeminin altında yüzen Denizkızları görüyorum.\n\nDuvarlara yapışmış Denizkızları da bize bakıyor.\n\n\"Burası, dümen zor. Hem dümen tutup hem yön takip etmek, aynı anda zor.\"\n\nBirinin yönleri takip etmesi gerekecek.",
+            "behaveDesc": "Yönleri kim takip etmeli?",
             "successDesc": [
-                "\"Left!\"\n\n\"... The road splits to three? Wait, look! Opening at 2 O' clock!\"\n\nThanks to [{0}]'s quick and clear directions, we were making quick work of the waterways.\n\n\"... There's no end to them, huh?\"\n\nBut the horde of Mermaids attacking our ship doesn't seem any smaller than it did when we first entered.",
-                "\"Left!\"\n\n\"... The road splits to three? Wait, look! Opening at 2 O' clock!\"\n\nThanks to [{0}]'s quick and clear directions, we were making quick work of the waterways.\n\n\"... Been a while, since we've done something like this together.\"\n\n\"Yes. Remember? Starbuck, on helm. You, me, shouting at Starbuck...\"\n\n\"Yeah...\"\n\n\"... Man, there's no end to them.\"\n\nBut the horde of Mermaids attacking our ship doesn't seem any smaller than it did when we first entered."
+                "\"Sol!\"\n\n\"... Yol üçe mi ayrılıyor? Bekle, bak! 2 yönünde açıklık var!\"\n\n[{0}]'in hızlı ve net yönlendirmeleri sayesinde su yollarında hızla ilerliyorduk.\n\n\"... Bunların sonu yok gibi, değil mi?\"\n\nAma gemimize saldıran Denizkızı sürüsü, ilk girdiğimizdekinden daha az görünmüyor.",
+                "\"Sol!\"\n\n\"... Yol üçe mi ayrılıyor? Bekle, bak! 2 yönünde açıklık var!\"\n\n[{0}]'in hızlı ve net yönlendirmeleri sayesinde su yollarında hızla ilerliyorduk.\n\n\"... Bunu birlikte yapalı uzun zaman oldu.\"\n\n\"Evet. Hatırlıyor musun? Starbuck, dümende. Sen, ben, Starbuck'a bağırıyorduk...\"\n\n\"Evet...\"\n\n\"... Dostum, bunların sonu yok.\"\n\nAma gemimize saldıran Denizkızı sürüsü, ilk girdiğimizdekinden daha az görünmüyor."
             ],
             "failureDesc": [
-                "\"Go ri— I mean, left! I-I think left is open...?\"\n\n\"There are three paths... Uh... What do I do here...?\"\n\n[{0}] had some trouble telling directions...\n\n\"Tsk, prepare for battle...!\"\n\n... and the consequences were swift."
+                "\"Sağa gi— yani, sola! S-solda açık sanırım...?\"\n\n\"Üç yol var... Uh... Burada ne yapacağım...?\"\n\n[{0}] yönleri söylemekte biraz zorlandı...\n\n\"Tsk, savaşa hazırlanın...!\"\n\n... ve sonuçları hızlı oldu."
             ]
         },
         {
             "id": 1050201,
-            "title": "Right or Left",
+            "title": "Sağ mı Sol mu",
             "prevDesc": "",
-            "eventDesc": "\"Exit. Still far.\"",
-            "behaveDesc": "Someone'll have to continue to keep track of our directions. Should we continue using the same method?",
+            "eventDesc": "\"Çıkış. Hâlâ uzak.\"",
+            "behaveDesc": "Birinin yönleri takip etmeye devam etmesi gerekecek. Aynı yöntemi kullanmaya devam edelim mi?",
             "successDesc": [
-                "\"Go straight!\n\n\"... Now! Right hard rudder!\"\n\nThanks to [{0}]'s quick and clear directions, we were making quick work of the waterways.\n\n\"... There's no end to them, huh?\"\n\nBut the horde of Mermaids attacking our ship doesn't seem any smaller than it did when we first entered.",
-                "\"Steady as she goes!\"\n\n\"... Now! Right hard rudder!\"\n\nThanks to [{0}]'s quick and clear directions, we were making quick work of the waterways.\n\n\"... Been a while, since we've done something like this together.\"\n\n\"Yes. Remember? Starbuck, on helm. You, me, shouting at Starbuck...\"\n\n\"Yeah...\"\n\n\"... Man, there's no end to them.\"\n\nBut the horde of Mermaids attacking our ship doesn't seem any smaller than it did when we first entered the waterways."
+                "\"Düz devam!\n\n\"... Şimdi! Sağa sert dümen!\"\n\n[{0}]'in hızlı ve net yönlendirmeleri sayesinde su yollarında hızla ilerliyorduk.\n\n\"... Bunların sonu yok gibi, değil mi?\"\n\nAma gemimize saldıran Denizkızı sürüsü, ilk girdiğimizdekinden daha az görünmüyor.",
+                "\"Dümeni sabit tut!\"\n\n\"... Şimdi! Sağa sert dümen!\"\n\n[{0}]'in hızlı ve net yönlendirmeleri sayesinde su yollarında hızla ilerliyorduk.\n\n\"... Bunu birlikte yapalı uzun zaman oldu.\"\n\n\"Evet. Hatırlıyor musun? Starbuck, dümende. Sen, ben, Starbuck'a bağırıyorduk...\"\n\n\"Evet...\"\n\nGemi, su yolunda öldürdüğümüz Denizkızlarının kanı ve yağıyla kaplıydı.\n\n\"Bunlar, faydalı. Varile koy.\"\n\nGemi, bir sonraki bölgeye doğru yol alırken biz de gemiden Denizkızı yağı toplamaya devam ettik. O kadar çok yağ vardı ki güverte neredeyse onunla dolmuştu."
             ],
             "failureDesc": [
-                "\"… Is moving forward our only option?\"\n\n\"W-wait! There was another path! ... Looks like we missed it, though…\"\n\n[{0}] must be having some trouble telling directions...\n\n\"Tsk, prepare for battle...!\"\n\n... and the consequences were swift."
-            ]
-        },
-        {
-            "id": 1050202,
-            "title": "Right or Left",
-            "prevDesc": "",
-            "eventDesc": "\"Almost there. We escape soon. To next area.\"\n\nWe're almost there.",
-            "behaveDesc": "We're almost out, but let's not get complacent just yet.",
-            "successDesc": [
-                "\"It's opening up—wait! It's a waterfall! Steady as you go!\"\n\n\"Phew... Oh! Rocks ahoy! Keep left, keep left... And right full rudder!\"\n\nThanks to [{0}]'s quick and straightforward directions, we managed to lose the Mermaids and escape the waterway.",
-                "\"It's opening up—wait! There's a drop! Steady as you go!\"\n\n\"Phew... Oh! More rocks ahoy! Left 10 degrees rudder, steady... And right full rudder!\"\n\nThanks to [{0}]'s quick and straightforward directions, we managed to lose the Mermaids and escape the waterway.\n\n\"... Been a while, since we've done something like this together.\"\n\n\"Yes. Remember? Starbuck, on helm. You, me, shouting at Starbuck...\"\n\n\"Yeah...\"\n\nThe ship was covered with blood and oil of Mermaids we killed in the waterway.\n\n\"These, useful. Put them in barrel.\"\n\nThe boat smooth-sailed to the next area as we spent our time collecting Mermaid oil from the ship. There was so much of it that the deck was almost flooded with it."
-            ],
-            "failureDesc": [
-                "\"...? W-wait! There's a drop?! U-uh, what do we do...?\"\n\n\"Haah, haah... I-I can't see too well in here...\"\n\n[{0}] was trying their best, but exhaustion seems to have gotten the better of them; their directions were very muddled.\n\n\"Agh... And we were so close to the exit...!\"\n\nWe'll have to fight our way to the end, then..."
+                "\"...? B-bekle! Bir iniş mi var?! U-uh, ne yapacağız...?\"\n\n\"Haah, haah... I- içeriyi pek iyi göremiyorum...\"\n\n[{0}] elinden geleni yapıyordu ama yorgunluk galip gelmiş gibiydi; yönlendirmeleri çok karışıktı.\n\n\"Agh... Çıkışa bu kadar yakındık...!\"\n\nO zaman sonuna kadar savaşarak gitmek zorundayız..."
             ]
         },
         {
             "id": 10503,
-            "title": "To the Arteries",
+            "title": "Arterlere Doğru",
             "prevDesc": "",
-            "eventDesc": "After defeating the Abnormality, we sailed for a while without much incident. That was when...\n\n\"A wall...\"\n\n... a thick, solid wall appeared before us.\n\n\"Artery. Beyond this wall.\"\n\n\"Wall opens. Closes. Opening is very short. Don't get grabbed by Mermaid there. Chopped in half, if grabbed by mermaid.\"\n\nAnd with a heavy rumble, the wall immediately started to open.\n\n\"Keep Mermaids off ship. They slow us down, we get cut in half.\"\n\nThe Mermaids must've sensed the rumbling. They begin rushing at our ship.",
-            "behaveDesc": "Who will take vanguard in keeping the Mermaids off our ship?",
+            "eventDesc": "Anormalliği yendikten sonra bir süre önemli bir olay olmadan yol aldık. Tam o sırada...\n\n\"Bir duvar...\"\n\n... kalın, sağlam bir duvar belirdi önümüzde.\n\n\"Arter. Bu duvarın ötesinde.\"\n\n\"Duvar açılır. Kapanır. Açıklık çok kısa. Orada Denizkızı tarafından yakalanma. Yakalanırsan ikiye bölünürsün.\"\n\nVe ağır bir gürültüyle, duvar hemen açılmaya başladı.\n\n\"Denizkızlarını gemiden uzak tutun. Bizi yavaşlatırlarsa, ikiye bölünürüz.\"\n\nDenizkızları gürültüyü hissetmiş olmalı. Gemimize hücum etmeye başladılar.",
+            "behaveDesc": "Denizkızlarını gemiden uzak tutmada kim öncülük edecek?",
             "successDesc": [
-                "[{0}] takes vanguard, knocking Mermaids off the boat.\n\n\"Good enough.\"\n\n\"Nice, we made it through...\"\n\n\"Phew. Huh, the wall is twitching. Like it's about to—\"\n\nNot a second after the stern of our boat made it past the wall, the door slammed shut.\n\n... Let's keep moving to the artery.",
-                "[{0}] takes vanguard, knocking Mermaids off the boat.\n\n\"Good enough.\"\n\n\"Nice, we made it through...\"\n\n\"Don't get complacent. We have to remain alert.\"\n\n\"Phew. Huh, the wall is twitching. Like it's about to—\"\n\nNot a second after the stern of our boat made it past the wall, the door slammed shut.\n\n... Let's keep moving to the artery."
+                "[{0}] öncülük etti, Denizkızlarını gemiden itti.\n\n\"Yeterince iyi.\"\n\n\"Güzel, geçtik...\"\n\n\"Phew. Hah, duvar seğiriyor. Sanki kapanmak üzere—\"\n\nGemizin kıçı duvarı geçer geçmez, kapı çarptı.\n\n... Arterlere doğru ilerlemeye devam edelim.",
+                "[{0}] öncülük etti, Denizkızlarını gemiden itti.\n\n\"Yeterince iyi.\"\n\n\"Güzel, geçtik...\"\n\n\"Rahatlamayın. Tetikte olmalıyız.\"\n\n\"Phew. Hah, duvar seğiriyor. Sanki kapanmak üzere—\"\n\nGemizin kıçı duvarı geçer geçmez, kapı çarptı.\n\n... Arterlere doğru ilerlemeye devam edelim."
             ],
             "failureDesc": [
-                "[{0}] takes vanguard, knocking Mermaids off the boat.\n\nBut...\n\n\"I-I think there's more of them than we expected...\"\n\n\"Oi! Help 'em out!\"\n\n\"Aagh, w-wait...!\"\n\nWe eventually managed to shake the Mermaids off and made it past the opening, but...\n\n\"Haah...\"\n\nThis kerfuffle exhausted everyone and left some of us wounded.\n\n... We have no choice but to continue on our way to the artery."
+                "[{0}] öncülük etti, Denizkızlarını gemiden itti.\n\nAma...\n\n\"S-sanırım beklediğimizden daha fazlalar...\"\n\n\"Hey! Ona yardım edin!\"\n\n\"Agh, b-bekle...!\"\n\nSonunda Denizkızlarını atlatmayı başardık ve açıklıktan geçtik, ama...\n\n\"Haah...\"\n\nBu telaş herkesi yordu ve bazılarımızı yaraladı.\n\n... Arterlere doğru yolumuza devam etmekten başka çaremiz yok."
             ]
         },
         {
             "id": 1050401,
-            "title": "The Artery",
+            "title": "Arter",
             "prevDesc": "",
-            "eventDesc": "\"This is much tougher than I expected...\"\n\nThe artery appeared much sturdier than we had initially assumed.\n\nCutting it open with a single strike won't be an easy task... but if we delay too much here, we won't be able to arrive at the rendezvous area in time.",
-            "behaveDesc": "Who can possibly cut it open with a single strike?",
+            "eventDesc": "\"Bu beklediğimden çok daha sert...\"\n\nArter başlangıçta varsaydığımızdan çok daha dayanıklı görünüyordu.\n\nTek bir vuruşla açmak kolay bir iş olmayacak... ama burada çok gecikirsek, buluşma bölgesine zamanında varamayız.",
+            "behaveDesc": "Kim tek vuruşla onu açabilir?",
             "successDesc": [
-                "[{0}] slowed their breathing and steadied their poise...\n\n\"Ooh!\"\n\n... before striking the artery, slicing it clean open.\n\n\"Sanguine fluid gushes at a terrifying rate.\"\n\nAs bloodflow from the opening begins to slow, the path begins to open.\n\n... Let's make our way to the heart."
+                "[{0}] nefesini yavaşlattı ve duruşunu sabitledi...\n\n\"Ooh!\"\n\n... sonra artere vurdu, temiz bir şekilde kesti.\n\n\"Kan, korkutucu bir hızla fışkırıyor.\"\n\nAçıklıktan kan akışı yavaşlamaya başladıkça, yol açılmaya başladı.\n\n... Kalbe doğru ilerleyelim."
             ],
             "failureDesc": [
-                "[{0}] struck the artery with all their might, but...\n\n\"Just a little gash, huh...\"\n\n... failed to slice it open.\n\n\"We don't have time for this...!\"\n\nFlustered, [{0}] began repeatedly slamming their weapon into the artery, trying to hack it open.\n\n... Luckily, we were able to cut open the artery in time. But this clearly left [{0}] exhausted from the effort.\n\n\"Sanguine fluid gushes at a terrifying rate.\"\n\nAs bloodflow from the opening begins to slow, the path begins to open.\n\n... Let's make our way to the heart."
+                "[{0}] tüm gücüyle artere vurdu, ama...\n\n\"Sadece küçük bir yara, ha...\"\n\n... onu kesmeyi başaramadı.\n\n\"Bunun için zamanımız yok...!\"\n\nTelaşla, [{0}] arteri açmaya çalışarak silahını tekrar tekrar vurmaya başladı.\n\n... Şans eseri, arteri zamanında kesebildik. Ama bu [{0}]'i çabayla bitkin düşürdü.\n\n\"Kan, korkutucu bir hızla fışkırıyor.\"\n\nAçıklıktan kan akışı yavaşlamaya başladıkça, yol açılmaya başladı.\n\n... Kalbe doğru ilerleyelim."
             ]
         },
         {
             "id": 1050501,
-            "title": "Supply Crate 1",
+            "title": "Tedarik Kutusu 1",
             "prevDesc": "",
-            "eventDesc": "We stopped before a crate with the Twinhook Pirates' logo on it.\n\n\"This crate appears to be locked.\"\n\n\"It's all rusted... I don't think we can even try to pick the lock.\"\n\n\"Then let's smash it open!\"\n\n... But the box itself looks pretty flimsy. We risk smashing its contents as well.",
-            "behaveDesc": "Who can strike the crate with just the right amount of force?",
+            "eventDesc": "Twinhook Korsanları'nın logosu olan bir kutunun önünde durduk.\n\n\"Bu kutu kilitli görünüyor.\"\n\n\"Tamamen paslanmış... Kilidi açmayı deneyemeyiz bile.\"\n\n\"O zaman onu kıralım!\"\n\n... Ama kutu oldukça dayanıksız görünüyor. İçindekileri de kırma riskimiz var.",
+            "behaveDesc": "Kim kutuyu tam doğru kuvvetle vurabilir?",
             "successDesc": [
-                "[{0}] observed the crate closely, then took a step back. Then, with a controlled strike, smashed only the lid of the crate.\n\nWhat we found inside the box was a rusted hook covered in blood and white membrane. It was probably used to kill Mermaids.\n\nI don't know what use this could possibly have... but it might come in useful.\n\nShould we check the other boxes, too?"
+                "[{0}] kutuyu dikkatlice inceledi, sonra bir adım geri attı. Sonra, kontrollü bir vuruşla sadece kutunun kapağını kırdı.\n\nKutunun içinde bulduğumuz şey, kan ve beyaz zarla kaplı paslı bir kancaydı. Muhtemelen Denizkızlarını öldürmek için kullanılmıştı.\n\nBunun ne işe yarayacağını bilmiyorum... ama işe yarayabilir.\n\nDiğer kutulara da bakalım mı?"
             ],
             "failureDesc": [
-                "\"Oop...\"\n\nThat was not a controlled strike at all. I wasn't sure if they even tried.\n\nThe crate was smashed to bits, so much so that we couldn't tell its contents apart from its crushed remains.\n\nWell, no choice but to check what other crates we have..."
+                "\"Oops...\"\n\nBu hiç kontrollü bir vuruş değildi. Denemişler mi bile emin değilim.\n\nKutu o kadar parçalandı ki içindekileri ezilmiş kalıntılardan ayırt edemedik.\n\nEh, elimizdeki diğer kutulara bakmaktan başka çaremiz yok..."
             ]
         },
         {
             "id": 1050502,
-            "title": "Supply Crate 2",
+            "title": "Tedarik Kutusu 2",
             "prevDesc": "",
-            "eventDesc": "This crate has the LCCB logo on it.\n\nThis one looks sturdy enough... we probably can't smash it open.\n\n\"This appears to have been sealed by an intricate locking mechanism.\"\n\n\"Doubt I'll be able to just smash this open...\"\n\n\"Wait, I think I remember something...\"\n\nMaybe a Sinner who's used an LCCB Identity in the past may know something about this.",
-            "behaveDesc": "Who will attempt to crack open the lock?",
+            "eventDesc": "Bu kutuda LŞCÖ logosu var.\n\nBu oldukça sağlam görünüyor... muhtemelen kıramayız.\n\n\"Karmaşık bir kilit mekanizmasıyla kapatılmış gibi görünüyor.\"\n\n\"Bunu kırabileceğimi sanmıyorum...\"\n\n\"Bekle, bir şey hatırlıyorum...\"\n\nBelki geçmişte LCCB Kimliği kullanmış bir Günahkâr bunun hakkında bir şeyler biliyordur.",
+            "behaveDesc": "Kim kilidi açmayı deneyecek?",
             "successDesc": [
-                "\"I think this was how they did it...\"\n\n[{0}] fiddles with the lock and opens the crate.\n\n\"I see. In this crate was a magazine for a firearm.\"\n\nIndeed, what we found inside the crate was a magazine full of bullets.\n\nWe can definitely find a good use for this.\n\nThere aren't any more useful boxes around... We decided to move on to the next area.",
-                "[{0}] fiddles with the lock and opens the crate.\n\n\"I see. In this crate was a magazine for a firearm.\"\n\nIndeed, what we found inside the crate was a magazine full of bullets.\n\nWe can definitely find a good use for this.\n\nThere aren't any more useful boxes around... We decided to move on to the next area."
+                "\"Sanırım böyle yapıyorlardı...\"\n\n[{0}] kilidi kurcaladı ve kutuyu açtı.\n\n\"Anlıyorum. Bu kutuda bir silah şarjörü vardı.\"\n\nEvet, kutunun içinde bulduğumuz şey mermilerle dolu bir şarjördü.\n\nBunu kesinlikle iyi bir şekilde kullanabiliriz.\n\nEtrafta başka yararlı kutu yok... Bir sonraki bölgeye geçmeye karar verdik.",
+                "[{0}] kilidi kurcaladı ve kutuyu açtı.\n\n\"Anlıyorum. Bu kutuda bir silah şarjörü vardı.\"\n\nEvet, kutunun içinde bulduğumuz şey mermilerle dolu bir şarjördü.\n\nBunu kesinlikle iyi bir şekilde kullanabiliriz.\n\nEtrafta başka yararlı kutu yok... Bir sonraki bölgeye geçmeye karar verdik."
             ],
             "failureDesc": [
-                "[{0}] fiddled with the lock, but failed to make any progress.\n\n\"Hmm...\"\n\nAfter a few more adjustments, the crate seemed to reinforce itself with an additional locking mechanism.\n\n\"Well, what can we do.\"\n\nThere probably was something useful in there... but we don't have any means to break it open. We have no choice but to leave it behind.\n\nThere aren't any more useful boxes around... We decided to move on to the next area."
+                "[{0}] kilidi kurcaladı, ama bir ilerleme kaydedemedi.\n\n\"Hmm...\"\n\nBirkaç ayar daha yaptıktan sonra, kutu ek bir kilit mekanizmasıyla kendini güçlendirdi.\n\n\"Eh, ne yapabiliriz.\"\n\nOrada muhtemelen yararlı bir şey vardı... ama açmanın bir yolu yok. Onu geride bırakmaktan başka çaremiz yok.\n\nEtrafta başka yararlı kutu yok... Bir sonraki bölgeye geçmeye karar verdik."
             ]
         },
         {
             "id": 810602,
             "title": "Ahab 2",
             "prevDesc": "",
-            "eventDesc": "Sure, you could say that.\n\nBut... her own answers matter the most here, no?\n\n\"......\"\n\nHer breathing is quick and shaking. She deliberates.\n\nWhat answer awaits you at the end of this deliberation?",
-            "behaveDesc": "Can she endure her own past?",
+            "eventDesc": "Elbette, öyle diyebilirsin.\n\nAma... en önemli olan onun kendi cevapları, değil mi?\n\n\"......\"\n\nNefesi hızlı ve titriyor. Düşünüyor.\n\nBu düşüncenin sonunda sizi hangi cevap bekliyor?",
+            "behaveDesc": "Kendi geçmişine dayanabilir mi?",
             "successDesc": [
-                "\"... Akh!\"\n\nIshmael swings her arm with determination. She tries to focus.\n\n\"Still with your bullshit... I'll tear your mouth from ear to ear!\"\n\n\"Fine. Go ahead.\"\n\n\"What are you waiting for? Is it because you are too weak to do it? ... Hahaha!\"\n\nAt the Captain's provocation, Ishmael's eyes begin to burn with hatred. She rushes at the Captain.\n\nLooks like she's still searching for an answer. And sometimes, wrath may draw one off course. Isn't that right?"
+                "\"... Akh!\"\n\nIshmael kararlılıkla kolunu salladı. Odaklanmaya çalışıyor.\n\n\"Hâlâ saçmalıklarınla...  Ağzınından götüne kadar paramparça edicem seni!\"\n\n\"Peki. Hadi yap.\"\n\n\"Ne bekliyorsun? Yapamayacak kadar zayıf mısın? ... Hahaha!\"\n\nKaptanın kışkırtmasıyla, Ishmael'in gözleri nefretle yanmaya başladı. Kaptana doğru koştu.\n\nGörünüşe göre hâlâ bir cevap arıyor. Ve bazen, öfke birini yoldan çıkarabilir. Öyle değil mi?"
             ],
             "failureDesc": [
-                "\"…….\"\n\nHer answer to the Manager's question is... endless silence.\n\nIs she still contemplating? Or does she think they're wrong?\n\nIndeed... it may be too early for her.\nTo decide, that is."
+                "\"…….\"\n\nMüdürün sorusuna cevabı... bitmeyen bir sessizlik.\n\nHâlâ düşünüyor mu? Yoksa onunun yanıldığını mı düşünüyor?\n\nEvet... onun için çok erken olabilir.\nKarar vermek için, yani."
             ]
         },
         {
             "id": 810603,
             "title": "Ahab 3",
             "prevDesc": "",
-            "eventDesc": "\"<Ishmael.>\"\n\n\"<It's not over yet.>\"\n\n\"<It's too early to decide. There's still time.>\"\n\n\"<And when the time comes... no one will make that decision in your stead.>\"\n\n\"<Not me. Not Ahab.>\"\n\n\"<I know that you can reach your own answers. Find your own way.>\"\n\n\"…….\"\n\nIshmael does not reply. Instead, she tightens the grip on her weapon arm.",
-            "behaveDesc": "A delayed answer...\n... is not a bad idea.",
+            "eventDesc": "\"<Ishmael.>\"\n\n\"<Henüz bitmedi.>\"\n\n\"<Karar vermek için çok erken. Hâlâ zaman var.>\"\n\n\"<Ve zaman geldiğinde... kimse senin yerine o kararı vermeyecek.>\"\n\n\"<Ne ben. Ne Ahab.>\"\n\n\"<Kendi cevaplarına ulaşabileceğini biliyorum. Kendi yolunu bul.>\"\n\n\"…….\"\n\nIshmael cevap vermedi. Bunun yerine, Zıpkınını tutan elini sıkılaştırdı.",
+            "behaveDesc": "Gecikmiş bir cevap...\n... kötü bir fikir değil.",
             "successDesc": [
-                "\"... Akh!\"\n\nIshmael swings her arm with determination. She tries to focus.\n\n\"Still with your bullshit... I'll tear your mouth from ear to ear!\"\n\n\"Fine. Go ahead.\"\n\n\"What are you waiting for? Is it because you are too weak to do it? ... Hahaha!\"\n\nAt the Captain's provocation, Ishmael's eyes begin to burn with hatred. She rushes at the Captain.\n\nLooks like she's still searching for an answer. And sometimes, wrath may draw one off course. Isn't that right?"
+                "\"... Ahh!\"\n\nIshmael kararlılıkla kolunu salladı. Odaklanmaya çalışıyor.\n\n\"Hâlâ saçmalıklarınlasın... Ağzınından götüne kadar paramparça edicem seni!\"\n\n\"Peki. Hadi yap.\"\n\n\"Ne bekliyorsun? Yapamayacak kadar zayıf mısın? ... Hahaha!\"\n\nAhab'ın kışkırtmasıyla, Ishmael'in gözleri nefretle yanmaya başladı. Ahaba doğru koştu.\n\nGörünüşe göre hâlâ bir cevap arıyor. Ve bazen, öfke birini yoldan çıkarabilir. Öyle değil mi?"
             ],
             "failureDesc": [
                 ""
