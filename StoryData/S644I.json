@@ -2,25 +2,25 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Wuthering Heights Hall",
+            "place": "Uğultulu Tepeler'in Koridoru",
             "model": "히스클리프",
-            "content": "Give Catherine... back."
+            "content": "Catherine’i… geri ver."
         },
         {
             "id": 1,
             "model": "마왕히스클리프2",
-            "title": "A Distant World",
-            "content": "... She is forever lost. Her consciousness is broken, scattered to a thousand places."
+            "title": "Uzak Bir Dünya",
+            "content": "... O sonsuza dek kayboldu. Bilinci paramparça oldu, binbir farklı yere dağıldı."
         },
         {
             "id": 2,
             "model": "히스클리프",
-            "content": "Shut up! You'll have to do much worse to make me give up!"
+            "content": "Kapa lan çeneni! Vazgeçmem için çok daha fazlasını yapman gerekecek!"
         },
         {
             "id": 3,
             "model": "마왕히스클리프2",
-            "title": "A Distant World",
+            "title": "Uzak Bir Dünya",
             "content": "Gah...!"
         },
         {
@@ -33,13 +33,13 @@
         },
         {
             "id": 6,
-            "place": "Wuthering Heights Hall"
+            "place": "Uğultulu Tepeler'in Koridoru"
         },
         {
             "id": 7,
-            "place": "Wuthering Heights Hall",
+            "place": "Uğultulu Tepeler'in Koridoru",
             "model": "뫼르소",
-            "content": "He is bound. I cannot hold him with these chains for much longer; neutralize the target as soon as possible."
+            "content": "Bağlı durumda. Bu zincirlerle onu daha fazla tutamam; hedefi en kısa sürede etkisiz hale getirin."
         }
     ]
 }
