@@ -2,47 +2,47 @@
   "dataList": [
     {
       "id": "Combustion",
-      "name": "Burn"
+      "name": "Yanma"
     },
     {
       "id": "Laceration",
-      "name": "Bleed"
+      "name": "Kanama"
     },
     {
       "id": "Vibration",
-      "name": "Tremor"
+      "name": "Sarsıntı"
     },
     {
       "id": "Burst",
-      "name": "Rupture"
+      "name": "Parçalanma"
     },
     {
       "id": "Sinking",
-      "name": "Sinking"
+      "name": "Batma"
     },
     {
       "id": "Breath",
-      "name": "Poise"
+      "name": "Nefes"
     },
     {
       "id": "Charge",
-      "name": "Charge"
+      "name": "Yük"
     },
     {
       "id": "Random",
-      "name": "Random"
+      "name": "Rastgele"
     },
     {
       "id": "Slash",
-      "name": "Slash"
+      "name": "Kesme"
     },
     {
       "id": "Penetrate",
-      "name": "Pierce"
+      "name": "Delme"
     },
     {
       "id": "Hit",
-      "name": "Blunt"
+      "name": "Darbe"
     }
   ]
 }
