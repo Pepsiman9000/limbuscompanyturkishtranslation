@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 11 - LC Branch Interior",
+      "place": "Eyalet 11 - LC Şubesi İç Mekanı",
       "model": "히스클리프",
       "content": "…Emekleme sesleri duyuyor musunuz siz de?"
     },
@@ -68,8 +68,8 @@
     {
       "id": 13,
       "model": "침식직원1",
-      "teller": "Corroded Inquisitor",
-      "title": "Nagel und Hammer",
+      "teller": "Korozyonlaşmış Engizisyoncu",
+      "title": "Çivi ve Çekiç",
       "content": "Urg… Ghh… Arrh…"
     },
     {
@@ -78,35 +78,35 @@
     },
     {
       "id": 15,
-      "content": "It evoked complex feelings that made me sigh."
+      "content": "İçimi acıtan karmaşık duygular uyandırıp bana iç çektirdi."
     },
     {
       "id": 16,
-      "content": "Is my artificial head really worth raging over, so much so that they would transform themselves into something far more hideous than having a clock for a head?"
+      "content": "Yapay kafam gerçekten öfkelenmeye değer mi, öyle ki kendilerini saat kafalı olmaktan çok daha iğrenç bir şeye dönüştürsünler?"
     },
     {
       "id": 17,
-      "content": "Choosing to lose themselves, being possessed…"
+      "content": "Kendilerini kaybetmeyi seçmek, ele geçirilmek…"
     },
     {
       "id": 18,
-      "content": "What about when they claim the Golden Bough after going to these lengths…?"
+      "content": "Peki ya bu kadar yol kat ettikten sonra Altın Dalı ele geçirdiklerinde ne olacak?…?"
     },
     {
       "id": 19,
-      "content": "Will it even be used for their benefit?"
+      "content": "Acaba onların yararına mı kullanılacak?"
     },
     {
       "id": 20,
-      "content": "Then, it occurred to me."
+      "content": "Sonra aklıma geldi."
     },
     {
       "id": 21,
-      "content": "Am I really so different from those unsightly zealots…"
+      "content": "Gerçekten o çirkin fanatiklerden bu kadar farklı mıyım?…"
     },
     {
       "id": 22,
-      "content": "…when I’m searching for the Golden Boughs without even knowing what they’ll be used for?"
+      "content": "…Altın Dalları ne için kullanılacağını bile bilmeden ararken?"
     }
   ]
 }
