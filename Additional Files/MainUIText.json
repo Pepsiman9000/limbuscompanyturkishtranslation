@@ -26,11 +26,11 @@
     },
     {
       "id": "mainui_main_exp",
-      "content": "EXP"
+      "content": "TP"
     },
     {
       "id": "mainui_main_stamina",
-      "content": "Stamina"
+      "content": "Yakıt"
     },
     {
       "id": "mainui_main_enkephalin",
@@ -66,7 +66,7 @@
     },
     {
       "id": "mainui_stageinfo_enterbutton",
-      "content": "Savaş!"
+      "content": "Gir"
     },
     {
       "id": "mainui_stageinfo_dungeonclear",
@@ -382,7 +382,7 @@
     },
     {
       "id": "mainui_battle_pass_exp",
-      "content": "Savaş Bileti XP"
+      "content": "Savaş Bileti TP"
     },
     {
       "id": "mainui_enforce_ticket",
