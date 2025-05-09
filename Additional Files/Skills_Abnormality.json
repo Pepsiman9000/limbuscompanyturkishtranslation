@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard"
+          "name": "Korunma"
         }
       ]
     },
@@ -14,7 +14,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade"
+          "name": "Kaçınma"
         }
       ]
     },
@@ -23,7 +23,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter"
+          "name": "Karşı Saldırı"
         }
       ]
     },
@@ -32,7 +32,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade"
+          "name": "Kaçınma"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Distrust",
+          "name": "Güvensizlik",
           "coinlist": [
             {},
             {}
@@ -54,7 +54,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pale Stem"
+          "name": "Solgun Sap"
         }
       ]
     },
@@ -63,7 +63,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pale Stem"
+          "name": "Solgun Sap"
         }
       ]
     },
@@ -72,13 +72,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Root Spike",
+          "name": "Kök Dikeni",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Bleed Count next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +3 Kanama miktarı ver"
                 }
               ]
             }
@@ -91,13 +91,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shared Pain",
+          "name": "Paylaşılan Acı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kırılganlık ver"
                 }
               ]
             }
@@ -110,7 +110,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vain Fruit",
+          "name": "Boş Meyve",
           "desc": ""
         }
       ]
@@ -120,7 +120,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nibble",
+          "name": "Kemir",
           "coinlist": [
             {},
             {}
@@ -133,26 +133,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Greedy Gluttons",
+          "name": "Açgözlü Oburlar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 HP"
+                  "desc": "[OnSucceedAttackHead] 1 HP Yenile"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 HP"
+                  "desc": "[OnSucceedAttackHead] 1 HP Yenile"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 HP"
+                  "desc": "[OnSucceedAttackHead] 1 HP Yenile"
                 }
               ]
             }
@@ -165,7 +165,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Roll",
+          "name": "Yuvarlan",
           "coinlist": [
             {}
           ]
@@ -177,12 +177,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slothful Grip",
+          "name": "Tembel Tutuş",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Yavaşlama ver"
                 }
               ]
             }
@@ -195,7 +195,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sear",
+          "name": "Yak",
           "coinlist": [
             {},
             {}
@@ -208,12 +208,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Explosive Wrath",
+          "name": "Patlayıcı Öfke",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Burn next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Yanma ver"
                 }
               ]
             }
@@ -226,7 +226,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slam",
+          "name": "Çarp",
           "coinlist": [
             {}
           ]
@@ -238,7 +238,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slam",
+          "name": "Çarp",
           "coinlist": [
             {}
           ]
@@ -250,12 +250,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quake",
+          "name": "Sarsıntı",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlama ver"
                 }
               ]
             }
@@ -268,12 +268,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Live Offering",
+          "name": "Canlı Kurban",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur +3 Kanama miktarı ver"
                 }
               ]
             }
@@ -286,7 +286,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Universe Aflame",
+          "name": "Yanan Evren",
           "coinlist": [
             {}
           ]
@@ -298,7 +298,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stalwart Altar",
+          "name": "Sarsılmaz Sunak",
           "coinlist": [
             {}
           ]
@@ -310,8 +310,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Universe Aflame",
-          "desc": "[CantDuel] Targets allies",
+          "name": "Yanan Evren",
+          "desc": "Hedefin müttefikleri ile [CantDuel] ",
           "coinlist": [
             {}
           ]
@@ -323,12 +323,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lunge",
+          "name": "Atıl",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count next turn"
+                  "desc": "[OnSucceedAttackHead] Sonarki tur +1 Kanama Miktarı ver"
                 }
               ]
             }
@@ -341,13 +341,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Claw",
+          "name": "Pençe",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Kanama Miktarı ver"
                 }
               ]
             }
@@ -360,15 +360,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Severe Lunge",
+          "name": "Şiddetli Atılma",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Kanama Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Burn Count next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Yanma Miktarı ver"
                 }
               ]
             }
