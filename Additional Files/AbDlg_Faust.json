@@ -5,7 +5,7 @@
       "personalityid": 10202,
       "voicefile": 0,
       "teller": "W. Faust",
-      "dialog": "Mantıklı seçim bu işi benim halletmeme izin vermen olurdu.",
+      "dialog": "Mantıklı bir seçim bu işi benim halletmeme izin ver",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
@@ -13,7 +13,7 @@
       "personalityid": 10202,
       "voicefile": 0,
       "teller": "W. Faust",
-      "dialog": "Analizim bana bu görevin nispeten kolay olacağını söylüyor.",
+      "dialog": "Analizim, bana bu görevin nispeten kolay olucağını söylüyor.",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
     {
@@ -21,7 +21,7 @@
       "personalityid": 10202,
       "voicefile": 0,
       "teller": "W. Faust",
-      "dialog": "Sonuçları garanti edemem, her şey evrenin kaosuna bağlı.",
+      "dialog": "Sonuçları garanti edemem; zira tüm süreç kozmik belirsizliklere tabidir.",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
     {
@@ -37,7 +37,7 @@
       "personalityid": 10202,
       "voicefile": 0,
       "teller": "W. Faust",
-      "dialog": "Bu seçim seni müdürümüz yapma kararını bir pişmanlığa çevirirdi.",
+      "dialog": "Bu seçimin, seni müdür olarak atama kararımızı ciddi bir pişmanlığa çevirdiğini söyleyebilirim.",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
@@ -61,7 +61,7 @@
       "personalityid": 10201,
       "voicefile": 0,
       "teller": "Faust",
-      "dialog": "Mantıklı seçim, bu işi benim halletmeme izin vermen olurdu.",
+      "dialog": "Mantıklı bir seçim, bu işi benim halletmeme izin ver.",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
@@ -69,7 +69,7 @@
       "personalityid": 10201,
       "voicefile": 0,
       "teller": "Faust",
-      "dialog": "Analizim bana bu görevin nispeten kolay olacağını söylüyor.",
+      "dialog": "Analizim, bana bu görevin nispeten kolay olacağını söylüyor.",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
     {
@@ -77,7 +77,7 @@
       "personalityid": 10201,
       "voicefile": 0,
       "teller": "Faust",
-      "dialog": "Sonuçları garanti edemem, her şey evrenin kaosuna bağlı.",
+      "dialog": "Sonuçları garanti edemem; zira tüm süreç kozmik belirsizliklere tabidir.",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
     {
@@ -85,7 +85,7 @@
       "personalityid": 10201,
       "voicefile": 0,
       "teller": "Faust",
-      "dialog": "Senin yerinde olsaydım, bu görevi başka birine verirdim.",
+      "dialog": "Faust senin yerinde olsaydı, bu görevi başka birine iletirdim.",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
     {
@@ -93,7 +93,7 @@
       "personalityid": 10201,
       "voicefile": 0,
       "teller": "Faust",
-      "dialog": "Bu seçim seni müdürümüz yapma kararını bir pişmanlığa çevirirdi.",
+      "dialog": "Bu seçimin, seni müdür olarak atama kararımızı ciddi bir pişmanlığa çevirdiğini söyleyebilirim.",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
@@ -101,7 +101,7 @@
       "personalityid": 10201,
       "voicefile": 0,
       "teller": "Faust",
-      "dialog": "Bu başarıya yapışmamaya çalışın.",
+      "dialog": "Bu başarıya bağlanmamaya çalışın.",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {
