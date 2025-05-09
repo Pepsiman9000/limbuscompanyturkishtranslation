@@ -2,28 +2,28 @@
   "dataList": [
     {
       "id": 9011001,
-      "name": "Keen Strike",
-      "desc": "On Hit, inflict 1 Bleed (3 times per turn)"
+      "name": "Keskin Darbe",
+      "desc": "Vuruşta 1 [Laceration] ver (tur başına en fazla 3 kez)"
     },
     {
       "id": 9011002,
-      "name": "Deep Slash",
-      "desc": "Clash Win: inflict +1 Bleed Count"
+      "name": "Derin Kesik",
+      "desc": "Çarpışma Kazanımı: +1 [Laceration] miktarı ver"
     },
     {
       "id": 9011301,
-      "name": "Brutal Stab",
-      "desc": "Inflict +1 more Bleed when an Attack Skill inflicts Bleed"
+      "name": "Zalim Saplama",
+      "desc": "Bir Saldırı Yeteneği [Laceration] verirse, fazladan +1 [Laceration] ver"
     },
     {
       "id": 9101301,
       "name": "Kokuuntō",
-      "desc": "Slash Skill Final Power +1"
+      "desc": "Kesme Yeteneği Final Gücü +1"
     },
     {
       "id": 9101302,
-      "name": "Clean Up",
-      "desc": "When an ally is defeated, gain 1 Skill Slot next turn (Can have up to 5 Slots max)"
+      "name": "Temizlik",
+      "desc": "Bir müttefik yenildiğinde, sonraki tur için 1 Yetenek Yuvası kazan (Maksimum 5 Yuva olabilir)"
     }
   ]
 }
