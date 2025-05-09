@@ -54,7 +54,7 @@
     },
     {
       "id": "switch_allcacheclear",
-      "content": "Tüm önbellekleri temizle"
+      "content": "Önbelleği Temizle"
     },
     {
       "id": "switch_oldcacheclear",
@@ -86,7 +86,7 @@
     },
     {
       "id": "servererror_content",
-      "content": "Bir sunucu hatası oluştu.\nLütfen bir süre sonra tekrar deneyin."
+      "content": "Bir sunucu hatası oluştu.\nLütfen sonra tekrar deneyin."
     },
     {
       "id": "forcequit_content",
