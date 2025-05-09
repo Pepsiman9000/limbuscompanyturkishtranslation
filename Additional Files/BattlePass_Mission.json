@@ -2,59 +2,59 @@
   "dataList": [
     {
       "id": "CLEAR_STAGE",
-      "content": "Clear any stage {0} time(s)"
+      "content": "Herhangi bir aşamayı {0} kez tamamla"
     },
     {
       "id": "KILL_ENEMY_ANY",
-      "content": "Defeat {0} enemies"
+      "content": "{0} düşmanı yen"
     },
     {
       "id": "KILL_ENEMY_ABNORMALITY",
-      "content": "Suppress {0} Abnormalities"
+      "content": "{0} Anormaliyi bastır"
     },
     {
       "id": "SOMEONE_PARTICIPATED_IN_BATTLE",
-      "content": "Have {1} in battle {0} time(s)"
+      "content": "{1} karakterini {0} kez savaşa sok"
     },
     {
       "id": "MIRROR_DUNGEON_TRY",
-      "content": "Enter the Mirror Dungeon {0} time(s)"
+      "content": "Ayna Zindanı'na {0} kez gir"
     },
     {
       "id": "MIRROR_DUNGEON_CLEAR",
-      "content": "Clear Mirror Dungeons {0} time(s)"
+      "content": "Ayna Zindanlarını {0} kez tamamla"
     },
     {
       "id": "BATTLEPASS_LEVELUP",
-      "content": "Reach Battle Pass Level {0}"
+      "content": "Savaş Bileti Seviye şu seviyeye ulaş: {0}"
     },
     {
       "id": "USE_EGO_20402",
-      "content": "Use Ryōshū’s 4th Match Flame {0} time(s)"
+      "content": "Ryōshū'nun 4. Maç Alevi'ni {0} kez kullan"
     },
     {
       "id": "USE_ANNOUNCER_2",
-      "content": "Have Gregor as the Announcer {0} time(s)"
+      "content": "Gregor'u {0} kez Anonsçu olarak kullan"
     },
     {
       "id": "LOGIN_ONCE",
-      "content": "{0} daily log-ins"
+      "content": "{0} günlük giriş yap"
     },
     {
       "id": "LOGIN_MULTIPLE",
-      "content": "{0} total daily log-ins"
+      "content": "Toplam {0} kez günlük giriş yap"
     },
     {
       "id": "EXPDUNGEON_CLEAR",
-      "content": "Clear EXP Luxcavation {0} time(s)"
+      "content": "EXP Kazısını {0} kez tamamla"
     },
     {
       "id": "THREADDENGEON_CLEAR",
-      "content": "Clear Thread Luxcavation {0} time(s)"
+      "content": "Ampül Kazısını {0} kez tamamla"
     },
     {
       "id": "PURCHASE_ENKEPHALIN_MODULE",
-      "content": "Assemble {0} Enkephalin Module(s)"
+      "content": "{0} Enkefalin Modülü birleştir"
     }
   ]
 }
