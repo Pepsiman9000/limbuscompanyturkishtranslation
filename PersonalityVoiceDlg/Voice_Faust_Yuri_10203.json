@@ -48,7 +48,7 @@
     {
       "id": "neglect_10203_1",
       "desc": "Idle",
-      "dlg": "A sudden disappearance, often seen."
+      "dlg": "Ani bir kayboluş, sık görülür."
     },
     {
       "id": "gacksung_10203_1",
@@ -58,27 +58,27 @@
     {
       "id": "formation_10203_1",
       "desc": "Deployment",
-      "dlg": "I’m ready."
+      "dlg": "Hazırım."
     },
     {
       "id": "battleentry_10203_1",
       "desc": "Stage Entry",
-      "dlg": "Hopefully this goes well."
+      "dlg": "Umarım bu iyi gider."
     },
     {
       "id": "battle_select_10203_1",
       "desc": "Viewed in Battle",
-      "dlg": "What was done wrong?"
+      "dlg": "Ne yanlış yapıldı?"
     },
     {
       "id": "battle_endcommand_10203_1",
       "desc": "Commencing Attack",
-      "dlg": "There’s no fear right now."
+      "dlg": "Şu anda korku yok."
     },
     {
       "id": "battle_enemy_break_10203_1",
       "desc": "Enemy Stagger",
-      "dlg": "You’re up next."
+      "dlg": "Sırada sen varsın."
     },
     {
       "id": "battle_break_10203_1",
@@ -88,7 +88,7 @@
     {
       "id": "battle_kill_10203_1",
       "desc": "Enemy Killed",
-      "dlg": "That wasn’t scary."
+      "dlg": "Bu korkunç değildi."
     },
     {
       "id": "battle_allydead_10203_1",
@@ -98,12 +98,12 @@
     {
       "id": "choice_success_p_10203_1",
       "desc": "Check Passed",
-      "dlg": "Preparation makes things easy."
+      "dlg": "Hazırlık işleri kolaylaştırır."
     },
     {
       "id": "choice_fail_n_10203_1",
       "desc": "Check Failed",
-      "dlg": "I’m all too used to this."
+      "dlg": "Ben tüm bunlara çok alışığım."
     },
     {
       "id": "battle_clear_10203_1",
@@ -113,7 +113,7 @@
     {
       "id": "battle_clear_ex_10203_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "Faust has always been competent."
+      "dlg": "Faust her zaman becerikliydi."
     },
     {
       "id": "battle_defeat_10203_1",
