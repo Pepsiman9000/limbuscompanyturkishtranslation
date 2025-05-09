@@ -2,55 +2,55 @@
   "dataList": [
     {
       "id": "Ally",
-      "content": "Friendly Units"
+      "content": "Dost Birimler"
     },
     {
       "id": "RandomAlly",
-      "content": "Random Friendly Units"
+      "content": "Rastgele Dost Birimler"
     },
     {
       "id": "EveryAlly",
-      "content": "All Allies"
+      "content": "Tüm Müttefikler"
     },
     {
       "id": "EveryEnemy",
-      "content": "All Enemies"
+      "content": "Tüm Düşmanlar"
     },
     {
       "id": "ChosenPersonality",
-      "content": "The Selected Identity"
+      "content": "Seçilen Kişilik"
     },
     {
       "id": "HighestHpAlly",
-      "content": "Friendly Units with the most HP"
+      "content": "En Çok HP'ye Sahip Dost Birimler"
     },
     {
       "id": "LowestHpAlly",
-      "content": "Friendly Units with the least HP"
+      "content": "En Az HP'ye Sahip Dost Birimler"
     },
     {
       "id": "HighestMpAlly",
-      "content": "Friendly Units with the highest SP"
+      "content": "En Yüksek SP'ye Sahip Dost Birimler"
     },
     {
       "id": "LowestMpAlly",
-      "content": "Friendly Units with the lowest SP"
+      "content": "En Düşük SP'ye Sahip Dost Birimler"
     },
     {
       "id": "NotFullHpAlly",
-      "content": "Friendly Units whose HP is not full"
+      "content": "HP'si Tam Olmayan Dost Birimler"
     },
     {
       "id": "NotAffectedAlly",
-      "content": "Allies unaffected by previous effects"
+      "content": "Önceki efektlerden etkilenmemiş müttefikler"
     },
     {
       "id": "LowestHpRatioAlly",
-      "content": "Ally with the lowest HP percentage"
+      "content": "En Düşük HP Yüzdesine Sahip Müttefik"
     },
     {
       "id": "Every",
-      "content": "All"
+      "content": "Tümü"
     }
   ]
 }
