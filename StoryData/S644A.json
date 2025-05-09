@@ -4,17 +4,17 @@
             "id": 0,
             "place": "Stairwell to the Rooftop",
             "model": "넬리",
-            "content": "I'll knock that wretch unconscious! It is one of many lesser-known skills of Butlers to keep their foes neutralized."
+            "content": "O alçağı bayıltacağım! Hizmetkârların az bilinen yeteneklerinden biri, düşmanlarını etkisiz hale getirmektir."
         },
         {
             "id": 1,
             "model": "파우스트",
-            "content": "Dante. Our foremost priority should be..."
+            "content": "Dante. Öncelikli hedefimiz…"
         },
         {
             "id": 2,
             "model": "파우스트",
-            "content": "... finding out who it was that showed the Erlking Heathcliff about Heathcliffs and Catherines in every world. The one who opened his eyes to the Mirror Worlds."
+            "content": "... Erlking Heathcliff’e her dünyadaki Heathcliff ve Catherine’leri gösteren kişiyi bulmak. Onun gözlerini Ayna Dünyalar’a açan kişiyi."
         },
         {
             "id": 3,
@@ -34,22 +34,22 @@
         {
             "id": 6,
             "model": "파우스트",
-            "content": "Understood. The very first question we must ask is how Catherine suddenly gained a keen interest in studying the Mirror Worlds. Considering that she had led a relatively normal life before Heathcliff's departure, this behavior seems highly irregular."
+            "content": "Anlaşıldı. İlk sormamız gereken şey şu: Catherine, Ayna Dünyalar’ı incelemeye aniden nasıl bu kadar ilgi duymaya başladı? Heathcliff’in gidişinden önce oldukça sıradan bir yaşam sürdüğü düşünülürse, bu davranış fazlasıyla sıra dışı görünüyor."
         },
         {
             "id": 7,
             "model": "이스마엘",
-            "content": "So it's pretty much a given that there was someone acting behind the scenes, egging her on..."
+            "content": "Yani perde arkasında biri vardı ve onu kışkırtıyordu diyebiliriz…"
         },
         {
             "id": 8,
             "model": "파우스트",
-            "content": "Indeed. Someone who handed the mirror to Catherine, leading her to create the laboratory. Someone who had to have invited Erlking Heathcliff to this manor."
+            "content": "Kesinlikle. Catherine’e aynayı verip onu laboratuvar kurmaya yönlendiren biri. Ayrıca Erlking Heathcliff’i bu malikaneye davet eden kişi."
         },
         {
             "id": 9,
             "model": "뫼르소",
-            "content": "It must be someone close to Catherine. Someone who she heavily relied on."
+            "content": "Catherine’e yakın biri olmalı. Onun çok güvendiği biri."
         },
         {
             "id": 10,
@@ -59,17 +59,17 @@
         {
             "id": 11,
             "model": "오티스",
-            "content": "Executive Manager. If you would allow me to voice a few suspicions."
+            "content": "İdari Müdür. Eğer izin verirseniz birkaç şüphemi dile getirmek istiyorum."
         },
         {
             "id": 12,
             "model": "오티스",
-            "content": "Do you recall what Nelly said, when we first discovered the Golden Bough in the basement?"
+            "content": "Bodrumdaki Altın Dal’ı bulduğumuzda Nelly’nin ne dediğini hatırlıyor musunuz?"
         },
         {
             "id": 13,
             "model": "넬리",
-            "content": "T-there! Is that the Golden Bough you were looking for...?"
+            "content": "O-orada! Aradığınız Altın Dal bu mu...?"
         },
         {
             "id": 14,
@@ -79,32 +79,32 @@
         {
             "id": 15,
             "model": "오티스",
-            "content": "Executive Manager. She couldn't have known that we were actively seeking the Golden Boughs. We never shared that information with her. The only thing she should have known at that stage is what Catherine's will stated: that she was leaving the Golden Bough to Heathcliff."
+            "content": "İdari Müdür. Bizim Altın Dallar’ı aradığımızı bilmiş olamaz. Bu bilgiyi onunla hiç paylaşmadık. O aşamada bilebileceği tek şey, Catherine’in vasiyetinde yazan, Altın Dal’ı Heathcliff’e bıraktığıydı."
         },
         {
             "id": 16,
             "model": "오티스",
-            "content": "And..."
+            "content": "Ve..."
         },
         {
             "id": 17,
             "model": "오티스",
-            "content": "When we encountered the Dead Rabbits in the corridor..."
+            "content": "Koridorda Dead Rabbits karşılaştığımızda…"
         },
         {
             "id": 18,
             "model": "오티스",
-            "content": "She claimed that the 'word on the street' is that we must be wary of Dead Rabbits with red eyes, but... as you are well aware yourself, in the 'streets', their eyes would not have had any color."
+            "content": "Sokaktaki dedikodulara göre kırmızı gözlü Dead Rabbits sakınmamız gerektiğini söyledi ama… siz de çok iyi biliyorsunuz ki, ‘sokakta’ onların gözlerinin bir rengi olamazdı."
         },
         {
             "id": 19,
             "model": "로쟈",
-            "content": "Right? She wasn't even at an angle where she could see their eyes."
+            "content": "Değil mi? Gözlerini görebileceği bir açıdan bile bakmıyordu ki."
         },
         {
             "id": 20,
             "model": "오티스",
-            "content": "It can only mean that she was already aware of that fact before we encountered them."
+            "content": "Bu da onları görmeden önce o bilgiyi zaten bildiğini gösterir."
         },
         {
             "id": 21,
@@ -123,42 +123,42 @@
         {
             "id": 24,
             "model": "넬리",
-            "content": "Now ascend to the rooftops... Heathcliff."
+            "content": "Şimdi çatıya çık... Heathcliff."
         },
         {
             "id": 25,
             "model": "히스클리프",
-            "content": "... Nelly? Why are you talking to him...?"
+            "content": "... Nelly? Onunla neden konuşuyorsun…?"
         },
         {
             "id": 26,
             "model": "마왕히스클리프2",
-            "title": "A Distant World",
-            "content": "Do you still not understand?"
+            "title": "Uzak Bir Dünya",
+            "content": "Halen anlamadın mı?"
         },
         {
             "id": 27,
             "model": "마왕히스클리프2",
-            "title": "A Distant World",
-            "content": "It was Nelly who invited me to this manor!"
+            "title": "Uzak Bir Dünya",
+            "content": "eni bu malikaneye davet eden Nelly’di!"
         },
         {
             "id": 28,
             "model": "마왕히스클리프2",
-            "title": "A Distant World",
-            "content": "She summoned me here, gave me information I needed to utterly destroy that fool Hindley."
+            "title": "Uzak Bir Dünya",
+            "content": "Beni buraya çağıran oydu, o ahmak Hindley’i yerle bir etmek için ihtiyacım olan bilgileri de o verdi."
         },
         {
             "id": 29,
             "model": "마왕히스클리프2",
-            "title": "A Distant World",
-            "content": "Oh, and it was Nelly who introduced me to that girl, Isabella."
+            "title": "Uzak Bir Dünya",
+            "content": "Ah, bir de… o kız, Isabella’yla beni tanıştıran da Nelly’ydi."
         },
         {
             "id": 30,
             "model": "마왕히스클리프2",
-            "title": "A Distant World",
-            "content": "Do not ask me why, for the answer is quite plain. Because we were both tired of enduring!"
+            "title": "Uzak Bir Dünya",
+            "content": "Bana nedenini sorma bile, cevap ortada. Çünkü ikimiz de her şeye katlanmaktan bıkmıştık!"
         },
         {
             "id": 31,
