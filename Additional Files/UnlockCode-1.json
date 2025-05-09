@@ -2,73 +2,73 @@
   "dataList": [
     {
       "id": 101,
-      "openCondition": "Canto 1'i Bitir"
+      "openCondition": "Canto 1'i Tamamla"
     },
     {
       "id": 102,
-      "openCondition": "Canto 2'yi Bitir"
+      "openCondition": "Canto 2'yi Tamamla"
     },
     {
       "id": 103,
-      "openCondition": "Canto 3'ü Bitir"
+      "openCondition": "Canto 3'ü Tamamla"
     },
     {
       "id": 104,
-      "openCondition": "Canto 4'ü Bitir"
+      "openCondition": "Canto 4'ü Tamamla"
     },
     {
       "id": 105,
-      "openCondition": "Canto 5'i Bitir",
-      "askLevelUp": "Identity level caps are unlocked by progressing through the main story,\nand the highest level achievable with this ticket(Lv. {0})\nwill be unlocked upon clearing Main Story Canto V."
+      "openCondition": "Canto 5'i Tamamla",
+      "askLevelUp": "Kimlik seviye sınırları ana hikaye ilerledikçe açılır,\nve bu biletle ulaşılabilen en yüksek seviye (Seviye {0})\nAna Hikaye Canto V tamamlandığında açılacaktır."
     },
     {
       "id": 106,
-      "openCondition": "Canto 6'yı Bitir",
-      "askLevelUp": "Identity level caps are unlocked by progressing through the main story,\nand the highest level achievable with this ticket(Lv. {0})\nwill be unlocked upon clearing Main Story Canto VI."
+      "openCondition": "Canto 6'yı Tamamla",
+      "askLevelUp": "Kimlik seviye sınırları ana hikaye ilerledikçe açılır,\nve bu biletle ulaşılabilen en yüksek seviye (Seviye {0})\nAna Hikaye Canto VI tamamlandığında açılacaktır."
     },
     {
       "id": 9103,
-      "openCondition": "Clear Hell's Chicken"
+      "openCondition": "Cenabetlik Tavuğu Tamamla"
     },
     {
       "id": 9104,
-      "openCondition": "Clear S.E.A."
+      "openCondition": "D.E.N.İ.Z.'İ Tamamla"
     },
     {
       "id": 9105,
-      "openCondition": "Clear Miracle in District 20"
+      "openCondition": "District 20'de Mucize'yi Tamamla"
     },
     {
       "id": 9106,
-      "openCondition": "Clear The 2nd Walpurgis Night"
+      "openCondition": "2. Walpurgis Gecesi'ni Tamamla"
     },
     {
       "id": 9107,
-      "openCondition": "Clear Yield My Flesh to Claim Their Bones"
+      "openCondition": "Kemiklerini Talep Etmek İçin Etimi Feda Et'i Tamamla"
     },
     {
       "id": 9109,
-      "openCondition": "Clear Timekilling Time"
+      "openCondition": "Zaman Öldürme Zamanı'nı Tamamla"
     },
     {
       "id": 107,
-      "openCondition": "Clear Canto 7"
+      "openCondition": "Canto 7'yi Tamamla"
     },
     {
       "id": 9110,
-      "openCondition": "Clear Murder on the WARP Express"
+      "openCondition": "WARP Ekspresinde Cinayet'i Tamamla"
     },
     {
       "id": 9111,
-      "openCondition": "Clear The 4th Walpurgis Night"
+      "openCondition": "4. Walpurgis Gecesi'ni Tamamla"
     },
     {
       "id": 9113,
-      "openCondition": "Clear The 5th Walpurgis Night"
+      "openCondition": "5. Walpurgis Gecesi'ni Tamamla"
     },
     {
       "id": 9114,
-      "openCondition": "Clear LCB Regular Check-up"
+      "openCondition": "LŞO Rutin Kontrolü'nü Tamamla"
     }
   ]
 }
