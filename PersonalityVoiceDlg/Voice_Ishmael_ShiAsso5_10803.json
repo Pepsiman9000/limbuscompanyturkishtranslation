@@ -13,7 +13,7 @@
     {
       "id": "lobby_noon_10803_1",
       "desc": "Afternoon Greeting",
-      "dlg": "Is there anything you want to say? I can afford a moment to hear it."
+      "dlg": "Demek istediğin bir şey var mı? Duymak için vaktimi ayırabilirim."
     },
     {
       "id": "lobby_night_10803_1",
@@ -23,7 +23,7 @@
     {
       "id": "smalltalk_10803_1",
       "desc": "Chatter #1",
-      "dlg": "I’m always watching, Manager. Just call when you need something."
+      "dlg": "Ben hep izliyorum, Müdür. Bir şeye ihtiyacın olduğunda çağır."
     },
     {
       "id": "smalltalk_10803_2",
@@ -48,7 +48,7 @@
     {
       "id": "neglect_10803_1",
       "desc": "Idle",
-      "dlg": "Executive Manager…? Do you really think you can hide from me?"
+      "dlg": "Executive Manager…? Cidden benden saklanabileceğini mi sanıyorsun?"
     },
     {
       "id": "gacksung_10803_1",
@@ -63,7 +63,7 @@
     {
       "id": "battleentry_10803_1",
       "desc": "Stage Entry",
-      "dlg": "Is that my target? Should be easy."
+      "dlg": "Hedefim o mu? Kolay olmalı."
     },
     {
       "id": "battle_select_10803_1",
@@ -93,12 +93,12 @@
     {
       "id": "battle_allydead_10803_1",
       "desc": "Ally Death",
-      "dlg": "Huff… You’d have been fine if you stayed hidden."
+      "dlg": "Huff… Saklı kalsaydın sorun olmazdı."
     },
     {
       "id": "choice_success_p_10803_1",
       "desc": "Check Passed",
-      "dlg": "Wouldn’t even count as a low rank mission."
+      "dlg": "Düşük rütbe görev bile sayılmaz."
     },
     {
       "id": "choice_fail_n_10803_1",
