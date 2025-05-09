@@ -2,23 +2,23 @@
   "dataList": [
     {
       "id": "event_judgement_above",
-      "content": "<color=#f8c200>Advantage</color>"
+      "content": "<color=#f8c200>Avantajlı</color>"
     },
     {
       "id": "event_judgement_below",
-      "content": "<color=#e30000>Disadvantage</color>"
+      "content": "<color=#e30000>Dezavantajlı</color>"
     },
     {
       "id": "event_select_personality_to_proceed_judgement",
-      "content": "Choose an Identity to perform the check with:"
+      "content": "Kontrolü gerçekleştirecek Kişiliği seçin:"
     },
     {
       "id": "event_expected_success_rate_format",
-      "content": "Predicted Odds: {0}"
+      "content": "Tahmini Oran: {0}"
     },
     {
       "id": "all_attribute",
-      "content": "All Affinities"
+      "content": "Bütün Türler"
     }
   ]
 }
