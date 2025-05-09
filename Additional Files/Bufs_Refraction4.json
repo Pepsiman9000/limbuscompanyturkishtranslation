@@ -2,140 +2,140 @@
   "dataList": [
     {
       "id": "UninvitedGuest",
-      "name": "Interloper",
-      "desc": "When an Identity with Interloper is defeated, move to a different Identity without Interloper.",
+      "name": "Davetsiz Misafir",
+      "desc": "Davetsiz Misafir özelliğine sahip bir Kişilik yenildiğinde, Davetsiz Misafir özelliği olmayan başka bir Kimliğe geçer.",
       "summary": ""
     },
     {
       "id": "ConnectedPlug",
-      "name": "Plugged In",
-      "desc": "Turn End:\n- Max 3\n- At 3, become Staggered next turn.\n- At 3, consume all Charge Count on self.",
+      "name": "Fişe Takılı",
+      "desc": "Tur Sonu:\n- Maks 3\n- 3 olduğunda, sonraki turda Sersemler.\n- 3 olduğunda, üzerindeki tüm Yük Miktarını tüketir.",
       "summary": ""
     },
     {
       "id": "AntiSheepGround",
-      "name": "Anti-Ovine Grounding Plug",
-      "desc": "- Max 1\n- When a unit under this effect wins a Clash against the 'Grounding Refusal' Skill, inflict 1 Plugged In against the target\n- Halve the Charge Count on the target\n- Expires next turn",
+      "name": "Anti-Koyun Topraklama Fişi",
+      "desc": "- Maks 1\n- Bu etki altındaki birim 'Topraklama Reddi' Yeteneğine karşı Çarpışma kazanırsa, hedefe 1 Fişe Takılı uygula\n- Hedefteki Yük Miktarını yarıya indir\n- Sonraki turda sona erer",
       "summary": ""
     },
     {
       "id": "ThundercloudFormation",
-      "name": "Gathering Lightning Cloud",
-      "desc": "- Max 5\n- At 1 value, use a powerful Skill.\n- Reduced by 1 at Turn End. Gain 1 value when Staggered",
+      "name": "Toplanan Yıldırım Bulutu",
+      "desc": "- Maks 5\n- 1 değerinde, güçlü bir Yetenek kullan.\n- Tur Sonunda 1 azalır. Sersemlediğinde 1 değer kazanır",
       "summary": ""
     },
     {
       "id": "Refraction4A",
-      "name": "#1 Deployment Effect",
-      "desc": "Identity Level +2\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has.",
+      "name": "#1 Konuşlandırma Etkisi",
+      "desc": "Kişilik Seviyesi +2\nYenildiğinde, bu birimin sahip olduğu her Saldırı Yeteneğinin Uyumluluğu ve Rütbesine göre E.G.O Kaynağı kazanır.",
       "summary": ""
     },
     {
       "id": "Refraction4B",
-      "name": "#2 Deployment Effect",
-      "desc": "SP Heal Efficiency +3\nEntry SP +10 (-10 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on each Attack Skill's Affinity & number.",
+      "name": "#2 Konuşlandırma Etkisi",
+      "desc": "SP İyileşme Verimliliği +3\nGiriş SP +10 (Eksi Jeton Kişilikleri için -10)\nYenildiğinde, her Saldırı Yeteneğinin türü ve miktarına göre E.G.O Kaynağı kazanır.",
       "summary": ""
     },
     {
       "id": "Refraction4C",
-      "name": "#3 Deployment Effect",
-      "desc": "Offense Level +2\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has.",
+      "name": "#3 Konuşlandırma Etkisi",
+      "desc": "Saldırı Seviyesi +2\nYenildiğinde, bu birimin sahip olduğu her Saldırı Yeteneğinin Uyumluluğu ve Rütbesine göre E.G.O Kaynağı kazanır.",
       "summary": ""
     },
     {
       "id": "Refraction4D",
-      "name": "#4 Deployment Effect",
-      "desc": "Defense Level +2\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has.",
+      "name": "#4 Konuşlandırma Etkisi",
+      "desc": "Savunma Seviyesi +2\nYenildiğinde, bu birimin sahip olduğu her Saldırı Yeteneğinin Uyumluluğu ve Rütbesine göre E.G.O Kaynağı kazanır.",
       "summary": ""
     },
     {
       "id": "Refraction4E",
-      "name": "#5 Deployment Effect",
-      "desc": "Starting 2nd turn: Max Speed +2\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has.",
+      "name": "#5 Konuşlandırma Etkisi",
+      "desc": "2. turdan başlayarak: Maks Hız +2\nYenildiğinde, bu birimin sahip olduğu her Saldırı Yeteneğinin Uyumluluğu ve Rütbesine göre E.G.O Kaynağı kazanır.",
       "summary": ""
     },
     {
       "id": "Refraction4F",
-      "name": "#6 Deployment Effect",
-      "desc": "Max HP +5%\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has.",
+      "name": "#6 Konuşlandırma Etkisi",
+      "desc": "Maks HP +5%\nYenildiğinde, bu birimin sahip olduğu her Saldırı Yeteneğinin Uyumluluğu ve Rütbesine göre E.G.O Kaynağı kazanır.",
       "summary": ""
     },
     {
       "id": "Refraction4G",
-      "name": "#7 Deployment Effect",
-      "desc": "Clash Power +1\nEntry SP +15 (-15 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has.",
+      "name": "#7 Konuşlandırma Etkisi",
+      "desc": "Çarpışma Gücü +1\nGiriş SP +15 (Eksi Jeton Kişilikleri için -15)\nYenildiğinde, bu birimin sahip olduğu her Saldırı Yeteneğinin Uyumluluğu ve Rütbesine göre E.G.O Kaynağı kazanır.",
       "summary": ""
     },
     {
       "id": "Refraction4H",
-      "name": "#8 Deployment Effect",
-      "desc": "Damage Taken -10%\nEntry SP +15 (-15 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has.",
+      "name": "#8 Konuşlandırma Etkisi",
+      "desc": "Alınan Hasar -10%\nGiriş SP +15 (Eksi Jeton Kişilikleri için -15)\nYenildiğinde, bu birimin sahip olduğu her Saldırı Yeteneğinin Uyumluluğu ve Rütbesine göre E.G.O Kaynağı kazanır.",
       "summary": ""
     },
     {
       "id": "Refraction4I",
-      "name": "#9 Deployment Effect",
-      "desc": "Aggro +5\nEntry SP +20 (-20 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has.",
+      "name": "#9 Konuşlandırma Etkisi",
+      "desc": "Agro +5\nGiriş SP +20 (Eksi Jeton Kişilikleri için -20)\nYenildiğinde, bu birimin sahip olduğu her Saldırı Yeteneğinin Uyumluluğu ve Rütbesine göre E.G.O Kaynağı kazanır.",
       "summary": ""
     },
     {
       "id": "Refraction4J",
-      "name": "#10 Deployment Effect",
-      "desc": "Damage Dealt +10%\nEntry SP +20 (-10 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has.",
+      "name": "#10 Konuşlandırma Etkisi",
+      "desc": "Verilen Hasar +10%\nGiriş SP +20 (Eksi Jeton Kişilikleri için -10)\nYenildiğinde, bu birimin sahip olduğu her Saldırı Yeteneğinin Uyumluluğu ve Rütbesine göre E.G.O Kaynağı kazanır.",
       "summary": ""
     },
     {
       "id": "Refraction4K",
-      "name": "#11 Deployment Effect",
-      "desc": "Final Power +1\nEntry SP +30 (-30 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has.",
+      "name": "#11 Konuşlandırma Etkisi",
+      "desc": "Nihai Güç +1\nGiriş SP +30 (Eksi Jeton Kişilikleri için -30)\nYenildiğinde, bu birimin sahip olduğu her Saldırı Yeteneğinin Uyumluluğu ve Rütbesine göre E.G.O Kaynağı kazanır.",
       "summary": ""
     },
     {
       "id": "Refraction4L",
-      "name": "#12 Deployment Effect",
-      "desc": "Identity Level +3\nEntry SP +30 (-30 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has.",
+      "name": "#12 Konuşlandırma Etkisi",
+      "desc": "Kişilik Seviyesi +3\nGiriş SP +30 (Eksi Jeton Kişilikleri için -30)\nYenildiğinde, bu birimin sahip olduğu her Saldırı Yeteneğinin Uyumluluğu ve Rütbesine göre E.G.O Kaynağı kazanır.",
       "summary": ""
     },
     {
       "id": "BandageOfTheBoundKing",
-      "name": "Bandages of the King in Binds",
-      "desc": "When defeated, inflict 2 Sinking Potency and 1 Count against all enemies.\nApply Bandages of the King in Binds against the target that defeated this unit. If the said target already has that effect, or if the said target does not exist, apply it to a random enemy without that effect",
+      "name": "Bağlı Kralın Bandajları",
+      "desc": "Yenildiğinde, tüm düşmanlara 2 Batma Şiddetii ve 1 Miktar uygula.\nBu birimi yenen hedefe Bağlı Kralın Bandajlarını uygula. Eğer hedef zaten bu etkiye sahipse veya hedef yoksa, bu etkiye sahip olmayan rastgele bir düşmana uygula",
       "summary": ""
     },
     {
       "id": "ComeForwardToTheKing",
-      "name": "Moment of Audience",
-      "desc": "Gain +{0} Atk Weight to all of this unit's Attack Skills\nClash Lose: Gain 1 Fragile next turn",
+      "name": "Huzur Anı",
+      "desc": "Bu birimin tüm Saldırı Yeteneklerine +{0} Atk Ağırlığı kazan\nÇarpışma Kaybı: Sonraki turda 1 Kırılgan kazan",
       "summary": ""
     },
     {
       "id": "RefractedWill",
-      "name": "Refracted Determination",
-      "desc": "Halve the amount of SP lost when an ally is defeated as per the Identity's 'Base factors decreasing Sanity(SP)'. (rounded down)",
+      "name": "Kırılan Kararlılık",
+      "desc": "Kişiliğin 'Sağduyu(SP) azaltan temel faktörler'ine göre bir müttefik yenildiğinde kaybedilen SP miktarını yarıya indirir. (aşağı yuvarlanır)",
       "summary": ""
     },
     {
       "id": "VioletPeccatulumTwo",
-      "name": "Peccatulum Invidiae Class 2",
-      "desc": "- Damage Dealt +15%\n- Damage Taken -15%",
+      "name": "Peccatulum Invidiae Sınıf 2",
+      "desc": "- Verilen Hasar +15%\n- Alınan Hasar -15%",
       "summary": ""
     },
     {
       "id": "BigWelcome",
-      "name": "Grand Welcome",
-      "desc": "After Attack: if the target is Staggered or defeated, gain +1 Pride E.G.O resource and +1 E.G.O resource for 1 other random Affinity (3 times per turn)",
+      "name": "Büyük Karşılama",
+      "desc": "Saldırı Sonrası: hedef Sersemlediyse veya yenildiyse, +1 Gurur E.G.O kaynağı ve 1 rastgele diğer Uyumluluk için +1 E.G.O kaynağı kazan (tur başına 3 kez)",
       "summary": ""
     },
     {
       "id": "BreathSupport",
-      "name": "Poised Showdown",
-      "desc": "Wave Start: Gain 4 Poise Potency and Count.",
+      "name": "Hazırlıklı Yüzleşme",
+      "desc": "Dalga Başlangıcı: 4 Nefes Şiddeti ve Miktarı kazan.",
       "summary": ""
     },
     {
       "id": "FirmWill",
-      "name": "Resilient Determination",
-      "desc": "Does not lose SP upon ally defeat.",
+      "name": "Sarsılmaz Kararlılık",
+      "desc": "Müttefik yenilgilerinde SP kaybetmez.",
       "summary": ""
     }
   ]
