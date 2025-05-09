@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "High Rollers Floor",
+      "place": "Savurgan Kumarbazlar Katı",
       "model": "단테",
       "content": "<Bu hiç iyi değil. Son kata erişebildik, ama yeterli dilek gücümüz yok…>"
     },
@@ -24,13 +24,13 @@
       "id": 4,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
+      "title": "LŞTÖ",
       "content": "Niye önceden söylemedin?"
     },
     {
       "id": 5,
       "model": "로쟈",
-      "content": "Dediğin gibi,  #Ayın burda poker face'i daha önce değişik bir şekilde çevirmişlerdi bence aynısını kullalım ben bulamadım#."
+      "content": "Dediğin gibi, yüz hatların kumar oynarken büyük önem taşır. Birinin baklayı çıkarıp işleri karmaşıklaştırmasını istemedim"
     },
     {
       "id": 6,
@@ -39,18 +39,18 @@
     },
     {
       "id": 7,
-      "content": "Kafamı salladım, artık bu kostümle çok bir şey yapmdığımı fark ederek."
+      "content": "Onaylayarak kafamı salladım, artık bu kılıkla çok bir şey yapamadığımı fark ederek."
     },
     {
       "id": 8,
-      "content": "Kendimi bu Tirad'a adamış olsam bile, benim için en doğru olan ellerimi çekip kadere boyun eymek oluyor, çünkü her şey zaten eninde sonunda olcağına varıyor."
+      "content": "Kendimi bu role adamış olsam bile, benim için en doğru olan şey ellerimi çekip teslim olmak olurdu, özellikle işleri öyle batırdıktan sonra."
     },
     {
       "id": 9,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "…Buna bir kaç saat öncesine kadar şiddetle karşı çıkardım ama. şimdi bakınca…"
+      "title": "LŞTÖ",
+      "content": "…Buna bir kaç saat öncesine kadar şiddetle karşı çıkardım. Ama şimdi düşününce…"
     },
     {
       "id": 10,
@@ -108,7 +108,7 @@
       "model": "아이드",
       "teller": "???",
       "title": "???",
-      "content": "Eee, haksız değilsin. Buraya gelebilmiş olman, nitelikli olduğunun kanıtıdır."
+      "content": "Eee, haksız değilsin. Buraya gelebilmiş olman, nitelikli olduğunu kanıtlıyor."
     },
     {
       "id": 20,
@@ -153,7 +153,7 @@
       "model": "철공회보스",
       "teller": "Çete Lideri",
       "title": "Tieqiu Çetesi",
-      "content": "Köhne altındır. Üzerine birkaç kez yama yaptım, şimdi de yeni olanlardan kat kat daha sağlam."
+      "content": "Köhne altındır. Üzerine birkaç kez yama yaptım, şimdi de yenilerden kat ve kat daha sağlam."
     },
     {
       "id": 27,
@@ -185,7 +185,7 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Haha, Özür dilerim niyetim değildi. Öyle bir durumda, sen hayatın ana karakteri olmaya daha elveişlisin, Aida."
+      "content": "Haha, niyetim değildi. Eğer dünya birinin etrafında dönüyorsa, sen o role daha iyi uyarsın, Aida."
     },
     {
       "id": 32,
@@ -216,7 +216,7 @@
     {
       "id": 36,
       "model": "로쟈",
-      "content": "Yani, sen… hala Yurodiviye'ın başındasın, o zaman?"
+      "content": "Yani, sen… hala Yurodiviye'nin başındasın, o zaman?"
     },
     {
       "id": 37,
@@ -237,7 +237,7 @@
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Casino'daki teklif sunan dört kişi burada: Sonya, Aida, the Tieqiu, ve… Tingtang Çete'sinin liderini temsil eden… şüpheli ama arsız bir dublör…"
+      "content": "Kumarhanedeki teklif sunan dört kişi burada: Sonya, Aida, Tieqiu Çetesi, ve… Tingtang Çetesi'nin liderini temsil eden… şüpheli ama arsız bir dublör…"
     },
     {
       "id": 40,
@@ -256,7 +256,7 @@
     {
       "id": 42,
       "model": "철공회보스",
-      "teller": "Crew Boss",
+      "teller": "Çete Lideri",
       "title": "Tieqiu Crew",
       "content": "Yakalandığın gibi, tahtalı köyü boylarsın! Fena halde pişman olursunuz!"
     },
@@ -284,14 +284,14 @@
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Bu Casino'nun eski sahibinin elde etmeyi çok istediği, ona erişmek için yerin altına tüneller kazdırdığı bir hazine."
+      "content": "Bu Kumarhanenin eski sahibinin elde etmeyi çok istediği, ona erişmek için yerin altına tüneller kazdırdığı bir hazine."
     },
     {
       "id": 47,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Ama birden bire bilinmeyen sebeplerden dolayı öldü, ve bu da bizi “şanslı” telif sunanlar yaptı…"
+      "content": "Ama birden bire bilinmeyen sebeplerden dolayı öldü, ve bu da bizi “şanslı” teklif sunanlar yaptı…"
     },
     {
       "id": 48,
@@ -327,7 +327,7 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Altın Dal büyük işler yapmak için kullanıla bilir, Rodya. Amacım hala sabit. Zülüm ve sömürü ile dolu sistemi yok etmek, Mülkün tekkeleşmesini önlemek…"
+      "content": "Altın Dal büyük işler yapmak için kullanılabilir, Rodya. Amacım hala sabit. Zulüm ve sömürü ile dolu sistemi yok etmek, mülkün tekkeleşmesini önlemek…"
     },
     {
       "id": 54,
@@ -341,7 +341,7 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Ah özür dilerim. bana maziyi hatırlatı bir an kendimden geçtim."
+      "content": "Ah özür dilerim. Bana maziyi hatırlattı."
     },
     {
       "id": 56,
@@ -355,14 +355,14 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Ama şimdi biz burada aynı masadayız, destelerimizi bir birimizden gizleyip amaçlarımız uğrunda bir kumarda."
+      "content": "Ama şimdi burada aynı masadayız, destelerimizi birbirimizden gizleyerek amaçlarımız uğruna oynadığımız bir kumarda."
     },
     {
       "id": 58,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Senin amacın nedir?"
+      "content": "Amacın nedir?"
     },
     {
       "id": 59,
