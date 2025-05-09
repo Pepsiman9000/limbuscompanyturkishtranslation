@@ -1832,47 +1832,47 @@
     },
     {
       "id": 8055,
-      "name": "Fully Bloomed Flower",
+      "name": "Tamamen Açmış Çiçek",
       "desc": "Core"
     },
     {
       "id": 805501,
-      "name": "Bud",
+      "name": "Ağa",
       "desc": "Part"
     },
     {
       "id": 80442,
-      "name": "Dongbaek E.G.O::Spicebush",
+      "name": "Dongbaek E.G.O::Bahar Çalısı",
       "desc": "Core"
     },
     {
       "id": 8056,
-      "name": "Tree of Vanity",
+      "name": "Kibir Meyvesi",
       "desc": "Core"
     },
     {
       "id": 805601,
-      "name": "Fruit of Vanity",
+      "name": "Kibir Meyvesi",
       "desc": "Part"
     },
     {
       "id": 8057,
-      "name": "Resentful Tree",
+      "name": "Hınçlı Ağaç",
       "desc": "Core"
     },
     {
       "id": 805701,
-      "name": "Resentment",
+      "name": "Hınç",
       "desc": "Part"
     },
     {
       "id": 8060,
-      "name": "Tree of Desires",
+      "name": "Arzuların Ağacı",
       "desc": "Core"
     },
     {
       "id": 806001,
-      "name": "Desire",
+      "name": "Arzu",
       "desc": "Part"
     },
     {
@@ -1882,7 +1882,7 @@
     },
     {
       "id": 8058,
-      "name": "Faelantern",
+      "name": "Peri Feneri",
       "desc": "Core"
     },
     {
@@ -1892,17 +1892,17 @@
     },
     {
       "id": 80492,
-      "name": "Dongrang, Who Denies All",
+      "name": "Dongrang, İnkar Eden",
       "desc": "Core"
     },
     {
       "id": 80493,
-      "name": "Dongrang, Who Denies All",
+      "name": "Dongrang, İnkar Eden",
       "desc": "Core"
     },
     {
       "id": 8061,
-      "name": "Absorbing Tree",
+      "name": "Emici Ağaç",
       "desc": "Core"
     },
     {
@@ -1927,7 +1927,7 @@
     },
     {
       "id": 8059,
-      "name": "Fairy-Long-Legs",
+      "name": "Uzun-Bacaklı-Peri",
       "desc": "Core"
     },
     {
@@ -2007,7 +2007,7 @@
     },
     {
       "id": 8062,
-      "name": "Giant Leaf",
+      "name": "Dev Yaprak",
       "desc": "Core"
     },
     {
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 8075,
-      "name": "Blubbering Toad",
+      "name": "Ağlayan Kurbağa",
       "desc": "Core"
     },
     {
@@ -2047,7 +2047,7 @@
     },
     {
       "id": 8077,
-      "name": "Heart of the Townsfolk",
+      "name": "Halkın Kalbi",
       "desc": "Core"
     },
     {
@@ -2057,7 +2057,7 @@
     },
     {
       "id": 8078,
-      "name": "My Form Empties",
+      "name": "Form Boşalmalarım",
       "desc": "Core"
     },
     {
@@ -2067,12 +2067,12 @@
     },
     {
       "id": 807802,
-      "name": "Stone Seat",
+      "name": "Taş Oturak",
       "desc": "Part"
     },
     {
       "id": 8079,
-      "name": "Lured Guido",
+      "name": "Cezbedilmiş Guido",
       "desc": "Enemy Unit"
     },
     {
@@ -2082,7 +2082,7 @@
     },
     {
       "id": 8080,
-      "name": "Lured Aida",
+      "name": "Cezbedilmiş Aido",
       "desc": "Enemy Unit"
     },
     {
@@ -2092,7 +2092,7 @@
     },
     {
       "id": 8081,
-      "name": "Lured Festered G Corp. H. Manager",
+      "name": "Çürümüş G Corp. Anamerkez Yöneticisi",
       "desc": "Enemy Unit"
     },
     {
@@ -2112,7 +2112,7 @@
     },
     {
       "id": 8083,
-      "name": "Kromer the Dreamer of Human Wholeness",
+      "name": "Kromer, İnsan Bütünlüğünün Rüyacısı",
       "desc": "Core"
     },
     {
@@ -2132,12 +2132,12 @@
     },
     {
       "id": 90082,
-      "name": "K Corp. Class 3 Excision Staff",
+      "name": "K Kuruluşu 3. Sınıf Kesim Personeli",
       "desc": "Enemy Unit"
     },
     {
       "id": 8084,
-      "name": "Headless Ichthys",
+      "name": "Başsız Ichthys",
       "desc": "Core"
     },
     {
@@ -2162,7 +2162,7 @@
     },
     {
       "id": 8085,
-      "name": "Alleyway Watchdog",
+      "name": "Arka Sokaklar Bekçi Köpeği",
       "desc": "Core"
     },
     {
@@ -2187,7 +2187,7 @@
     },
     {
       "id": 8086,
-      "name": "Shock Centipede",
+      "name": "Elektrikli Kırkayak",
       "desc": "Core"
     },
     {
@@ -2202,7 +2202,7 @@
     },
     {
       "id": 8087,
-      "name": "Drifting Fox",
+      "name": "Terkedilmiş Tilki",
       "desc": "Core"
     },
     {
@@ -2217,17 +2217,17 @@
     },
     {
       "id": 8088,
-      "name": "Old Umbrella",
+      "name": "Eskimiş Şemsiye",
       "desc": "Core"
     },
     {
       "id": 808801,
-      "name": "Umbrella",
+      "name": "Şemsiye",
       "desc": "Part"
     },
     {
       "id": 8089,
-      "name": "So That No One Will Cry",
+      "name": "Kimse Ağlamasın Diye",
       "desc": "Core"
     },
     {
@@ -2242,7 +2242,7 @@
     },
     {
       "id": 8090,
-      "name": "Fairy Gentleman",
+      "name": "Peri Beyfendi",
       "desc": "Core"
     },
     {
@@ -2257,17 +2257,17 @@
     },
     {
       "id": 8091,
-      "name": "Fairy Wine",
+      "name": "Peri Şarabı",
       "desc": "Core"
     },
     {
       "id": 809101,
-      "name": "Wine Barrel",
+      "name": "Şarap Fıçısı",
       "desc": "Part"
     },
     {
       "id": 8092,
-      "name": "Fairy Longlegs",
+      "name": "Peri UzunBacak",
       "desc": "Core"
     },
     {
@@ -2287,7 +2287,7 @@
     },
     {
       "id": 8093,
-      "name": "Giant Leaf",
+      "name": "Dev Yaprak",
       "desc": "Core"
     },
     {
@@ -2297,12 +2297,12 @@
     },
     {
       "id": 8094,
-      "name": "Golden Apple",
+      "name": "Altın Elma",
       "desc": "Core"
     },
     {
       "id": 8095,
-      "name": "False Apple",
+      "name": "Yalancı Elma",
       "desc": "Core"
     },
     {
@@ -2322,7 +2322,7 @@
     },
     {
       "id": 8096,
-      "name": "Brazen Bull - Tearful",
+      "name": "Tunç Boğa - Ağlak",
       "desc": "Core"
     },
     {
@@ -2337,7 +2337,7 @@
     },
     {
       "id": 8263,
-      "name": "Fairy Queen",
+      "name": "Peri Kraliçesi",
       "desc": "Core"
     },
     {
@@ -2357,7 +2357,7 @@
     },
     {
       "id": 8264,
-      "name": "Fairy Mass",
+      "name": "Peri Kütlesi",
       "desc": "Core"
     },
     {
@@ -2367,7 +2367,7 @@
     },
     {
       "id": 8265,
-      "name": "Fairy Queen",
+      "name": "Peri Kraliçesi",
       "desc": "Core"
     },
     {
@@ -2387,7 +2387,7 @@
     },
     {
       "id": 8266,
-      "name": "Fairy Mass",
+      "name": "Peri Kütlesi",
       "desc": "Core"
     },
     {
@@ -2397,32 +2397,32 @@
     },
     {
       "id": 1058,
-      "name": "Portrait of a Certain Day",
+      "name": "Belirli Bir Günün Portresi",
       "desc": "Core"
     },
     {
       "id": 1059,
-      "name": "Portrait",
+      "name": "Portre",
       "desc": "Core"
     },
     {
       "id": 1060,
-      "name": "Portrait",
+      "name": "Portre",
       "desc": "Core"
     },
     {
       "id": 1061,
-      "name": "Dreaming Electric Sheep",
+      "name": "Düşleyen Elektrikli Koyun",
       "desc": "Core"
     },
     {
       "id": 1062,
-      "name": "Generator",
+      "name": "Jenaratör",
       "desc": "Core"
     },
     {
       "id": 1063,
-      "name": "The King in Binds",
+      "name": "Bağlanmış Kral",
       "desc": ""
     }
   ]
