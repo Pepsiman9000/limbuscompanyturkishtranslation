@@ -2,22 +2,22 @@
   "dataList": [
     {
       "id": 90101,
-      "name": "Leafy Gnome",
+      "name": "Yapraklı Cüce",
       "desc": "Enemy Unit"
     },
     {
       "id": 90102,
-      "name": "Cherry Gnome",
+      "name": "Kiraz Cüce",
       "desc": "Enemy Unit"
     },
     {
       "id": 90103,
-      "name": "Shadowy Gnome",
+      "name": "Gölgeli Cüce",
       "desc": "Enemy Unit"
     },
     {
       "id": 90104,
-      "name": "Manager Gnome",
+      "name": "Müdür Cüce",
       "desc": "Enemy Unit"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "id": 8113,
-      "name": "Santata",
+      "name": "Noel Bababa",
       "desc": "Enemy Unit"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "id": 811302,
-      "name": "Gift Sack",
+      "name": "Hediye Çantası",
       "desc": "Part"
     },
     {
