@@ -2,79 +2,79 @@
   "dataList": [
     {
       "id": "tutorial_401_01",
-      "content": "Each character has a <Skillset>.\nThis is the list of skills from which they draw."
+      "content": "Her karakterin bir Yetenek Listesi vardır.\nGelen Yetenenekler bu listeden seçilirler."
     },
     {
       "id": "tutorial_401_02",
-      "content": "Press a character to open their info tab."
+      "content": "Bilgi kısmını görmek için bir karaktere tıkla."
     },
     {
       "id": "tutorial_401_03",
-      "content": "With this, you can check various details including their skills."
+      "content": "Bu kısımda, Yetenekler de dahil olmak üzere birçok bilgi bulabilirsin."
     },
     {
       "id": "tutorial_401_04",
-      "content": "Each Sinner you control has their own group of skills.\nA number of them from those Skillsets will be randomly selected and deployed on the Dashboard."
+      "content": "Kontrol ettiğin her Günahkârın kendine özel 3 Saldırı Yeteneği vardır.\nBu Yetenekler alttaki Panelde rastele bir sırayla gelirler."
     },
     {
       "id": "tutorial_401_05",
-      "content": "Used skills are treated as “discarded” from the set.\nThey will not reappear until every other skill in the Skillset has been used, thus refilling it."
+      "content": "Listede 3. Yetenekten 1 tane, 2.den 2 tane, 1.den ise 3 tane vardır.\nKullandığın Yetenekler listeden silinir, listenin tamamı bittiğinde yeni bir liste başlar."
     },
     {
       "id": "tutorial_401_06",
-      "content": "Additionally, attack skills have an “offense level”.\nIn clashes, the differences in offense levels may affect the outcome."
+      "content": "Bir de, Saldırı Yeteneklerinin “Saldırı Seviyesi” vardır.\nHer 3 Saldırı Seviyesi, 1 Çarpışma Gücüne tekabül eder."
     },
     {
       "id": "tutorial_401_07",
-      "content": "That should cover the basics of your Sinners’ skills.\nNow, give them your orders."
+      "content": "İlerledikçe alışırsın.\nŞimdi, emirleri ver."
     },
     {
       "id": "tutorial_402_01",
-      "content": "Besides skills, your Sinners have <Passive Abilities>.\nSinners in battle have their Combat Passives active."
+      "content": "Yeteneklerin yanı sıra, Günahkârlarının <Pasif Yetenekleri> de vardır.\nSavaşta yer alan Günahkârların Savaş Pasifleri aktive olur."
     },
     {
       "id": "tutorial_402_02",
-      "content": "Sinners who are not directly participating in battle will provide aid with their Support Passives."
+      "content": "Savaşta yer almayan Günahkârların ise, Destek Pasifleri aktive olur."
     },
     {
       "id": "tutorial_402_03",
-      "content": "To put theory into practice, activate the Passive by chaining two Pride skills."
+      "content": "Hadi, benim Pasifimi aktive etmek için 2'li bir Kibir Rezonansı yap."
     },
     {
       "id": "tutorial_402_04",
-      "content": "This portion will indicate what Passives are active.\nPassives activate when you possess a certain number of E.G.O resources or chain skills of certain Affinities to cause Resonance."
+      "content": "Bu kısım hangi Pasiflerin aktive olduğunu belirtir.\nPasifleri aktive etmek için belirli sayıda E.G.O Kaynağına veya Rezonansa ihtiyacın olur."
     },
     {
       "id": "tutorial_403_00",
-      "content": "Our current encounter comes in multiple waves."
+      "content": "Görünüşe göre şuan yüzleştiğimiz karşılaşma birkaç dalgadan oluşuyor."
     },
     {
       "id": "tutorial_403_01",
-      "content": "To help with this, your Sinners possess powerful skills called <E.G.O>, manifested by resonating with their emotions."
+      "content": "Düşmanımıza ne yazık, çünkü Günahkârlarımız kendi duyguları ile oluşturdukları <E.G.O> denen güçlü yeteneklere sahiptir."
     },
     {
       "id": "tutorial_403_02",
-      "content": "To use <E.G.O>, you need E.G.O resources."
+      "content": "<E.G.O> kullanmak için, E.G.O kaynağına ihtiyacın vardır."
     },
     {
       "id": "tutorial_403_03",
-      "content": "You can view the E.G.O resources you currently have stockpiled here on the right."
+      "content": "Sağ tarafta E.G.O kaynaklarını görebilirsin."
     },
     {
       "id": "tutorial_403_04",
-      "content": "As this is your first time trying your hand at <E.G.O>, I’ve collected the necessary resources for you.\nThis is a special power, so you’ll need to gather them on your own from now on."
+      "content": "Bu E.G.O'yu ilk kullanışın olduğu için, gerekli kaynakları senin için önceden hazırladım.\nBu kaynaklar yalnızca savaş başına geçerlidir, ve her savaş sıfırlanır."
     },
     {
       "id": "tutorial_403_05",
-      "content": "Sinners who can currently use <E.G.O> will be highlighted."
+      "content": "<E.G.O> kullanmaya hazır Günahkârlar bir parıltı ile vurgulanacaklardır."
     },
     {
       "id": "tutorial_403_06",
-      "content": "<E.G.O Skills> must be generated on the Dashboard, much like defense skills. Please press and hold here."
+      "content": "<E.G.O Yetenekleri> Panelde manuel olarak oluşturulmalılardır, aynı Defansif Yetenekler gibi. İşaretlediğim yere basılı tut."
     },
     {
       "id": "tutorial_403_07",
-      "content": "Press the icon of the <E.G.O> you will use.\nThis can also be used to cancel the ones you’ve generated."
+      "content": "Kullanmak istediğin E.G.O'yu seç.\nAynı bu şekilde oluşturduğun E.G.O'ları iptal da edebilirsin."
     },
     {
       "id": "tutorial_403_08_title",
@@ -82,167 +82,167 @@
     },
     {
       "id": "tutorial_403_08",
-      "content": "E.G.O is powerful equipment that manifests by resonating with your Sinners’ emotions.\nTo use an E.G.O skill, you need Sin Affinity-based E.G.O resources.\nWhenever you use an attack skill, you’ll gain an E.G.O resource matching its Affinity."
+      "content": "E.G.O, Günahkârlarının kendi duyguları ile oluşturdukları güçlü saldırılardır.\nBir E.G.O Yeteneği kullanmak için, Günah Türlerine dağılmış E.G.O Kaynaklarına ihtiyacın vardır.\nHerhangi bir Yetenek kullandığında, Yeteneğin türüne tekabül eden E.G.O Kaynağından kazanırsın."
     },
     {
       "id": "tutorial_403_09_title",
-      "content": "E.G.O Corrosion"
+      "content": "E.G.O Korozyonu"
     },
     {
       "id": "tutorial_403_09",
-      "content": "On top of requiring E.G.O resources, E.G.O takes a toll on a Sinner’s Sanity.\nAt low Sanity, the Sinner might suffer from <E.G.O Corrosion>.\nSinners corroded by E.G.O will ignore your commands, so ensure that your Sinners are in good mental health."
+      "content": "E.G.O Kaynağı gerektirmesinin üzerine, Anomali E.G.O'ları Günahkârların akıl sağlığı üzerinde kötü etkiler bırakır.\nDüşük SP'de, Günahkâr E.G.O Korozyonuna maruz kalabilir.\nE.G.O Korozyonu geçiren Günahkârlar emirlerini dinlemezler, Günahkârların E.G.O kullanırken yüksek SP'de olduklarından emin ol."
     },
     {
       "id": "tutorial_403_10_title",
-      "content": "E.G.O Passives"
+      "content": "E.G.O Pasifleri"
     },
     {
       "id": "tutorial_403_10",
-      "content": "After using an E.G.O Skill, its Passive ability will activate on the next turn and further empower the Sinner for the rest of the battle.\nMake good use of the variety of Passives that E.G.O has to offer."
+      "content": "Bir E.G.O Yeteneği kullandıktan sonra, savaşın geri kalanı boyunca E.G.O Yeteneğinin Pasifi aktive olur.\nE.G.O'ların sahip oldukları Pasiflere baktığından ve düzgün kullandığından emin ol."
     },
     {
       "id": "tutorial_403_11",
-      "content": "Attack skills can be single-target or multi-target;\nthe latter are called “AoE Skills”."
+      "content": "Yetenekler tek veya çok hedefli olabilir;\nÇoklu olanlara, “AoE Yetenekler” denir."
     },
     {
       "id": "tutorial_403_12",
-      "content": "It seems the E.G.O that’s about to be in play has an AoE Skill."
+      "content": "Görünüşe göre bu E.G.O, bir AoE Yetenek."
     },
     {
       "id": "tutorial_403_13_title",
-      "content": "Area-of-Effect Skills"
+      "content": "AoE Yetenekler"
     },
     {
       "id": "tutorial_403_13",
-      "content": "Targets of AoE skills are divided into two categories:\nthe main target, and sub-targets."
+      "content": "AoE Yeteneklerin hedefleri iki gruba ayrılır:\nAna hedef, ve alt hedefler."
     },
     {
       "id": "tutorial_403_14",
-      "content": "Clashes with AoE skills can only occur from the chosen main target."
+      "content": "AoE Yetenekler yalnızca ana hedef ile çarpışmaya girebilir."
     },
     {
       "id": "tutorial_403_15",
-      "content": "If an AoE skill loses its Clash, the attack will be canceled for every target."
+      "content": "Eğer bir AoE yetenek Çarpışma kaybederse, her hedef için saldırı iptal olur."
     },
     {
       "id": "tutorial_403_16",
-      "content": "Sub-targets are determined by the targeting range of the skill."
+      "content": "Alt hedefler, Yeteneğin hedefleme menziline göre seçilir."
     },
     {
       "id": "tutorial_403_17_title",
-      "content": "Targets of AoE skills are divided into two categories:\nthe main target, and sub-targets."
+      "content": "AoE Yeteneklerin hedefleri iki gruba ayrılır:\nAna hedef, ve alt hedefler."
     },
     {
       "id": "tutorial_403_17",
-      "content": "AoE skills target enemy skill slots."
+      "content": "AoE Yetenekler düşmanların Yetenek Yuvalarını hedefler."
     },
     {
       "id": "tutorial_403_18",
-      "content": "Each AoE skill has an attack weight (Atk Weight)."
+      "content": "Her AoE Yeteneğin bir Saldırı Ağırlığı vardır."
     },
     {
       "id": "tutorial_403_19",
-      "content": "Each slot has a “weight” which can take up a portion of an AoE skill's Atk Weight."
+      "content": "Bu Saldırı Ağırlığı, hedef sayısını belirtir."
     },
     {
       "id": "tutorial_403_20",
-      "content": "In regular encounters, an enemy is only attacked once by an AoE skill, even if the unit is taking up multiple targets."
+      "content": "Sıradan Karşılaşmalarda, düşmanlar AoE Yeteneklerin hedefledikleri Yetenek Yuvası sayısı fark etmeksizin yalnızca bir kez hasar yer."
     },
     {
       "id": "tutorial_403_21",
-      "content": "In Focused Encounters, the slots on their body parts are only attacked once, even if said slots are taking up multiple targets."
+      "content": "Odaklı Karşılaşmalarda ise, her vücut parçası bir kez hasar yer."
     },
     {
       "id": "tutorial_404_00",
-      "content": "Utilizing E.G.O will be an important part of your strategy."
+      "content": "E.G.O kullanmak stratejik olarak önemlidir."
     },
     {
       "id": "tutorial_404_01",
-      "content": "Our current encounter comes in multiple waves."
+      "content": "Görünüşe göre şuan yüzleştiğimiz karşılaşma birkaç dalgadan oluşuyor."
     },
     {
       "id": "tutorial_404_02",
-      "content": "Before we proceed, allow me to introduce you to a useful feature."
+      "content": "Devam etmeden önce, seni bir butonun varlığından haberdar edeyim."
     },
     {
       "id": "tutorial_404_03",
-      "content": "You can now let the game chain skills for you.\nChains will be automatically chosen depending on what button you press."
+      "content": "Çok düşünmek istemediğin zaman kararları bana bırakabilirsin.\nSeçtiğin iki butondan birine göre seçenekleri ben yapacağım."
     },
     {
       "id": "tutorial_404_04",
-      "content": "‘Win Rate’ picks skills that are the most likely to win Clashes.\n‘Damage’, as the name implies, picks skills that can hurt your enemies the most."
+      "content": "‘Otomatik’te çarpışmaların çoğunu kazanmaya çalışırım.\n‘Hasar’da ise, adından da belli olduğu gibi, en çok hasar vuran Yetenekleri seçerim."
     },
     {
       "id": "tutorial_404_05",
-      "content": "However, do keep in mind that auto-chaining does not take the full extent of every complex factor into consideration."
+      "content": "Butonları kullanıp kullanmamak tamamen senin tercihin."
     },
     {
       "id": "tutorial_404_06",
-      "content": "Also, you can toggle target arrow displays using the panel on the upper right, and configure the skill tooltip display and Coin flip controls from the settings."
+      "content": "Bir de, sağ üstteki panelden saldırı okları seçeneklerini değiştirebilirsin, ayarlardan ise Jeton Atma gibi birkaç seçenekle oynayabilirsin. Jeton Atmayı Manuele almanı öneriyorum."
     },
     {
       "id": "tutorial_404_07",
-      "content": "That’s the last of my advice.\nNow, manage the Sinners without my help.\nI expect to receive superb commands from you, Dante."
+      "content": "Diyeceğim her şey bu.\nŞimdi yönet bakalım Günahkârları, Dante.\nKarşılaşmaları kazanmanı bekliyorum."
     },
     {
       "id": "tutorial_404_08_title",
-      "content": "Damage & Win Rate Auto-chaining"
+      "content": "Hasar & Otomatik"
     },
     {
       "id": "tutorial_404_08",
-      "content": "‘Win Rate’ picks skills that are the most likely to win Clashes."
+      "content": "‘Otomatik’ Çarpışmaları kazanma odaklı seçimler yapar."
     },
     {
       "id": "tutorial_404_09",
-      "content": "‘Damage’, as the name implies, picks skills that can hurt your enemies the most."
+      "content": "‘Hasar’ ise, en çok hasar vuran Yetenekleri seçer."
     },
     {
       "id": "tutorial_404_10",
-      "content": "For regular encounters, auto-chaining is only available on stages where you’ve cleared the EX Conditions.\nAuto-chaining can always be used for Focused Encounters.\nNote that auto-chains are not necessarily the guaranteed optimal solution."
+      "content": "Aklında tut ki bu tuşlar optimal kararları vermezler, dikkatli kullan."
     },
     {
       "id": "tutorial_ego_overclock_title",
-      "content": "E.G.O Overclock"
+      "content": "E.G.O Aşırtması"
     },
     {
       "id": "tutorial_ego_overclock_1",
-      "content": "E.G.O Overclock can be Stable or Unstable depending on resources available."
+      "content": "E.G.O Aşırtması, sahip olduğun E.G.O kaynaklarına göre stabil olabilir veya olmayabilir."
     },
     {
       "id": "tutorial_ego_overclock_2",
-      "content": "Overclocking spends 1.5 times as many E.G.O resources and SP as the E.G.O skill’s usual cost."
+      "content": "Aşırtma, orijinalin 1.5 katı E.G.O Kaynağı ve SP harcar."
     },
     {
       "id": "tutorial_ego_overclock_3",
-      "content": "To overclock an E.G.O skill, you need to possess at least the base E.G.O resource cost; if you have the base cost but not enough for overclock, the overclock cost will be subtracted from your possession beyond 0."
+      "content": "Bir E.G.O Yeteneğini aşırtmak için, en azından orijinal gereksinimdeki kaynaklara sahip olman gerekir; eğer orijinal kaynaklara sahip ama aşırtma kaynaklarına sahip değilsen, kaynaklarını negatife düşürebilirsin."
     },
     {
       "id": "tutorial_ego_overclock_4",
-      "content": "The unit can still be corroded upon overclocking; in this case, only the base E.G.O resource cost will be consumed."
+      "content": "Aşırtmış olmana rağmen, E.G.O Korozyonu geçirebilirsin; bu durumda, yalnızca orijinal kaynaklar harcanır."
     },
     {
       "id": "tutorial_ego_overclock_5",
-      "content": "Stable overclocked E.G.O skills have the same effects and damage values as the corrosion skill while being able to distinguish allies from foes."
+      "content": "Stabil E.G.O Aşırtması, E.G.O Korozyonu Yeteneklerini Korozyon geçirmeden, ve dost düşman ayırt ederek atmanı sağlar."
     },
     {
       "id": "tutorial_ego_overclock_6",
-      "content": "Unstable overclocked skills carry the risk of targeting indiscriminately and have the same effects and values as the corrosion skill."
+      "content": "Stabil olmayan aşırtmalar ise, Korozyon geçirme riski taşır ve dosta da vurabilir."
     },
     {
       "id": "tutorial_403_06_New",
-      "content": "<E.G.O Skills> must be generated on the Dashboard, much like defensive skills. Press and hold the highlighted portrait."
+      "content": "<E.G.O Yetenekleri> Panelde manuel olarak oluşturulmalılardır, aynı Defansif Yetenekler gibi. İşaretlediğim yere basılı tut."
     },
     {
       "id": "tutorial_403_07_New",
-      "content": "Press the icon of the <E.G.O> you want to use."
+      "content": "Kullanmak istediğin E.G.O'yu seç."
     },
     {
       "id": "tutorial_403_07_1",
-      "content": "Consume E.G.O Resources to generate an E.G.O. Skill icon on the Dashboard."
+      "content": "Panelde bir E.G.O Yeteneği oluşturmak için E.G.O Kaynağı harca"
     },
     {
       "id": "tutorial_403_07_2",
-      "content": "E.G.O. Skills can be canceled by tapping on the portrait twice once they are added to the Dashboard. The E.G.O. skill will be canceled and your resources will be refunded."
+      "content": "E.G.O. Yetenekleri, Günahkârın portresine iki kere basarak iptal edilebilir. E.G.O. Yeteneği iptal edildiğinde harcadığın kaynaklar iade edilecektir."
     }
   ]
 }
