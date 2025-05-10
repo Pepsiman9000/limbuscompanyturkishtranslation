@@ -2,24 +2,24 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Stairwell to the Rooftop",
+            "place": "Çatıya Çıkan Merdivenler",
             "model": "히스클리프",
             "content": "Nelly..."
         },
         {
             "id": 1,
             "model": "히스클리프",
-            "content": "You... betrayed me?"
+            "content": "Sen… bana ihanet mi ettin?"
         },
         {
             "id": 2,
             "model": "넬리",
-            "content": "This manor has never been on your side. Not even once."
+            "content": "Bu malikâne asla senin tarafında olmadı. Bir kere bile."
         },
         {
             "id": 3,
             "model": "넬리",
-            "content": "And Heathcliff, I find it rather vexing that you would use the expression 'betrayal'."
+            "content": "Ve Heathcliff, ‘ihanet’ kelimesini kullanmanı oldukça sinir bozucu buluyorum."
         },
         {
             "id": 4,
@@ -37,27 +37,27 @@
         {
             "id": 7,
             "model": "히스클리프",
-            "content": "Tell me... tell me why."
+            "content": "Söyle bana… nedenini söyle."
         },
         {
             "id": 8,
             "model": "넬리",
-            "content": "You've really changed, Heathcliff."
+            "content": "Gerçekten değişmişsin, Heathcliff."
         },
         {
             "id": 9,
             "model": "넬리",
-            "content": "The old you wouldn't have bothered to ask even a single question before swinging that big club at my skull."
+            "content": "Eski sen olsaydı, o koca sopayı kafama indirmeden önce bir tane bile soru sormazdı."
         },
         {
             "id": 10,
             "model": "히스클리프",
-            "content": "I'm asking, because it's you!"
+            "content": "Soruyorum, çünkü bunu yapan sensin!"
         },
         {
             "id": 11,
             "model": "히스클리프",
-            "content": "Do I really have to destroy... even our childhood?"
+            "content": "Gerçekten… çocukluğumuzu bile mi yok etmem gerekiyor?"
         },
         {
             "id": 12,
@@ -67,122 +67,122 @@
         {
             "id": 13,
             "model": "넬리",
-            "content": "Heathcliff... what are you most afraid of?"
+            "content": "Heathcliff… en çok neyden korkuyorsun?"
         },
         {
             "id": 14,
             "model": "넬리",
-            "content": "I... wasn't afraid of the ghost that Miss Catherine claimed to have seen. I wasn't afraid of the tempest that sometimes shook this manor. Or how violent Mister Hindley would get when he was drunk."
+            "content": "Ben… Bayan Catherine’in gördüğünü iddia ettiği hayaletten korkmadım. Bazen bu malikaneyi sarsan fırtınadan da korkmadım. Ya da Bay Hindley’nin sarhoş olduğunda ne kadar vahşileştiğinden."
         },
         {
             "id": 15,
             "model": "넬리",
-            "content": "Until one day... I became afraid."
+            "content": "Ta ki bir gün… korkmaya başlayana dek."
         },
         {
             "id": 16,
             "model": "넬리",
-            "content": "I became afraid of an old woman whose heart and body were aged beyond their years."
+            "content": "Kalbi ve bedeni yaşının çok ötesine geçmiş yaşlı bir kadından korkmaya başladım."
         },
         {
             "id": 17,
             "model": "넬리",
-            "content": "I was that old woman. An old woman who suffered because of you, Heathcliff, and Miss Catherine in every world."
+            "content": "O yaşlı kadın bendim. Her dünyada senin ve Bayan Catherine’in yüzünden acı çeken yaşlı kadın."
         },
         {
             "id": 18,
             "model": "넬리",
-            "content": "Round and round you and Miss Catherine went, both plagued by the hatred, the misunderstandings, the terrible obsessions..."
+            "content": "Sen ve Bayan Catherine, nefretle, yanlış anlamalarla, korkunç takıntılarla dolanıp duruyordunuz..."
         },
         {
             "id": 19,
             "model": "넬리",
-            "content": "And I, in every world, was always dragged under that wheel of destruction, suffering and struggling to my last haggardly breath. Again, and again, and again..."
+            "content": "Ve ben, her dünyada o yıkım çarkının altında ezildim, acı çekip son soluklarıma kadar savaştım. Tekrar, tekrar ve tekrar…"
         },
         {
             "id": 20,
             "model": "넬리",
-            "content": "The worst thing..."
+            "content": "En kötü şey…"
         },
         {
             "id": 21,
             "model": "넬리",
-            "content": "... was that all of us were ignorant of our doomed fates. I hadn't even an inkling that the two of you were consuming every minute of my life, little by little."
+            "content": "... hepimizin lanetli kaderinden habersiz oluşuydu. Siz ikinizin hayatımdaki her dakikayı azar azar tükettiğini fark etmemiştim bile."
         },
         {
             "id": 22,
             "model": "넬리",
-            "content": "So... I showed it to her, too."
+            "content": "O yüzden… ona da gösterdim."
         },
         {
             "id": 23,
             "model": "넬리",
-            "content": "I told her that... it was a mirror shard that showed the beholder whatever their heart wished to see."
+            "content": "Ona bunun… kalbinin görmek istediği her şeyi gösteren bir ayna parçası olduğunu söyledim."
         },
         {
             "id": 24,
             "model": "파우스트",
-            "content": "The glass shards can make countless cracks in the hearts of humans."
+            "content": "Cam parçaları, insan kalbinde sayısız çatlak açabilir."
         },
         {
             "id": 25,
             "model": "파우스트",
-            "content": "It shakes the very foundation of one's existence."
+            "content": "Birisinin varoluşunun temellerini bile sarsar."
         },
         {
             "id": 26,
             "model": "파우스트",
-            "content": "The knowledge of Mirror Worlds can suck the meaning out of every struggle, everything that one has worked for their entire life..."
+            "content": "Ayna Dünyalar hakkında bilgi sahibi olmak, insanın hayatı boyunca uğruna mücadele ettiği her şeyin anlamını çekip alabilir…"
         },
         {
             "id": 27,
             "model": "파우스트",
-            "content": "... and plants the seeds of doubt in their heart."
+            "content": "... ave kalplerine şüphe tohumları eker."
         },
         {
             "id": 28,
             "model": "파우스트",
-            "content": "Doubts about the very path one seeks to take in their life. It's..."
+            "content": "Kendi hayat yoluna dair şüpheler. Bu…"
         },
         {
             "id": 29,
             "model": "파우스트",
-            "content": "... enough to make them attempt to meddle with the selves in other worlds. Believing that it is the right thing to do."
+            "content": "... onları diğer dünyalardaki benliklerine müdahale etmeye zorlayacak kadar güçlüdür. Bunun doğru olduğuna inanarak."
         },
         {
             "id": 30,
             "model": "파우스트",
-            "content": "If someone has shown Nelly that mirror... then that must have been precisely their intended outcome."
+            "content": "Eğer biri Nelly’ye o aynayı gösterdiyse… tam da bunu amaçlamış olmalı."
         },
         {
             "id": 31,
             "model": "이상",
-            "content": "... Yet, a mirror technology that allows for such high degree of interactivity must be..."
+            "content": "...  Yine de bu kadar yüksek etkileşim sağlayan bir ayna teknolojisi mutlaka..."
         },
         {
             "id": 32,
             "model": "넬리",
-            "content": "Then... everything began to unravel all on its own."
+            "content": "Sonra… her şey kendiliğinden çözülmeye başladı."
         },
         {
             "id": 33,
             "model": "넬리",
-            "content": "She conversed with someone on the other end of the mirror for a long time. Someone who was suffering as much as she was."
+            "content": "Aynanın öteki ucundaki biriyle uzun süre konuştu. Onun kadar acı çeken biriyle."
         },
         {
             "id": 34,
             "model": "넬리",
-            "content": "Then the laboratory began to take shape."
+            "content": "Sonrasında laboratuvar şekillenmeye başladı."
         },
         {
             "id": 35,
             "model": "넬리",
-            "content": "Oh, she mustn't have known even in her wildest dreams. She never once doubted me, even as she closed her eyes forevermore in that coffin! As naive as any other sheltered child, a caged bird."
+            "content": "Ah, en çılgın hayallerinde bile fark etmemiştir. Tabutun içinde gözlerini sonsuza dek kapatırken bile bana bir kez bile şüpheyle bakmadı! Diğer tüm korunaklı çocuklar kadar saf, kafesteki bir kuştu."
         },
         {
             "id": 36,
             "model": "넬리",
-            "content": "I suppose it wasn't only naïveté, but also her own temperament. She was the kind of person who always had to be the center of everything."
+            "content": "Sanırım sadece saflık değildi bu… onun mizacı da öyleydi. Her şeyin merkezinde olmak isteyen biriydi hep."
         },
         {
             "id": 37,
@@ -192,12 +192,12 @@
         {
             "id": 38,
             "model": "넬리",
-            "content": "But please, do not deny every memory we've shared together."
+            "content": "Ama lütfen, birlikte paylaştığımız her anıyı inkâr etme."
         },
         {
             "id": 39,
             "model": "넬리",
-            "content": "The pity I felt for you as they abused you, wishing that you would live your best life, a life better than anyone else's... were all my honest feelings."
+            "content": "Sana yapılan onca eziyet sırasında sana duyduğum acıma, en güzel hayatı yaşamanı dileyişim, herkesten iyi bir hayat sürmeni istemem… hepsi içten duygularımdı."
         }
     ]
 }
