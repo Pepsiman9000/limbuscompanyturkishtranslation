@@ -18,11 +18,11 @@
     },
     {
       "id": 3,
-      "content": "Rodya'nın itmesiyle Gregor, bizden ayrılarak sendeleyerek öne doğru yürüdü…"
+      "content": "Rodya tarafından kenardan itilen gregor, aşağı yuvarlandı, bizden ayrılarak…"
     },
     {
       "id": 4,
-      "content": "…Daha sonra kayaları kazmakla meşgul olan bir köleye çarptı."
+      "content": "…Sonrasında kaya kazmakla meşkul bir köleye çarptı."
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
     },
     {
       "id": 7,
-      "content": "Bir an için garip bir şekilde duraklamış gibi göründüler."
+      "content": "Garipçe bir an için durmuşlar gibi gözüktü."
     },
     {
       "id": 8,
@@ -65,14 +65,14 @@
     {
       "id": 12,
       "model": "그레고르",
-      "content": "Buraya yaygara koparmak için gelmedik. Neden bunun hiç olmadığını varsayıp kendi yollarımıza gitmiyoruz?"
+      "content": "Buraya yaygara koparmanın alemi yok. Neden bunun hiç olmadığını varsayıp kendi yollarımıza gitmiyoruz?"
     },
     {
       "id": 13,
       "model": "노예",
       "teller": "Tutsak Borçlu",
       "title": "J Kuruluşu Kumarhanesi",
-      "content": "D… Dört…"
+      "content": "K… Kırk…"
     },
     {
       "id": 14,
@@ -95,38 +95,38 @@
     },
     {
       "id": 17,
-      "content": "Kendisi de sık sık bilmeceler konuşan biri için Ryōshū'nun sabrı kesinlikle çabuk tükendi. İşçiyi tehdit ederken kılıcının kınına tutundu."
+      "content": "Kendisi de sık sık bilmecelerle konuşan biri için Ryōshū'nun sabrı bir hayli çabuk tükendi. Kılıcının kabzasını kavrayarak köleyi tehditlere boğdu."
     },
     {
       "id": 18,
       "model": "싱클레어",
-      "content": "Kesin olarak söyleyemem, ama sanırım o kişinin ellerindeki 'kalan bütün parmakları kıracağını' kastetmiş…"
+      "content": "Kesin olarak söyleyemem, ama sanırım ellerindeki “Kalan Bütün Parmakları Kıracağım” demek istedi…"
     },
     {
       "id": 19,
       "model": "단테",
-      "content": "<…Bu noktada, bunu bu kadar çabuk anlaman beni daha çok korkutuyor.>"
+      "content": "<…Artık bu noktada, Ryoshu'dan ziyade senin bunu bu kadar hızlı anlamandan korkuyorum.>"
     },
     {
       "id": 20,
       "model": "노예",
       "teller": "Tutsak Borçlu",
       "title": "J Kuruluşu Kumarhanesi",
-      "content": "Geri ödemeliyim…"
+      "content": "Geri öde…"
     },
     {
       "id": 21,
       "model": "노예",
       "teller": "Tutsak Borçlu",
       "title": "J Kuruluşu Kumarhanesi",
-      "content": "Ailemin yanına dönmeden önce… Tüm borcu öde…"
+      "content": "Ailemin yanına dönmeden önce… Tüm borcu geri öde…"
     },
     {
       "id": 22,
       "model": "노예",
       "teller": "Tutsak Borçlu",
       "title": "J Kuruluşu Kumarhanesi",
-      "content": "Her kazmayı sallamaları için 1 Ahn çıkaracaklarını söylediler… Kırk yedi… Ne kadardı… Ahhh! Benimle konuşma! Saymam gerek…"
+      "content": "Her kazmayı sallamaları için 1 Ahn eksilticeklerini söylediler… Kırk yedi… Ne kadardı… Ahhh! Benimle konuşma! Saymam gerek…"
     },
     {
       "id": 23,
@@ -142,22 +142,22 @@
     },
     {
       "id": 25,
-      "content": "Köşeye sıkışan Gregor, aniden karakterine hiç uymayan bir sesle bağırmaya başladı."
+      "content": "Köşeye sıkışan Gregor, aniden onun için karakter dışılıkta çığır açan bir sesle:"
     },
     {
       "id": 26,
       "model": "그레고르",
-      "content": "Biz… Biz artık böyle yaşayamayız!"
+      "content": "Biz… Bundan mütevellit böyle yaşayamayız!"
     },
     {
       "id": 27,
       "model": "그레고르",
-      "content": "Bu… çirkin… bir işkence! İnsanları bağlayıp kazmaya zorlamak!"
+      "content": "Bu… Çok zalimce… Despotluk! İnsanları bağlayıp kazmaya zaruri kılma!"
     },
     {
       "id": 28,
       "model": "그레고르",
-      "content": "Hadi hepimiz… ayağa kalkalım… ve zalimlerimize karşı savaşalım… Hadi, hadi!!"
+      "content": "Hadi cümlemiz… Ayaklanalım… ve Tiranlara karşı duralım…! Haydi ileri!"
     },
     {
       "id": 29,
@@ -180,7 +180,7 @@
     {
       "id": 32,
       "model": "히스클리프",
-      "content": "Bu ne lan?"
+      "content": "Bu da neydi lan böyle?"
     },
     {
       "id": 33,
@@ -190,12 +190,12 @@
     {
       "id": 34,
       "model": "로쟈",
-      "content": "Greg, tatlım… Bu insanların olayı şu… Hayatları boyunca birer pislik olarak yaşayıp buraya geldiler; sömürenler ve sömürülenler."
+      "content": "Greg, tatlım… Bu insanların olayı şu ki… Hayatları boyunca birer pislik olarak yaşayıp buraya geldiler; sömürenler ve sömürülenler."
     },
     {
       "id": 35,
       "model": "로쟈",
-      "content": "Yarı hazırlanmış bir konuşmanın içlerindeki devrimciyi uyandırmaya yeteceğini beklemiyordun, değil mi?"
+      "content": "Yarı pişmiş bir konuşmanın içlerindeki devrimciyi uyandırmaya yeteceğini beklemiyordun, değil mi?"
     },
     {
       "id": 36,
@@ -214,11 +214,11 @@
     },
     {
       "id": 39,
-      "content": "Gregor'un korkunç oyunculuğu güvenliği bile tedirgin etmiş olmalı."
+      "content": "Gregor'un korkunç oyunculuğu en azından güvenlikleri provoke etmiş olmalı."
     },
     {
       "id": 40,
-      "content": "Bu, potansiyel olarak riskli bir hareketle kilitli kafesleri açmalarını açıklıyor."
+      "content": "Bu, onların riskli sayılabilicek bir biçimde kilitli kafesleri açmalarını açıklıyor."
     }
   ]
 }
