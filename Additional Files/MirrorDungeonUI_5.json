@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "mirror_dungeon_get_ego_gift_with_enemy_buff_less_count",
-      "content": "You have remaining E.G.O Gift choices.\n\nWill you proceed without selecting an E.G.O Gift?\n\n(※ You will gain random Trials equal to the number of your remaining choices)"
+      "content": "Kalan E.G.O Hediyesi seçimleriniz mevcut.\n\nBir E.G.O Hediyesi seçmeden devam etmek istiyor musunuz?\n\n(※ Kalan seçim hakkınız kadar rarkipler rastgele Talim kazanır)"
     },
     {
       "id": "mirror_dungeon_easy_difficulty",
@@ -10,103 +10,103 @@
     },
     {
       "id": "mirror_dungeon_hard_difficulty",
-      "content": "Hard"
+      "content": "Zor"
     },
     {
       "id": "mirror_dungeon_start_bonus_formation_rest_point",
-      "content": "Rest Bonus"
+      "content": "Dinlenme Bonusu"
     },
     {
       "id": "mirror_dungeon_start_bonus_formation_total",
-      "content": "Rest\nBonus"
+      "content": "Dinlenme\nBonusu"
     },
     {
       "id": "mirror_dungeon_start_buff_Panel_reset_selection",
-      "content": "Clear Effect Selection"
+      "content": "Etki Seçimini Temizle"
     },
     {
       "id": "mirror_dungeon_start_buff_Panel_applied_effect",
-      "content": "Activated Effects"
+      "content": "Etkinleştirilen Etkiler"
     },
     {
       "id": "mirror_dungeon_reward_popup_rest_bonus_guide",
-      "content": "All Identities outside the current Team gain 1 Rest Bonus"
+      "content": "Mevcut Takım dışında kalan tüm Kişilikler 1 Dinlenme Bonusu kazanır"
     },
     {
       "id": "mirror_user_start_buff",
-      "content": "Rest Bonus"
+      "content": "Dinlenme Bonusu"
     },
     {
       "id": "mirror_enemy_buff",
-      "content": "Trials"
+      "content": "Talim"
     },
     {
       "id": "mirror_enemy_addenemylevel_desc",
-      "content": "Enemy Level Up +{0}"
+      "content": "Düşman Seviyesi +{0}"
     },
     {
       "id": "mirror_card_pack",
-      "content": "Theme Pack"
+      "content": "Tema Paketi"
     },
     {
       "id": "mirror_acquired_random_enemy_buff_popup_title",
-      "content": "Trial Gained"
+      "content": "Talim Kazanıldı"
     },
     {
       "id": "mirror_acquired_enemy_buff_popup_desc",
-      "content": "A Trial has been added."
+      "content": "Bir Talim eklendi."
     },
     {
       "id": "mirror_start_buff_purchase_complete_modal_title",
-      "content": "Grace of Stars Selected"
+      "content": "Yıldızların Lütfu Seçildi"
     },
     {
       "id": "mirror_start_buff_purchase_complete_modal_desc",
-      "content": "Grace of Stars has been selected."
+      "content": "Yıldızların Lütfu seçildi."
     },
     {
       "id": "mirror_recovered_unit_status",
-      "content": "All allies have been fully healed, and defeated allies have been revived"
+      "content": "Tüm müttefikler tamamen iyileştirildi ve yenilen müttefikler diriltildi"
     },
     {
       "id": "mirror_start_buff_cannot_purchase_side_popup_title",
-      "content": "Cannot Progress"
+      "content": "İlerlenemiyor"
     },
     {
       "id": "mirror_start_buff_cannot_purchase_side_popup_desc",
-      "content": "Not Enough Rest Bonus"
+      "content": "Yetersiz Dinlenme Bonusu"
     },
     {
       "id": "user_enemy_buff_empty_list",
-      "content": "No Active Effects"
+      "content": "Aktif Etki Yok"
     },
     {
       "id": "mirror_start_set_buff_type",
-      "content": "Grace of Stars"
+      "content": "Yıldızların Lütfu"
     },
     {
       "id": "mirror_start_buff_type",
-      "content": "Grace of Star Clusters"
+      "content": "Yıldız Kümelerinin Lütfu"
     },
     {
       "id": "mirror_start_buff_purchase_button",
-      "content": "Enter"
+      "content": "Giriş Yap"
     },
     {
       "id": "user_enemy_buff_select_event_buff",
-      "content": "Choice Effects"
+      "content": "Etki Seçimi"
     },
     {
       "id": "dungeon_shop_heal_desc_one_revive",
-      "content": "Revive Selected Sinner"
+      "content": "Seçilen Günahkârı Dirilt"
     },
     {
       "id": "dungeon_shop_heal_desc_all_revive",
-      "content": "Revive All Sinners"
+      "content": "Tüm Günahkârları Dirilt"
     },
     {
       "id": "dungeon_encounter_guide_mirror_hard_ab_battle",
-      "content": "Abnormality Encounter"
+      "content": "Anomali Savaşı"
     },
     {
       "id": "dungeon_shop_heal_enter",
@@ -526,7 +526,7 @@
     },
     {
       "id": "mirrordungeon_achievement_progress",
-      "content": "Progress"
+      "content": "İlerleme"
     },
     {
       "id": "mirrordungeon_purchase_achievement_block_by_max_level",
