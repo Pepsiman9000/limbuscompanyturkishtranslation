@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Karga Bakış Açısı",
+          "name": "Karga Bakışı",
           "abName": "Yi Sang",
           "desc": "",
           "coinlist": [
@@ -23,7 +23,7 @@
         },
         {
           "level": 3,
-          "name": "Karga Bakış Açısı",
+          "name": "Karga Bakışı",
           "abName": "Yi Sang",
           "desc": "",
           "coinlist": [
@@ -41,7 +41,7 @@
         },
         {
           "level": 4,
-          "name": "Karga Bakış Açısı",
+          "name": "Karga Bakışı",
           "abName": "Yi Sang",
           "desc": "",
           "coinlist": [
@@ -67,14 +67,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttackHead] 2 [Combustion] uygula"
                 }
               ]
             }
@@ -82,14 +82,14 @@
         },
         {
           "level": 3,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttackHead] 4 [Combustion] uygula"
                 }
               ]
             }
@@ -97,17 +97,17 @@
         },
         {
           "level": 4,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 6 Burn"
+                  "desc": "[OnSucceedAttackHead] 6 [Combustion] uygula"
                 }
               ]
             }
@@ -120,14 +120,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] uygula"
                 }
               ]
             }
@@ -135,14 +135,14 @@
         },
         {
           "level": 3,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 }
               ]
             }
@@ -150,17 +150,17 @@
         },
         {
           "level": 4,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 6 Burn"
+                  "desc": "[OnSucceedAttackHead] 6 [Combustion] uygula"
                 }
               ]
             }
@@ -173,9 +173,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wishing Cairn",
-          "abName": "Pagoda Veneration",
-          "desc": "Targets the rearmost unit (In regular encounters)",
+          "name": "Dileyen Kurgan",
+          "abName": "Pagoda Hürmeti",
+          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
@@ -191,9 +191,9 @@
         },
         {
           "level": 3,
-          "name": "Wishing Cairn",
-          "abName": "Pagoda Veneration",
-          "desc": "Targets the rearmost unit (In regular encounters)",
+          "name": "Dileyen Kurgan",
+          "abName": "Pagoda Hürmeti",
+          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
@@ -214,9 +214,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wishing Cairn",
-          "abName": "Pagoda Veneration",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "name": "Dileyen Kurgan",
+          "abName": "Pagoda Hürmeti",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -232,9 +232,9 @@
         },
         {
           "level": 3,
-          "name": "Wishing Cairn",
-          "abName": "Pagoda Veneration",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "name": "Dileyen Kurgan",
+          "abName": "Pagoda Hürmeti",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -258,14 +258,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Representation Emitter",
+          "name": "Sunum Yayıcı",
           "abName": "Faust",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Heal 8 SP for 4 allies with the least SP"
+                  "desc": "[EndSkill] En az SP'ye sahip 4 Müttefiğe 8 SP yenile"
                 }
               ]
             }
@@ -273,14 +273,14 @@
         },
         {
           "level": 3,
-          "name": "Representation Emitter",
+          "name": "Sunum Yayıcı",
           "abName": "Faust",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Heal 10 SP for 4 allies with the least SP"
+                  "desc": "[EndSkill] En az SP'ye sahip 4 Müttefiğe 10 SP yenile"
                 }
               ]
             }
@@ -288,14 +288,14 @@
         },
         {
           "level": 4,
-          "name": "Representation Emitter",
+          "name": "Sunum Yayıcı",
           "abName": "Faust",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Heal 12 SP for 4 allies with the least SP"
+                  "desc": "[EndSkill] En az SP'ye sahip 4 Müttefiğe 12 SP yenile"
                 }
               ]
             }
@@ -372,7 +372,7 @@
           "level": 1,
           "name": "Fluid Sac",
           "abName": "Headless Ichthys",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -390,7 +390,7 @@
           "level": 3,
           "name": "Fluid Sac",
           "abName": "Headless Ichthys",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -408,7 +408,7 @@
           "level": 4,
           "name": "Fluid Sac",
           "abName": "Headless Ichthys",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -505,7 +505,7 @@
           "level": 1,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -523,7 +523,7 @@
           "level": 3,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -544,7 +544,7 @@
           "level": 4,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -581,7 +581,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttackHead] 4 [Laceration] uygula"
                 }
               ]
             }
@@ -596,10 +596,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Bleed"
+                  "desc": "[OnSucceedAttack] 6 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] Hasarın 50%si kadar HP yenile"
                 }
               ]
             }
@@ -614,10 +614,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 Bleed"
+                  "desc": "[OnSucceedAttack] 8 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hasarın 50%si kadar HP yenile"
                 }
               ]
             }
@@ -700,7 +700,7 @@
           "level": 1,
           "name": "Fluid Sac",
           "abName": "Headless Ichthys",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -718,7 +718,7 @@
           "level": 3,
           "name": "Fluid Sac",
           "abName": "Headless Ichthys",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -739,7 +739,7 @@
           "level": 4,
           "name": "Fluid Sac",
           "abName": "Headless Ichthys",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -763,14 +763,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Forest for the Flames",
+          "name": "Alevler İçin Orman",
           "abName": "Ryōshū",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttackHead] 4 [Combustion] uygula"
                 }
               ]
             }
@@ -778,17 +778,17 @@
         },
         {
           "level": 3,
-          "name": "Forest for the Flames",
+          "name": "Alevler İçin Orman",
           "abName": "Ryōshū",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] 6 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 1 [Vulnerable] uygula"
                 }
               ]
             }
@@ -796,20 +796,20 @@
         },
         {
           "level": 4,
-          "name": "Forest for the Flames",
+          "name": "Alevler İçin Orman",
           "abName": "Ryōshū",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] 6 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Vulnerable] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 1 [Vulnerable] uygula"
                 }
               ]
             }
@@ -822,8 +822,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
           "desc": "Skill Power +2 against units with [Combustion]\n[EnemyKill] Gain 1 Attack Power Up next turn",
           "coinlist": [
             {
@@ -837,8 +837,8 @@
         },
         {
           "level": 3,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
           "desc": "Skill Power +2 against units with [Combustion]\n[EnemyKill] Gain 2 Attack Power Up next turn",
           "coinlist": [
             {
@@ -852,8 +852,8 @@
         },
         {
           "level": 4,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
           "desc": "Skill Power +2 against units with [Combustion]\nDeal +5% damage per 1 Burn on target (Max 100%)\n[EnemyKill] Gain +2 Attack Power Up next turn",
           "coinlist": [
             {
@@ -872,9 +872,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly\nSkill Power +2 against units with [Combustion]\n[EnemyKill] Gain 2 Attack Power Up next turn\n[EnemyKillFail] Gain 10 Burn next turn",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\nSkill Power +2 against units with [Combustion]\n[EnemyKill] Gain 2 Attack Power Up next turn\n[EnemyKillFail] Gain 10 Burn next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -887,9 +887,9 @@
         },
         {
           "level": 3,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly\nSkill Power +4 against units with [Combustion]\n[EnemyKill] Gain 3 Attack Power Up next turn\n[EnemyKillFail] Gain 3 Attack Power Up and 10 Burn next turn",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\nSkill Power +4 against units with [Combustion]\n[EnemyKill] Gain 3 Attack Power Up next turn\n[EnemyKillFail] Gain 3 Attack Power Up and 10 Burn next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -902,9 +902,9 @@
         },
         {
           "level": 4,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly\nSkill Power +4 against units with [Combustion]\nDeal +5% damage per 1 Burn on target (Max 100%)\n[EnemyKill] Gain 3 Attack Power Up next turn\n[EnemyKillFail] Gain 3 Attack Power Up and 10 Burn next turn",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\nSkill Power +4 against units with [Combustion]\nDeal +5% damage per 1 Burn on target (Max 100%)\n[EnemyKill] Gain 3 Attack Power Up next turn\n[EnemyKillFail] Gain 3 Attack Power Up and 10 Burn next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -922,23 +922,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Chains of Others",
+          "name": "Başkalarının Zincirleri",
           "abName": "Meursault",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [Binding] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [Reduction] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [Reduction] kazan"
                 }
               ]
             }
@@ -946,26 +946,26 @@
         },
         {
           "level": 3,
-          "name": "Chains of Others",
+          "name": "Başkalarının Zincirleri",
           "abName": "Meursault",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 5 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 5 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 5 [Binding] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 4 [Reduction] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 4 [Reduction] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 Protection next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 2 [Protection] kazan"
                 }
               ]
             }
@@ -973,26 +973,26 @@
         },
         {
           "level": 4,
-          "name": "Chains of Others",
+          "name": "Başkalarının Zincirleri",
           "abName": "Meursault",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 5 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [Binding] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 4 [Reduction] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [Reduction] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Protection next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 2 [Protection] kazan"
                 }
               ]
             }
@@ -1115,7 +1115,7 @@
           "level": 1,
           "name": "Pursuance",
           "abName": "Heavenly Executor’s Scribe",
-          "desc": "[CantIdentify] Targets randomly\n[EndSkill] Apply 1 Fragile and 2 Damage Up next turn to 2 other allies with the least HP",
+          "desc": "[CantIdentify] Rastgele Hedef Alır\n[EndSkill] Apply 1 Fragile and 2 Damage Up next turn to 2 other allies with the least HP",
           "coinlist": [
             {
               "coindescs": [
@@ -1130,7 +1130,7 @@
           "level": 3,
           "name": "Pursuance",
           "abName": "Heavenly Executor’s Scribe",
-          "desc": "[CantIdentify] Targets randomly\n[EndSkill] Apply 2 Fragile and 3 Damage Up next turn to 2 other allies with the least HP",
+          "desc": "[CantIdentify] Rastgele Hedef Alır\n[EndSkill] Apply 2 Fragile and 3 Damage Up next turn to 2 other allies with the least HP",
           "coinlist": [
             {
               "coindescs": [
@@ -1148,14 +1148,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Land of Illusion",
+          "name": "Yanılsamalar Diyarı",
           "abName": "Hong Lu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttackHead] 2 [Sinking] uygula"
                 }
               ]
             }
@@ -1163,14 +1163,14 @@
         },
         {
           "level": 3,
-          "name": "Land of Illusion",
+          "name": "Yanılsamalar Diyarı",
           "abName": "Hong Lu",
-          "desc": "[EndSkill] Heal 15 SP",
+          "desc": "[EndSkill] 15 SP yenile",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] 5 [Sinking] uygula"
                 }
               ]
             }
@@ -1178,17 +1178,17 @@
         },
         {
           "level": 4,
-          "name": "Land of Illusion",
+          "name": "Yanılsamalar Diyarı",
           "abName": "Hong Lu",
-          "desc": "[EndSkill] Heal 15 SP",
+          "desc": "[EndSkill] 15 SP yenile",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] 5 [Sinking] uygula"
                 },
                 {
-                  "desc": "[EndSkill] Next turn: -2 SP Loss Efficiency to all allies; -2 to amount of SP lost from E.G.O use"
+                  "desc": "[EndSkill] Sonraki Tur: Bütün müttefiklere -2 [MentalSystemResultDecrease_Typo] uygula; E.G.O SP Maliyeti -2"
                 }
               ]
             }
@@ -1273,7 +1273,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttackTail] Sonraki Tur 4 [Binding] uygula"
                 }
               ]
             }
@@ -1294,7 +1294,7 @@
                   "desc": "[OnSucceedAttack] Inflict 4 Defense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 4 [Binding] uygula"
                 }
               ]
             }
@@ -1315,7 +1315,7 @@
                   "desc": "[OnSucceedAttack] Inflict 5 Defense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 4 [Binding] uygula"
                 }
               ]
             }
@@ -1328,17 +1328,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bodysack",
+          "name": "Ceset Çuvalı",
           "abName": "Heathcliff",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 1 [Enhancement] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 Haste next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 2 [Agility] kazan"
                 }
               ]
             }
@@ -1346,17 +1346,17 @@
         },
         {
           "level": 3,
-          "name": "Bodysack",
+          "name": "Ceset Çuvalı",
           "abName": "Heathcliff",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Enhancement] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 Haste next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [Agility] kazan"
                 }
               ]
             }
@@ -1364,20 +1364,20 @@
         },
         {
           "level": 4,
-          "name": "Bodysack",
+          "name": "Ceset Çuvalı",
           "abName": "Heathcliff",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Enhancement] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 Haste next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [Agility] kazan"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 2 Attack Power Up next turn"
+                  "desc": "[EnemyKill] Sonraki Tur 2 [Enhancement] kazan"
                 }
               ]
             }
@@ -1442,7 +1442,7 @@
           "level": 1,
           "name": "Telepole",
           "abName": "Alleyway Watchdog",
-          "desc": "[CantIdentify] Targets randomly\nSpend all Charge Count to gain +6 Skill Power",
+          "desc": "[CantIdentify] Rastgele Hedef Alır\nSpend all Charge Count to gain +6 Skill Power",
           "coinlist": [
             {
               "coindescs": [
@@ -1457,7 +1457,7 @@
           "level": 3,
           "name": "Telepole",
           "abName": "Alleyway Watchdog",
-          "desc": "[CantIdentify] Targets randomly\n[WhenUse] Gain Charge Count by Envy Reson.\nSpend all Charge Count to gain +10 Skill Power",
+          "desc": "[CantIdentify] Rastgele Hedef Alır\n[WhenUse] Gain Charge Count by Envy Reson.\nSpend all Charge Count to gain +10 Skill Power",
           "coinlist": [
             {
               "coindescs": [
@@ -1472,7 +1472,7 @@
           "level": 4,
           "name": "Telepole",
           "abName": "Alleyway Watchdog",
-          "desc": "[CantIdentify] Targets randomly\n[WhenUse] Gain Charge Count by Envy Reson.\nSpend all Charge Count to gain +15 Skill Power",
+          "desc": "[CantIdentify] Rastgele Hedef Alır\n[WhenUse] Gain Charge Count by Envy Reson.\nSpend all Charge Count to gain +15 Skill Power",
           "coinlist": [
             {
               "coindescs": [
@@ -1490,17 +1490,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Snagharpoon",
+          "name": "Çıkıkzıpkın",
           "abName": "Ishmael",
-          "desc": "Targets the rearmost unit (In regular encounters)",
+          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 4 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 [Vibration] uygula"
                 }
               ]
             }
@@ -1508,17 +1508,17 @@
         },
         {
           "level": 3,
-          "name": "Snagharpoon",
+          "name": "Çıkıkzıpkın",
           "abName": "Ishmael",
-          "desc": "Targets the rearmost unit (In regular encounters)",
+          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 6 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] 3 [Vibration] uygula"
                 }
               ]
             }
@@ -1526,20 +1526,20 @@
         },
         {
           "level": 4,
-          "name": "Snagharpoon",
+          "name": "Çıkıkzıpkın",
           "abName": "Ishmael",
-          "desc": "Targets the rearmost unit (In regular encounters)",
+          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 6 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] 3 [Vibration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle" 
                 }
               ]
             }
@@ -1554,7 +1554,7 @@
           "level": 1,
           "name": "Roseate Desire",
           "abName": "Pink Shoes",
-          "desc": "Targets the rearmost unit (In regular encounters)",
+          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
@@ -1572,7 +1572,7 @@
           "level": 3,
           "name": "Roseate Desire",
           "abName": "Pink Shoes",
-          "desc": "Targets the rearmost unit (In regular encounters)",
+          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
@@ -1590,7 +1590,7 @@
           "level": 4,
           "name": "Roseate Desire",
           "abName": "Pink Shoes",
-          "desc": "Targets the rearmost unit (In regular encounters)",
+          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
@@ -1627,7 +1627,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Paralyze"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 4 [Binding] uygula"
                 }
               ]
             }
@@ -1648,7 +1648,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 4 [Binding] uygula"
                 }
               ]
             }
@@ -1684,7 +1684,7 @@
           "level": 1,
           "name": "Ardor Blossom Star",
           "abName": "Ardor Blossom Moth",
-          "desc": "Targets the rearmost unit (In regular encounters)",
+          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
@@ -1702,7 +1702,7 @@
           "level": 3,
           "name": "Ardor Blossom Star",
           "abName": "Ardor Blossom Moth",
-          "desc": "Targets the rearmost unit (In regular encounters)",
+          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
@@ -1723,7 +1723,7 @@
           "level": 4,
           "name": "Ardor Blossom Star",
           "abName": "Ardor Blossom Moth",
-          "desc": "Targets the rearmost unit (In regular encounters)",
+          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
@@ -1749,7 +1749,7 @@
           "level": 1,
           "name": "Ardor Blossom Star",
           "abName": "Ardor Blossom Moth",
-          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] Lose HP by 10% of Max HP",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[WhenUse] Lose HP by 10% of Max HP",
           "coinlist": [
             {
               "coindescs": [
@@ -1764,7 +1764,7 @@
           "level": 3,
           "name": "Ardor Blossom Star",
           "abName": "Ardor Blossom Moth",
-          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] Lose HP by 10% of Max HP",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[WhenUse] Lose HP by 10% of Max HP",
           "coinlist": [
             {
               "coindescs": [
@@ -1782,7 +1782,7 @@
           "level": 4,
           "name": "Ardor Blossom Star",
           "abName": "Ardor Blossom Moth",
-          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] Lose HP by 10% of Max HP",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[WhenUse] Lose HP by 10% of Max HP",
           "coinlist": [
             {
               "coindescs": [
@@ -1803,14 +1803,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "What is Cast",
+          "name": "Kast Sistemi",
           "abName": "Rodion",
-          "desc": "If target’s HP is above 50%, deal +10% damage",
+          "desc": "Hedefin HP'si 50%den fazla ise, Hasar +10%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -1818,14 +1818,14 @@
         },
         {
           "level": 3,
-          "name": "What is Cast",
+          "name": "Kast Sistemi",
           "abName": "Rodion",
-          "desc": "If target’s HP is above 50%, deal +30% damage",
+          "desc": "Hedefin HP'si 50%den fazla ise, Hasar +30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                 }
               ]
             }
@@ -1833,20 +1833,20 @@
         },
         {
           "level": 4,
-          "name": "What is Cast",
+          "name": "Kast Sistemi",
           "abName": "Rodion",
-          "desc": "If target’s HP is above 50%, deal +30% damage",
+          "desc": "Hedefin HP'si 50%den fazla ise, Hasar +30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 SP Heal Efficiency next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur +2 [MentalSystemResultIncrease_Typo] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain -2 SP Loss Efficiency next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur -2 [MentalSystemResultDecrease_Typo] kazan"
                 }
               ]
             }
@@ -1859,8 +1859,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
           "desc": "",
           "coinlist": [
             {
@@ -1874,8 +1874,8 @@
         },
         {
           "level": 3,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
           "desc": "",
           "coinlist": [
             {
@@ -1897,9 +1897,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -1912,9 +1912,9 @@
         },
         {
           "level": 3,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "name": "4. Kibrit Ateşi",
+          "abName": "Kavrulmuş Kız",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -1937,7 +1937,7 @@
           "level": 1,
           "name": "Rime Shank",
           "abName": "Baba Yaga",
-          "desc": "If target’s HP is above 50%, deal +10% damage",
+          "desc": "Hedefin HP'si 50%den fazla ise, deal +10% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -1955,7 +1955,7 @@
           "level": 3,
           "name": "Rime Shank",
           "abName": "Baba Yaga",
-          "desc": "If target’s HP is above 50%, deal +30% damage",
+          "desc": "Hedefin HP'si 50%den fazla ise, deal +30% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -1973,7 +1973,7 @@
           "level": 4,
           "name": "Rime Shank",
           "abName": "Baba Yaga",
-          "desc": "If target’s HP is above 50%, deal +30% damage",
+          "desc": "Hedefin HP'si 50%den fazla ise, deal +30% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -1996,7 +1996,7 @@
           "level": 1,
           "name": "Rime Shank",
           "abName": "Baba Yaga",
-          "desc": "[CantIdentify]\nTargets the unit with the most HP\nIf target’s HP is above 50%, +10% Damage",
+          "desc": "[CantIdentify]\nTargets the unit with the most HP\nHedefin HP'si 50%den fazla ise, +10% Damage",
           "coinlist": [
             {
               "coindescs": [
@@ -2014,7 +2014,7 @@
           "level": 3,
           "name": "Rime Shank",
           "abName": "Baba Yaga",
-          "desc": "[CantIdentify]\nTargets the unit with the most HP\nIf target’s HP is above 50%, +30% Damage",
+          "desc": "[CantIdentify]\nTargets the unit with the most HP\nHedefin HP'si 50%den fazla ise, +30% Damage",
           "coinlist": [
             {
               "coindescs": [
@@ -2032,7 +2032,7 @@
           "level": 4,
           "name": "Rime Shank",
           "abName": "Baba Yaga",
-          "desc": "[CantIdentify]\nTargets the unit with the most HP\nIf target’s HP is above 50%, +30% Damage",
+          "desc": "[CantIdentify]\nTargets the unit with the most HP\nHedefin HP'si 50%den fazla ise, +30% Damage",
           "coinlist": [
             {
               "coindescs": [
@@ -2053,17 +2053,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Branch of Knowledge",
+          "name": "Bilgi Dalı",
           "abName": "Sinclair",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 6 Rupture"
+                  "desc": "[OnSucceedAttackHead] 6 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lose 10 SP"
+                  "desc": "[OnSucceedAttack] 10 SP kaybet"
                 }
               ]
             }
@@ -2071,20 +2071,20 @@
         },
         {
           "level": 3,
-          "name": "Branch of Knowledge",
+          "name": "Bilgi Dalı",
           "abName": "Sinclair",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 12 Rupture"
+                  "desc": "[OnSucceedAttackHead] 12 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Lose 10 SP"
+                  "desc": "[OnSucceedAttackHead] 10 SP kaybet"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Heal 10 SP"
+                  "desc": "[OnSucceedAttackTail] 10 SP yenile"
                 }
               ]
             }
@@ -2092,21 +2092,21 @@
         },
         {
           "level": 4,
-          "name": "Branch of Knowledge",
+          "name": "Bilgi Dalı",
           "abName": "Sinclair",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 12 Rupture"
+                  "desc": "[OnSucceedAttackHead] 12 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Lose 10 SP. <style=\"highlight\">Gain 1 Attack Power Up next turn</style>"
+                  "desc": "[OnSucceedAttackHead] 10 SP kaybet. <style=\"highlight\">Sonraki Tur 1 [Enhancement] kazan</style>"
                 },
                 {},
                 {
-                  "desc": "[OnSucceedAttackTail] Gain 10 SP. <style=\"highlight\">Gain 1 Protection next turn</style>"
+                  "desc": "[OnSucceedAttackTail] 10 SP yenile. <style=\"highlight\">Sonraki Tur 1 [Protection] kazan</style>"
                 },
                 {}
               ]
@@ -2178,7 +2178,7 @@
           "level": 1,
           "name": "Impending Day",
           "abName": "Doomsday Calendar",
-          "desc": "[CantIdentify]\nTargets randomly\nIf target’s HP is below 25%, +15% Damage",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\nIf target’s HP is below 25%, +15% Damage",
           "coinlist": [
             {
               "coindescs": [
@@ -2193,7 +2193,7 @@
           "level": 3,
           "name": "Impending Day",
           "abName": "Doomsday Calendar",
-          "desc": "[CantIdentify]\nTargets randomly\nIf target’s HP is below 25%, +25% Damage",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\nIf target’s HP is below 25%, +25% Damage",
           "coinlist": [
             {
               "coindescs": [
@@ -2211,7 +2211,7 @@
           "level": 4,
           "name": "Impending Day",
           "abName": "Doomsday Calendar",
-          "desc": "[CantIdentify]\nTargets randomly\nIf target’s HP is below 25%, +50% Damage",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\nIf target’s HP is below 25%, +50% Damage",
           "coinlist": [
             {
               "coindescs": [
@@ -2232,14 +2232,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "To Páthos Máthos",
+          "name": "Páthos Máthos'a",
           "abName": "Outis",
-          "desc": "If target’s HP is below 50%, +10% Damage",
+          "desc": "Hedefin HP'si 50%den azsa, +10% Hasar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -2247,14 +2247,14 @@
         },
         {
           "level": 3,
-          "name": "To Páthos Máthos",
+          "name": "Páthos Máthos'a",
           "abName": "Outis",
-          "desc": "If target’s HP is below 50%, +30% Damage",
+          "desc": "Hedefin HP'si 50%den az ise, +30% Hasar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Rupture"
+                  "desc": "[OnSucceedAttack] 4 [Burst] uygula"
                 }
               ]
             }
@@ -2262,17 +2262,17 @@
         },
         {
           "level": 4,
-          "name": "To Páthos Máthos",
+          "name": "Páthos Máthos'a",
           "abName": "Outis",
-          "desc": "If target’s HP is below 50%, +30% Damage",
+          "desc": "Hedefin HP'si 50%den az ise, +30% Hasar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Rupture"
+                  "desc": "[OnSucceedAttack] 4 [Burst] uygula"
                 },
                 {
-                  "desc": "[EnemyKill] Give 1 Damage Up to a random ally"
+                  "desc": "[EnemyKill] Rastgele bir Müttefiğe 1 [AttackDmgUp] uygula"
                 }
               ]
             }
@@ -2295,7 +2295,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -2313,7 +2313,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 Gluttony Fragility"
@@ -2331,7 +2331,7 @@
           "level": 1,
           "name": "Ebony Stem",
           "abName": "Ebony Queen’s Apple",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -2349,7 +2349,7 @@
           "level": 3,
           "name": "Ebony Stem",
           "abName": "Ebony Queen’s Apple",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -2410,7 +2410,7 @@
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "My Form Empties",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -2431,7 +2431,7 @@
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "My Form Empties",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Apply 1 Attack Power Up to 2 random other allies",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Apply 1 Attack Power Up to 2 random other allies",
           "coinlist": [
             {
               "coindescs": [
@@ -2455,14 +2455,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suddenly, One Day",
+          "name": "Ansızın, Bir Gün",
           "abName": "Gregor",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 of a random status, chosen from Burn, Bleed, Tremor, Rupture, and Sinking"
+                  "desc": "[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], veya [Sinking]'ın rastgele birinden, 3 uygula"
                 }
               ]
             }
@@ -2470,14 +2470,14 @@
         },
         {
           "level": 3,
-          "name": "Suddenly, One Day",
+          "name": "Ansızın, Bir Gün",
           "abName": "Gregor",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 of a random status, chosen from Burn, Bleed, Tremor, Rupture, and Sinking"
+                  "desc": "[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], veya [Sinking]'ın rastgele birinden, 6 uygula"
                 }
               ]
             }
@@ -2485,14 +2485,14 @@
         },
         {
           "level": 4,
-          "name": "Suddenly, One Day",
+          "name": "Ansızın, Bir Gün",
           "abName": "Gregor",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 of a random status, chosen from Burn, Bleed, Tremor, Rupture, and Sinking"
+                  "desc": "[OnSucceedAttack][Combustion], [Laceration], [Vibration], [Burst], veya [Sinking]'ın rastgele birinden, 10 uygula"
                 }
               ]
             }
@@ -2572,12 +2572,12 @@
           "level": 1,
           "name": "Legerdemain",
           "abName": "Golden Apple",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflict 2 Paralyze"
@@ -2590,12 +2590,12 @@
           "level": 3,
           "name": "Legerdemain",
           "abName": "Golden Apple",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 Paralyze"
@@ -2611,12 +2611,12 @@
           "level": 4,
           "name": "Legerdemain",
           "abName": "Golden Apple",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 Paralyze"
@@ -2890,7 +2890,7 @@
           "level": 1,
           "name": "Telepole",
           "abName": "Alleyway Watchdog",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -2908,7 +2908,7 @@
           "level": 3,
           "name": "Telepole",
           "abName": "Alleyway Watchdog",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -2929,7 +2929,7 @@
           "level": 4,
           "name": "Telepole",
           "abName": "Alleyway Watchdog",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -3381,7 +3381,7 @@
           "level": 1,
           "name": "Capote",
           "abName": "Brazen Bull",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Gain 1 Haste, 1 Wrath Power Up, and 1 Blunt Power Up next turn",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Gain 1 Haste, 1 Wrath Power Up, and 1 Blunt Power Up next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3402,7 +3402,7 @@
           "level": 3,
           "name": "Capote",
           "abName": "Brazen Bull",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Gain 2 Haste, 1 Wrath Power Up, and 1 Blunt Power Up next turn",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Gain 2 Haste, 1 Wrath Power Up, and 1 Blunt Power Up next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3426,7 +3426,7 @@
           "level": 4,
           "name": "Capote",
           "abName": "Brazen Bull",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Gain 2 Haste, 1 Wrath Power Up, and 1 Blunt Power Up next turn",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Gain 2 Haste, 1 Wrath Power Up, and 1 Blunt Power Up next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3496,7 +3496,7 @@
           "level": 1,
           "name": "Capote",
           "abName": "Brazen Bull",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Give 1 Wrath Fragility, and 1 Wrath DMG Up to all units next turn",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Give 1 Wrath Fragility, and 1 Wrath DMG Up to all units next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3517,7 +3517,7 @@
           "level": 3,
           "name": "Capote",
           "abName": "Brazen Bull",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Give 1 Wrath Fragility, and 1 Wrath DMG Up to all units next turn",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Give 1 Wrath Fragility, and 1 Wrath DMG Up to all units next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3814,7 +3814,7 @@
           "level": 1,
           "name": "AEDD",
           "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain +1 Charge Count for every 10% of missing HP (Max 5)\nGain 2 Haste next turn",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] Gain +1 Charge Count for every 10% of missing HP (Max 5)\nGain 2 Haste next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3832,7 +3832,7 @@
           "level": 3,
           "name": "AEDD",
           "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain +1 Charge Count for every 10% of missing HP (Max 7)\nGain 2 Haste next turn",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] Gain +1 Charge Count for every 10% of missing HP (Max 7)\nGain 2 Haste next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3850,7 +3850,7 @@
           "level": 4,
           "name": "AEDD",
           "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain +1 Charge Count for every 10% of missing HP (Max 7)\nGain 2 Haste next turn",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] Gain +1 Charge Count for every 10% of missing HP (Max 7)\nGain 2 Haste next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3905,7 +3905,7 @@
           "level": 1,
           "name": "Sunshower",
           "abName": "Drifting Fox",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain 1 Sloth Power Up and 1 Sloth DMG Up this turn and the next 2 turns",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] Gain 1 Sloth Power Up and 1 Sloth DMG Up this turn and the next 2 turns",
           "coinlist": [
             {
               "coindescs": [
@@ -3920,7 +3920,7 @@
           "level": 3,
           "name": "Sunshower",
           "abName": "Drifting Fox",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain 2 Sloth Power Up and 2 Sloth DMG Up this turn and the next 2 turns",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] Gain 2 Sloth Power Up and 2 Sloth DMG Up this turn and the next 2 turns",
           "coinlist": [
             {
               "coindescs": [
@@ -4005,7 +4005,7 @@
           "level": 1,
           "name": "Red Eyes",
           "abName": "Spider Bud",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -4023,7 +4023,7 @@
           "level": 3,
           "name": "Red Eyes",
           "abName": "Spider Bud",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -4105,7 +4105,7 @@
           "level": 1,
           "name": "Red Eyes (Open)",
           "abName": "Spider Bud",
-          "desc": "[CantIdentify]\nTargets randomly\nIf main target's Speed is slower than user's by 3 or more, Final Power +7",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\nIf main target's Speed is slower than user's by 3 or more, Final Power +7",
           "coinlist": [
             {
               "coindescs": [
@@ -4120,7 +4120,7 @@
           "level": 3,
           "name": "Red Eyes (Open)",
           "abName": "Spider Bud",
-          "desc": "[CantIdentify]\nTargets randomly\nIf main target's Speed is slower than user's by 3 or more, Final Power +7",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\nIf main target's Speed is slower than user's by 3 or more, Final Power +7",
           "coinlist": [
             {
               "coindescs": [
@@ -4138,7 +4138,7 @@
           "level": 4,
           "name": "Red Eyes (Open)",
           "abName": "Spider Bud",
-          "desc": "[CantIdentify]\nTargets randomly\nIf main target's Speed is slower than user's by 3 or more, Final Power +10",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\nIf main target's Speed is slower than user's by 3 or more, Final Power +10",
           "coinlist": [
             {
               "coindescs": [
@@ -4220,7 +4220,7 @@
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "My Form Empties",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
@@ -4241,7 +4241,7 @@
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "My Form Empties",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At -15 or lower SP, Atk Weight +1",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] At -15 or lower SP, Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
@@ -4265,7 +4265,7 @@
           "level": 4,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "My Form Empties",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At -15 or lower SP, Atk Weight +2",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] At -15 or lower SP, Atk Weight +2",
           "coinlist": [
             {
               "coindescs": [
