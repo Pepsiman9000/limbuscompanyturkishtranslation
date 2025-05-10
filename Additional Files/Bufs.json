@@ -2436,21 +2436,21 @@
     },
     {
       "id": "VengeanceBookSinclair",
-      "name": "Book of Vengeance [Sinclair]",
+      "name": "İntikam Kitabı [Sinclair]",
       "desc": "- Max Stack: 30\n- Deal more damage equal to (Stack)% (max 30%)\n- Gain the following effects next turn based on Stack:\n· At 10+ Stack: gain 1 Blunt DMG Up\n· At 20+ Stack: Max Speed +1, gain 1 Power Up\n· At 30 Stack: gain 2 Blunt DMG Up",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VendettaMark",
-      "name": "Vendetta Mark",
+      "name": "Dava İşareti",
       "desc": "- Max Stack: 10\n- Consumed by certain Skills or Passives\n- Take +2% damage from The Middle enemies for every Stack (max 20%)\n- Turn End: the unit with the highest Stack of this effect gains 1 Sibling İntikam İşareti next turn\n(Counted separately from İntikam İşareti; if more than a single unit has the highest Stack of this effect, this effect targets the one with a higher HP percentage)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RetaliationBookFamily",
-      "name": "Sibling İntikam İşareti",
+      "name": "Kardeş İntikam İşareti",
       "desc": "- Max Stack: 1\n- Expires at Turn End\n- Every Identity treats this unit as having their İntikam İşareti",
       "summary": "",
       "undefined": "-"
