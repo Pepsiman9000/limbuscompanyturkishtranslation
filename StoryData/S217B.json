@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Private Room",
+      "place": "Özel Oda",
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
@@ -32,7 +32,7 @@
       "model": "철공회보스",
       "teller": "Çete Lideri",
       "title": "Tieqiu Çetesi",
-      "content": "Hah~ bu kasıntılı velediniz sinirlerime basıyor, biliyormusunuz? Kendini çok zorluyorsun, neyine güveniyorsun?"
+      "content": "Hah~ bu kasıntılı velediniz sinirlerime basıyor, biliyor musunuz? Kendini çok zorluyorsun, neyine güveniyorsun?"
     },
     {
       "id": 5,
@@ -49,7 +49,7 @@
       "model": "철공회보스",
       "teller": "Çete Lideri",
       "title": "Tieqiu Çetesi",
-      "content": "Dur bakam orada. Kollarını aç bakalım. Küçük gizli oyunlarını görmedim sanma."
+      "content": "Dur bakam orada. Kollarını sıva! Küçük gizli oyunlarını görmedim sanma."
     },
     {
       "id": 8,
@@ -68,7 +68,7 @@
       "model": "철공회보스",
       "teller": "Çete Lideri",
       "title": "Tieqiu Çetesi",
-      "content": "Bu turdaki bütün çipleri hortumlayacaktı ki Altın Dalı kendine alabilesin."
+      "content": "Bu turdaki bütün çipleri hortumlayacaktın ki Altın Dalı kendine alabilesin."
     },
     {
       "id": 11,
@@ -99,14 +99,14 @@
       "model": "철공회보스",
       "teller": "Çete Lideri",
       "title": "Tieqiu Çetesi",
-      "content": "Hayır, olmaz dokunamazsın ona. ben nerden bilecem ikinizin pişti olmadığınızı. İkiniz birbinizi tanıyorsunuz."
+      "content": "Hayır, olmaz. Dokunamazsın ona. Nereden bileceğim ikinizin pişti olmadığınızı? İkiniz birbinizi tanıyorsunuz."
     },
     {
       "id": 16,
       "model": "철공회보스",
       "teller": "Çete Lideri",
       "title": "Tieqiu Çetesi",
-      "content": "Şimdiii, kolunu açıyorum beyler iyi bakın tamam mı? Bu sinsi tilkinin kirli oynayacağını biliyordum."
+      "content": "Şimdiii, kolunu açıyorum. iyi bakın tamam mı? Bu sinsi tilkinin kirli oynayacağını biliyordum."
     },
     {
       "id": 17,
@@ -147,14 +147,14 @@
     {
       "id": 23,
       "model": "로쟈",
-      "content": "Aynen. Eee, ikimizden birisi iflas edecek o zaman? Korktun mu?"
+      "content": "Varım. Eee, ikimizden birisi iflas edecek o zaman? Korktun mu?"
     },
     {
       "id": 24,
       "model": "철공회보스",
       "teller": "Çete Lideri",
       "title": "Tieqiu Çetesi",
-      "content": "Pahahahah! bak bu tatlı işte, nerden alıyorsun? Her neyse, bu demektir ki sözün söz, öyle mi?"
+      "content": "Pahahahah! bak bu tatlı işte, birine mi çekmişsin? Her neyse, bu demektir ki sözün söz, öyle mi?"
     },
     {
       "id": 25,
@@ -182,26 +182,26 @@
       "model": "철공회보스",
       "teller": "Çete Lideri",
       "title": "Tieqiu Çetesi",
-      "content": "Oha? noluyor burda?"
+      "content": "Lan? Noluyor burda?"
     },
     {
       "id": 29,
       "model": "철공회보스",
       "teller": "Çete Lideri",
       "title": "Tieqiu Çetesi",
-      "content": "Gördüm. O sinsi tilkinin kolunu sıvazladığını gördüm! İkmanı yok…"
+      "content": "Gördüm. O sinsi tilkinin kolunu sıvazladığını gördüm! İmkanı yok…"
     },
     {
       "id": 30,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Bunun anlamı sen kaybettin. Ne yazık."
+      "content": "Bunun anlamı, kaybeden sensin. Ne yazık."
     },
     {
       "id": 31,
       "model": "로쟈",
-      "content": "Eee kaybedene noluyor, o zaman? Kolunu filan mı kesiyorsunuz?"
+      "content": "Eee, kaybedene ne oluyor o zaman? Kolunu filan mı kesiyorsunuz?"
     },
     {
       "id": 32,
@@ -243,28 +243,28 @@
     {
       "id": 37,
       "model": "로쟈",
-      "content": "Gweh… What in the…!"
+      "content": "Ha… L-Lan…!"
     },
     {
       "id": 38,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Kanat aşkına, bir uyarı VEREMEZ miydin—sadeec küçük bir uyarı!"
+      "content": "Kanatlar aşkına, LÜTFEN bir uyarı veremez miydin—sadece küçük bir uyarı!"
     },
     {
       "id": 39,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Ugh… Tüm şu yağ ve omurilik sıvısına bakın… Öğk."
+      "content": "Uğh… Tüm şu yağ ve omurilik sıvısına bakın… Öğk."
     },
     {
       "id": 40,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Hatırlarmısın, Rodya? Arka Sokaklar'ımızın atık tesisinde gördüğümüz çöp öğütücümsü."
+      "content": "Hatırlar mısın, Rodya? Arka Sokaklar'ımızın atık tesisinde gördüğümüz çöp öğütücüsünü."
     },
     {
       "id": 41,
@@ -283,26 +283,26 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "“Biz proleteryalılar örgütlenerek yöneten sınıfı devirip yeni bir toplum düzeni kurlmalıyız.” diye."
+      "content": "“Biz proletaryalılar örgütlenerek yöneten sınıfı devirip yeni bir toplum düzeni kurlmalıyız.” diye."
     },
     {
       "id": 44,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Sen de yantıladın:"
+      "content": "Sen de yanıtladın:"
     },
     {
       "id": 45,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "“Zenginleri toplayıp bu makineler altında düzleştiricez demek istiyorsan, ben varım.”"
+      "content": "“Zenginleri toplayıp bu makineler altında düzleştireceğiz demek istiyorsan, ben varım.”"
     },
     {
       "id": 46,
       "model": "로쟈",
-      "content": "…Küçük düzenleme: Ben “Onları ezip suyunu çıkarıcaz demek istiyorsan” demiştim."
+      "content": "…Küçük düzenleme: Ben “Onları ezip suyunu çıkaracağız demek istiyorsan” demiştim."
     },
     {
       "id": 47,
@@ -316,7 +316,7 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Rodya, hala Yurodiviye'a geri dönmek konusunda isteksiz misin?"
+      "content": "Rodya, hala Yurodiviye'e geri dönmek konusunda isteksiz misin?"
     },
     {
       "id": 49,
@@ -326,19 +326,19 @@
     {
       "id": 50,
       "model": "그레고르",
-      "content": "Siz tam şimdi… yüksek bir çarpma sesi duymadınız mı?"
+      "content": "Tam şimdi… yüksek bir çarpma sesi duymadınız mı?"
     },
     {
       "id": 51,
       "model": "소드",
       "teller": "Saude",
-      "title": "LCCB",
-      "content": "Kesinlikle. dilek gücü hakkında… bir tartışmadan sonra ve direkt."
+      "title": "LŞTÖ",
+      "content": "Kesinlikle. Hem de… dilek gücü hakkında bir tartışmadan sonra."
     },
     {
       "id": 52,
       "model": "히스클리프",
-      "content": "Ne? ayıktılar mı? hey, boş boş durmada saati döndür lan."
+      "content": "Ne? Yani buldular mı? Hey, boş boş durma da saati döndür lan."
     },
     {
       "id": 53,
@@ -352,11 +352,11 @@
     },
     {
       "id": 55,
-      "content": "Ne yazık ki, üzerine yaslanıp dinleme yaptığımız kapı çürük tahtalardan ve pirinç kağıdından yapılmıştı."
+      "content": "Ne yazık ki, üzerine yaslanarak arkasından dinlediğimiz kapı çürük tahtalardan ve pirinç kağıdından yapılmıştı."
     },
     {
       "id": 56,
-      "content": "Kapının düşmesiyle hepimiz dağıldık."
+      "content": "Kapının düşmesiyle kendimizi odanın içinde bulduk."
     }
   ]
 }
