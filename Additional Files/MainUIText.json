@@ -1766,31 +1766,31 @@
     },
     {
       "id": "mainui_ask_use_personality_level_ticket_disadvantage",
-      "content": "Bu bileti mevcut hikâye ilerlemenizde kullanmak, seçtiğiniz Kişiliğin seviyesini {0} yerine {1}'e çıkaracaktır ve bu süreçte kullanılmayan EXP kaybolacaktır.\n\nYine de bu bileti kullanmak ister misiniz?"
+      "content": "Bu bileti mevcut hikâye ilerlemenizde kullanmak, seçtiğiniz Kişiliğin seviyesini {0} yerine {1}'e çıkaracaktır ve bu süreçte kullanılmayan TP'ler kaybolacaktır.\n\nYine de bu bileti kullanmak ister misiniz?"
     },
     {
       "id": "mainui_exp_dungeon_7_title",
-      "content": "EXP Luxkavasyon #7 (Kesme)"
+      "content": "TP Kazısı#7 (Kesme)"
     },
     {
       "id": "mainui_exp_dungeon_7_open_day",
-      "content": "EXP Luxkavasyon #7 (Kesme) sadece PZT, SAL ve PAZ günleri için"
+      "content": "TP Kazısı #7 (Kesme) sadece PZT, SAL ve PAZ günleri için"
     },
     {
       "id": "mainui_exp_dungeon_8_title",
-      "content": "EXP Luxkavasyon #7 (Delme)"
+      "content": "TP Kazısı #7 (Delme)"
     },
     {
       "id": "mainui_exp_dungeon_8_open_day",
-      "content": "EXP Luxkavasyon #7 (Delme) sadece ÇAR, PER ve PAZ günleri için."
+      "content": "TP Kazısı #7 (Delme) sadece ÇAR, PER ve PAZ günleri için."
     },
     {
       "id": "mainui_exp_dungeon_9_title",
-      "content": "EXP Luxkavasyon #7 (Darbe)"
+      "content": "TP Kazısı #7 (Darbe)"
     },
     {
       "id": "mainui_exp_dungeon_9_open_day",
-      "content": "EXP Luxkavasyon #7 (Darbe) sadece CUM, CMT ve PAZ günleri için"
+      "content": "TP Kazısı #7 (Darbe) sadece CUM, CMT ve PAZ günleri için"
     },
     {
       "id": "mainui_default_personality_blocked",
