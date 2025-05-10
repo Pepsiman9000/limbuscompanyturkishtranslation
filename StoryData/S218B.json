@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Private Room",
+      "place": "Özel Oda",
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Ah… Şimdi sizlerde kim oluyorsunuz…?"
+      "content": "Ah… Sizler de kim oluyorsunuz…?"
     },
     {
       "id": 1,
@@ -18,11 +18,11 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Bakıyorum da bu arada yeni arkadaşlar edinmişsin, Rodya?"
+      "content": "Bakıyorum da yeni arkadaşlar edinmişsin, Rodya?"
     },
     {
       "id": 3,
-      "content": "Sonya, kartları gözükçek biçimde elini masaya dizdi."
+      "content": "Sonya, kartları gözükecek biçimde elini masaya dizdi."
     },
     {
       "id": 4,
@@ -58,19 +58,19 @@
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Sonya kadar sakin değilim."
+      "content": "Sonya kadar sakin birisi değilim."
     },
     {
       "id": 10,
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Dostlarını getirdiğine göre, benim de sizi dostlarımla tanıştırmamda sakınca yoktur, değil mi?"
+      "content": "Dostlarını getirdiğine göre, benim de sizi dostlarımla tanıştırmamda bir sakınca yoktur, değil mi?"
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "…Biliyor musun, şey, Senin elemanlardan birinden duyduğum kadarıyla, kumar senin için sadece bir eğlence aracıymış."
+      "content": "…Biliyor musun, şey, senin elemanlardan birinden duyduğum kadarıyla, kumar senin için sadece bir eğlence aracıymış."
     },
     {
       "id": 12,
@@ -89,7 +89,7 @@
       "model": "아이드",
       "teller": "Aida",
       "title": "Los Mariachis",
-      "content": "Pfh. Düşün bakalım. Sayı avantajı ve güç bende, Neden iki oyun kaybettim diye Altın Dal'ın peşini bırakayim ki?"
+      "content": "Pfh. Düşün bakalım. Sayı avantajı ve güç bende, neden iki oyun kaybettim diye Altın Dal'ın peşini bırakayim ki?"
     },
     {
       "id": 15,
