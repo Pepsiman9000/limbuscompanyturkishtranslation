@@ -2,91 +2,91 @@
   "dataList": [
     {
       "id": "railway_5_must_participate_all",
-      "content": "Please Deploy all Sinners.\n\n※ In Refraction Railway Line 5, every Sinner has to be Deployed in order to enter."
+      "content": "Lütfen tüm Günahkârları Konuşlandırın.\n\n※ Kırılmış Hat 5'e girmek için her Günahkâr konuşlandırılmalıdır."
     },
     {
       "id": "mainui_personality_blocked",
-      "content": "Cannot Deploy"
+      "content": "Konuşlandırılamaz"
     },
     {
       "id": "railway5_clear_info",
-      "content": "Clear Info"
+      "content": "Temizleme Bilgisi"
     },
     {
       "id": "railway5_clear_info_node_ui",
-      "content": "Clear Info"
+      "content": "Temizleme Bilgisi"
     },
     {
       "id": "railway_dungeon_5_entrance_recommended_level",
-      "content": "- Identities : Uptie Tier 4, Level 50"
+      "content": "- Kişilikler: Yükseltme Düzeyi 4, Seviye 50"
     },
     {
       "id": "railway5_clear_info_clear_turn_count",
-      "content": "Clear Turns"
+      "content": "Temizlenen Turlar"
     },
     {
       "id": "railway5_clear_info_ego_stock",
-      "content": "Remaining Resources"
+      "content": "Kalan Kaynaklar"
     },
     {
       "id": "railway5_clear_info_selected_buffs",
-      "content": "Selected Buff"
+      "content": "Seçilen Güçlendirme"
     },
     {
       "id": "railway_dungeon_5_reward_condition_special_ticket",
-      "content": "Obtained by clearing Line 5 with 100 or fewer Total Turns before Season 5: Oblivion ends."
+      "content": "Hat 5, Sezon 5: Unutuş sona ermeden önce 100 veya daha az toplam turla temizlenerek elde edilir."
     },
     {
       "id": "railway_dungeon_5_statistics_button",
-      "content": "Details"
+      "content": "Detaylar"
     },
     {
       "id": "railway_dungeon_5_required_condition_to_enter_format",
-      "content": "※ Information\n\nEach Sinner needs to have at least 2 Identities in order to enter {0}."
+      "content": "※ Bilgi\n\nHer Günahkârın {0} bölgesine girebilmesi için en az 2 Kişiliğe sahip olması gerekir."
     },
     {
       "id": "railway_dungeon_5_reward_condition_special_ticket_warning",
-      "content": "<color=#990000>※ This cannot be obtained after Season 5: Oblivion ends.</color>"
+      "content": "<color=#990000>※ Bu, Sezon 5: Unutuş sona erdikten sonra elde edilemez.</color>"
     },
     {
       "id": "railway_dungeon_5_reward_condition_warning",
-      "content": "※ Please note that any rewards claimed after Season 5: Oblivion ends will be affected by the Seasonal carryover process. Any Seasonal currencies, such as <color=#990000>Egoshard Crates and Nominable Egoshard Crates</color> will be halved.\n(Egoshard Crates—both Random and Nominable—that have not been carried over are converted into Thread Crates.)"
+      "content": "※ Sezon 5: Unutuş sona erdikten sonra alınan ödüllerin Sezonluk aktarım sürecinden etkileneceğini lütfen unutmayın. <color=#990000>Egoshard Sandıkları ve Seçilebilir Egoshard Sandıkları</color> gibi sezonluk paralar yarıya düşürülecektir.\n(Aktarılmayan rastgele ve seçilebilir Egoshard Sandıkları, Ampul Sandıklarına dönüştürülür.)"
     },
     {
       "id": "railway_dungeon_5_banner_reward_condition_1",
-      "content": "Obtained by clearing Refraction Railway Line 5"
+      "content": "Kırılmış Hat 5 temizlenerek elde edilir"
     },
     {
       "id": "railway_dungeon_5_banner_reward_condition_2",
-      "content": "Obtained by clearing Line 5 with {0} or fewer Total Turns before <color=#9a0634>Season 5: Oblivion</color> ends."
+      "content": "<color=#9a0634>Sezon 5: Unutuş</color> sona ermeden önce Hat 5, {0} veya daha az toplam turla temizlenerek elde edilir."
     },
     {
       "id": "railway_5_banned_personality_exist",
-      "content": "A locked Identity is among the Deployed Identities.\n\n※ Please note that, in Refraction Railway Line 5, Identities that participated in Section #1 cannot participate in Section #2."
+      "content": "Konuşlandırılan Kişilikler arasında kilitli bir Kişilik var.\n\n※ Lütfen unutmayın: Kırılmış Hat 5’te, 1. Bölümde yer alan Kişilikler 2. Bölümde kullanılamaz."
     },
     {
       "id": "railway_5_ally_buff",
-      "content": "Buffs"
+      "content": "Güçlendirmeler"
     },
     {
       "id": "railway_5_enemy_buff",
-      "content": "Trials"
+      "content": "Talim"
     },
     {
       "id": "railway_5_section",
-      "content": "Section #{0}"
+      "content": "Bölüm #{0}"
     },
     {
       "id": "railway_5_warning_enter_node_1",
-      "content": "Please note that Identities participating in Section #1 cannot participate in Section #2.\n\nAre you sure you want to use this loadout for Section #1?"
+      "content": "1. Bölümde yer alan Kişiliklerin 2. Bölümde yer alamayacağını lütfen unutmayın.\n\n1. Bölüm için bu kadroyu kullanmak istediğinize emin misiniz?"
     },
     {
       "id": "railway_5_select_buff_title",
-      "content": "Select Buffs"
+      "content": "Güçlendirme Seç"
     },
     {
       "id": "railway_5_stage_level_warning",
-      "content": "※ Current Avg. ID Level: <color=#990000>{0}</color> (Recommended Level: <color=#990000>{1}</color>)"
+      "content": "※ Mevcut Ort. Kişilik Seviyesi: <color=#990000>{0}</color> (Önerilen Seviye: <color=#990000>{1}</color>)"
     }
   ]
 }
