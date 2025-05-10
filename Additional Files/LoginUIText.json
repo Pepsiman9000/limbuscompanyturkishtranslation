@@ -303,6 +303,14 @@
     {
       "id": "push_notification_message_full_stamina_13_title",
       "content": "Enkefalin Yenilendi"
+    },
+    {
+      "id": "custom_localize_title",
+      "content": "Dil"
+    },
+    {
+      "id": "custom_localize_button",
+      "content": "Dili Seç"
     }
   ]
 }
