@@ -2,35 +2,35 @@
   "dataList": [
     {
       "id": "move_to_inventory",
-      "content": "Go to Inventory"
+      "content": "Envantöre Git"
     },
     {
       "id": "progress_personality_gacksung",
-      "content": "Uptie"
+      "content": "Rütve"
     },
     {
       "id": "mainui_reinforce_support_passive",
-      "content": "Support Passive [{0}] Enhanced"
+      "content": "Destek Pasifi [{0}] Güçlendi"
     },
     {
       "id": "mainui_reinforce_battle_passive",
-      "content": "Combat Passive [{0}] Enhanced"
+      "content": "Savaş Pasifi [{0}] Güçlendi"
     },
     {
       "id": "mainui_battle_passsive_reinforce",
-      "content": "Combat Passive Enhanced"
+      "content": "Savaş Pasifi Güçlendi"
     },
     {
       "id": "mainui_support_passsive_reinforce",
-      "content": "Support Passive Enhanced"
+      "content": "Destek Pasifi Güçlendi"
     },
     {
       "id": "mainui_target_num_label",
-      "content": "Atk Weight"
+      "content": "Saldırı Ağr."
     },
     {
       "id": "mainui_awaken_requirement_label",
-      "content": "Currency Req."
+      "content": "Gerekli"
     }
   ]
 }
