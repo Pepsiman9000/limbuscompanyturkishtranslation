@@ -22,20 +22,20 @@
       "id": 4,
       "model": "소드",
       "teller": "Saude",
-      "title": "LŞO",
+      "title": "LŞTÖ",
       "content": "…Hiçbir dilek gücü kullanmadan nasıl kazanmayı başardın?"
     },
     {
       "id": 5,
       "model": "소드",
       "teller": "Saude",
-      "title": "LŞO",
-      "content": "Hayır, tüm bunlardan önce, ne oldu da her şeye rağmen kazanacağından bu kadar emin oldun?"
+      "title": "LŞTÖ",
+      "content": "Hayır, tüm bunlardan önce, ne oldu da her şeye rağmen kazanacağından bu kadar emindin?"
     },
     {
       "id": 6,
       "model": "로쟈",
-      "content": "Aman Tanrım, sakin ol kızım… Birer birer soru sor. Tamam mı?"
+      "content": "Hay Allah, sakin ol kızım… Birer birer soru sor. Tamam mı?"
     },
     {
       "id": 7,
@@ -49,7 +49,7 @@
     {
       "id": 9,
       "model": "뫼르소",
-      "content": "Bunu nereden biliyordun? Mekanik gövdesinden yazılanları okuyamazdınız."
+      "content": "Bunu nereden biliyordun? Mekanik gövdesinden yazılanları okuyamazdın."
     },
     {
       "id": 10,
@@ -65,13 +65,13 @@
       "id": 12,
       "model": "에피",
       "teller": "Effie",
-      "title": "LŞO",
+      "title": "LŞTÖ",
       "content": "Yani… Bilerek bundan bahsetmeleri için, bir çıkartma kullanıyormuş gibi mi davrandın?"
     },
     {
       "id": 13,
       "model": "로쟈",
-      "content": "Aynen! Ardından ise tüm parayı döktüğümü söyledim~ Götü pek kalkık görünmem gerekmiyordu malum."
+      "content": "Aynen! Ardından ise tüm parayı döktüğümü söyledim~ Götü pek kalkık görünmem gerekiyordu malum."
     },
     {
       "id": 14,
@@ -82,13 +82,13 @@
       "id": 15,
       "model": "소드",
       "teller": "Saude",
-      "title": "LŞO",
+      "title": "LŞTÖ",
       "content": "……"
     },
     {
       "id": 16,
       "model": "로쟈",
-      "content": "Yani, baksana bi'. Siz bile benim o dilek çıkartmalarını kullanacağımı düşünmezdiniz, değil mi?"
+      "content": "Yani, düşünsene. Siz bile benim o dilek çıkartmalarını kullanmayacağımı düşünmezdiniz, değil mi?"
     },
     {
       "id": 17,
@@ -98,20 +98,20 @@
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Sarsılamaz bir özgüvenin varsa, Garip bir kağıt parçasından ibarettir her şey."
+      "content": "Sarsılamaz bir özgüvenin varsa, garip bir kağıt parçasından ibarettir her şey."
     },
     {
       "id": 19,
       "model": "소드",
       "teller": "Saude",
-      "title": "LŞO",
+      "title": "LŞTÖ",
       "content": "Bu doğru olamaz… J Kuruluşu’nun dileğe bağlı teknolojisi, güvenilir ve patentli bir Yarı-Tekillik'tir."
     },
     {
       "id": 20,
       "model": "소드",
       "teller": "Saude",
-      "title": "LŞO",
+      "title": "LŞTÖ",
       "content": "Binlerce insan, hayatlarını dilek gücü ile işletiyor…"
     },
     {
@@ -132,17 +132,17 @@
     {
       "id": 24,
       "model": "이상",
-      "content": "…İnanç sahibi olmanın anlamı, zihninin derinliklere çökmesine mahal olmayacak anlamına gelmektedir."
+      "content": "…İnanç sahibi olmanın anlamı, zihnin derinliklere çökmesi mahal olmayacak anlamına gelmektedir."
     },
     {
       "id": 25,
       "model": "이상",
-      "content": "Peki ya, birisi o inancı elde etmeden ne kadar ileri gidebilir?"
+      "content": "Söyle bana, birisi nasıl o inancı elde edebilir?"
     },
     {
       "id": 26,
       "model": "로쟈",
-      "content": "Oh, o şey? Çok basit bir iş aslındae. Şefin sırrını söylüyorum, kulaklarınız bende olsun."
+      "content": "Oh, o şey? Çok basit bir iş aslında. Şefin sırrını söylüyorum, kulaklarınız bende olsun!"
     },
     {
       "id": 27,
@@ -152,7 +152,7 @@
     {
       "id": 28,
       "model": "로쟈",
-      "content": "Düşünün bi' abi: “Dünyanın en mükemmel insanıyım, ve başkalarının dediği her söz kuş bokundan değersiz!”"
+      "content": "Sadece şöyle düşünün be abi: “Dünyanın en mükemmel insanıyım, ve başkalarının dediği her söz kuş bokundan değersiz!”"
     },
     {
       "id": 29,
@@ -167,12 +167,12 @@
     {
       "id": 31,
       "model": "이상",
-      "content": "…Belki de böyle bir soruda bulunmamalıydım."
+      "content": "…Sanırsam hiç sormamalıydım."
     },
     {
       "id": 32,
       "model": "단테",
-      "content": "<Rodya… Kelimelerimi de mi bu süzgeçten geçiriyordun…?>"
+      "content": "<Rodya… Benim kelimelerimi de mi bu süzgeçten geçiriyordun…?>"
     },
     {
       "id": 33,
@@ -181,11 +181,11 @@
     {
       "id": 34,
       "place": "Kumarhane Madeni B1",
-      "content": "Mağara ise yüzlerce kazmanın, yorgun duvarlara çarpmasının sesiyle inlerken, bekçilerin büyükçe bir kasayı koruduğuna şahitlik ediyorduk."
+      "content": "Mağara yüzlerce kazmanın, yorgun duvarlara çarpmasının sesiyle inlerken, bekçilerin büyükçe bir kasayı koruduğu görülebiliyordu."
     },
     {
       "id": 35,
-      "content": "Sanki, en aşağıya bu kadar kolay ulaşamayacağımızı anlamamız için gözdağı veriyorlarıd."
+      "content": "Sanki, en aşağıya bu kadar kolay ulaşamayacağımızı anlamamız için gözdağı veriyorlardı."
     },
     {
       "id": 36,
@@ -201,7 +201,7 @@
       "id": 38,
       "model": "소드",
       "teller": "Saude",
-      "title": "LŞO",
+      "title": "LŞTÖ",
       "content": "Sahipliği elde etmiş olsak bile… onlara kazandığımızı gösterebileceğimiz bir kanıtımız yok, ve gözlerinde davetsiz misafirlerden ötesi değiliz."
     },
     {
@@ -221,7 +221,7 @@
     {
       "id": 42,
       "model": "그레고르",
-      "content": "Bu arada, şu masadaki eleman… Önceden tanışık mıydınız?"
+      "content": "Bu arada, şu masadaki eleman… Önceden tanışıyor muydunuz?"
     },
     {
       "id": 43,
@@ -231,7 +231,7 @@
     {
       "id": 44,
       "model": "단테",
-      "content": "<İkinizin ilişkisi bundan derinmiş gibi hissettiriyor.>"
+      "content": "<İkinizin alakası bundan derinmiş gibi hissettiriyor.>"
     },
     {
       "id": 45,
@@ -251,7 +251,7 @@
     {
       "id": 48,
       "model": "홍루",
-      "content": "Evcil hayvan falanlar mı acaba?"
+      "content": "Evcil hayvanlar falan mı acaba?"
     },
     {
       "id": 49,
@@ -300,12 +300,12 @@
     },
     {
       "id": 58,
-      "content": "Çok şükür ki, bunu “Buralarda bu moda mı?” gibi irrite edici şekilde önümüze sunmamıştı."
+      "content": "Çok şükür ki, bunu “<Bu moda mı?” gibi irite edici bir şekilde önümüze sunmamıştı."
     },
     {
       "id": 59,
       "model": "홍루",
-      "content": "…Buralarda bu moda mı yahu?"
+      "content": "…Buralarda bu moda mı?"
     },
     {
       "id": 60,
