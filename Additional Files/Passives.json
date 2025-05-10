@@ -756,7 +756,7 @@
     {
       "id": 1070631,
       "name": "Noktaları Birleştir",
-      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\n<style=\"highlight\">Eğer müttefik bir Yedi Birliği İşçözücüsüyse, ek olarak +1 daha fazla Parçalanma</style>",
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\nEğer müttefik bir Yedi Birliği İşçözücüsüyse, ek olarak +1 daha fazla Parçalanma",
       "summary": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular.\nEğer müttefik bir Yedi Birliği İşçözücüsüyse, ek olarak +1 daha fazla [Burst] uygular."
     },
     {
@@ -768,13 +768,13 @@
     {
       "id": 1020621,
       "name": "Yedi Birliği Çay Saati",
-      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, hedefin <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> değerine göre daha fazla hasar uygular.\n+%1.5 her 1 [Burst] için (Maksimum %15)",
+      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, hedefin Parçalanma değerine göre daha fazla hasar uygular.\n+%1.5 her 1 [Burst] için (Maksimum %15)",
       "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, hedefin [Burst] değerine göre daha fazla hasar uygular."
     },
     {
       "id": 1020631,
       "name": "Yedi Birliği Çay Saati",
-      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin <style=\"highlight\">\"Zayıf\" veya \"Ölümcül\"(Direnç>x1)</style> olduğu bir hasar türüyle saldırırken, hedefin <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Parçalanma</color></link></u> değerine göre daha fazla hasar uygular.\n(+%1.5 her 1 Parçalanma; Maksimum %15)\n<style=\"highlight\">Eğer müttefik bir Yedi Birliği İşçözücüsüyse, daha da artan hasar uygular.\n(+%0.5 her 1 Parçalanma; Maksimum %5)</style>",
+      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin \"Zayıf\" veya \"Ölümcül\"(Direnç>x1) olduğu bir hasar türüyle saldırırken, hedefin Parçalanma değerine göre daha fazla hasar uygular.\n(+%1.5 her 1 Parçalanma; Maksimum %15)\nEğer müttefik bir Yedi Birliği İşçözücüsüyse, daha da artan hasar uygular.\n(+%0.5 her 1 Parçalanma; Maksimum %5)",
       "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, hedefin [Burst] değerine göre daha fazla hasar uygular.\nEğer müttefik bir Yedi Birliği İşçözücüsüyse, daha da artan hasar uygular."
     },
     {
@@ -800,12 +800,12 @@
     {
       "id": 1090701,
       "name": "Aydınlanmış Bilgi",
-      "desc": "Bu turda aldığı hasara göre sonraki turda <sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">Darbe DMG Artışı</link></u></color> kazan.\n(Kalkan hasarı hesaplamaya dahildir. Tur başlangıcında Max HP'nin %25'i kadar hasar aldığında maksimuma ulaşır. Bu etkiyle kazanılabilecek maksimum Darbe DMG Artışı: 5)\nEğer bu birimin 3 [KnowledgeExplored]'ı varsa, tur sonunda kendine uygulanan 1 negatif etkiyi kaldırır."
+      "desc": "Bu turda aldığı hasara göre sonraki turda Darbe DMG Artışı kazan.\n(Kalkan hasarı hesaplamaya dahildir. Tur başlangıcında Max HP'nin %25'i kadar hasar aldığında maksimuma ulaşır. Bu etkiyle kazanılabilecek maksimum Darbe DMG Artışı: 5)\nEğer bu birimin 3 [KnowledgeExplored]'ı varsa, tur sonunda kendine uygulanan 1 negatif etkiyi kaldırır."
     },
     {
       "id": 1090721,
       "name": "Bilgi Misyoneri",
-      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bu turda aldığı hasara göre sonraki turda <sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">Darbe DMG Artışı</link></u></color> kazanır.\n(Kalkan hasarı hesaplamaya dahildir. Tur başlangıcında Max HP'nin %15'i kadar hasar aldığında maksimuma ulaşır. Bu etkiyle kazanılabilecek maksimum Darbe DMG Artışı: 3)"
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bu turda aldığı hasara göre sonraki turda Darbe DMG Artışı kazanır.\n(Kalkan hasarı hesaplamaya dahildir. Tur başlangıcında Max HP'nin %15'i kadar hasar aldığında maksimuma ulaşır. Bu etkiyle kazanılabilecek maksimum Darbe DMG Artışı: 3)"
     },
     {
       "id": 1060701,
@@ -815,7 +815,7 @@
     {
       "id": 1060721,
       "name": "Seri Üretim Biyonik Donanım",
-      "desc": "En yüksek Hıza sahip 1 müttefik, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">[Laceration]</color></link></u> olan bir düşmanı yendiğinde, sonraki turda 1 Saldırı Gücü Artışı kazanır. (Tur başına bir kez)"
+      "desc": "En yüksek Hıza sahip 1 müttefik, [Laceration] olan bir düşmanı yendiğinde, sonraki turda 1 Saldırı Gücü Artışı kazanır. (Tur başına bir kez)"
     },
     {
       "id": 1020701,
