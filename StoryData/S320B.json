@@ -2,17 +2,17 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Basement Area",
-      "content": "We entered the charred mansion, and Sinclair led us to the basement."
+      "place": "Bodrum Alanı",
+      "content": "Yanmış malikaneye girdik ve Sinclair bizi bodruma götürdü."
     },
     {
       "id": 1,
-      "content": "When he opened the door…"
+      "content": "Kapıyı açtığında…"
     },
     {
       "id": 2,
-      "place": "Underground Passage",
-      "content": "A long underpass leading to an unknown destination was revealed to us."
+      "place": "Yeraltı Geçidi",
+      "content": "Bilinmeyen bir yere doğru uzanan uzun bir geçit önümüze çıktı."
     },
     {
       "id": 3,
@@ -22,27 +22,27 @@
     {
       "id": 4,
       "model": "싱클레어",
-      "content": "So… if my guess is right, then this passage should lead to the branch facility."
+      "content": "Yani… eğer tahminim doğruysa, o zaman bu geçit bizi şube tesisine götürmeli."
     },
     {
       "id": 5,
       "model": "히스클리프",
-      "content": "Why’re you keeping this shifty shaft in your basement?"
+      "content": "Bu şaft geçişini neden bodrumunda saklıyorsun?"
     },
     {
       "id": 6,
       "model": "싱클레어",
-      "content": "It wasn’t here before."
+      "content": "Önceden burada değildi."
     },
     {
       "id": 7,
       "model": "히스클리프",
-      "content": "What? Then how’d you know we oughta go to the basement?"
+      "content": "Ne? O zaman bodruma gitmemiz gerektiğini nereden bildin?"
     },
     {
       "id": 8,
       "model": "싱클레어",
-      "content": "It’s like how magnetic fields draw a compass needle northward… I was brought here by intuition."
+      "content": "Tıpkı manyetik alanların pusula iğnesini kuzeye doğru çekmesi gibi… Beni buraya sezgi getirdi."
     },
     {
       "id": 9,
@@ -52,40 +52,40 @@
     {
       "id": 10,
       "model": "싱클레어",
-      "content": "…Isn’t that what it is?"
+      "content": "…Öyle değil mi??"
     },
     {
       "id": 11,
       "model": "싱클레어",
-      "content": "You’re bringing us along to use as sensors for the Boughs."
+      "content": "Bizi Altın Dallar'a sensör olarak kullanmak üzere yanında getiriyorsun."
     },
     {
       "id": 12,
-      "content": "Sinclair quietly looked at Faust."
+      "content": "Sinclair sessizce Faust'a baktı."
     },
     {
       "id": 13,
-      "content": "Instead of answering him, she strode past him and stood before the door."
+      "content": "Sinclair'e cevap vermek yerine yanından geçip kapının önünde durdu."
     },
     {
       "id": 14,
       "model": "파우스트",
-      "content": "Judging from the material, this tunnel seems to have been made relatively recently."
+      "content": "Malzemeye bakılırsa bu tünelin nispeten yakın zamanda yapıldığı anlaşılıyor."
     },
     {
       "id": 15,
       "model": "파우스트",
-      "content": "It was likely dug by N Corp’s expeditionary forces when they had occupied the town."
+      "content": "Muhtemelen N Kuruluşu'nun keşif kuvvetleri kasabayı işgal ettiğinde kazılmıştı."
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "It won’t be a short trip. Given that this passage was excavated for their use, we will assuredly run into foes on the way."
+      "content": "Kısa bir yolculuk olmayacak. Bu geçidin onların kullanımı için kazıldığı göz önüne alındığında, yolda düşmanlarla karşılaşacağımız kesin."
     },
     {
       "id": 17,
       "model": "파우스트",
-      "content": "…We should move once we are ready."
+      "content": "…Hazır olduğumuzda harekete geçmeliyiz."
     },
     {
       "id": 18,
@@ -95,12 +95,12 @@
     {
       "id": 19,
       "model": "파우스트",
-      "content": "Don’t give me that look, Dante."
+      "content": "Bana öyle bakma, Dante."
     },
     {
       "id": 20,
       "model": "파우스트",
-      "content": "…I am simply not in the position to comment on it."
+      "content": "…Ben bu konuda yorum yapacak durumda değilim."
     }
   ]
 }
