@@ -2,35 +2,35 @@
   "dataList": [
     {
       "id": "1",
-      "content": "Clear within {0} turns"
+      "content": "{0} tur içinde tamamla."
     },
     {
       "id": "2",
-      "content": "Suppress the Dungeon Boss"
+      "content": "Zindanı Bitir"
     },
     {
       "id": "3",
-      "content": "Clear Stage"
+      "content": "Sahneyi Tamamla"
     },
     {
       "id": "40000",
-      "content": "Clear Encounter with all allies at 50%+ HP"
+      "content": "Tüm müttefiklerin ile %50+ HP ile karşılaşmayı tamamla"
     },
     {
       "id": "50000",
-      "content": "Defeat the Peccatula within the turn limit"
+      "content": "Peccatula'yı tur sınırı içinde yen"
     },
     {
       "id": "60000",
-      "content": "Defeat the enemies before they self-detonate"
+      "content": "Düşmanlar kendilerini yok etmeden önce sahneyi bitir"
     },
     {
       "id": "70000",
-      "content": "Do not take 10+ hits during the Encounter for each Identity"
+      "content": "Kişilik Başına 10'dan fazla vuruş alma"
     },
     {
       "id": "80000",
-      "content": "Each unit defeats the Peccatulum that has taken their shape once"
+      "content": "Her bir birim, şekline bürünmüş Peccatulum'u bir kez yensin"
     }
   ]
 }
