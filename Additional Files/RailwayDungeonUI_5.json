@@ -22,7 +22,7 @@
     },
     {
       "id": "railway5_clear_info_clear_turn_count",
-      "content": "Temizlenen Turlar"
+      "content": ""
     },
     {
       "id": "railway5_clear_info_ego_stock",
@@ -70,11 +70,11 @@
     },
     {
       "id": "railway_5_enemy_buff",
-      "content": "Talim"
+      "content": "Talimler"
     },
     {
       "id": "railway_5_section",
-      "content": "Bölüm #{0}"
+      "content": "{0}. Kısım"
     },
     {
       "id": "railway_5_warning_enter_node_1",
