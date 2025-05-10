@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": "filter_title_ego_type",
-      "content": "Rarity"
+      "content": "Nadirlik"
     },
     {
       "id": "filter_title_ego_level",
-      "content": "Level"
+      "content": "Seviye"
     },
     {
       "id": "number_of_targets",
-      "content": "Targets"
+      "content": "Hedefler"
     },
     {
       "id": "SINGLE_TARGET",
-      "content": "Single"
+      "content": "Tekli"
     },
     {
       "id": "MULTIPLE_TARGET",
-      "content": "Area"
+      "content": "Alan"
     },
     {
       "id": "filter_title_attribute",
-      "content": "Affinity"
+      "content": "Tür"
     },
     {
       "id": "filter_awaken_state",
-      "content": "Uptie Tier"
+      "content": "Rütbe Seviyesi"
     },
     {
       "id": "filter_normal",
-      "content": "Tier 1/2"
+      "content": "Seviye 1/2"
     },
     {
       "id": "filter_awaken",
-      "content": "Tier 3"
+      "content": "Seviye 3"
     },
     {
       "id": "filter_skill_keyword",
-      "content": "Keyword"
+      "content": "Anahtar Kelime"
     },
     {
       "id": "sorting_acqisition",
-      "content": "Recent"
+      "content": "En Son"
     },
     {
       "id": "filter_title_ego_gacksung",
-      "content": "Threadspun Tier"
+      "content": "Kademe Seviyesi"
     }
   ]
 }
