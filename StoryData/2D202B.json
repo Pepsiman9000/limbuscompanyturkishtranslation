@@ -9,11 +9,11 @@
     {
       "id": 1,
       "model": "뫼르소",
-      "content": "Özel malzemelerin yaygınlığı, bunun basit bir üretim tesisi olmadığını belirtiyor."
+      "content": "Özgün malzemelerin yaygınlığı, bunun basit bir üretim tesisi olmadığını belirtiyor."
     },
     {
       "id": 2,
-      "content": "Meursault söylediğini bitirir bitirmez, renkli ama bir o kadar da uğursuz tasarımlı konteynır neşeli bir melodiyle harekete geçti."
+      "content": "Meursault söylediğini bitirir bitirmez, renkli ama bir o kadar da keyif kaçırıcı tasarımlı konteynır neşeli bir melodiyle harekete geçti."
     },
     {
       "id": 3,
@@ -23,15 +23,15 @@
     {
       "id": 4,
       "model": "싱클레어",
-      "content": "Neden etrafta güvenlik görevlisi yok??"
+      "content": "Neden şimdi etrafta güvenlik görevlisi yok ki??"
     },
     {
       "id": 5,
-      "content": "'Şey…' diye mırıldanabildim sadece, ta ki cevap bize gelene kadar."
+      "content": "“Şey…” Sincalir'ın sorusunun yanıtı kendisini göstermeden önce ağızımdan çıkan tek şey olmuştu."
     },
     {
       "id": 6,
-      "content": "Konteynerin kapıları, çalışması tamamlandığında açıldı ve içeride…"
+      "content": "Çalışmayı bitirdiği gibi kapıları açıldı, ve içerisinde…"
     },
     {
       "id": 7,
@@ -59,14 +59,14 @@
       "model": "너맞아볼래매우",
       "teller": "Acilen Dövülmek Mi İstiyorsun?",
       "title": "Güçlü Oldun mu?",
-      "content": "Çok eğlenceli!!!"
+      "content": "Layıkıyla neşelendirici!!!"
     },
     {
       "id": 11,
       "model": "너맞아볼래매우",
       "teller": "Acilen Dövülmek Mi İstiyorsun?",
       "title": "Güçlü Oldun mu?",
-      "content": "ÖLÜM OYUNU!"
+      "content": "THE GAME of DEATH!" #Burda oyunda seslendirirken eng söylüyor bende öyle kaslın dedim#
     },
     {
       "id": 12,
@@ -78,36 +78,36 @@
       "model": "너맞아볼래매우",
       "teller": "Acilen Dövülmek Mi İstiyorsun?",
       "title": "Güçlü Oldun mu?",
-      "content": "AH."
+      "content": "ATH." #DEATH devam ediyo#
     },
     {
       "id": 14,
       "model": "너맞아볼래매우",
       "teller": "Acilen Dövülmek Mi İstiyorsun?",
       "title": "Güçlü Oldun mu?",
-      "content": "AH!!"
+      "content": "ATH!!" 
     },
     {
       "id": 15,
       "model": "너맞아볼래매우",
       "teller": "Acilen Dövülmek Mi İstiyorsun?",
       "title": "Güçlü Oldun mu?",
-      "content": "AH!!!! AH!!!! AH!!!!"
+      "content": "ATH!!!! ATH!!!! ATH!!!!"
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "Hm… Görünen o ki bu noktadan sonra kazı çalışmaları iki katına çıkarılmış."
+      "content": "Hm… Görünen o ki kazı çalışmaları bu noktada iki katına çıkarılmış."
     },
     {
       "id": 17,
       "model": "파우스트",
-      "content": "Bir taşıma bandında insanları geliştirmek için başka bir neden düşünemiyorum…"
+      "content": "Bir taşıma bandında insan geliştirmek için başka bir neden düşünemiyorum…"
     },
     {
       "id": 18,
       "model": "단테",
-      "content": "<Evet, evet, anladım, şimdi hareket edelim! O ürkütücü şarkıyı söyleyerek tam bize doğru doğrulmuşlar!>"
+      "content": "<Tabi, tabi, anladım, şimdi bir şeyler yapın! O ürkütücü şarkıyı söyleyerek tam bize doğru doğrulmuşlar!>"
     }
   ]
 }
