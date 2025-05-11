@@ -4,7 +4,7 @@
       "id": 0,
       "place": "Komşuların Yattığı Buz Kalesi",
       "model": "이스마엘",
-      "content": "Çıkışı görüyorum!"
+      "content": "Çıkışı orda, görüyorum!"
     },
     {
       "id": 1,
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "model": "단테",
-      "content": "<Uzaklaşmadan önce onların dikkatini dağıtmamız gerek…>"
+      "content": "<Kaçmadan önce bir şekilde dikkatlerini dağıtmamız lazım…>"
     },
     {
       "id": 3,
@@ -29,29 +29,29 @@
     {
       "id": 5,
       "model": "단테",
-      "content": "<…Durun... Şuraya bakın…>"
+      "content": "<…Durun...  işte orada…>"
     },
     {
       "id": 6,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Bu işi bana bırakın."
+      "content": "Bunu bana bırakın."
     },
     {
       "id": 7,
       "model": "로쟈",
-      "content": "Sonya?! Neyin peşindesin lan?"
+      "content": "Sonya?! Neyin peşindesin sen?"
     },
     {
       "id": 8,
       "model": "단테",
-      "content": "<Rodya! Terbiyeni takınacak mısın? Alabileceğimiz her yardımı almamız gerek!>"
+      "content": "<Rodya! ne diyorsun sen? Alabildiğimiz bütün yardımı almalıyız!>"
     },
     {
       "id": 9,
       "model": "로쟈",
-      "content": "Karşılığında bir şey istemeden yardım teklif edenler, genellikle çok art niyetli kişiler oluyor."
+      "content": "Karşılığında bir şey istemeden yardım teklif eden çok insan gördüm, genellikle ileride faiz faiz ödetiyorlar."
     },
     {
       "id": 10,
@@ -65,21 +65,21 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Tıpkı o gün, baltanı asla bırakamıyor oluşun gibi."
+      "content": "Tıpkı o gün, kendini baltanı kullanmaktan alı koyamayışın gibi."
     },
     {
       "id": 12,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Benim de tam olarak öyle… beni ileri itilmeye zorlayan, açıklanamaz bir hissiyatım varmış gibi hissediyorum."
+      "content": "Benim de tam olarak öyle… açıklanamaz bir güç tarafından itilebileceğimi keşfediyorum."
     },
     {
       "id": 13,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Dante, senin organizasyonunun da sizin bakış açınızdan daha iyi bir dünya yaratmaya çalıştığını görüyorum, değil mi?"
+      "content": "Dante, sizin organizasyonuzunda kendi çapınızda dünyayı daha iyi bir yer yapmak istediğini sanıyorum?"
     },
     {
       "id": 14,
@@ -88,15 +88,15 @@
     },
     {
       "id": 15,
-      "content": "İyi bir dünya için, neleri feda etmemiz gerekir ki?"
+      "content": "Daha iyi bir dünya, ne gerektirir ki?"
     },
     {
       "id": 16,
-      "content": "Müdürlüğümden beridir ilk kez, Limbus Şirketi'nin motivasyonunu hiç sorgulamadığımı hatırladım."
+      "content": "İlk defa olarak, Limbus Şirketi'nin motivasyonunu hiç sorgulamadığımı farkettim."
     },
     {
       "id": 17,
-      "content": "Şükür ki, içimdeki karışıklık asla Sonya'ya ulaşmadı, ve benim sessizliğimi pozitif bir cevap olarak algıladı."
+      "content": "Şükür ki, hala sorguladığım yarı sahtekarlığımı Sonya duyamadı, ve bir kaç tik tok'u evet olarak algıladı."
     },
     {
       "id": 18,
@@ -110,7 +110,7 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Ve bir şey daha… o çocuk yakında seni de ziyaret edecek."
+      "content": "Ve bir şey daha… o “çocuk” yakında seni de ziyaret edecek."
     },
     {
       "id": 20,
@@ -132,15 +132,15 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Evet, seni çokça etkileyen o çocuktan bahsediyorum. Çok güzel bir buluşma olacağı kanaatindeyim."
+      "content": "Evet, seni çokça etkileyen o çocuktan bahsediyorum. güzel bir buluşma olacağı kanaatindeyim."
     },
     {
       "id": 24,
-      "content": "Bunun ardından ise çenesini hafifçe kaşıyıp, arkasındaki bir şeye doğru dönmüştü."
+      "content": "Sonya kafasını arkasındaki bir şeye çevirdi."
     },
     {
       "id": 25,
-      "content": "Düşmüş buz kütlelerinin hemen arkasından, loş ve tanıdık bir ışık süzmesi yayılıyordu…"
+      "content": "Düşmüş buz kütlelerinin arasından sönük bir ışık kendine özgü bir biçimde parıldıyordu…"
     },
     {
       "id": 26,
@@ -155,26 +155,26 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Sonraki yüzleşmemizte böyle kibar davranacağımı düşünme sakın."
+      "content": "Sonraki yüzleşmemizte böyle kibar davranacağım izlenimine kapılmayın."
     },
     {
       "id": 29,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Eğer insanların refahını sağlayacak bir yol gözüme çarparsa, hiç tereddüt etmeden kendimi o yola atarım."
+      "content": "Eğer çoğunluğun refahını sağlayacak bir yol kendini bana gösterirse, hiç tereddüt etmeden atılırım."
     },
     {
       "id": 30,
-      "content": "Sonya gizemli bir mesaj ile bizi terkettikten sonra, Yurodiviye üyeleri teker teker ortaya çıkmaya başlamıştı."
+      "content": "Sonya gizemli bir mesaj ile bizi bıraktıktan sonra, Yurodiviye üyeleri teker teker ortaya çıkmaya başlamıştı."
     },
     {
       "id": 31,
-      "content": "Yani… “Seni unutmayacağım!” gibi kalp yumuşatıcı sözler sarf etmenin zamanı değildi zaten."
+      "content": "Tabii… Vaziyetin şeraiti “Seni unutmayacağım!” denilen kalp yumuşatıcı vedalaşmalar gibi bir etki yapmıştı yapmasına."
     },
     {
       "id": 32,
-      "content": "…Ardından ise Rodya'nın, çıkışa depar atan ilk kişi olduğunu görmüştüm."
+      "content": "…Ardından Rodya'nın, çıkışa depar atan ilk kişi olduğunu farkettim."
     },
     {
       "id": 33,
@@ -189,7 +189,7 @@
     {
       "id": 35,
       "model": "이상",
-      "content": "Kaderinizin sonunu göz önüne almadığımızda dahi, her şeye rağmen büyük bir dostun olmalı."
+      "content": "Kaderinizin açtığı sonuçsal farklılıklara bakılmaksızın, o senin bir arkadaşındı ."
     },
     {
       "id": 36,
@@ -207,7 +207,7 @@
     },
     {
       "id": 39,
-      "content": "Çok fena yorulmuş olsam dahi Vergilius, bugün yaşadıklarımı sözlü olarak raporlamadığım sürece, o kan kırmızısı gözleri ile bana dinlenmeyi hor görecekti."
+      "content": "Ölesiye yorulmuş olsam da, Vergilius ona bu gün neler yaşandığına dair sözlü bir rapor vermediğim müddetçe beni keskin nazarından ayırmayacaktı."
     },
     {
       "id": 40,
@@ -218,17 +218,17 @@
     {
       "id": 41,
       "model": "베르길리우스",
-      "content": "Bu eleman… Sonya'ydı, değil mi? Son anlarında yaptıkları, size dediği inançları ile pek bir çakışıyor gibi görünüyor."
+      "content": "Bu eleman… Sonya'ydı, değil mi? Son anlarında yaptıkları, size anlatığı inançları ile uyuşuyormuş gibi gözükmüyor."
     },
     {
       "id": 42,
       "model": "베르길리우스",
-      "content": "Bu yüzden ise onun gerçek amacını keşfetmemiz elzemdir…"
+      "content": "Bu yüzden onun gerçek amacını irdelememiz gerekicek…"
     },
     {
       "id": 43,
       "model": "로쟈",
-      "content": "Hey, yeter, yeter beeeeeee!!!"
+      "content": "Hey, yeter, yeter beee!!!"
     },
     {
       "id": 44,
@@ -242,12 +242,12 @@
     },
     {
       "id": 46,
-      "content": "Rodya, ceplerinden bir avuç renkli oyun jetonu çıkartıvermişti."
+      "content": "Rodya ceplerinden renk renk kumarhane fişi çıkardı."
     },
     {
       "id": 47,
       "model": "로쟈",
-      "content": "Bu tatlı şeyleri herhangi bir kasinoda paraya çevirebiliyoruz. Yanisi, kasinonun birinin önüne park etsek çok hoş olurdu."
+      "content": "Bu tatlı bebekleri herhangi bir kasinoda paraya çevirebiliriz. Yanisi, kasinonun birinin önüne park etsek çok hoş olurdu."
     },
     {
       "id": 48,
@@ -257,7 +257,7 @@
     {
       "id": 49,
       "model": "단테",
-      "content": "<Tüm o kaos arasında bunları yapabilmene gerçekten şaşırdım doğrusu.>"
+      "content": "<Tüm o kaos arasında bunları kapabilmene şaştım.>"
     },
     {
       "id": 50,
@@ -267,7 +267,7 @@
     {
       "id": 51,
       "model": "베르길리우스",
-      "content": "…Ne düşünüyorsun, Charon?"
+      "content": "…Sen ne dersin, Charon?"
     },
     {
       "id": 52,
@@ -277,7 +277,7 @@
     {
       "id": 53,
       "model": "카론",
-      "content": "Mephi de biftek istiyor. Taze, kanlı, sulu et."
+      "content": "Mephi de biftek istiyor. Taze, kanlı, çürük olamayn bir et."
     },
     {
       "id": 54,
@@ -287,7 +287,7 @@
     {
       "id": 55,
       "model": "베르길리우스",
-      "content": "Peki o halde. Rodion'a, bize Eyalet 10'da bir restoran seçmesi için izin vereceğim."
+      "content": "Peki o halde. 10. Eyaletten bir restoran seçme işini Rodion'a bırakıyorum."
     },
     {
       "id": 56,
@@ -302,11 +302,11 @@
     {
       "id": 58,
       "model": "로쟈",
-      "content": "O kadar laf ettikten sonra…"
+      "content": "O kadar olaydan sonra…"
     },
     {
       "id": 59,
-      "content": "Gülüşünün arkasında ise, büyük bir stres yatıyordu, ama bir çırpıda, sanki hiç bir şey yaşanmamışcasına büyük bir gülümseme ile bu duygularını örtüvermişti."
+      "content": "Gülüşünün ardında, gözleri stressini belli ediyordu, ama hemencecik şımarık kız kisvesiyle gizleyiverdi."
     },
     {
       "id": 60,
@@ -343,7 +343,7 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Bilmelisin ki, Hermann, para hiç bir zaman dostum olmamıştı."
+      "content": "Bilmelisin ki, Hermann, para hiç bir zaman dostum olmamıştır."
     },
     {
       "id": 66,
@@ -378,7 +378,7 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Ama maalesef ki…"
+      "content": "maalesef ki…"
     },
     {
       "id": 71,
@@ -392,14 +392,14 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Gel gör ki, uygulamak istediğin metod hatalıydı, Hermann."
+      "content": "Gel gör ki, uygulamak istediğin metod hatalıydıymış, Hermann."
     },
     {
       "id": 73,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Birkaç kelime ile hayata bakış açısını değiştirebilecek birisi değil o."
+      "content": "Birkaç kelime ile hayata bakış açısını değiştirebilecek birisi değildir o."
     },
     {
       "id": 74,
@@ -420,7 +420,7 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Bir kısmım tıpkı geçmişteki gibi beni takip etmesini istiyor."
+      "content": "Bir kısmım tıpkı geçmişte yaptığı gibi beni takip etmesini istemişti."
     },
     {
       "id": 77,
@@ -476,14 +476,14 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Hala yemesi gereken bir fırın ekmek var, eminim."
+      "content": "Daha gidicek çok yolu vardır, eminim."
     },
     {
       "id": 85,
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "…Yüzüne söylesek kabul etmez tabii ki."
+      "content": "…Kabul etmeyecektir tabii ki."
     },
     {
       "id": 86,
@@ -497,7 +497,7 @@
       "model": "소냐",
       "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "Beni azarlamayacak mısın? Bana verdiğin işi tamamlayamadım."
+      "content": "Beni azarlamayacak mısın? Bana verdiğin işi tamamlamakta başarısız oldum."
     },
     {
       "id": 88,
@@ -518,7 +518,7 @@
       "model": "헤르만",
       "teller": "Hermann",
       "title": "N Kuruluşu",
-      "content": "Kazanan taraf, işin sonunda daha fazla dala sahip olan grup olacak."
+      "content": "Asıl önemli olan en sonunda demeti kimin alacağı."
     }
   ]
 }
