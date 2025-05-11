@@ -8,12 +8,12 @@
     {
       "id": "lobby_morning_10910_1",
       "desc": "Günaydınlar",
-      "dlg": "Ihhh... Burasi buz gibi, öğlen olmasına rağmen. Yolda yatmayı denediğim her zaman donup ölmekten korkuyorum.\nYani, beni öldürecek kadar soğuk olursa, iyi bir ihtimal sandık termal koruma moduna geçecek..."
+      "dlg": "Ihhh... Burası buz gibi, öğlen olmasına rağmen. Yolda yatmayı denediğim her zaman donup ölmekten korkuyorum.\nYani, beni öldürecek kadar soğuk olursa, iyi bir ihtimal sandık termal koruma moduna geçecek..."
     },
     {
       "id": "lobby_noon_10910_1",
       "desc": "Tünaydınlar",
-      "dlg": "Evet, bakalim... 17.kontrol noktasındayız. Ihh~ Burada öğle yemeği yiyelim, nasıl fikir sence? Sende 3 öğün sadece enerji barı yemekten yorulmadın mı? Açıl bakalım, Polu!"
+      "dlg": "Evet, bakalım... 17.kontrol noktasındayız. Ihh~ Burada öğle yemeği yiyelim, nasıl fikir sence? Sende 3 öğün sadece enerji barı yemekten yorulmadın mı? Açıl bakalım, Polu!"
     },
     {
       "id": "lobby_night_10910_1",
@@ -23,17 +23,17 @@
     {
       "id": "smalltalk_10910_1",
       "desc": "Sohbet #1",
-      "dlg": "Yani, Siparis isini eğlencesine yapmıyorum. Sanırım en basinda bir amaç hissiyatı vardı, ama...\nAh! Evet, Sehri gezerken manzaraları görmeye bayılıyorum, ama."
+      "dlg": "Yani, Sipariş işini eğlencesine yapmıyorum. Sanırım en başında bir amaç hissiyatı vardı, ama...\nAh! Evet, Şehri gezerken manzaraları görmeye bayılıyorum, ama."
     },
     {
       "id": "smalltalk_10910_2",
       "desc": "Sohbet #2",
-      "dlg": "Bu sandıklara basitçe herhangi birseyi sığdırabilirsin~ Maksimum kapasiteye sığarlarsa, tabiikide... Yine de, ne koysanda agirligin degismemesi buyuk bir avantaj! <color=#9eada4><size=60%><i>[DIKKAT. Unauthorized storage of non-designated delivery items is—]</i></size></color> Ehehe, sessiz, Polu!"
+      "dlg": "Bu sandıklara basitçe herhangi birseyi sığdırabilirsin~ Maksimum kapasiteye sığarlarsa, tabiikide... Yine de, ne koysanda ağırlığın değişmemesi büyük bir avantaj! <color=#9eada4><size=60%><i>[DIKKAT. Unauthorized storage of non-designated delivery items is—]</i></size></color> Ehehe, sessiz, Polu!"
     },
     {
       "id": "smalltalk_10910_3",
       "desc": "Sohbet #3",
-      "dlg": "Ah... ne, bu sandık? Yok, kisiye özel sandık almıyoruz. Hmm~ acaba kaç kisi bu sandıgı kullandı, Acaba... Ah, evet. Biri sipariste ölünce, alması için birini göndeririz ve onların olur. Ve onlar ölünce, baskası onu almaya gider, ve... anladın iste, dimi? Ha ha."
+      "dlg": "Ah... ne, bu sandık? Yok, kişiye özel sandık almıyoruz. Hmm~ acaba kaç kişi bu sandığı kullandı, Acaba... Ah, evet. Biri siparişte ölünce, alması için birini göndeririz ve onların olur. Ve onlar ölünce, başkası onu almaya gider, ve... anladın işte, dimi? Ha ha."
     },
     {
       "id": "smalltalk_10910_4",
@@ -43,77 +43,77 @@
     {
       "id": "smalltalk_10910_5",
       "desc": "Uptie-Sonrası Sohbet 2",
-      "dlg": "Ufff, çok agır... Duydum ki güneydekiler çok daha ince bir sandik tasıyorlarmıs, o zaman niye kuzeydekilere bu kadar büyük birsey veriyorlar? Bu seyi sallayarak omuzumun yerinden cıkacagını düsünüyorum."
+      "dlg": "Ufff, çok ağır... Duydum ki güneydekiler çok daha ince bir sandik taşıyorlarmış, o zaman niye kuzeydekilere bu kadar büyük birsey veriyorlar? Bu şeyi sallayarak omuzumun yerinden çıkacağını düşünüyorum."
     },
     {
       "id": "neglect_10910_1",
-      "desc": "Idle",
-      "dlg": "Hmm... I think I hid a pack of beef jerky somewhere in there... <color=#9eada4><size=60%><i>[Unauthorized lock release outside of delivery coordinates detected]</i></size></color> Crap, how do I wipe that data?! <color=#9eada4><size=60%><i>[Unauthorized behavior detected]</i></size></color>"
+      "desc": "Hareketsiz",
+      "dlg": "Hmm... Sanırım bir paket et kurusunu saklamıştım orada... <color=#9eada4><size=60%><i>[Unauthorized lock release outside of delivery coordinates detected]</i></size></color> Crap, how do I wipe that data?! <color=#9eada4><size=60%><i>[Unauthorized behavior detected]</i></size></color>"
     },
     {
       "id": "gacksung_10910_1",
       "desc": "Uptying",
-      "dlg": "Courier Trunk activation level 1... Alright, let's take care of this before it gets to 3!"
+      "dlg": "Kurye Sandığı aktivasyon seviye 1... Tamam, 3 olmadan bunu halledelim!"
     },
     {
       "id": "formation_10910_1",
-      "desc": "Deployment 1",
-      "dlg": "Looks like a job... Let's go, Polu. <color=#9eada4><size=60%><i>[Activating]</i></size></color>"
+      "desc": "Konuşlandırma 1",
+      "dlg": "Bir iş gibi gözüküyor... Hadi gidelim, Polu. <color=#9eada4><size=60%><i>[Activating]</i></size></color>"
     },
     {
       "id": "formation_10910_2",
-      "desc": "Deployment 2",
-      "dlg": "Welp, this Poludnitsa is kinda boring, but at least she's competent~"
+      "desc": "Konuşlandırma 2",
+      "dlg": "Neyse, bu Poludnitsa biraz sıkıcı, ama en azından yetenekli~"
     },
     {
       "id": "battleentry_10910_1",
-      "desc": "Stage Entry",
-      "dlg": "Guys, we're gonna be late! Run!"
+      "desc": "Sahneye Giriş",
+      "dlg": "Arkadaşlar, geç kalacağız! Koşun!"
     },
     {
       "id": "battle_select_10910_1",
       "desc": "Viewed in Battle",
-      "dlg": "Talk later, hmm? Can't be late for delivery."
+      "dlg": "Sonra konuşalım, hmm? Siparişe geç kalamam."
     },
     {
       "id": "battle_endcommand_10910_1",
       "desc": "Commencing Attack",
-      "dlg": "Get outta my way, c'mon!"
+      "dlg": "Yolumdan çık, hadi be!"
     },
     {
       "id": "battle_enemy_break_10910_1",
       "desc": "Enemy Stagger",
-      "dlg": "Stop wasting my time..."
+      "dlg": "Zamanımı boşa harcamayı bırak..."
     },
     {
       "id": "battle_break_10910_1",
       "desc": "Staggered",
-      "dlg": "Ngh..."
+      "dlg": "Ihh..."
     },
     {
       "id": "battle_kill_10910_1",
-      "desc": "Enemy Killed",
-      "dlg": "... and get outta my way!"
+      "desc": "Düşman Öldürüldü",
+      "dlg": "... ve gözümün önünden kaybol!"
     },
     {
       "id": "battle_dead_10910_1",
-      "desc": "Death #1",
-      "dlg": "Ah... I'll be... just another trunk recovery mission, huh..."
+      "desc": "Ölüm #1",
+      "dlg": "Ah... Ben... sadece başka birtane sandık kurtarma görevi olacağım, huh..."
     },
     {
       "id": "battle_dead_10910_2",
-      "desc": "Death #2",
-      "dlg": "N-no, stop! I'll get moving right now, oka— <color=#9eada4><size=60%><i>[Trunk Activated]</i></size></color>"
+      "desc": "Ölüm #2",
+      "dlg": "Ha-hayır, dur! Hemen uzaklaşmaya başlayacağım, tama— <color=#9eada4><size=60%><i>[Trunk Activated]</i></size></color>"
     },
     {
       "id": "choice_success_p_10910_2",
       "desc": "Check Passed",
-      "dlg": "Done. Happy now? Jeez, it's not like I'm rolling in time..."
+      "dlg": "Halledildi. Mutlu musun? Uff, sanki bolca zamanım varmış gibi değil..."
     },
     {
       "id": "choice_fail_n_10910_1",
       "desc": "Check Failed",
-      "dlg": "Ah... I'm not so good at these. Ugh, what a waste of my time..."
+      "dlg": "Ah... Bunlarda çok iyi değilim. Ihh, zamanım boşa gitti..."
     },
     {
       "id": "battle_clear_10910_1",
