@@ -381,16 +381,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Raw Claw",
+          "name": "Yabani Pençe",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Kanama Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Burn Count next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Yanma Miktarı ver"
                 }
               ]
             }
@@ -403,12 +403,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Belch Fire",
+          "name": "Alev Kus",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn next turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 Yanma ver"
                 }
               ]
             }
@@ -421,7 +421,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sprout",
+          "name": "Filiz",
           "desc": ""
         }
       ]
@@ -431,15 +431,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Golden Fruit",
+          "name": "Altın Meyve",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[DefeatDuel] Take 20 damage"
+                  "desc": "[DefeatDuel] 20 Hasar al"
                 },
                 {
-                  "desc": "[DefeatDuel] Lose 1 Golden Sheen"
+                  "desc": "[DefeatDuel] 1 Altın Parıltı kaybet"
                 }
               ]
             }
@@ -452,7 +452,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Solid Gold",
+          "name": "Som Altın",
           "coinlist": [
             {}
           ]
@@ -464,13 +464,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Absorb Nutrients",
+          "name": "Besinerli Em",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Main body heals 3 HP"
+                  "desc": "[OnSucceedAttack] Ana Vücut 3 HP iyileşir"
                 }
               ]
             },
@@ -484,15 +484,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Deteriorating Flesh",
+          "name": "Çürüyen Et",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur +3 Kanama Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kırılganlık ver"
                 }
               ]
             }
@@ -505,16 +505,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Entangle",
+          "name": "Kıstır",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Main body heals 10 HP"
+                  "desc": "[OnSucceedAttack] Ana Vücut 10 HP iyileşir"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 Kanama ver"
                 }
               ]
             }
@@ -527,7 +527,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let’s Get to Work…",
+          "name": "Hadi İşe Koyulalım…",
           "coinlist": [
             {},
             {}
@@ -540,8 +540,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Work Hard!",
-          "desc": "[WhenUse] Lose 10 HP; Skill Power +1",
+          "name": "Çok Çalış!",
+          "desc": "[WhenUse] 10 HP Kaybet; Yetenek Gücü +1",
           "coinlist": [
             {}
           ]
@@ -553,7 +553,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "So Busy…",
+          "name": "Çok Meşgul…",
           "coinlist": [
             {}
           ]
@@ -565,7 +565,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Best Get It Over With…",
+          "name": "En İyisi Bunu Halletmek…",
           "coinlist": [
             {},
             {}
@@ -578,8 +578,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stay Diligent!",
-          "desc": "[WhenUse] Lose 10 HP; Skill Power +1",
+          "name": "Gayretli Ol!",
+          "desc": "[WhenUse] 10 HP Kaybet; Yetenek Gücü +1",
           "coinlist": [
             {},
             {},
@@ -593,7 +593,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "So Busy…",
+          "name": "Çok Meşgul…",
           "coinlist": [
             {}
           ]
@@ -605,7 +605,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Worktime!",
+          "name": "Çalışma Vakti!",
           "coinlist": [
             {}
           ]
@@ -617,12 +617,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Get to Work!",
+          "name": "Çalışmaya Başla!",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Haste next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Hızlanma kazan"
                 }
               ]
             }
@@ -635,19 +635,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "So Excited!!",
+          "name": "Çok Heyecanlıyım!!",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Take 3 damage"
+                  "desc": "[OnSucceedAttack] 3 Hasar al"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Take 3 damage"
+                  "desc": "[OnSucceedAttack] 3 Hasar al"
                 }
               ]
             }
@@ -660,8 +660,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "PUNISH☆MENT",
-          "desc": "[WhenUse] Lose 10 HP; Skill Power +2",
+          "name": "CEZA☆LANDIRMA",
+          "desc": "[WhenUse] 10 HP Kaybet; Yetenek Gücü +2",
           "coinlist": [
             {},
             {}
@@ -674,26 +674,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "E-MER-GEN-CY!!!",
+          "name": "A-CİL-DUR-UM!!!",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Take 3 damage"
+                  "desc": "[OnSucceedAttack] 3 Hasar al"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Take 3 damage"
+                  "desc": "[OnSucceedAttack] 3 Hasar al"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Take 3 damage"
+                  "desc": "[OnSucceedAttack] 3 Hasar al"
                 }
               ]
             }
@@ -706,7 +706,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don’t Stop Me?!",
+          "name": "Durdurma Beni?!",
           "coinlist": [
             {},
             {}
@@ -719,7 +719,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Repressed Gesture",
+          "name": "Bastırılmış Jest",
           "coinlist": [
             {},
             {}
@@ -732,7 +732,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Constricting Desires",
+          "name": "Sıkıştıran Arzular",
           "coinlist": [
             {}
           ]
@@ -744,19 +744,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rosy Dance",
+          "name": "Neşeli Dans",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Urge next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 İstek ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Urge next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 İstek ver"
                 }
               ]
             }
@@ -769,7 +769,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Repressed Gesture",
+          "name": "Bastırılmış Jest",
           "coinlist": [
             {},
             {}
@@ -782,7 +782,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Constricting Desires",
+          "name": "Sıkıştıran Arzular",
           "coinlist": [
             {}
           ]
@@ -794,12 +794,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rosy Dance",
+          "name": "Neşeli Dnas",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Urge next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 İstek ver"
                 }
               ]
             }
