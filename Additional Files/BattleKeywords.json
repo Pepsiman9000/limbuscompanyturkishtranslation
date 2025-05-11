@@ -1675,21 +1675,21 @@
     },
     {
       "id": "FestivalFeverRodion",
-      "name": "Festive Fever",
+      "name": "Şenlik Heyecanı",
       "desc": "- Max Value: 10\n- Expires at Turn End\n- Against targets with Bleed: deal +1.5% more damage for every Stack\n- Skills that consume or gain Bloodfeast deal +3% more damage for every Stack instead",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VibrationSpring",
-      "name": "Tremor - Clockwinding",
+      "name": "Sarsıntı - Saatçevirme",
       "desc": "- Max Speed + 2\n- Consume Tremor Count on self to inflict 1 more of Tremor Potency or Count when inflicting them with this unit's Skill or Coin effects\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DevyatDimensionalSackSinclair",
-      "name": "Courier Trunk - Sinclair",
+      "name": "Kurye Zulası - Sinclair",
       "desc": "- Base Value: 0\n- Turn Start: gain 3 Stack\n- Stack does not expire upon Retreat; it is stored instead\n- At 10+ Stack: raise Min & Max Speed values by 1\n- At 20+ Stack: Gain 1 Clash Power Up and 1 Blunt Damage Up\n- At 30+ Stack:\n· On Skill Use, take (Stack/3)% HP damage and (Stack/3) SP damage\n· On Turn End, take (Stack/2)% HP damage and (Stack/2) SP damage (applies before Retreat)",
       "summary": "",
       "undefined": "-"
@@ -1702,26 +1702,26 @@
     },
     {
       "id": "SwirlingBloodPersonality",
-      "name": "Shimmering【Bloodfiend】",
+      "name": "Parıldayan【Kan Hınzırı】",
       "desc": "- Max Stack: 50\n- As long as this effect exists, all Bleed damage taken by the Shield HP is converted to Bloodfeast.\n- Gain Shield HP equal to the Stack at the moment of its application\n- Expires at Turn End",
       "summary": ""
     },
     {
       "id": "BloodArmorPersonalityFirst",
-      "name": "Hardblood",
-      "desc": "- Max Stack: 10\n- Stage 1 Hardblood\n- At 10+ Hardblood, converts to Hardblood II.\n- At 20+ Hardblood, converts to Hardblood III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Hardblood does not drop below 1.\n- Raise Min & Max Speed values by 1 for every 10 Hardblood\n- At Hardblood II, gain 1 Offense Level Up based on the Stack\n- At Hardblood III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
+      "name": "Sertkan",
+      "desc": "- Max Stack: 10\n- Stage 1 Sertkan\n- At 10+ Sertkan, converts to Sertkan II.\n- At 20+ Sertkan, converts to Sertkan III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Sertkan does not drop below 1.\n- Raise Min & Max Speed values by 1 for every 10 Sertkan\n- At Sertkan II, gain 1 Offense Level Up based on the Stack\n- At Sertkan III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
       "summary": ""
     },
     {
       "id": "BloodArmorPersonalitySecond",
-      "name": "Hardblood II",
-      "desc": "- Max Stack: 20\n- Stage 2 Hardblood\n- Turn Start: gain 1 Offense Level Up for every 5 Stack\n- Raise Min & Max Speed values by 1\n- At 10+ Hardblood, converts to Hardblood II.\n- At 20+ Hardblood, converts to Hardblood III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Hardblood does not drop below 1.\n- At Hardblood II, gain 1 Offense Level Up based on the Stack\n- At Hardblood III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
+      "name": "Sertkan II",
+      "desc": "- Max Stack: 20\n- Stage 2 Sertkan\n- Turn Start: gain 1 Offense Level Up for every 5 Stack\n- Raise Min & Max Speed values by 1\n- At 10+ Sertkan, converts to Sertkan II.\n- At 20+ Sertkan, converts to Sertkan III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Sertkan does not drop below 1.\n- At Sertkan II, gain 1 Offense Level Up based on the Stack\n- At Sertkan III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
       "summary": ""
     },
     {
       "id": "BloodArmorPersonalityThird",
-      "name": "Hardblood III",
-      "desc": "- Max Stack: 30\n- Stage 3 Hardblood\n- Turn Start: gain 1 Offense Level Up and 1 Defense Level Up for every 5 Stack\n- Raise Min & Max Speed values by 2\n- At 10+ Hardblood, converts to Hardblood II.\n- At 20+ Hardblood, converts to Hardblood III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Hardblood does not drop below 1.\n- At Hardblood II, gain 1 Offense Level Up based on the Stack\n- At Hardblood III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
+      "name": "Sertkan III",
+      "desc": "- Max Stack: 30\n- Stage 3 Sertkan\n- Turn Start: gain 1 Offense Level Up and 1 Defense Level Up for every 5 Stack\n- Raise Min & Max Speed values by 2\n- At 10+ Sertkan, converts to Sertkan II.\n- At 20+ Sertkan, converts to Sertkan III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Sertkan does not drop below 1.\n- At Sertkan II, gain 1 Offense Level Up based on the Stack\n- At Sertkan III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
       "summary": ""
     },
     {
@@ -1732,180 +1732,180 @@
     },
     {
       "id": "FreishutzOutisEgoBullet_1st",
-      "name": "The First Magic Bullet",
+      "name": "Birinci Sihirli Mühimmat",
       "desc": "- Deals +20% more damage\n- Raise the target's Stagger Threshold by damage dealt (max 30)"
     },
     {
       "id": "FreishutzOutisEgoBullet_2nd",
-      "name": "The Second Magic Bullet",
+      "name": "İkinci Sihirli Mühimmat",
       "desc": "- Deal +10% more damage\n- Deal damage to targets other than the main target (max targets: 4); the main target takes 0 damage\n- On Hit, inflict 3 Paralyze"
     },
     {
       "id": "FreishutzOutisEgoBullet_3rd",
-      "name": "The Third Magic Bullet",
+      "name": "Üçüncü Sihirli Mühimmat",
       "desc": "- Deal +20% more damage\n- Before Attack: gain +2 Atk Weight\n- On Hit, inflict 2 Attack Power Down and 10 Burn"
     },
     {
       "id": "FreishutzOutisEgoBullet_4th",
-      "name": "The Fourth Magic Bullet",
+      "name": "Dördüncü Sihirli Mühimmat",
       "desc": "- Deal +30% more damage\n- Before Attack: gain +3 Atk Weight\n- On Hit, raise the target's Stagger Threshold by damage dealt (max 20); then, inflict 3 Fragility next turn"
     },
     {
       "id": "FreishutzOutisEgoBullet_5th",
-      "name": "The Fifth Magic Bullet",
+      "name": "Beşinci Sihirli Mühimmat",
       "desc": "- Deal +30% more damage\n- Before Attack: gain +4 Atk Weight\n- On Hit, inflict 10 Burn; then, inflict 4 Offense Level down and 4 Defense Level Down next turn"
     },
     {
       "id": "FreishutzOutisEgoBullet_6th",
-      "name": "The Sixth Magic Bullet",
+      "name": "Altıncı Sihirli Mühimmat",
       "desc": "- Before Attack: gain +6 Atk Weight\n- On Hit, raise the target's Stagger Threshold by damage dealt (max 30)\n- Reuse the Coin for every 7 Burn on the main target (2 times max)\n- Plus Coin Skill Base Power -16\n- Minus Coin Skill Base Power -22\n - Plus Coin Power -8\n - Minus Coin Power -12"
     },
     {
       "id": "FreishutzOutisEgoBullet_7th",
-      "name": "The Seventh Magic Bullet",
+      "name": "Yedinci Sihirli Mühimmat",
       "desc": "- Deal +200% more damage\n- Deal +2.5% more damage for every 1% missing HP on target (max 200%)\n- Before Attack: for this attack, if the Pierce Damage Res. on target or on self are less than 2.0, change them to Fatal(x2.0)\n- After Attack: kills this unit"
     },
     {
       "id": "FreishutzOutisEgoBulletCnt",
-      "name": "Marksman's Bullet",
+      "name": "Nişancının Mermisi",
       "desc": "Uses a different Ammo depending on Marksman's Bullet"
     },
     {
       "id": "CoveringFire",
-      "name": "Target Spotted",
+      "name": "Hedef Tespit Edildi",
       "desc": "If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with its Skill 2 against the same enemy Unit A attacked with its Skill. Activates at Unit A's Attack End.\n- The Skill used due to this effect does not affect Unit B's upcoming Skills list."
     },
     {
       "id": "FullReload",
-      "name": "Reload",
+      "name": "Yeniden Doldur",
       "desc": "Lose all currently owned Ammo, and reload it back to full"
     },
     {
       "id": "Bullet_LogicAtelier",
-      "name": "Ammo - Atelier Logic",
+      "name": "Mermi - Atelier Logic",
       "desc": "Unique Ammo\nAtelier Logic Workshop Special Ammo\n- This Ammo's count cannot be gained or lost due to external effects"
     },
     {
       "id": "Retreat_FullStop",
-      "name": "Overwatch Assignment",
+      "name": "Gözetleme Görevi",
       "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)"
     },
     {
       "id": "LogicAtelierAM",
-      "name": "Concentration【Sniper】",
+      "name": "Konsantrasyon【Sniper】",
       "desc": "- Max Stack: 4\n- Turn End: gain 1 Stack"
     },
     {
       "id": "MeleeCover",
-      "name": "Melee Support",
+      "name": "Yakın Destek",
       "desc": "- If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with the 'Melee Support' Skill against the same enemy that attacked Unit A. Activates at Unit A's Skill End.\n- The Skill used due to the 'Melee Support' effect does not affect Unit B's upcoming Skills list."
     },
     {
       "id": "RequestedTarget",
-      "name": "Requested Target",
+      "name": "Hedef Belirlendi",
       "desc": "+0.2 Resistance to Attack Types with 1.5 or less Resistance. If the target with this effect is defeated, gain 1 E.G.O resource for all Affinities, and the unit that defeated the target heals 10 SP"
     },
     {
       "id": "GlowingLantern",
-      "name": "Fairy Lure",
+      "name": "Peri Tütsüsü",
       "desc": "- Max Stack: 5\n- Turn Start: leftmost Slot on the Dashboard gains +10 Aggro\n- Take +50% more damage\n- When hit, inflict 1 Rupture against the Attacker (3 times per target's Skill)\n· At less than 50% HP, inflict 1 additional Rupture\n· If the target has 15+ Rupture, this effect does not inflict Rupture\n- Reduced by 1 at Turn End"
     },
     {
       "id": "HoldingBreath",
-      "name": "Deep Inhale",
+      "name": "Derin Nefes",
       "desc": "- Max Stack: 20\n- On Crit, at 15+ Nefes Potency and 5+ Nefes Count, consume (Nefes Potency on self / 5) Nefes Potency to deal +(Nefes Potency consumed x 4)% more Damage on Critical Hit and lose 1 Stack",
       "summary": "Deal more Damage on Critical Hit"
     },
     {
       "id": "NebulizerInhale",
-      "name": "Nebulizer β",
+      "name": "Nebülizatör β",
       "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- When activating Pride A-Reson.: on Combat Start, apply 3 Nefes and +3 Nefes Count on self and (Stack) allies (prioritizes allies that gain or use Nefes or Nefes Count; among them, prioritize allies with the least Nefes Potency)",
       "summary": "Gain Nefes and Nefes Count"
     },
     {
       "id": "Hohenheim_LowMorale",
-      "name": "Anguish",
+      "name": "Izdırap I",
       "desc": "Turn Start: gain 1 Fragile and 2 SP Heal Efficiency Down"
     },
     {
       "id": "Hohenheim_Panic",
-      "name": "Anguish",
+      "name": "Izdırap II",
       "desc": "Turn Start: gain 2 Fragile and 3 SP Heal Efficiency Down"
     },
     {
       "id": "BlackCloud",
-      "name": "Dark Cloud",
+      "name": "Kara Bulut",
       "desc": "Max Stack: 1\nConverts all of this unit's Base Attack Skill Coins used this turn to [Unbreakable Coins], prevents damage from Staggering this unit until Skill End, and inflict +1 more of Bleed effects\nOn Clash Lose: gain Final Power +3\nTurn End: this effect expires"
     },
     {
       "id": "BlackCloudBlade",
-      "name": "Dark Cloud Blade",
+      "name": "Kara Bulut Kılıcı",
       "desc": "Max Stack: 1\nGain 1 Slash Power\nInflict 1 Bleed On Hit with Slash Skills"
     },
     {
       "id": "EngageToBattle",
-      "name": "Battle Ready",
+      "name": "Savaşa Hazır",
       "desc": "Max Value: 1\nBleed Potency and Count inflicted with this unit's Skill or Coin effects: +1\nGain 1 Slash Power Up and 3 Slash DMG Up for the duration of this Encounter"
     },
     {
       "id": "CloudWall",
-      "name": "Cumulus Wall",
+      "name": "Buharlı Duvar",
       "desc": "Max Stack: 1\nDefense Skill Final Power +1\nThis effect expires at Turn End or after attack of the following: 'Rules of the Backstreets'"
     },
     {
       "id": "ScarletResultUp",
-      "name": "Lust Power Up",
+      "name": "Vehşet Güç Artışı",
       "desc": "Lust Skills gain Final Power by the effect’s Count for one turn."
     },
     {
       "id": "NebulizerExhale",
-      "name": "Nebulizer α",
+      "name": "Nebülizatör α",
       "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- Combat Start: on all allies, including this unit, apply 1 Nefes Potency and +1 Nefes Count"
     },
     {
       "id": "ReleaseBreath",
-      "name": "Shallow Exhale",
+      "name": "Tutuk Nefes",
       "desc": "- Max Value: 1\n- At 20+ Nefes Potency, gain +1 Count as well whenever this unit gains Nefes Potency with Skill and Coin effects\n- Expires at Turn End"
     },
     {
       "id": "FirePunchFuel",
-      "name": "District 12 Fuel",
+      "name": "12. Eyalet Yakıtı",
       "desc": "Max Stack: 100\nConsumed by certain Skills.\nAt 50- Stack, become Overheated Fuel",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FirePunchFuelOverheated",
-      "name": "Overheated Fuel",
+      "name": "Yanmış Yakıt",
       "desc": "Max Stack: 100\nConsuming District 12 Fuel in Overheated Fuel State consumes Overheated Fuel instead\nConsuming Overheated Fuel counts as consuming District 12 Fuel\nAt over 50 Stack, become District 12 Fuel",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DianxueDonQuixote",
-      "name": "Nerve Strike - Don Quixote",
+      "name": "Sinir Saldırısı - Don Quixote",
       "desc": "- Max Stack: 3\n- The unit that inflicted this Nerve Strike gains the following effects based on target's(or targeted Part's) Nerve Strike Stack\n· 1x Stack: Gain Clash Power +1\n· 2x Stack: Gain Base Power +1\n· 3x Stack: Gain Clash Power +1 and Base Power +1\n- Expires if the unit that inflicted it inflicts this effect against a different target(or a different Part)\n- Replaced when another unit inflicts Nerve Strike",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VengeanceBookSinclair",
-      "name": "Book of Vengeance [Sinclair]",
+      "name": "İntikam Kitabı [Sinclair]",
       "desc": "- Max Stack: 30\n- Deal more damage equal to (Stack)% (max 30%)\n- Gain the following effects next turn based on Stack:\n· At 10+ Stack: gain 1 Blunt DMG Up\n· At 20+ Stack: Max Speed +1, gain 1 Power Up\n· At 30 Stack: gain 2 Blunt DMG Up",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VendettaMark",
-      "name": "Vendetta Mark",
+      "name": "İntikam İşareti",
       "desc": "- Max Stack: 10\n- Consumed by certain Skills or Passives\n- Take +2% more damage from The Middle enemies for every Stack (max 20%)\n- Turn End: the unit with the highest Stack of this effect gains 1 Sibling Vengeance Mark next turn\n(Counted separately from Vengeance Mark; if more than a single unit has the highest Stack of this effect, this effect targets the one with a higher HP percentage)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RetaliationBookFamily",
-      "name": "Sibling Vengeance Mark",
-      "desc": "- Max Stack: 1\n- Expires at Turn End\n- Every Identity treats this unit as having their Vengeance Mark",
+      "name": "Bacanak İntikam İşareti",
+      "desc": "- Maks: 1\n- Tur Sonunda biter\n- Her Kişilik bu birimin kendi İntikam İşaretine sahip olduğunu düşünür",
       "summary": "",
       "undefined": "-"
     }
