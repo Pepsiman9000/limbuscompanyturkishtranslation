@@ -848,13 +848,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slam",
+          "name": "Bonk!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
@@ -869,20 +869,20 @@
         },
         {
           "level": 2,
-          "name": "Slam",
-          "desc": "If target has 6+ [Burst], Coin Power +1",
+          "name": "Bonk!",
+          "desc": "Rakipte 6+ [Burst] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             }
@@ -890,26 +890,26 @@
         },
         {
           "level": 4,
-          "name": "Slam",
-          "desc": "If target has 6+ [Burst], Coin Power +1",
+          "name": "Bonk!",
+          "desc": "Rakipte 6+ [Burst] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             }
@@ -922,7 +922,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bonecrusher",
+          "name": "Kemikparçalayıcı",
           "desc": "",
           "coinlist": [
             {
@@ -935,7 +935,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -943,23 +943,23 @@
         },
         {
           "level": 2,
-          "name": "Bonecrusher",
-          "desc": "[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
+          "name": "Kemikparçalayıcı",
+          "desc": "[WhenUse] Eğer rakipte 15+ [Burst] ve 3+ [Burst] Miktarı varsa: Bu Yetenek [Burst] veya [Burst] Miktarı uygulamaz; bunun yerine, Jeton Gücü +1\n[WinDuel] +1 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [TakeHpHealReduce] next turn"
+                  "desc": "[OnSucceedAttack] 1 [TakeHpHealReduce] uygula"
                 }
               ]
             }
@@ -967,26 +967,26 @@
         },
         {
           "level": 4,
-          "name": "Bonecrusher",
-          "desc": "If target has 6+ [Burst], Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n- If target is a <Bloodfiend> or a <Bloodbag>, gain an additional Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
+          "name": "Kemikparçalayıcı",
+          "desc": "Eğer rakipte 6+ [Burst] varsa, Jeton Gücü +1\n[WhenUse] Eğer rakipte 15+ [Burst] ve 3+ [Burst] Miktarı varsa: Bu Yetenek [Burst] veya [Burst] Miktarı uygulamaz; bunun yerine, Jeton Gücü +1\n- Eğer rakip bir <Kan Hınzırı> veya <Kan Torbası> ise, Jeton Gücü +1\n[WinDuel] +1 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Burst] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [TakeHpHealReduce] next turn"
+                  "desc": "[OnSucceedAttack] 2 [TakeHpHealReduce] uygula"
                 }
               ]
             }
@@ -999,20 +999,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "A Cheerful Hunt's End",
-          "desc": "[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
+          "name": "Neşeli Avın Sonu",
+          "desc": "[WhenUse] Eğer rakipte 15+ [Burst] ve 3+ [Burst] Miktarı varsa: Bu Yetenek [Burst] veya [Burst] Miktarı uygulamaz; bunun yerine, Jeton Gücü +1\n[WinDuel] +1 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                 }
               ]
             },
@@ -1021,27 +1021,27 @@
         },
         {
           "level": 4,
-          "name": "A Cheerful Hunt's End",
-          "desc": "If target has 6+ [Burst], Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n- If target is a <Bloodfiend> or a <Bloodbag>, gain an additional Coin Power +1\n[WinDuel] Inflict +2 [Burst] Count",
+          "name": "Neşeli Avın Sonu",
+          "desc": "Eğer rakipte 6+ [Burst] varsa, Jeton Gücü +1\n[WhenUse] Eğer rakipte 15+ [Burst] ve 3+ [Burst] Miktarı varsa: Bu Yetenek [Burst] veya [Burst] Miktarı uygulamaz; bunun yerine, Jeton Gücü +1\n- Eğer rakip bir <Kan Hınzırı> veya <Kan Torbası> ise, Jeton Gücü +1\n[WinDuel] +2 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 15+ [Burst], or has less than 30% HP, Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] Eğer rakipte 15+ [Burst] varsa, veya HP'si 30%dan az ise, bu Jetonu Yeniden kullan (Max 1)"
                 }
               ]
             }
