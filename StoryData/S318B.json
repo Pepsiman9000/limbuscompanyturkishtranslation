@@ -2,22 +2,22 @@
   "dataList": [
     {
       "id": 0,
-      "place": "The Old Sinclair Estate",
+      "place": "Sinclair'in Eski Malikanesi",
       "model": "싱클레어",
       "content": "Rrraaaaaaah!!!"
     },
     {
       "id": 1,
       "model": "히스클리프",
-      "content": "Hey, wait…!"
+      "content": "Hey, bekle…!"
     },
     {
       "id": 2,
-      "content": "Sinclair leapt forth to chase Kromer before anyone could stop him."
+      "content": "Sinclair, Kromer'ı kimse durduramadan onu kovalamak için öne atıldı."
     },
     {
       "id": 3,
-      "content": "However, he’s blocked by the remaining N Corp. Inquisitors."
+      "content": "Ancak, N Kurulu Engizisyoncularının geri kalanı tarafından engellendi."
     },
     {
       "id": -1,
@@ -25,238 +25,238 @@
     },
     {
       "id": 4,
-      "content": "In response, he swings his weapon with a tremendous force I never thought he could exert, crushing the head of the one who grabbed him."
+      "content": "Karşılığında, hiç beklemediğim bir güçle silahını savurdu ve onu yakalayanın kafasını parçaladı."
     },
     {
       "id": 5,
-      "content": "The Inquisitor collapses to the ground before even a gasp could escape their mouth."
+      "content": "Engizisyoncu ağzından tek bir soluk bile çıkamadan yere yığıldı."
     },
     {
       "id": 6,
-      "content": "Sinclair would normally keep to the back of our group; this was the first time I saw him charge in unprompted like that."
+      "content": "Sinclair normalde grubumuzun arkasında kalırdı; onu böyle aniden hücum ederken ilk kez gördüm."
     },
     {
       "id": 7,
       "model": "히스클리프",
-      "content": "…What the—? The hell have you been dawdling in the back for if you could do that?"
+      "content": "…Ne-? Bunu yapabilecekken neden arkada oyalanıyorsun?"
     },
     {
       "id": 8,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I remember with clarity that I had ended your lives."
+      "title": "Çivi ve Çekiç",
+      "content": "Hayatlarına son verdiğimi net bir şekilde hatırlıyorum."
     },
     {
       "id": 9,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I undoubtedly witnessed torn brain tissue spill through the cracks in your skulls."
+      "title": "Çivi ve Çekiç",
+      "content": "Kafatasındaki çatlaklardan beyin dokularının dışarı fırladığına hiç şüphem yok."
     },
     {
       "id": 10,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "And yet, here you heretics are, before me on your feet."
+      "title": "Çivi ve Çekiç",
+      "content": "Ve yine de, işte siz sapkınlar, ayaklarınızın üzerinde önümdesiniz."
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "You’re not the one to complain about miraculous recoveries…"
+      "content": "Mucizevi iyileşmelerden şikayet eden sen değilsin…"
     },
     {
       "id": 12,
-      "content": "Guido examines me closely with his piercing glare."
+      "content": "Guido beni delici bakışlarıyla yakından inceledi."
     },
     {
       "id": 13,
-      "content": "He then slowly nods as if his observation gave him the knowledge he needed."
+      "content": "Daha sonra sanki gözlemi ona ihtiyaç duyduğu bilgiyi vermiş gibi yavaşça başını salladı."
     },
     {
       "id": 14,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You there, the one possessing the head of a heretic."
+      "title": "Çivi ve Çekiç",
+      "content": "Daha sonra sanki gözlemi ona ihtiyaç duyduğu bilgiyi vermiş gibi yavaşça başını salladı."
     },
     {
       "id": 15,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You must be the false shepherd enticing this herd into blasphemy."
+      "title": "Çivi ve Çekiç",
+      "content": "Bu sürüyü küfre sürükleyen sahte çoban sen olmalısın."
     },
     {
       "id": 16,
-      "content": "He proceeds to nudge his chin at the nailed corpses in the courtyard."
+      "content": "Avludaki çivilenmiş cesetlere çenesiyle işaret ediyor."
     },
     {
       "id": 17,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "They committed the grave sin of entering the site of hallowed rites with their unclean bodies."
+      "title": "Çivi ve Çekiç",
+      "content": "Kutsal ayinlerin yapıldığı yerlere kirli bedenleriyle girmenin büyük günahını işlediler."
     },
     {
       "id": 18,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "Thus, they have been punished with the same penalty as heretics receive."
+      "title": "Çivi ve Çekiç",
+      "content": "Böylece onlar da kâfirlere verilen cezanın aynısını görmüş oldular."
     },
     {
       "id": 19,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "They have also been subjected to the humiliation of bodily mechanical intrusions being installed against their will."
+      "title": "Çivi ve Çekiç",
+      "content": "Ayrıca iradeleri dışında bedensel mekanik müdahalelerin yapılmasıyla aşağılanmaya maruz kalmışlardır.."
     },
     {
       "id": 20,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "But you are different."
+      "title": "Çivi ve Çekiç",
+      "content": "Ama sen farklısın."
     },
     {
       "id": 21,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
+      "title": "Çivi ve Çekiç",
       "content": "The sin of worshipping a heretic is less severe than indulging in heresy oneself."
     },
     {
       "id": 22,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "Therefore, as long as you are willing to repent and cleanse your minds of sin…"
+      "title": "Çivi ve Çekiç",
+      "content": "Bu nedenle, tövbe etmeye ve zihninizi günahlardan arındırmaya istekli olduğunuz sürece…"
     },
     {
       "id": 23,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "We, the Hammer, are willing to demonstrate forgiveness."
+      "title": "Çivi ve Çekiç",
+      "content": "Biz Çekiç, bağışlamayı göstermeye hazırız."
     },
     {
       "id": 24,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "So I implore you, ye pitiable foolish sinners, led astray by temptation."
+      "title": "Çivi ve Çekiç",
+      "content": "Bu yüzden size yalvarıyorum, ey acınacak, akılsız günahkârlar, ayartmalarla saptırılmış olanlar."
     },
     {
       "id": 25,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "Shake off the allure of that false miracle, and kneel before me."
+      "title": "Çivi ve Çekiç",
+      "content": "O sahte mucizenin cazibesinden kurtulun ve önümde diz çökün."
     },
     {
       "id": 26,
-      "content": "The confrontation came to a standstill. No one seemed willing to speak first."
+      "content": "Çatışma durma noktasına geldi. Kimse ilk konuşmaya istekli görünmüyordu."
     },
     {
       "id": 27,
       "model": "단테",
-      "content": "<So you’ve all been under my spell or something all along? Who’d’ve thought that.>"
+      "content": "<Yani hepiniz benim büyümün altında mıydınız? Bunu kim düşünebilirdi ki.>"
     },
     {
       "id": 28,
-      "content": "I tried cracking a joke to lighten the mood a little, but no one laughed."
+      "content": "Biraz ortamı yumuşatmak için bir espri yapmaya çalıştım ama kimse gülmedi."
     },
     {
       "id": 29,
       "model": "이스마엘",
-      "content": "Dante… That man… He just insulted you. He doesn’t even see you as a human being."
+      "content": "Dante… O adam… Sana hakaret etti. Seni bir insan olarak bile görmüyor."
     },
     {
       "id": 30,
       "model": "단테",
-      "content": "<I mean, you guys call me clockface all the time too…>"
+      "content": "<Yani, siz de bana hep saat yüzlü diyorsunuz…>"
     },
     {
       "id": 31,
       "model": "이스마엘",
-      "content": "That’s not the same at all! Besides, I’ve never used that nickname…"
+      "content": "Bu hiç de aynı değil! Ayrıca, ben o takma adı hiç kullanmadım…"
     },
     {
       "id": 32,
-      "content": "Ishmael grunted."
+      "content": "Ishmael homurdandı."
     },
     {
       "id": 33,
       "model": "히스클리프",
-      "content": "So you think throwing some fancy words around will be enough to persuade us, eh…"
+      "content": "Yani birkaç süslü kelime ile bizi ikna etmeye yeteceğini mi düşünüyorsun?…"
     },
     {
       "id": 34,
       "model": "히스클리프",
-      "content": "Listen up, Faceplate: You’re the one who needs a little shaking off. Seems to me your human brain’s just as defective."
+      "content": "Dinle, tabak yüzlü: Biraz silkelenmeye ihtiyacı olan sensin. Bana öyle geliyor ki senin insan beynin de en az senin kadar kusurlu."
     },
     {
       "id": 35,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
+      "title": "Çivi ve Çekiç",
       "content": "……"
     },
     {
       "id": 36,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You were given ample opportunity."
+      "title": "Çivi ve Çekiç",
+      "content": "Size bolca fırsat verildi."
     },
     {
       "id": 37,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You are no different from those we hung and nailed after all."
+      "title": "Çivi ve Çekiç",
+      "content": "Siz de bizim asıp çivilediklerimizden farkınız yok zaten."
     },
     {
       "id": 38,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I am a Hammer."
+      "title": "Çivi ve Çekiç",
+      "content": "Ben bir çekicim."
     },
     {
       "id": 39,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I am a tool for the One Who Grips, tasked with the great mission of piercing the false flesh of heretics."
+      "title": "Çivi ve Çekiç",
+      "content": "Ben, sapkınların sahte etini delmek gibi büyük bir görevle görevlendirilmiş, Kavrayan Kişi için bir aracım."
     },
     {
       "id": 40,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I shall bind thee to a nail, and lay thee down furthest from soil."
+      "title": "Çivi ve Çekiç",
+      "content": "Seni bir çiviye bağlayacağım ve seni topraktan en uzak yere koyacağım."
     },
     {
       "id": 41,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "For he who shan’t repent…"
+      "title": "Çivi ve Çekiç",
+      "content": "Çünkü tövbe etmeyen kimse…"
     },
     {
       "id": 42,
       "model": "히스클리프",
-      "content": "Oi, when are you gonna finish your stupidly long taunt?"
+      "content": "Hey, şu aptalca uzun alaycılığını ne zaman bitireceksin?"
     },
     {
       "id": 43,
       "model": "귀도",
       "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "…is not granted rest beneath the earth."
+      "title": "Çivi ve Çekiç",
+      "content": "…yer altında dinlenmeye izin verilmez."
     }
   ]
 }
