@@ -3,44 +3,44 @@
     {
       "id": 0,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "Hello! Anyone home?"
+      "title": "Azıavı Ofisi",
+      "content": "Merhaba! Evde kimse var mı?"
     },
     {
       "id": 1,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "Hmm~ I heard on good authority that this was your hideout... So I wonder why you're ignoring me?"
+      "title": "Azıavı Ofisi",
+      "content": "Hmm~ Güvenilir kaynaklardan duydum ki saklanma yerin burası... Acaba neden beni görmezden geliyorsun?"
     },
     {
       "id": 2,
-      "content": "The child strode confidently through the dilapidated, run-down hallway of an old building."
+      "content": "Çocuk eski bir binanın külüstür, eskimiş koridorlarında kendinden emin bir şekilde geziniyordu."
     },
     {
       "id": 3,
-      "content": "He comes to a sudden stop in front of a small door at the metallic stench of blood."
+      "content": "Metalik kan kokusu, onu küçük bir kapının önünde aniden durdurdu."
     },
     {
       "id": 4,
-      "content": "The child raises his hand, soft and clean, unlike his outfit and the brutish manner in which he carried himself. He gently places it on the doorhandle."
+      "content": "Çocuk elini kaldırdı, kuşanmış olduğu zırhın ve kendini etrafta sürüklemesinin kabalığı aksine, nazik ve temiz bir şekilde. Narince kapının kulpuna koydu."
     },
     {
       "id": 5,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "Excuse me, may I enter?"
+      "title": "Azıavı Ofisi",
+      "content": "Pardon, girebilir miyim"
     },
     {
       "id": 6,
-      "content": "His voice is bright and upbeat."
+      "content": "Sesi parlak ve neşeliydi."
     },
     {
       "id": 7,
-      "content": "... But between every knock, his voice drips with murderous intent so intense that it couldn't be masked."
+      "content": "... Fakat her bir tıklayışın arasında, sesi saklanamaz derece fazla bir kötü niyetle dolup taşıyordu."
     },
     {
       "id": 8,
-      "content": "Perhaps whoever was in hiding could sense it, too."
+      "content": "Sanırsam içerde saklanan her kimse, bunu o da sezmişti."
     },
     {
       "id": 9,
@@ -50,301 +50,301 @@
     },
     {
       "id": 10,
-      "content": "A barely-noticeable sound of breathing seeped past the doorframe."
+      "content": "Kapı eşiğinin arkasında neredeyse fark edilemeyecek bir nefes sesi vardı."
     },
     {
       "id": 11,
-      "content": "Barely noticeable."
+      "content": "Neredeyse fark edilemeyecek."
     },
     {
       "id": 12,
-      "content": "But that hint of profound terror carried by that slightest exhale... brought a grin to the child's lips. He simply could not help it."
+      "content": "Fakat o ufak nefes verişin taşıdığı o terör ve korku... çocuğun yüzüne bir gülümseme getirdi. Elinde değildi."
     },
     {
       "id": 13,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "Aha! Are we playing hide-and-seek? Pretending to be... unavailable?"
+      "title": "Azıavı Ofisi",
+      "content": "Aha! Saklambaç mı oynuyoruz? Müsait... Müsait değilmiş taklidi mi yapıyorsun?"
     },
     {
       "id": 14,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "Ha ha! I can hear your breathing, you know~ If you won't open up, then..."
+      "title": "Azıavı Ofisi",
+      "content": "Ha ha! Nefes alışını duyabiliyorum, farkında mısın~ Eğer kapıyı açmayacaksan..."
     },
     {
       "id": 15,
-      "content": "Still, there was no reply. But this silence seemed to have only emboldened the child."
+      "content": "Hala daha, hiçbir cevap yoktu. Fakat bu sükûnet çocuğu daha da gaza getirmişti."
     },
     {
       "id": 16,
-      "content": "He slowly and casually lifts his leg, then..."
+      "content": "Yavaşça bacağını kaldırdı, ve..."
     },
     {
       "id": 17,
-      "content": "... kicked the door down."
+      "content": "... kapıyı yere devirdi."
     },
     {
       "id": 18,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "... you leave me no choice but to let myself in!"
+      "title": "Azıavı Ofisi",
+      "content": "... bana kapıyı zorla açmak dışında bir seçenek bırakmadın!"
     },
     {
       "id": 19,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
-      "content": "Agh!"
+      "content": "Ahhh!"
     },
     {
       "id": 20,
-      "content": "The door splinters open, and..."
+      "content": "Kapı parçalanarak açılıyor, ve..."
     },
     {
       "id": 21,
-      "content": "... the Bloodfiend, who'd been hiding and listening from behind the door, gets flung across the room."
+      "content": "... Şu ana kadar kapının arkasında saklanan ve dinleyen Kan Hınzırı, odanın öbür ucuna uçuyor."
     },
     {
       "id": 22,
-      "content": "The child smiles cheerfully at the Bloodfiend on the ground."
+      "content": "Çocuk yerdeki Kan Hınzırına neşeli bir şekilde gülümsüyor."
     },
     {
       "id": 23,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "Aww. Why didn't you just open up when I asked you nicely? You gave me no option, you know."
+      "title": "Azıavı Ofisi",
+      "content": "Awww. Neden nazikçe sorduğumda açmadın ki kapıyı? Bana bıraktığın tek seçenek buydu, farkındasın değil mi?"
     },
     {
       "id": 24,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "It's not like we'll turn a blind eye and walk away just because you're holed up in here like a dirty little rat~"
+      "title": "Azıavı Ofisi",
+      "content": "Sırf burada küçük kirli bir fare gibi kendini kapattığın için seni göz ardı edip gidecek halimiz yoktu ya~"
     },
     {
       "id": 25,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
-      "content": "How... did you find this place...?"
+      "content": "Nasıl... burayı nasıl buldun...?"
     },
     {
       "id": 26,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "I'm impressed by the bond between you and your Family. They knew the addresses of every single one of their relatives, including yours..."
+      "title": "Azıavı Ofisi",
+      "content": "Sen ve o Ailen arasındaki bağa hastayım. Her bir akrabalarının adreslerini biliyorlardı, seninkini bile..."
     },
     {
       "id": 27,
-      "content": "The child lightly tapped a photograph framed on a wall with his hammer and took a slow look around the room."
+      "content": "Çocuk duvara çerçevelenmiş olan fotoğrafa çekiciyle yavaşça dokundu, ardından ise odanın kalanına iyice bir baktı."
     },
     {
       "id": 28,
-      "content": "There was a whole mound of letters on the table, while framed group photos with other Bloodfiends were placed about the room."
+      "content": "Masanın üzerinde bir düzine mektup vardı, etrafta da diğer Kan Hınzırlarıyla alınmış çerçeveli grup fotoğrafları."
     },
     {
       "id": 29,
-      "content": "The Bloodfiend realized that something must've happened to his Family."
+      "content": "Kan Hınzırı ailesine bir şey yaşandığını anladı."
     },
     {
       "id": 30,
-      "content": "Something... awful. If they were forced to spill even his location, then..."
+      "content": "Çok... felaket bir şey. Eğer onun yerini bile söyleyecek hale geldilerse..."
     },
     {
       "id": 31,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
-      "content": "W-wait! There's— There's been a misunderstanding. Can we talk first? Without waving that hammer in my face...?"
+      "content": "D-Dur! Bi— Bi' yanlış anlaşılma var. Konuşarak anlaşabilir miyiz? O çekici yüzümün önünde sallamadan...?"
     },
     {
       "id": 32,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "A... misunderstanding?"
+      "title": "Azıavı Ofisi",
+      "content": "Bir... yanlış anlaşılma?"
     },
     {
       "id": 33,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
-      "content": "Yeah! A misunderstanding! I've never... I've never hurt a human before!"
+      "content": "Evet! Bir yanlış anlaşılma! Ben... asla bir insana zarar vermedim!"
     },
     {
       "id": 34,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
-      "content": "I always kept to myself, drinking blood only from humans who were already dead!"
+      "content": "Her zaman kendime kapanık kaldım, yalnızca çoktan ölmüş olan insanlardan kan içtim!"
     },
     {
       "id": 35,
-      "content": "The Bloodfiend wasn't lying."
+      "content": "Kan Hınzırı yalan söylemiyordu."
     },
     {
       "id": 36,
-      "content": "Bloodfiends hiding out in this area were yet to hurt a human."
+      "content": "Bu bölgede yaşayan Kan Hınzırları hiçbir insanın kılına bile dokunmamıştı."
     },
     {
       "id": 37,
-      "content": "They've been stalking the Backstreets, subsisting on stale blood from corpses."
+      "content": "Arka Sokaklar'da geziniyorlardı, leşlerden kalma duru kanla geçinerek."
     },
     {
       "id": 38,
-      "content": "An inexperienced Fixer on their first Bloodfiend hunt might hesitate upon hearing this, but..."
+      "content": "Daha ilk Kan Hınzırı avına çıkmış tecrübesiz bir İşçözücü bunu duyduğunda tereddüt edebilirdi, ama..."
     },
     {
       "id": 39,
-      "content": "... it didn't matter to this child, who's been in the business for a while."
+      "content": "... uzun zamandır bu işi yapan çocuğun umrunda değildi."
     },
     {
       "id": 40,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "Ah~ Yep, I remember! That's exactly what your Family told me."
+      "title": "Azıavı Ofisi",
+      "content": "Ah~ Evet, hatırlıyorum! Ailen de aynı şeyi söylemişti."
     },
     {
       "id": 41,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
-      "content": "M-my Children would never spill the beans on me... Unless you— What have you done to my Family...?"
+      "content": "Ç-Çocuklarım asla benim hakkımda baklayı çıkarmazdı... Yoksa— Ne yaptın lan benim Aileme...?"
     },
     {
       "id": 42,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "They had the audacity to bite a human. How... uncivilized, hm? So, I employed a little ice-breaking trick grandfather taught me."
+      "title": "Azıavı Ofisi",
+      "content": "Bir insanı ısırmaya cüret ettiler. Ne kadar... terbiyesizce, hm? Ben de, doğal olarak dedemin bana öğrettiği küçük bi' buzları kırma tekniği uyguladım."
     },
     {
       "id": 43,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "And it worked! It really was a chatterbox; it started sharing all kinds of fun stories with me."
+      "title": "Azıavı Ofisi",
+      "content": "Ve çalıştı! O şey aslında çok da gevezeymiş; benimle bildiği her türlü komik hikayeyi paylaşmaya başladı."
     },
     {
       "id": 44,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
-      "content": "Broke the ice...? Y-you just tortured my Family!"
+      "content": "Buzları kırma...? Y-Yani direk Aileme işkence mi ettin!"
     },
     {
       "id": 45,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "Oh, don't be overdramatic. I don't think it was *that* bad. At least, not enough to be called 'torture'."
+      "title": "Azıavı Ofisi",
+      "content": "Ah, bu kadar dramatik olma. O kadar da kötü değildi. En azından, 'İşkence' denilecek kadar."
     },
     {
       "id": 46,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
-      "content": "Why... why are you doing this to us?! We've never even made a Bloodbag! Not one!"
+      "content": "Neden... neden bize bunları yapıyorsun?! Bir tane bile Kan Torbası yapmadık! Bir tane!"
     },
     {
       "id": 47,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
-      "content": "We just wanted to live! We just wanted to live a life like anyone else! Why are you doing this?!"
+      "content": "Sadece yaşamak istedik! Herkes gibi yaşamak! Neden bunu yapıyorsun?!"
     },
     {
       "id": 48,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "What? Oh, that's..."
+      "title": "Azıavı Ofisi",
+      "content": "Ne? Oh, yani..."
     },
     {
       "id": 49,
-      "content": "The child started, then stopped himself with a scoff."
+      "content": "Çocuk başladı, ardından ise alaycı bir şekilde durdu."
     },
     {
       "id": 50,
-      "content": "Maybe he thought whatever he said wouldn't matter."
+      "content": "Belki de anlatacağı şeylerin bir anlamı olmayacağını düşünmüştü."
     },
     {
       "id": 51,
-      "content": "So, the child's answer to the Bloodfiend's cries was far from logical... almost flippant."
+      "content": "Çocuğun Kan Hınzırının bağırışlarına olan cevabı mantıktan pek uzaktı... neredeyse küstah."
     },
     {
       "id": 52,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "Because you're a Bloodfiend. What other reason do I need?"
+      "title": "Azıavı Ofisi",
+      "content": "Çünkü sen bir Kan Hınzırısın. Başka nasıl bir nedene ihtiyacım olsun ki?"
     },
     {
       "id": 53,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
-      "content": "What... what the hell..."
+      "content": "Ne... Şaka mı..."
     },
     {
       "id": 54,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "Oops...! We've wasted enough time. Shall we begin? I hope to hear..."
+      "title": "Azıavı Ofisi",
+      "content": "Oopss...! Yeterince zaman kaybettik. Başlasak mı artık? Bu gece..."
     },
     {
       "id": 55,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "... many, many stories from you tonight, too."
+      "title": "Azıavı Ofisi",
+      "content": "... senden bolca hikaye duymak için can atıyorum."
     },
     {
       "id": 56,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "Stories about your family."
+      "title": "Azıavı Ofisi",
+      "content": "Ailen hakkında hikayeler."
     },
     {
       "id": 57,
-      "content": "The child produced a silver bottle and swished it in front of the Bloodfiend."
+      "content": "Çocuk gümüş bir şişe çıkarı ve Kan Hınzırının önüne attı."
     },
     {
       "id": 58,
-      "content": "Then..."
+      "content": "Ve..."
     },
     {
       "id": 59,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
-      "content": "Ahh-aghhhhhhh! Go away! Get that thing away from me!"
+      "content": "Ahh-Ahhhhhhh! Uzak dur! O şeyi bana yaklaştırma!"
     },
     {
       "id": 60,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "What's so scary about this little vial of water? Ha ha."
+      "title": "Azıavı Ofisi",
+      "content": "Bu küçük su şişesinden korkulacak ne var? Ha ha."
     },
     {
       "id": 61,
-      "content": "A drop of water falls through a small crack in the vial."
+      "content": "Şişenin üzerindeki küçük bir çatlaktan bir tanecik sum damlası oluşmaya başkadı."
     },
     {
       "id": 62,
-      "content": "As soon as the drop lands on his skin, the Bloodfiend begins to convulse, an inhuman scream escaping his mouth."
+      "content": "Damlacık onun tenine deydiği anda, Kan Hınzırı sarsıldı, ağzından insan dışı bir kükreyiş çıkararak."
     },
     {
       "id": 63,
-      "content": "The child continued to swish the vial in front of the Bloodfiend, until..."
+      "content": "Çocuk şişeyi Kan Hınzırının önünde sallamaya devam etti, ta ki..."
     },
     {
       "id": 64,
-      "content": "... he grew so exhausted that he couldn't even scream anymore. Then, the child picked up the hammer."
+      "content": "... çığlık bile atamayacak kadar yorulana kadar. Ardından, çocuk çekicini kavradı."
     },
     {
       "id": 65,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "That sure was scary, huh? Don't worry. I'll help you forget this horror soon enough."
+      "title": "Azıavı Ofisi",
+      "content": "Korkutucuydu, ha? Merak etme. Yakında bu korkuyu unutmana yardımcı olacağım."
     },
     {
       "id": 66,
-      "content": "As the Bloodfiend shuddered helplessly from the sheer horror engraved in his instincts, the child suddenly raised the hammer and brought it down upon his leg."
+      "content": "Kan Hınzırı içgüdülerine işlenmiş bu saf terörden titrerken, çocuk aniden çekici kaldırıp onun bacağına kavuşturdu."
     },
     {
       "id": 67,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
-      "content": "Gahhh!"
+      "content": "Ahhhhh!"
     },
     {
       "id": 68,
       "model": "홍루",
-      "title": "Fanghunt Office",
-      "content": "Wow~ You can regenerate from a crushed leg? Your kind sure are persistent~"
+      "title": "Azıavı Ofisi",
+      "content": "Wow~ Parçalanmış bir ayağı bile iyileştirebiliyor musun? Türün gerçekten dayanıklı~"
     },
     {
       "id": 69,
@@ -353,7 +353,7 @@
     {
       "id": 70,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "Just..."
     },
     {
@@ -363,7 +363,7 @@
     {
       "id": 72,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "How..."
     },
     {
@@ -373,13 +373,13 @@
     {
       "id": 74,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "Much blood have you drunk..."
     },
     {
       "id": 75,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "To keep regenerating like this?"
     },
     {
@@ -389,24 +389,24 @@
     {
       "id": 77,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "You're holding out for longer than I expected."
     },
     {
       "id": 78,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "But struggling won't change anything."
     },
     {
       "id": 79,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
       "content": "Why... but... why... are you so... cruel..."
     },
     {
       "id": 80,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
       "content": "I... never attack... a human... I live just like... humans do... a normal life..."
     },
@@ -417,31 +417,31 @@
     {
       "id": 82,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "What? Ha... haha. Wait, you're serious?"
     },
     {
       "id": 83,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "You are a monster. A beast, filled with nothing but yearning for blood. You can act like a human, but your nature... doesn't change."
     },
     {
       "id": 84,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "Sure, a few corpses might fill you up for now. But sooner or later, you won't be able to stand that yearning. Besides... you have other sins to answer for, don't you?"
     },
     {
       "id": 85,
-      "teller": "Bloodfiend",
+      "teller": "Kan Hınzırı",
       "title": "???",
       "content": "What... sins...? I just... I just want to live a quiet life... with my Family..."
     },
     {
       "id": 86,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "Whoa, would you look at the time! Let's wrap this up, okay?"
     },
     {
@@ -459,13 +459,13 @@
     {
       "id": 90,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "Family, huh..."
     },
     {
       "id": 91,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "Ha ha... that's a good one. I'm sure it mentioned the Family only because it didn't know who contracted me for this job, but... that's really funny."
     },
     {
@@ -479,13 +479,13 @@
     {
       "id": 94,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "Will your real family no longer be your own after you get turned into a Kindred?"
     },
     {
       "id": 95,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "I suppose that's why he protested his innocence to the end, but..."
     },
     {
@@ -499,7 +499,7 @@
     {
       "id": 98,
       "model": "홍루",
-      "title": "Fanghunt Office",
+      "title": "Azıavı Ofisi",
       "content": "... Bloodfiends are, at the end of the day, evil from the moment they are born. It's their nature."
     },
     {
