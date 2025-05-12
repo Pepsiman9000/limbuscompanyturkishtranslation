@@ -4,26 +4,26 @@
             "id": 0,
             "place": "Blossoming League of Nine Littérateurs",
             "model": "홍루",
-            "content": "You see, I called you this time, because..."
+            "content": "Şimdi, seni bir neden için çağırdım..."
         },
         {
             "id": 1,
             "model": "홍루",
-            "content": "I've made something interesting that I'd like to show."
+            "content": "Göstermek istediğim, pek ilginç bir icatta bulundum."
         },
         {
             "id": 2,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "Ahem..."
+            "content": "Öhöm..."
         },
         {
             "id": 3,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "Young-ji... What is this?"
+            "content": "Young-ji... Bu ne?"
         },
         {
             "id": 4,
@@ -33,111 +33,111 @@
         {
             "id": 5,
             "model": "홍루",
-            "content": "There are simply too many transient things that wilt all too soon, don't you think?"
+            "content": "Bu dünyada çok hızlı solan, gelip geçici çok şey var, haksız mıyım?"
         },
         {
             "id": 6,
             "model": "홍루",
-            "content": "The butterfly only wanted to lightly flutter, but to be punished with death for that crime... That felt too unfortunate."
+            "content": "Kelebek sadece kanatlarını çırpmak istiyordu, fakat bu suçundan dolayı ölüm cezasına çarptırılması... Çok talihsizce hissettiriyor beni."
         },
         {
             "id": 7,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "Did you... bring it back... from the dead? I thought that kind of technology was forbidden by the Head's treaty..."
+            "content": "Kelebeği... ölümden... geri mi dirilttin? Bu tip teknolojilerin Baş'ın antlaşması tarafından yasaklandığını sanıyordun..."
         },
         {
             "id": 8,
             "model": "이상",
-            "content": "It is no such case. Although the carcass remains inanimate, something has overridden it."
+            "content": "Böyle bir durum yok. Cesedi hareketsiz kalsa bile, bir şey bunun üstüne yazılıyor."
         },
         {
             "id": 9,
             "model": "홍루",
-            "content": "That's right. To be exact... it's the glass window."
+            "content": "Doğru. Tam olarak demek gerekirse... üstüne yazan şey camın ta kendisi."
         },
         {
             "id": 10,
             "model": "홍루",
-            "content": "The butterfly can now be free within it."
+            "content": "Kelebek artık camın içinde özgürce yaşayabilir."
         },
         {
             "id": 11,
             "model": "홍루",
-            "content": "Even if its wings dampen while trying to cross a pond, are gripped in somebody's hands and crumble to dust, or dry out due to the lack of flowers..."
+            "content": "Kanatları bir göleti geçmeye çalışırken ıslansa, başkalarının avucu içinde ufalansa, veyahut çiçeklerin yokluğundan kanatları solsa dahi..."
         },
         {
             "id": 12,
             "model": "홍루",
-            "content": "The butterfly won't stop. And eventually... in the distant future..."
+            "content": "Kelebek durmayacak. ve eninde sonunda... uzak gelecekte olsa dahi..."
         },
         {
             "id": 13,
             "model": "파우스트",
-            "content": "It'll make it across a sea."
+            "content": "Bir denizi aşabilecek."
         },
         {
             "id": 14,
             "model": "파우스트",
-            "content": "If that happens, will the butterfly no longer be afraid of the sea?"
+            "content": "Eğer bu yaşanırsa, kelebek bir daha denizden korkacak mı?"
         },
         {
             "id": 15,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Splendid, Young-ji. This level of technology could have numerous applications."
+            "content": "Harikasınız, Young-ji. Bu seviye bir teknolojinin muhakkak bir çok kullanım alanı olacaktır."
         },
         {
             "id": 16,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "Young-ji... Are you sure... you really made this just for the conference?"
+            "content": "Young-ji... Bunu sadece konferans... için yaptığına emin misin?"
         },
         {
             "id": 17,
             "model": "홍루",
-            "content": "What do you mean by that?"
+            "content": "Ne demeye çalışıyorsun?"
         },
         {
             "id": 18,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "A gathering where we show technology we've created as a hobby in our free time after returning from a day's work, sharing our thoughts..."
+            "content": "İşimizi gücümüzü bitirdikten sonra, boş vaktimizde hobi olarak yaptığımız icatları ve fikirlerimizi paylaştığımız nezih bir konferans..."
         },
         {
             "id": 19,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "Wasn't that the significance and appeal of the illuminators' conference our League had?"
+            "content": "Birliğimizin işlettiği bu konferansların asıl odak noktası ve ilgi çekici yanı bu değil miydi?"
         },
         {
             "id": 20,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "But this... It doesn't look like a simple hobbyhorse to me."
+            "content": "Ama bu... Bana sadece hobi olsun diye yapılacak bir şeye benzemiyor."
         },
         {
             "id": 21,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "League of Nine Littérateurs",
-            "content": "Are you still... not over what happened then..."
+            "content": "Hala... yaşananların üstesinden gelemedin..."
         },
         {
             "id": 22,
             "model": "홍루",
-            "content": "...That's... how you see it, Dongbaek..."
+            "content": "...Demek... olayı böyle yorumluyorsun, Dongbaek..."
         },
         {
             "id": 23,
             "model": "홍루",
-            "content": "I'd like to know what you think as well, Yi Sang."
+            "content": "Senin de fikrini bilmek isterim, Yi Sang."
         },
         {
             "id": 24,
@@ -147,27 +147,27 @@
         {
             "id": 25,
             "model": "이상",
-            "content": "As Dongrang rightfully assessed, this is nothing short of a great first discovery."
+            "content": "Dongrang'ın da haklı bir şekilde farkettiği gibi, bu buluş, oldukça büyük bir öneme sahipti."
         },
         {
             "id": 26,
             "model": "이상",
-            "content": "Alas..."
+            "content": "Ama maalesef ki..."
         },
         {
             "id": 27,
             "model": "이상",
-            "content": "If frost were to form on the glass window..."
+            "content": "Ayna olur da buzlanırsa..."
         },
         {
             "id": 28,
             "model": "이상",
-            "content": "It will blur the reflected image all the same."
+            "content": "Yansıyan resmi de bozacaktır muhakkak."
         },
         {
             "id": 29,
             "model": "이상",
-            "content": "As such, the frame of this glass window... will need to be made firmer and straighter."
+            "content": "Bu yüzden ki, camın ön cephesi... daha kaliteli ve sert yapıda olmalıydı."
         },
         {
             "id": 30,
@@ -177,37 +177,37 @@
         {
             "id": 31,
             "model": "홍루",
-            "content": "Yi Sang, you managed to see through its essence from just a single glance."
+            "content": "Yi Sang, camın iç mekanizmasını, tek bir bakışta çözmeyi başardın."
         },
         {
             "id": 32,
             "model": "홍루",
-            "content": "But personally... I can't seem to think of a way, so how about this instead?"
+            "content": "Fakat... Bunu nasıl yaptın bilmiyorum, ama bir fikrim var. Beni dinler misin?"
         },
         {
             "id": 33,
             "model": "홍루",
-            "content": "Yi Sang, try recreating it in your own way."
+            "content": "Yi Sang, aynayı kendi tarzında tekrardan üretmeye çalış."
         },
         {
             "id": 34,
             "model": "이상",
-            "content": "My own way..."
+            "content": "Kendi tarzımda..."
         },
         {
             "id": 35,
             "model": "홍루",
-            "content": "That's right. By the next conference."
+            "content": "Aynen. Sonraki konferansa dek."
         },
         {
             "id": 36,
             "model": "이상",
-            "content": "Is it... truly okay for me... to handle a technology as valuable as the glass window?"
+            "content": "Ayna gibi... oldukça değerli bir icadı... benim elden geçirmem gerçekten doğru mu?"
         },
         {
             "id": 37,
             "model": "홍루",
-            "content": "You got it wrong. I'm making this suggestion because it's valuable."
+            "content": "Yanlış anlama. Değerli olduğu için böyle bir teklifte bulunuyorum."
         }
     ]
 }
