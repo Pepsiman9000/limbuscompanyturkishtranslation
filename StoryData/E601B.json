@@ -8,15 +8,15 @@
         },
         {
             "id": 1,
-            "content": "Don Quixote loudly and obnoxiously flaps through the newspaper in her hands while peppering in a few insightful chuckles."
+            "content": "Don Quixote, elindeki gazeteyi yüksek sesle ve rahatsız edici bir şekilde karıştırdı."
         },
         {
             "id": 2,
-            "content": "Unfortunately, I now know exactly what this means."
+            "content": "Maalesef, bunun tam olarak ne anlama geldiğini biliyorum."
         },
         {
             "id": 3,
-            "content": "And..."
+            "content": "ve..."
         },
         {
             "id": 4,
@@ -25,81 +25,81 @@
         },
         {
             "id": 5,
-            "content": "... that she will continue to try to draw my attention until I acknowledge her at the most appropriate moment."
+            "content": "... onu en uygun anda fark edene kadar dikkatimi çekmeye devam edecek"
         },
         {
             "id": 6,
             "model": "단테",
-            "content": "<Okay, Don Quixote. Fine... What is it?>"
+            "content": "Tamam, Don Quixote. Ne var?>"
         },
         {
             "id": 7,
             "model": "돈키호테",
-            "content": "Hooah... Manager Esquire, dost thou know that the City's upstart companies, such as one Limbus Company, must always pay close heed to the ever-changing world around us?"
+            "content": "Hooah... Müdür Efendi, şehrin yükselen şirketlerinin, örneğin Limbus Şirketimiz gibi, etrafımızdaki sürekli değişen dünyaya dikkat etmesi gerektiğini biliyor musunuz?"
         },
         {
             "id": 8,
             "model": "돈키호테",
-            "content": "Hie thee hither! Read thy newspapers, Manager Esquire, and do keep thyself up-to-date on the events of the City! As Meursault and I, Don Quixote, do ere every morrow!"
+            "content": "Hadi gelin! Gazetelerinizi okuyun, Müdür Bey, ve şehirdeki olaylardan haberdar olun! Tıpkı Meursault ve ben, Don Quixote'nin, her sabah yaptığı gibi!"
         },
         {
             "id": 9,
             "model": "그레고르",
-            "content": "Bud, just go along with it, why don't ya? I'm pretty sure she's talking about Meursault and one of his morning routines. Y'know, the... the one with the newspapers?"
+            "content": "Ahbab, boşver takma şimdi. Eminim Meursault ve onun sabah rutinlerinden bahsediyor. Bilirsin, şu... gazete okuma rutini?"
         },
         {
             "id": 10,
             "model": "단테",
-            "content": "<Aha, the newspaper routine. Where he wakes up before the crack of dawn, parks himself on a chair, folds one leg over the other at an exact 90-degree 'figure-four-leg-lock' position, and peruses the morning newspaper?>"
+            "content": "<Aha, gazete rutini. Sabahın köründe uyanıp, bir bacağını diğerinin üzerine tam olarak 90 derecelik bir pozisyonunda atıp, sabah gazetesini okuduğu rutin.>"
         },
         {
             "id": 11,
             "model": "그레고르",
-            "content": "Uh-huh, that. I guess it left an impression on her. Betcha she'll be back to her usual self in a week or so."
+            "content": "Aynen öyle. Sanırım bu ona bir ilham verdi. Bahse varım bir hafta içinde ufaklık eski haline geri dönecektir"
         },
         {
             "id": 12,
             "model": "돈키호테",
-            "content": "Hearken unto me! Art thou paying attention?!?!"
+            "content": "Beni dinleyin! Dikkatinizi veriyor musunuz?!?!"
         },
         {
             "id": 13,
             "model": "단테",
-            "content": "<Uh... yep, totally. So what's new? What, did an article mention us or something?>"
+            "content": "<Uh... evet, tabii. Peki, ne var? Gazetede bizden falan mı bahsedildi?"
         },
         {
             "id": 14,
             "model": "돈키호테",
-            "content": "Oho! How didst thou know?"
+            "content": "Oho! Nasıl bildiniz?"
         },
         {
             "id": 15,
             "model": "단테",
-            "content": "<Wait, really?>"
+            "content": "<Bekle, cidde mi?>"
         },
         {
             "id": 16,
             "model": "돈키호테",
-            "content": "Forsooth, forsooth! Feast thy eyes on page-three! Though 'tis quite regrettable that we were robbed of the chance to be on the front page..."
+            "content": "Elbette, elbette! Üçüncü sayfaya bir bak! Tabii ki manşetten olma şansımızı kaybettiğimiz için oldukça üzücü..."
         },
         {
             "id": 17,
             "model": "로쟈",
-            "content": "Huhh?! Page three?! We're really starting to put our names out there, huh?"
+            "content": "Haah?! Üçüncü sayfa mı?! Gerçekten ismimizi duyurmaya başlıyoruz, ha?"
         },
         {
             "id": 18,
-            "content": "Don Quixote and Rodya, the two Sinners guaranteed to draw the full attention of whichever space they inhabit, were speaking. It was only a matter of time before the other Sinners began crowding around us, curious about the commotion."
+            "content": "Don Quixote ve Rodya, bulundukları herhangi bir alanın tam dikkatini çekmeyi garantileyen iki Günahkar, konuşuyorlardı. Diğer Günahkarların merakla etrafımızda toplanması an meselesiydi."
         },
         {
             "id": 19,
             "model": "돈키호테",
-            "content": "Ahem, ahem… A Dramatic Conclusion to the Mysterious Disappearances at T Corp.!"
+            "content": "Öhöm, öhöm… T Kuruluşundaki Gizemli Kayboluşlara Dramatik Bir Son!"
         },
         {
             "id": 20,
             "model": "돈키호테",
-            "content": "SHOCKING! The perpetrators to this mysterious case has been revealed to be none other than the prestigious Edgar Family, appalling the general public—"
+            "content": "ŞOK EDİCİ! Bu gizemli olayın faillerinin prestijli Edgar Ailesi olduğu ortaya çıktı, halkı şaşkına çevirdi—"
         },
         {
             "id": 21,
@@ -109,32 +109,32 @@
         {
             "id": 22,
             "model": "단테",
-            "content": "<W-well, I don't think we need to hear that part. What else does it say?>"
+            "content": "<Y-yani, sanırım o kısmı duymamıza gerek yok. Başka ne diyor?>"
         },
         {
             "id": 23,
             "model": "돈키호테",
-            "content": "Khm... With small assistance from some wandering bystanders who happened to be lost in the area, and with the most admirable heroics of the T Corp. Class 3 Collection Staff on the scene—"
+            "content": "Khm... Bölgede kaybolmuş bazı gezgin şahısların küçük yardımları ve olay yerindeki T Kuruluşu 3. Sınıf Personelinin en takdire şayan kahramanlıklarıyla—"
         },
         {
             "id": 24,
             "model": "이상",
-            "content": "Mm, 'wandering bystanders', is it...? Perchance that particular denomination refers to us?"
+            "content": "Hmm, 'gezgin şahıslar' mı...? Belki de bu özel tanım bizi kastediyordur"
         },
         {
             "id": 25,
             "model": "오티스",
-            "content": "... 'Bystanders'? They're treating us like we were barely there."
+            "content": "....'Şahıslar' mı? Bizi zar zor oradaymışız gibi gösteriyorlar."
         },
         {
             "id": 26,
             "model": "싱클레어",
-            "content": "They didn't even mention our company name..."
+            "content": "Şirketimizin adından bile bahsetmediler..."
         },
         {
             "id": 27,
             "model": "로쟈",
-            "content": "Aw, come on! Those Time Collectors weren't even there!"
+            "content": "Hadi ama! O T Kuruluşu Personelleri orada bile değildi!""
         },
         {
             "id": 28,
