@@ -3,209 +3,209 @@
         {
             "id": 0,
             "model": "화난 직원",
-            "teller": "Angry Employee",
-            "title": "Rosespanner Workshop",
-            "content": "...Hey! Is that still not done yet?!"
+            "teller": "Öfkeli Eleman",
+            "title": "Gülanahtar Atölyesi",
+            "content": "Hey! O hala daha bitmedi mi!?"
         },
         {
             "id": 1,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "Rosespanner Workshop",
-            "content": "It's in progress. It will be completed in about three hours."
+            "title": "Gülanahtar Atölyesi",
+            "content": "Daha devam ediyor. 3 saat içinde bitecek."
         },
         {
             "id": 2,
             "model": "빌붙는 직원",
-            "teller": "Mooching Employee",
-            "title": "Rosespanner Workshop",
-            "content": "Hey... Can you do me another favor? Haha, I'll buy you a drink after this."
+            "teller": "Aylak Eleman",
+            "title": "Gülanahtar Atölyesi",
+            "content": "Hey... Bana bi iyilik daha yapsan? Haha, sana bundan sonra bir içecek ısmarlarım."
         },
         {
             "id": 3,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "Rosespanner Workshop",
-            "content": "Place it on the third document stack from the right."
+            "title": "Gülanahtar Atölyesi",
+            "content": "Sağdan üçüncü döküman yığınına yerleştir."
         },
         {
             "id": 4,
-            "content": "This Fixer Office seems lively at all times."
+            "content": "Bu işçözücü ofisi her zaman canlı görünüyor."
         },
         {
             "id": 5,
-            "content": "This child's desk in particular was abuzz with voices."
+            "content": "Özellikle bu çocuğun masası seslerle doluydu."
         },
         {
             "id": 6,
-            "content": "...When you look at it, it also seems like the source of a majority of keyboard taps."
+            "content": "... Dikkatle bakarsanız, klavyenin takırtısı çoğu sesin kaynağıydı."
         },
         {
             "id": 7,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "Rosespanner Workshop",
-            "content": "Hello. This is Meursault from Rosespanner Workshop Office. I have a matter to discuss with you..."
+            "title": "Gülanahtar Atölyesi",
+            "content": "Merhaba. Ben Gülanahtar Ofisinden Meursault. Sizinle konuşmam gereken bir konu var."
         },
         {
             "id": 8,
-            "content": "Holding a phone in one hand, he types just as fast with the other."
+            "content": "Bir eliyle telefonu tutarken, diğeriyle olabildiğince hızlı yazıyordu."
         },
         {
             "id": 9,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "Rosespanner Workshop",
-            "content": "Yes, that is right. As always, we would like our newly developed tool to be tested by Tres Association..."
+            "title": "Gülanahtar Atölyesi",
+            "content": "Evet, bu doğru. Her zamanki gibi, yeni geliştirdiğimiz aletimizin Tres Birliği tarafından denenmesini istiyoruz."
         },
         {
             "id": 10,
-            "content": "He doesn't forget to make notes with a pen from time to time during all that."
+            "content": "Bütün bunlar olurken kalemiyle zaman zaman notlar almayı ihmal etmiyor."
         },
         {
             "id": 11,
-            "content": "<Messrs. Tres Association. 1. I am writing to you to inquire about our workshop's item.>"
+            "content": "<Sayın Tres Birliği. 1. Sizden yeni geliştirdiğimiz alet hakkında bilgi almak için yazıyorum.>"
         },
         {
             "id": 12,
-            "content": "The child must be taking care of procedures for putting some new gadget developed by the Workshop Office on sale."
+            "content": "Çocuğun Atölye Ofisi tarafından geliştirilen yeni bir aletin satışa sunulması için gerekli prosedürleri yerine getirmesi gerekli."
         },
         {
             "id": 13,
-            "content": "Tres Association, commonly called \"the workshop Association\", is in charge of evaluating all workshop-made products in the City."
+            "content": "Tres Derneği, yaygın adıyla 'Atölye Derneği' Şehirdeki tüm atölyelerde üretilen ürünleri değerlendirmekle görevlidir."
         },
         {
             "id": 14,
-            "content": "Well, they aren't harsh enough to go after small personal inventions, but... If you want to sell your item, you have to pass their evaluation and have it registered."
+            "content": "Küçük kişisel icatların arkasını kovalayacak kadar sert değiller ama... Eğer ürününüzü satmak istiyorsanız, değerlendirmelerinden geçmeniz ve tescil ettirmeniz gerekiyor."
         },
         {
             "id": 15,
-            "content": "Unauthorized distribution...is forbidden."
+            "content": "Yetkisiz dağıtım... Yasaktır."
         },
         {
             "id": 16,
             "model": "부탁이 많은 직원",
-            "teller": "Imploring Employee",
-            "title": "Rosespanner Workshop",
-            "content": "Oh... Are you done with the call? What did they say, did it go well?"
+            "teller": "Yalvaran Eleman",
+            "title": "Gülanahtar Atölyesi",
+            "content": "Ah... Telefon görüşmesi nasıldı? Ne dediler? İyi gitti mi?"
         },
         {
             "id": 17,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "Rosespanner Workshop",
-            "content": "Yes, as I am told. It's a simple device, so it's currently under the registration process."
+            "title": "Gülanahtar Atölyesi",
+            "content": "Evet. Bana söylendiği kadarıyla. Basit bir alet. Bu yüzden kayıt işlemleri devam ediyor."
         },
         {
             "id": 18,
             "model": "부탁이 많은 직원",
-            "teller": "Imploring Employee",
-            "title": "Rosespanner Workshop",
-            "content": "Great! Good job as always, buddy~!"
+            "teller": "Yalvaran Eleman",
+            "title": "Gülanahtar Atölyesi",
+            "content": "Güzel! Her zamanki gibi iyi iş çıkardın dostum~!"
         },
         {
             "id": 19,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "Rosespanner Workshop",
-            "content": "There are documents that need to be filled out for additional approval. From the top of the second document stack..."
+            "title": "Gülanahtar Atölyesi",
+            "content": "Ek onay için doldurulması gereken belgeler var. İkinci belge yığınının en üstünde..."
         },
         {
             "id": 20,
             "model": "부탁이 많은 직원",
-            "teller": "Imploring Employee",
-            "title": "Rosespanner Workshop",
-            "content": "Ahaha... I told you, you're free to do them however you want to."
+            "teller": "Yalvaran Eleman",
+            "title": "Gülanahtar Atölyesi",
+            "content": "Ahahaha... Onları sana dediğim gibi istediğin zaman istediğin şekilde yaparsın."
         },
         {
             "id": 21,
             "model": "뫼르소",
             "teller": "Meursault",
             "title": "Rosespanner Workshop",
-            "content": "...Understood."
+            "content": "...Anlaşıldı."
         },
         {
             "id": 22,
-            "content": "The child wouldn't ever turn down favors others asked of him."
+            "content": "Bu çocuk kendisinden istenen iyilekleri asla geri çevirmedi."
         },
         {
             "id": 23,
-            "content": "To be precise, he had no reason to."
+            "content": "Daha doğrusu, çevirmek için bir sebebi yoktu."
         },
         {
             "id": 24,
-            "content": "He was the most competent one in this Office, as well as being the quickest to handle work."
+            "content": "Kendisi ofisteki en yetenekli kişi olmakla beraber en hızlı iş yapanıydı."
         },
         {
             "id": 25,
-            "content": "The child knew this well..."
+            "content": "Çocukta bunu iyi biliyordu..."
         },
         {
             "id": 26,
-            "content": "And believed that it's natural for him to do the heavy lifting."
+            "content": "Ve ağır işleri yapmanın kendisi için normal olduğuna inanıyordu."
         },
         {
             "id": 27,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "Rosespanner Workshop",
+            "title": "Gülanahtar Atölyesi",
             "content": "Mm!"
         },
         {
             "id": 28,
-            "content": "Though he worked more frequently indoors than outdoors, he was superior in both types of labor."
+            "content": "Her ne kadar kapalı alanda açık alana göre daha sık çalışsa da her iki işte de üstündü."
         },
         {
             "id": 29,
-            "content": "He's been staying in his workplace for weeks now, traveling between the office and work sites without a single trip to home."
+            "content": "Haftalardır işyerinde kalıyor, ofis ile çalışma alanları arasında gidip geliyor, evine tek bir sefer bile gitmeye şansı kalmıyordu."
         },
         {
             "id": 30,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "Rosespanner Workshop",
-            "content": "...This is tiring."
+            "title": "Gülanahtar Atölyesi",
+            "content": "...Bu oldukça yorucu."
         },
         {
             "id": 31,
-            "content": "The child let out a tiny sigh, placing a hand on his temple."
+            "content": "Çocuk hafif bir iç çekerek elini şakağına koydu."
         },
         {
             "id": 32,
-            "content": "The monitor showed a line of text that said: <The mail address does not exist.>"
+            "content": "Bilgisayar <Bu posta adresi bulunmuyor.> Yazısını ekrana yansıtıyordu."
         },
         {
             "id": 33,
-            "content": "It's true, not every part of the City is interconnected in a network. It's natural that there are some clients that can only be reached with written letters."
+            "content": "Tabii ki. Şehrin her yeri bir ağ ile birbirine bağlı değildir. Bazı müşterilere sadece yazılı mektuplarla ulaşılabilmesi doğaldır."
         },
         {
             "id": 34,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "Rosespanner Workshop",
-            "content": "I will...have to write it again. This has put off the estimated time of completion by 2 hours and 17 minutes."
+            "title": "Gülanahtar Atölyesi",
+            "content": "Hepsini... Baştan yazmalıyım. Bu ise tahmini tamamlanma süresini 2 saat 17 dakika uzattı."
         },
         {
             "id": 35,
-            "content": "Murmuring to himself, the child picked up a pen."
+            "content": "Çocuk kendince mırıldanarak eline bir kalem aldı."
         },
         {
             "id": 36,
-            "content": "Normally, a workshop Fixer is like a blacksmith, keeping hammers and steel plates closer than pens or paper."
+            "content": "Normalde bir atölye işçözücüsü bir demirci gibidir; çekiçleri ve çelik levhaları kalem veya kağıttan daha yakın tutar."
         },
         {
             "id": 37,
-            "content": "But to this child, the line of work seems no different from an ordinary desk job, dealing with...mounds of overdue clerical work."
+            "content": "Ama bu çocuğa göre, iş kolu sıradan bir masa başı işinden, bir sürü gecikmiş büro işiyle uğraşmaktan farksız görünüyor."
         },
         {
             "id": 38,
             "model": "뫼르소",
             "teller": "Meursault",
-            "title": "Rosespanner Workshop",
-            "content": "...Yes, this is Meursault from Rosespanner Workshop Office. Please state your business."
+            "title": "Gülanahtar Atölyesi",
+            "content": "Evet... Ben Gülanahtar Ofisinden Meursault. Lütfen işten bahsediniz."
         },
         {
-            "content": "Still, perhaps it's thanks to him shouldering most of the desk work that this workshop can operate smoothly."
+            "content": "Yine de belki de bu atölyenin düzgün bir şekilde işleyebilmesinin sebebi, masa başı işlerin çoğunu onun üstlenmesidir."
         }
     ]
 }
