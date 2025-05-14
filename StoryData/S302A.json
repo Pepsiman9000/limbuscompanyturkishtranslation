@@ -4,27 +4,27 @@
       "id": 0,
       "place": "Aboard Mephistopheles",
       "model": "카론",
-      "content": "Cock-a-hoop Charon’s cock-a-hoop parking."
+      "content": "Hoppa danak Charon, hoppa danak park ediyor."
     },
     {
       "id": 1,
       "model": "베르길리우스",
-      "content": "Alright, off the bus. Time to get inspected."
+      "content": "Pekala, inin otobüsten. Denetlenme vakti."
     },
     {
       "id": 2,
       "model": "베르길리우스",
-      "content": "Ah, and let me add this just in case you’re feeling inclined to your usual antics."
+      "content": "Ah, her zamanki gibi soytarılık yapma eğiliminde hissediyorsanız diye şunu da ekleyeyim."
     },
     {
       "id": 3,
       "model": "베르길리우스",
-      "content": "Don’t go around making a scene expecting things to go your way…"
+      "content": "İşlerin sizin yolunuzda gitmesini bekleyerek etrafta olay çıkarmayın…"
     },
     {
       "id": 4,
       "model": "베르길리우스",
-      "content": "Because that will not be how it works in this particular place."
+      "content": "Çünkü işler burada öyle yürümüyor."
     },
     {
       "id": 5,
@@ -32,40 +32,40 @@
     },
     {
       "id": 6,
-      "place": "K Corp. Checkpoint",
+      "place": "K Kuruluşu Denetleme Noktası",
       "model": "더미2",
-      "teller": "Announcement",
-      "title": "K Corp. Checkpoint",
-      "content": "We welcome all visitors to K Corp’s Nest openheartedly."
+      "teller": "Duyuru",
+      "title": "K Kuruluşu Denetleme Noktası",
+      "content": "K Kuruluşu'nun yuvasına gelen tüm ziyaretcileri açık yüreklilikle karşılıyoruz."
     },
     {
       "id": 7,
       "model": "더미2",
       "teller": "Announcement",
-      "title": "K Corp. Checkpoint",
-      "content": "Please form an orderly line as you enter, and stand where the instructions indicate."
+      "title": "K Kuruluşu Denetleme Noktası",
+      "content": "Lütfen içeriye girerken düzenli bir sıraya girin ve talimatlarda belirtilen yerlerde durun."
     },
     {
       "id": 8,
-      "content": "The menacing and interrogative atmosphere could subdue the temper of any first-time visitors—and the Sinners were no exception."
+      "content": "Tehditkar ve sanki bir sorgudaymış havası veren atmosfer, ilk kez gelen her ziyaretçinin öfkesini dindiriyordu—Günahkarlar istisna değildi."
     },
     {
       "id": 9,
-      "content": "I could occasionally hear Sinclair sniffling, followed by Rodya and Gregor calming him."
+      "content": "Arada sırada Sinclair'in burnunu çekişini, ve sonra Gregor ile Rodya'nın onu sakinleştirmesini duyabiliyordum."
     },
     {
       "id": 10,
-      "content": "Any of my questions why were met with heads shaken sideways."
+      "content": "Sebebi her soruşum kafalarını sallamaları ile geçiştiriliyordu."
     },
     {
       "id": 11,
       "model": "베르길리우스",
-      "content": "Look here, how nice it is to see you all stay in line and behave. Like a brood of chicks on an outing."
+      "content": "Ooo, hepinizi tek sırada ve uslu görmek ne güzel. Sanki bir tavuk sürüsü hep birlikte dolaşıyormuş gibi."
     },
     {
       "id": 12,
       "model": "이스마엘",
-      "content": "Wait, why’re you out here…"
+      "content": "Bekle, sen niye buradasın?…"
     },
     {
       "id": 13,
@@ -74,34 +74,34 @@
     },
     {
       "id": 14,
-      "content": "Noticing my flustered reaction at the unexpected company, Vergilius opened his mouth."
+      "content": "Onun beklenmedik eşilik edişine karşı verdiğim telaşlı tepkiyi fark eden Vergilius, ağzını açtı"
     },
     {
       "id": 15,
       "model": "베르길리우스",
-      "content": "Because this is a Nest, Dante."
+      "content": "Çünkü burası bir yuva, Dante."
     },
     {
       "id": 16,
       "model": "베르길리우스",
-      "content": "If one of you were to get into unexpected trouble here…"
+      "content": "Eğer içinizden birisi burada başına beklenmedik bir bela alırsa…"
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "Well, Dante, the responsibility will be a bit too heavy for you to bear alone."
+      "content": "Bunun sorumluluğu senin tek başına sırtlayamacağın kadar ağır olur, Dante."
     },
     {
       "id": 18,
-      "content": "When Vergilius put it like that…"
+      "content": "Vergilius öyle anlattığında…"
     },
     {
       "id": 19,
-      "content": "It sounded as if he were saying “You’re not reliable enough to be sent without supervision.”"
+      "content": "Kulağıma sanki “Sen gözetimsiz gönderilecek kadar güvenilir değilsin.” diyormuş gibi geldi"
     },
     {
       "id": 20,
-      "content": "…But I knew it’d be wise to keep this to myself."
+      "content": "…Ama bu düşünceyi kendime saklamamın akıllıca olacağını biliyordum."
     }
   ]
 }
