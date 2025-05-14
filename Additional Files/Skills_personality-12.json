@@ -889,7 +889,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sacrifice for the Family",
+          "name": "Aile İçin Fedakarlık",
           "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain +15 additional [Laceration]",
           "coinlist": [
             {
@@ -913,7 +913,7 @@
         },
         {
           "level": 2,
-          "name": "Sacrifice for the Family",
+          "name": "Aile İçin Fedakarlık",
           "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
           "coinlist": [
             {
@@ -937,7 +937,7 @@
         },
         {
           "level": 4,
-          "name": "Sacrifice for the Family",
+          "name": "Aile İçin Fedakarlık",
           "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
           "coinlist": [
             {
@@ -966,7 +966,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suffocating Guilt",
+          "name": "Nefes Kesen Vicdan Azabı",
           "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]",
           "coinlist": [
             {
@@ -990,7 +990,7 @@
         },
         {
           "level": 2,
-          "name": "Suffocating Guilt",
+          "name": "Nefes Kesen Vicdan Azabı",
           "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]",
           "coinlist": [
             {
@@ -1014,7 +1014,7 @@
         },
         {
           "level": 4,
-          "name": "Suffocating Guilt",
+          "name": "Nefes Kesen Vicdan Azabı",
           "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and <style=\"highlight\">3</style> [BloodyHandGregFirst]",
           "coinlist": [
             {
@@ -1043,7 +1043,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "The Unforgivable Sin",
+          "name": "Bağışlanmaz Günah",
           "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal +1% more damage for every 1% missing HP on self (max 60%)\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self",
           "coinlist": [
             {
@@ -1077,7 +1077,7 @@
         },
         {
           "level": 4,
-          "name": "The Unforgivable Sin",
+          "name": "Bağışlanmaz Günah",
           "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal <style=\"highlight\">+1.5%</style> more damage for every 1% missing HP on self <style=\"highlight\">(max 90%)</style>\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n<style=\"highlight\">- If this unit consumed 20 Stack, Reuse the final Coin</style>\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self",
           "coinlist": [
             {
@@ -1116,7 +1116,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Faded Patience",
+          "name": "Biten Sabır",
           "desc": "[StartBattle] Gain 3 [WornHeartGreg] (once per turn)",
           "coinlist": [
             {
@@ -1130,7 +1130,7 @@
         },
         {
           "level": 4,
-          "name": "Faded Patience",
+          "name": "Biten Sabır",
           "desc": "<style=\"highlight\">[StartBattle] At 40%+ HP, gain 5 [Laceration] and activate [Laceration] up to 3 times on self (once per turn; lose [Laceration] Count equal to the number of times it was activated)\n[StartBattle] At less than 40% HP, consume up to 20 [BloodDinner] and heal the same value as HP (once per turn)</style>\n[StartBattle] Gain 3 [WornHeartGreg] (once per turn)",
           "coinlist": [
             {
@@ -1149,7 +1149,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flamethrow",
+          "name": "Alev püskürt",
           "desc": "If target has 6+ [Combustion], Coin Power +1",
           "coinlist": [
             {
@@ -1170,7 +1170,7 @@
         },
         {
           "level": 2,
-          "name": "Flamethrow",
+          "name": "Alev püskürt",
           "desc": "If target has <style=\"highlight\">3</style>+ [Combustion], Coin Power +1",
           "coinlist": [
             {
@@ -1191,7 +1191,7 @@
         },
         {
           "level": 4,
-          "name": "Flamethrow",
+          "name": "Alev püskürt",
           "desc": "<style=\"highlight\">Coin Power +1 for every 3 Burn on target (max 2)</style>",
           "coinlist": [
             {
@@ -1217,7 +1217,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll burn away every last drop of your filthy blood",
+          "name": "Pis kanının son damlasına kadar yakıp kül edeceğim",
           "desc": "If target has 6+ [Combustion], Coin Power +1\nWhen in [FirePunchFuelOverheated] state, deal +10% more damage with Coins that consumed [FirePunchFuel]",
           "coinlist": [
             {
@@ -1244,7 +1244,7 @@
         },
         {
           "level": 2,
-          "name": "I'll burn away every last drop of your filthy blood",
+          "name": "Pis kanının son damlasına kadar yakıp kül edeceğim",
           "desc": "If target has 6+ [Combustion], Coin Power +1\nCoins that consumed [FirePunchFuel] deal +10% more damage\n<style=\"highlight\">- When in [FirePunchFuelOverheated] state, deal +20% more damage instead</style>",
           "coinlist": [
             {
@@ -1271,7 +1271,7 @@
         },
         {
           "level": 4,
-          "name": "I'll burn away every last drop of your filthy blood",
+          "name": "Pis kanının son damlasına kadar yakıp kül edeceğim",
           "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on target (max 2)</style>\nCoins that consumed [FirePunchFuel] deal +<style=\"highlight\">15</style>% more damage\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">30</style>% more damage instead",
           "coinlist": [
             {
@@ -1303,7 +1303,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Firefist",
+          "name": "Ateş Yumruğu",
           "desc": "If target has 3+ [Combustion] Count, Coin Power +1\n[WhenUse] Base Power +1 for every 6 [Combustion] on target (max 2)\n[WhenUse] Consume up to 25 [FirePunchFuel] and deal +1% more damage for every [FirePunchFuel] consumed (max 25%)\n- When in [FirePunchFuelOverheated] state, deal +3% more damage for every [FirePunchFuel] consumed instead (max 75%)\n[EndSkill] If target is defeated, or if this Skill consumed [FirePunchFuel], gain 1 [HitDamageUp] next turn",
           "coinlist": [
             {
