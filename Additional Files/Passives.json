@@ -2077,6 +2077,47 @@
   "id": 1101231,
   "name": "Arkandayız",
   "desc": "Çatışma Başlangıcı: Can yüzdesi en az olan 1 müttefike 2 [DefenseUp] kendine uygulanır\n<style=\"highlight\">- Eğer bu müttefik 'Orta'dansa, ayrıca 2 [AttackUp] daha kendine uygulanır</style>"
-}
+},
+{
+      "id": 1061201,
+      "name": "Brainwave Charge-focusing Antlers",
+      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\n\nAt 2+ [Charge]:\n- Inflict +1 more [Sinking] with Base Attack Skills (does not activate when inflicting only [Sinking] Count or when inflicting [Sinking] on self)\n- Deal +([Charge] x 3)% damage with Base Attack Skills (max 15%)"
+    },
+    {
+      "id": 1061211,
+      "name": "Brainwave Charge-focusing Antlers",
+      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\n\nAt 2+ [Charge]:\n<style=\"highlight\">- Inflict +1 more [Sinking] with Base Attack Skills for every 2 [Charge] (max 2, does not activate when inflicting only [Sinking] Count or when inflicting [Sinking] on self)</style>\n- Deal +([Charge] x <style=\"highlight\">5</style>)% damage with Base Attack Skills (max <style=\"highlight\">25%</style>)"
+    },
+    {
+      "id": 1061221,
+      "name": "Charged Pulverization Support",
+      "desc": "1 ally with the most [Charge]: when using a Base Attack Skill that gains [Charge] Count, deal +10% damage with the final Coin"
+    },
+    {
+      "id": 1061231,
+      "name": "Charged Pulverization Support",
+      "desc": "1 ally with the most [Charge]: when using a Base Attack Skill that gains [Charge] Count, deal <style=\"highlight\">+15%</style> damage with the final Coin"
+    },
+    {
+      "id": 1121201,
+      "name": "Heishou Mutation [Si]",
+      "desc": "If the target has [BurstPoison], deal +5% damage for every [SnakeStance] on self (max 15%)\nIf this unit reduced the target's [BurstPoison] down to 0 Stack, gain 1 [PenetrateDamageUp] next turn (max 2)"
+    },
+    {
+      "id": 1121221,
+      "name": "Like a Serpent: Flexible, Elastic, and Unpredictable",
+      "desc": "If this unit is killed in this Encounter: every turn, at Combat Start, apply 2 [Breath] to the Substituting Identity of the earliest Deployment order"
+    },
+    {
+      "id": 1091201,
+      "name": "Heishou Mutation [Si]",
+      "desc": "If this unit has [SnakeStance], deal +5% damage\nIf target has [BurstPoison], deal +5% damage"
+    },
+    {
+      "id": 1091221,
+      "name": "Intravascular Venom",
+      "desc": "When 1 ally with the fastest Speed inflicts [Burst] damage to an enemy, inflict 1 [AttackDown] and 1 [DefenseDown] next turn (once per turn)"
+    }
+    
   ]
 }
