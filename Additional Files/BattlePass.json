@@ -194,7 +194,7 @@
     },
     {
       "id": "battle_pass_package_button_desc_with_limbus",
-      "content": "Çeşitli Ödüller\nÖzel Afiş Dahil\n+ [LIMBUS BİLETİ]"
+      "content": "Çeşitli Ödüller\nÖzel Afiş Dahil\n+ [LIMBUS BILETI]"
     },
     {
       "id": "battle_pass_package_purchase_popup_desc_in_box",
@@ -218,7 +218,7 @@
     },
     {
       "id": "battlepass_purchase_desc_ex",
-      "content": "Maksimum Bilet Seviyesi+ Ödüllerinden <style=\"highlightConverted\">{0}</style> yerine <style=\"highlightConverted\">{1}</style> Sezon 5 Seçilebilir Egoshard Sandığı alırsın"
+      "content": "Maksimum Bilet Seviyesi+ Ödüllerinden <style=\"highlightConverted\">{0}</style> yerine <style=\"highlightConverted\">{1}</style> Sezon 6 Seçilebilir Egoshard Sandığı alırsın"
     },
     {
       "id": "battlepass_purchase_desc_pass_level",
@@ -250,7 +250,7 @@
     },
     {
       "id": "battle_pass_product_package_with_limbus_desc_summary",
-      "content": "◆ Sezon 5 Limbus Bileti\n◆ Satın alındığında hemen 10 Bilet Seviyesi kazanırsın\n◆ Seviye Atlama Bileti V\n◆ Limbus Paketi Özel Afişi x2"
+      "content": "◆ Sezon 6 Limbus Bileti\n◆ Satın alındığında hemen 10 Bilet Seviyesi kazanırsın\n◆ Seviye Atlama Bileti V\n◆ Limbus Paketi Özel Afişi x2"
     },
     {
       "id": "battle_pass_product_package_without_limbus_desc_summary",
@@ -259,6 +259,10 @@
     {
       "id": "battle_pass_sale_10",
       "content": "%10 İndirim"
+    },
+    {
+      "id": "until_season_6_start",
+      "content": "- Sezon 7 Güncellemesine Kadar"
     }
   ]
 }
