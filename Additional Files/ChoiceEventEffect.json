@@ -443,6 +443,10 @@
     {
       "id": "Choice_EGO971054",
       "content": "Win the battle to gain E.G.O Gift \"Swishing Fuel Tank\""
+    },
+    {
+      "id": "LoseMpOnlyUntilMin",
+      "content": "<color=#ebcaa2>Reduce</color> <color=#fe4b48>SP to minimum value for</color> <color=#ebcaa2>{conditions}{targets}</color>"
     }
   ]
 }
