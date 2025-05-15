@@ -2450,10 +2450,45 @@
     },
     {
       "id": "RetaliationBookFamily",
-      "name": "Kardeş İntikam İşareti",
+      "name": "Bacanak İntikam İşareti",
       "desc": "- Max Stack: 1\n- Expires at Turn End\n- Every Identity treats this unit as having their İntikam İşareti",
       "summary": "",
       "undefined": "-"
-    }
+    },
+        {
+      "id": "BirdCage",
+      "name": "Searing Birdcage",
+      "desc": "Max Stack: 5\nIf this unit has Burn, Wrath Resistance +0.1 for every Stack (cannot exceed 2.0 Wrath Resistance with this effect)\nTurn End: gain Bind equal to Stack next turn\nTurn End: halve Stack (rounded down)\n※ Cannot gain additional Stacks of this effect while it is already active",
+      "summary": "Wrath Resistance +0.1 for every Stack",
+      "undefined": "-"
+    },
+    {
+      "id": "WideAreaRampage",
+      "name": "Unfocused Volley",
+      "desc": "- When this Skill flips Coins, each Coin flips against a random enemy among its targets\n· The first Coin always targets the main target\n· All 'On Hit' effects and all damage dealt by each Coin are inflicted only against the random target the Coin selected",
+      "summary": "Attack indiscriminately among targets",
+      "undefined": "-"
+    },
+    {
+      "id": "ActivatedEgoPassive",
+      "name": "E.G.O Passives",
+      "desc": "Active E.G.O Passives",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstPoison",
+      "name": "Deathrite【Venom】",
+      "desc": "Base Stack: 5\n- Deathrite\n- When getting Rupture triggered by a Critical Hit from the target, lose 1 Stack\n- When losing Stacks due to this effect, gain 1 Offense Level Down or 1 Defense Level Down (3 times per turn)\n- When losing Stacks due to this effect, if the Stack drops to 0, take Gluttony damage equal to Rupture Potency on self\n- ※ Cannot gain additional Stacks of this effect while it is already active",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SnakeStance",
+      "name": "Serpent Arm",
+      "desc": "Max Stack: 3\nTurn End: gain 3 Poise and +2 Poise Count next turn\nOn Base Attack Skill use, if target has Rupture, gain 5 Poise\nTurn End: lose 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    }    
   ]
 }
