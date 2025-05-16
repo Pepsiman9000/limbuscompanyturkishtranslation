@@ -66,7 +66,7 @@
     },
     {
       "id": "tuto_00_02_01_06",
-      "content": "Seçilmiş Yetenekler, birliklerin üzerinde duran Yetenek Yuvalarında gözükürler.\n\nSavaş fazı başladığında, her birlik Yetenek Yuvalarındaki Yetenekleri kullanarak savaşmaya başlar."
+      "content": "Seçilmiş Yetenekler, birimlerin üzerinde duran Yetenek Yuvalarında gözükürler.\n\nSavaş fazı başladığında, her birim Yetenek Yuvalarındaki Yetenekleri kullanarak savaşmaya başlar."
     },
     {
       "id": "tuto_00_02_01_07",
@@ -138,23 +138,23 @@
     },
     {
       "id": "tuto_00_03_01_01",
-      "content": "This time, let us learn about <color=#f8c200><SP><color=#ebcaa2>, or Sanity Points.\n\n<color=#f8c200><SP><color=#ebcaa2> has a maximum value of 45, and a minimum value of -45."
+      "content": "Sırada, <color=#f8c200><SP><color=#ebcaa2>, yani Sakinlik Puanı.\n\n<color=#f8c200><SP><color=#ebcaa2>nin maksimum değeri 45'tir, minimum ise -45."
     },
     {
       "id": "tuto_00_03_01_02",
-      "content": "Please note that the Sinners' <color=#f8c200><SP><color=#ebcaa2> values can also be viewed here, next to these orbs adjacent to the portrait icons on the Dashboard."
+      "content": "Günahkârların <color=#f8c200><SP><color=#ebcaa2> değeri aynı zamanda burada da gözükür."
     },
     {
       "id": "tuto_00_03_01_03",
-      "content": "Now, please issue a command."
+      "content": "Şimdi, lütfen bir emir ver."
     },
     {
       "id": "tuto_00_03_01_04",
-      "content": "Each unit's <color=#f8c200><SP><color=#ebcaa2> values change based on certain triggers.\nThey tend to heal SP with <color=#f8c200>favorable triggers(winning Clashes or killing enemies),<color=#ebcaa2>\nand lose SP with <color=#f8c200>unfavorable triggers.<color=#ebcaa2>"
+      "content": "Her birimin <color=#f8c200><SP><color=#ebcaa2> değeri belli unsurlara bağlı olarak değişir.\nÇoğunlukla avantajlı durumlarda SP yenilerler <color=#f8c200>(Çarpışma kazanmak veya düşman öldürmek),<color=#ebcaa2>\nAksi durumlarda ise <color=#f8c200>SP kaybederler.<color=#ebcaa2>"
     },
     {
       "id": "tuto_00_03_01_05",
-      "content": "<color=#f8c200>The higher the unit's <SP> value,<color=#ebcaa2> the <color=#f8c200>higher the chance to flip Heads<color=#ebcaa2> when flipping Skill Coins."
+      "content": "Bir Jetonun <color=#f8c200>Tura<color=#ebcaa2> gelme olaslığı %(50 + <color=#f8c200><SP><color=#ebcaa2>)dir.\nBu demek oluyor ki <color=#f8c200><SP><color=#ebcaa2> ne kadar yüksekse, senin için o kadar iyi. (Çoğu zaman)"
     },
     {
       "id": "tuto_00_03_02_01",
