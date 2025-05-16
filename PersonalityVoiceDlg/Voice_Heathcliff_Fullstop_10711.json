@@ -2,122 +2,122 @@
     "dataList": [
         {
             "id": "get_10711_1",
-            "desc": "Identity Acquisition",
+            "desc": "Kimlik Edinildiğinde",
             "dlg": "Silah yüklendi, namlu hazır. Mermi türü... Atelier Logic Yüksek Hızlı Parçalama Mermisi. Tamamdır. Ateşe hazır."
         },
         {
             "id": "lobby_morning_10711_1",
-            "desc": "Morning Greeting",
+            "desc": "Günaydın",
             "dlg": "Dışarısı... sabah mı olmuş? Etkinliğin başlamasına daha epey zaman var sanırım. Haah... ah, belim."
         },
         {
             "id": "lobby_noon_10711_1",
-            "desc": "Afternoon Greeting",
+            "desc": "Tünaydın",
             "dlg": "Öğlen vaktinde akşam yemeği hazırlığı ha? Kesin büyük bir şey olacak. Mermilerimin sağlam olduğundan emin olmalıyım..."
         },
         {
             "id": "lobby_night_10711_1",
-            "desc": "Evening Greeting",
+            "desc": "İyi Akşamlar",
             "dlg": "Liderleri ayini başlatınca, yemeğin ardından cemaate hitap ederken vuracağım. Bir mermi yeter."
         },
         {
             "id": "smalltalk_10711_1",
-            "desc": "Chatter #1",
+            "desc": "Muhabbet #1",
             "dlg": "Bu kadar kolay sıyrılabileceğimi düşünmemiştim. Kafalarına bir dişli yerleştirince neden lafına tapar hale geliyorlar, onu da anlayabilmiş değilim...\nNeyse, bu beklediğimden kolay olacak. Esir alma görevleri daha zor olur sanmıştım."
         },
         {
             "id": "smalltalk_10711_2",
-            "desc": "Chatter #2",
+            "desc": "Muhabbet #2",
             "dlg": "Silah üreten atölye pek kalmadı... Silah kullanan İşçözücü subayı da pek yok...  Eh, sanırım bu yüzden bu tür sözleşmeleri kapmakta sıkıntı yaşamıyoruz."
         },
         {
             "id": "smalltalk_10711_3",
-            "desc": "Chatter #3",
+            "desc": "Muhabbet #3",
             "dlg": "Dişli Kilisesi'nin yaptıklarını beğenmiyorum. Elbette beğenmiyorum. Ama... olan olmuş, sözleşme sözleşmedir. Fazla kafaya takmanın anlamı yok, nişanımı bozar.\nBu kadar pahalı mermilerle her atıştan verim alamazsam, yatırımın geri dönüşü olmaz."
         },
         {
             "id": "smalltalk_10711_4",
-            "desc": "Post-Uptie Chat 1",
+            "desc": "Rütbe Artırma Sonrası Muhabbet 1",
             "dlg": "Ananı sikeyim— Iskaladım! Oysa nişan düzgündü, doğrudan kafaya... O ‘lider’ de ne ayak be?!"
         },
         {
             "id": "smalltalk_10711_5",
-            "desc": "Post-Uptie Chat 2",
+            "desc": "Rütbe Artırma Sonrası Muhabbet 2",
             "dlg": "Yuh amına... Bunu çabucak bitirmemiz lazım... Bu silah uzun süreli çatışmalara gelmez! Savaş uzarsa namlu patlayana kadar ısınabilir!\nHey, aklına parlak bir şey geliyor mu?"
         },
         {
             "id": "neglect_10711_1",
-            "desc": "Idle",
+            "desc": "Boşta",
             "dlg": "....Hnh, azıcık kestirmişim galiba. ...Tsk. Hâlâ başlamalarını mı bekliyoruz?"
         },
         {
             "id": "gacksung_10711_1",
-            "desc": "Uptying",
+            "desc": "Rütbe Artırılken",
             "dlg": "Hassiktir, bizi fark ettiler! Geri çekilin! Ateşle karşılık vereceğim...!"
         },
         {
             "id": "formation_10711_1",
-            "desc": "Deployment",
+            "desc": "Yerleştirildiğine",
             "dlg": "Hıh, bu sözleşme için kaç mermi getirmem lazım?"
         },
         {
             "id": "battleentry_10711_1",
-            "desc": "Stage Entry",
+            "desc": "Sahne Girişi",
             "dlg": "Her mermiyi değerli kılalım. Bir atış, bir ölüm."
         },
         {
             "id": "battle_select_10711_1",
-            "desc": "Viewed in Battle",
+            "desc": "Üzerine Tıklandığında",
             "dlg": "... Nefesimi tutarken benle konuşma, kapiş?"
         },
         {
             "id": "battle_endcommand_10711_1",
-            "desc": "Commencing Attack",
+            "desc": "Saldırırken",
             "dlg": "Ateş açıyorum!"
         },
         {
             "id": "battle_enemy_break_10711_1",
-            "desc": "Enemy Stagger",
+            "desc": "Düşman Sersemlediğinde",
             "dlg": "Güzel, şimdiye kadar kolay geldi...!"
         },
         {
             "id": "battle_break_10711_1",
-            "desc": "Staggered",
+            "desc": "Sersemlediğinde",
             "dlg": "Ngh, amına koyayım..."
         },
         {
             "id": "battle_kill_10711_1",
-            "desc": "Enemy Killed",
+            "desc": "Düşman Ölünce",
             "dlg": "Direkt kafadan temiz bir atış. Tam isabet."
         },
         {
             "id": "battle_dead_10711_1",
-            "desc": "Death",
+            "desc": "Ölüm",
             "dlg": "Taşşak mı geçiyorsun... Daha işim bitmedi..."
         },
         {
             "id": "choice_success_p_10711_2",
-            "desc": "Check Passed",
+            "desc": "Kontrol Geçildi",
             "dlg": "Tamam, şimdi memnun musunuz?\nBir keskin nişancıya bu saçmalıkları yaptırmak da neyin nesi...?"
         },
         {
             "id": "choice_fail_n_10711_1",
-            "desc": "Check Failed",
+            "desc": "Kontrol Geçilmedi",
             "dlg": "Dedim ya, ben sadece silah kullanan bir adamım. Kim neden..."
         },
         {
             "id": "battle_clear_10711_1",
-            "desc": "Victory Cry",
+            "desc": "Zafer",
             "dlg": "'Bir tane daha indi... Umarım işini bitirmiştir. Bu iş için fazla mermi harcamamışımdır inşallah."
         },
         {
             "id": "battle_clear_ex_10711_1",
-            "desc": "Extra Conditions Fulfilled",
+            "desc": "Ek Koşullar Sağlandı",
             "dlg": "Hah, o kadar az ateş gücüyle bizi durdurabileceğinizi mi sandınız? Hadi, şu yarrak-kafalıların geride bıraktığı silahları toplayalım."
         },
         {
             "id": "battle_defeat_10711_1",
-            "desc": "Defeat Wail",
+            "desc": "Yenilgi Çığlığı",
             "dlg": "Daha dikkatli nişan almalıyımdım... Ya da yanlış mermi mi seçtim...? Hah, neyse... Önemli olan şu ki yeterince iyi değildim."
         }
     ]
