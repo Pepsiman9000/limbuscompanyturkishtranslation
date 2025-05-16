@@ -2,43 +2,43 @@
   "dataList": [
     {
       "id": "A1c971a",
-      "name": "Boiling Wrath",
-      "desc": "Every Turn Start: gain Burn equal to Turn Count",
+      "name": "Kaynayan Öfke",
+      "desc": "Her Tur Başında: Tur Sayısı kadar Yanma kazanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "A1c971b",
-      "name": "Propagating Gloom",
-      "desc": "Turn End: at 1 Stack, inflict damage equal to this unit's current HP against the enemy with the least HP, then die\nReduced by 1 at Turn End",
+      "name": "Yaygın Keder",
+      "desc": "Tur Sonu: 1 Miktar'da, en az cana sahip düşmana bu birimin mevcut canı kadar hasar verir, ardından ölür\nTur Sonu: 1 azalır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "A1c971c",
-      "name": "Perpetuating Gluttony",
-      "desc": "Turn Start: gain 1 HP heal boost every 2 turns (max 5)\nTurn Start: gain 1 Damage Up and 1 Clash Power Up for every 10 HP healed (max 5)\n\nHP Healed: {0}",
+      "name": "Sürekli Oburluk",
+      "desc": "Tur Başında: Her 2 turda 1 Can iyileşme artışı kazanılır (maksimum 5)\nTur Başında: İyileşen her 10 can için 1 Hasar Artışı ve 1 Çarpışma Gücü Artışı kazanılır (maksimum 5)\n\nİyileşen Can: {0}",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "A1c971d",
-      "name": "Gasping Breath",
-      "desc": "When gaining Poise, gain 3 additional Poise or +2 additional Poise Count",
+      "name": "Nefes Nefese",
+      "desc": "Dayanıklılık kazanırken, ek olarak 3 Dayanıklılık veya +2 ek [Breath] Miktarı kazanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "A1c971e",
-      "name": "Wounded Wound",
-      "desc": "On Hit, inflict 2 additional Bleed or +1 additional Bleed Count",
+      "name": "Yaralı Yara",
+      "desc": "Vurduğunda, ek olarak 2 Kanama veya +1 ek Kanama Miktarı verir",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "A1c971f",
-      "name": "Lazy Sloth",
-      "desc": "Reduced by 1 at Turn End.\nFails Extra Condition at 0",
+      "name": "Tembel Tembellik",
+      "desc": "Tur Sonu: 1 azalır.\n0 olduğunda Ek Şart başarısız olur",
       "summary": "",
       "undefined": "-"
     }
