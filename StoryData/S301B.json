@@ -16,7 +16,7 @@
     },
     {
       "id": 3,
-      "content": "Kendimi o garip bir biçimde tanıdık melodiyi mırıldanırken buldum, tabi ki kafamın içinde çünkü biliyorsunuz yani."
+      "content": "Kendimi o garip bir biçimde tanıdık olan melodiyi mırıldanırken buldum, tabi ki kafamın içinde çünkü biliyorsunuz yani."
     },
     {
       "id": 4,
@@ -25,7 +25,7 @@
     },
     {
       "id": 5,
-      "content": "Dedi Vergilius, Charon'a baktığımı anlayınca ."
+      "content": "Dedi Vergilius, Charon'a baktığımı anlayınca."
     },
     {
       "id": 6,
@@ -86,21 +86,21 @@
     },
     {
       "id": 18,
-      "content": "Ama bu görüntü çok kısa sürmüştü…"
+      "content": "Ama bu sahne Ağzı Çiçekli Adam gibi kısacıktı…"
     },
     {
       "id": 19,
-      "content": "Bende bunu parlak gün batımının kandırmacasına yormaya karar verdim."
+      "content": "Ben de bunu parlak gün batımının kandırmacasına yormaya karar verdim."
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "…Charon'un şu an mırıldandığı dünya, hem renkten ne de sesten yoksun."
+      "content": "…Charon'un şu an mırıldandığı dünya, hem renkten ne de sesten yoksun olandan."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "Sonu olmayan bir uzun tünelden geçiyor."
+      "content": "Sonu zevahir olmayan bir uzun tünelden geçiyor."
     },
     {
       "id": 22,
@@ -134,11 +134,11 @@
     },
     {
       "id": 29,
-      "content": "İlk defa toplandıkları işi yapıp bir Altın Dal'ı ele geçirmeleri buna yardımcı olmuştu."
+      "content": "İlk defa uğruna toplandıklar işi yapıp bir Altın Dal'ı ele geçirmeleri buna yardımcı olmuştu."
     },
     {
       "id": 30,
-      "content": "Tüm günahkarlar J Kuruluşu'nun Eyaleti'nde yaptıkları kahramanlıkları hakkında konuşmakla meşguldü."
+      "content": "Tüm günahkarlar J Kuruluşu'nun Eyaleti'nde yaptıkları hakkında konuşmakla meşguldü."
     },
     {
       "id": 31,
@@ -153,7 +153,7 @@
     {
       "id": 33,
       "model": "베르길리우스",
-      "content": "Bu sefer… K Kuruluşu'nun yuvasına gidiyoruz."
+      "content": "Bir sonraki durak… K Kuruluşu'nun yuvası."
     },
     {
       "id": 34,
@@ -163,7 +163,7 @@
     {
       "id": 35,
       "model": "돈키호테",
-      "content": "‘Tis home to another great individual! And you are certain to find a souvenir shop there! I’ve always yearned for a limited-edition figurine set!"
+      "content": "O Eyalet ki başka bir Zat-ı şahaneye daha ev sahipliği yapsın! Hatta muhakkak ki Hediyelik Eşya dükkanıyla  müftehir! Ben şahsen Sınırlı-Sayı Figür setine muntazırımdır!"
     },
     {
       "id": 36,
@@ -173,12 +173,12 @@
     {
       "id": 37,
       "model": "오티스",
-      "content": "Hoff… Hayat artık ne kadar daha kolay, değil mi? Benim zamanımda, ağzıma sadece bir tutam tuz atabiliyordum."
+      "content": "Hoff… Hayat artık ne kadar kolay, değil mi? Benim orduda görev sürdüğüm zamanlar, ağzımda sadece bir tutam tuzdan başka birşey yoktu."
     },
     {
       "id": 38,
       "model": "이스마엘",
-      "content": "Değil mi? Yolculuğumda boğazımdan geçen tek şey, tadı demir gibi olan konserve çorbalardı."
+      "content": "Değil mi? Yolculuğumda boğazımdan geçen tek şey, tadı demirden farksız olan konserve çorbalardı."
     },
     {
       "id": 39,
@@ -188,7 +188,7 @@
     {
       "id": 40,
       "model": "료슈",
-      "content": "Well, imagining the variances in blood-color by region does make me salivate."
+      "content": "Eh, etin bölge bölge kızaran kan rengini hayal etkmek ağız sulandırıyor."
     },
     {
       "id": 41,
@@ -202,7 +202,7 @@
     },
     {
       "id": 43,
-      "content": "Akla uygun şeyler konuşmak ve hikayeler paylaşmak için birisini arayan Rodya, doğal olarak Sinclair'e döndü."
+      "content": "Elle tutulur bir konuşma ve hikayeler paylaşma hasretinde Rodya, doğal olarak Sinclair'e döndü."
     },
     {
       "id": 44,
@@ -221,22 +221,22 @@
     {
       "id": 47,
       "model": "뫼르소",
-      "content": "Benzi atmış. Ayrıca normalden daha hızlı ve derin nefes alma ve titreme şikayetleri de var."
+      "content": "Benzi attı. Ayrıca normalden daha hızlı ve derin nefes alma ve titreme şikayetleri de var."
     },
     {
       "id": 48,
       "model": "단테",
-      "content": "<H—How long has he been like this?>"
+      "content": "<N-Ne zamandır bu durumda?>"
     },
     {
       "id": 49,
       "model": "뫼르소",
-      "content": "Bay Vergilius K Kuruluşu'ndan bahsettiğinden beri."
+      "content": "Bay Vergilius K Kuruluşu'ndan bahsettiğinden beridir."
     },
     {
       "id": 50,
       "model": "단테",
-      "content": "<Why didn’t you tell me earlier?>"
+      "content": "<Neden bana daha erken haber vermedin?>"
     },
     {
       "id": 51,
@@ -245,7 +245,7 @@
     },
     {
       "id": 52,
-      "content": "Meursault stared at me like I was at fault for not doing the obvious."
+      "content": "Meursault sanki yapılması gerekeni yapmamışım gibi bana baktı."
     },
     {
       "id": 53,
@@ -260,27 +260,27 @@
     {
       "id": 55,
       "model": "단테",
-      "content": "<Now that I think about it…>"
+      "content": "<Şimdi düşününce…>"
     },
     {
       "id": 56,
       "model": "단테",
-      "content": "<Faust, I’m noticing a trend where one of us has visceral reactions to the destinations that Vergilius reveals.>"
+      "content": "<Faust, berirli bir trend yakalıyorum ki ne zaman Vergilius durağımızı açıklarsa; içimizden birisine inme iniyor.>"
     },
     {
       "id": 57,
       "model": "단테",
-      "content": "<Additionally, when we arrive, it turns out that the place does have a history with the person in question.>"
+      "content": "<Ek olarak, vardığımızda, inme inen kişinin aslında o durakla çokca içli dışlı olduğunu öğreniyoruz.>"
     },
     {
       "id": 58,
       "model": "단테",
-      "content": "<Does that have something to do with the reason we joined the company?>"
+      "content": "<Bunun bizim Limbus Şirketine giriş sebebimizle bir bağı mı var?>"
     },
     {
       "id": 59,
       "model": "파우스트",
-      "content": "…You just referred to the team as “we”."
+      "content": "…Az önce Otobüs departmanına “biz” diye hitap ettiniz."
     },
     {
       "id": 60,
@@ -290,17 +290,17 @@
     {
       "id": 61,
       "model": "파우스트",
-      "content": "It’s a part of my mission to detect the slightest of changes."
+      "content": "Değişikliklerin en ufak zerrelerini yakalamak görevimin bir parçasıdır."
     },
     {
       "id": 62,
       "model": "파우스트",
-      "content": "As for your question, while I can’t tell you the reasons for recruiting the Sinners in detail…"
+      "content": "Sorunuza gelecek olursak, Günahkâr işe alım detaylarını sizinle paylaşmayacak olsam da…"
     },
     {
       "id": 63,
       "model": "파우스트",
-      "content": "There’d be no point in denying that our destinations and the backgrounds of each Sinner are indeed related to a degree."
+      "content": "Her Günahkârın geçmişlerinin ve sicillerinin duraklarımızla alakasını da reddetmek için bir sebep yok."
     },
     {
       "id": 64,
@@ -310,22 +310,22 @@
     {
       "id": 65,
       "model": "파우스트",
-      "content": "Hysteron proteron her zaman yanlış bir kullanım değildir. Faust yalnızca mevcut durumda en etkili iletişim yöntemi hangisiyse onu seçiyor."
+      "content": "Hysteron proteron her zaman doğru bir kullanım değildir. Faust yalnızca mevcut durumda en etkili iletişim yöntemi hangisiyse onu seçmekte."
     },
     {
       "id": 66,
       "model": "히스클리프",
-      "content": "Hyst… Hystero ne??"
+      "content": "Hyst… Hysterone??"
     },
     {
       "id": 67,
       "model": "파우스트",
-      "content": "…It means that you’re struggling to understand Faust because you’re too uneducated, not that Faust is overeducated."
+      "content": "…Anlamı: Faust'u anlamak için zorlanımanın sebebi eğitimsizliğinden, Faust'un iyi eğitimliliğinden değil."
     },
     {
       "id": 68,
       "model": "히스클리프",
-      "content": "Senin ben amına…!"
+      "content": "Senin ben ananı…!"
     },
     {
       "id": 69,
@@ -334,7 +334,7 @@
     },
     {
       "id": 70,
-      "content": "Tam Heathliff sinirden titreyen elindeki sopa ile Faust'a doğru yürürken…"
+      "content": "Tam Heathliff ellerindeki sinirden titreyen sopayla Faust'a doğru yürürken…"
     },
     {
       "id": 71,
