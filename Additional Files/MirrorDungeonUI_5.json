@@ -110,107 +110,107 @@
     },
     {
       "id": "dungeon_shop_heal_enter",
-      "content": "We can heal or revive a Sinner here.\nWhat should we do?"
+      "content": "Burada bir Gümnahkarı iyileştirebiliriz."
     },
     {
       "id": "dungeon_shop_heal_select_one",
-      "content": "HP and SP healed for {0}."
+      "content": "{0} için HP ve SP iyileşti."
     },
     {
       "id": "dungeon_shop_heal_all",
-      "content": "All Sinners' HP and SP have been healed."
+      "content": "Tüm günahkarların HP ve SP'leri iyileştirildi"
     },
     {
       "id": "dungeon_shop_heal_revive_select_one",
-      "content": "{0}, revived, returns to battle."
+      "content": "{0}, dirildi, savaşa geri dönüyor."
     },
     {
       "id": "mirrordungeon_revive_log",
-      "content": "Grace of Stars Activated\n[{0}] Revived"
+      "content": "Yıldızların Lütfu Çalıştı!\nve[{0}] dirildi"
     },
     {
       "id": "mirror_start_buff_unlock_condition_needs_held_buff_points",
-      "content": "At {0}+ Rest Bonus"
+      "content": "{0}+ Dinlenme Bonusu"
     },
     {
       "id": "mirror_start_buff_purchase_modal_after_selected_bonus",
-      "content": "Remaining Rest Bonus"
+      "content": "Geriyen Kalan Dinlenme Bonusu"
     },
     {
       "id": "mirror_start_buff_purchase_modal_exchanged_cost",
-      "content": "Cost"
+      "content": "Maliyet"
     },
     {
       "id": "mirror_start_buff_purchase_modal_title",
-      "content": "Select Grace of Stars"
+      "content": "Yıldızların Lütfu seç"
     },
     {
       "id": "mirror_start_buff_purchase_modal_description",
-      "content": "Will you select these effects?"
+      "content": "Bu etkileri şeçmek istediğine emin misin?"
     },
     {
       "id": "mirror_start_buff_purchase_modal_purchase_description",
-      "content": "Remaining Rest Bonus will be converted to Cost"
+      "content": "Kalan Dinlenme Bonusu Maliyete dönüştürülecektir"
     },
     {
       "id": "mirror_start_buff_applied_passive",
-      "content": "Grace of Stars Passive"
+      "content": "Yıldızların Lütfu Pasifi"
     },
     {
       "id": "mirror_dungeon_start_buff_Panel_title",
-      "content": "Grace of the Dreaming Star"
+      "content": "Yıldızların Düşleyen Lütfu"
     },
     {
       "id": "mirror_shop_purchase_complete",
-      "content": "Purchased"
+      "content": "Satın Alınan"
     },
     {
       "id": "mirror_start_buff_purchase_modal_not_selected_any_buff",
-      "content": "Don't Select Any"
+      "content": "Hiçbirini Seçme"
     },
     {
       "id": "dungeon_shop_heal_title_all_season5",
-      "content": "Moderately heal every Sinner."
+      "content": "Her günahkarı orta derecede iyileştir."
     },
     {
       "id": "dungeon_shop_heal_title_one_season5",
-      "content": "Greatly heal a single Sinner."
+      "content": "Tek bir günahkarı büyük ölçüde iyileştir."
     },
     {
       "id": "dungeon_shop_revive_title_one_season5",
-      "content": "Revive a single Sinner."
+      "content": "Bir Günahkarı dirilt."
     },
     {
       "id": "dungeon_shop_revive_one_select_ask",
-      "content": "Select the Sinner to revive."
+      "content": "Dirilecek Günhakarı seç."
     },
     {
       "id": "mirror_dungeon_block_to_click_hard_theme_list",
-      "content": "Clear Canto 6\nto Unlock"
+      "content": "Açmak için\n Canto 6'yı geçin."
     },
     {
       "id": "mirrordungeon_theme_hard_blocked",
-      "content": "Clear Canto 6\nto Unlock"
+      "content": "Açmak için\n Canto 6'yı geçin."
     },
     {
       "id": "mirrordungeon_shop_heal_title",
-      "content": "Heal Sinners"
+      "content": "Günahkarlı İyileştir"
     },
     {
       "id": "mirrordungeon_shop_title",
-      "content": "Shop"
+      "content": "Mağaza"
     },
     {
       "id": "mirror_dungeon_progress_text_5",
-      "content": "Mirror of the Dreaming - F{0}"
+      "content": "Düşleyen Ayna - K{0}"
     },
     {
       "id": "mirror_dungeon_progress_awaiting_reward_claim",
-      "content": "Unclaimed Rewards"
+      "content": "Alınmamış Ödüller"
     },
     {
       "id": "mirrordungeon_egogift_combine_bonus_gift",
-      "content": "Grace of Stars Activated\nFor Fusion & Sale Gifts obtained"
+      "content": "Yıldızların Lütfu Aktifleşti\nFüzyon ve E.G.O Hediyeleri elde edildi"
     },
     {
       "id": "mirror_5_battle_reward_card_guide_table_1_desc_0_1",
@@ -218,187 +218,179 @@
     },
     {
       "id": "mirror_5_battle_reward_card_guide_table_1_desc_0_2",
-      "content": "HARD"
+      "content": "ZOR"
     },
     {
-      "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_1",
-      "content": "Regular Encounter : 7.5%\nFocused Encounter : -\nElite Encounter : -\nAbno. Encounter: -\nBoss Encounter : 100%"
-    },
-    {
-      "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_2",
-      "content": "Regular Encounter : 7.5%\nFocused Encounter : -\nElite Encounter : -\nAbno. Encounter: -\nBoss Encounter : 100%"
-    },
-    {
-      "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_1",
-      "content": "Regular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nAbno. Encounter: -\nBoss Encounter : 100%"
-    },
-    {
-      "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_2",
-      "content": "Regular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nAbno. Encounter: -\nBoss Encounter : 100%"
-    },
-    {
-      "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_1",
-      "content": "Regular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nAbno. Encounter: 100%\nBoss Encounter : 100%"
-    },
-    {
-      "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_2",
-      "content": "Regular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nAbno. Encounter: 100%\nBoss Encounter : 100%"
-    },
-    {
-      "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_1",
-      "content": "Regular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nAbno. Encounter: 100%\nBoss Encounter : 100%"
-    },
-    {
-      "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_2",
-      "content": "Regular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nAbno. Encounter: 100%\nBoss Encounter : 100%"
-    },
-    {
-      "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_1",
-      "content": "Regular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nAbno. Encounter: 100%\nBoss Encounter : -"
-    },
-    {
-      "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_2",
-      "content": "Regular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nAbno. Encounter: 100%\nBoss Encounter : -"
-    },
-    {
-      "id": "mirrordungeon_additional_cost_by_start_bonus",
-      "content": "Grace of Stars Activated\nCost gained"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_desc",
-      "content": "Each E.G.O Gift has varying 'Points' for Fusion depending on their Tier."
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_tier_header",
-      "content": "E.G.O Gift Tiers"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_score_header",
-      "content": "Points"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_tier_1",
-      "content": "Tier 1"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_tier_1_score",
-      "content": "3"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_tier_2",
-      "content": "Tier 2"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_tier_2_score",
-      "content": "6"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_tier_3",
-      "content": "Tier 3"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_tier_3_score",
-      "content": "10"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_tier_4",
-      "content": "Tier 4"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_tier_4_score",
-      "content": "15"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_tier_5",
-      "content": "Tier 5"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_score_tier_5_score",
-      "content": "30"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_label",
-      "content": "The Fusion E.G.O Gift Tier is determined by the tally of Points from each ingredient."
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_total_header",
-      "content": "Point Tally"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_tier_header",
-      "content": "Fusion E.G.O Gift Tier"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_total_1",
-      "content": "10- Points"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_tier_1",
-      "content": "Tier 1"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_total_2",
-      "content": "11~16 Points"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_tier_2",
-      "content": "Tier 2"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_total_3",
-      "content": "17 ~ 24 Points"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_tier_3",
-      "content": "Tier 3"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_total_4",
-      "content": "25+ Points"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_tier_4",
-      "content": "Tier 4"
-    },
+  "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_1",
+  "content": "Normal Karşılaşma: %7.5\nOdaklı Karşılaşma: -\nSeçkin Karşılaşma: -\nAnormal Karşılaşma: -\nBoss Karşılaşması: %100"
+},
+{
+  "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_2",
+  "content": "Normal Karşılaşma: %7.5\nOdaklı Karşılaşma: -\nSeçkin Karşılaşma: -\nAnormal Karşılaşma: -\nBoss Karşılaşması: %100"
+},
+{
+  "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_1",
+  "content": "Normal Karşılaşma: %10\nOdaklı Karşılaşma: %20\nSeçkin Karşılaşma: %33\nAnormal Karşılaşma: -\nBoss Karşılaşması: %100"
+},
+{
+  "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_2",
+  "content": "Normal Karşılaşma: %10\nOdaklı Karşılaşma: %20\nSeçkin Karşılaşma: %33\nAnormal Karşılaşma: -\nBoss Karşılaşması: %100"
+},
+{
+  "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_1",
+  "content": "Normal Karşılaşma: %10\nOdaklı Karşılaşma: %20\nSeçkin Karşılaşma: %33\nAnormal Karşılaşma: %100\nBoss Karşılaşması: %100"
+},
+{
+  "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_2",
+  "content": "Normal Karşılaşma: %10\nOdaklı Karşılaşma: %20\nSeçkin Karşılaşma: %33\nAnormal Karşılaşma: %100\nBoss Karşılaşması: %100"
+},
+{
+  "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_1",
+  "content": "Normal Karşılaşma: %12.5\nOdaklı Karşılaşma: %25\nSeçkin Karşılaşma: %50\nAnormal Karşılaşma: %100\nBoss Karşılaşması: %100"
+},
+{
+  "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_2",
+  "content": "Normal Karşılaşma: %12.5\nOdaklı Karşılaşma: %25\nSeçkin Karşılaşma: %50\nAnormal Karşılaşma: %100\nBoss Karşılaşması: %100"
+},
+{
+  "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_1",
+  "content": "Normal Karşılaşma: %12.5\nOdaklı Karşılaşma: %25\nSeçkin Karşılaşma: %50\nAnormal Karşılaşma: %100\nBoss Karşılaşması: -"
+},
+{
+  "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_2",
+  "content": "Normal Karşılaşma: %12.5\nOdaklı Karşılaşma: %25\nSeçkin Karşılaşma: %50\nAnormal Karşılaşma: %100\nBoss Karşılaşması: -"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_score_desc",
+  "content": "Her E.G.O Hediyesinin füzyon için 'Puan' değeri, Seviyesine göre değişiklik gösterir."
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_score_tier_header",
+  "content": "E.G.O Hediyesi Seviyeleri"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_score_score_header",
+  "content": "Puanlar"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_score_tier_1",
+  "content": "Seviye 1"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_score_tier_1_score",
+  "content": "3"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_score_tier_2",
+  "content": "Seviye 2"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_score_tier_3",
+  "content": "Seviye 3"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_score_tier_3_score",
+  "content": "10"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_score_tier_4",
+  "content": "Seviye 4"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_score_tier_4_score",
+  "content": "15"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_score_tier_5",
+  "content": "Seviye 5"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_score_tier_5_score",
+  "content": "30"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_label",
+  "content": "Füzyon E.G.O Hediyesi Seviyesi, her bileşenden gelen Puanların toplamına göre belirlenir."
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_total_header",
+  "content": "Puan Toplamı"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_tier_header",
+  "content": "Füzyon E.G.O Hediyesi Seviyesi"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_total_1",
+  "content": "10- Puan"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_tier_1",
+  "content": "Seviye 1"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_total_2",
+  "content": "11~16 Puan"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_tier_2",
+  "content": "Seviye 2"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_total_3",
+  "content": "17 ~ 24 Puan"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_tier_3",
+  "content": "Seviye 3"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_total_4",
+  "content": "25+ Puan"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_tier_4",
+  "content": "Seviye 4"
+},
     {
       "id": "mirrordungeon_egogift_combine_guide_season_5_etc_1",
-      "content": "※ Any E.G.O Gifts currently in your possession cannot be obtained as a Fusion result."
+      "content": "※ Sahip olduğunuz E.G.O Hediyeleri füzyon sonucu olarak elde edilemez."
     },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_2",
-      "content": "※ E.G.O Gifts consumed as ingredients for a Fusion cannot be obtained from that Fusion. However, E.G.O Gifts that have already been consumed as ingredients in previous Fusions can be obtained as a Fusion result."
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_3",
-      "content": "※ If you have obtained every possible E.G.O Gift obtainable in that specific Tier + Keyword combination, you will receive an E.G.O Gift of a different Keyword in the same Tier."
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_4",
-      "content": "※ If you have obtained every possible E.G.O Gift obtainable from the resultant Tier, you will receive a Fusion & Sale Only E.G.O Gift."
-    },
+{
+  "id": "mirrordungeon_egogift_combine_guide_season_5_etc_2",
+  "content": "※ Füzyon malzemesi olarak kullanılan E.G.O Hediyeleri, o füzyondan elde edilemez. Ancak daha önce füzyon malzemesi olarak kullanılmış E.G.O Hediyeleri füzyon sonucu olarak elde edilebilir."
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_season_5_etc_3",
+  "content": "※ Belirli bir Seviye + Anahtar Kelime kombinasyonunda elde edilebilecek tüm E.G.O Hediyelerine sahipseniz, aynı Seviyede farklı bir Anahtar Kelimeye sahip E.G.O Hediyesi alırsınız."
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_season_5_etc_4",
+  "content": "※ Sonuç Seviyesinden elde edilebilecek tüm E.G.O Hediyelerine sahipseniz, yalnızca Füzyon & Satış için olan özel bir E.G.O Hediyesi alırsınız."
+},
     {
       "id": "mirrordungeon_upgrade_shop_title",
-      "content": "<color=#990000>Super Shop</color>"
+      "content": "<color=#990000>Süper Mağaza</color>"
     },
     {
       "id": "mirrordungeon_upgrade_shop_rate_in_next_floor",
-      "content": "Super Shop\nOn Next Floor?"
+      "content": "Süper Mağanaza\nSonraki Kat?"
     },
     {
       "id": "mirror_start_buff_unlock_condition_lack_of_current_point",
-      "content": "Not Enough Rest Bonus"
+      "content": "Yeterli Dinlenme Bonusun Yok"
     },
     {
       "id": "mirror_theme_pack_baton",
-      "content": "Long Battle"
+      "content": "UZUN Savaş"
     },
     {
       "id": "mirrordungeon_theme_hard_no_pool",
-      "content": "You now meet the conditions to unlock the Hard difficulty. You can switch difficulties starting from next Floor Theme Pack menu."
+      "content": "Zor zorluk seviyesinin kilidini açma koşullarını karşıladınız. Bir sonraki Kat Teması menüsünden zorluk seviyesini değiştirebilirsiniz."
     },
     {
       "id": "new_ego_gift_combine_guide_table_1_desc_3_0",
-      "content": "4+ Gifts"
+      "content": "4+ Hediyeler"
     },
     {
       "id": "new_ego_gift_combine_guide_table_1_desc_3_1",
@@ -406,139 +398,139 @@
     },
     {
       "id": "mirrordungeon_level_up_by_long_battle_theme",
-      "content": "Long Battle Reward Gained\nIdentity Levels +3"
+      "content": "Uzun Savaş Kazanıldı\nBütün Kişilikler +3 Seviye Kazandı"
     },
+{
+  "id": "mirror_dungeon_5_buffs_title_100",
+  "content": "Başlangıç Yıldızı"
+},
+{
+  "id": "mirror_dungeon_5_buffs_title_101",
+  "content": "Biriken Yıldız Bulutu"
+},
+{
+  "id": "mirror_dungeon_5_buffs_title_102",
+  "content": "Yıldızlararası Yolculuk"
+},
+{
+  "id": "mirror_dungeon_5_buffs_title_103",
+  "content": "Yıldız Yağmuru"
+},
+{
+  "id": "mirror_dungeon_5_buffs_title_104",
+  "content": "İkili Yıldız Dükkanı"
+},
+{
+  "id": "mirror_dungeon_5_buffs_title_105",
+  "content": "Ay Yıldız Dükkanı"
+},
+{
+  "id": "mirror_dungeon_5_buffs_title_106",
+  "content": "Bulutsuların Lütfu"
+},
+{
+  "id": "mirror_dungeon_5_buffs_title_107",
+  "content": "Yıldız Işığı Rehberliği"
+},
+{
+  "id": "mirror_dungeon_5_buffs_title_108",
+  "content": "Şans Kuyruklu Yıldızı"
+},
+{
+  "id": "mirror_dungeon_5_buffs_title_109",
+  "content": "Mükemmel Olasılık"
+},
     {
-      "id": "mirror_dungeon_5_buffs_title_100",
-      "content": "Star of the Beginning"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_title_101",
-      "content": "Cumulating Starcloud"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_title_102",
-      "content": "Interstellar Travel"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_title_103",
-      "content": "Star-shower"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_title_104",
-      "content": "Binary Star-shop"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_title_105",
-      "content": "Moon Star-shop"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_title_106",
-      "content": "Favor of the Nebulae"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_title_107",
-      "content": "Starlight Guidance"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_title_108",
-      "content": "Chance Comet"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_title_109",
-      "content": "Perfected Possibility"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_over10",
-      "content": "At [10]+ Rest Bonus"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_over20",
-      "content": "At [20]+ Rest Bonus"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_over30",
-      "content": "At [30]+ Rest Bonus"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs_over40",
-      "content": "At [40]+ Rest Bonus"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs__over50",
-      "content": "At [50]+ Rest Bonus"
-    },
-    {
-      "id": "mirror_dungeon_5_buffs__over60",
-      "content": "At [60]+ Rest Bonus"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_label_upgrade",
-      "content": "Fusing in a Super Shop adds a special modifier to the required tally of the Points from each ingredient."
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_total_1_upgrade",
-      "content": "9- Points"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_total_2_upgrade",
-      "content": "10 ~ 14 Points"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_total_3_upgrade",
-      "content": "15 ~ 21 Points"
-    },
-    {
-      "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
-      "content": "22+ Points"
-    },
-    {
-      "id": "mirrordungeon_start_bonus_personality_title",
-      "content": "Rest Bonus Retention Units"
-    },
-    {
-      "id": "mirrordungeon_start_bonus_personality_desc",
-      "content": "For the retention duration, these units' Rest Bonuses will not be spent upon clearing a Mirror Dungeon run."
-    },
-    {
-      "id": "mirrordungeon_start_bonus_personality_label",
-      "content": "Affected Units"
-    },
-    {
-      "id": "mirrordungeon_start_bonus_personality_button_label",
-      "content": "Rest Bonus Retention Units"
-    },
-    {
-      "id": "mirrordungeon_start_bonus_personality_period",
-      "content": "Until {0}"
-    },
-    {
-      "id": "mirrordungeon_purchase_achievement_level_using_lunacy_desc",
-      "content": "※ Purchasing {0} Achievement EXP costs {1} Paid Lunacy."
-    },
-    {
-      "id": "mirrordungeon_purchase_achievement_level_ask_using_lunacy",
-      "content": "Spend {0} Paid Lunacy to purchase Achievements EXP?"
-    },
-    {
-      "id": "mirrordungeon_purchase_achievement_title",
-      "content": "Purchase Achievement EXP"
-    },
-    {
-      "id": "mirrordungeon_achievement_progress",
-      "content": "İlerleme"
-    },
-    {
-      "id": "mirrordungeon_purchase_achievement_block_by_max_level",
-      "content": "Exceeded purchasable Achievement Level"
-    },
-    {
-      "id": "mirrordungeon_achievement_max_level",
-      "content": "Achievement Level maxed out"
-    },
-    {
-      "id": "lack_of_point_for_shop_without_new_line",
-      "content": "Not Enough Cost"
-    }
+  "id": "mirror_dungeon_5_buffs_over10",
+  "content": "[10]+ Dinlenme Bonusunda"
+},
+{
+  "id": "mirror_dungeon_5_buffs_over20",
+  "content": "[20]+ Dinlenme Bonusunda"
+},
+{
+  "id": "mirror_dungeon_5_buffs_over30",
+  "content": "[30]+ Dinlenme Bonusunda"
+},
+{
+  "id": "mirror_dungeon_5_buffs_over40",
+  "content": "[40]+ Dinlenme Bonusunda"
+},
+{
+  "id": "mirror_dungeon_5_buffs__over50",
+  "content": "[50]+ Dinlenme Bonusunda"
+},
+{
+  "id": "mirror_dungeon_5_buffs__over60",
+  "content": "[60]+ Dinlenme Bonusunda"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_label_upgrade",
+  "content": "Süper Dükkanda füzyon yapmak, her bileşenden gelen Puanların gerekli toplamına özel bir değiştirici ekler."
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_total_1_upgrade",
+  "content": "9- Puan"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_total_2_upgrade",
+  "content": "10 ~ 14 Puan"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_total_3_upgrade",
+  "content": "15 ~ 21 Puan"
+},
+{
+  "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
+  "content": "22+ Puan"
+},
+{
+  "id": "mirrordungeon_start_bonus_personality_title",
+  "content": "Dinlenme Bonusu Saklama Birimleri"
+},
+{
+  "id": "mirrordungeon_start_bonus_personality_desc",
+  "content": "Saklama süresi boyunca, bu birimlerin Dinlenme Bonusu bir Ayna Zindanı geçişinde harcanmayacaktır."
+},
+{
+  "id": "mirrordungeon_start_bonus_personality_label",
+  "content": "Etkilenen Birimler"
+},
+{
+  "id": "mirrordungeon_start_bonus_personality_button_label",
+  "content": "Dinlenme Bonusu Saklama Birimleri"
+},
+{
+  "id": "mirrordungeon_start_bonus_personality_period",
+  "content": "{0} Tarihine Kadar"
+},
+{
+  "id": "mirrordungeon_purchase_achievement_level_using_lunacy_desc",
+  "content": "※ {0} Başarım EXP satın almak {1} Ödenmiş Lunacy'ye mal olacaktır."
+},
+{
+  "id": "mirrordungeon_purchase_achievement_level_ask_using_lunacy",
+  "content": "{0} Ödenmiş Lunacy harcayarak Başarım EXP satın almak istiyor musunuz?"
+},
+{
+  "id": "mirrordungeon_purchase_achievement_title",
+  "content": "Başarım EXP Satın Al"
+},
+{
+  "id": "mirrordungeon_achievement_progress",
+  "content": "İlerleme"
+},
+{
+  "id": "mirrordungeon_purchase_achievement_block_by_max_level",
+  "content": "Satın alınabilecek maksimum Başarım Seviyesi aşıldı"
+},
+{
+  "id": "mirrordungeon_achievement_max_level",
+  "content": "Başarım Seviyesi maksimuma ulaştı"
+},
+{
+  "id": "lack_of_point_for_shop_without_new_line",
+  "content": "Yetersiz Maliyet"
+}
   ]
 }
