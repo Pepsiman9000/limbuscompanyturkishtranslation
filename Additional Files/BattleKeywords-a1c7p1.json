@@ -2,183 +2,183 @@
   "dataList": [
     {
       "id": "BloodScissor",
-      "name": "Blood-tinged Scissorblades",
-      "desc": "- Max Value: 10\n- Stage 1 Blood-tinged Scissorblades\n- Used for special skills",
+      "name": "Kanla Lekelenmiş Makas Bıçakları",
+      "desc": "- Maksimum Değer: 10\n- Aşama 1 Kanla Lekelenmiş Makas Bıçakları\n- Özel yeteneklerde kullanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodScissorTwo",
-      "name": "Blood-tinged Scissorblades II",
-      "desc": "- Max Value: 20\n- Stage 2 Blood-tinged Scissorblades\n- Turn Start: gain 1 Offense Level Up and 1 Defense Level Down for every 5 Stack\n- Used for certain Skills",
+      "name": "Kanla Lekelenmiş Makas Bıçakları II",
+      "desc": "- Maksimum Değer: 20\n- Aşama 2 Kanla Lekelenmiş Makas Bıçakları\n- Tur Başında: Her 5 Yığılma için 1 Saldırı Seviyesi Artışı ve 1 Savunma Seviyesi Azalışı kazanılır\n- Belirli Yeteneklerde kullanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodScissorThree",
-      "name": "Blood-tinged Scissorblades III",
-      "desc": "- Max Value: 30\n- Stage 3 Blood-tinged Scissorblades\n- Turn Start: gain 2 Offense Level Up and 1 Defense Level Down for every 5 Stack\n- Used for certain Skills",
+      "name": "Kanla Lekelenmiş Makas Bıçakları III",
+      "desc": "- Maksimum Değer: 30\n- Aşama 3 Kanla Lekelenmiş Makas Bıçakları\n- Tur Başında: Her 5 Yığılma için 2 Saldırı Seviyesi Artışı ve 1 Savunma Seviyesi Azalışı kazanılır\n- Belirli Yeteneklerde kullanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodDinner",
-      "name": "Bloodfeast",
-      "desc": "- Max Value: 999\n- Stores all Bleed damage dealt in this zone\n- Resets when moving to a different zone\n- This value is shared by all characters\n- If there is a higher Kindred among the allies who also consumes Bloodfeast, this unit cannot consume Bloodfeast until that ally consumes it first.",
+      "name": "Kan Şöleni",
+      "desc": "- Maksimum Değer: 999\n- Bu bölgede verilen tüm Kanama hasarını depolar\n- Farklı bir bölgeye geçildiğinde sıfırlanır\n- Bu değer tüm karakterler tarafından paylaşılır\n- Eğer müttefikler arasında Kan Şöleni tüketen daha yüksek bir Kan Hınzırı varsa, bu birim Kan Şöleni'ni o müttefik önce tüketene kadar tüketemez.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodDinner_Accumulation",
-      "name": "Bloodfeast Consumed",
-      "desc": "- Max Value: 999\n- Displays the total amount of Bloodfeast consumed in this Encounter",
+      "name": "Tüketilen Kan Şöleni",
+      "desc": "- Maksimum Değer: 999\n- Bu Karşılaşmada tüketilen toplam Kan Şöleni miktarını gösterir",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FamineBlood_LowMorale",
-      "name": "Hunger",
-      "desc": "- Low Morale\nTurn Start: Gain 1 Bind and 2 Attack Power Up.",
+      "name": "Açlık",
+      "desc": "- Düşük Moral\nTur Başında: 1 Bağlama ve 2 Saldırı Gücü Artışı kazanılır.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FamineBlood_Panic",
-      "name": "Hunger",
-      "desc": "- Panic\nTurn Start: Gain 2 Bind and 4 Attack Power Up.",
+      "name": "Açlık",
+      "desc": "- Panik\nTur Başında: 2 Bağlama ve 4 Saldırı Gücü Artışı kazanılır.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DuelDeclaration_Camille",
-      "name": "Declared Duel - Camille",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. \n- Replaced when another unit inflicts Declared Duel on the same target.",
+      "name": "İlan Edilmiş Düello - Camille",
+      "desc": "- İlan Edilmiş Düello uygulayan birim ile bu duruma sahip birim arasında gerçekleşen Çatışmada, ilan eden +1 Çatışma Gücü kazanır. Vurulduğunda, ilan eden sonraki tur 1 Çabukluk kazanır. (Turda 4 kez)\n- İlan Edilmiş Düello farklı bir hedefe uygulandığında süresi biter.\n- Aynı hedefe başka bir birim ilan ettiğinde yerine geçer.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RecklessDuel",
-      "name": "Foolhardy Duel",
-      "desc": "Turn End: gain 1 Clash Power Up next turn for every 10% of the missing HP. (max 5)\nTurn End: gain 1 Bind next turn for every 10% of the missing HP. (max 5)",
+      "name": "Deli Düello",
+      "desc": "Tur Sonunda: Eksik Canın her %10'u için sonraki tur 1 Çatışma Gücü kazanılır. (maksimum 5)\nTur Sonunda: Eksik Canın her %10'u için sonraki tur 1 Bağlama kazanılır. (maksimum 5)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ConcentratedAttack",
-      "name": "Focused Attack",
-      "desc": "When using a Skill against the same Slot this unit successfully hit last turn, gain the following effects based on the number of consecutive turns it successfully hit the Slot\n- 1 Consecutive hit: Clash Power +1\n- 2 Consecutive hits: Base Power +1\n- 3 Consecutive hits: Base Power +1, Coin Power +1",
+      "name": "Odaklanmış Saldırı",
+      "desc": "Bu birim, geçen tur başarılı bir şekilde aynı Slot'a karşı Yetenek kullandığında, ardışık başarılı vuruş sayısına bağlı olarak aşağıdaki etkiler kazanılır:\n- 1 Ardışık vuruş: Çatışma Gücü +1\n- 2 Ardışık vuruş: Temel Güç +1\n- 3 Ardışık vuruş: Temel Güç +1, Jeton Gücü +1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TrulyWeak",
-      "name": "The Weak",
-      "desc": "- Damage Dealt -10%",
+      "name": "Zayıf",
+      "desc": "- Verilen Hasar -%10",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RealPaperBear",
-      "name": "An Actual Bear",
-      "desc": "- It eats people. How fearsome!",
+      "name": "Gerçek Bir Ayı",
+      "desc": "- İnsan yer. Ne korkunç!",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodScissorScars",
-      "name": "Deep Laceration",
-      "desc": "- Gain +3 Bleed Count and trigger Bleed on self. Then, lose 1 Bleed Count.\n- Expires at Turn End",
+      "name": "Derin Yırtık",
+      "desc": "- +3 Kanama Miktarı kazanılır ve kendinde Kanama tetiklenir. Ardından 1 Kanama Miktarı kaybedilir.\n- Tur Sonunda sona erer",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LineCutting",
-      "name": "Sewing Target",
-      "desc": "- Prioritized by ???.\n- Expires at Turn End",
+      "name": "Dikiş Hedefi",
+      "desc": "- ??? tarafından önceliklendirilir.\n- Tur Sonunda sona erer",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StarvingBarberOne",
-      "name": "Withered",
-      "desc": "- Starved for blood for a long, long time.\n- Lose 15 Offense Level\n- Lose 15 Defense Level",
+      "name": "Solgun",
+      "desc": "- Uzun, uzun süre kanını emmiştir.\n- 15 Saldırı Seviyesi kaybı\n- 15 Savunma Seviyesi kaybı",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StarvingBarberTwo",
-      "name": "Withered",
-      "desc": "- Starved for blood for a long, long time.\n- Lose 25 Offense Level\n- Lose 25 Defense Level",
+      "name": "Solgun",
+      "desc": "- Uzun, uzun süre kanını emmiştir.\n- 25 Saldırı Seviyesi kaybı\n- 25 Savunma Seviyesi kaybı",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodShooting",
-      "name": "Blood-shooting!!",
-      "desc": "On Death:\n- Bloodfeast +30\n- gain 2 E.G.O resource for the least-owned E.G.O resource\n- Next turn: all allies gain 0.1 to all Phys. Resistances. This effect can stack. (max 5)",
+      "name": "Kan Fışkırıyor!!",
+      "desc": "Ölümde:\n- Kan Şöleni +30\n- En az sahip olunan E.G.O kaynağı için 2 E.G.O kaynağı kazanılır\n- Sonraki tur: tüm müttefikler tüm Fiziksel Dirençlerine 0.1 kazanır. Bu etki yığılabilir. (maksimum 5)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RighteousFeeling",
-      "name": "HOW RIGHTEOUS!!",
-      "desc": "- At every Turn End: gain 1 Haste, 3 Offense Level Up, and 3 Defense Level Down next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)",
+      "name": "NE KADAR DÜRÜST!!",
+      "desc": "- Her Tur Sonunda: sonraki tur 1 Çabukluk, 3 Saldırı Seviyesi Artışı ve 3 Savunma Seviyesi Azalışı kazanılır\n- Her 3 kümülatif turda 2 ek Saldırı Seviyesi Artışı kazanılır (maksimum 6)\n- Çatışma Kazanınca 3 SP iyileşir\n- Öldürmede, sonraki tur 1 Çatışma Gücü kazanılır (turda bir kez)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DuelDeclarationMeursault",
-      "name": "Declared Duel - Meursault",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. \n- Replaced when another unit inflicts Declared Duel on the same target.",
+      "name": "İlan Edilmiş Düello - Meursault",
+      "desc": "- İlan Edilmiş Düello uygulayan birim ile bu duruma sahip birim arasında gerçekleşen Çatışmada, ilan eden +1 Çatışma Gücü kazanır. Vurulduğunda, ilan eden sonraki tur 1 Çabukluk kazanır. (Turda 4 kez)\n- İlan Edilmiş Düello farklı bir hedefe uygulandığında süresi biter.\n- Aynı hedefe başka bir birim ilan ettiğinde yerine geçer.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ConcentratedAttackMeursault",
-      "name": "Focused Attack - Meursault",
-      "desc": "<Focused Encounters Only>\nThe unit that inflicted this Focused Attack gains the following effects based on the target Slot's Focused Attack Stack.\n  · 1x Stack: Gain Clash Power +1\n  · 2x Stack: Gain Base Power +1\n  · 3x Stack: Gain Base Power +1 and Coin Power +1\n- Expires if, for a turn, the unit that inflicted it fails to hit the Slot inflicted with their Focused Attack.\n- Expires if the unit that inflicted Focused Attack inflicts it on a different Slot.\n- Replaced if a different unit inflicts Focused Attack on a Slot already inflicted with Focused Attack.\n- At the start of the next turn, if a Slot inflicted with Focused Attack is no longer present, rearrange all Focused Attacks inflicted against the Slots of that Part in the order of Deployment",
+      "name": "Odaklanmış Saldırı - Meursault",
+      "desc": "<Sadece Odaklanmış Karşılaşmalar>\nBu Odaklanmış Saldırıyı uygulayan birim, hedef Slot'un Odaklanmış Saldırı Yığılmasına bağlı olarak aşağıdaki etkileri kazanır.\n  · 1x Yığılma: Çatışma Gücü +1 kazanılır\n  · 2x Yığılma: Temel Güç +1 kazanılır\n  · 3x Yığılma: Temel Güç +1 ve Jeton Gücü +1 kazanılır\n- Eğer uygulayan birim, uygulandığı Slot'a bu tur başarılı vuruş yapamazsa süresi biter.\n- Eğer uygulayan birim, Odaklanmış Saldırıyı farklı bir Slot'a uygularsa süresi biter.\n- Farklı bir birim, Odaklanmış Saldırıyı zaten uygulanmış bir Slot'a uygularsa yerine geçer.\n- Sonraki turun başında, Odaklanmış Saldırı uygulanmış Slot yoksa, o Parçanın tüm Slotlarına uygulanmış Odaklanmış Saldırılar Yerleşim sırasına göre yeniden düzenlenir.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Duello_LowMorale",
-      "name": "Duel Specialist",
-      "desc": "- Low Morale\n- Turn Start: Gain 2 Offense Level Up. On Clash Lose, gain 1 Defense Level Down(max 3 per turn). Min. Speed -1",
+      "name": "Düello Uzmanı",
+      "desc": "- Düşük Moral\n- Tur Başında: 2 Saldırı Seviyesi Artışı kazanılır. Çatışma Kaybında, 1 Savunma Seviyesi Azalışı kazanılır (turda maksimum 3). Minimum Hız -1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Duello_Panic",
-      "name": "Duel Specialist",
-      "desc": "- Panic\n- Turn Start: Gain 4 Offense Level Up. On Clash Lose, gain 2 Defense Level Down(max 6 per turn). Min. Speed -1",
+      "name": "Düello Uzmanı",
+      "desc": "- Panik\n- Tur Başında: 4 Saldırı Seviyesi Artışı kazanılır. Çatışma Kaybında, 2 Savunma Seviyesi Azalışı kazanılır (turda maksimum 6). Minimum Hız -1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RighteousFeelingSancho",
-      "name": "I will take responsibility, through my bloody tears.",
-      "desc": "- Gain 1 additional Hardblood every time this unit gains Hardblood. (5 times per turn)\n- At every Turn End: gain 2 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)",
+      "name": "Kanlı Gözyaşlarımla Sorumluluğu Üstleneceğim.",
+      "desc": "- Bu birim Her Hardblood kazandığında 1 ek Hardblood kazanılır. (turda 5 kez)\n- Her Tur Sonunda: sonraki tur 2 Çabukluk ve 3 Saldırı Seviyesi Artışı kazanılır\n- Her 3 kümülatif turda 2 ek Saldırı Seviyesi Artışı kazanılır (maksimum 6)\n- Çatışma Kazanınca 3 SP iyileşir\n- Öldürmede, sonraki tur 1 Çatışma Gücü kazanılır (turda bir kez)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnfinishedDreamSancho",
-      "name": "In which is recounted the thralldom to blood thicker than water.",
-      "desc": "- Gain 2 additional Hardblood every time this unit gains Hardblood. (5 times per turn)\n- At every Turn End: gain 2 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 2 Clash Power Up next turn (once per turn)",
+      "name": "Su Kanımdan Daha Yoğundur Hapsinin Anlatıldığı.",
+      "desc": "- Bu birim Her Hardblood kazandığında 2 ek Hardblood kazanılır. (turda 5 kez)\n- Her Tur Sonunda: sonraki tur 2 Çabukluk ve 3 Saldırı Seviyesi Artışı kazanılır\n- Her 3 kümülatif turda 2 ek Saldırı Seviyesi Artışı kazanılır (maksimum 6)\n- Çatışma Kazanınca 3 SP iyileşir\n- Öldürmede, sonraki tur 2 Çatışma Gücü kazanılır (turda bir kez)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FragmentOfHopeSancho",
-      "name": "Which treats the banquet of blood for the Family's suffering.",
-      "desc": "Gain Clash Power Up equal to Stack\nDeal +10% more damage",
+      "name": "Ailenin Acısı İçin Kan Şöleni Sunan.",
+      "desc": "Yığılmaya eşit Çatışma Gücü kazanılır\nVerilen hasar %10 artırılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FragmentOfHopeTwoSancho",
-      "name": "Of how a certain Bloodfiend came to bear the guilt of patricide alone.",
-      "desc": "- Clash Power +4 for every value\n- Apply Shield to self and all allies at Combat Start\n- Deal +20% more damage\n- On Hit, deal 1 fixed damage as well",
+      "name": "Bir Kan Hınzırının Yalnızca Babasını Katletme Suçunu Taşımaya Geldiğinin Anlatıldığı.",
+      "desc": "- Her değer için Çatışma Gücü +4\n- Savaş Başında kendine ve tüm müttefiklere Kalkan uygular\n- Verilen hasar %20 artırılır\n- Vurulduğunda, 1 sabit hasar daha verir",
       "summary": "",
       "undefined": "-"
     }
