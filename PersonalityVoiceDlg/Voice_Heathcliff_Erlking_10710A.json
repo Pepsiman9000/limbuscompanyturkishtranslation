@@ -2,142 +2,142 @@
     "dataList": [
         {
             "id": "get_10710_1_A",
-            "desc": "Identity Acquisition",
+            "desc": "Kimlik Edinildiğinde",
             "dlg": "İçimde yanan bu öfke alevini ne yaktı…? \n…Hayır. Neden yandığı önemli değil—önemli olan, onların yıkımını getirecek olan yırtıcı ve parçalayıcı fırtınanın benim olmamdır.."
         },
         {
             "id": "lobby_morning_10710_1_A",
-            "desc": "Morning Greeting",
+            "desc": "Günaydın",
             "dlg": "Ormanın sabahına erkenden kalkıyorum, güneş malikanede doğar doğmaz. İntikamımı keskinleştirmek için bundan daha iyi bir yer yok."
         },
         {
             "id": "lobby_noon_10710_1",
-            "desc": "Afternoon Greeting",
-            "dlg": "Şu süt çocuğu 'Genç Efendi'ye artık bir fincan öğle yemeği siyah çayı servis ediyor olmalılar. Heh heh... Eminim ki yarası, gövdesinden kopardığım kol çıkıntısı... ağrıyor."
+            "desc": "Tünaydın",
+            "dlg": "Şu süt çocuğu 'Genç Efendi'ye artık bir fincan öğle siyah çayı servis ediyor olmalılar. Heh heh... Eminim ki yarası, gövdesinden kopardığım kol çıkıntısı... ağrıyor."
         },
         {
             "id": "lobby_night_10710_1_A",
-            "desc": "Evening Greeting",
+            "desc": "İyi Akşamlar",
             "dlg": "Beni hiçbir zaman akşam yemeği ziyafetlerine davet etmediler, ben de asla davet edilmek istemedim.. Ama... Sanırım oldukça neşeli görünüyorlardı.\n... Bakalım benim dönüşüm üzerinde halen gülebilecekler mi?"
         },
         {
             "id": "smalltalk_10710_1_A",
-            "desc": "Chatter #1",
+            "desc": "Muhabbet #1",
             "dlg": "Hm... Zamanın anlamını çoktan unuttuğum bir zamanda bir saat ne işime yarar?\nAma... Belli bir 'vaadin' saatinin hızla yaklaştığını hissediyoruz."
         },
         {
             "id": "smalltalk_10710_2_A",
-            "desc": "Chatter #2",
+            "desc": "Muhabbet #2",
             "dlg": "Burası bir orman için fazla sessiz, değil mi...? Çünkü burada yaşayan her şeyi benim yaptım.\nO sessizlikte, bir şeyin... hatıraları... solmadan önce beliriyor. Ne kadar... rahatsız edici."
         },
         {
             "id": "smalltalk_10710_3",
-            "desc": "Chatter #3",
+            "desc": "Muhabbet #3",
             "dlg": "Gençliğimde beni önemseyen bir kadın vardı. Ama yakında benim kılıcım onunkine karşı dayanacak.\nAma bu sefer, onun tıpkı bana yaptığı gibi kendi kanadım altına alacağım."
         },
         {
             "id": "smalltalk_10710_4",
-            "desc": "Post-Uptie Chat 1",
+            "desc": "Rütbe Artırma Sonrası Muhabbet 1",
             "dlg": "Hah, öfkenin kontrolü ele alışının verdiği hazzı hissediyor musun?!\nBurada düşüncelerimize yer yok; ne sizin, ne benim. Ve kalan tek şey, bu işi sonsuza kadar, bu fırtına-kıran tepelerin üstünde bitirmek!\nBitince ayakta kalan kim olacak, merak ediyorum."
         },
         {
             "id": "smalltalk_10710_5_A",
-            "desc": "Post-Uptie Chat 2",
+            "desc": "Rütbe Artırma Sonrası Muhabbet 2",
             "dlg": "Bazen kendimi şu sorunun tuzağına düşmüş buluyorum: Beni bu malikaneye bu kadar bağlayan şey ne? ... Gözlerinin ardında cevabın parıltısını görüyorum.\nBelki de kafanı kesip gözlerini oyarsam, o bilgiyi göz yuvalarının oyuklarında bulabilirim. Ama bu vahiy hiçbir şeyi değiştirmeyecek."
         },
         {
             "id": "neglect_10710_1_A",
-            "desc": "Idle",
+            "desc": "Boşta",
             "dlg": "Kılıcımın cam parçaları opak ve pusla kaplı. Onlardan öte bir şey... göremiyorum. Ne için kılıcımı biliyorum?"
         },
         {
             "id": "gacksung_10710_1",
-            "desc": "Uptying",
+            "desc": "Rütbe Artırılken",
             "dlg": "Söz verilen ziyafetin şafağı, avın günü yükseliyor. Saçımın ucunda hissedebiliyorum... Uğultulu Tepeler'in yıkımı yakın."
         },
         {
             "id": "formation_10710_1_A",
-            "desc": "Deployment",
+            "desc": "Yerleştirildiğine",
             "dlg": "Bu uluma sesi... fırtına olmalı."
         },
         {
             "id": "battleentry_10710_1",
-            "desc": "Stage Entry",
+            "desc": "Sahne Girişi",
             "dlg": "Ey Vahşi Av..."
         },
         {
             "id": "battle_select_10710_1",
-            "desc": "Viewed in Battle 1",
-            "dlg": "(Deli Gülüş)"
+            "desc": "Üzerine Tıklandığında 1",
+            "dlg": "(Delirmişçesine Gülüş)"
         },
         {
             "id": "battle_select_10710_2",
-            "desc": "Viewed in Battle 2",
-            "dlg": "(Deli Gülüş)"
+            "desc": "Üzerine Tıklandığında 2",
+            "dlg": "(Delirmişçesine Gülüş)"
         },
         {
             "id": "battle_select_10710_3",
-            "desc": "Viewed in Battle",
-            "dlg": "(Deli Gülüş)"
+            "desc": "Üzerine Tıklandığında 3",
+            "dlg": "(Delirmişçesine Gülüş)"
         },
         {
             "id": "battle_endcommand_10710_1",
-            "desc": "Commencing Attack",
+            "desc": "Saldırırken",
             "dlg": "... İnfazın için hazırlan...!"
         },
         {
             "id": "battle_enemy_break_10710_1",
-            "desc": "Enemy Staggered",
+            "desc": "Düşman Sersemlediğinde",
             "dlg": "O fırtınada..."
         },
         {
             "id": "battle_break_10710_1",
-            "desc": "Staggered",
+            "desc": "Sersemlediğinde",
             "dlg": "Tekrar! Tekrar ve tekrar, fırtına uyuyana kadar!"
         },
         {
             "id": "battle_kill_10710_1",
-            "desc": "On Kill 1",
+            "desc": "Düşman Ölünce 1",
             "dlg": "... Gömüldüğün zaman uyuyacaksın."
         },
         {
             "id": "battle_kill_10710_2",
-            "desc": "On Kill 2",
+            "desc": "Düşman Ölünce 2",
             "dlg": "... Bağıracaksın."
         },
         {
             "id": "battle_kill_10710_3",
-            "desc": "On Kill 3",
+            "desc": "Düşman Ölünce 3",
             "dlg": "... Parçalarına ayrılacaksın."
         },
         {
             "id": "battle_dead_10710_1",
-            "desc": "Death",
+            "desc": "Ölüm",
             "dlg": "Ölümümde bile... Ben... yapacağım..."
         },
         {
             "id": "choice_success_p_10710_2",
-            "desc": "Check Passed",
+            "desc": "Kontrol Geçildi",
             "dlg": "Av için..."
         },
         {
             "id": "choice_fail_n_10710_1",
-            "desc": "Check Failed",
+            "desc": "Kontrol Geçilmedi",
             "dlg": "Av başarısız oldu... bir şey olmaz. Bu acı sadece pençelerimi keskinleştirecek."
         },
         {
             "id": "battle_clear_10710_1_A",
-            "desc": "Victory Cry",
+            "desc": "Zafer",
             "dlg": "İleriye doğru yürüyün, Vahşi Avım. Yolumuza çıkmaya cesaret edenler bu törende, bu dipsiz gazabın sonuna doğru yürüyüşte bize katılacaklardır....!"
         },
         {
             "id": "battle_clear_ex_10710_1_A",
-            "desc": "Extra Condition Fulfilled",
+            "desc": "Ek Koşullar Sağlandı",
             "dlg": "... Bitti mi? Gerçekten hepsini öldürdüm mü? O zaman neden... neden bu alev sönmüyor...?"
         },
         {
             "id": "battle_defeat_10710_1",
-            "desc": "Defeat Wail",
+            "desc": "Yenilgi Çığlığı",
             "dlg": "Ne biçim bir rezalet bu... neyse. Döneceğim. Uğultulu Tepeleri dişlerimin arasında ezene kadar geri döneceğim."
         }
     ]
