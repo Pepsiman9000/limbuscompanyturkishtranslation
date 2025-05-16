@@ -60,7 +60,7 @@
           "message": "Sesin kaynağına doğru ilerle.",
           "messageDesc": "Bir Kibir testi dene. E.G.O Hediyesi kazan.",
           "result": [
-            "Enkaz altında açı içinde bir asker var.\n\n“Lütfen beni öldürün… acı çekiyorum.”\n\nBu şahısı görmezden gelemezsin.\nOnu hakkına kavuşturması için kimi görevlendireceksin?"
+            "Enkaz altında acı içinde bir asker var.\n\n“Lütfen beni öldürün… acı çekiyorum.”\n\nBu şahısı görmezden gelemezsin.\nOnu hakkına kavuşturması için kimi görevlendireceksin?"
           ]
         },
         {
@@ -192,7 +192,7 @@
           ]
         },
         {
-          "message": "Ayakkabıları giyme.",
+          "message": "Ayakkabıları deneme.",
           "messageDesc": "Bir çatışma başlat.",
           "result": [
             "“Pembe ayakkabıların görkeminden çekinme!”\n\nGeriye çekildiğin gibi pembe ayakkabıların yaydığı ışık gitti.\n\n“Seni istediğin yere götürecekler!”\n\nEkran delirmişçesine titremeye başladı,\nve pembe kurdelelere dolanmış bir grup kişi ayaklarını yere sürte sürte kapıdan içeriye girdiler."
@@ -226,10 +226,10 @@
       "options": [
         {
           "message": "Kolu çek.",
-          "messageDesc": "50% chance to gain an E.G.O Gift. Failure results in HP and SP damage.",
+          "messageDesc": "%50 şans ile E.G.O Hediyesi kazan. Başarısızlık, SP hasarı verir.",
           "result": [
-            "The machine stopped at last.\n\n“Huh… Would you look at that!”\n\nA small wooden chest rose from the floor.\nYou carefully open it to find a bundle of torches.\n\nIt’s not much, but they should give you momentary relief in the dark.\nYou take the torches out of the room.",
-            "The machine stopped at last.\n\n“W-What’s happening?!”\n\nIn the machine’s stead, the room now began to tremble and crack.\nA moment later, the ceiling split open, giving way for thousands of nails diving downward.\n\n“Outside, now!”\n\n“Dammit, I told you it was a bad idea to mess with it!”\n\nYou and the Sinners quickly evacuated the room, but not without harm."
+            "Makine en sonunda durakladı.\n\n“Heh… Şuna da bir bakın!”\n\nKüçük, odundan bir sandık yerden yükseldi.\nDikkatlice açtın, içerisinde ise bir dizi meşale mevcuttu.\n\nBelki çok değildi ama, en azından bir süreliğine karanlıkta seni rahatlatacaktı.\nMeşaleleri odadan çıkarttın.",
+            "Makine en sonunda durakladı.\n\n“N-Ne oluyor?!”\n\nMakinenin huzurunda, oda titremeye ve çatırdamaya başladı.\nBir süre sonra, çatı ikiye yarılarak birçok çivinin aşağıya doğru yağmasına sebep oldu.\n\n“Dışarı, hemen!”\n\n“Kahretsin, sana bununla uğraşmanın kötü bir fikir olduğunu söylemiştim!!”\n\nGünahkârlar ile odayı hemen terk ettiniz, ama zararsız bir şekilde değil."
           ]
         }
       ]
