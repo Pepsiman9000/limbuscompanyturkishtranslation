@@ -13,7 +13,7 @@
         {
             "id": "lobby_noon_10710_1",
             "desc": "Tünaydın",
-            "dlg": "Şimdi o sütten çıkma ak kaşık 'Genç Efendi'lerine bir fincan siyah çay ikram ediyorlardır. Heh heh... Eminim ki vücudundan ayırdığım kolu... ağrıyordur."
+            "dlg": "Şu süt çocuğu 'Genç Efendi'ye artık bir fincan öğle siyah çayı servis ediyor olmalılar. Heh heh... Eminim ki yarası, gövdesinden kopardığım kol çıkıntısı... ağrıyor."
         },
         {
             "id": "lobby_night_10710_1",
@@ -83,17 +83,17 @@
         {
             "id": "battle_endcommand_10710_1",
             "desc": "Saldırırken",
-            "dlg": "... İdamın için hazırlan...!"
+            "dlg": "... İnfazın için hazırlan...!"
         },
         {
             "id": "battle_enemy_break_10710_1",
             "desc": "Düşman Sersemlediğinde",
-            "dlg": "Fırtınanın içinde..."
+            "dlg": "O fırtınada..."
         },
         {
             "id": "battle_break_10710_1",
             "desc": "Sersemlediğinde",
-            "dlg": "Bir daha! Bir daha ve yine birdaha, bu fırtına uyuyana kadar!"
+            "dlg": "Tekrar! Tekrar ve tekrar, fırtına uyuyana kadar!"
         },
         {
             "id": "battle_kill_10710_1",
@@ -103,7 +103,7 @@
         {
             "id": "battle_kill_10710_2",
             "desc": "Düşman Ölünce 2",
-            "dlg": "... Çığlık atacaksın."
+            "dlg": "... Bağıracaksın."
         },
         {
             "id": "battle_kill_10710_3",
@@ -123,7 +123,7 @@
         {
             "id": "choice_fail_n_10710_1",
             "desc": "Kontrol Geçilmedi",
-            "dlg": "Av başarısız oldu... ne olursa. Bu acı sadece pençelerimi keskinleştirecek."
+            "dlg": "Av başarısız oldu... bir şey olmaz. Bu acı sadece pençelerimi keskinleştirecek."
         },
         {
             "id": "battle_clear_10710_1",
