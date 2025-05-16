@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Patrolling",
+          "name": "Devriye",
           "desc": "[DefeatDuel] Gain 2 Defense Level Up",
           "coinlist": [
             {},
@@ -20,7 +20,7 @@
         },
         {
           "level": 2,
-          "name": "Patrolling",
+          "name": "Devriye",
           "desc": "[DefeatDuel] Gain 3 Defense Level Up",
           "coinlist": [
             {},
@@ -35,7 +35,7 @@
         },
         {
           "level": 4,
-          "name": "Patrolling",
+          "name": "Devriye",
           "desc": "[WhenUse] Gain +2 Aggro to this Skill Slot next turn\n[DefeatDuel] Gain 3 Defense Level Up",
           "coinlist": [
             {},
@@ -55,7 +55,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Client Protection",
+          "name": "Vekalet Güvencesi",
           "desc": "[WhenUse] Apply 2 Defense Level Up to the ally with the lowest HP percentage (3 times per turn)",
           "coinlist": [
             {
@@ -83,7 +83,7 @@
         },
         {
           "level": 2,
-          "name": "Client Protection",
+          "name": "Vekalet Güvencesi",
           "desc": "[WhenUse] Apply 3 Defense Level Up to the ally with the lowest HP percentage (3 times per turn)\nAt 5+ Defense Level Up, Clash Power +1",
           "coinlist": [
             {
@@ -111,7 +111,7 @@
         },
         {
           "level": 4,
-          "name": "Client Protection",
+          "name": "Vekalet Güvencesi",
           "desc": "[WhenUse] Apply 4 Defense Level Up to the ally with the lowest HP percentage (3 times per turn)\nAt 5+ Defense Level Up, Clash Power +2",
           "coinlist": [
             {
@@ -144,7 +144,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Law and Order",
+          "name": "Kanun ve Düzen",
           "desc": "At 5+ Defense Level Up, Coin Power +1\n[WinDuel] Heal 2 HP",
           "coinlist": [
             {},
@@ -159,7 +159,7 @@
         },
         {
           "level": 4,
-          "name": "Law and Order",
+          "name": "Kanun ve Düzen",
           "desc": "At 5+ Defense Level Up, Coin Power +1\n[WinDuel] Heal 4 HP",
           "coinlist": [
             {},
@@ -182,7 +182,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Korunma",
           "desc": "",
           "coinlist": [
             {}
@@ -190,7 +190,7 @@
         },
         {
           "level": 4,
-          "name": "Guard",
+          "name": "Korunma",
           "desc": "[WhenUse] Gain +3 Aggro to this Skill Slot next turn",
           "coinlist": [
             {}
@@ -203,7 +203,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Contracting Straight-jacket",
+          "name": "Sözleşmeli Dar Gömlek",
           "desc": "[WhenUse] Gain +3 Tremor Count",
           "coinlist": [
             {
@@ -212,7 +212,7 @@
                   "desc": "[OnSucceedAttack] Gain +3 Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] +2 Tremor Count"
                 }
               ]
             }
@@ -220,7 +220,7 @@
         },
         {
           "level": 2,
-          "name": "Contracting Straight-jacket",
+          "name": "Sözleşmeli Dar Gömlek",
           "desc": "[WhenUse] Gain +3 Tremor Count",
           "coinlist": [
             {
@@ -229,7 +229,7 @@
                   "desc": "[OnSucceedAttack] Gain +3 Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] +3 Tremor Count"
                 }
               ]
             }
@@ -237,16 +237,16 @@
         },
         {
           "level": 4,
-          "name": "Contracting Straight-jacket",
+          "name": "Sözleşmeli Dar Gömlek",
           "desc": "[WhenUse] Gain +3 Tremor Count\n[DefeatDuel] Gain +3 Tremor Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] +3 Tremor Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] +3 Tremor miktarı uygula"
                 }
               ]
             }
@@ -259,13 +259,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Metallic Ringing",
+          "name": "Metalik Şiddet",
           "desc": "[WhenUse] Gain +4 Tremor Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] 1 Offense Level Down next turn"
                 }
               ]
             },
@@ -273,7 +273,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "[OnSucceedAttack] 4 Tremor"
                 }
               ]
             }
@@ -281,7 +281,7 @@
         },
         {
           "level": 2,
-          "name": "Metallic Ringing",
+          "name": "Metalik Şiddet",
           "desc": "[StartBattle] Spend 5 Tremor Count and gain +1 Atk Weight for this Skill\n[WhenUse] Gain +4 Tremor Count",
           "coinlist": [
             {
@@ -290,7 +290,7 @@
                   "desc": "[OnSucceedAttackHead] Gain +1 Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Offense Level Down uygula"
                 }
               ]
             },
@@ -298,10 +298,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] 5 Tremor uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Plus Coin Drop uygula"
                 }
               ]
             }
@@ -309,7 +309,7 @@
         },
         {
           "level": 4,
-          "name": "Metallic Ringing",
+          "name": "Metalik Şiddet",
           "desc": "[StartBattle] Spend 5 Tremor Count and gain +1 Atk Weight for this Skill\n[WhenUse] Gain +4 Tremor Count",
           "coinlist": [
             {
@@ -318,7 +318,7 @@
                   "desc": "[OnSucceedAttackHead] Gain +1 Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Offense Level Down uygula"
                 }
               ]
             },
@@ -326,10 +326,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] 5 Tremor uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Plus Coin Drop uygula"
                 }
               ]
             }
@@ -342,7 +342,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Unleashed Violence",
+          "name": "Kontrolsüz Vahşet",
           "desc": "[StartBattle] Spend 5 Tremor Count and gain +1 Atk Weight for this Skill (Max +2)\n[DefeatDuel] Lose 20 SP\nDeal 3% more Damage for every type of negative effect on target (Max 15%)\n[EnemyKill] Gain +2 Tremor Count",
           "coinlist": [
             {
@@ -370,7 +370,7 @@
         },
         {
           "level": 4,
-          "name": "Unleashed Violence",
+          "name": "Kontrolsüz Vahşet",
           "desc": "[StartBattle] Spend 5 Tremor Count and gain +1 Atk Weight for this Skill (Max +2)\n[DefeatDuel] Lose 20 SP\nDeal 6% more Damage for every type of negative effect on target (Max 30%)\n[EnemyKill] Gain +2 Tremor Count",
           "coinlist": [
             {
@@ -403,7 +403,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gathering Spite",
+          "name": "Kin Toplama",
           "desc": "[WhenUse] Gain +3 Tremor Count",
           "coinlist": [
             {}
@@ -411,7 +411,7 @@
         },
         {
           "level": 4,
-          "name": "Gathering Spite",
+          "name": "Kin Toplama",
           "desc": "[WhenUse] Gain +6 Tremor Count",
           "coinlist": [
             {}
@@ -424,7 +424,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Moonlit Blade Dance",
+          "name": "Mehtaplı Kılıç Dansı",
           "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {},
@@ -432,7 +432,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [RedApricotBlossom]"
+                  "desc": "[CriticalOnSucceedAttack] 1 [RedApricotBlossom] uygula"
                 }
               ]
             }
@@ -440,7 +440,7 @@
         },
         {
           "level": 2,
-          "name": "Moonlit Blade Dance",
+          "name": "Mehtaplı Kılıç Dansı",
           "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {},
@@ -454,7 +454,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [RedApricotBlossom]"
+                  "desc": "[CriticalOnSucceedAttack] 1 [RedApricotBlossom] uygula"
                 }
               ]
             }
@@ -462,7 +462,7 @@
         },
         {
           "level": 4,
-          "name": "Moonlit Blade Dance",
+          "name": "Mehtaplı Kılıç Dansı",
           "desc": "<style=\"highlight\">At 5+ [Breath], Coin Power +1</style>\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {},
@@ -476,7 +476,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [RedApricotBlossom]"
+                  "desc": "[CriticalOnSucceedAttack] 1 [RedApricotBlossom] uygula"
                 }
               ]
             }
@@ -489,7 +489,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Acupuncture",
+          "name": "Akupunktur",
           "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -502,7 +502,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [RedApricotBlossom]"
+                  "desc": "[CriticalOnSucceedAttack] 2 [RedApricotBlossom] uygula"
                 }
               ]
             }
@@ -510,7 +510,7 @@
         },
         {
           "level": 2,
-          "name": "Acupuncture",
+          "name": "Akupunktur",
           "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -526,10 +526,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Bind uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [RedApricotBlossom]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] 2 [RedApricotBlossom]<style=\"highlight\"></style> uygula"
                 }
               ]
             }
@@ -537,7 +537,7 @@
         },
         {
           "level": 4,
-          "name": "Acupuncture",
+          "name": "Akupunktur",
           "desc": "<style=\"highlight\">At 7+ [Breath], Coin Power +1\n</style>[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -553,10 +553,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Bind uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [RedApricotBlossom]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] 2 [RedApricotBlossom]<style=\"highlight\"></style> uygula"
                 }
               ]
             }
@@ -569,20 +569,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Red Plum Blossoms Scatter",
+          "name": "Al Erik Çiçeklerinin Savruluşu",
           "desc": "Deal +3% damage for every [RedApricotBlossom] on target\n[WinDuel] Consume half the [Breath] Count on self, then gain [Breath] equal to the [Breath] Count consumed. (Max 10)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 5 [RedApricotBlossom]"
+                  "desc": "[CriticalOnSucceedAttack] 5 [RedApricotBlossom] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 5 [RedApricotBlossom]"
+                  "desc": "[CriticalOnSucceedAttack] 5 [RedApricotBlossom] uygula"
                 }
               ]
             }
@@ -590,26 +590,26 @@
         },
         {
           "level": 4,
-          "name": "Red Plum Blossoms Scatter",
+          "name": "Al Erik Çiçeklerinin Savruluşu",
           "desc": "Deal +3% more damage for every [RedApricotBlossom] on target\n<style=\"highlight\">Coin Power +1 for every 7 [Breath] on self (Max 3)</style>\n[WinDuel] Consume half the [Breath] Count on self, then gain [Breath] equal to the [Breath] Count consumed. (Max 10)\n<style=\"highlight\">This Skill does not consume [RedApricotBlossom] On Crit</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 5 [RedApricotBlossom]"
+                  "desc": "[CriticalOnSucceedAttack] 5 [RedApricotBlossom] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] If target has 10 [RedApricotBlossom], inflict 1 [SlashTakeDamageUp]"
+                  "desc": "[CriticalOnSucceedAttack] Eğer Hedefte 10 [RedApricotBlossom] varsa,  1 [SlashTakeDamageUp] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 5 [RedApricotBlossom]"
+                  "desc": "[CriticalOnSucceedAttack] 5 [RedApricotBlossom] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] If target has 10 [RedApricotBlossom], inflict 1 [SlashTakeDamageUp]"
+                  "desc": "[CriticalOnSucceedAttack] Eğer Hedefte 10 [RedApricotBlossom] varsa,  1 [SlashTakeDamageUp] uygula"
                 }
               ]
             }
@@ -622,7 +622,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Redirect",
+          "name": "Yönlendirme",
           "desc": "[WhenUse] For every 4 [Breath] on self, gain Final Power +1 (Max 3)",
           "coinlist": [
             {}
@@ -630,7 +630,7 @@
         },
         {
           "level": 4,
-          "name": "Redirect",
+          "name": "Yönlendirme",
           "desc": "[WhenUse] For every 4 [Breath] on self, gain Final Power +1 (Max 5)",
           "coinlist": [
             {}
@@ -643,14 +643,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Confiscation",
+          "name": "Müsadere",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttackHead] 2 [Sinking] uygula"
                 }
               ]
             }
@@ -658,14 +658,14 @@
         },
         {
           "level": 2,
-          "name": "Confiscation",
+          "name": "Müsadere",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] 2 [Sinking] uygula"
                 }
               ]
             }
@@ -673,14 +673,14 @@
         },
         {
           "level": 4,
-          "name": "Confiscation",
+          "name": "Müsadere",
           "desc": "[WhenUse] If target has 6+ [Sinking], Coin Power +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] 2 [Sinking] uygula"
                 }
               ]
             }
@@ -693,14 +693,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Interloper Reception",
+          "name": "İstenmeyen Misafir Karşılama",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] +2 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -708,14 +708,14 @@
         },
         {
           "level": 2,
-          "name": "Interloper Reception",
+          "name": "İstenmeyen Misafir Karşılama",
           "desc": "[WhenUse] If target has 5+ [Sinking], Clash Power +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +2 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -723,14 +723,14 @@
         },
         {
           "level": 4,
-          "name": "Interloper Reception",
+          "name": "İstenmeyen Misafir Karşılama",
           "desc": "[WhenUse] If target has 5+ [Sinking], Clash Power +1\n[WhenUse] If target has 3+ [Sinking] Count, Coin Power +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +3 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -743,13 +743,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Reception Arts 4: Heartseal",
+          "name": "Resepsiyon Sanatı 4: Yürek Mührü",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +3 [Sinking] Miktarı uygula"
                 }
               ]
             },
@@ -758,10 +758,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn"
+                  "desc": "[OnSucceedAttack] 2 [EchoOfMansion] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [EchoOfMansion], inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Eğer Hedefte [EchoOfMansion] varsa, +3 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -769,13 +769,13 @@
         },
         {
           "level": 4,
-          "name": "Reception Arts 4: Heartseal",
+          "name": "Resepsiyon Sanatı 4: Yürek Mührü",
           "desc": "[WhenUse] If target has 5+ [Sinking] Count, Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +3 [Sinking] Miktarı uygula"
                 }
               ]
             },
@@ -784,10 +784,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn"
+                  "desc": "[OnSucceedAttack] 2 [EchoOfMansion] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [EchoOfMansion], inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Eğer Hedefte [EchoOfMansion] varsa, +3 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -800,7 +800,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hunting Plans",
+          "name": "Av Planları",
           "desc": "[WhenUse] If target has 10+ [Sinking], Coin Power +3",
           "coinlist": [
             {}
@@ -808,7 +808,7 @@
         },
         {
           "level": 4,
-          "name": "Hunting Plans",
+          "name": "Av Planları",
           "desc": "[WhenUse] If target has 10+ [Sinking], Coin Power +7",
           "coinlist": [
             {}
@@ -821,7 +821,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "40Y-3 Activation",
+          "name": "40Y-3 Aktivasyonu",
           "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1",
           "coinlist": [
             {},
@@ -836,7 +836,7 @@
         },
         {
           "level": 2,
-          "name": "40Y-3 Activation",
+          "name": "40Y-3 Aktivasyonu",
           "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
@@ -851,7 +851,7 @@
         },
         {
           "level": 4,
-          "name": "40Y-3 Activation",
+          "name": "40Y-3 Aktivasyonu",
           "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power <style=\"highlight\">+2</style>",
           "coinlist": [
             {},
@@ -871,7 +871,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Countercurrent",
+          "name": "Karşı Akım Yükü",
           "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1",
           "coinlist": [
             {},
@@ -887,7 +887,7 @@
         },
         {
           "level": 2,
-          "name": "Charge Countercurrent",
+          "name": "Karşı Akım Yükü",
           "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
@@ -903,7 +903,7 @@
         },
         {
           "level": 4,
-          "name": "Charge Countercurrent",
+          "name": "Karşı Akım Yükü",
           "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power <style=\"highlight\">+2</style>",
           "coinlist": [
             {},
@@ -924,7 +924,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "40Y-3 Charge",
+          "name": "40Y-3 Yükü",
           "desc": "At 2+ [Charge], Coin Power +2",
           "coinlist": [
             {
@@ -953,7 +953,7 @@
         },
         {
           "level": 4,
-          "name": "40Y-3 Charge",
+          "name": "40Y-3 Yükü",
           "desc": "<style=\"highlight\">Coin Power +1 for every [Charge] (max 4)</style>",
           "coinlist": [
             {
@@ -977,7 +977,7 @@
                   "desc": "At 3+ [Charge], deal <style=\"highlight\">+8%</style> more damage for every [Charge] (max <style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 Envy Fragility next turn\n- At 2+ [Charge], inflict 1 additional Envy Fragility</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 1 Envy Fragility next turn\n- At 2+ [Charge],  1 additional Envy Fragility</style>"
                 }
               ]
             }
@@ -990,7 +990,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge",
+          "name": "Yük",
           "desc": "[WhenUse] Gain +2 [Charge] Count (2 times per turn)",
           "coinlist": [
             {}
@@ -998,7 +998,7 @@
         },
         {
           "level": 4,
-          "name": "Charge",
+          "name": "Yük",
           "desc": "[WhenUse] Gain +<style=\"highlight\">4</style> [Charge] Count (2 times per turn)",
           "coinlist": [
             {}
@@ -1007,90 +1007,90 @@
       ]
     },
     {
-      "id": 1021101,
-      "levelList": [
+    "id": 1021101,
+    "levelList": [
         {
-          "level": 1,
-          "name": "Ignition",
-          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count",
-          "coinlist": [
-            {
-              "coindescs": [
+            "level": 1,
+            "name": "Ateşleme",
+            "desc": "[WhenUse] 10+ [Combustion] varken %10 daha fazla hasar ver\n[WhenUse] 7 [Combustion] ve +1 [Combustion] miktarı kazan",
+            "coinlist": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                    "coindescs": [
+                        {
+                            "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
+                        },
+                        {
+                            "desc": "[OnSucceedAttack] 2 [Combustion] kazan"
+                        }
+                    ]
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]"
+                    "coindescs": [
+                        {
+                            "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
+                        },
+                        {
+                            "desc": "[OnSucceedAttack] 2 [Combustion] kazan"
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]"
-                }
-              ]
-            }
-          ]
+            ]
         },
         {
-          "level": 2,
-          "name": "Ignition",
-          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on target), Coin Power +1",
-          "coinlist": [
-            {
-              "coindescs": [
+            "level": 2,
+            "name": "Ateşleme",
+            "desc": "[WhenUse] 10+ [Combustion] varken %10 daha fazla hasar ver\n[WhenUse] 7 [Combustion] ve +1 [Combustion] miktarı kazan\n[WhenUse] Kendindeki ve hedefteki toplam [Combustion] 10+ ise, jeton gücü +1",
+            "coinlist": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                    "coindescs": [
+                        {
+                            "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
+                        },
+                        {
+                            "desc": "[OnSucceedAttack] 2 [Combustion] kazan"
+                        }
+                    ]
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]"
+                    "coindescs": [
+                        {
+                            "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
+                        },
+                        {
+                            "desc": "<style=\"highlight\">[OnSucceedAttack] 10+ [Combustion] varken, ekstra 1 [Combustion]</style>"
+                        },
+                        {
+                            "desc": "[OnSucceedAttack] 2 [Combustion]<style=\"highlight\"></style>kazan"
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
-                },
-                {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 10+ [Combustion], inflict additional 1 [Combustion]</style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]<style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
+            ]
         },
         {
           "level": 4,
-          "name": "Ignition",
-          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] Coin Power +1 for every 10 ([Combustion] on self + [Combustion] on target) (max 2)",
+          "name": "Ateşleme",
+          "desc": "[WhenUse] 10+ [Combustion] varken %10 daha fazla hasar ver\n[WhenUse] 7 [Combustion] ve +1 [Combustion] miktarı kazan\n[WhenUse] Kendindeki ve hedefteki her 10 ([Combustion] + [Combustion]) için jeton gücü +1 (maksimum 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]"
+                  "desc": "[OnSucceedAttack]2 [Combustion] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ [Combustion], inflict additional <style=\"highlight\">3</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] 10+ [Combustion] ve üstünde, <style=\"highlight\">3</style> [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Combustion]<style=\"highlight\"></style>kazan"
                 }
               ]
             }
@@ -1103,20 +1103,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "E.G.O - A.B.S Activation",
-          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain +4 [Combustion] Count",
+          "name": "E.G.O - A.Ç.Y Aktivasyonu",
+          "desc": "[WhenUse] 10+ [Combustion] ve üstünde, +10% daha fazla hasar ver\n[WhenUse] +4 [Combustion] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
@@ -1126,7 +1126,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 2 [Combustion] uygula"
                 }
               ]
             }
@@ -1134,20 +1134,20 @@
         },
         {
           "level": 2,
-          "name": "E.G.O - A.B.S Activation",
-          "desc": "[WhenUse] Deal +10% more damage for every 10 [Combustion] on self (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] At 4+ ([Combustion] on self + [Combustion] on target), Coin Power +1",
+          "name": "E.G.O - A.Ç.Y Aktivasyonu",
+          "desc": "[WhenUse] Kendindeki her 10 [Combustion] için %10 daha fazla hasar ver (maksimum %20)\n[WhenUse] +4 [Combustion] şiddeti kazan\n[WhenUse] Kendindeki ve hedefteki toplam [Combustion] 4+ ise, jeton gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
@@ -1157,7 +1157,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 3 [Combustion] uygula"
                 }
               ]
             }
@@ -1165,20 +1165,20 @@
         },
         {
           "level": 4,
-          "name": "E.G.O - A.B.S Activation",
-          "desc": "[WhenUse] Deal +10% more damage for every 10 [Combustion] on self (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] Coin Power +1 for every 4 ([Combustion] on self + [Combustion] on target) (max 2)",
+          "name": "E.G.O - A.Ç.Y Aktivasyonu",
+          "desc": "[WhenUse] Kendindeki her 10 [Combustion] için %10 daha fazla hasar ver (maks. %20)\n[WhenUse] +4 [Combustion] miktarı kazan\n[WhenUse] Kendindeki ve hedefteki her 4 ([Combustion] + [Combustion]) için jeton gücü +1 (maks. 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
@@ -1188,10 +1188,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 3 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 15+ [Combustion], inflict +2 [Combustion] Count on target"
+                  "desc": "[OnSucceedAttack] Eğer Hedefte 15+ [Combustion] varsa, Hedefe +2 [Combustion] miktarı uygula"
                 }
               ]
             }
@@ -1204,20 +1204,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Drawn by Flame",
-          "desc": "[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +7.5% more damage for every 5 [Combustion] on self (max 30%)\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on target), Base Power +1\n[WhenUse] If this unit is missing 30%+ HP, Coin Power +1",
+          "name": "Ateşin Cazibesi",
+          "desc": "[StartBattle] 7 [Combustion] ve +1 [Combustion] miktarı kazan\n[BeforeUse] 30+ [Combustion] varken, bunun yerine 'A.B.S Maksimum Uyum Seviyesi 【Aşınma Korozyonu】' etkinleştir\n[WhenUse] Kendindeki her 5 [Combustion] için %7.5 daha fazla hasar ver (maks. %30)\n[WhenUse] Kendindeki ve hedefteki her 10 ([Combustion] + [Combustion]) için Temel Güç +1\n[WhenUse] Bu birimin canı %30'dan fazla eksikse, jeton gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] uygula"
                 }
               ]
             },
@@ -1226,20 +1226,20 @@
         },
         {
           "level": 4,
-          "name": "Drawn by Flame",
-          "desc": "[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +12.5% more damage for every 5 [Combustion] on self (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion] on self + [Combustion] on target) (max 2)\n[WhenUse] If this unit is missing 30%+ HP, Coin Power +1 (max 2)",
+          "name": "Ateşin Cazibesi",
+          "desc": "[StartBattle] 7 [Combustion] ve +1 [Combustion] miktarı kazan\n[BeforeUse] 30+ [Combustion] varken, bunun yerine 'A.B.S Maksimum Uyum Seviyesi 【Aşınma Korozyonu】' etkinleştir\n[WhenUse] Kendindeki her 5 [Combustion] için %12.5 daha fazla hasar ver (maks. %50)\n[WhenUse] Kendindeki ve hedefteki her 10 ([Combustion] + [Combustion]) için Temel Güç +1 (maks. 2)\n[WhenUse] Bu birimin canı %30'dan fazla eksikse, jeton gücü +1 (maks. 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] uygula"
                 }
               ]
             },
@@ -1253,16 +1253,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Resonating by raising A.B.S Attunement.",
-          "desc": "[WhenUse] Lose 5 [Combustion] (once per turn)\n[OnSucceedEvade] Lose 5 [Combustion] (once per turn)",
+          "name": "A.Ç.Y Uyumunu Artırarak Rezonans.",
+          "desc": "[WhenUse] 5 [Combustion] kaybet (turda bir kez)\n[OnSucceedEvade] 5 [Combustion] kaybet (turda bir kez)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Resonating by raising A.B.S Attunement.",
-          "desc": "[WhenUse] At 10+ [Combustion], Coin Power +3\n[WhenUse] Lose 5 [Combustion] (once per turn)\n[OnSucceedEvade] Lose 5 [Combustion] (once per turn)",
+          "name": "A.Ç.Y Uyumunu Artırarak Rezonans",
+          "desc": "[WhenUse] 10+ [Combustion] ve üstünde, Jeton Gücü +3\n[WhenUse] 5 [Combustion] kaybet (turda bir kez)\n[OnSucceedEvade] 5 [Combustion] kaybet (turda bir kez)",
           "coinlist": [
             {}
           ]
@@ -1274,8 +1274,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "A.B.S Max Attunement 【Degraded Corrosion】",
-          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +7.5% more damage for every 5 [Combustion] on self (max 30%)\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on target), Base Power +1\n[WhenUse] Coin Power +1 for every 30% missing HP on self (max 2)\n[BeforeAttack] Atk Weight +1 for every 20% missing HP on self (max 2)",
+          "name": "A.B.S Maksimum Uyum Seviyesi 【Aşınma Korozyonu】",
+          "desc": "Bu Yetenek'i kullandıktan sonra ölür.\n- Bu Yetenek'i kullanırken HP 1'e düşerse, Yetenek süresince HP'yi 1'de tutar.\n[WhenUse] Kendindeki her 5 [Combustion] için %7.5 daha fazla hasar ver (maks. %30)\n[WhenUse] Kendindeki ve hedefteki toplam [Combustion] 10+ ise, Temel Güç +1\n[WhenUse] Kendindeki her %30 kayıp HP için Coin Power +1 (maks. 2)\n[BeforeAttack] Kendindeki her %20 kayıp HP için Atk Weight +1 (maks. 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1283,7 +1283,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] uygula"
                 }
               ]
             },
@@ -1293,7 +1293,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] uygula"
                 }
               ]
             },
@@ -1303,7 +1303,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +10% more damage for every 20% missing HP on self (max 30%)"
+                  "desc": "[OnSucceedAttack] Kendindeki her %20 kayıp HP için %10 daha fazla hasar ver (maks. %30)"
                 }
               ]
             }
@@ -1311,8 +1311,8 @@
         },
         {
           "level": 4,
-          "name": "A.B.S Max Attunement 【Degraded Corrosion】",
-          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +12.5% more damage for every 5 [Combustion] on self (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion] on self + [Combustion] on target) (max 2)\n[WhenUse] Coin Power +1 for every 30% missing HP on self (max 3)\n[BeforeAttack] Atk Weight +1 for every 20% missing HP on self (max 4)",
+          "name": "A.B.S Maksimum Uyum Seviyesi 【Aşınma Korozyonu】",
+          "desc": "Bu Yeteneği kullandıktan sonra ölür.\n- Bu beceriyi kullanırken HP 1'e düşerse, beceri süresince HP'yi 1'de tutar.\n[WhenUse] Kendindeki her 5 [Combustion] için %12.5 daha fazla hasar ver (maks. %50)\n[WhenUse] Kendindeki ve hedefteki her 10 ([Combustion] + [Combustion]) için Temel Güç +1 (maks. 2)\n[WhenUse] Kayıp her %30 HP için Coin Power +1 (maks. 3)\n[BeforeAttack] Kayıp her %20 HP için Atk Weight +1 (maks. 4)",
           "coinlist": [
             {
               "coindescs": [
@@ -1320,7 +1320,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 }
               ]
             },
@@ -1330,7 +1330,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 }
               ]
             },
@@ -1340,7 +1340,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +10% more damage for every 20% missing HP on self (max 30%)"
+                  "desc": "[OnSucceedAttack] Kendindeki her %20 kayıp HP için %10 daha fazla hasar ver (maks. %30)"
                 }
               ]
             }
