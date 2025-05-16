@@ -2,260 +2,162 @@
   "dataList": [
     {
       "id": "BloodyHand_2nd",
-      "name": "Bloodied Hand II",
-      "desc": "- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 20\n- Base Value: 10\n- Gain 1 Offense Level for every 6 Stack",
+      "name": "Kanlı El II",
+      "desc": "- Kanlı El kazanan tüm etkiler bu etkiyi kazanır\n- Maksimum Değer: 20\n- Temel Değer: 10\n- Her 6 Miktar için 1 Saldırı Seviyesi kazanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHand_3rd",
-      "name": "Bloodied Hand III",
-      "desc": "- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 30\n- Base Value: 20\n- Gain 1 Attack Power\n- At 30 Stack: On Hit with this unit's Skill, inflict additional 2 Rupture and +1 Rupture Count\n- At 30 Stack: On Hit with this unit's Skill, inflict 3 Bleed both on self and against the target",
+      "name": "Kanlı El III",
+      "desc": "- Kanlı El kazanan tüm etkiler bu etkiyi kazanır\n- Maksimum Değer: 30\n- Temel Değer: 20\n- 1 Saldırı Gücü kazanılır\n- 30 Miktar'da: Bu birimin Yetenek vuruşunda, ek 2 Yırtılma ve +1 Yırtılma Miktarı verilir\n- 30 Miktar'da: Bu birimin Yetenek vuruşunda, hem kendine hem hedefe 3 Kanama verilir",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WornHeart",
-      "name": "Ailing Heart",
-      "desc": "- Max Stack: 10\n- Enters Encounter with 3 Stack\n- Turn Start: gain 1 Defense Level Down for every Stack\n- Turn Start: gain 1 Offense Level Up for every 2 Stack\n- Turn Start: at 10 Stack, gain 3 Fragile and lose 5 SP\n- At 10 Stack: On Hit, heal 40% of the damage dealt to this unit's Part and Core, and gain 2 Bloodied Hand",
+      "name": "Hastalıklı Kalp",
+      "desc": "- Maksimum Miktar: 10\n- 3 Miktar ile Karşılaşmaya girer\n- Tur Başında: Her Miktar için 1 Savunma Seviyesi Eksilir\n- Tur Başında: Her 2 Miktar için 1 Saldırı Seviyesi Artar\n- Tur Başında: 10 Miktar'da 3 Kırılgan kazanır ve 5 SP kaybeder\n- 10 Miktar'da: Vuruşta, bu birimin Parçası ve Çekirdeğine verilen hasarın %40'ını iyileştirir ve 2 Kanlı El kazanır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StarvingPriestTwo",
-      "name": "Withered",
-      "desc": "- Starved for blood for a long, long time.\n- Lose 25 Offense Level\n- Lose 25 Defense Level",
+      "name": "Solgun",
+      "desc": "- Uzun süre kan yetersizliği çekti.\n- 25 Saldırı Seviyesi kaybeder\n- 25 Savunma Seviyesi kaybeder",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Guilt_LowMorale",
-      "name": "Guilt",
-      "desc": "Turn End: gain 1 Fragile and SP Heal Efficiency Down next turn",
+      "name": "Suçluluk",
+      "desc": "Tur Sonu: 1 Kırılgan ve sonraki tur SP İyileşme Verimliliği Eksilir",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Guilt_Panic",
-      "name": "Guilt",
-      "desc": "Turn End: gain 2 Fragile and SP Heal Efficiency Down next turn",
+      "name": "Suçluluk",
+      "desc": "Tur Sonu: 2 Kırılgan ve sonraki tur SP İyileşme Verimliliği Eksilir",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "MentalIncreaseDown",
-      "name": "SP Heal Efficiency Down",
-      "desc": "SP Heal Efficiency decreases by the effect's Stack",
+      "name": "SP İyileşme Verimliliği Eksilir",
+      "desc": "SP İyileşme Verimliliği, etkinin Miktarı kadar azalır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AffectionTeddy",
-      "name": "Attachment",
-      "desc": "- Max Value: 9\n- When the Attacker attacks the target with this effect, the Attacker gains Clash Power equal to the Stack\n- Turn End: reduce by 1",
+      "name": "Bağlılık",
+      "desc": "- Maksimum Değer: 9\n- Saldıran, bu etkiye sahip hedefe saldırdığında, Saldıran Miktar kadar Çarpışma Gücü kazanır\n- Tur Sonu: 1 azalır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FaintMemory",
-      "name": "Faint Memories",
-      "desc": "- Base Value: 10\n- Turn Start: gain Defense Level Up equal to the Stack\n- Clash Lose: reduce by 1",
+      "name": "Zayıf Anılar",
+      "desc": "- Temel Değer: 10\n- Tur Başında: Miktar kadar Savunma Seviyesi Artar\n- Çarpışma Kaybında: 1 azalır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "CursePackage",
-      "name": "Box of Curses",
-      "desc": "- Max Value: 1\n- Turn End: gain 1 Attack Power Down, 1 Defense Power Down, 2 Offense Level Down, 2 Defense Level Down, and reduce the Stack of this effect by 1",
+      "name": "Lanet Kutusu",
+      "desc": "- Maksimum Değer: 1\n- Tur Sonu: 1 Saldırı Gücü Eksilmesi, 1 Savunma Gücü Eksilmesi, 2 Saldırı Seviyesi Eksilmesi, 2 Savunma Seviyesi Eksilmesi kazanır ve etkinin Miktarı 1 azalır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TinyCarmilla",
-      "name": "Little Carmilla",
-      "desc": "- Max Stack: 3\n- Gain 2 Bleed every time this unit gains Little Carmilla\n- Turn End: gain +2 Bleed Count\n- Turn End: at 3 Stack, take fixed damage equal to 15% of this unit's max HP, heal HP equal to 5% of each enemy's max HP, then this effect expires",
+      "name": "Küçük Carmilla",
+      "desc": "- Maksimum Miktar: 3\n- Bu birim her Küçük Carmilla kazandığında 2 Kanama kazanır\n- Tur Sonu: +2 Kanama Miktarı kazanır\n- Tur Sonu: 3 Miktar'da, birim maksimum canının %15'i kadar sabit hasar alır, her düşmanın maksimum canının %5'i kadar iyileşir, sonra bu etki sona erer",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "OneDropNutrition",
-      "name": "A Drop of Nourishment",
-      "desc": "- Max Stack: 10\n- Gain 1 Stack every time this unit heals 10% of its max HP with its HP-healing Attacks\n- Shows the % of HP healed",
+      "name": "Bir Damla Besin",
+      "desc": "- Maksimum Miktar: 10\n- Bu birim, maksimum canının %10'unu iyilettiğinde 1 Miktar kazanır\n- İyileştirilen can yüzdesini gösterir",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ThornNoose",
-      "name": "Barbed Lasso",
-      "desc": "- Max Stack: 3\n- Turn End: gain 2 Rupture and +2 Rupture Count\n- Turn End: at 1+ Stack, fix this unit's Speed to 1.\n- Turn End: at 2 Stack, take 20 Gluttony damage.\n- Turn End: at 3 Stack, become forcibly Staggered next turn. This effect and the connected Barbed Lasso both expire.\n- Gain 1 at Turn Start",
+      "name": "Dikenli İp",
+      "desc": "- Maksimum Miktar: 3\n- Tur Sonu: 2 Yırtılma ve +2 Yırtılma Miktarı kazanır\n- Tur Sonu: 1+ Miktar'da, birimin Hızı 1 olarak sabitlenir\n- Tur Sonu: 2 Miktar'da, 20 Açgözlülük hasarı alır\n- Tur Sonu: 3 Miktar'da, birim zorla sonraki tur Sersemletilir. Bu etki ve bağlı Dikenli İp sona erer\n- Tur Başında 1 kazanır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SwirlingBlood",
-      "name": "Shimmering【Bloodfiend】",
-      "desc": "- While this effect is active: when this unit takes damage, the Attacker gains 5 Bleed After Attack.\n- While this effect is active: the Shield HP does not expire at Turn End\n- When conditions are met, gain 3 Fragile until this effect expires and this unit gains a new pattern",
+      "name": "Parıldayan【Kan Hınzırı】",
+      "desc": "- Bu etki aktifken: Bu birim hasar aldığında, Saldıran 5 Kanama Sonrası Saldırı kazanır\n- Bu etki aktifken: Kalkan canı Tur Sonu'nda sona ermez\n- Koşullar sağlandığında, etki sona erene kadar 3 Kırılgan kazanır ve bu birim yeni bir kalıp kazanır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodArmor",
-      "name": "Hardblood",
-      "desc": "- Max Value: 10\n- Stage 1 Hardblood\n- Used for special Skills",
+      "name": "Kan Zırhı",
+      "desc": "- Maksimum Değer: 10\n- 1. Kademe Kan Zırhı\n- Özel Yetenekler için kullanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodArmor_2nd",
-      "name": "Hardblood II",
-      "desc": "- Max Value: 20\n- Stage 2 Hardblood\n- Turn Start: gain 1 Offense Level and Defense Level for every 6 Stack\n- Raise Min & Max Speed values by 1\n- Used for special Skills",
+      "name": "Kan Zırhı II",
+      "desc": "- Maksimum Değer: 20\n- 2. Kademe Kan Zırhı\n- Tur Başında: Her 6 Miktar için 1 Saldırı Seviyesi ve Savunma Seviyesi kazanılır\n- Minimum ve Maksimum Hız değerleri 1 artar\n- Özel Yetenekler için kullanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodArmor_3rd",
-      "name": "Hardblood III",
-      "desc": "- Max Value: 30\n- Stage 3 Hardblood\n- Turn Start: gain 2 Offense Level and Defense Level for every 6 Stack\n- Raise Min & Max Speed values by 2\n- Used for special Skills",
+      "name": "Kan Zırhı III",
+      "desc": "- Maksimum Değer: 30\n- 3. Kademe Kan Zırhı\n- Tur Başında: Her 6 Miktar için 2 Saldırı Seviyesi ve Savunma Seviyesi kazanılır\n- Minimum ve Maksimum Hız değerleri 2 artar\n- Özel Yetenekler için kullanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Dreamy",
-      "name": "Dreamy Hesitation",
-      "desc": "- Offense Level -35\n- Defense Level -35",
+      "name": "Hayalci Tereddüt",
+      "desc": "- Saldırı Seviyesi -35\n- Savunma Seviyesi -35",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodDinner_Common_Accumulation",
-      "name": "Bloodfeast Consumed (shared)",
-      "desc": "Total Bloodfeast consumed in this Encounter",
+      "name": "Kan Şöleni Tüketimi (paylaşılan)",
+      "desc": "Bu Karşılaşmada tüketilen toplam Kan Şöleni",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ThirstyRose",
-      "name": "Polydipsic Rose",
-      "desc": "- Max Value: 5\n- Turn End: at 10+ Bleed Potency, take Lust damage equal to 1% of this unit's max HP. (max 30)\n- Turn End: reduced by 1",
+      "name": "Susamış Gül",
+      "desc": "- Maksimum Değer: 5\n- Tur Sonu: 10+ Kanama Şiddetinde, birim maksimum canının %1'i kadar Açgözlülük hasarı alır (maksimum 30)\n- Tur Sonu: 1 azalır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RoseWedge",
-      "name": "Rose Wedge",
-      "desc": "- Max Potency: 10\n- Max Count: 4\n- Gain 1 Potency every time this unit takes 10 Bleed damage\n- When gaining Bleed or 'Unique Bleed' from getting hit, gain 2 Bleed and inflict 1 Bleed against the Attacker. (5 times per turn)\n· At 10 Potency, gain +1 Bleed Count as well when triggering the above effect.\n- Turn End: lose 1 Count\n- Combat End: at 10 Potency or 1 Count, this effect expires, and this unit takes (Potency x 10) Lust damage.\n- If the unit inflicted with this effect dies, or when this effect expires: increase Bloodfeast by (Potency x 10), and deal (Potency x 2) Lust damage against all of its allies (min 1)",
+      "name": "Gül Kıymığı",
+      "desc": "- Maksimum Şiddet: 10\n- Maksimum Miktar: 4\n- Birim 10 Kanama hasarı aldığında 1 Şiddet kazanır\n- Kanama veya 'Eşsiz Kanama' aldığında, 1 Miktar kazanır",
       "summary": "",
       "undefined": "-"
     },
     {
-      "id": "FerrisWheel",
-      "name": "The Endless Wheel",
-      "desc": "Reduced by 1 every time a Gondola is defeated.\nIf this value is at 0, and if there are no units to be spawned next turn, move on to the next phase.",
+      "id": "EccentricRose",
+      "name": "Egzantrik Gül",
+      "desc": "- Maksimum Değer: 1\n- Bu etkiye sahip birim, Şiddetli Kanama ve Kanama hasarı almaz ve açıkça verilen Kanama Şiddetini reddeder",
       "summary": "",
       "undefined": "-"
     },
     {
-      "id": "StarvingDonqui",
-      "name": "Starved and Withered",
-      "desc": "- Offense Level -10\n- Defense Level -10",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "RegainedStrength",
-      "name": "Returning Bloodlust",
-      "desc": "- Max Value: 10\n- Stage 1 Returning Bloodlust",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "RegainedStrength_2nd",
-      "name": "Returning Bloodlust II",
-      "desc": "- Max Value: 20\n- Stage 2 Returning Bloodlust\n- Turn Start: gain 1 Offense Level up and 1 Defense Level Up for every 5 Value\n- Clash Power +1 to Skills that consume Returning Bloodlust; inflict +1 more of Potency and Count for Bleed and Rupture inflicted by the said Skill",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "RegainedStrength_3rd",
-      "name": "Returning Bloodlust III",
-      "desc": "- Max Value: 30\n- Stage 3 Returning Bloodlust\n- Turn Start: gain 2 Offense Level up and 1 Defense Level Up for every 5 Value\n- Coin Power +1 to Skills that consume Returning Bloodlust; inflict +1 more of Potency and Count for Bleed and Rupture inflicted by the said Skill",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "WeightOfResponsibility_LowMorale",
-      "name": "Time to abandon my dream...",
-      "desc": "- Low Morale\n- Gain 2 Attack Power Up and 1 Fragile; raise max Speed value by 2\n- Heal +30% more HP when healing\n- Turn End: if the current Returning Bloodlust is lower than its value at Turn Start, gain 2 Offense Level Up and 2 Defense Level Down",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "WeightOfResponsibility_Panic",
-      "name": "... For my Family, as their Father...",
-      "desc": "- Panic\n- Gain 2 Attack Power Up, 2 Haste, and 2 Fragile\n- Heal +50% more HP when healing\n- Turn End: if the current Returning Bloodlust is lower than its value at Turn Start, gain 3 Offense Level Up and 5 Defense Level Down",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "Precarious",
-      "name": "Irresponsible Dream",
-      "desc": "Killed when hit by Don Quixote.",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "Penetration",
-      "name": "Congealing Blood",
-      "desc": "Cannot act for 2 turns; spawns an Impaling Spear unit over the ally.",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "DecreamentalDefense",
-      "name": "Crippling Injury",
-      "desc": "- Yet to recover from the wounds gained in the previous battle.\n- Massively reduce max HP\n- Turn Start: gain 1 Defense Level Down for every cumulative turn (max 15)",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "UnfinishedDream",
-      "name": "IN WHICH IS RECOUNTED THE LIBERATION FROM BLOOD THICKER THAN WATER",
-      "desc": "- At every Turn End: gain 1 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "SanchoMind_LowMorale",
-      "name": "Reawakening Joy Of Carnage",
-      "desc": "- Low Morale\nGain 2 Attack Power Up at every Turn Start; +2 SP Efficiency",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "SanchoMind_Panic",
-      "name": "Reawakening Joy Of Carnage",
-      "desc": "- Panic\nTurn Start: gain 6 Defense Level Up. Gain 3 Offense Level Up next turn",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "FragmentOfHope",
-      "name": "WHICH TREATS THE BUS, THE COMPANIONS, AND THE ADVENTURES",
-      "desc": "Gain Clash Power equal to the value",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "FragmentOfHopeTwo",
-      "name": "OF HOW SANCHO, OUR DON QUIXOTE, REFUSED TO END THE DREAM",
-      "desc": "Clash Power +4 for every value\nApply Shield to self and all allies at Combat Start",
-      "summary": "",
-      "undefined": "-"
-    },
-    {
-      "id": "ConfinementOfGoldenBranch",
-      "name": "The Golden Bough's Forced Arbitration",
-      "desc": "- Offense Level -30\n- Defense Level -30",
+      "id": "GiveMyBlood",
+      "name": "Kanımı Geri Ver!",
+      "desc": "- Maksimum Değer: 1\n- Kan Şöleni buff'u ile biriktirilen tüm kan, bu etkiden elde edilir",
       "summary": "",
       "undefined": "-"
     }
