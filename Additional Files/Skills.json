@@ -3415,7 +3415,7 @@
         {
           "level": 4,
           "name": "Basit Kaçınma",
-          "desc": "[WhenUse]+1 [[Charge]] Sayısı kazan.",
+          "desc": "[WhenUse] +1 [Charge] Miktarı kazan",
           "coinlist": [
             {}
           ]
@@ -3427,13 +3427,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Loggerhead",
+          "name": "Mankafa",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -3441,13 +3441,13 @@
         },
         {
           "level": 2,
-          "name": "Loggerhead",
+          "name": "Mankafa",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -3460,29 +3460,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slide",
-          "desc": "[WinDuel] Inflict 1 Defense Power Down",
+          "name": "Çelme",
+          "desc": "[WinDuel] 1 [Disarming] uygula",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 2,
-          "name": "Slide",
-          "desc": "[WinDuel] Inflict 3 Defense Power Down",
+          "name": "Çelme",
+          "desc": "[WinDuel] 3 [Disarming] uygula",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Slide",
-          "desc": "[WinDuel] Inflict 3 Defense Power Down",
+          "name": "Çelme",
+          "desc": "[WinDuel] 3 [Disarming] uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] 3 [Vibration] uygula"
                 }
               ]
             }
@@ -3495,13 +3495,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Shield Bash",
+          "name": "Kalkan Darbesi",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; Inflict 1 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle; 1 [HitTakeDamageUp] uygula"
                 }
               ]
             }
@@ -4647,7 +4647,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Power Down"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Disarming]"
                 }
               ]
             }
@@ -4662,7 +4662,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Power Down"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Disarming]"
                 }
               ]
             }
@@ -4677,7 +4677,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Power Down"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Disarming]"
                 }
               ]
             }
@@ -4696,7 +4696,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Defense Power Down"
+                  "desc": "[OnSucceedAttackHead] Inflict 4 [Disarming]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 Defense Level Down"
@@ -4720,7 +4720,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Defense Power Down"
+                  "desc": "[OnSucceedAttackHead] Inflict 4 [Disarming]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 Defense Level Down"
