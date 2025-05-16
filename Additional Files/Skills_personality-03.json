@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Checking the Book",
+          "name": "Kitaba Göre",
           "desc": "",
           "coinlist": [
             {
@@ -26,7 +26,7 @@
         },
         {
           "level": 2,
-          "name": "Checking the Book",
+          "name": "Kitaba Göre",
           "desc": "[WhenUse] Heal 5 SP on self",
           "coinlist": [
             {
@@ -47,7 +47,7 @@
         },
         {
           "level": 4,
-          "name": "Checking the Book",
+          "name": "Kitaba Göre",
           "desc": "[WhenUse] Heal 5 SP on self",
           "coinlist": [
             {
@@ -73,7 +73,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proof of Loyalty",
+          "name": "Sadakatin Kanıtı",
           "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./3) (Max 4)",
           "coinlist": [
             {
@@ -95,7 +95,7 @@
         },
         {
           "level": 2,
-          "name": "Proof of Loyalty",
+          "name": "Sadakatin Kanıtı",
           "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./3) (Max 4)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional Offense Level to the Offense Level gained by the above effect (rounded down)",
           "coinlist": [
             {
@@ -117,7 +117,7 @@
         },
         {
           "level": 4,
-          "name": "Proof of Loyalty",
+          "name": "Sadakatin Kanıtı",
           "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./2) (Max 6)\nIf the highest A-Reson is Envy A-Reson., boost the Offense Level gained by the above effect by 50% (rounded down)\nGain double the Offense Level from the above effects in Focused Encounters with 7 or fewer Participant Limits.",
           "coinlist": [
             {
@@ -144,7 +144,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "A Just Vengeance",
+          "name": "Adil Bir İntikam",
           "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./3) (Max 4)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional 'Offense Level' to the 'Offense Level' gained by the above effect (rounded down)",
           "coinlist": [
             {
@@ -179,7 +179,7 @@
         },
         {
           "level": 4,
-          "name": "A Just Vengeance",
+          "name": "Adil Bir İntikam",
           "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./2) (Max 6)\nIf the highest A-Reson is Envy A-Reson., boost the Offense Level gained by the above effect by 50% (rounded down)\nGain double the Offense Level from the above effects in Focused Encounters with 7 or fewer Participant Limits.",
           "coinlist": [
             {
@@ -219,7 +219,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multifold Retribution",
+          "name": "Çoklu Karşılık",
           "desc": "",
           "coinlist": [
             {
@@ -240,8 +240,8 @@
         },
         {
           "level": 4,
-          "name": "Multifold Retribution",
-          "desc": "[StartBattle] At 6+ sum of Envy A-Reson., use 'A Just Vengeance' as Counter.\nUpon activating the above effect, the Skill's affinity is changed to Envy.\n(Leftmost 'Multifold Retribution' is activated first. Activates 2 times per turn)",
+          "name": "Çoklu Karşılık",
+          "desc": "[StartBattle] At 6+ sum of Envy A-Reson., use 'Adil Bir İntikam' as Counter.\nUpon activating the above effect, the Skill's affinity is changed to Envy.\n(Leftmost 'Çoklu Karşılık' is activated first. Activates 2 times per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -266,7 +266,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "A Just Vengeance",
+          "name": "Adil Bir İntikam",
           "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./3) (Max 4)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional Offense Level to the Offense Level gained by the above effect (rounded down)",
           "coinlist": [
             {
@@ -301,7 +301,7 @@
         },
         {
           "level": 4,
-          "name": "A Just Vengeance",
+          "name": "Adil Bir İntikam",
           "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./2) (Max 6)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional Offense Level to the Offense Level gained by the above effect (rounded down)\nGain double the Offense Level from above effects in encounters with 6 or fewer Participant Limits.",
           "coinlist": [
             {
@@ -341,7 +341,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Shall Nibble Thee!",
+          "name": "Seni Kemireceğim!",
           "desc": "",
           "coinlist": [
             {
@@ -355,7 +355,7 @@
         },
         {
           "level": 2,
-          "name": "I Shall Nibble Thee!",
+          "name": "Seni Kemireceğim!",
           "desc": "[WhenUse] Gain +1 [Aggro] to this Skill Slot next turn",
           "coinlist": [
             {
@@ -369,7 +369,7 @@
         },
         {
           "level": 4,
-          "name": "I Shall Nibble Thee!",
+          "name": "Seni Kemireceğim!",
           "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn",
           "coinlist": [
             {
@@ -388,7 +388,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flashing Lure",
+          "name": "Parlayan Yem",
           "desc": "",
           "coinlist": [
             {
@@ -416,7 +416,7 @@
         },
         {
           "level": 2,
-          "name": "Flashing Lure",
+          "name": "Parlayan Yem",
           "desc": "[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn",
           "coinlist": [
             {
@@ -447,7 +447,7 @@
         },
         {
           "level": 4,
-          "name": "Flashing Lure",
+          "name": "Parlayan Yem",
           "desc": "[WhenUse] Gain +4 [Aggro] to this Skill Slot next turn\n[WhenUse] If target has 6+ [Burst], Coin Power +1",
           "coinlist": [
             {
@@ -483,7 +483,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Whirlwind Om-Nom-Nom!",
+          "name": "Kasırga Om-Nom-Nom!",
           "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn ",
           "coinlist": [
             {
@@ -511,7 +511,7 @@
         },
         {
           "level": 4,
-          "name": "Whirlwind Om-Nom-Nom!",
+          "name": "Kasırga Om-Nom-Nom!",
           "desc": "[WhenUse] Gain +5 [Aggro] to this Skill Slot next turn\n[WhenUse] If target has 6+ [Burst], Coin Power +1",
           "coinlist": [
             {
@@ -544,7 +544,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Chattering Teeth",
+          "name": "Dişlerin Takırtısı",
           "desc": "[EndBattle] Heal HP equal to remaining Shield HP (Once per turn. Max Heal amount: 10% of Max HP)",
           "coinlist": [
             {
@@ -558,7 +558,7 @@
         },
         {
           "level": 4,
-          "name": "Chattering Teeth",
+          "name": "Dişlerin Takırtısı",
           "desc": "[WhenUse] If target has 6+ [Burst], Final Power +3\n[EndBattle] Heal HP equal to remaining Shield HP (Once per turn. Max Heal amount: 10% of Max HP)",
           "coinlist": [
             {
@@ -577,7 +577,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Draw of the Sword",
+          "name": "Kılıç Çekimi",
           "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -598,7 +598,7 @@
         },
         {
           "level": 2,
-          "name": "Draw of the Sword",
+          "name": "Kılıç Çekimi",
           "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -619,7 +619,7 @@
         },
         {
           "level": 4,
-          "name": "Draw of the Sword",
+          "name": "Kılıç Çekimi",
           "desc": "<style=\"highlight\">At 5+ [Breath] on self, Coin Power +1\n</style>[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -645,7 +645,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blade Arc",
+          "name": "Bıçak Yayı",
           "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -666,7 +666,7 @@
         },
         {
           "level": 2,
-          "name": "Blade Arc",
+          "name": "Bıçak Yayı",
           "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -687,7 +687,7 @@
         },
         {
           "level": 4,
-          "name": "Blade Arc",
+          "name": "Bıçak Yayı",
           "desc": "<style=\"highlight\">At 7+ [Breath] on self, Coin Power +1\n</style>[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -713,7 +713,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Fare Thee Well!",
+          "name": "Elveda!",
           "desc": "[WhenUse] Gain 5 [Breath]",
           "coinlist": [
             {
@@ -745,7 +745,7 @@
         },
         {
           "level": 4,
-          "name": "Fare Thee Well!",
+          "name": "Elveda!",
           "desc": "<style=\"highlight\">At 10+ [Breath] on self, Coin Power +1\n</style>[WhenUse] Gain 5 [Breath]",
           "coinlist": [
             {
@@ -785,7 +785,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Kaçınma",
           "desc": "",
           "coinlist": [
             {
@@ -799,7 +799,7 @@
         },
         {
           "level": 4,
-          "name": "Evade",
+          "name": "Kaçınma",
           "desc": "",
           "coinlist": [
             {
@@ -818,7 +818,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let Us Prepare To Collect",
+          "name": "Tahsilata Hazırnalalım!",
           "desc": "[WhenUse] Gain +2 [Vibration] Count",
           "coinlist": [
             {},
@@ -833,7 +833,7 @@
         },
         {
           "level": 2,
-          "name": "Let Us Prepare To Collect",
+          "name": "Tahsilata Hazırnalalım!",
           "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] If target has 6+ [Vibration], Clash Power +1\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn</style>",
           "coinlist": [
             {},
@@ -848,7 +848,7 @@
         },
         {
           "level": 4,
-          "name": "Let Us Prepare To Collect",
+          "name": "Tahsilata Hazırnalalım!",
           "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] Gain Clash Power +1 for every 6 [Vibration] on target (max 2)</style>\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn",
           "coinlist": [
             {
@@ -874,7 +874,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "T Corp. Accelerated Amputator",
+          "name": "T Kuruluşu Hızlandırılmış Ampütatör",
           "desc": "[WhenUse] Gain +3 [Vibration] Count",
           "coinlist": [
             {
@@ -895,7 +895,7 @@
         },
         {
           "level": 2,
-          "name": "T Corp. Accelerated Amputator",
+          "name": "T Kuruluşu Hızlandırılmış Ampütatör",
           "desc": "[WhenUse] Gain +3 [Vibration] Count\n<style=\"highlight\">[WhenUse] If target has 6+ [Vibration], Clash Power +1</style>",
           "coinlist": [
             {
@@ -923,7 +923,7 @@
         },
         {
           "level": 4,
-          "name": "T Corp. Accelerated Amputator",
+          "name": "T Kuruluşu Hızlandırılmış Ampütatör",
           "desc": "[WhenUse] Gain +3 [Vibration] Count\n[WhenUse] <style=\"highlight\">Clash Power +1 for every 6 [Vibration] on target (max 2)</style>",
           "coinlist": [
             {
@@ -956,7 +956,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "I Command Thee, Halt!",
+          "name": "Hâkânî emrimdir, dur!",
           "desc": "[WhenUse] If target has 6+ [Vibration], Clash Power +1\n[WhenUse] Consume 10 [Vibration] Count on self to gain Coin Power +2",
           "coinlist": [
             {},
@@ -982,7 +982,7 @@
         },
         {
           "level": 4,
-          "name": "I Command Thee, Halt!",
+          "name": "Hâkânî emrimdir, dur!",
           "desc": "[WhenUse] <style=\"highlight\">Clash Power +1 for every 6 [Vibration] on target (max 2)</style>\n<style=\"highlight\">[WhenUse] If target has [Binding], gain Clash Power +1</style>\n[WhenUse] Consume 10 [Vibration] Count on self to gain Coin Power +2",
           "coinlist": [
             {},
@@ -1022,7 +1022,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Shall Summon the Time",
+          "name": "Devranı Da'vet Eylerim!",
           "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, gain 4 [TimeRentalTwoPersonality] at Turn End (once per turn)\n[WhenUse] For this turn: when hit by an enemy, inflict 2 [Vibration] on target next turn (2 times per turn)",
           "coinlist": [
             {}
@@ -1030,7 +1030,7 @@
         },
         {
           "level": 4,
-          "name": "I Shall Summon the Time",
+          "name": "Devranı Da'vet Eylerim!",
           "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, gain 4 [TimeRentalTwoPersonality] at Turn End (once per turn)\n[WhenUse] For this turn: when hit by an enemy, inflict <style=\"highlight\">3</style> [Vibration] on target next turn (<style=\"highlight\">6 times</style> per turn)",
           "coinlist": [
             {}
@@ -1292,7 +1292,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
@@ -1302,7 +1302,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -1346,20 +1346,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
+          "name": "Sancho Varyantı Sertkan Teknikleri 8 – İkiye Ayır",
           "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[BeforeAttack] At 10+ [BloodArmorPersonalityFirst], Atk Weight +1\n[EndSkill] If this Skill had an increased Atk Weight, consume 10 [BloodArmorPersonalityFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
@@ -1380,7 +1380,7 @@
         },
         {
           "level": 2,
-          "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
+          "name": "Sancho Varyantı Sertkan Teknikleri 8 – İkiye Ayır",
           "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[BeforeAttack] <style=\"highlight\">Gain Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (max 2)</style>\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained",
           "coinlist": [
             {
@@ -1414,7 +1414,7 @@
         },
         {
           "level": 4,
-          "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
+          "name": "Sancho Varyantı Sertkan Teknikleri 8 – İkiye Ayır",
           "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)\n[BeforeAttack] Gain Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -1453,7 +1453,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Ascendant Sancho Hardblood Arts - La Sangre",
+          "name": "Yükselmiş Sancho Sertkan Tekniği - La Sangre",
           "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst] on self (max 2)\n[WhenUse] If target has 10+ [Laceration], Coin Power +1\n[WhenUse] Deal +5% more damage for every [Laceration] on target (max 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (max 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] If target is defeated, increase [BloodDinner] by 50. Regain half of [BloodArmorPersonalityFirst] consumed by this Skill (once per turn)",
           "coinlist": [
             {
@@ -1494,7 +1494,7 @@
         },
         {
           "level": 4,
-          "name": "Ascendant Sancho Hardblood Arts - La Sangre",
+          "name": "Yükselmiş Sancho Sertkan Tekniği - La Sangre",
           "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst] on self (max <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Laceration] on target (max 2)</style>\n[WhenUse] Deal +5% more damage for every [Laceration] on target (max 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (max 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] If target is defeated, increase [BloodDinner] by <style=\"highlight\">100</style>. Regain half of [BloodArmorPersonalityFirst] consumed by this Skill (once per turn)",
           "coinlist": [
             {
@@ -1540,7 +1540,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Variant Sancho Hardblood Arts 15 - Buildup to Finale",
+          "name": "Varyant Sancho Sertkan Sanatları 15 - Finale Hazırlık",
           "desc": "[DuelCounter]\n[StartBattle] To (3 + (highest Reson. / 2)) allies with the least HP: apply (1 + ([BloodArmorPersonalityFirst] / 15)) [SwirlingBloodPersonality] for every 40 [BloodDinner_Common_Accumulation], then consume half of [BloodArmorPersonalityFirst] on self. (once per ally; rounded down)",
           "coinlist": [
             {},
@@ -1558,7 +1558,7 @@
         },
         {
           "level": 4,
-          "name": "Variant Sancho Hardblood Arts 15 - Buildup to Finale",
+          "name": "Varyant Sancho Hardblood Arts 15 - Buildup to Finale",
           "desc": "[DuelCounter]\n[StartBattle] To (3 + (highest Reson. / 2)) allies with the least HP: apply (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality] for every 40 [BloodDinner_Common_Accumulation], then consume half of [BloodArmorPersonalityFirst] on self. (once per ally; rounded down)",
           "coinlist": [
             {},
@@ -1652,7 +1652,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Virescent Flame Palm",
+          "name": "Neşvünema Bulan Alev Avucu",
           "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WinDuel] Gain 3 [Breath]",
           "coinlist": [
             {
@@ -1683,7 +1683,7 @@
         },
         {
           "level": 2,
-          "name": "Virescent Flame Palm",
+          "name": "Neşvünema Bulan Alev Avucu",
           "desc": "If this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, Coin Power +1\n[WinDuel] Gain 3 [Breath]",
           "coinlist": [
             {
@@ -1714,7 +1714,7 @@
         },
         {
           "level": 4,
-          "name": "Virescent Flame Palm",
+          "name": "Neşvünema Bulan Alev Avucu",
           "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] Gain 3 [Breath]\n<style=\"highlight\">- Gain additional [Breath] Count equal to [DianxueDonQuixote] on target</style>",
           "coinlist": [
             {
@@ -1750,7 +1750,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Prithee, let this be an enlightening bout",
+          "name": "Bi-hakkın rica ederim, bu mübârek müsâbakadan feyz alalım!",
           "desc": "Deal +10% more damage for every 1 [DianxueDonQuixote] on target (max 30%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Gain 5 [Breath]\n- If target has [DianxueDonQuixote], gain 3 additional [Breath]",
           "coinlist": [
             {
@@ -1785,7 +1785,7 @@
         },
         {
           "level": 4,
-          "name": "Prithee, let this be an enlightening bout",
+          "name": "Bi-hakkın rica ederim, bu mübârek müsâbakadan feyz alalım!",
           "desc": "Deal <style=\"highlight\">+15%</style> more damage for every 1 [DianxueDonQuixote] on target (max <style=\"highlight\">45%</style>)\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] Gain 5 [Breath]\n- If target has [DianxueDonQuixote], gain 3 additional [Breath]",
           "coinlist": [
             {
@@ -1828,7 +1828,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thou'rt in dire need of a lesson in table manners!",
+          "name": "Sofra âdâbından bihabersin, hâ!",
           "desc": "",
           "coinlist": [
             {}
@@ -1836,7 +1836,7 @@
         },
         {
           "level": 4,
-          "name": "Thou'rt in dire need of a lesson in table manners!",
+          "name": "Sofra âdâbından bihabersin, hâ!",
           "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain +1 Coin Power for every 2 Speed difference (max 2)</style>",
           "coinlist": [
             {}
