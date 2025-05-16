@@ -2,119 +2,119 @@
   "dataList": [
     {
       "id": "FusionVibration",
-      "name": "Amplitude Entanglement",
-      "desc": "- Fuses the effects of the Tremor type added by Amplitude Entanglement and the Tremor type currently on target together under Tremor - Superposition.\n- Potency and Count values do not change over Entanglement.\n- When triggering Amplitude Conversion on Tremor - Superposition, it activates as Amplitude Entanglement instead.\n- Turn End: converted into base Tremor.",
+      "name": "Genlik Dolanıklığı",
+      "desc": "- Amplitude Entanglement ile eklenen Titreşim türü etkileri ile hedefteki mevcut Titreşim türünü Titreşim - Süperpozisyon altında birleştirir.\n- Şiddet ve Miktar değerleri Dolanıklık süresince değişmez.\n- Titreşim - Süperpozisyon üzerinde Dolanıklığı tetiklendiğinde, Amplitude Entanglement olarak aktif olur.\n- Tur Sonu: temel Titreşim türüne döner.",
       "summary": ""
     },
     {
       "id": "VibrationNesting",
-      "name": "Tremor - Superposition",
-      "desc": "- Gained through Amplitude Entanglement\n- When triggering Amplitude Conversion, add the effects of the resulting Tremor type to the list of active Tremor effects under Tremor - Superposition.",
+      "name": "Titreşim - Süperpozisyon",
+      "desc": "- Amplitude Entanglement ile kazanılır\n- Dolanıklığı tetiklendiğinde, ortaya çıkan Titreşim türünün etkileri Titreşim - Süperpozisyon altındaki aktif Titreşim etkilerine eklenir.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VibrationDistribution",
-      "name": "Tremor - Distribution",
-      "desc": "- Turn End: Gain ((sum of all allies' Tremor Count) / (# of surviving allies)) Offense Level Up next turn (max 5)\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "name": "Titreşim - Dağılım",
+      "desc": "- Tur Sonu: (tüm dostların Titreşim Miktarlarının toplamı / hayatta kalan dost sayısı) kadar bir sonraki tur Saldırı Seviyesi Artışı kazanılır (maksimum 5)\n- Titreşim Patlaması tetikleyen Yeteneklerle vurulunca, Sersemleme Eşiği etki şiddeti kadar artar\n- Tur Sonu: Miktar 1 azalır\n- (Tremor Şiddeti/Miktarı artıran veya azaltan etkilerle normal Titreşim gibi etkileşir)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TcorpSpecialInvestigator",
-      "name": "T Corp. Special Investigator Badge",
-      "desc": "-When this unit takes lethal damage, their HP does not drop below 1, instantly heals 80% of their max HP, and recovers from Stagger. (Once per Encounter)\n- When this buff effect activates, starting next turn, this unit gains 2 Attack Power Up at every Turn Start for 5 turns.",
+      "name": "T Corp. Özel Soruşturmacı Rozeti",
+      "desc": "- Bu birim ölümcül hasar aldığında, HP'si 1'in altına düşmez, maksimum HP'sinin %80'i kadar anında iyileşir ve Sersemlemeden çıkar. (Karşılaşma başına 1 kere)\n- Bu Takviye etkinleştiğinde, sonraki turdan itibaren 5 tur boyunca her Tur Başında 2 Saldırı Gücü artışı kazanır.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VibrationChain",
-      "name": "Tremor - Chain",
-      "desc": "- Lose 1 Clash Power for every 10 Tremor Potency on self (max 3)\n- When Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "name": "Titreşim - Zincir",
+      "desc": "- Kendindeki her 10 Titreşim Şiddeti için 1 Çatışma Gücü kaybı (maksimum 3)\n- Titreşim Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiği etki şiddeti kadar artar\n- Tur Sonu: Miktar 1 azalır\n- (Titreşim Şiddeti/Miktarı artıran veya azaltan etkilerle normal Titreşim gibi etkileşir)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TimeRentalTwo",
-      "name": "T Corp. Borrowed Time",
-      "desc": "Turn End:\n- Gain (Borrowed Time Count - 1) Haste, Clash Power Up, and Fragile next turn.\n- At 1 Count, gain (2 x (Borrowed Time Stack - 1) Bind next turn instead.\n- Gain 1 Stack and lose 1 Count\n- If this unit has more Bind than it has Haste, the Borrowed Time effect expires and this unit gets Staggered.",
+      "name": "T Corp. Borçlu Zaman",
+      "desc": "Tur Sonu:\n- (Borçlu Zaman Miktarı - 1) kadar Çabukluk, Çatışma Gücü artışı ve Kırılgan durumu bir sonraki tur kazanılır.\n- 1 Miktarda, bunun yerine (2 x (Borçlu Zaman Yığını - 1)) kadar Bağlanma kazanılır.\n- 1 Yığın kazanır ve 1 Miktar kaybeder\n- Eğer Bağlanma miktarı Çabukluk miktarından fazla olursa, Borçlu Zaman etkisi sona erer ve bu birim Sersemler.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TimeAccumulation",
-      "name": "Time Delay",
-      "desc": "As long as this effect is active, damage dealt against this unit is stored and not taken.\nTurn End: reduce value by 1\nTurn End: If there is only 1 value left of this effect, the effect expires after dealing (2 x stored damage) Sloth damage to this unit\nWhen this effect is active, its value cannot be gained or be refreshed.",
+      "name": "Zaman Gecikmesi",
+      "desc": "Bu etki aktif olduğu sürece, bu birime verilen hasar depolanır ve alınmaz.\nTur Sonu: değer 1 azalır\nTur Sonu: Bu etkinin sadece 1 değeri kalırsa, depolanan hasarın (2 x) katı kadar Tembellik hasarı verip etki sona erer\nBu etki aktifken, değeri kazanılamaz veya yenilenemez.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ParryingResultDown",
-      "name": "Clash Power Down",
-      "desc": "In a Clash, lose Clash Power equal to the value",
+      "name": "Çatışma Gücü Azalması",
+      "desc": "Çatışmada, değer kadar Çatışma Gücü kaybı yaşanır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ParryingResultUp",
-      "name": "Clash Power Up",
-      "desc": "In a Clash, gain Clash Power equal to the value",
-      "summary": "In a Clash, gain Clash Power equal to the value",
+      "name": "Çatışma Gücü Artışı",
+      "desc": "Çatışmada, değer kadar Çatışma Gücü kazanılır",
+      "summary": "Çatışmada, değer kadar Çatışma Gücü kazanılır",
       "undefined": "-"
     },
     {
       "id": "LimitedTime",
-      "name": "Stolen Time",
-      "desc": "- Turn Start: At 200+ value, gain (value - 200)/50 Offense Level Up & Defense Level Up.\n- Turn Start: At less than 200 value, gain (200 - value)/50 Offense Level Down & Defense Level Down.",
+      "name": "Çalınmış Zaman",
+      "desc": "- Tur Başında: 200+ değerde, (değer - 200)/50 kadar Saldırı Seviyesi ve Savunma Seviyesi artışı kazanılır.\n- Tur Başında: 200'ün altında değerde, (200 - değer)/50 kadar Saldırı Seviyesi ve Savunma Seviyesi azalması kazanılır.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "OwnTime",
-      "name": "Shared Time",
-      "desc": "- Turn Start: At 40+ value, gain (value - 40)/10 Offense Level Up & Defense Level Up.\n- Turn Start: At less than 40 value, gain (40 - value)/10 Offense Level Down & Defense Level Down.",
+      "name": "Paylaşılan Zaman",
+      "desc": "- Tur Başında: 40+ değerde, (değer - 40)/10 kadar Saldırı Seviyesi ve Savunma Seviyesi artışı kazanılır.\n- Tur Başında: 40'ın altında değerde, (40 - değer)/10 kadar Saldırı Seviyesi ve Savunma Seviyesi azalması kazanılır.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "EquitableDistribution",
-      "name": "Joint Time Expenditure",
-      "desc": "When spending Shared Time, the Brains spend an equal amount of time across the board.",
+      "name": "Ortak Zaman Harcaması",
+      "desc": "Paylaşılan Zaman harcanırken, Beyinler eşit miktarda zaman harcar.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnfairDistribution",
-      "name": "Infighting",
-      "desc": "When spending Shared Time, the Brains no longer spend an equal amount of time across the board.\nTurn Start: all parts lose Protection equal to the number of Parts with different remaining Time values.",
+      "name": "İç Çekişme",
+      "desc": "Paylaşılan Zaman harcanırken, Beyinler artık eşit miktarda zaman harcamaz.\nTur Başında: Tüm parçalar, kalan Zaman değeri farklı olan Parça sayısı kadar Koruma kaybeder.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TimeAcceleration",
-      "name": "Time Acceleration",
-      "desc": "- Gain 5 Speed\n- Enhances this unit's Skills.\n- Gain 1 Fragile; when Tremor Burst, Skill or Coin effect raises this unit's Stagger Threshold, it raises it by +50% more.",
+      "name": "Zaman Hızlandırması",
+      "desc": "- 5 Hız kazanılır\n- Bu birimin Yeteneklerini güçlendirir.\n- 1 Kırılgan kazanılır; Titreşim Patlaması, Yetenek veya Jeton etkisi bu birimin Sersemleme Eşiğini artırdığında, artış %50 daha fazla olur.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Yurodivy_LowMorale",
-      "name": "Broken Unity",
-      "desc": "- Low Morale\nGain 1 Fragile. Gain 1 Tremor Count when hit. (3 times max)",
+      "name": "Kırılmış Birlik",
+      "desc": "- Düşük Moral\n1 Kırılgan kazanılır. Vurulduğunda 1 Titreşim Miktarı kazanılır. (maksimum 3 kez)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Yurodivy_Panic",
-      "name": "Broken Unity",
-      "desc": "- Panic\nGain 2 Fragile. Gain 2 Tremor Count when hit. (3 times max)",
+      "name": "Kırılmış Birlik",
+      "desc": "- Panik\n2 Kırılgan kazanılır. Vurulduğunda 2 Titreşim Miktarı kazanılır. (maksimum 3 kez)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TimeKillerWatch",
-      "name": "Time Rescue Target",
-      "desc": "Targeted by the Time Ripper while Time Acceleration is active.",
+      "name": "Zaman Kurtarıcı Hedefi",
+      "desc": "Zaman Hızlandırması aktifken Time Ripper tarafından hedeflenir.",
       "summary": "",
       "undefined": "-"
     }
