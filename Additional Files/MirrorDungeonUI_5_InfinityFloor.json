@@ -2,71 +2,71 @@
   "dataList": [
     {
       "id": "InfinityFloor_CheckEnter_Modal_Title",
-      "content": "Parallel Superposition Mode"
+      "content": "Paralel Süperpozisyon Modu"
     },
     {
       "id": "InfinityFloor_CheckEnter_Modal_Desc",
-      "content": "You can enter the Parallel Superposition Mode.\n\nEnter the Parallel Superposition Mode and proceed to the next floor?"
+      "content": "Paralel Süperpozisyon Moduna girebilirsiniz.\n\nParalel Süperpozisyon Moduna girip sonraki kata ilerlemek ister misiniz?"
     },
     {
       "id": "InfinityFloor_Mode_Button_Title",
-      "content": "Parallel Superposition Mode : "
+      "content": "Paralel Süperpozisyon Modu : "
     },
     {
       "id": "InfinityFloor_Mode_Button_Title_forProgressPopup",
-      "content": "Parallel S."
+      "content": "Paralel S."
     },
     {
       "id": "mirror_dungeon_infinity_difficulty",
-      "content": "infinity"
+      "content": "sonsuzluk"
     },
     {
       "id": "mirror_dungeon_achievement_panel_title",
-      "content": "Achievements"
+      "content": "Başarımlar"
     },
     {
       "id": "mirror_dungeon_achievement_reward_title",
-      "content": "Rewards List"
+      "content": "Ödül Listesi"
     },
     {
       "id": "mirror_dungeon_achievement_list_title",
-      "content": "Achievements List"
+      "content": "Başarımlar Listesi"
     },
     {
       "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_COLLECTION",
-      "content": "Collection"
+      "content": "Koleksiyon"
     },
     {
       "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_CLEAR",
-      "content": "Clears"
+      "content": "Temizlemeler"
     },
     {
       "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_DECK",
-      "content": "Loadout"
+      "content": "Yükleme"
     },
     {
       "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_SHOP",
-      "content": "Shop"
+      "content": "Mağaza"
     },
     {
       "id": "mirrordungeon_mission_date",
-      "content": "The rewards can be claimed until before the Mirror Dungeon #6 Update."
+      "content": "Ödüller, Mirror Dungeon #6 Güncellemesi öncesine kadar talep edilebilir."
     },
     {
       "id": "mirrordungeon_infinityFloor_Entrance_ThemeSelectPanel",
-      "content": "Parallel Superposition Engaged"
+      "content": "Paralel Süperpozisyon Etkin"
     },
     {
       "id": "mirrordungeon_mission_clear_condition",
-      "content": "※ Mirror Dungeon floors are counted as 'cleared' only when the player consumed Enkephalin Modules in the Reward Claim window."
+      "content": "※ Mirror Dungeon katları, oyuncu Ödül Talep penceresinde Enkephalin Modüllerini kullandığında 'temizlenmiş' sayılır."
     },
     {
       "id": "mirrordungeon_infinity_open_condition",
-      "content": "Clear Canto VI"
+      "content": "Canto VI'yı temizle"
     },
     {
       "id": "InfinityFloor_Mode_Button_Notie",
-      "content": "※ Clear every Floor of your run in Hard difficulty to enter."
+      "content": "※ Girmek için zorlu modda koşunuzdaki tüm katları temizleyin."
     },
     {
       "id": "IsOnInfinityMod",
@@ -78,11 +78,11 @@
     },
     {
       "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_BATTLE",
-      "content": "Combat"
+      "content": "Savaş"
     },
     {
       "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_ALL",
-      "content": "Completionist"
+      "content": "Tamamlayıcı"
     }
   ]
 }
