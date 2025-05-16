@@ -2,228 +2,228 @@
   "dataList": [
     {
       "id": "MDcFaBa",
-      "name": "Inflict additional Burn",
-      "desc": "Inflict +1 more Burn with Skills"
+      "name": "Ekstra Yanma Ver",
+      "desc": "Yeteneklerle +1 Ekstra Yanma Ver"
     },
     {
       "id": "MDcFaBb",
-      "name": "Inflict additional Bleed",
-      "desc": "Inflict +1 more Bleed with Skills"
+      "name": "Ekstra Kanama Ver",
+      "desc": "Yeteneklerle +1 Ekstra Kanama Ver"
     },
     {
       "id": "MDcFaBc",
-      "name": "Inflict additional Tremor",
-      "desc": "Inflict +1 more Tremor with Skills"
+      "name": "Ekstra Titreme Ver",
+      "desc": "Yeteneklerle +1 Ekstra Titreme Ver"
     },
     {
       "id": "MDcFaBd",
-      "name": "Inflict additional Rupture",
-      "desc": "Inflict +1 more Rupture with Skills"
+      "name": "Ekstra Yırtılma Ver",
+      "desc": "Yeteneklerle +1 Ekstra Parçalama Ver"
     },
     {
       "id": "MDcFaBe",
-      "name": "Inflict additional Sinking",
-      "desc": "Inflict +1 more Sinking with Skills"
+      "name": "Ekstra Batma Ver",
+      "desc": "Yeteneklerle +1 Ekstra Batma Ver"
     },
     {
       "id": "MDcFaBf",
-      "name": "Slash Boost",
-      "desc": "Slash damage +15%"
+      "name": "Kesme Güçlendirmesi",
+      "desc": "Kesme Hasarı +%15"
     },
     {
       "id": "MDcFaBg",
-      "name": "Pierce Boost",
-      "desc": "Pierce damage +15%"
+      "name": "Delme Güçlendirmesi",
+      "desc": "Delme Hasarı +%15"
     },
     {
       "id": "MDcFaBh",
-      "name": "Blunt Boost",
-      "desc": "Blunt damage +15%"
+      "name": "Darbe Güçlendirme",
+      "desc": "Darbe Hasar +%15"
     },
     {
       "id": "MDcFbBa",
-      "name": "Affinity Res Up (Exc. Wrath)",
-      "desc": "Resistance against all Affinities -0.1 (Except Wrath)"
+      "name": "Tür Direnci Artışı (Öfk. Hariç)",
+      "desc": "Tüm Türlere Direnç +0.1 (Öfke Hariç)"
     },
     {
       "id": "MDcFbBb",
-      "name": "Affinity Res Up (Exc. Lust)",
-      "desc": "Resistance against all Affinities -0.1 (Except Lust)"
+      "name": "Tür Direnci Artışı (Şehv. Hariç)",
+      "desc": "Tüm Türlere Direnç +0.1 (Şehvet Hariç)"
     },
     {
       "id": "MDcFbBc",
-      "name": "Affinity Res Up (Exc. Sloth)",
-      "desc": "Resistance against all Affinities -0.1 (Except Sloth)"
+      "name": "Tür Direnci Artışı (Temb. Hariç)",
+      "desc": "Tüm Türlere Direnç +0.1 (Tembellik Hariç)"
     },
     {
       "id": "MDcFbBd",
-      "name": "Affinity Res Up (Exc. Glut.)",
-      "desc": "Resistance against all Affinities -0.1 (Except Gluttony)"
+      "name": "Tür Direnci Artışı (Obur. Hariç)",
+      "desc": "Tüm Türlere Direnç +0.1 (Oburluk Hariç)"
     },
     {
       "id": "MDcFbBe",
-      "name": "Affinity Res Up (Exc. Gloom)",
-      "desc": "Resistance against all Affinities -0.1 (Except Gloom)"
+      "name": "Tür Direnci Artışı (Kasvet Hariç)",
+      "desc": "Tüm Türlere Direnç +0.1 (Kasvet Hariç)"
     },
     {
       "id": "MDcFbBf",
-      "name": "Affinity Res Up (Exc. Pride)",
-      "desc": "Resistance against all Affinities -0.1 (Except Pride)"
+      "name": "Tür Direnci Artışı (Gurur Hariç)",
+      "desc": "Tüm Türlere Direnç +0.1 (Gurur Hariç)"
     },
     {
       "id": "MDcFbBg",
-      "name": "Affinity Res Up (Exc. Envy)",
-      "desc": "Resistance against all Affinities -0.1 (Except Envy)"
+      "name": "Tür Direnci Artışı (Kıskançlık Hariç)",
+      "desc": "Tüm Türlere Direnç +0.1 (Kıskançlık Hariç)"
     },
     {
       "id": "MDcFbBh",
-      "name": "Max HP +",
-      "desc": "Max HP +15%"
+      "name": "Maks. Can +",
+      "desc": "Maksimum Can +%15"
     },
     {
       "id": "MDcFcBa",
-      "name": "Slot Weight +",
-      "desc": "Slot Weight +1"
+      "name": "Yetenek Yuva Ağırlığı +",
+      "desc": "Yetenek Yuva Ağırlığı +1"
     },
     {
       "id": "MDcFcBb",
-      "name": "Siphon Damage",
-      "desc": "On Hit, heal 5% of damage dealt as HP"
+      "name": "Hasar Emme",
+      "desc": "Vuruşta, verilen hasarın %5'i kadar HP iyileşir"
     },
     {
       "id": "MDcFcBc",
-      "name": "Boost Speed",
-      "desc": "Max Speed +1"
+      "name": "Hız Artışı",
+      "desc": "Maksimum Hız +1"
     },
     {
       "id": "MDcFcBd",
-      "name": "Sanity Attack",
-      "desc": "On Hit, deal 2 fixed SP damage"
+      "name": "Akıl Hasarı",
+      "desc": "Vuruşta, 2 sabit SP hasarı verir"
     },
     {
       "id": "MDcFcBe",
-      "name": "Keenness",
-      "desc": "Turn Start: gain 1 Damage Up if this unit dealt damage at least once last turn"
+      "name": "Keskinlik",
+      "desc": "Tur Başında: Bu birim geçen tur en az bir kez hasar verdiyse +1 Hasar Artışı kazanır"
     },
     {
       "id": "MDcFcBf",
-      "name": "Regroup",
-      "desc": "Turn Start: Gain 3 Offense Level Up if this unit did not take HP damage last turn"
+      "name": "Toparlanma",
+      "desc": "Tur Başında: Bu birim geçen tur HP hasarı almadıysa +3 Saldırı Seviyesi kazanır"
     },
     {
       "id": "MDcFcBg",
-      "name": "Unopposed Attack Boost",
-      "desc": "Final Power +1 to Unopposed Attacks"
+      "name": "Rakipsiz Saldırı Güçlendirmesi",
+      "desc": "Rakipsiz Saldırılarda Son Güç +1"
     },
     {
       "id": "MDcFcBh",
-      "name": "Clash Attack Boost",
-      "desc": "Final Power +1 in a Clash"
+      "name": "Çatışma Saldırı Güçlendirmesi",
+      "desc": "Çatışmada Son Güç +1"
     },
     {
       "id": "MDHcFaBa",
-      "name": "Defense Level Up",
-      "desc": "Defense Level +4"
+      "name": "Savunma Seviyesi Artışı",
+      "desc": "Savunma Seviyesi +4"
     },
     {
       "id": "MDHcFaBb",
-      "name": "Defense Power Up",
-      "desc": "Defense Skill Base Power +2"
+      "name": "Savunma Gücü Artışı",
+      "desc": "Savunma Yetenek Temel Gücü +2"
     },
     {
       "id": "MDHcFaBc",
-      "name": "Max HP Up",
-      "desc": "Max HP +10%"
+      "name": "Maks. Can Artışı",
+      "desc": "Maksimum Can +%10"
     },
     {
       "id": "MDHcFaBd",
-      "name": "Damage Taken Down",
-      "desc": "Damage Taken -10%"
+      "name": "Alınan Hasar Azalması",
+      "desc": "Alınan Hasar -%10"
     },
     {
       "id": "MDHcFbBa",
-      "name": "Offense Level Up",
-      "desc": "Offense Level +3, Max HP +5%"
+      "name": "Saldırı Seviyesi Artışı",
+      "desc": "Saldırı Seviyesi +3, Maksimum Can +%5"
     },
     {
       "id": "MDHcFbBb",
-      "name": "Final Power Up",
-      "desc": "Final Power +1, Max HP +5%"
+      "name": "Son Güç Artışı",
+      "desc": "Son Güç +1, Maksimum Can +%5"
     },
     {
       "id": "MDHcFbBc",
-      "name": "Base Power Up",
-      "desc": "Base Power +1, Max HP +5%"
+      "name": "Temel Güç Artışı",
+      "desc": "Temel Güç +1, Maksimum Can +%5"
     },
     {
       "id": "MDHcFbBd",
-      "name": "Damage Dealt Up",
-      "desc": "Deal +15% damage, Max HP +5%"
+      "name": "Verilen Hasar Artışı",
+      "desc": "Verilen Hasar +%15, Maksimum Can +%5"
     },
     {
       "id": "MDHcFcBa",
-      "name": "Final Power Up I",
-      "desc": "Final Power +1, Max HP +15%"
+      "name": "Son Güç Artışı I",
+      "desc": "Son Güç +1, Maksimum Can +%15"
     },
     {
       "id": "MDHcFcBb",
-      "name": "Final Power Up II",
-      "desc": "Final Power +2, Defense Level -4, Max HP +15%"
+      "name": "Son Güç Artışı II",
+      "desc": "Son Güç +2, Savunma Seviyesi -4, Maksimum Can +%15"
     },
     {
       "id": "MDHcFcBc",
-      "name": "Base Power Up I",
-      "desc": "Base Power +1, Max HP +10%"
+      "name": "Temel Güç Artışı I",
+      "desc": "Temel Güç +1, Maksimum Can +%10"
     },
     {
       "id": "MDHcFcBd",
-      "name": "Base Power Up II",
-      "desc": "Base Power +2, Defense Level -4, Max HP +10%"
+      "name": "Temel Güç Artışı II",
+      "desc": "Temel Güç +2, Savunma Seviyesi -4, Maksimum Can +%10"
     },
     {
       "id": "MDHcFcBe",
-      "name": "Coin Power Up I",
-      "desc": "Plus Coin Power +1, Minus Coin Power -1"
+      "name": "Jeton Gücü Artışı I",
+      "desc": "Jeton Gücü +1, Jeton Gücü -1"
     },
     {
       "id": "MDHcFcBf",
-      "name": "Overload I",
-      "desc": "Offense Level +7, Defense Level -7"
+      "name": "Aşırı Yük I",
+      "desc": "Saldırı Seviyesi +7, Savunma Seviyesi -7"
     },
     {
       "id": "MDHcFdBa",
-      "name": "Final Power Up III",
-      "desc": "Final Power +2, Defense Level +6, Max HP +10%"
+      "name": "Son Güç Artışı III",
+      "desc": "Son Güç +2, Savunma Seviyesi +6, Maksimum Can +%10"
     },
     {
       "id": "MDHcFdBb",
-      "name": "Final Power Up IV",
-      "desc": "Final Power +3, Max HP +10%"
+      "name": "Son Güç Artışı IV",
+      "desc": "Son Güç +3, Maksimum Can +%10"
     },
     {
       "id": "MDHcFdBc",
-      "name": "Coin Power Up II",
-      "desc": "Plus Coin Power +1, Minus Coin Power -1, Max HP +15%"
+      "name": "Jeton Gücü Artışı II",
+      "desc": "Jeton Gücü +1, Jeton Gücü -1, Maksimum Can +%15"
     },
     {
       "id": "MDHcFdBd",
-      "name": "Base Power Up III",
-      "desc": "Base Power +2, Defense Level +3, Max HP +10%"
+      "name": "Temel Güç Artışı III",
+      "desc": "Temel Güç +2, Savunma Seviyesi +3, Maksimum Can +%10"
     },
     {
       "id": "MDHcFdBe",
-      "name": "Overload II",
-      "desc": "Offense Level +10, Defense Level -7"
+      "name": "Aşırı Yük II",
+      "desc": "Saldırı Seviyesi +10, Savunma Seviyesi -7"
     },
     {
       "id": "MDHcFdBf",
-      "name": "Resilient",
-      "desc": "Max HP +25%, Defense Level +5"
+      "name": "Dayanıklı",
+      "desc": "Maksimum Can +%25, Savunma Seviyesi +5"
     },
     {
       "id": "MDHcFdBg",
-      "name": "Headstrong",
-      "desc": "Deal +50% damage and take -50% damage"
+      "name": "İnatçı",
+      "desc": "Verilen Hasar +%50 ve Alınan Hasar -%50"
     }
   ]
 }
