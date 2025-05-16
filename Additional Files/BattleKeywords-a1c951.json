@@ -3,14 +3,14 @@
     {
       "id": "AaCeSeBa",
       "name": "HO! HO! HO!",
-      "desc": "Turn End: Gain (Poise on self/5) Poise Count next turn.\nExpires at 0 Charge.",
+      "desc": "Tur Sonu: Kendi üzerindeki Dayanıklılık / 5 kadar Dayanıklılık Miktarı kazanılır, sonraki tur geçerlidir.\nYük 0 olduğunda sona erer.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCeSeBb",
-      "name": "I'll Gift-wrap You",
-      "desc": "Gain 3 Poise every turn.\nTurn End: Heal 3 SP for every Attack Skill that dealt damage",
+      "name": "Sana Hediyem Var",
+      "desc": "Her tur 3 Dayanıklılık kazanılır.\nTur Sonu: Hasar veren her Saldırı Yeteneği için 3 SP iyileşir.",
       "summary": "",
       "undefined": "-"
     }
