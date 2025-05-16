@@ -2,145 +2,145 @@
     "dataList": [
         {
             "id": 0,
-            "content": "Clack, clack."
+            "content": "Klak, Klak."
         },
         {
             "id": 1,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "You there, third from the right. Yes, the one who just wiped the window sill."
+            "content": "Sen, sağdan üçüncü. Evet, pencere eşiğini silen."
         },
         {
             "id": 2,
             "teller": "Timid Junior Butler",
             "title": "Edgar Family",
-            "content": "Y-yes ma'am?!"
+            "content": "B-Buyrun hanfendi?!"
         },
         {
             "id": 3,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "Look at where the frames meet. Mold residue."
+            "content": "Çerçevelerin birleştiği köşeye bak. Küf kalmış."
         },
         {
             "id": 4,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "Remember. No second chances."
+            "content": "Unutma. İkinci bir şansın yok."
         },
         {
             "id": 5,
             "teller": "Timid Junior Butler",
             "title": "Edgar Family",
-            "content": "A-apologies, ma'am!!!"
+            "content": "Ö-Özür dilerim hanfendi!!!"
         },
         {
             "id": 6,
-            "content": "Clack, clack again."
+            "content": "Ve tekrar. Klak, Klak."
         },
         {
             "id": 7,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "You there. Yes, the new hire from 23 days ago. Do you not see what's wrong with your broach?"
+            "content": "Sen. Evet, şu 23 gün önce bize katılan. Broşundaki sorunu göremiyor musun?"
         },
         {
             "id": 8,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "I suppose it'll look proper once I S.Y.N.C. Is that what you want?"
+            "content": "B.O.K'dığım zaman düzgün gözükecektir herhalde. İstediğin şey bu mu yoksa?"
         },
         {
             "id": 9,
             "teller": "Scared Junior Butler",
             "title": "Edgar Family",
-            "content": "I-I-I-I-I'll wear it right, ma'am..."
+            "content": "D-D-D-D-D-D-Düzgün giymeye dikkat edeceğim, hanfendi..."
         },
         {
             "id": 10,
-            "content": "The child pays no mind to the fearful voices."
+            "content": "Çocuk, korku dolu seslere aldırış etmiyordu."
         },
         {
             "id": 11,
-            "content": "She leaves nothing behind but the sound of her low-heeled boots clacking against the wooden flooring."
+            "content": "Ardında ise, sadece tahtadan yapılmış zemine basan, düşük topuklu botlarının sesini bırakıyordu."
         },
         {
             "id": 12,
-            "content": "There is less than a day to go until the wolven hunt begins."
+            "content": "Kurt avının başlamasına, bir günden az kalmıştı."
         },
         {
             "id": 13,
-            "content": "Thus begins the morning of the Chief Butler."
+            "content": "Böylece, Baş Kahya'nın günü de başlamıştı."
         },
         {
             "id": 14,
-            "content": "She was never too nice to her subordinates to begin with, but..."
+            "content": "Astlarına başınan beridir çok iyi davranmazdı, fakat..."
         },
         {
             "id": 15,
-            "content": "... clearly, she was much more on edge than usual, and that was clear in her attitude."
+            "content": "... kesindir ki, son günlerde gerçekten de siniri tepesindeydi, ve davranışları bunu oldukça belli ediyordu."
         },
         {
             "id": 16,
             "model": "이스마엘",
             "teller": "Ishmael",
             "title": "Edgar Family",
-            "content": "Lady Ryōshū."
+            "content": "Bayan Ryōshū."
         },
         {
             "id": 17,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "... What."
+            "content": "... Ne var."
         },
         {
             "id": 18,
-            "content": "Another child, one of her subordinates, walked up behind the Chief Butler."
+            "content": "Astlarından olan başka bir çocuk, Baş Kahya'nın arkasına yaklaşmıştı."
         },
         {
             "id": 19,
-            "content": "Her expression is grim. She's obviously gearing up to bring up a rather serious subject."
+            "content": "Jestleri pek bir sönüktü. Kesinlikle önemli bir mevzudan konuyu açmaya hazırlanıyordu."
         },
         {
             "id": 20,
             "model": "이스마엘",
             "teller": "Ishmael",
             "title": "Edgar Family",
-            "content": "The other Butlers are... rather anxious. They're saying that you are quite different from your usual self, that the upcoming—"
+            "content": "Diğer kahyalar... pek bir endişeli görünüyor. Her zamanki halinden çok farklı olduğunu, ve yaşanacak k—"
         },
         {
             "id": 21,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "\"Quite different\" from my usual self? Me?"
+            "content": "Her zamanki halimden \"Çok farklı\" mı? Ben mi?"
         },
         {
             "id": 22,
             "model": "이스마엘",
             "teller": "Ishmael",
             "title": "Edgar Family",
-            "content": "... This is not to say that you normally do a sloppy job of overseeing our work. But you're much less lax than usual as of late."
+            "content": "... Normalde işinizi gözetmekte yetersiz olduğunuzu söylemeye çalışmıyorum elbette. Fakat sahiden de, son zamanlarda daha sıkısınız."
         },
         {
             "id": 23,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "Hah, B.S. I would never let such imperfections slide."
+            "content": "Hah, S.G. Böyle bir kusuru asla göz ardı etmiş olamam."
         },
         {
             "id": 24,
             "model": "이스마엘",
             "teller": "Ishmael",
             "title": "Edgar Family",
-            "content": "Certainly. But usually, you often took it upon yourself to take care of such 'imperfections' because ordering someone else to do it for you was too bothersome."
+            "content": "Kesinlikle. Fakat genelde, böyle 'kusurların' halledilmesini kendiniz üstleniyorsunuz, çünkü bunu başkasının yapmasını emretmek, başınızı çok ağrıtıyor."
         },
         {
             "id": 25,
@@ -151,155 +151,155 @@
         },
         {
             "id": 26,
-            "content": "The child was quite self-aware of her own behavior."
+            "content": "Çocuk, kendi davranışlarının çokça farkındaydı."
         },
         {
             "id": 27,
-            "content": "In fact, this newfound attitude was a deliberate one."
+            "content": "Hatta, bu yeni jestlerini bilerekten yapıyordu."
         },
         {
             "id": 28,
             "model": "이스마엘",
             "teller": "Ishmael",
             "title": "Edgar Family",
-            "content": "... I'll keep my guard up. I won't weigh you down once the hunt begins."
+            "content": "... Tetikte olacağım. Av başladığında size yük olmamaya çalışacağım."
         },
         {
             "id": 29,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "Hm. I don't appreciate you trying to read me."
+            "content": "Hm. Beni okumaya çalışmandan hiç hoşlanmadım."
         },
         {
             "id": 30,
-            "content": "The child sighs as she leaves the hallway. Something didn't go according to plan."
+            "content": "Çocuk koridordan giderken, derin bir iç çekmişti. Bir şeyler plana göre gitmiyordu."
         },
         {
             "id": 31,
-            "content": "She was merely trying to keep everyone on edge, so that..."
+            "content": "Tek yaptığı şey, herkesi tetikte tutmaktı ki..."
         },
         {
             "id": 32,
-            "content": "... when the wolf would inevitably come to besiege the manor, they could at least save their own skin."
+            "content": "... kurt eninde sonunda köşkü kuşatmaya geldiğinde, en azından kendi canlarını kurtarabilsinler."
         },
         {
             "id": 33,
-            "content": "But her uncharacteristic actions were immediately obvious to those around her."
+            "content": "Fakat alışılmadık davranışları, çevresindeki herkes tarafından farkediliyordu."
         },
         {
             "id": 34,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "Right... I suppose I'll stick to what I'm good at."
+            "content": "Doğru... Sanırım zaten iyi olduğum noktadan devam edeceğim."
         },
         {
             "id": 35,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "Because..."
+            "content": "Çünkü..."
         },
         {
             "id": 36,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "... I'm the best there is at housekeeping."
+            "content": "... İdarede benden iyisi yok."
         },
         {
             "id": 37,
-            "content": "A tenebrous night descends."
+            "content": "Kasvetli bir gece, köşke çökmüştü."
         },
         {
             "id": 38,
-            "content": "The 'Wolf', the target of this hunt..."
+            "content": "'Kurt', yani bu avın hedefi..."
         },
         {
             "id": 39,
-            "content": "... was much more powerful than anyone had anticipated. He emerged, imposing his intimidating strength before the child and the rest of her subordinates."
+            "content": "... beklenenden yüksek oranda daha güçlüydü. Çocuğa ve astına, gövde gösterisi yaparak ortaya çıkıvermişti."
         },
         {
             "id": 40,
-            "content": "The child instinctively knew."
+            "content": "Çocuk çoktan farkındaydı her şeyin."
         },
         {
             "id": 41,
-            "content": "That no matter how much her subordinates mentally prepared themselves... there was no possible future in which they will survive this encounter."
+            "content": "Astları kendilerini zihinsel olarak ne kadar hazırlasa dahi... bu karşılaşmadan sağ çıkabilecekleri bir senaryo yoktu."
         },
         {
             "id": 42,
-            "content": "So she had but one choice. There never was an alternative."
+            "content": "Çocuğun tek bir seçeneği vardı. Ona bir alternatif sunulmamıştı."
         },
         {
             "id": 43,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "All of you. Get out of here."
+            "content": "Hepiniz. Gidin."
         },
         {
             "id": 44,
             "model": "이스마엘",
             "teller": "Ishmael",
             "title": "Edgar Family",
-            "content": "Lady Ryōshū...?"
+            "content": "Bayan Ryōshū...?"
         },
         {
             "id": 45,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "He is beyond all of you. You and your pathetic skills won't even leave a scratch on him."
+            "content": "Onunla boy ölçüşemezsiniz. Siz ve acınası becerileriniz, onda en ufak çizik bile açamaz."
         },
         {
             "id": 46,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "There's much work to be done back at the manor. You haven't even started your morning duties, have you? Run along, get to work."
+            "content": "Köşkte yapılacak daha çok iş var. Sabahki görevlerini hala yapmadın, değil mi? Git, ve işine dön."
         },
         {
             "id": 47,
-            "content": "The child glared at the formidable wolf before her as she slowly drew her long knife."
+            "content": "Çocuk, küçük kılıcını çekerken, heybetli kurtla göz göze gelmişti."
         },
         {
             "id": 48,
-            "content": "And that was the end of discussion."
+            "content": "Ve bu konuşma da burada bitmişti."
         },
         {
             "id": 49,
-            "content": "She didn't have any more words to impart to her subordinates. She needed every strength she could conserve..."
+            "content": "Astlarına diyecek en ufak sözü bile kalmamıştı. Karşısındaki düşmanı alt etmenin bir ihtimal olabilmesi için dahi..."
         },
         {
             "id": 50,
-            "content": "... to even have a chance at defeating this foe."
+            "content": "...elindeki en ufak güce bile ihtiyacı vardı ."
         },
         {
             "id": 51,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "R.U.D.E."
+            "content": "P.T.Y.G."
         },
         {
             "id": 52,
             "model": "마왕히스클리프4",
             "teller": "???",
             "title": "???",
-            "content": "Indeed. I am making a rather unfortunate, destructive entrance."
+            "content": "Kesinlikle. Pek talihsiz, ve yok edici bir girişte bulundum."
         },
         {
             "id": 53,
-            "content": "The child's voice was as low and collected as it always was."
+            "content": "Çocuğun sesi, her zamanki gibi sakin ve derli topluydu."
         },
         {
             "id": 54,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "Back when I raised you like your nanny... I hardly imagined that this is where we'd end up."
+            "content": "Seni dadın gibi yetiştirirken... Kırk yıl düşünsem burada olacağımızı kestiremezdim."
         },
         {
             "id": 55,
@@ -310,21 +310,21 @@
         },
         {
             "id": 56,
-            "content": "But there was an odd shudder at the tip of the dagger she held. A little fear. Or perhaps, regret."
+            "content": "Fakat tuttuğu hançerin ucunda, ufak bir sarsıntı vardı. Ufak bir korku, veya ufak bir pişmanlık."
         },
         {
             "id": 57,
             "model": "마왕히스클리프4",
             "teller": "???",
             "title": "???",
-            "content": "I see that you now have much you must protect, Ryōshū."
+            "content": "Koruman gereken pek çok şey olduğunu görüyorum, Ryōshū."
         },
         {
             "id": 58,
             "model": "마왕히스클리프4",
             "teller": "???",
             "title": "???",
-            "content": "While I, as always, bring nothing but ruination. I only see what I must maul and destroy."
+            "content": "Ben ise, her zamanki gibi gittiğim her yere yıkım getiriyorum. Gözüm, sadece helak etmem gereken şeyleri görüyor."
         },
         {
             "id": 59,
@@ -335,30 +335,30 @@
         },
         {
             "id": 60,
-            "content": "The child fell silent."
+            "content": "Çocuk, sessizliğe bürünmüştü."
         },
         {
             "id": 61,
-            "content": "She wondered, for a moment, if things could have been different. If she had done something differently then."
+            "content": "Bir anlığına, Eğer geçmişte farklı şeyler yapsaydı yaşananların farklı bir şekilde gidip gidemeyeceğini düşünmüştü."
         },
         {
             "id": 62,
-            "content": "But they both knew very well that there was no point to such contemplations."
+            "content": "Fakat ikisi de, böyle şeyler düşünmeye yer kalmadığını biliyordu."
         },
         {
             "id": 63,
-            "content": "At this point of no return, when nothing could possibly change... there was only one option left for the child."
+            "content": "Kavşaktaki son noktadan da sonra, hiç bir şeyin değişemeyeceği o zaman... çocuğun yapabileceği tek bir şey kalmıştı."
         },
         {
             "id": 64,
             "model": "료슈",
             "teller": "Ryōshū",
             "title": "Chief Butler",
-            "content": "Hmph. I'm just taking care of an unfinished housekeeping chore."
+            "content": "Hmph. Sadece bitiremediğim bir ev işini halledeceğim."
         },
         {
             "id": 65,
-            "content": "... To hunt the wolf that bares its teeth at the one who raised him."
+            "content": "... Dişlerini, küçüklüğünde onu büyüten kişiye karşı açan o kurtu alt etmek."
         }
     ]
 }
