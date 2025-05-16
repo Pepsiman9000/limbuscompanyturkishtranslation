@@ -47,16 +47,16 @@
     },
     {
       "id": 9002,
-      "name": "Perversion",
-      "desc": "After defeating 1 or more enemy using an Attack Skill, gain +1 E.G.O resource of that Attack Skill's Affinity at the next Turn Start.\n\nIf the Attack Skill's Affinity was Wrath, gain +1 E.G.O resource of all affinities the ally has at the next Turn Start instead.",
+      "name": "Çarpıtma",
+      "desc": "1 veya daha fazla dümanı bir Saldırı Yeteneği kullanarak yendikten sonra, bir sonraki Turun Başlangıcında o Saldırı Yeteneğinin Türünü E.G.O kaynağı olarak kazanırsın.\n\nEğer Saldırı Yeteneğinin Günah Türü Öfke ise, bir sonraki Turun Başlangıcında müttefiğin sahip olduğu tüm Türlerin +1 E.G.O kaynağını kazanırsın.",
       "simpleDesc": [
         {
           "abilityID": 9002,
-          "simpleDesc": "+1 E.G.O resource of the used Skill’s Affinity"
+          "simpleDesc": "Kullanılan Yeteneğin Türünü +1 E.G.O kaynağı olarak kazan."
         },
         {
           "abilityID": 90021,
-          "simpleDesc": "+1 E.G.O resource for all Skill Affinities of the user"
+          "simpleDesc": "Kullanının tüm Yetenek Türleri için +1 E.G.O kaynağı kazan."
         }
       ]
     },
