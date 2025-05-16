@@ -1002,299 +1002,299 @@
     },
     {
       "id": "DongbaekFascination",
-      "name": "Dazzled Mind",
-      "desc": "Targets allies for attacks\nWhen staggered, remove this effect next turn.\nIf this effect isn't removed for 2 turns, lose 30 SP and remove it at the end of the turn.",
+      "name": "Kamaşmış Akıl",
+      "desc": "Müttefikleri hedef alır\nSersemlediğinde, bu etki bir sonraki tur kaldırılır.\nEğer bu etki 2 tur boyunca kaldırılmazsa, turun sonunda 30 AP kaybeder ve etki kaldırılır.",
       "summary": ""
     },
     {
       "id": "DongbaekShowdown",
-      "name": "Dueling",
-      "desc": "Turn Start: Units without this status go into a 'Fully Bloomed' status\nIf Yi Sang has this effect, Dongbaek gains 1 Attack Power Up",
+      "name": "Düello",
+      "desc": "Tur Başlangıcı: Bu duruma sahip olmayan birimler 'Tam Çiçeklenme' durumuna girer.\nYi Sang bu etkiye sahipse, Dongbaek +1 Saldırı Gücü kazanır.",
       "summary": ""
     },
     {
       "id": "DongbaekScatterPetal",
-      "name": "Scattering Petals",
-      "desc": "Turn End: At 6+ Count, become staggered",
+      "name": "Saçılmış Yapraklar",
+      "desc": "Tur Sonunda: 6+ Miktarda sersemlen.",
       "summary": ""
     },
     {
       "id": "Thorn",
-      "name": "Thorns",
-      "desc": "When hit, return 50% of the damage taken to the attacker",
-      "summary": "Deal 50% of damage taken to attacker"
+      "name": "Dikenler",
+      "desc": "Hasar alındığında, alınan hasarın %50’si saldırgana iade edilir.",
+      "summary": "Saldırgana alınan hasarın %50’sini vur."
     },
     {
       "id": "Fragile_Mind_LowMorale",
-      "name": "Perilous Heart",
-      "desc": "Turn Start: Gain 2 Attack Power Up and 3 Bind",
-      "summary": "Turn Start: Gain 2 Attack Power Up and 3 Bind"
+      "name": "Tehlikeli Kalp",
+      "desc": "Tur Başlangıcı: 2 Saldırı Gücü Artışı ve 3 Mıhlanma kazan.",
+      "summary": "Tur Başlangıcı: 2 Saldırı Gücü Artışı ve 3 Mıhlanma kazan."
     },
     {
       "id": "Fragile_Mind_Panic",
-      "name": "Faltering Heart",
-      "desc": "In panic, become staggered.",
-      "summary": "In panic, become staggered."
+      "name": "Kararsız Kalp",
+      "desc": "Panikteyken sersemle.",
+      "summary": "Panikteyken sersemle."
     },
     {
       "id": "ErodingMind",
-      "name": "Corroding Heart",
-      "desc": "Turn Start: Gain 2 Attack Power Down, 2 Fragile, and 5 Bind",
-      "summary": "Turn Start: Gain 2 Attack Power Down, 2 Fragile, and 5 Bind"
+      "name": "Aşınan Kalp",
+      "desc": "Tur Başlangıcı: 2 Saldırı Gücü Azalışı, 2 Kırılganlık ve 5 Mıhlanma kazan.",
+      "summary": "Tur Başlangıcı: 2 Saldırı Gücü Azalışı, 2 Kırılganlık ve 5 Mıhlanma kazan."
     },
     {
       "id": "CrimsonResultUp",
-      "name": "Wrath Power Up",
-      "desc": "Wrath skills gain final Power by the effect’s Count for one turn."
+      "name": "Öfke Gücü Artışı",
+      "desc": "Öfke yetenekleri bir tur boyunca etkinin miktarı kadar Son Güç kazanır."
     },
     {
       "id": "EmittedCurrent",
-      "name": "Spark Discharge",
-      "desc": "When hit, the attacker gains +1 Charge Count; when hit with a Gloom attack, gain +1 Rupture Count, then reduce Count by 1"
+      "name": "Kıvılcım Deşarjı",
+      "desc": "Hasar aldığında, saldıran +1 Şarj Sayısı kazanır; bir Kasvet saldırısı ile hasar alındığında +1 Parçalanma Miktarı kazan ve ardından Miktar'ı 1 azalt."
     },
     {
       "id": "DistortedDongrangRadiantVanity",
-      "name": "Radiant Vanity",
-      "desc": "At the start of the turn, Dongrang gains 1 Protection and 1 Attack Power Up."
+      "name": "Işık Saçan Kibir",
+      "desc": "Tur Başlangıcında, Dongrang 1 Koruma ve 1 Saldırı Gücü Artışı kazanır."
     },
     {
       "id": "DistortedDongrangEmptyMark",
-      "name": "Empty Mark",
-      "desc": "Targeted by Dongrang. Gain 2 Bind every turn, and take +50% damage from Dongrang."
+      "name": "Boş İz",
+      "desc": "Dongrang tarafından hedeflenir. Her tur 2 Mıhlanma kazan ve Dongrang'dan alınan hasar +%50 artar."
     },
     {
       "id": "DistortedDongrangEarnestAchievement",
-      "name": "Earnest Accomplishment",
-      "desc": "If this unit is defeated or its HP is brought to 1, the attacker gains buffs."
+      "name": "Mütevazi Başarı",
+      "desc": "Bu birim yenilirse veya canı 1'e düşürülürse, saldıran çeşitli güçlendirmeler kazanır."
     },
     {
       "id": "DistortedDongrangEmptyHonor",
-      "name": "Empty Honor",
-      "desc": "If Dongrang defeats this unit, he loses HP, gains 1 Emptiness, and is weakened next turn."
+      "name": "Boş Onur",
+      "desc": "Eğer Dongrang bu birimi yenerse, can kaybeder, 1 Boşluk kazanır ve sonraki tur zayıflar."
     },
     {
       "id": "DistortedDongrangMomentaryGlory",
-      "name": "Momentary Glory",
-      "desc": "At 3+ Count, Dongrang becomes more powerful."
+      "name": "Anlık Zafer",
+      "desc": "Miktar 3+ olunca, Dongrang güçlenir."
     },
     {
       "id": "DistortedDongrangEmptiness",
-      "name": "Emptiness",
-      "desc": "At 4+ Count, Dongrang becomes staggered."
+      "name": "Boşluk",
+      "desc": "Miktar 4+ olunca, Dongrang sersemler."
     },
     {
       "id": "DistortedDongrangFruition",
-      "name": "Borne Fruition",
-      "desc": "The unit that defeated this unit heals HP, and gains 1 Haste and 1 Attack Power Up next turn"
+      "name": "Meyve Verme",
+      "desc": "Bu birimi yenen birim canını iyileştirir, sonraki tur 1 Atiklik ve 1 Saldırı Gücü Artışı kazanır."
     },
     {
       "id": "EgoAwakenDongrangRadiantDesire",
-      "name": "Radiant Desire",
-      "desc": "Turn Start: Dongrang gains 1 Damage Up and 1 Protection."
+      "name": "Parlak Arzu",
+      "desc": "Tur Başlangıcı: Dongrang 1 Hasar Artışı ve 1 Koruma kazanır."
     },
     {
       "id": "EgoAwakenDongrangSeed",
-      "name": "Seeds",
-      "desc": "Turn End: At 5+ Count, gain Nutrient Drain for 2 turns; at less than 5 Count, reduce Count by 1"
+      "name": "Tohumlar",
+      "desc": "Tur Sonu: Miktar 5+ ise 2 tur için Besin Çekimi kazan; 5'ten azsa Miktar 1 azalır."
     },
     {
       "id": "EgoAwakenDongrangTree",
-      "name": "Nutrient Drain",
-      "desc": "Turn End: Dongrang heals 10 HP"
+      "name": "Besin Çekimi",
+      "desc": "Tur Sonu: Dongrang 10 can iyileştirir."
     },
     {
       "id": "EgoAwakenDongrangOverHeal",
-      "name": "Overheal",
-      "desc": "Count rises by the amount of HP Dongrang caused to heal; at 50+ Count, take Gluttony damage by the effect's Count, gain 5 Fragile, and remove the effect."
+      "name": "Aşırı İyileşme",
+      "desc": "Dongrang'ın iyileştirdiği can kadar Miktarı artar. 50+ Miktar'da, etkinin Miktarı kadar Oburluk hasarı al, 5 Kırılganlık kazan ve bu etkiyi kaldır."
     },
     {
       "id": "SinkingSurge",
-      "name": "Sinking Deluge",
-      "desc": "Deal SP damage by (Sinking Count * Sinking Potency), then remove Sinking\nIf target's SP is -45 or lower, the excess SP damage is dealt as Gloom-affinity HP damage\n(Units with no Sanity take all of it as Gloom HP damage)"
+      "name": "Batış Tufanı",
+      "desc": "(Batış Miktarı * Batış Kuvveti) kadar AP hasarı ver, ardından Batış kalkar.\nHedefin AP'si -45 veya altındaysa, fazla AP hasarı Kasvet hasarı olarak verilir.\n(Aklıselimliği olmayan birimler tüm hasarı Kasvet hasarı olarak alır.)"
     },
     {
       "id": "AmberResultUp",
-      "name": "Sloth Power Up",
-      "desc": "Sloth skills gain final Power by the effect’s Count for one turn.",
-      "summary": "Sloth Skill Final Power +{0}"
+      "name": "Tembellik Gücü Artışı",
+      "desc": "Tembellik yeteneklerinin son gücü, etkinin Miktarı kadar bir tur boyunca artar.",
+      "summary": "Tembellik Yetenekleri Son Güç +{0}"
     },
     {
       "id": "Blue",
-      "name": "Tears",
-      "desc": "Turn End: Lose 5 SP\nTails Coins inflict 2 Sinking"
+      "name": "Gözyaşları",
+      "desc": "Tur Sonu: 5 AP kaybet.\nTura gelen jetonlar 2 Batış uygular."
     },
     {
       "id": "EgoAwakenDongrangTreeDisplay",
-      "name": "Nutrient Drain",
-      "desc": "Turn End: Dongrang heals 10 HP"
+      "name": "Besin Çekimi",
+      "desc": "Tur Sonu: Dongrang 10 can iyileştirir."
     },
     {
       "id": "DongbaekFullBloomDisplay",
-      "name": "Fully Bloomed",
-      "desc": "Cannot act\nAt the end of the turn, lose 20 SP; if SP reaches -45, fully heal SP, then gain 'Dazzled Mind' next turn.\nIf this effect isn't removed for 2 turns, remove it at the end of the turn.",
+      "name": "Çiçek Açmış",
+      "desc": "Eylem yapamaz\nTur sonunda 20 AP kaybet; AP -45'e ulaşırsa, AP'yi tamamen iyileştir ve sonraki tur 'Şaşkın Zihin' kazan.\nBu etki 2 tur içinde kaldırılmazsa, tur sonunda kaldır.",
       "summary": ""
     },
     {
       "id": "TakeHpHealIncrease",
-      "name": "HP Healing Boost",
-      "desc": "HP healed by Passives, Skill effects, or Coin effects increases proportionally to the value of this effect. (Max 5)"
+      "name": "Can İyileştirme Güçlendirmesi",
+      "desc": "Pasifler, yetenek efektleri veya jeton efektleriyle iyileştirilen can, bu efektin değeriyle orantılı olarak artar. (Maks 5)"
     },
     {
       "id": "SkillPowerUp",
-      "name": "Base Power Up",
-      "desc": "Raise the Base Power of Skills by the effect's Count."
+      "name": "Taban Güç Artışı",
+      "desc": "Yeteneklerin Temel Gücünü efektin Miktarı kadar artır."
     },
     {
       "id": "MaxHpMultiplier",
-      "name": "Max HP Up",
-      "desc": "Raise the Max HP by 10% per Count."
+      "name": "Maks Can Artışı",
+      "desc": "Maksimum canı Miktar başına %10 artır."
     },
     {
       "id": "KCorpSerum",
-      "name": "K Corp Ampule",
-      "desc": "Turn Start: At less than 4 Count, heal by (Count * 5)% of Max HP\nAt 4+ Count, the unit dies",
+      "name": "K Şirketi Ampulü",
+      "desc": "Tur Başlangıcı: Miktar 4'ten azsa, Maks Canın %(Miktar * 5)'si kadar iyileş\nMiktar 4+ ise, birim ölür",
       "summary": ""
     },
-    {
+    { 
       "id": "Talisman",
-      "name": "Talisman",
-      "desc": "On hit, inflict Rupture by the Count; When hit, gain Rupture by the Count.\nTurn End: At 6+ Count, remove all Talisman and take fixed damage by its Count.",
-      "summary": "Inflict Rupture with attacks and gain Rupture when hit"
+      "name": "Tılsım",
+      "desc": "Vuruş ile, Miktar kadar Parçalanma uygula; Vurulduğunda, Miktar kadar Parçalanma kazan.\nTur Sonu: Miktar 6+ ise, tüm Tılsımları kaldır ve Miktarı kadar sabit hasar al.",
+      "summary": "Saldırılarla Parçalanma uygula ve vurulduğunda Parçalanma kazan"
     },
     {
       "id": "Choice_90104001",
-      "name": "Understanding",
-      "desc": "At the start of the battle, gain 2 E.G.O resources for every Affinity.",
-      "summary": "Gain +2 E.G.O resource for all Affinities"
+      "name": "Anlayış",
+      "desc": "Savaş başlangıcında, her Yatkınlıklar için 2 E.G.O kaynağı kazan.",
+      "summary": "Tüm Yatkınlıklar için +2 E.G.O kaynağı kazan"
     },
     {
       "id": "Choice_9010400101",
-      "name": "Determined",
-      "desc": "All Ally Units gain +2 Skill Final Power for this battle",
-      "summary": "Skill Final Power +2"
+      "name": "Kararlı",
+      "desc": "Tüm Müttefik Birimler bu çatışma için +2 Yetenek Son Gücü kazanır",
+      "summary": "Yetenek Son Güç +2"
     },
     {
       "id": "Choice_90104002",
-      "name": "Longing",
-      "desc": "All Ally Units gain +1 Skill Power for this battle",
-      "summary": "Skill Power +1"
+      "name": "Özlem",
+      "desc": "Tüm Müttefik Birimler bu savaş için +1 Yetenek Gücü kazanır",
+      "summary": "Yetenek Gücü +1"
     },
     {
       "id": "MentalSystemResultIncrease_Typo",
-      "name": "SP Heal Efficiency",
-      "desc": "Amount of SP healed due to the Identity's 'Base factors increasing Sanity(SP)'"
+      "name": "AP İyileştirme Verimliliği",
+      "desc": "Kimliğin 'Aklıselimliği (AP) artıran temel faktörler'inden dolayı iyileştirilen AP miktarı"
     },
     {
       "id": "MentalSystemResultDecrease_Typo",
-      "name": "SP Loss Efficiency",
-      "desc": "Amount of SP lost due to the Identity's 'Base factors decreasing Sanity(SP)'"
+      "name": "AP Kaybı Verimliliği",
+      "desc": "Kimliğin 'Aklıselimliği (AP) azaltan temel faktörler'inden dolayı kaybedilen AP miktarı"
     },
     {
       "id": "DuelDeclaration",
-      "name": "Declared Duel",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when another unit inflicts Declared Duel on the same target."
+      "name": "Düello İlanı",
+      "desc": "- Düello İlanı uygulayan birim ile bu duruma sahip birim arasındaki Çarpışmalarda, ilan eden +1 Çarpışma Gücü kazanır. Vuruşta, ilan eden sonraki tur 1 Atiklik kazanır. (Turda 4 kez)\n- Birim farklı bir hedefe Düello İlanı uygularsa sona erer. Aynı hedefe başka bir birim Düello İlanı uygularsa değiştirilir."
     },
     {
       "id": "Aggro",
-      "name": "Aggro",
-      "desc": "In focused encounters, slots with higher Aggro values are more likely to be targeted by enemies."
+      "name": "Tehdit Değeri",
+      "desc": "Odaklı karşılaşmalarda, daha yüksek tehdit değeri değerine sahip slotların düşmanlar tarafından hedef alınma olasılığı daha yüksektir."
     },
     {
       "id": "BurstVulnerable",
-      "name": "Rupture Fragility",
-      "desc": "Take +1 damage per Count from Rupture effects for one turn."
+      "name": "Parçalanma Kırılganlığı",
+      "desc": "Bir tur boyunca Parçalanma efektlerinden Miktar başına +1 hasar al."
     },
     {
       "id": "EmergencyFeed",
-      "name": "Emergency Nutrient Supply",
-      "desc": "At the end of the turn, if this unit has healed 15% of Max HP or more, the body is restored next turn."
+      "name": "Acil Besin Kaynağı",
+      "desc": "Tur sonunda, bu birim Maks Canının %15'ini veya daha fazlasını iyileştirdiyse, sonraki tur vücut onarılır."
     },
     {
       "id": "Bullet_Crab",
-      "name": "Molted Shell Shot",
-      "desc": "Resource used by certain skills for additional effects."
+      "name": "Kabuk Değişim Mermisi",
+      "desc": "Bazı yetenekler tarafından ek efektler için kullanılan kaynak."
     },
     {
       "id": "SinkingVulnerable",
-      "name": "Sinking Fragility",
-      "desc": "Take +1 damage per Count from Sinking effects for one turn."
+      "name": "Batış Kırılganlığı",
+      "desc": "Bir tur boyunca Batış efektlerinden Miktar başına +1 hasar al."
     },
     {
       "id": "BurstProtection",
-      "name": "Rupture Protection",
-      "desc": "Take -1 damage per Count from Rupture effects for one turn."
+      "name": "Parçalanma Koruması",
+      "desc": "Bir tur boyunca Parçalanma efektlerinden Miktar başına -1 hasar al."
     },
     {
       "id": "PseudoLastBoss_KingCrap",
-      "name": "Crab Rage",
-      "desc": "At the start of the turn, apply Attack Power Up to all other allied crabs, and gain 2 Protection if its Shell isn't broken.\n-5 SP to target when using a skill.\nAt 50%- HP, every part gains 2 Attack Power Up and 2 Fragile."
+      "name": "Yengeç Öfkesi",
+      "desc": "Tur başında, diğer müttefik yengeçlere Saldırı Gücü Artışı uygula ve Kabuğu kırılmamışsa 2 Koruma kazan.\nYetenek kullanırken hedefe -5 AP uygula.\nCanı %50'nin altındayken her parça 2 Saldırı Gücü Artışı ve 2 Kırılganlık kazanır."
     },
     {
       "id": "ChargeForceField",
-      "name": "Charge Barrier",
-      "desc": "- Gain (Charge Barrier # x 3) Shield.\n- Lose 1 Charge Barrier after losing (Charge Barrier # x 3) Shield.\n- (If the unit is a W Corp. employee, ALL Charge Barrier effects activate at (Charge Barrier # x 5) instead of at (Charge Barrier # x 3))\n- Turn End: Gain a Charge Count for each Charge Barrier #, and Charge Barrier and Shield gained from Charge Barrier expire completely next turn"
+      "name": "Şarj Bariyeri",
+      "desc": "- (Şarj Bariyeri # x 3) Kalkan kazan.\n- (Şarj Bariyeri # x 3) Kalkan kaybedince 1 Şarj Bariyeri kaybet.\n- (Birim W Şirketi çalışanıysa, TÜM Şarj Bariyeri etkileri (Şarj Bariyeri # x 5) değerinde aktif olur)\n- Tur Sonu: Her Şarj Bariyeri # için 1 Şarj Miktarı kazan ve Şarj Bariyeri ile kazanılan Kalkan sonraki tur tamamen kalkar."
     },
     {
       "id": "SlashResultUp",
-      "name": "Slash Power Up",
-      "desc": "Slash skills gain final Power by the effect’s Count for one turn."
+      "name": "Kesme Gücü Artışı",
+      "desc": "Kesme yetenekleri, bir tur boyunca efektin Miktarı kadar Son Güç kazanır."
     },
     {
       "id": "Discard",
-      "name": "Discard",
-      "desc": "- Delete Skills that fit the condition and are selectable during the Chaining Phase from the Dashboard. (Defensive & E.G.O Skills do not count. Does not delete the Skill from the upcoming Skills list)\n- Discarded Skills will not activate Skill effects or Coin effects other than effects from Discard, and will not give E.G.O resources."
+      "name": "At",
+      "desc": "- Zincirleme Aşamasında seçilebilen ve koşula uyan Yetenekleri Gösterge Panosundan sil. (Savunma ve E.G.O Yetenekleri sayılmaz. Yaklaşan Yetenekler listesinden silinmez)\n- Atılan Yetenekler, Atma durumunda gerçekleşecek etkiler dışındaki Yetenek efektlerini veya Jeton efektlerini tetiklemez ve E.G.O kaynağı vermez."
     },
     {
       "id": "KnowledgeExplored",
-      "name": "Insight",
-      "desc": "The rank of the last Skill Discarded by the unit with this effect (Base Value: 1)"
+      "name": "İçgörü",
+      "desc": "Bu efekte sahip birimin attığı son Yeteneğin seviyesi (Taban Değer: 1)"
     },
     {
       "id": "Unjust_Enrichment",
-      "name": "Unjust Enrichment",
-      "desc": "- Gained on Heads Hit against target with Bleed (Max 4)\n- When 'Bullets are Pricey' Passive activates, consume all Unjust Enrichment stack to deal bonus damage"
+      "name": "Haksız Kazanç",
+      "desc": "- Kanamalı hedeflere Tura vuruşlarında kazanılır (Maks 4)\n- 'Mermiler Pahalıdır' Pasifi tetiklendiğinde, tüm Haksız Kazanç yüklerini harcayarak ek hasar ver. "
     },
     {
       "id": "Resentment",
-      "name": "Resentment",
-      "desc": "If the enemy with the <sprite name=\"RetaliationBook\"><color=#e30000><link=\"RetaliationBook\">Vengeance Mark</color></link></u> is hit by an attack, this effect expires at Attack End.\nExpires at the end of the turn",
+      "name": "Kin",
+      "desc": "<sprite name=\"RetaliationBook\"><color=#e30000><link=\"RetaliationBook\">İntikam İşareti</color></link></u> olan düşman bir yetenek ile saldırılınırsa, bu etki Saldırı Sonunda kalkar.\nTur sonunda kalkar",
       "undefined": "-"
     },
     {
       "id": "RetaliationBook",
-      "name": "Vengeance Mark",
-      "desc": "Applied to the unit that dealt the most damage to an ally (Max 1)",
+      "name": "İntikam İşareti",
+      "desc": "Bir müttefiğe en çok hasar veren birime uygulanır (Maks 1)",
       "undefined": "-"
     },
     {
       "id": "PenetrateResultUp",
-      "name": "Pierce Power Up",
-      "desc": "Pierce skills gain final Power by the effect’s Count for one turn."
+      "name": "Delme Gücü Artışı",
+      "desc": "Delme yetenekleri, bir tur boyunca efektin Miktarı kadar Son Güç kazanır."
     },
     {
       "id": "DuelDeclaration_DonQuixote",
-      "name": "Declared Duel - Don Quixote",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when other unit inflicts Declared Duel on the same target."
+      "name": "Düello İlanı - Don Quixote",
+      "desc": "- Düello İlanı uygulayan birim ile bu duruma sahip birim arasındaki Çarpışmalarda, ilan eden +1 Çarpışma Gücü kazanır. Vuruş ile, ilan eden sonraki tur 1 Atiklik kazanır. (Turda 4 kez)\n- Birim farklı bir hedefe Düello İlanı uygularsa sona erer. Aynı hedefe başka bir birim Düello İlanı uygularsa değiştirilir."
     },
     {
       "id": "DuelDeclaration_Outis",
-      "name": "Declared Duel - Outis",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when other unit inflicts Declared Duel on the same target."
+      "name": "Düello İlanı - Outis",
+      "desc": "- Düello İlanı uygulayan birim ile bu duruma sahip birim arasındaki Çarpışmalarda, ilan eden +1 Çarpışma Gücü kazanır. Vuruş ile, ilan eden sonraki tur 1 Atiklik kazanır. (Turda 4 kez)\n- Birim farklı bir hedefe Düello İlanı uygularsa sona erer. Aynı hedefe başka bir birim Düello İlanı uygularsa değiştirilir."
     },
     {
       "id": "DuelDeclaration_Sinclair",
-      "name": "Declared Duel - Sinclair",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when another unit inflicts Declared Duel on the same target."
+      "name": "Düello İlanı - Sinclair",
+      "desc": "- Düello İlanı uygulayan birim ile bu duruma sahip birim arasındaki Çarpışmalarda, ilan eden +1 Çarpışma Gücü kazanır. Vuruşta, ilan eden sonraki tur 1 Atiklik kazanır. (Turda 4 kez)\n- Birim farklı bir hedefe Düello İlanı uygularsa sona erer. Aynı hedefe başka bir birim Düello İlanı uygularsa değiştirilir."
     },
     {
       "id": "VibrationExplosion",
-      "name": "Tremor Burst",
-      "desc": "Raise target's Stagger Threshold by Tremor Potency on target"
+      "name": "Titreşim Patlaması",
+      "desc": "Hedefin Sersemleme Eşiğini Titreşim Kuvveti kadar artırır"
     },
     {
       "id": "OneOnOneDuel",
-      "name": "Single Combat",
-      "desc": "Established when the attacked Slot is targeted by a single unit, and only by that single unit. This condition is established only between the attacking unit and the attacked Slot. (Does not apply to reused Skills)"
+      "name": "Tekli Mücadele",
+      "desc": "Saldırılan Yuva tek bir birim tarafından ve yalnızca o birim tarafından hedeflendiğinde oluşur. Bu koşul yalnızca saldıran birim ile saldırılan Slot arasında geçerlidir. (Yeniden kullanılan Yeteneklerde geçerli değildir)"
     },
     {
       "id": "BulletFreischutz",
@@ -1303,387 +1303,386 @@
     },
     {
       "id": "FreischutzShotCount",
-      "name": "Magic Bullet",
-      "desc": "- Max: 7\n- Value changes depending on certain Skill effects.\n- [Lobotomy E.G.O::Magic Bullet Outis Only]\n· The higher the value, the higher the Base Power and Coin Power of Skill 3"
+      "name": "Büyülü Mermi", 
+      "desc": "- Maks: 7\n- Değer belirli Yetenek etkilerine göre değişir.\n-[Sadece Lobotomi E.G.O::Büyülü Mermi Outis]\n· Değer arttıkça Yetenek 3'ün taban ve Jeton gücü yükselir."
     },
     {
       "id": "DarkFlame",
-      "name": "Dark Flame",
-      "desc": "- Unique Burn\n- Max Value: 7\n- Target loses Defense Level equal to the value of this effect\n- Turn End: Deal (Value x Burn on target) Pride Affinity damage, then expires"
+      "name": "Kara Alev", 
+      "desc": "- Özel Yanma\n- Maks Değer: 7\n- Hedef bu etkinin değeri kadar Savunma Seviyesi kaybeder.\n- Tur Sonu: (Değer x Hedefteki Yanma) kadar Kibir Yatkınlık hasarı ver, sonrasında etkiyi kaldır."
     },
     {
       "id": "CtrlTeamCaptain",
-      "name": "Control Team Captain",
-      "desc": "- Skill Slot +1\n- Modify Skill pool: Gain 1 use of Skill 3, but lose 1 use of Skill 1\n- When this unit defeats an enemy with a Skill, 2 allies(including this unit) with the least SP heal 25 SP. Gain +2 E.G.O resource to the Affinity of the Skill that defeated the enemy; gain +1 E.G.O resource to rest of the Affinities"
+      "name": "Kontrol Ekibi Kaptanı",
+      "desc": "- Yetenek Yuvası +1\n- Yetenek havuzunu değiştir: Yetenek 3'ten 1 kullanım kazan, ancak Yetenek 1'den 1 kullanım kaybet\n- Bu birim bir düşmanı Yetenekle yenerse, en düşük AP'ye sahip 2 müttefik (bu birim dahil) 25 AP iyileştirir. Düşmanı yenen Yeteneğin Yatkınlığında +2 E.G.O kaynağı kazan; diğer Yatkınlıklar için +1 E.G.O kaynağı kazan."
     },
     {
       "id": "HeatedGasHarpoon",
-      "name": "Heated Gas Harpoon",
-      "desc": "For 1 turn, inflict 1 Burn with Heads Hit"
+      "name": "Isıtılmış Gaz Zıpkını",
+      "desc": "1 tur boyunca, Tura vuruşlarında 1 Yanma uygula"
     },
     {
       "id": "OverHeatedGasHarpoon",
-      "name": "Overheated Gas Harpoon",
-      "desc": "For 1 turn, inflict 1 Burn On Hit"
+      "name": "Aşırı Isınmış Gaz Zıpkını",
+      "desc": "1 tur boyunca, Vuruşlarda 1 Yanık uygula"
     },
     {
       "id": "CoverAttack",
-      "name": "Assist Attack",
-      "desc": "- If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with its Skill 1 against the same enemy Unit A attacked with its Skill. Activates at Unit A's Attack End.\n- The Skill used as an Assist Attack does not affect Unit B's upcoming Skills list."
+      "name": "Destek Saldırısı",
+      "desc": "- Eğer A birimi bu efekti B birimine uygularsa: B birimi, A biriminin Yeteneğiyle saldırdığı aynı düşmana karşı Yetenek 1'iyle Karşılıksız bir Saldırı yapar. A biriminin Saldırısı sonunda aktif olur.\n- Destek Saldırısı olarak kullanılan Yetenek, B biriminin yaklaşan Yetenekler listesini etkilemez."
     },
     {
       "id": "ReCompulsion",
-      "name": "Reverse Compulsion",
-      "desc": "Heal 15 SP at every Turn Start"
+      "name": "Ters Dürtü",
+      "desc": "Her Tur Başlangıcında 15 AP iyileştir"
     },
     {
       "id": "IndigoResultUp",
-      "name": "Pride Power Up",
-      "desc": "Pride Skills gain final Power by the effect’s Count for one turn."
+      "name": "Gurur Güç Artışı",
+      "desc": "Gurur Yetenekleri, bir tur boyunca efektin Miktarı kadar Son Güç kazanır."
     },
     {
       "id": "BladeResultUpTier1",
-      "name": "Sword of the Homeland - Rending",
-      "desc": "Skill 1 gains Final Power by the effect’s Count for this turn."
+      "name": "Vatanın Kılıç Oyunu - Parçalayıcı",
+      "desc": "Yetenek 1, bu tur için efektin Miktarı kadar Son Güç kazanır."
     },
     {
       "id": "BladeResultUpTier2",
-      "name": "Sword of the Homeland - Penetrating",
-      "desc": "Skill 2 gains Final Power by the effect’s Count for this turn."
+      "name": "Vatanın Kılıç Oyunu - Delici",
+      "desc": "Yetenek 2, bu tur için efektin Miktarı kadar Son Güç kazanır."
     },
     {
       "id": "SwordPlayOfTheHomeland",
-      "name": "Swordplay of the Homeland",
-      "desc": "- When at 5+ Nefes, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\n- When at 7+ Nefes, upon Skill use, Skill 3 deals +(30/# of Coins)% more damage and deals +(50/# of Coins)% damage on Critical Hit"
+      "name": "Vatanın Kılıç Oyunu",
+      "desc": "- 5+ İstikrar var iken, Yetenek kullanıldığında, Yetenek 1 ve Yetenek 2 Jeton Gücü +(3/Jeton sayısı, minimum 1) kazanır ve Kritik Vuruşta +(30/Jeton sayısı)% hasar verir\n- 7+ İstikrar var iken, Yetenek kullanıldığında, Yetenek 3 +(30/Jeton sayısı)% daha fazla hasar verir ve Kritik Vuruşta +(50/Jeton sayısı)% hasar verir"
     },
     {
       "id": "SwordPlayOfTheMemorial",
-      "name": "Remembrance",
-      "desc": "- When at 5+ Nefes, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\n- When at 7+ Nefes, upon Skill use, Skill 3 deals +(30/# of Coins)% more damage and deals +(50/# of Coins)% damage on Critical Hit"
+      "name": "Anı",
+      "desc": "- 5+ İstikrar var iken, Yetenek kullanıldığında, Yetenek 1 ve Yetenek 2 Jeton Gücü +(3/Jeton sayısı, minimum 1) kazanır ve Kritik Vuruşta +(30/Jeton sayısı)% hasar verir\n- 7+ İstikrar var iken, Yetenek kullanıldığında, Yetenek 3 +(30/Jeton sayısı)% daha fazla hasar verir ve Kritik Vuruşta +(50/Jeton sayısı)% hasar verir"
     },
     {
       "id": "RedApricotBlossom",
-      "name": "Red Plum Blossom",
-      "desc": "- Unique Bleed\n- Max value: 10\n- +10% chance for this unit to be Critically Hit if this unit is the main target\n- When struck by a Critical Hit, gain Bleed equal to the half of the value and take +(value x 3)% damage on Critical Hit\n- Reduce value by 1 when hit",
-      "summary": "Higher chance to be Critically Hit; take more damage upon Critical Hit"
+      "name": "Kırmızı Erik Çiçeği",
+      "desc": "- Özel Kanama\n- Maks değer: 10\n- Bu birim ana hedefse Kritik Hasar yeme şansı +%10\n- Kritik Vuruş alındığında, değerin yarısı kadar Kanama kazan ve Kritik Vuruşta +(değer x 3)% hasar al\n- Vurulduğunda değeri 1 azalt",
+      "summary": "Daha yüksek Kritik Vuruş alma şansı; Kritik Vuruşta daha fazla hasar alır"
     },
     {
       "id": "VibrationCollapse",
-      "name": "Tremor - Decay",
-      "desc": "Lose 1 Defense Level for every 4 Tremor Potency on self\nWhen Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\nTurn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raises or reduces Tremor Potency/Count)"
+      "name": "Titreşim - Çöküş",
+      "desc": "Her 4 Titreşim Kuvveti için 1 Savunma Seviyesi kaybet\nTitreşim Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiğini efektin Kuvveti kadar artır\nTur Sonu: Miktarı 1 azalt\n(Normal Titreşim'le Kuvvet/)"
     },
     {
       "id": "EchoOfMansion",
-      "name": "Echoes of the Manor",
-      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Echoes of the Manor. When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit next turn\n- Units without SP: -10% chance to flip Heads\n- Reduced by 1 at Turn End\nThis effect is not cumulative; inflicting it will replace the current value with the inflicted value.\n※ Apply the \"Units without SP\" conditional to certain enemies that have SP but can't change their Panic Types."
+      "name": "Malikanenin Yankıları",
+      "desc": "- Yetenek veya Jeton efektlerinden Batış Kuvveti/Miktarı kazandığında %50 şansla +1 Batış Miktarı kazan\n- AP'si olan birimler: Panik Türünü Malikanenin Yankıları'na çevir. Bu birim Paniklerse, sonraki tur 2 rastgele müttefiğe 2 Malikanenin Yankıları uygula\n- AP'si olmayan birimler: Tura şansı -%10\n- Tur Sonu: 1 azalır\nBu efekt birikmez; uygulandığında mevcut değeri yenisiyle değiştir.\n※ 'AP'si olmayan birimler' koşulunu AP'si olan ama Panik Türünü değiştiremeyen düşmanlara uygula."
     },
     {
       "id": "Switch_Vibration",
-      "name": "Amplitude Conversion",
-      "desc": "Converts Tremor or already converted Tremor on target to a different type of Tremor.\nPotency and Count values do not change over the conversion."
+      "name": "Genlik Dönüşümü",
+      "desc": "Hedefteki Titreşim veya dönüştürülmüş Titreşim'i farklı tür Titreşim'e çevir.\nDönüşüm sırasında Kuvvet ve Miktar değerleri değişmez."
     },
     {
       "id": "AzureResultUp",
-      "name": "Gloom Power Up",
-      "desc": "Gloom Skills gain final Power by the effect’s Count for one turn."
+      "name": "Kasvet Gücü Artışı",
+      "desc": "Kasvet Yetenekleri, bir tur boyunca efektin Miktarı kadar Son Güç kazanır."
     },
     {
       "id": "VibrationCrack",
-      "name": "Tremor - Fracture",
-      "desc": "- When Staggered, and when the sum of Tremor Potency and Count adds up to 20 or higher, raise Stagger Level by 1\n- Cannot exceed maximum Stagger Level with this effect\n\nWhen hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\nTurn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raises or reduces Tremor Potency/Count)"
+      "name": "Titreşim - Kırık",
+      "desc": "- Sersemlediğinde ve Titreşim Kuvveti + Miktarı toplamı 20'den fazla ise ise, Sersemleme Seviyesini 1 artır\n- Bu efektle maksimum Sersemleme Seviyesi aşılamaz\n\nTitreşim Patlaması tetikleyen saldırılarla vurulduğunda, Sersemleme Eşiğini efektin Kuvveti kadar artır\nTur Sonu: Miktarı 1 azalt\n(Titreşim Kuvveti/Miktarı artıran/azaltan efektler ile Normal Titreşimle aynı şekilde etkileşir)"
     },
     {
       "id": "ForwardToTheKing",
-      "name": "Before the King",
-      "desc": "When this unit's attack with 1 Atk Weight hits, inflict 50% of the resulting Coin value On Hit as (Affinity/Attack Type of the Attack Skill used to hit) damage against 2 other attackable enemies with the least HP.",
+      "name": "Kralın Huzurunda",
+      "desc": "Bu birimin 1 Saldırı Ağırlıklı saldırısı hedefe vurduğunda, vuruşta gelen Jeton değerinin %150'sini en az cana sahip 2 diğer düşmana hasar olarak (Hasar vermek için kullanılan yetenekle aynı Yatkınlık/Saldırı Tipi ile) uygula.",
       "summary": ""
     },
     {
       "id": "ForwardToTheBoundKing",
-      "name": "Before the King in Binds",
-      "desc": "When this unit's attack with 1 Atk Weight hits, inflict 100% of the resulting Coin value On Hit as (Affinity/Attack Type of the Attack Skill used to hit) damage against 2 other attackable enemies with the least HP",
+      "name": "Zincirli Kralın Huzurunda",
+      "desc": "Bu birimin 1 Saldırı Ağırlıklı saldırısı hedefe vurduğunda, vuruşta gelen Jeton değerinin %100'ünü en az cana sahip 2 diğer düşmana hasar olarak (Hasar vermek için kullanılan yetenekle aynı Yatkınlık/Saldırı Tipi ile) uygula.",
       "summary": ""
     },
     {
       "id": "MarkOfButler",
-      "name": "B.M.",
-      "desc": "Enhances Edgar Family Chief Butler Ryōshū Skills against targets with this effect.\nTurn End: reduce the Count by 1",
+      "name": "U.İ",
+      "desc": "Edgar Ailesi Baş Uşağı Ryōshū'nun bu efekte sahip hedeflere karşı Yeteneklerini güçlendirir.\nTur Sonu: Miktarı 1 azalt",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PreparedMeat",
-      "name": "Prepared Meat",
-      "desc": "If conditions are met, Fairy Queen kills this unit at Turn End"
+      "name": "Hazırlanmış Et",
+      "desc": "Koşullar sağlanırsa, Peri Kraliçe bu birimi Tur Sonunda öldürür"
     },
     {
       "id": "Hunger",
-      "name": "Hunger",
-      "desc": "Turn End: gain 1 if this unit failed to defeat an ally with Prepared Meat.\nAt 75%- HP, gain 2. At 50%- HP, gain 3.\nTurn Start: lose 1 if this unit defeated an ally with Prepared Meat.\nAt 0 value, gain (# of allies defeated x 3)Attack Power Down and Defense Power Down.",
+      "name": "Açlık",
+      "desc": "Tur Sonu: Hazırlanmış Etli müttefik yenemezse 1 kazan.\n%75- Canda: 2 kazan. %50- Can: 3 kazan.\nTur Başı: Eğer bu birim Hazırlanmış Etli müttefik yenerse 1 değer kaybet.\n0 değerde, (yenilen müttefik sayısı x 3) Saldırı Gücü Azalışı ve Savunma Gücü Azalışı kazan.",
       "summary": ""
     },
     {
       "id": "UnstableFeeling",
-      "name": "Volatile Passion",
-      "desc": "- On Hit, inflict 1 Burn\n- If the main target has Burn, Final Power +1\n- When hit, if this unit had a Defense Skill chained at Combat Start, inflict Burn against the attacker for the turn\n- Turn End: lose (# of turns spent in Volatile E.G.O state x 5) SP. (Max SP loss : 40)",
+      "name": "İstikrarsız Tutku",
+      "desc": "- Vuruşta 1 Yanma uygula\n- Ana hedef Yanma'ya sahipse Son Güç +1\n- Vurulduğunda eğer bu birim Çatışma Başlangıcında bir Savunma Yeteneği zincirlenmişse, saldırgana 1 tur için Yanma uygula\n- Tur Sonu: (İstikrarsız E.G.O durumunda geçirilen tur sayısı x 5) AP kaybet. (Maks AP kaybı: 40)",
       "summary": ""
     },
     {
       "id": "VibrationEcho",
-      "name": "Tremor - Reverb",
-      "desc": "- On Tremor Burst, take Sloth damage equal to Tremor Potency on self.\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency.\n- Turn End: reduce the Count by 1.\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "name": "Titreşim - Yankı",
+      "desc": "- Titreşim Patlaması'nda, üzerindeki Titreşim Kuvveti kadar Tembellik hasarı al.\n- Titreşim Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiğini etkinin Kuvveti kadar artır.\n- Tur Sonu: Miktarı 1 azalt.\n(Titreşim Kuvveti/Miktarı artıran/azaltan etkiler ile Normal Titreşimle aynı şekilde etkileşir)",
       "summary": ""
     },
     {
       "id": "ShieldManagerCryingToad",
-      "name": "Blubberbubble",
-      "desc": "- This effect counts as a 'Shield Management' effect.\n- Turn End: Reduce Count by 1\n- This unit does not lose Shield at Turn End as long as it has the Blubberbubble effect (unless depleted by damage or effect)\n- If the Shield affected by Blubberbubble breaks due to taking damage, inflict 4 Sinking Potency/Count against the attacker. (How much of that '4' value is Potency or Count is randomly determined)\n- This unit can stack their Shield value by using this effect. However, as long as Blubberbubble is in effect, the Shield value cannot exceed 60% of this unit's Max HP.",
+      "name": "Baloncuk Kalkan",
+      "desc": "- Bu efekt 'Kalkan Yönetimi' etkisi sayılır.\n- Tur Sonu: Miktarı 1 azalt\n- Baloncuk aktifken Kalkan Tur Sonunda kaybolmaz (hasarla veya efektle kırılmadığı sürece)\n- Baloncuklu Kalkan hasarla kırılırsa, saldırgana 4 Batış Kuvveti veya Miktarı uygula. (4 değerinin Kuvvet/Miktar dağılımı rastgele belirlenir)\n- Balon Kalkan aktifken kalkan değeri biriktirilebilir ancak Maks Canın %60'ını geçemez.",
       "summary": ""
     },
     {
       "id": "VibrationContinue",
-      "name": "Tremor - Everlasting",
-      "desc": "- When hit by Skills or Coin effects that trigger Tremor Burst, (Tremor Potency on self)% chance to trigger an additional Tremor Burst. (max 50%)\n- When hit by Skills or Coin effects that trigger Tremor Burst, (Tremor Count on self)% chance to trigger an additional Tremor Burst. (max 50%)\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "name": "Titreşim - Ebedi",
+      "desc": "- Titreşim Patlaması tetikleyen Yetenek veya Jetonlarla vurulduğunda, %(Kendi Üzerindeki Titreşim Kuvveti) şansla ek Patlama tetikle. (maks %50)\n- Titreşim Patlaması tetikleyen Yetenek veya Jetonlarla vurulduğunda, %(Kendi Üzerindeki Titreşim Miktarı) şansla ek Patlama tetikle. (maks %50)\n- Titreşim Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiğini efektin Kuvveti kadar artır\n- Tur Sonu: Miktarı 1 azalt\n(Titreşim Kuvveti/Miktarı artıran/azaltan etkiler ile Normal Titreşimle aynı şekilde etkileşir)",
       "summary": ""
     },
     {
       "id": "TimeSuspend",
-      "name": "Time Moratorium",
-      "desc": "- Does not take any damage as long as this effect is active; store all damage received instead\n- Combat End: If there is only 1 Count left of this effect, the effect triggers Tremor Burst after dealing (100 + (Stack x 15)% of stored damage as Sloth damage\n- Turn End: gain 1 Stack and lose 1 Count\n- The Time Moratorium will immediately expire after triggering the Tremor Burst and the Sloth damage effect if another instance of Time Moratorium is inflicted on a unit with Time Moratorium.",
+      "name": "Zaman Moratoryumu",
+      "desc": "- Bu etki aktifken hasar almaz; bunun yerine tüm hasarı depolar\n- Savaş Sonu: 1 Miktar kalırsa, depolanan hasarın %(100 + (Yük x 15)) kadarını Tembellik hasarı vererek Titreşim Patlama tetikler\n- Tur Sonu: 1 Yük kazan ve 1 Miktar kaybet\n- Eğer Zaman Moratoryumu olan bir birime başka bir Zaman Moratoryumu etkisi uygulanırsa Tembellik Hasarı ve Titreşim patlaması anında tetiklenir ve eski etki sonlanır.",
       "summary": ""
     },
     {
       "id": "TimeRentalTwoPersonality",
-      "name": "Borrowed Time",
-      "desc": "Turn End at 2+ Count:\n- Gain (Borrowed Time Count - 1) Haste, Clash Power Up, and Fragile next turn\n- If this unit is set to gain more Bind than Haste next turn, the Borrowed Time effect expires at the next Turn Start, and this unit gets Staggered\n\nTurn End: At 1 Count, gain 2(Borrowed Time Stack - 1) Bind next turn\nTurn End: Gain 1 Stack, lose 1 Count",
+      "name": "Ödünç Zaman",
+      "desc": "2+ Miktarda Tur Sonu:\n- Sonraki tur için (Ödünç Zaman Miktarı - 1) Atiklik, Çarpışma Gücü Artışı ve Kırılganlık kazan\n- B u birim eğer sonraki turda elde Mıhlanmadan fazla Atiklik kazanacaksa etki efekt sonlanır ve birim Sersemler.\n\n1 Miktarda Tur Sonu: Sonraki tur 2(Miktar - 1) Mıhlanma kazan\nTur Sonu: 1 Yük kazan, 1 Miktar kaybet",
       "summary": ""
     },
     {
       "id": "VibrationChainPersonality",
-      "name": "Tremor - Chain",
-      "desc": "- Lose 1 Clash Power for every 10 Tremor Potency on self (max 3)\n- When Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "name": "Titreşim - Zincir",
+      "desc": "- Her 10 Titreşim Kuvveti için 1 Çarpışma Gücü kaybet (maks 3)\n- Titreşim Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiğini efektin Kuvveti kadar artır\n- Tur Sonu: Miktarı 1 azalt\n- (Titreşim Kuvveti/Miktarı artıran/azaltan etkiler ile Normal Titreşimle aynı şekilde etkileşir)",
       "summary": ""
     },
     {
       "id": "GazePersonality",
-      "name": "Gaze of Contempt",
-      "desc": "- Max Value: 7\n- Deal +7% more damage for every Gaze of Contempt\n- Turn End: this effect expires\n- Turn End: At 7 Gaze of Contempt value, convert it to Contempt of the Gaze next turn instead of expiring\n\n[Contempt of the Gaze]\n- Gain 7 Protection\n- Gain 7 Damage Down\n- One of this unit's Slots gains +20 Aggro\n- Cannot gain Gaze of Contempt as long as Contempt of the Gaze is active\n- Turn End: this effect expires",
+      "name": "Küçümseme Bakışı",
+      "desc": "- Maks Değer: 7\n- Her Küçümseme Bakışı için %7 daha fazla hasar ver\n- Tur Sonu: bu efekt sonlanır\n- 7 Küçümseme Bakışı değerinde, sonlanmak yerine sonraki tur 'Bakışın Küçümsemesi'ne dönüşür\n\n[Contempt of the Gaze]\n- 7 Koruma kazan\n- 7 Hasar Düşüşü kazan\n- Yetenek Yuvalarından birine +20 Tehdit Değeri eklenir\n- Bakışın Küçümsemesi aktifken Küçümseme Bakışı kazanılamaz\n- Tur Sonu: efekt sonlanır",
       "summary": ""
     },
     {
       "id": "ContemptPersonality",
-      "name": "Contempt of the Gaze",
-      "desc": "- Gain 7 Protection\n- Gain 7 Damage Down\n- One of this unit's Skill Slots gains +20 Aggro\n- Cannot gain Gaze of Contempt as long as Contempt of the Gaze is active\n- Turn End: this effect expires",
+      "name": "Bakışın Küçümsemesi",
+      "desc": "- 7 Koruma kazan\n- 7 Hasar Düşüşü kazan\n- Yetenek Yuvalarından birine +20 Tehdit Değeri eklenir\n- Bakışın Küçümsemesi aktifken Küçümseme Bakışı kazanılamaz\n- Tur Sonu: efekt sonlanır",
       "summary": ""
     },
     {
       "id": "KnowledgeTraining",
-      "name": "Erudition",
-      "desc": "- Max Value: 6\n- When Discarding a Skill, gain (Erudition x 1.5)% of this unit's max HP as Shield (once per turn)\n- If this unit Discards a Skill at 2+ Insight, gain 1 Clash Power (once per turn)\n- Reduced by 1 when taking HP damage after getting hit by an enemy's Attack Skill\n- Expires when Staggered",
+      "name": "Bilgelik",
+      "desc": "- Maks Değer: 6\n- Yetenek dışa atarken, maksimum canın %(Bilgelik x 1.5)'si kadar Kalkan kazan (turda bir kez)\n- 2+ İçgörüde Yetenek Atılırsa, 1 Çarpışma Gücü kazan (turda bir kez)\n- Düşman Saldırı Yeteneğinden hasar alındığında 1 azalt\n- Birim Sersemlemede etki sonlanır",
       "summary": ""
     },
     {
       "id": "BoseProjektil",
-      "name": "Torn Memory",
-      "desc": "- Max Value : 7\n- Used for certain Skills",
+      "name": "Yırtık Anı",
+      "desc": "- Maks Değer: 7\n- Belirli Yetenekler için kullanılır",
       "summary": ""
     },
     {
       "id": "ChargeLoad",
-      "name": "Load",
-      "desc": "- Max Value : 6\n- Attack Skills that consumed Charge Count deal +2.5% more damage for every value on self (max 15%)\n- If the affected unit is a W Corp. employee., deal +5% more damage for every value instead (max 30%)\n- Turn End: this effect expires",
+      "name": "Yük",
+      "desc": "- Maks Değer: 6\n- Şarj Miktarı tüketen Saldırı Yetenekleri, her değer için %2.5 daha fazla hasar verir (maks %15)\n- Eğer birim W Şirketi çalışanıysa, her değer için %5 fazla hasar verir (maks %30)\n- Tur Sonu: efekt sonlanır",
       "summary": ""
     },
     {
       "id": "PhotoElectricity",
-      "name": "Photoelectricity",
-      "desc": "Max Value: 3\nWhen this unit is hit, the Attacker gains Charge Count equal to the value (once per Skill)\n- If the Attacker has 5- Charge Count, they gain +3 additional Charge Count\nTurn End: this effect expires",
+      "name": "Fotoelektrik",
+      "desc": "Maks değer: 3\nBu ünit vurulduğunda, Saldırgan değere eş miktarda Şarj elde eder (Yetenek başı turda bir kere) \n- Eğer Saldırganın Şarj Mitarı 5- ise, +3 ekstra Şarj Miktarı elde eder.\nTur Sonu: Bu etkinin etkisi geçer.",
       "summary": ""
     },
     {
       "id": "Coffin",
-      "name": "Coffin",
-      "desc": "- Max Value: 10\n- At Turn End:\n  - Gain 2 Damage Up next turn for every 3 Value (max 6)\n  - Raise minimum Speed by 1 next turn for every 4 Value (max 2)\n  - Gain 1 Clash Power Up next turn for every 5 Value (max 2)",
+      "name": "Tabut",
+      "desc": "- Maks Değer: 10\n- Tur sonunda:\n  - Her 3 adet için 2 Hasar Artışı kazan. (maks 6)\n  - Her 4 adet için minimum Hızı 1 arttır. (maks 2)\n  - Her 5 değer için 1 Çarıpışma Gücü Artışı kazan. (maks 2)",
       "summary": ""
     },
     {
       "id": "WildHunt",
-      "name": "Wild Hunt",
-      "desc": "- In the same turn this unit gained Wild Hunt for the first time, always have 1 remaining HP; \"revive\"(heal 50% HP and reset SP to 0) this unit at Turn End.\n- On death, gain 1 E.G.O resource for the least-owned E.G.O resource\n- If this unit is killed by an attack, inflict 3 Sinking against the last attacker\n- Dies at the end of the same turn this unit was revived in",
+      "name": "Vahşi Av",
+      "desc": "- Bu ünitin ilk kez Vahşi Av elde ettiği turda, 1 HP ye sahip ol.; Tur sonunda bu üniti \"dirilt\"(50% can iyileştir ve AP yi sıfırla. ).\n- Ölümde, en az sahip olunan E.G.O için 1 E.G.O kaynağı elde et.\n- Eğer bu init bir saldırı tarafından öldürürdüyse, son saldırgana 3 tane Batma uygula .\n- Bu ünitin diriltildiği turun sonunda ölür.",
       "summary": ""
     },
     {
       "id": "NightPathfinding",
       "name": "Dullahan",
-      "desc": "- Max Value: 3\n- Gain 3 Offense Level\n- Lose 3 Defense Level\n- Raise Min & Max Speed values by 1\n- Turn End: Gain 1 Dullahan next turn (At -25 SP or less, however, completely lose Dullahan)\n- Turn End: If this unit has Dullahan, lose (15 - (Coffin/2)) SP. (min 10)",
+      "desc": "- Maks Değer: 3\n- 3 Saldırı Seviyesi kazan\n- 3 Savunma Seviyesi kaybet \n- Min  & Maks Hız değerlerini 1 yükselt\n- Tur Sonu: Sonraki tur 1 Dullahan elde et (Ancak -25 veya daha düşük AP de, Dullahanı yitir)\n- Turn End: Eğer bu unit Dullahana sahip ise, (15 - (Tabut/2)) AP kaybet. (min 10)",
       "summary": ""
     },
     {
       "id": "WanderingFootsteps",
-      "name": "Impending Ruin",
-      "desc": "- Units with SP: change their Panic Type to \"\"Ruin\"\".\n(Ruin: When this unit enters Low Morale state, gain 3 Sinking at every Turn End and lose 1 Clash Power. When this unit Panics, gain 5 Sinking and 3 Sinking Count at every Turn End and lose 2 Clash Power)\n- Units without SP: -10% chance to flip Heads\n- Reduced by 1 at Turn End\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value.\n※ Apply the \"\"Units without SP\"\" conditional to certain enemies that have SP but can't change their Panic Types.",
-      "summary": ""
-    },
+      "name": "Yaklaşan Yıkıntı",
+      "desc": "- AP ye sahip birlikler: Panik türünü \"\"Yıkıntı\"\" ya dönüştür.\n(Yıkıntı: Bu unit Düşük Moral durumuna girdiğinde, her Tur Sonunda 3 Batma elde et ve 1 Çarpışma Gücü kaybet. Bu unit Paniklediğinde, her Tur Sonunda 5 Batma ve 3 Batma Miktarı elde et ve 2 Çarpışma Gücü kaybet. )\n- AP olmayan unitler: Tura atma ihtimali -10% chance\n- Tur soununda 1 azalt\n- Bu etki birikemez; uygulamak, mevcut değeri uygulanan değerle değiştirecektir. AP si olmayan fakat Panik Türü değiştirilemeyen bazı düşmanlara \"\"AP'siz Unitler\"\" koşulunu \n※ygula"
+     },
     {
       "id": "WanderingFootsteps_Main",
-      "name": "Impending Ruin",
-      "desc": "- Targets with SP: Change their Panic Type to 'Ruin'\n- Reduced by 1 at Turn End",
+      "name": "Yaklaşan Yıkıntı",
+      "desc": "- AP'li Hedefler: Panik Türlerini 'Yıkım' olarak değiştirin \n- Dönüş Sonunda 1 Azalır",
       "summary": ""
     },
     {
       "id": "WanderingFootsteps_Sub",
-      "name": "Impending Ruin",
-      "desc": "- -10% chance to flip Heads\n- Reduced by 1 at Turn End",
+      "name": "Yaklaşan Yıkıntı",
+      "desc": "- Tura atma şansı -10% \n- Tur Sonunda 1 azalt",
       "summary": ""
     },
     {
       "id": "WanderingFootsteps_LowMorale",
-      "name": "Ruin",
-      "desc": "- Low Morale\n- Clash Power -1 on self. Gain 3 Sinking at every Turn End",
-      "summary": "Clash Power -1 on self. Gain 3 Sinking at every Turn End",
+      "name": "Yıkıntı",
+      "desc": "- Düşük Moral\n- Kendinde Çarpışma Gücü -1. Her Tur Sonunda 3 Batma elde et",
+      "summary": "Kendinde Çarpışma Gücü -1. Her Tur Sonunda 3 Batma elde et",
       "undefined": "-"
     },
     {
       "id": "WanderingFootsteps_Panic",
-      "name": "Ruin",
-      "desc": "- Panic\n- Clash Power -2 on self. Gain 5 Sinking and +3 Sinking Count at every Turn End",
-      "summary": "Clash Power -2 on self. Gain 5 Sinking and +3 Sinking Count at every Turn End",
+      "name": "Yıkıntı",
+      "desc": "- Panik\n- Kendinde Çarpışma Gücü -2. Her Turun Sonunda 5 Batma ve 3 Batma Miktarı elde et.",
+      "summary": "endinde Çarpışma Gücü -2. Her Turun Sonunda 5 Batma ve 3 Batma Miktarı elde et",
       "undefined": "-"
     },
     {
       "id": "UninvitedGuestPersonality",
-      "name": "The Uninvited",
-      "desc": "- Max Value: 2\n- Upon death, the last attacker heals 3 SP; then, a random ally without this effect gains 2 Stacks of this effect.\n- Take +0.5% more damage for every Sinking on self (max 10%; for Focused Encounters, count Sinking on each Part separately)\n- Turn End: reduced by 1",
+      "name": "Davetsiz",
+      "desc": "- Maks Değer: 2\n- Öldüğünde, son saldıran 3 AP kazanır; sonra, Bu etkiye sahip olmayan rastgele bir müttefik bu etkiden 2 değer kazanır.\n- Kendinde her Batış için +%0,5 daha fazla hasar al (maksimum %10); Odaklanmış Karşılaşmalar için, her Parçadaki Batmayı ayrı ayrı say\n- Tur Sonunda: 1 azalt",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DevyatDimensionalSack",
-      "name": "Courier Trunk - Rodion",
-      "desc": "- Base Value: 0\n- Turn Start: gain 3 Stack\n- Stack does not expire upon Retreat; it is stored instead\n- At 10+ Stack: raise Min & Max Speed values by 1\n- At 20+ Stack: Gain 1 Clash Power Up and 1 Slash Damage Up\n- At 30+ Stack:\n· On Skill Use, take (Stack/3)% HP damage and (Stack/3) SP damage\n· On Turn End, take (Stack/2)% HP damage and (Stack/2) SP damage (applies before Retreat)",
+      "name": "Kurye Bagajı - Rodion",
+      "desc": "- Taban Değer: 0\n- Tur Başında: 3 birim elde et\n- Geri Çekilme sonucunda birimler tükenmez; aksine depolanır.\n- 10+ birimde: Min  & Maks Hız Değerlerini 1 arttır.\n- 20+ birimde: 1 Çarpışma Gücü Artışı ve 1 Kesme Hasar Artışı Elde et\n- 30+ birimde:\n· Yetenek kullanımında, (Birim/3)% can hasarı ve (Birim/3) AP hasarı al\n· Tur Sonunda, (Birim/2)% can hasarı ve (Birim/2) AP hasarı al. (Geri Çekilme öncesinde uygulanır)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Retreat",
-      "name": "Strategic R&R Mode",
-      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)",
+      "name": "Stratejik R&R Modu",
+      "desc": "- Tur Sonu: Sersemleden iyileş ve Karşılaşmadan Geri Çekil (zorunlu bir Sersemleme olmadığı sürece; ölüm olarak sayılmaz)\n· Zincir Savaşlarda, bu ünitin yuvalarını İkame Edilen Ünite ver ve Yedek ünitlerin Yerleştirme sırasında en son sıraya gir. (bir sonraki turda yer değiştirecek başka Yedek Ünit kalmadıysa Karşılaşmadan tamamen kaç. Savaşa geri dönerken, geri çekildikleri sırayla geri dön)\n· Savaşa geri dönerken, bu ünitin geri çekildiğinde sahip olduğu can ve AP miktarıyla geri dön ve belirli birkaç etki harici  kendi üzerindeki tüm etkileri ortadan kaldır (bu birim geri çekilirken 0 AP'den daha az AP'ye sahipse, bunun yerine AP'yi 0'a sıfırla)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DefensiveStance",
-      "name": "Defensive Stance",
-      "desc": "- Max Value: 2\n- This effect does not compound in potency; stacking it only extends its duration.\n- Reduced by 1 at Turn End\n- When a unit gains this effect, gain the following effects next turn:\n  · Fix this unit's Speed to its minimum value\n  · Gain 5 Defense Level Up\n  · Each of this unit's Slots gain +(10 / this unit's # of Slots) Aggro\n  · When chaining Skills, this unit can draw enemies' attack toward this unit regardless of Speed (Focused Encounters only)\n  · Upon Clash Win, trigger Tremor Burst\n  · Cannot be Staggered by damage",
+      "name": "Savunma Duruşu",
+      "desc": "- Maks Değer: 2\n- Bu efektin kuvveti artmaz; ilave Yüklar sadece süresini uzatır.\n- Tur Sonu: 1 azalt\n- Bu efekt kazanıldığında, sonraki tur şunları elde et:\n  · Birimin Hızını minimum değere sabitle\n  · 5 Savunma Seviyesi Artışı kazan\n  · Her Yuvasına +(10 / yuva sayısı) Tehdit Değeri ekle\n  · Yetenek zincirlerken, hızdan bağımsız olarak düşman saldırılarını üzerine çek (Sadece Odaklı Karşılaşmalarda)\n  · Çarpışma Kazanıldığında Titreşim Patlaması tetikle\n  · Hasar ile Sersemlenemez",
       "summary": ""
     },
     {
       "id": "CanDuelGuard",
-      "name": "Clashable Guard",
-      "desc": "- On Clash Win: raise the target's Stagger Threshold by this unit's final Clash Power.\n- On Clash Lose: when hit, reduce the attacker's final Skill Power by this unit's Final Power.\n- On Clash Lose: does not gain Final Power from the following sources: Resonance and the Level disparity against the Attack Skill",
+      "name": "Çarpışılabilir Savunma",
+      "desc": "- Çarpışma Kazanıldığında: hedefin Sersemleme Eşiğini bu birimin son Çarpışma Gücü kadar artır.\n- Çarpışma Kaybedildiğinde: vurulduğunda, saldırganın son Yetenek Gücünü bu birimin Son Gücü kadar azalt.\n- Çarpışma Kaybedildiğinde: Rezonans ve Yetenek Seviyesi farkından Son Güç kazanılamaz",
       "summary": ""
     },
     {
       "id": "SuperCoin",
-      "name": "Unbreakable Coin",
-      "desc": "- This coin does not break upon Clash Lose.\n- If an Attack Skill has this Coin, attack with this Coin after getting hit.\n- Upon Clash Lose, fix the Coin Power of the unbroken Coin to 1",
+      "name": "Kırılmaz Jeton",
+      "desc": "- Bu jeton Çarpışma Kaybedildiğinde kırılmaz.\n- Saldırı Yeteneğinde bu Jeton varsa, vurulduktan sonra bu Jetonla saldır.\n- Çarpışma Kaybedildiğinde, kırılmayan Jetonların Gücünü 1 olarak sabitle",
       "summary": ""
     },
     {
       "id": "BloodScissorPersonalityFirst",
-      "name": "Blood-tinged Scissorblades",
-      "desc": "- Max Value: 10\n- Stage 1 Blood-tinged Scissorblades\n- At 10+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades II.\n- At 20+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- Blood-tinged Scissorblades does not drop below 1.\n- At Blood-tinged Scissorblades II, gain 1 Offense Level Up and 1 Defense Level Down based on the Stack\n- At Blood-tinged Scissorblades III, gain 1 Offense Level Up based on the Stack",
+      "name": "Kanlı Makas Bıçakları I",
+      "desc": "- Maks Değer: 10\n- Aşama 1 Kanlı Makas Bıçakları\n- 10+ Kanlı Makas Bıçakları olduğunda, Kanlı Makas Bıçakları II'ye dönüşür.\n- 20+ Kanlı Makas Bıçakları olduğunda, Kanlı Makas Bıçakları III'e dönüşür.\n- Yük gereksinimlerin altına düşerse önceki aşamaya döner.\n- 1'in altına düşmez.\n- Aşama II'de, Yük miktarına göre Saldırı Seviyesi Artışı ve Savunma Seviyesi Azalışı kazan\n- Aşama III'te, Yük miktarına göre Saldırı Seviyesi Artışı kazan",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodScissorPersonalitySecond",
-      "name": "Blood-tinged Scissorblades II",
-      "desc": "- Max Value: 20\n- Stage 2 Blood-tinged Scissorblades\n- Turn Start: gain 1 Offense Level Up and 1 Defense Level Down for every 5 Stack\n- At 10+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades II.\n- At 20+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- Blood-tinged Scissorblades does not drop below 1.\n- At Blood-tinged Scissorblades II, gain 1 Offense Level Up and 1 Defense Level Down based on the Stack\n- At Blood-tinged Scissorblades III, gain 1 Offense Level Up based on the Stack",
+      "name": "Kanlı Makas Bıçakları II",
+      "desc": "- Maks Değer: 20\n- Aşama 2 Kanlı Makas Bıçakları\n- Tur Başı: her 5 Yük için 1 Saldırı Seviyesi Artışı ve 1 Savunma Seviyesi Azalışı kazan\n- 10+ Kanlı Makas Bıçakları olduğunda, Kanlı Makas Bıçakları II'ye dönüşür.\n- 20+ Kanlı Makas Bıçakları olduğunda, Kanlı Makas Bıçakları III'e dönüşür.\n- Yük gereksinimlerin altına düşerse önceki aşamaya döner.\n- 1'in altına düşmez.\n- Aşama II'de, Yük miktarına göre Saldırı Seviyesi Artışı ve Savunma Seviyesi Azalışı kazan\n- Aşama III'te, Yük miktarına göre Saldırı Seviyesi Artışı kazan",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodScissorPersonalityThird",
-      "name": "Blood-tinged Scissorblades III",
-      "desc": "- Max Value: 30\n- Stage 3 Blood-tinged Scissorblades\n- Turn Start: gain 1 Offense Level Up for every 5 Stack\n- At 10+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades II.\n- At 20+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- Blood-tinged Scissorblades does not drop below 1.\n- At Blood-tinged Scissorblades II, gain 1 Offense Level Up and 1 Defense Level Down based on the Stack\n- At Blood-tinged Scissorblades III, gain 1 Offense Level Up based on the Stack",
+      "name": "Kanlı Makas Bıçakları III",
+      "desc": "- Maks Değer: 30\n- Aşama 3 Kanlı Makas Bıçakları\n- Tur Başı: her 5 Yük için 1 Saldırı Seviyesi Artışı kazan\n- 10+ Kanlı Makas Bıçakları olduğunda olduğunda, Kanlı Makas Bıçakları II'ye dönüşür.\n- 20+ Kanlı Makas Bıçakları olduğunda, Kanlı Makas Bıçakları III'e dönüşür.\n- Yük gereksinimlerin altına düşerse önceki aşamaya döner.\n- 1'in altına düşmez.\n- Aşama II'de, Yük miktarına göre Saldırı Seviyesi Artışı ve Savunma Seviyesi Azalışı kazan\n- Aşama III'te, Yük miktarına göre Saldırı Seviyesi Artışı kazan",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LineCuttingPersonality",
-      "name": "Sewing Target",
-      "desc": "- Max Value: 1\n- Take +0.5% more damage for every Bleed on self (max 10%)\n- Turn End: reduced by 1",
+      "name": "Dikiş Hedefi",
+      "desc": "- Maks Değer: 1\n- Üzerindeki her Kanama için %0.5 daha fazla hasar al (maks %10)\n- Tur Sonu: 1 azalt",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Snare",
-      "name": "Lasso",
-      "desc": "- Max Value: 3\n- Turn End: gain Rupture Potency equal to this unit's current Speed value (max 5), and gain 1 Bind next turn\n- Turn End: reduced by 1",
+      "name": "Kement",
+      "desc": "- Maks Değer: 3\n- Tur Sonu: Bu birimin mevcut Hız değeri kadar Yırtılma Kuvveti kazan (maks 5) ve sonraki tur 1 Mıhlanma kazan\n- Tur Sonu: 1 azalt",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHandGregFirst",
-      "name": "Bloodied Hand",
-      "desc": "- Max Value: 10\n- Stage 1 Bloodied Hand\n- At 10+ Bloodied Hand, converts to Bloodied Hand II.\n- At 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- At Bloodied Hand II, gain 1 Offense Level Up based on the Stack\n- At Bloodied Hand III, gain 1 Offense Level Up based on the Stack, and additionally inflict 1 Rupture and 1 Bleed On Hit with Base Skills",
+      "name": "Kanlı El I",
+      "desc": "- Maks Değer: 10\n- Aşama 1 Kanlı El.\n- 10+ Kanlı El'de Kanlı El II'ye dönüşür.\n- 20+ Kanlı El'de Kanlı El III'e dönüşür.\n- Gereksinimlerin altına düşerse önceki aşamaya döner.\n- Kanlı El II'de Yük miktarına göre 1 Saldırı Seviyesi Artışı kazan\n- Kanlı El III'te Yük miktarına göre 1 Saldırı Seviyesi Artışı kazan ve Temel Yeteneklerle Vuruşta ilave 1 Yırtık ve 1 Kanama uygula",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHandGregSecond",
-      "name": "Bloodied Hand II",
-      "desc": "- Max Value: 20\n- Stage 2 Bloodied Hand\n- Turn Start: gain 1 Offense Level Up for every 10 Stack\n- At 10+ Bloodied Hand, converts to Bloodied Hand II.\n- At 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- At Bloodied Hand II, gain 1 Offense Level Up based on the Stack\n- At Bloodied Hand III, gain 1 Offense Level Up based on the Stack, and additionally inflict 1 Rupture and 1 Bleed On Hit with Base Skills",
+      "name": "Kanlı El II",
+      "desc": "- Maks Değer: 20\n- Aşama 2 Kanlı El.\n- Tur Başı: her 10 Yük için 1 Saldırı Seviyesi Artışı kazan\n- 10+ Kanlı El'de Kanlı El II'ye dönüşür.\n- 20+ Kanlı El'de Kanlı El III'e dönüşür.\n- Gereksinimlerin altına düşerse önceki aşamaya döner.\n- Kanlı El II'de Yük miktarına göre 1 Saldırı Seviyesi Artışı kazan\n- Kanlı El III'te Yük miktarına göre 1 Saldırı Seviyesi Artışı kazan ve Temel Yeteneklerle Vuruşta ilave 1 Yırtık ve 1 Kanama uygula.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHandGregThird",
-      "name": "Bloodied Hand III",
-      "desc": "- Max Value: 30\n- Stage 3 Bloodied Hand\n- Turn Start: gain 1 Offense Level Up for every 10 Stack\n- On Hit with Base Skills: additionally inflict 1 Rupture and 1 Bleed\n- At 10+ Bloodied Hand, converts to Bloodied Hand II.\n- At 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- At Bloodied Hand II, gain 1 Offense Level Up based on the Stack\n- At Bloodied Hand III, gain 1 Offense Level Up based on the Stack, and additionally inflict 1 Rupture and 1 Bleed On Hit with Base Skills",
+      "name": "Kanlı El III",
+      "desc": "- Maks Değer: 30\n- Aşama 3 Kanlı El\n- Tur Başı: her 10 Yük için 1 Saldırı Seviyesi Artışı kazan\n- Temel Yeteneklerle Vuruşta ek olarak 1 Yırtık ve 1 Kanama uygula\n- 10+ Kanlı El'de Kanlı El II'ye dönüşür.\n- 20+ Kanlı El'de Kanlı El III'e dönüşür.\n- Gereksinimlerin altına düşerse önceki aşamaya döner.\n- Kanlı El II'de Yük miktarına göre 1 Saldırı Seviyesi Artışı kazan\n- Kanlı El III'te Yük miktarına göre 1 Saldırı Seviyesi Artışı kazan ve Temel Yeteneklerle Vuruşta ilave 1 Yırtık ve 1 Kanama uygula.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WornHeartGreg",
-      "name": "Ailing Heart",
-      "desc": "- Max Value: 10\n- Turn End: gain 1 Stack\n- Turn Start: gain 1 Defense Level Up for every 3 Stack\n- At 50%- HP, gain 1 Defense Level for every 3 Stack\n- At 40%- HP, On Hit with Base Skills, heal (Stack x 5)% of damage dealt On Hit as HP (min 1; rounded down; heal up to 30 HP per Skill)",
+      "name": "Hasta Kalp",
+      "desc": "- Maks Değer: 10\n- Tur Sonu: 1 Yük kazan\n- Tur Başı: her 3 Yük için 1 Savunma Seviyesi Artışı kazan\n- %50- Can'da her 3 Yük için 1 Savunma Seviyesi kazan\n- %40- Can'da Temel Yeteneklerle Vuruşta, verilen hasarın (Yük x 5)%'i kadar Can iyileştir (min 1; aşağı yuvarlanır; Yetenek başına maks 30 Can)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloomingThornsRodionFirst",
-      "name": "Blooming Thorn",
-      "desc": "- Max Value: 10\n- Stage 1 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture Potency with this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
+      "name": "Açan Diken I",
+      "desc": "- Maks Değer: 10\n- Aşama 1 Açan Diken\n- Her 2 Yük için 1 Savunma Seviyesi kazan (maks 5)\n- Vurulduğunda saldırgana 1 Kanama uygula ve 1 Yük kaybet\n- [The Princess of La Manchaland Rodion Only]\n· Maks Yükda bu efektin sonraki aşamasına dönüşür\n· Temel Saldırı Yeteneği Jeton efektleriyle +(Aşama - 1) ek Kanama ve Yırtık Kuvveti uygular\n· Gereksinimlerin altına düşerse önceki aşamaya döner",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloomingThornsRodionSecond",
-      "name": "Blooming Thorn II",
-      "desc": "- Max Value: 20\n- Stage 2 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture with this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
+      "name": "Açan Diken II",
+      "desc": "- Maks Değer: 20\n- Aşama 2 Açan Diken\n- Her 2 Yük için 1 Savunma Seviyesi kazan (maks 5)\n- Vurulduğunda saldırgana 1 Kanama uygula ve 1 Yük kaybet\n- [The Princess of La Manchaland Rodion Only]\n· Maks Yükda bu efektin sonraki aşamasına dönüşür\n· Temel Saldırı Yeteneği Jeton efektleriyle +(Aşama - 1) ek Kanama ve Yırtık uygular\n· Gereksinimlerin altına düşerse önceki aşamaya döner",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloomingThornsRodionThird",
-      "name": "Blooming Thorn III",
-      "desc": "- Max Value: 30\n- Stage 3 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture with this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
+      "name": "Açan Diken III",
+      "desc": "- Maks Değer: 30\n- Aşama 3 Açan Diken\n- Her 2 Yük için 1 Savunma Seviyesi kazan (maks 5)\n- Vurulduğunda saldırgana 1 Kanama uygula ve 1 Yük kaybet\n- [The Princess of La Manchaland Rodion Only]\n· Maks Yükda bu efektin sonraki aşamasına dönüşür\n· Temel Saldırı Yeteneği Jeton efektleriyle +(Aşama - 1) ek Kanama ve Yırtık uygular\n· Gereksinimlerin altına düşerse önceki aşamaya döner",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FestivalFeverRodion",
-      "name": "Şenlik Heyecanı",
-      "desc": "- Max Value: 10\n- Expires at Turn End\n- Against targets with Bleed: deal +1.5% more damage for every Stack\n- Skills that consume or gain Bloodfeast deal +3% more damage for every Stack instead",
+      "name": "Şenlik Coşkusu",
+      "desc": "- Maks Değer: 10\n- Tur Sonunda sonlanır\n- Kanamalı hedeflere karşı her Yük için %1.5 daha fazla hasar ver\n- Kan Şöleni tüketen veya kazanan Yetenekler her Yük için %3 daha fazla hasar verir",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VibrationSpring",
-      "name": "Sarsıntı - Saatçevirme",
-      "desc": "- Max Speed + 2\n- Consume Tremor Count on self to inflict 1 more of Tremor Potency or Count when inflicting them with this unit's Skill or Coin effects\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "name": "Titreşim - Saatkurma", 
+      "desc": "- Maks Hız + 2\n- Bu birimin yetenekleri veya Jeton etkileri ile 1 daha fazla Titreşim Kuuveti veya Miyktarı uygulamak için kendi üzerindeki Titreşim Miktarını Tüket.\n- Titreşim Patlaması tetikleyen yetenekler tarafıdan vurulduğunda, Sersemleme Eşiğini etkinin Kuvveti kadar arttır.\n- Tur Sonu: Miktarı 1 azalt.\n- (Titreşim Kuvveti/Miktarı artıran/azaltan etkiler ile Normal Titreşimle aynı şekilde etkileşir)",
       "summary": "",
       "undefined": "-"
     },
