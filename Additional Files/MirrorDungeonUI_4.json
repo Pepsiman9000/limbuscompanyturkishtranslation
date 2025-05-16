@@ -2,23 +2,23 @@
   "dataList": [
     {
       "id": "dungeon_selectable",
-      "content": "Selectable"
+      "content": "Seçilebilir"
     },
     {
       "id": "dungeon_battle_reawrd_card_selection",
-      "content": "Select Encounter Reward Card"
+      "content": "Karşılaşma Ödül Kartını Seçin"
     },
     {
       "id": "dungeon_opportunity_to_select_rewards_remaining",
-      "content": "You have not selected a reward yet.\nContinue without choosing a reward?"
+      "content": "Henüz bir ödül seçmediniz.\nÖdül seçmeden devam etmek istiyor musunuz?"
     },
     {
       "id": "mirrordungeon_appear_able_theme_pack_title",
-      "content": "{0} - Featured Theme Packs"
+      "content": "{0} - Öne Çıkan Tema Paketi"
     },
     {
       "id": "mirrordungeon_theme_pack_boss",
-      "content": "Featured Boss"
+      "content": "Öne Çıkan Düşmanlar"
     },
     {
       "id": "mirrordungeon_theme_pack_ego_gift",
@@ -26,7 +26,7 @@
     },
     {
       "id": "mirrordunge_theme_pack_history_button_label",
-      "content": "Theme Pack Compendium"
+      "content": "Tema Paketi Arşivi"
     },
     {
       "id": "simulation_difficulty",
@@ -46,11 +46,11 @@
     },
     {
       "id": "mirror_dungeon_progress_text_4_normal",
-      "content": "Simulation Floor {0}"
+      "content": "Simulation Kat {0}"
     },
     {
       "id": "mirror_dungeon_progress_text_4_hard",
-      "content": "Ritornello Floor {0}"
+      "content": "Ritornello Kat {0}"
     },
     {
       "id": "mirror_dungeon_progress_text_before_exploration",
@@ -546,7 +546,7 @@
     },
     {
       "id": "md4_buffs_summaryDesc_131",
-      "content": "[Floor Theme]\nNumber of Floor Theme Choices +1"
+      "content": "[Kat Theme]\nNumber of Kat Theme Choices +1"
     },
     {
       "id": "md4_buffs_summaryDesc_132",
@@ -606,7 +606,7 @@
     },
     {
       "id": "md4_buffs_summaryDesc_135",
-      "content": "[Floor Theme]\nNumber of Floor Theme Choices +1"
+      "content": "[Kat Theme]\nNumber of Kat Theme Choices +1"
     },
     {
       "id": "md4_buffs_summaryDesc_136",
@@ -826,7 +826,7 @@
     },
     {
       "id": "mirrordungeon_select_theme_pack_at_floor",
-      "content": "Select Floor {0} Theme Pack"
+      "content": "Select Kat {0} Theme Pack"
     },
     {
       "id": "mirrordungeon_ego_gift_appear_rate_up",
@@ -838,7 +838,7 @@
     },
     {
       "id": "mirrordungeon_selected_floor_theme_label",
-      "content": "Selected Floor Theme"
+      "content": "Selected Kat Theme"
     },
     {
       "id": "mirrordungeon_ego_gift_sort_by_tier",
@@ -850,7 +850,7 @@
     },
     {
       "id": "side_content_cannot_acquire_specific_ego_gift",
-      "content": "There are no Tier {0} E.G.O Gifts obtainable from your current Floor Theme."
+      "content": "There are no Tier {0} E.G.O Gifts obtainable from your current Kat Theme."
     },
     {
       "id": "side_content_free_refresh",
@@ -862,7 +862,7 @@
     },
     {
       "id": "mirror_dungeon_finished_panel_floor_theme",
-      "content": "Floor Theme"
+      "content": "Kat Teması"
     },
     {
       "id": "mirror_dungeon_finished_panel_battle_reward",
@@ -874,15 +874,15 @@
     },
     {
       "id": "mirror_dungeon_appeared_ego_gift",
-      "content": "Featured E.G.O Gifts"
+      "content": "Öne Çıkan E.G.O Hediyeleri"
     },
     {
       "id": "mirror_dungeon_select_theme_drag",
-      "content": "Select a Pack\nAnd Pull"
+      "content": "Bir Paket Seç\nve Çek!"
     },
     {
       "id": "mirror_dungeon_cannot_acquired_ego_gift",
-      "content": "Did Not Gain an E.G.O Gift"
+      "content": "E.G.O Hediyesi Kazanılamadı"
     },
     {
       "id": "simulation_difficulty_short",
@@ -894,7 +894,7 @@
     },
     {
       "id": "easy_difficulty_simple",
-      "content": "Easy"
+      "content": "Kolay"
     },
     {
       "id": "refresh_shop_item_by_chip_warning",
@@ -906,7 +906,7 @@
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh",
-      "content": "Keyword Refresh"
+      "content": "Anahtar K.\nYenile"
     },
     {
       "id": "mirror_dungeon_shop_refresh_by_chip",
@@ -922,7 +922,7 @@
     },
     {
       "id": "ego_gift_combine_ui_plz_select_keyword",
-      "content": "Select a Keyword."
+      "content": "Anahtar Kelime seç.."
     },
     {
       "id": "ego_gift_select_keyword_ui_title",
@@ -1082,7 +1082,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_text_1",
-      "content": "You may have a chance to obtain an Encounter Reward Card upon clearing an Encounter. Variables such as Mirror Dungeon Difficulty and your Current floor affect which Encounter Reward Cards you can get."
+      "content": "You may have a chance to obtain an Encounter Reward Card upon clearing an Encounter. Variables such as Mirror Dungeon Difficulty and your Current Kat affect which Encounter Reward Cards you can get."
     },
     {
       "id": "mirror_battle_reward_card_guide_text_2",
@@ -1098,7 +1098,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_1_0",
-      "content": "Floor 1"
+      "content": "Kat 1"
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_1_1",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_2_0",
-      "content": "Floor 2"
+      "content": "Kat 2"
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_2_1",
@@ -1122,7 +1122,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_3_0",
-      "content": "Floor 3"
+      "content": "Kat 3"
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_3_1",
@@ -1134,7 +1134,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_4_0",
-      "content": "Floor 4"
+      "content": "Kat 4"
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_4_1",
@@ -1146,7 +1146,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_5_0",
-      "content": "Floor 5+"
+      "content": "Kat 5+"
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_5_1",
