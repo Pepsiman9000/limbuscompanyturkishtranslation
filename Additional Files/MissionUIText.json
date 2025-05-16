@@ -2,39 +2,39 @@
   "dataList": [
     {
       "id": "acquire_personality_title",
-      "content": "Select Identity"
+      "content": "Kişilik Seçimi"
     },
     {
       "id": "ask_acquire_personality",
-      "content": "Select {1}'s [{0}] Identity?"
+      "content": "{1} karakterinin [{0}] kişiliğini seçmek istiyor musunuz?"
     },
     {
       "id": "ask_use_item_for_acquire_personality",
-      "content": "Use {0}?"
+      "content": "{0} kullanılsın mı?"
     },
     {
       "id": "tip_able_to_check_personality_by_longclick",
-      "content": "※ Press and hold to view detailed information of the Identity."
+      "content": "※ Kişilik detaylarını görüntülemek için uzun basılı tutun."
     },
     {
       "id": "luxcavation_bonus_on",
-      "content": "Lux. Bonus Activated"
+      "content": "Kazı Bonusu Aktif"
     },
     {
       "id": "ask_acquire_personality_already_owned",
-      "content": "Select {1}'s [{0}] Identity?\nSelecting an already-owned Identity will automatically convert your selection to Shards."
+      "content": "{1} karakterinin [{0}] kişiliğini seçmek istiyor musunuz?\nZaten sahip olduğunuz bir Kişiliği seçerseniz, bu otomatik olarak Parçalara dönüştürülecektir."
     },
     {
       "id": "acquire_ego_title",
-      "content": "Selecting E.G.O"
+      "content": "E.G.O Seçimi"
     },
     {
       "id": "ask_acquire_ego",
-      "content": "Select {1}'s [{0}] E.G.O?"
+      "content": "{1} karakterinin [{0}] E.G.O'sunu seçmek istiyor musunuz?"
     },
     {
       "id": "ask_acquire_ego_already_owned",
-      "content": "Select {1}'s [{0}] E.G.O?\nSelecting an already-owned E.G.O will automatically convert your selection to Shards."
+      "content": "{1} karakterinin [{0}] E.G.O'sunu seçmek istiyor musunuz?\nZaten sahip olduğunuz bir E.G.O seçerseniz, bu otomatik olarak Parçalara dönüştürülecektir."
     }
   ]
 }
