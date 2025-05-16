@@ -2,51 +2,51 @@
     "dataList": [
         {
             "id": "AaCePbBa",
-            "name": "Pallid Noise",
-            "desc": "SP Loss Efficiency +2\nIf at less than or equal to -45 SP and inflicted with this buff, gain Noise Panic next turn.\nTurn End: Reduce this effect by 1",
-            "summary": "SP Loss Efficiency +2",
+            "name": "Solgun Gürültü",
+            "desc": "SP Kaybı Verimliliği +2\nEğer SP değeri -45 veya daha düşükse ve bu destek etkisi uygulanmışsa, bir sonraki turda Gürültü Paniği kazanılır.\nTur Sonu: Bu etkinin süresi 1 azalır",
+            "summary": "SP Kaybı Verimliliği +2",
             "undefined": "-"
         },
         {
             "id": "AaCePbBb",
-            "name": "Noise Panic",
-            "desc": "Every Coin this unit flips lands on tails.\nExpires next turn",
-            "summary": "Every Coin lands on tails",
+            "name": "Gürültü Paniği",
+            "desc": "Bu birimin yazı-tura attığı her Jeton tura gelir.\nEtkisi bir sonraki tur sona erer",
+            "summary": "Tüm Jetonlar tura gelir",
             "undefined": "-"
         },
         {
             "id": "AaCePbBc",
-            "name": "Impurity",
-            "desc": "- Low Morale\n- Gain 1 Fragile. If this unit loses a clash, the target loses 2 SP",
-            "summary": "Target loses 2 SP if this unit loses the clash",
+            "name": "Kirlilik",
+            "desc": "- Düşük Moral\n- 1 Kırılganlık kazanır. Bu birim bir Çarpışmayı kaybederse, hedef 2 SP kaybeder",
+            "summary": "Bu birim Çarpışmayı kaybederse hedef 2 SP kaybeder",
             "undefined": "-"
         },
         {
             "id": "AaCePbBd",
-            "name": "Impurity",
-            "desc": "- Panic\n- Gain 2 Fragile. If this unit loses a clash, the target loses 5 SP",
-            "summary": "Target loses 5 SP if this unit loses the clash",
+            "name": "Kirlilik",
+            "desc": "- Panik\n- 2 Kırılganlık kazanır. Bu birim bir Çarpışmayı kaybederse, hedef 5 SP kaybeder",
+            "summary": "Bu birim Çarpışmayı kaybederse hedef 5 SP kaybeder",
             "undefined": "-"
         },
         {
             "id": "AaCePbBi",
-            "name": "Test of the Big Brother",
-            "desc": "Turn End: Reduce value by 1\nWhile this is active, take double the damage from Skills. Double the amount of Stagger threshold raised from Tremor Burst.\nThis effect expires when this unit is Staggered.\nIf this unit isn't Staggered when this effect expires, gain 5 Damage Up at the start of the next turn",
+            "name": "Oe'nın Sınavı",
+            "desc": "Tur Sonu: Değer 1 azalır\nBu etki aktifken, Yeteneklerden alınan Hasar iki katına çıkar. Sarsıntı Patlaması'nın yükselttiği Sersemleme eşiği miktarı iki katına çıkar.\nBu etki bu birim Sersemlediğinde sona erer.\nEğer bu etki sona erdiğinde birim Sersemlemediyse, bir sonraki turun başında 5 Hasar Gücü kazanır",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "AaCePbBe",
-            "name": "Vengeance",
-            "desc": "- Low Morale\n- Turn Start: Gain 1 Attack Power Up and 3 Defense Level Down. Gain Damage Up based on the amount of damage taken last turn (1 Damage Up for every 3% of Max HP lost)",
-            "summary": "Gain Damage Up based on total damage taken last turn.",
+            "name": "İntikam",
+            "desc": "- Düşük Moral\n- Tur Başlangıcı: 1 Saldırı Gücü Artışı ve 3 Defans Seviyesi Azalışı kazanılır. Bir önceki turda alınan hasar miktarına bağlı olarak Hasar Gücü kazanılır (Maksimum HP'nin her %3'ü için 1 Hasar Gücü)",
+            "summary": "Bir önceki tur alınan toplam hasara bağlı olarak Hasar Gücü kazanılır.",
             "undefined": "-"
         },
         {
             "id": "AaCePbBf",
-            "name": "Vengeance",
-            "desc": "- Panic\n- Turn Start: Gain 2 Attack Power Up and 6 Defense Level Down. Gain Damage Up based on the amount of damage taken last turn\n(1 Damage Up for every 3% of Max HP lost)",
-            "summary": "Gain Damage Up based on total damage taken last turn.",
+            "name": "İntikam",
+            "desc": "- Panik\n- Tur Başlangıcı: 2 Saldırı Gücü Artışı ve 6 Defans Seviyesi Azalışı kazanılır. Bir önceki turda alınan hasar miktarına bağlı olarak Hasar Gücü kazanılır\n(Maksimum HP'nin her %3'ü için 1 Hasar Gücü)",
+            "summary": "Bir önceki tur alınan toplam hasara bağlı olarak Hasar Gücü kazanılır.",
             "undefined": "-"
         }
     ]
