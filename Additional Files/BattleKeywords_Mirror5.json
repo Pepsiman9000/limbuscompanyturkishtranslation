@@ -2,358 +2,358 @@
   "dataList": [
     {
       "id": "MD511",
-      "name": "Offense Level Up I",
-      "desc": "Offense Level +1"
+      "name": "Saldırı Seviyesi Artışı I",
+      "desc": "Saldırı Seviyesi +1"
     },
     {
       "id": "MD512",
-      "name": "Defense Level Up",
-      "desc": "Defense Level +2"
+      "name": "Savunma Seviyesi Artışı",
+      "desc": "Savunma Seviyesi +2"
     },
     {
       "id": "MD513",
-      "name": "Resilient I",
-      "desc": "Defense Level +1, Max HP +2.5%"
+      "name": "Dayanıklı I",
+      "desc": "Savunma Seviyesi +1, Maksimum Can +%2.5"
     },
     {
       "id": "MD514",
-      "name": "Growth I",
-      "desc": "Max HP +5%"
+      "name": "Büyüme I",
+      "desc": "Maksimum Can +%5"
     },
     {
       "id": "MD515",
-      "name": "Defense Skill Up",
-      "desc": "Defense Skill Final Power +1"
+      "name": "Savunma Yetenek Artışı",
+      "desc": "Savunma Yetenek Final Gücü +1"
     },
     {
       "id": "MD516",
-      "name": "Take Less Damage",
-      "desc": "Damage Taken -5%"
+      "name": "Alınan Hasar Azalması",
+      "desc": "Alınan Hasar -%5"
     },
     {
       "id": "MD521",
-      "name": "Offense Level Up II",
-      "desc": "Offense Level +2"
+      "name": "Saldırı Seviyesi Artışı II",
+      "desc": "Saldırı Seviyesi +2"
     },
     {
       "id": "MD522",
-      "name": "Body Up I",
-      "desc": "Offense Level +1, Defense Level +1, Max HP +2.5%"
+      "name": "Gövde Güçlendirme I",
+      "desc": "Saldırı Seviyesi +1, Savunma Seviyesi +1, Maksimum Can +%2.5"
     },
     {
       "id": "MD523",
-      "name": "Keen I",
-      "desc": "Offense Level +1, Max HP +5%"
+      "name": "Keskin I",
+      "desc": "Saldırı Seviyesi +1, Maksimum Can +%5"
     },
     {
       "id": "MD524",
-      "name": "Resilient II",
-      "desc": "Defense Level +1, Max HP +7.5%"
+      "name": "Dayanıklı II",
+      "desc": "Savunma Seviyesi +1, Maksimum Can +%7.5"
     },
     {
       "id": "MD525",
-      "name": "Resilient III",
-      "desc": "Defense Level +2, Max HP +5%"
+      "name": "Dayanıklı III",
+      "desc": "Savunma Seviyesi +2, Maksimum Can +%5"
     },
     {
       "id": "MD526",
-      "name": "Growth II",
-      "desc": "Max HP +10%"
+      "name": "Büyüme II",
+      "desc": "Maksimum Can +%10"
     },
     {
       "id": "MD527",
-      "name": "Headstrong I",
-      "desc": "Damage Taken -7.5%, Damage Dealt +7.5%"
+      "name": "İnatçı I",
+      "desc": "Alınan Hasar -%7.5, Verilen Hasar +%7.5"
     },
     {
       "id": "MD531",
-      "name": "Keen II",
-      "desc": "Offense Level +2, Max HP +7.5%"
+      "name": "Keskin II",
+      "desc": "Saldırı Seviyesi +2, Maksimum Can +%7.5"
     },
     {
       "id": "MD532",
-      "name": "Keen III",
-      "desc": "Offense Level +3, Max HP +5%"
+      "name": "Keskin III",
+      "desc": "Saldırı Seviyesi +3, Maksimum Can +%5"
     },
     {
       "id": "MD533",
-      "name": "Resilient IV",
-      "desc": "Defense Level +3, Max HP +7.5%"
+      "name": "Dayanıklı IV",
+      "desc": "Savunma Seviyesi +3, Maksimum Can +%7.5"
     },
     {
       "id": "MD534",
-      "name": "Resilient V",
-      "desc": "Defense Level +4, Max HP +5%"
+      "name": "Dayanıklı V",
+      "desc": "Savunma Seviyesi +4, Maksimum Can +%5"
     },
     {
       "id": "MD535",
-      "name": "Growth III",
-      "desc": "Max HP +15%"
+      "name": "Büyüme III",
+      "desc": "Maksimum Can +%15"
     },
     {
       "id": "MD536",
-      "name": "Clash Power Boost",
-      "desc": "Clash Power +1, Max HP +7.5%"
+      "name": "Çatışma Güçlendirmesi",
+      "desc": "Çatışma Gücü +1, Maksimum Can +%7.5"
     },
     {
       "id": "MD537",
-      "name": "Final Power Boost",
-      "desc": "Final Power +1, Max HP +5%"
+      "name": "Final Güç Güçlendirmesi",
+      "desc": "Final Güç +1, Maksimum Can +%5"
     },
     {
       "id": "MD538",
-      "name": "Base Power Boost",
-      "desc": "Base Power +1, Max HP +2.5"
+      "name": "Temel Güç Güçlendirmesi",
+      "desc": "Temel Güç +1, Maksimum Can +2.5"
     },
     {
       "id": "MD541",
-      "name": "Keen IV",
-      "desc": "Offense Level +3, Max HP +15%"
+      "name": "Keskin IV",
+      "desc": "Saldırı Seviyesi +3, Maksimum Can +%15"
     },
     {
       "id": "MD542",
-      "name": "Body Up II",
-      "desc": "Offense Level +2, Defense Level +3, Max HP +10%"
+      "name": "Gövde Güçlendirme II",
+      "desc": "Saldırı Seviyesi +2, Savunma Seviyesi +3, Maksimum Can +%10"
     },
     {
       "id": "MD543",
-      "name": "Body Up III",
-      "desc": "Offense Level +3, Defense Level +2, Max HP +10%"
+      "name": "Gövde Güçlendirme III",
+      "desc": "Saldırı Seviyesi +3, Savunma Seviyesi +2, Maksimum Can +%10"
     },
     {
       "id": "MD544",
-      "name": "Growth IV",
-      "desc": "Max HP +30%"
+      "name": "Büyüme IV",
+      "desc": "Maksimum Can +%30"
     },
     {
       "id": "MD545",
-      "name": "Clash Power Spurt",
-      "desc": "Clash Power +1, Max HP +15%"
+      "name": "Çatışma Gücü Atışı",
+      "desc": "Çatışma Gücü +1, Maksimum Can +%15"
     },
     {
       "id": "MD546",
-      "name": "Final Power Spurt",
-      "desc": "Final Power +1, Max HP +12.5%"
+      "name": "Final Güç Atışı",
+      "desc": "Final Güç +1, Maksimum Can +%12.5"
     },
     {
       "id": "MD547",
-      "name": "Base Power Spurt",
-      "desc": "Base Power +1, Max HP +10%"
+      "name": "Temel Güç Atışı",
+      "desc": "Temel Güç +1, Maksimum Can +%10"
     },
     {
       "id": "MD548",
-      "name": "Brutality",
-      "desc": "Plus Coin Power +1, Minus Coin Power -1"
+      "name": "Zulüm",
+      "desc": "Jeton Gücü +1, Jeton Gücü -1"
     },
     {
       "id": "MD549",
-      "name": "Headstrong II",
-      "desc": "Damage Taken -25%, Damage Dealt +25%"
+      "name": "İnatçı II",
+      "desc": "Alınan Hasar -%25, Verilen Hasar +%25"
     },
     {
       "id": "MD5Base",
-      "name": "Mounting Trials",
+      "name": "Biriken Denemeler",
       "desc": ""
     },
     {
       "id": "MD551",
-      "name": "Keen V",
-      "desc": "Offense Level +4, Max HP +10%, Damage Dealt +5%"
+      "name": "Keskin V",
+      "desc": "Saldırı Seviyesi +4, Maksimum Can +%10, Verilen Hasar +%5"
     },
     {
       "id": "MD552",
-      "name": "Body Up IV",
-      "desc": "Offense Level +3, Defense Level +3, Max HP +7.5%, Damage Dealt +5%"
+      "name": "Gövde Güçlendirme IV",
+      "desc": "Saldırı Seviyesi +3, Savunma Seviyesi +3, Maksimum Can +%7.5, Verilen Hasar +%5"
     },
     {
       "id": "MD553",
-      "name": "Body Up V",
-      "desc": "Offense Level +4, Defense Level +2, Max HP +5%, Damage Dealt +5%"
+      "name": "Gövde Güçlendirme V",
+      "desc": "Saldırı Seviyesi +4, Savunma Seviyesi +2, Maksimum Can +%5, Verilen Hasar +%5"
     },
     {
       "id": "MD554",
-      "name": "Growth V",
-      "desc": "Offense Level +1, Max HP +25%, Damage Dealt +5%"
+      "name": "Büyüme V",
+      "desc": "Saldırı Seviyesi +1, Maksimum Can +%25, Verilen Hasar +%5"
     },
     {
       "id": "MD555",
-      "name": "Clash Power Up II",
-      "desc": "Clash Power +1, Offense Level +1, Max HP +10%, Damage Dealt +5%"
+      "name": "Çatışma Gücü Artışı II",
+      "desc": "Çatışma Gücü +1, Saldırı Seviyesi +1, Maksimum Can +%10, Verilen Hasar +%5"
     },
     {
       "id": "MD556",
-      "name": "Final Power Up II",
-      "desc": "Final Power +1, Offense Level +1, Max HP +7.5%, Damage Dealt +5%"
+      "name": "Final Güç Artışı II",
+      "desc": "Final Güç +1, Saldırı Seviyesi +1, Maksimum Can +%7.5, Verilen Hasar +%5"
     },
     {
       "id": "MD557",
-      "name": "Base Power Up II",
-      "desc": "Base Power +1, Offense Level +1, Max HP +5%, Damage Dealt +5%"
+      "name": "Temel Güç Artışı II",
+      "desc": "Temel Güç +1, Saldırı Seviyesi +1, Maksimum Can +%5, Verilen Hasar +%5"
     },
     {
       "id": "MD558",
-      "name": "Brutality II",
-      "desc": "Plus Coin Power +1, Minus Coin Power -1, Damage Dealt +5%"
+      "name": "Zulüm II",
+      "desc": "Jeton Gücü +1, Jeton Gücü -1, Verilen Hasar +%5"
     },
     {
       "id": "MD561",
-      "name": "Keen VI",
-      "desc": "Offense Level +5, Max HP +10%, Damage Dealt +5%"
+      "name": "Keskin VI",
+      "desc": "Saldırı Seviyesi +5, Maksimum Can +%10, Verilen Hasar +%5"
     },
     {
       "id": "MD562",
-      "name": "Resilient VI",
-      "desc": "Offense Level +2, Defense Level +6, Max HP +10%, Damage Dealt +5%"
+      "name": "Dayanıklı VI",
+      "desc": "Saldırı Seviyesi +2, Savunma Seviyesi +6, Maksimum Can +%10, Verilen Hasar +%5"
     },
     {
       "id": "MD563",
-      "name": "Body Up VI",
-      "desc": "Offense Level +5, Defense Level +2, Max HP +5%, Damage Dealt +5%"
+      "name": "Gövde Güçlendirme VI",
+      "desc": "Saldırı Seviyesi +5, Savunma Seviyesi +2, Maksimum Can +%5, Verilen Hasar +%5"
     },
     {
       "id": "MD564",
-      "name": "Growth VI",
-      "desc": "Offense Level +2, Max HP +25%, Damage Dealt +5%"
+      "name": "Büyüme VI",
+      "desc": "Saldırı Seviyesi +2, Maksimum Can +%25, Verilen Hasar +%5"
     },
     {
       "id": "MD565",
-      "name": "Clash Power Up III",
-      "desc": "Clash Power +1, Offense Level +2, Max HP +10%, Damage Dealt +5%"
+      "name": "Çatışma Gücü Artışı III",
+      "desc": "Çatışma Gücü +1, Saldırı Seviyesi +2, Maksimum Can +%10, Verilen Hasar +%5"
     },
     {
       "id": "MD566",
-      "name": "Final Power Up III",
-      "desc": "Final Power +1, Offense Level +2, Max HP +7.5%, Damage Dealt +5%"
+      "name": "Final Güç Artışı III",
+      "desc": "Final Güç +1, Saldırı Seviyesi +2, Maksimum Can +%7.5, Verilen Hasar +%5"
     },
     {
       "id": "MD567",
-      "name": "Base Power Up III",
-      "desc": "Base Power +1, Offense Level +2, Max HP +5%, Damage Dealt +5%"
+      "name": "Temel Güç Artışı III",
+      "desc": "Temel Güç +1, Saldırı Seviyesi +2, Maksimum Can +%5, Verilen Hasar +%5"
     },
     {
       "id": "MD568",
-      "name": "Brutality III",
-      "desc": "Plus Coin Power +1, Minus Coin Power -1, Damage Dealt +5%"
+      "name": "Zulüm III",
+      "desc": "Jeton Gücü +1, Jeton Gücü -1, Verilen Hasar +%5"
     },
     {
       "id": "MD571",
-      "name": "Keen VII",
-      "desc": "Offense Level +5, Max HP +20%, Damage Dealt +7.5%"
+      "name": "Keskin VII",
+      "desc": "Saldırı Seviyesi +5, Maksimum Can +%20, Verilen Hasar +%7.5"
     },
     {
       "id": "MD572",
-      "name": "Resilient VII",
-      "desc": "Offense Level +2, Defense Level +6, Max HP +20%, Damage Dealt +7.5%"
+      "name": "Dayanıklı VII",
+      "desc": "Saldırı Seviyesi +2, Savunma Seviyesi +6, Maksimum Can +%20, Verilen Hasar +%7.5"
     },
     {
       "id": "MD573",
-      "name": "Body Up VII",
-      "desc": "Offense Level +5, Defense Level +2, Max HP +15%, Damage Dealt +7.5%"
+      "name": "Gövde Güçlendirme VII",
+      "desc": "Saldırı Seviyesi +5, Savunma Seviyesi +2, Maksimum Can +%15, Verilen Hasar +%7.5"
     },
     {
       "id": "MD574",
-      "name": "Growth VII",
-      "desc": "Offense Level +2, Max HP +35%, Damage Dealt +7.5%"
+      "name": "Büyüme VII",
+      "desc": "Saldırı Seviyesi +2, Maksimum Can +%35, Verilen Hasar +%7.5"
     },
     {
       "id": "MD575",
-      "name": "Clash Power Up IV",
-      "desc": "Clash Power +1, Offense Level +2, Max HP +20%, Damage Dealt +7.5%"
+      "name": "Çatışma Gücü Artışı IV",
+      "desc": "Çatışma Gücü +1, Saldırı Seviyesi +2, Maksimum Can +%20, Verilen Hasar +%7.5"
     },
     {
       "id": "MD576",
-      "name": "Final Power Up IV",
-      "desc": "Final Power +1, Offense Level +2, Max HP +17.5%, Damage Dealt +7.5%"
+      "name": "Final Güç Artışı IV",
+      "desc": "Final Güç +1, Saldırı Seviyesi +2, Maksimum Can +%17.5, Verilen Hasar +%7.5"
     },
     {
       "id": "MD577",
-      "name": "Base Power Up IV",
-      "desc": "Base Power +1, Offense Level +2, Max HP +15%, Damage Dealt +7.5%"
+      "name": "Temel Güç Artışı IV",
+      "desc": "Temel Güç +1, Saldırı Seviyesi +2, Maksimum Can +%15, Verilen Hasar +%7.5"
     },
     {
       "id": "MD578",
-      "name": "Brutality IV",
-      "desc": "Plus Coin Power +1, Minus Coin Power -1, Damage Dealt +7.5%"
+      "name": "Zulüm IV",
+      "desc": "Jeton Gücü +1, Jeton Gücü -1, Verilen Hasar +%7.5"
     },
     {
       "id": "MD581",
-      "name": "Keen VIII",
-      "desc": "Offense Level +6, Max HP +30%, Damage Dealt +7.5%"
+      "name": "Keskin VIII",
+      "desc": "Saldırı Seviyesi +6, Maksimum Can +%30, Verilen Hasar +%7.5"
     },
     {
       "id": "MD582",
-      "name": "Resilient VIII",
-      "desc": "Offense Level +3, Defense Level +6, Max HP +30%, Damage Dealt +7.5%"
+      "name": "Dayanıklı VIII",
+      "desc": "Saldırı Seviyesi +3, Savunma Seviyesi +6, Maksimum Can +%30, Verilen Hasar +%7.5"
     },
     {
       "id": "MD583",
-      "name": "Body Up VIII",
-      "desc": "Offense Level +5, Defense Level +4, Max HP +22.5%, Damage Dealt +7.5%"
+      "name": "Gövde Güçlendirme VIII",
+      "desc": "Saldırı Seviyesi +5, Savunma Seviyesi +4, Maksimum Can +%22.5, Verilen Hasar +%7.5"
     },
     {
       "id": "MD584",
-      "name": "Growth VIII",
-      "desc": "Offense Level +3, Max HP +45%, Damage Dealt +7.5%"
+      "name": "Büyüme VIII",
+      "desc": "Saldırı Seviyesi +3, Maksimum Can +%45, Verilen Hasar +%7.5"
     },
     {
       "id": "MD585",
-      "name": "Clash Power Up V",
-      "desc": "Clash Power +2, Offense Level +1, Max HP +25%, Damage Dealt +7.5%"
+      "name": "Çatışma Gücü Artışı V",
+      "desc": "Çatışma Gücü +2, Saldırı Seviyesi +1, Maksimum Can +%25, Verilen Hasar +%7.5"
     },
     {
       "id": "MD586",
-      "name": "Final Power Up V",
-      "desc": "Final Power +2, Offense Level +1, Max HP +20%, Damage Dealt +7.5%"
+      "name": "Final Güç Artışı V",
+      "desc": "Final Güç +2, Saldırı Seviyesi +1, Maksimum Can +%20, Verilen Hasar +%7.5"
     },
     {
       "id": "MD587",
-      "name": "Base Power Up V",
-      "desc": "Base Power +2, Offense Level +1, Max HP +15%, Damage Dealt +7.5%"
+      "name": "Temel Güç Artışı V",
+      "desc": "Temel Güç +2, Saldırı Seviyesi +1, Maksimum Can +%15, Verilen Hasar +%7.5"
     },
     {
       "id": "MD588",
-      "name": "Brutality V",
-      "desc": "Plus Coin Power +2, Minus Coin Power -2, Damage Dealt +7.5%"
+      "name": "Zulüm V",
+      "desc": "Jeton Gücü +2, Jeton Gücü -2, Verilen Hasar +%7.5"
     },
     {
       "id": "MD591",
-      "name": "Keen IX",
-      "desc": "Offense Level +8, Max HP +40%, Damage Dealt +10%"
+      "name": "Keskin IX",
+      "desc": "Saldırı Seviyesi +8, Maksimum Can +%40, Verilen Hasar +%10"
     },
     {
       "id": "MD592",
-      "name": "Resilient IX",
-      "desc": "Offense Level +3, Defense Level +9, Max HP +40%, Damage Dealt +10%"
+      "name": "Dayanıklı IX",
+      "desc": "Saldırı Seviyesi +3, Savunma Seviyesi +9, Maksimum Can +%40, Verilen Hasar +%10"
     },
     {
       "id": "MD593",
-      "name": "Body Up IX",
-      "desc": "Offense Level +6, Defense Level +5, Max HP +32.5%, Damage Dealt +10%"
+      "name": "Gövde Güçlendirme IX",
+      "desc": "Saldırı Seviyesi +6, Savunma Seviyesi +5, Maksimum Can +%32.5, Verilen Hasar +%10"
     },
     {
       "id": "MD594",
-      "name": "Growth IX",
-      "desc": "Offense Level +3, Max HP +72.5%, Damage Dealt +10%"
+      "name": "Büyüme IX",
+      "desc": "Saldırı Seviyesi +3, Maksimum Can +%72.5, Verilen Hasar +%10"
     },
     {
       "id": "MD595",
-      "name": "Clash Power Up VI",
-      "desc": "Clash Power +2, Offense Level +2, Max HP +40%, Damage Dealt +10%"
+      "name": "Çatışma Gücü Artışı VI",
+      "desc": "Çatışma Gücü +2, Saldırı Seviyesi +2, Maksimum Can +%40, Verilen Hasar +%10"
     },
     {
       "id": "MD596",
-      "name": "Final Power Up VI",
-      "desc": "Final Power +2, Offense Level +2, Max HP +35%, Damage Dealt +10%"
+      "name": "Final Güç Artışı VI",
+      "desc": "Final Güç +2, Saldırı Seviyesi +2, Maksimum Can +%35, Verilen Hasar +%10"
     },
     {
       "id": "MD597",
-      "name": "Base Power Up VI",
-      "desc": "Base Power +2, Offense Level +2, Max HP +30%, Damage Dealt +10%"
+      "name": "Temel Güç Artışı VI",
+      "desc": "Temel Güç +2, Saldırı Seviyesi +2, Maksimum Can +%30, Verilen Hasar +%10"
     },
     {
       "id": "MD598",
-      "name": "Brutality VI",
-      "desc": "Plus Coin Power +2, Minus Coin Power -2, Damage Dealt +10%"
+      "name": "Zulüm VI",
+      "desc": "Jeton Gücü +2, Jeton Gücü -2, Verilen Hasar +%10"
     }
   ]
 }
