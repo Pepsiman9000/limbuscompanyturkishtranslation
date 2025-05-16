@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "Bloodthirst",
-      "name": "Yearning for Blood",
-      "desc": "- Offense Level -35\n- Defense Level -35",
+      "name": "Kan Arzusu",
+      "desc": "- Saldırı Seviyesi -35\n- Savunma Seviyesi -35",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ObservedPerson",
-      "name": "Subject of Observation",
-      "desc": "- Max Stack: 30\n- Turn Start: gain 3 Stack (starting from the turn after this unit gained this effect)\n- Gain 1 Stack every time this unit takes or deals damage with an Attack Skill effect against Distorted Hohenheim\n- Take +(Stack x 4)% more damage from enemies\n- Deal +(Stack x 2)% more damage, but On Hit, take (Stack / 2)% of the damage dealt as HP damage (cannot be Staggered from this effect)",
+      "name": "Gözlem Altındaki Birey",
+      "desc": "- Maksimum Miktar: 30\n- Tur Başında: 3 Miktar kazanılır (bu etki bu birime uygulandıktan sonraki turdan itibaren)\n- Bu birim, Hohenheim'e karşı bir Saldırı Yetenek etkisiyle hasar aldığında veya verdiğinde 1 Miktar kazanılır\n- Düşmanlardan alınan hasar +(Miktar x 4)% artar\n- Verilen hasar +(Miktar x 2)% artar, fakat Vurulduğunda, verilen hasarın (Miktar / 2)%'si HP hasarı olarak alınır (bu etkiden ötürü Stagger olmaz)",
       "summary": "",
       "undefined": "-"
     }
