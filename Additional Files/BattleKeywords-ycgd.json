@@ -2,22 +2,22 @@
   "dataList": [
     {
       "id": "Grudge",
-      "name": "Growing Resentment",
-      "desc": "When this unit has a relevant buff: gain Growing Resentment equal to damage taken. Expires at Turn End",
+      "name": "Büyüyen Kin",
+      "desc": "Bu birimde ilgili bir güçlenme varken: alınan hasar kadar Büyüyen Kin kazanır. Tur Sonunda sona erer",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCePbBg",
-      "name": "Resentment",
-      "desc": "Turn Start: Gain 2 Damage Up and 3 Defense Level Down",
+      "name": "Kin",
+      "desc": "Tur Başında: 2 Hasar Artışı ve 3 Savunma Seviyesi Azalışı kazanır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCePbBh",
-      "name": "Resentment",
-      "desc": "Turn Start: Gain 1 Attack Power Up and 5 Defense Level Down",
+      "name": "Kin",
+      "desc": "Tur Başında: 1 Saldırı Gücü Artışı ve 5 Savunma Seviyesi Azalışı kazanır",
       "summary": "",
       "undefined": "-"
     }
