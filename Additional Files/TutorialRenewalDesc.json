@@ -126,15 +126,15 @@
     },
     {
       "id": "tuto_00_02_03_05_popup_content",
-      "content": "Bir Yeteneğin Final Gücünü hesaplama formülü şudur: \n\n<color=#f8c200>Taban Gücü + (Tura gelen Jeton sayısı x Jeton Gücü)<color=#ebcaa2>.\n\nTura gelen Jetonlar parlar, yazı gelenler ise sönük kalır."
+      "content": "Bir Yeteneğin Final Gücünü hesaplama formülü şudur: \n\n<color=#f8c200>Taban Gücü + (Tura gelen Jeton sayısı x Jeton Gücü)<color=#ebcaa2>.\n\nTura gelen Jetonlar parlar, Yazı gelenler ise sönük kalır."
     },
     {
       "id": "tuto_00_02_03_06",
-      "content": "The <color=#f8c200>resultant<color=#ebcaa2> <color=#f8c200>Skill Power<color=#ebcaa2> is displayed here.\n\n<color=#f8c200>Ishmael's 'Loggerhead' Skill has the higher Skill Power, so the enemy Skill loses a Coin.<color=#ebcaa2>"
+      "content": "Bir Yeteneğin <color=#f8c200>Final Gücü<color=#ebcaa2> burada gözükür.\n\n<color=#f8c200>Ishmael'in “Caretta” Yeteneğinin Gücü daha fazla, o yüzden rakibin Yeteneği 1 Jeton kaybeder.<color=#ebcaa2>"
     },
     {
       "id": "tuto_00_02_03_07",
-      "content": "As seen in this example, they will continue to <color=#f8c200><Clash><color=#ebcaa2> until one of them has no more Coins left to flip. <color=#f8c200>The unit with remaining Coins ultimately wins that <Clash><color=#ebcaa2>.\n\nRemember: winning <color=#f8c200><Clashes><color=#ebcaa2> is one of the most fundamental aspects of winning the battle."
+      "content": "Bu örnekte de görebileceğin gibi, ikisinden birinin hiçbir Jetonu kalmayana kadar çarpışmaya devam ediyorlar. <color=#f8c200>Jetonların kalan taraf, <Çarpışma>yı kazanıyor<color=#ebcaa2>.\n\nUnutma: <color=#f8c200><Çarpışma><color=#ebcaa2> kazanmak savaşmanın en temel unsurlarından biridir."
     },
     {
       "id": "tuto_00_03_01_01",
