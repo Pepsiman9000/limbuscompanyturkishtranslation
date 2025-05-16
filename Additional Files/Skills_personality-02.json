@@ -1274,7 +1274,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "A.B.S Maksimum Uyum Seviyesi 【Aşınma Korozyonu】",
+          "name": "A.Ç.Y Maksimum Uyum Seviyesi [Aşınma Korozyonu]",
           "desc": "Bu Yetenek'i kullandıktan sonra ölür.\n- Bu Yetenek'i kullanırken HP 1'e düşerse, Yetenek süresince HP'yi 1'de tutar.\n[WhenUse] Kendindeki her 5 [Combustion] için %7.5 daha fazla hasar ver (maks. %30)\n[WhenUse] Kendindeki ve hedefteki toplam [Combustion] 10+ ise, Temel Güç +1\n[WhenUse] Kendindeki her %30 kayıp HP için Coin Power +1 (maks. 2)\n[BeforeAttack] Kendindeki her %20 kayıp HP için Atk Weight +1 (maks. 2)",
           "coinlist": [
             {
@@ -1311,7 +1311,7 @@
         },
         {
           "level": 4,
-          "name": "A.B.S Maksimum Uyum Seviyesi 【Aşınma Korozyonu】",
+          "name": "A.Ç.Y Maksimum Uyum Seviyesi [Aşınma Korozyonu]",
           "desc": "Bu Yeteneği kullandıktan sonra ölür.\n- Bu beceriyi kullanırken HP 1'e düşerse, beceri süresince HP'yi 1'de tutar.\n[WhenUse] Kendindeki her 5 [Combustion] için %12.5 daha fazla hasar ver (maks. %50)\n[WhenUse] Kendindeki ve hedefteki her 10 ([Combustion] + [Combustion]) için Temel Güç +1 (maks. 2)\n[WhenUse] Kayıp her %30 HP için Coin Power +1 (maks. 3)\n[BeforeAttack] Kayıp her %20 HP için Atk Weight +1 (maks. 4)",
           "coinlist": [
             {
