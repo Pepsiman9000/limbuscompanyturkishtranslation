@@ -3,21 +3,21 @@
     {
       "id": "TheDrifter_LowMorale",
       "name": "Podao",
-      "desc": "- Low Morale\n- Take +10% damage from Unopposed Attacks; deal +30% damage with Counterattacks",
+      "desc": "- Düşük Moral\n- Engellenmeyen Saldırılardan alınan hasar %10 artar; Karşı Saldırılarla verilen hasar %30 artar",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TheDrifter_Panic",
       "name": "Podao",
-      "desc": "- Panic\n- Take +20% damage from Unopposed Attacks; deal +50% damage with Counterattacks",
+      "desc": "- Panik\n- Engellenmeyen Saldırılardan alınan hasar %20 artar; Karşı Saldırılarla verilen hasar %50 artar",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SipOfAlcohol",
-      "name": "Swig",
-      "desc": "- Max Stack :5\n- Turn End: at 3 Stack, heal 3% HP (Core, Part)\n- Turn End: at 5 Stack, gain 3 Attack Power Up and 2 Fragile next turn",
+      "name": "Yudum",
+      "desc": "- Maksimum Miktar: 5\n- Tur Sonu: 3 Miktar'da, %3 Can İyileşmesi (Çekirdek, Parça)\n- Tur Sonu: 5 Miktar'da, sonraki tur 3 Saldırı Gücü Artışı ve 2 Kırılgan kazanılır",
       "summary": "",
       "undefined": "-"
     }
