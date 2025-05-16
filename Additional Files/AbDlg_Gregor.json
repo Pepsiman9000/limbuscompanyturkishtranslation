@@ -5,7 +5,7 @@
       "personalityid": 11201,
       "voiceFile": 0,
       "teller": "Gregor",
-      "dialog": "Oh, this shouldn’t be a big deal at all, huh?",
+      "dialog": "Ah, bu hiç de büyük bir mesele olmamalı, değil mi?",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
@@ -13,7 +13,7 @@
       "personalityid": 11201,
       "voiceFile": 0,
       "teller": "Gregor",
-      "dialog": "Looks like a bit of a bother, but, eh… probably doable.",
+      "dialog": "Biraz zahmetli görünüyor ama, eh... muhtemelen yapılabilir.",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
     {
@@ -21,7 +21,7 @@
       "personalityid": 11201,
       "voiceFile": 0,
       "teller": "Gregor",
-      "dialog": "Welp… Not really feeling it, but if you say so.",
+      "dialog": "Şey... Pek içimden gelmiyor ama madem öyle diyorsun.",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
     {
@@ -29,7 +29,7 @@
       "personalityid": 11201,
       "voiceFile": 0,
       "teller": "Gregor",
-      "dialog": "Is that an order? If you’re just asking, then I suggest someone else.",
+      "dialog": "Bu bir emir mi? Sadece soruyorsan, başkasını öneririm.",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
     {
@@ -37,7 +37,7 @@
       "personalityid": 11201,
       "voiceFile": 0,
       "teller": "Gregor",
-      "dialog": "…So you were the kind of boss to get fragged by their own men.",
+      "dialog": "...Demek kendi adamlarınca vurulan türden bir patronsun.",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
@@ -45,7 +45,7 @@
       "personalityid": 11201,
       "voiceFile": 0,
       "teller": "Gregor",
-      "dialog": "Hm, got lucky.",
+      "dialog": "Hm, şanslıydım.",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {
@@ -53,7 +53,7 @@
       "personalityid": 11201,
       "voiceFile": 0,
       "teller": "Gregor",
-      "dialog": "Dumm gelaufen. Want a cig?",
+      "dialog": "Dumm gelaufen. Bir sigara ister misin?",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     },
     {
