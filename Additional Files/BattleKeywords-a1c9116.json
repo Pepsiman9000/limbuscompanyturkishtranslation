@@ -2,92 +2,92 @@
   "dataList": [
     {
       "id": "BurstAgility",
-      "name": "Deathrite【Haste】",
-      "desc": "Base Stack: 3\nWhen getting Rupture triggered by getting hit by an Attack Skill from a target with 10+ Speed, lose 1 Stack and gain +1 Rupture Count\nAt 0 Stack, take Gluttony damage equal to Rupture Potency on self; then, this effect expires\n※ Cannot gain additional Stacks of this effect while it is already active",
-      "summary": "If conditions are met: inflict Gluttony bonus damage",
+      "name": "Ölüm Dansı【Çabukluk】",
+      "desc": "Temel Miktar: 3\n10+ Hız’a sahip bir hedefin Saldırı Yetenekleri ile vurulunca Patlama tetiklendiğinde, 1 Miktar kaybeder ve +1 Patlama Miktarı kazanır\n0 Miktar olduğunda, kendi üzerinde Patlama Şiddeti kadar Oburluk hasarı alır; ardından bu etki sona erer\n※ Bu etki aktifken ek Miktar kazanılamaz",
+      "summary": "Koşullar sağlanırsa: Oburluk bonus hasarı verir",
       "undefined": "-"
     },
     {
       "id": "LegStrength",
-      "name": "Strider【Mao】",
-      "desc": "Max Stack: 3\nTurn End: gain 5 Haste next turn\nReduced by 1 at Turn End",
-      "summary": "If conditions are met: inflict Gluttony bonus damage",
+      "name": "Gezgin【Mao】",
+      "desc": "Maksimum Miktar: 3\nTur Sonu: Sonraki tur 5 Çabukluk kazanılır\nTur Sonu: 1 azalır",
+      "summary": "Koşullar sağlanırsa: Oburluk bonus hasarı verir",
       "undefined": "-"
     },
     {
       "id": "DarkBeast_LowMorale",
-      "name": "Deception",
-      "desc": "- Low Morale\n- If this unit's Speed is faster than the target or when using an Unopposed Attack, deal +10% more damage against the target",
+      "name": "Aldatma",
+      "desc": "- Düşük Moral\n- Bu birimin Hızı hedefinden hızlıysa veya Engellenmeyen Saldırı kullanıyorsa, hedefe verilen hasar %10 artar",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DarkBeast_Panic",
-      "name": "Deception",
-      "desc": "- Panic\n- If this unit's Speed is faster than the target or when using an Unopposed Attack, deal +20% more damage against the target; if this unit's Speed is faster than the target's, take -20% less damage",
+      "name": "Aldatma",
+      "desc": "- Panik\n- Bu birimin Hızı hedefinden hızlıysa veya Engellenmeyen Saldırı kullanıyorsa, hedefe verilen hasar %20 artar; bu birimin Hızı hedefinden hızlıysa aldığı hasar %20 azalır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RepressedMurderousIntend",
-      "name": "Repressed Bloodthirst",
-      "desc": "Offense Level -10, Defense Level -10",
+      "name": "Bastırılmış Kan Hırsı",
+      "desc": "Saldırı Seviyesi -10, Savunma Seviyesi -10",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WeighedMurderousIntend",
-      "name": "Crushed Bloodthirst",
-      "desc": "Offense Level -25, Defense Level -25",
+      "name": "Ezilmiş Kan Hırsı",
+      "desc": "Saldırı Seviyesi -25, Savunma Seviyesi -25",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "MiddleFingerBook",
-      "name": "The Middle's Vendetta Mark",
-      "desc": "Max Stack: 10\nWhen attacked by The Middle, take +3% more damage per Stack (max 30%)",
+      "name": "Orta Parmakın İntikam İşareti",
+      "desc": "Maksimum Miktar: 10\nOrta Parmak tarafından saldırıldığında, her Miktar için alınan hasar %3 artar (maksimum %30)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Persistent",
-      "name": "Persistence",
-      "desc": "Max Stack: 4\nWhen taking lethal damage, 80% chance to not take that damage, heal 60 HP, recover from Stagger, and lose this effect\n\nThe above effects do not activate under the following conditions:\n- When the Coin damage taken exceeds this unit's max HP\n- When this unit has the HP Healing Down effect\nReduced by 1 at Turn End",
+      "name": "Sebat",
+      "desc": "Maksimum Miktar: 4\nÖlümcül hasar alırken, %80 ihtimalle bu hasarı almaz, 60 can iyileşir, Sarsılmadan kurtulur ve bu etki kaybolur\n\nAşağıdaki durumlarda yukarıdaki etkiler aktif olmaz:\n- Alınan Jeton hasarı birimin maksimum canını aşarsa\n- Bu birim Can İyileşme Azaltma etkisindeyse\nTur Sonu: 1 azalır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BackstreetsNight_LowMorale",
-      "name": "Night in the Backstreets",
-      "desc": "Turn Start: gain 1 Attack Power Up, 1 HP Healing Boost, and 1 Fragile",
+      "name": "Arka Sokakların Gecesi",
+      "desc": "Tur Başında: 1 Hasar Artışı, 1 Can İyileşme Artışı ve 1 Dayanıksızlık kazanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BackstreetsNight_Panic",
-      "name": "Night in the Backstreets",
-      "desc": "Turn Start: gain 2 Attack Power Up, 2 HP Healing Boost, and 1 Fragile",
+      "name": "Arka Sokakların Gecesi",
+      "desc": "Tur Başında: 2 Hasar Artışı, 2 Can İyileşme Artışı ve 1 Dayanıksızlık kazanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SweeperA",
-      "name": "The First Wave",
-      "desc": "The first wave ends after {0} turn(s)",
+      "name": "Birinci Dalga",
+      "desc": "Birinci dalga {0} tur sonra sona erer",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SweeperB",
-      "name": "The Second Wave",
-      "desc": "The second wave ends after {0} turn(s)",
+      "name": "İkinci Dalga",
+      "desc": "İkinci dalga {0} tur sonra sona erer",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SweeperC",
-      "name": "The Third Wave",
-      "desc": "The third wave ends after {0} turn(s)",
+      "name": "Üçüncü Dalga",
+      "desc": "Üçüncü dalga {0} tur sonra sona erer",
       "summary": "",
       "undefined": "-"
     }
