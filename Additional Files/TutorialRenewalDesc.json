@@ -42,91 +42,91 @@
     },
     {
       "id": "tuto_00_01_02_04",
-      "content": "Savaş esnasında Günahkârlara emirlerini vermek için Paneli kullan.\nSavaş fazını şu adımlarla başlatabilirsin:\n\n1) Soldaki dişliden zinciri tut ve sürükle.\n2) Kullanılmasını istediğin Yeteneklerden geçir.\n3) Zinciri sağdaki dişliyle birleştir."
+      "content": "Savaş esnasında Günahkârlara emirlerini vermek için Paneli kullan.\nSavaş fazını şu adımlarla başlatabilirsin:\n\n1) Soldaki dişliden zinciri tut ve sürükle.\n2) Kullanılmasını istediğin Yeteneklerden geçir.\n3) Zinciri sağdaki dişliyle birleştir. \n\nZinciri sürüklemenin ortasında bırakabilirsin, ve tekrar tutabilirsin."
     },
     {
       "id": "tuto_00_02_01_01",
-      "content": "These seven-sided icons floating above both the allies and enemies' heads are called <color=#f8c200>Skill Slots<color=#ebcaa2>."
+      "content": "Gördüğün herkesin kafalarının üzerinde duran bu yedi köşeli ikonlara <color=#f8c200>Yetenek Yuvaları<color=#ebcaa2> denir."
     },
     {
       "id": "tuto_00_02_01_02",
-      "content": "Because you haven’t issued a command by chaining Skills yet, the allied Skill Slots are currently empty."
+      "content": "Yetenek zincirleyerek herhangi bir emir vermediğin için, Günahkârlarımızın Yetenek Yuvaları şuanlık boş."
     },
     {
       "id": "tuto_00_02_01_03",
-      "content": "Grab the chain from the left gear and chain it to one of these two leftmost Skills on the Dashboard."
+      "content": "Soldaki dişliden zinciri al, ve Paneldeki bu ilk iki yetenekten birine zincirle."
     },
     {
       "id": "tuto_00_02_01_04",
-      "content": "As you can see, the Skill you just chained has been equipped to the Skill Slot."
+      "content": "Görebildiğin üzere, az önce zincirlediğin Yetenek, o Yetenek Yuvasına seçildi."
     },
     {
       "id": "tuto_00_02_01_05_title",
-      "content": "Skill Slots"
+      "content": "Yetenek Yuvaları"
     },
     {
       "id": "tuto_00_02_01_06",
-      "content": "Equipped Skills are displayed on the Skill Slots floating above each Sinner’s head.\n\nWhen the combat phase begins, each Sinner will engage in battle using the Skills equipped in their Skill Slots."
+      "content": "Seçilmiş Yetenekler, birliklerin üzerinde duran Yetenek Yuvalarında gözükürler.\n\nSavaş fazı başladığında, her birlik Yetenek Yuvalarındaki Yetenekleri kullanarak savaşmaya başlar."
     },
     {
       "id": "tuto_00_02_01_07",
-      "content": "Drag from left to right on the Dashboard to equip every Sinner with one of the Skills on their respective columns."
+      "content": "Dişliden zinciri sona kadar sürükle ve her bir Günahkâra kendi sütunlarından Yetenekler seç."
     },
     {
       "id": "tuto_00_02_01_08",
-      "content": "Well done. Now, select the gear on the right to issue your command, and the Sinners will enter the combat phase, using the Skills you’ve equipped for them."
+      "content": "Aferin. Şimdi, emrini uygulamak için sağdaki zincire bas, ve Günahkârlar onlar için seçtiğin Yetenekleri kullanarak savaş fazına başlayacaklar."
     },
     {
       "id": "tuto_00_02_02_01",
-      "content": "A <color=#f8c200><Clash><color=#ebcaa2> occurs when both the Sinner and their target both use Attack Skills against each other."
+      "content": "İki Saldırı Yeteneği birbirini hedeflediğinde, bir <color=#f8c200><Çarpışma><color=#ebcaa2> yaşanır."
     },
     {
       "id": "tuto_00_02_02_02",
-      "content": "In a <color=#f8c200><Clash><color=#ebcaa2>, their <color=#f8c200>Power<color=#ebcaa2> is determined primarily by the Skill they are using to Clash."
+      "content": "<color=#f8c200><Çarpışma><color=#ebcaa2>daki <color=#f8c200>Güç<color=#ebcaa2>ü, Çarpışmak için kullanılan Yetenekler belirler."
     },
     {
       "id": "tuto_00_02_02_03",
-      "content": "And in this <color=#f8c200><Clash><color=#ebcaa2> between two Skills, the Skill with the higher <color=#f8c200>Power<color=#ebcaa2> wins."
+      "content": "Ve daha yüksek <color=#f8c200>Güç<color=#ebcaa2>e sahip olan kazanır."
     },
     {
       "id": "tuto_00_02_02_04",
-      "content": "Pay attention to the enemy's Coins. When a Skill <color=#f8c200>loses<color=#ebcaa2> a Clash, <color=#f8c200>it will lose a Coin<color=#ebcaa2>."
+      "content": "Rakibin Jetonlarına dikkat et. Bir Yetenek Çarpışma <color=#f8c200>kaybettiğinde<color=#ebcaa2>, <color=#f8c200>bir Jeton da kaybedecektir<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_02_02_05",
-      "content": "Even if a Skill loses a Clash, as long as it has remaining <color=#f8c200>Skill Coins<color=#ebcaa2>, the two Skills will continue to flip their Coins and <color=#f8c200><Clash><color=#ebcaa2> until <color=#f8c200>one of them loses all Coins<color=#ebcaa2>."
+      "content": "Bir Yetenek bir Çarpışma kaybetse bile, hala daha <color=#f8c200>Yetenek Jetonları<color=#ebcaa2>na sahip olduğu sürece, iki Yetenek de Jetonlarını atmaya devam eder ve <color=#f8c200>birisi tüm Jetonlarını kaybedene kadar<color=#ebcaa2> <color=#f8c200><Çarpışırlar><color=#ebcaa2>."
     },
     {
       "id": "tuto_00_02_02_06",
-      "content": "The Skill that lost all of its Coins in this <color=#f8c200><Clash><color=#ebcaa2> will conclusively lose the <color=#f8c200><Clash><color=#ebcaa2>.\nThis means that the <color=#f8c200>unit that won<color=#ebcaa2> the <color=#f8c200><Clash><color=#ebcaa2> gets to attack, while the unit that lost does not."
+      "content": "<color=#f8c200><Çarpışma><color=#ebcaa2>da tüm Jetonlarını kaybeden kişi, <color=#f8c200><Çarpışma><color=#ebcaa2>yı kaybeder.\nBu demek oluyor ki <color=#f8c200>Çarpışmayı kazan kişi<color=#ebcaa2> saldırma hakkı hazanır, kaybeden ise saldıramaz."
     },
     {
       "id": "tuto_00_02_03_01",
-      "content": "Let's see how <color=#f8c200>Power<color=#ebcaa2>, which determines the outcome of a <color=#f8c200><Clash><color=#ebcaa2>, is calculated.\n\nPlease issue a command."
+      "content": "Şimdi bakalım <color=#f8c200><Çarpışma><color=#ebcaa2>ların sonucuna karar veren şey, yani <color=#f8c200>Güç<color=#ebcaa2> nasıl çalışıyormuş.\n\nLütfen emirleri ver."
     },
     {
       "id": "tuto_00_02_03_02",
-      "content": "This number is the Skill's <color=#f8c200>Base Power<color=#ebcaa2> before it flips any Coins."
+      "content": "Bu sayı bir Yeteneğin herhangi Jeton atmadan önceki gücü, yani <color=#f8c200>Taban Gücü<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_02_03_03",
-      "content": "This number is the Skill's <color=#f8c200>Coin Power<color=#ebcaa2>."
+      "content": "Bu sayı ise Yeteneğin <color=#f8c200>Jeton Gücü<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_02_03_04",
-      "content": "Here, you can see <color=#f8c200>how many Coins<color=#ebcaa2> these Skills have.\n\nThe number of Coins determines two things:\n<color=#f8c200>1) How many times the Skill can lose a <Clash> before losing all of its Coins\n2) How many times the Skill hits when it attacks<color=#ebcaa2>."
+      "content": "Burada, Yeteneklerin <color=#f8c200>ne kadar Jetonu olduğunu<color=#ebcaa2> görebilirsin.\n\nJeton sayısı iki şey belirler:\n<color=#f8c200>1) Tüm Jetonlarını kaybetmeden önce kaç kere <Çarpışma> kaybedebilir\n2) Saldırırken, kaç vuruş yapar<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_02_03_05",
-      "content": "<color=#f8c200>Each Coin that flipped Heads<color=#ebcaa2> will add the <color=#f8c200>Coin Power<color=#ebcaa2> of that Skill to the <color=#f8c200>Base Power<color=#ebcaa2> of that same Skill."
+      "content": "<color=#f8c200>Tura gelen her Jeton,<color=#ebcaa2> Yeteneğin <color=#f8c200>Taban Gücüne<color=#ebcaa2> <color=#f8c200>Jeton Gücünü<color=#ebcaa2> ekler."
     },
     {
       "id": "tuto_00_02_03_05_popup_title",
-      "content": "Final Power Calculation"
+      "content": "Final Gücü Hesaplaması"
     },
     {
       "id": "tuto_00_02_03_05_popup_content",
-      "content": "The formula for a Skill's Final Power is as follows: \n\n<color=#f8c200>Base Power + (Number of Coins that flipped Heads x Coin Power)<color=#ebcaa2>.\n\nCoins that flipped Heads will glow, while the Coins that flipped Tails will appear dimmed."
+      "content": "Bir Yeteneğin Final Gücünü hesaplama formülü şudur: \n\n<color=#f8c200>Taban Gücü + (Tura gelen Jeton sayısı x Jeton Gücü)<color=#ebcaa2>.\n\nTura gelen Jetonlar parlar, yazı gelenler ise sönük kalır."
     },
     {
       "id": "tuto_00_02_03_06",
