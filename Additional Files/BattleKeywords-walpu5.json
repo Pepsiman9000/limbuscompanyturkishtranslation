@@ -2,36 +2,36 @@
   "dataList": [
     {
       "id": "Smoke",
-      "name": "Smoke",
-      "desc": "- Max Potency: 10\n- Max Count: 5\n- At 9+ Potency, Final Power +1\n- Take +5% more damage for every Potency\n- Lose 1 Count at Turn End",
+      "name": "Duman",
+      "desc": "- Maksimum Şiddet: 10\n- Maksimum Miktar: 5\n- 9 ve üzeri Şiddette, Son Güç +1\n- Şiddet başına +%5 daha fazla hasar alır\n- Tur Sonunda 1 Miktar kaybeder",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Church_LowMorale",
-      "name": "The Church",
-      "desc": "- Low Morale\n- Gain 1 additional Smoke or Smoke Count when gaining them\n- Turn Start: gain 3 Fragility, 2 Damage Up, and 1 Defense Power Up",
+      "name": "Kilise",
+      "desc": "- Moral Düşüklüğü\n- Duman veya Duman Miktarı kazanırken +1 fazladan kazanır\n- Tur Başında: 3 Kırılganlık, 2 Hasar Artışı ve 1 Savunma Gücü Artışı kazanır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Church_Panic",
-      "name": "The Church",
-      "desc": "- Panic\n- Gain 2 additional Smoke or Smoke Count when gaining them\n- Turn Start: gain 3 Fragility, 4 Damage Up, and 2 Defense Power Up",
+      "name": "Kilise",
+      "desc": "- Panik\n- Duman veya Duman Miktarı kazanırken +2 fazladan kazanır\n- Tur Başında: 3 Kırılganlık, 4 Hasar Artışı ve 2 Savunma Gücü Artışı kazanır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "MeatGearForce",
-      "name": "Meat Gear: Coercion",
-      "desc": "- HP does not drop below 1 HP during the Combat Phase.\n- This unit dies if it has 1 HP at Turn End.",
+      "name": "Et Dişlisi: Zorlama",
+      "desc": "- Savaş Fazı boyunca HP 1'in altına düşmez.\n- Tur Sonunda HP 1 ise, bu birim ölür.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AllSetForShooting",
-      "name": "Ready to Fire",
-      "desc": "- Skill Slot +1\n- Modify Skill pool: Gain 1 use of Skill 3, but lose 1 use of Skill 1\n- Deal +10% damage for every Ammo the Base Attack Skill spends\n- Attack Skills that gain Ammo deal +10% more damage for every Magic Bullet (applies whichever that has the highest damage gain)\n- On Kill with a Skill: heal 25 SP for 2 allies(including self) with the least SP; +2 E.G.O resources for the Affinity of the Skill that defeated the target; +1 E.G.O resource for all other Affinities",
+      "name": "Ateş Etmeye Hazır",
+      "desc": "- Yetenek Yuvası +1\n- Yetenek havuzunu değiştir: Yetenek 3 kullanım sayısını 1 artır, Yetenek 1 kullanım sayısını 1 azalt\n- Temel Saldırı Yeteneklerinin kullandığı Mermi başına +%10 hasar verir\n- Mermi kazanan Saldırı Yetenekleri, Mistik Mermi başına +%10 daha fazla hasar verir (hasar artışı daha yüksek olan uygulanır)\n- Yetenekle öldürme anında: SP'si en az olan 2 müttefiki (kendisi dahil) 25 SP iyileştir; hedefi yok eden Yeteneğin Afinitesine +2 E.G.O kaynağı; diğer tüm Afinitelere +1 E.G.O kaynağı kazanır",
       "summary": "",
       "undefined": "-"
     }
