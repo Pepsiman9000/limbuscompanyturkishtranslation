@@ -60,36 +60,36 @@
         }
       ]
     },
-    {
+    {2
       "id": 9003,
-      "name": "Ashes to Ashes",
-      "desc": "Combat Start: if all enemies (or all Abnormality parts) have [Combustion] or 'Özgün Burn', inflict 2 [Combustion] Potency on all enemies (or all Abnormality parts).",
+      "name": "Küller küllere",
+      "desc": "Çatışma Başlangıcı: Eğer tüm düşmanlar (veya tüm Anormallik Uzuvları) [Combustion] veya 'Özgün Burn' etkisine sahipse, tüm düşmanlara (veya tüm Anormallik Uzuvlarına) [Combustion] 2 Şiddeti uygula.",
       "simpleDesc": [
         {
           "abilityID": 9003,
-          "simpleDesc": "Inflict 2 [Combustion] Potency"
+          "simpleDesc": "2 [Combustion] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 19003,
-      "name": "Ashes to Ashes+",
+      "name": "Küller küllere+",
       "desc": "Combat Start: <style=\"upgradeHighlight\">inflict 2 [Combustion] Potency on all enemies (or all Abnormality parts) with [Combustion] or 'Özgün Burn'</style>.",
       "simpleDesc": [
         {
           "abilityID": 19003,
-          "simpleDesc": "Inflict 2 [Combustion] Potency"
+          "simpleDesc": "2 [Combustion] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 29003,
-      "name": "Ashes to Ashes++",
+      "name": "Küller küllere++",
       "desc": "Combat Start: <style=\"upgradeHighlight\">inflict 3 [Combustion] Potency on all enemies (or all Abnormality parts)</style>.",
       "simpleDesc": [
         {
           "abilityID": 29003,
-          "simpleDesc": "Inflict 3 [Combustion] Potency"
+          "simpleDesc": "3 [Combustion] Şiddeti uygula"
         }
       ]
     },
