@@ -2,97 +2,97 @@
   "dataList": [
     {
       "id": "AaCfPcBe",
-      "name": "Deep Bereavement",
-      "desc": "Inflict 5 SP damage After Attack.",
+      "name": "Derin Yas",
+      "desc": "Saldırı Sonrası 5 SP hasarı uygular.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBf",
-      "name": "Fettered Woe",
-      "desc": "Under a certain condition, and at 3+ Value, all Parts become Staggered next turn.\nExpires after applying 3 Fragile to the Chain Part",
+      "name": "Bağlı Keder",
+      "desc": "Belirli bir koşul altında ve 3+ Değer olduğunda, tüm Parçalar sonraki turda Sarsılır.\nZincir Parçasına 3 Kırılgan uygulandıktan sonra sona erer",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBg",
-      "name": "Subject of Wrath",
-      "desc": "Becomes a priority attack target for Heathcliff the Heartbroken.\nWhen this unit is killed, this effect moves to a different Identity.",
+      "name": "Öfke Nesnesi",
+      "desc": "Kalbini Kırmış Heathcliff için öncelikli saldırı hedefi olur.\nBu birim öldüğünde, bu etki farklı bir Kişiliğe geçer.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBb",
-      "name": "Butler's Mark",
-      "desc": "Used to raise Atk Weight of certain Attack Skills",
+      "name": "Uşak İşareti",
+      "desc": "Belirli Saldırı Yeteneklerinin Saldırı Ağırlığını artırmak için kullanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBc",
-      "name": "Binding Technique",
-      "desc": "- Max 3\n- Turn End: increases by 1\n- Turn End: gain Bind equal to the Value of this effect.\n- Turn End: if at 3 Value, become Staggered for the rest of the Encounter.\nDoes not expire.",
-      "summary": "Gain Bind equal to the Value next turn.\nIf at 3 Value, become Staggered for the rest of the Encounter.",
+      "name": "Bağlama Tekniği",
+      "desc": "- Maksimum 3\n- Tur Sonu: 1 artar\n- Tur Sonu: bu etkinin Değerine eşit Bağlanma kazanılır.\n- Tur Sonu: Değer 3 ise, bu Karşılaşmanın geri kalanında Sarsılmış olur.\nSüresi dolmaz.",
+      "summary": "Bir sonraki tur Değere eşit Bağlanma kazanılır.\nDeğer 3 ise, bu Karşılaşmanın geri kalanında Sarsılmış olur.",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBh",
-      "name": "Excruciating Rage",
-      "desc": "If the attacker has Explosive Wrath, take +100% more damage",
+      "name": "Öldürücü Öfke",
+      "desc": "Saldıran Patlayıcı Öfke etkisine sahipse, alınan hasar %100 artar",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBm",
-      "name": "Lightning of Suffering",
-      "desc": "- Clash Win: Inflict Breaking Heart and deal 7 HP damage.\n- Clash Lose or After Unopposed Attack: Gain Breaking Heart and take 7 HP damage.\n- Reduced by 1 at Skill End",
+      "name": "Acı Şimşeği",
+      "desc": "- Çarpışma Kazanma: Kırılan Kalp uygular ve 7 HP hasarı verir.\n- Çarpışma Kaybetme veya Rakipsiz Saldırı Sonrası: Kırılan Kalp kazanır ve 7 HP hasarı alır.\n- Yetenek sonunda 1 azalır",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBn",
-      "name": "Breaking Heart",
-      "desc": "- Every Sin Affinity Resistance is increased by (Value x 0.2)\n- At 3 Value, become Staggered.",
+      "name": "Kırılan Kalp",
+      "desc": "- Her Günah Türü Direnci (Değer x 0.2) kadar artar\n- Değer 3 olduğunda Sarsılır.",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBp",
-      "name": "Courage to Approach",
-      "desc": "- Turn End: Heal 10 SP\n- Gain 3 Attack Power Up and 5 Protection every turn\n- When attacked, heal 5 SP. Gain 1 Offense Level Up next turn. (3 times per turn)\n- Turn Start: If at less than 0 SP, gain 3 Attack Power Up.\n- As long as there are 1 or more other surviving ally in this Encounter, Heathcliff's HP does not drop below 1.\nThis unit's Retreat abilities do not activate for the duration of this Encounter.",
+      "name": "Yaklaşmak İçin Cesaret",
+      "desc": "- Tur Sonu: 10 SP iyileştirir\n- Her tur 3 Saldırı Gücü Artışı ve 5 Koruma kazanır\n- Saldırıldığında 5 SP iyileştirir. Sonraki tur 1 Saldırı Seviyesi Artışı kazanır (tur başına 3 kez)\n- Tur Başlangıcı: SP 0'ın altındaysa 3 Saldırı Gücü Artışı kazanır.\n- Bu Karşılaşmada hayatta kalan en az 1 müttefik varsa, Heathcliff’in HP'si 1'in altına düşmez.\nBu birimin Çekilme yetenekleri bu Karşılaşma boyunca aktif olmaz.",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBo",
-      "name": "Determination",
-      "desc": "- Turn End: Heal 10 SP\n- When attacked, gain 1 Offense Level Up next turn. (3 times per turn)\n- Turn Start: If at less than 0 SP, gain 3 Attack Power Up.\n- As long as there are 1 or more other surviving ally in this Encounter, Heathcliff's HP does not drop below 1.\nThis unit's Retreat abilities do not activate for the duration of this Encounter.",
+      "name": "Kararlılık",
+      "desc": "- Tur Sonu: 10 SP iyileştirir\n- Saldırıldığında, sonraki tur 1 Saldırı Seviyesi Artışı kazanır (tur başına 3 kez)\n- Tur Başlangıcı: SP 0'ın altındaysa 3 Saldırı Gücü Artışı kazanır.\n- Bu Karşılaşmada hayatta kalan en az 1 müttefik varsa, Heathcliff’in HP'si 1'in altına düşmez.\nBu birimin Çekilme yetenekleri bu Karşılaşma boyunca aktif olmaz.",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBq",
-      "name": "Broken Heart",
-      "desc": "- Max Speed +2\n- Gain 3 Damage Up and 3 Fragile every turn\n- If the main target is Heathcliff, the Attack Skill gains Final Power +2\n- Clash Lose against Heathcliff: gain 3 Bind and 3 Damage Down next turn",
+      "name": "Kırık Kalp",
+      "desc": "- Maksimum Hız +2\n- Her tur 3 Hasar Artışı ve 3 Kırılgan kazanır\n- Ana hedef Heathcliff ise, Saldırı Yeteneği Son Güç +2 kazanır\n- Heathcliff'e karşı Çarpışma Kaybetme: sonraki tur 3 Bağlanma ve 3 Hasar Azalışı kazanır",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBr",
-      "name": "May She... Wake in Torment!",
-      "desc": "Clash Power -6 in a Clash against targets with Lightning of Suffering",
+      "name": "Acı İçinde Uyanması Dileği!",
+      "desc": "Acı Şimşeği etkisine sahip hedeflere karşı Çarpışma Gücü -6",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBi",
-      "name": "Superthermogenesis",
-      "desc": "Turn End: take fixed damage equal to X% of Max HP based on the Value, then the effect expires",
+      "name": "Süpertermogenez",
+      "desc": "Tur Sonu: Değere bağlı olarak Maksimum HP'nin %X kadar sabit hasar alır, sonra etki sona erer",
       "undefined": "-"
     },
     {
       "id": "Unobservable",
-      "name": "Unobservable",
+      "name": "Gözlemlenemez",
       "desc": "",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBs",
-      "name": "Away With You",
-      "desc": "Remaining Shield Value",
+      "name": "Defol Git",
+      "desc": "Kalan Kalkan Değeri",
       "undefined": "-"
     }
   ]
