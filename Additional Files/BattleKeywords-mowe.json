@@ -2,36 +2,36 @@
   "dataList": [
     {
       "id": "KeptBlood",
-      "name": "Stored Blood",
-      "desc": "- Max Value: 10\n- Lose 1 value every time this unit loses 5% HP.\n- On Hit, heal 1% of this unit's HP",
+      "name": "Saklı Kan",
+      "desc": "- Maksimum Değer: 10\n- Bu birim her %5 HP kaybettiğinde 1 değer kaybeder.\n- Vurulduğunda, bu birimin HP'sinin %1'i kadar iyileşir.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyCrave",
-      "name": "Bloodtinged Craving",
-      "desc": "- Gain 1 Clash Power Up and 1 Damage Up every turn\n- On Hit, gain 1 Stored Blood\n- If this unit did not gain Stored Blood this turn, gain 2 Fragile, 1 Haste, and 4 Offense Level Up next turn instead of the above effect",
+      "name": "Kanla Boyanmış Arzu",
+      "desc": "- Her tur 1 Çatışma Gücü Artışı ve 1 Hasar Artışı kazanılır\n- Vurulduğunda 1 Saklı Kan kazanılır\n- Eğer bu birim bu tur Saklı Kan kazanmadıysa, yukarıdaki yerine sonraki tur 2 Kırılgan, 1 Çabukluk ve 4 Saldırı Seviyesi Artışı kazanır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodPocket_LowMorale",
-      "name": "Bloodthirst",
-      "desc": "Turn Start: Gain 1 Fragile and Damage Up",
+      "name": "Kan Hırsı",
+      "desc": "Tur Başında: 1 Kırılgan ve Hasar Artışı kazanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodPocket_Panic",
-      "name": "Bloodthirst",
-      "desc": "Turn Start: Gain 2 Fragile and Damage Up",
+      "name": "Kan Hırsı",
+      "desc": "Tur Başında: 2 Kırılgan ve Hasar Artışı kazanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "HardenedBlood",
-      "name": "Coagulated Blood",
-      "desc": "Gain Offense Level and Defense Level equal to the value (max 5)",
+      "name": "Pıhtılaşmış Kan",
+      "desc": "Değer kadar Saldırı Seviyesi ve Savunma Seviyesi kazanılır (maksimum 5)",
       "summary": "",
       "undefined": "-"
     }
