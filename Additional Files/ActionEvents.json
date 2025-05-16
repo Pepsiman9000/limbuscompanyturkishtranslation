@@ -96,82 +96,82 @@
     },
     {
       "id": 102001,
-      "name": "Suspiciously Sparkly Vending Machine",
+      "name": "Şüpheli Derecede Parlak Otomat",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "In the middle of the factory, you find a vending machine with large buttons.\n\nThey’re colorful and fancy…\nYou feel a strong compulsion to press them.\n\nWhich one will you press?",
+      "desc": "Fabrikanın ortasında, büyük butonlara sahip bir otomat buluyorsunuz.\n\nRenkli, ek olarak süslüler de.\nOnlara basmak için güçlü bir zorlanma hissediyorsunuz.\n\nHangisine basacaksın?",
       "options": [
         {
-          "message": "Press the red button with a fist icon.",
-          "messageDesc": "Gain an E.G.O Gift",
+          "message": "Yumruk işareti olan kırmızı butona bas.",
+          "messageDesc": "E.G.O Hediyesi kazan.",
           "result": [
-            "“Congrats! Congrats!”\n\nSomething rumbled down the chute.\n\nIt appears to be a toy fist."
+            "“Tebriker! Tebrikler!”\n\nOluktan aşağıya doğru bir şey gürledi.\n\nOyuncak bir yumruğa benziyor."
           ]
         },
         {
-          "message": "Press the yellow button with a foot icon.",
-          "messageDesc": "Gain an E.G.O Gift",
+          "message": "Ayak işareti olan sarı butona bas.",
+          "messageDesc": "E.G.O Hediyesi kazan.",
           "result": [
-            "“Congrats! Congrats!”\n\nSomething rumbled down the chute.\n\nIt appears to be a toy foot."
+            "“Tebrikler! Tebrikler!”\n\nOluktan aşağıya doğru bir şey gürledi.\n\nOyuncak bir ayağa benziyor."
           ]
         },
         {
-          "message": "Press the green button with a heart icon.",
-          "messageDesc": "Gain an E.G.O Gift",
+          "message": "Kalp işareti olan yeşil butona bas.",
+          "messageDesc": "E.G.O Hediyesi kazan.",
           "result": [
-            "“Congrats! Congrats!”\n\nSomething rumbled down the chute.\n\nIt appears to be a toy screw."
+            "“Tebrikler! Tebrikler!”\n\nOluktan aşağıya doğru bir şey gürledi.\n\nOyuncak bir vidaya benziyor."
           ]
         },
         {
-          "message": "Press all the buttons at once.",
-          "messageDesc": "Gain 3 E.G.O Gifts. But…",
+          "message": "Hepsine birden bas.",
+          "messageDesc": "3 E.G.O Hediyesi kazan. Ama…",
           "result": [
-            "“Error! Error!”\n\nThe vending machine began to rattle.\n\n“H-Hey, what’s wrong with this thing?”\n\n“Sigh, you should’ve known better than to get gre—”\n\nBefore the Sinner could finish, the machine exploded, spewing a slew of toy parts into the air."
+            "“Hata! Hata!”\n\nOtomat çıngırdamaya başladı.\n\n“H-Hey, bu şeyin sorunu ne?”\n\n“Ah, açgözlü olmaman gerektiğini bilmeliyd—”\n\nGünahkâr lafını bitiremeden, otomat bir sürü oyuncağı havaya fırlatırken patladı."
           ]
         },
         {
-          "message": "Don’t press anything.",
+          "message": "Hiçbirine basma.",
           "result": [
-            "You should resist odd impulses like this.\nMeddling with the unknown is surely a bad idea.\n\nYou left the vending machine without touching a thing."
+            "Tuhaf dürtülerine karşı gelmelisin.\nBilinmeyenle uğraşmak elbette kötü bir fikir.\n\nHiçbir şeye dokunmadan otomatı terk ettiniz."
           ]
         }
       ]
     },
     {
       "id": 102002,
-      "name": "Exhilarating Edutainment Featuring Excess Violence!",
+      "name": "Aşırı Şiddet İçeren Heyecan Verici Eğlendirici Eğitim!",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Exiting the passage, you see a group of cyborgs gathered around a huge roulette.\n\n“Oh. Highly. Excited. Thoroughly. Amusing.”\n“Da GAME of DE—ATH!”\n\nThey approach you, chanting in strange beats.\nIt looks like they want you to play a game of roulette. What should you do?",
+      "desc": "Geçitten ayrılırken, devasa bir ruletin başında duran birkaç siborga denk geliyorsunuz.\n\n“Ah. Fazlasıyla. Heyecanlı. İyice. Eğlenceli.”\n“ÖL-ÜM OYUNU!”\n\nFarklı ritimlerde konuşurken, size yaklaşmaay başlıyorlar.\nGörünüşe göre bir tur rulet oynamanızı istiyorlar. Ne yapmalısınız?",
       "options": [
         {
-          "message": "Take on the challenge.",
-          "messageDesc": "Rodion gains SP. Run Wrath, Sloth, and Gloom checks. Pass to heal all allies’ SP and gain an E.G.O Gift.",
+          "message": "Meydan okumayı kabul et.",
+          "messageDesc": "Rodion SP kazanır. Öfke, Tembellik ve Kasvet kontrolleri yap. E.G.O Hediyesi kazanmak ve tüm müttefiklerin SP'lerini iyileştirmek için geç.",
           "result": [
-            "“You know this is where I shine!”\n\nRodya proudly proclaimed as she stepped forward.\nYou can see a mixture of anticipation and excitement on her face."
+            "“Burası benim parlamam gereken yer, bilirsin ya!”\n\nRodya, gururla bunu söylerken ileriye doğru bir adım attı.\nSuartındaki heyecan ve beklenti görülebiliyordu."
           ]
         },
         {
-          "message": "Forget games! Crush them in battle.",
-          "messageDesc": "Rodion loses SP. Begin a combat encounter. Win to gain an E.G.O Gift.",
+          "message": "Oyunu unutun! Hepsini savaşta ezin.",
+          "messageDesc": "Rodion SP kaybeder. Çatışma başlat. Kazanarak E.G.O Hediyesi al.",
           "result": [
-            "This is not the time for gaming of all things.\nLet’s just deal with those crazed cyborgs and move on.\n\n“…Psh.”\n\nRodya smacked her lips in dissatisfaction, but you know you can’t always afford to give every Sinner what they want."
+            "Şu an oyun oynamanın zamanı değil.\nHadi şu çılgın siborgları alt edip yolumuza devam edelim\n\n“Pşş...”\n\nRodya memnuniyetsiz bir şekilde dudaklarını şapırdattı, ama biliyorsun ki her zaman bir Günahkârın isteğini karşılayamazsın."
           ]
         }
       ]
     },
     {
       "id": 102003,
-      "name": "Are You Happy?",
+      "name": "Mutlu Musun?",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "A thick glass door stood strongly in the pink frame.\nThe electronic display above suddenly flashed to life, offering a question.\n\n“Are you happy?”\n\nWhat will be your answer?",
+      "desc": "Pembe çerçeveye sahip kalın bir cam kapı öylece duruyordu.\nYukarıda duran elektronik ekran bir anda canlandı ve bir soru sordu.\n\n“Mutlu musun?”\n\nCevabın ne olacak?",
       "options": [
         {
-          "message": "I sure am.",
+          "message": "Kesinlikle mutluyum.",
           "result": [
-            "“How wonderful!”\n\nThe display emitted a green flash, and the door opened for us.\nLooks like we can proceed."
+            "“Ne güzel!”\n\nEkran, yeşil bir ışığı emerek bizim için bir kapı oluşturdu.\nGörünüşe bakılırsa ilerleyebiliriz."
           ]
         },
         {
-          "message": "I’m not.",
+          "message": "Değilim.",
           "result": [
             ""
           ]
@@ -180,52 +180,52 @@
     },
     {
       "id": 10200301,
-      "name": "Are You Happy? 2",
+      "name": "Mutlu musun? 2",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "“There’s a pair of pink shoes that can bring you to happiness.”\n\nThe display glowed red.\n\n“Would you like to try them on?”",
+      "desc": "“Sana mutluluğu getirebilecek bir çift pembe ayakkabı var.”\n\nEkran kırmızı parlamaya başladı.\n\n“Denemek ister misin?”",
       "options": [
         {
-          "message": "Try the shoes on.",
-          "messageDesc": "Gain an E.G.O Gift",
+          "message": "Ayakkabıları dene.",
+          "messageDesc": "E.G.O Hediyesi kazan",
           "result": [
-            "The glass door opened, revealing said pair of pink shoes.\n\nWhen you put them on, you could feel strands of ribbons wrap around your legs.\nThey’re tightening around your body, but it’s not an unpleasant feeling.\n\nYou feel as though you can now go… anywhere."
+            "Cam kapı açıldı ve bahsi geçen pembe ayakkabılar ortaya çıktı.\n\nBunları giydiğin zaman, pembe kurdelelerin bacaklarının etrafına dolaştığını hissedeceksin.\nBedeninin etrafına sıkılaşmaya başlasa da, hoş olmayan bir şey hissetmiyorsun.\n\nSanki istediğin herhangi bir yere gidebilecekmişsin gibi hissediyorsun."
           ]
         },
         {
-          "message": "Don’t wear the shoes.",
-          "messageDesc": "Begin a combat encounter.",
+          "message": "Ayakkabıları giyme.",
+          "messageDesc": "Bir çatışma başlat.",
           "result": [
-            "“Don’t shy away from the majesty of the pink shoes!”\n\nThe light over the shoes shut off as you backed away.\n\n“They will take you wherever you want to go!”\n\nThe display began to flicker frantically,\nand a group of people wrapped in pink ribbons shambled through the door."
+            "“Pembe ayakkabıların görkeminden çekinme!”\n\nGeriye çekildiğin gibi pembe ayakkabıların yaydığı ışık gitti.\n\n“Seni istediğin yere götürecekler!”\n\nEkran delirmişçesine titremeye başladı,\nve pembe kurdelelere dolanmış bir grup kişi ayaklarını yere sürte sürte kapıdan içeriye girdiler."
           ]
         }
       ]
     },
     {
       "id": 10301,
-      "name": "An Old Room with a Clockwork Mechanism",
+      "name": "Saat Mekanizması Olan Eski Oda",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "There’s a machine in this dilapidated room.\nA long, bulky lever is at the center of the machine adorned with springs.\n\nThe urge… to pull it… is growing… stronger… and stronger.\n\nWhat will you do?",
+      "desc": "Bu harap edilmiş odanın içerisinde bir makine var.\nUzun, iri bir kol, yaylarla süslenmiş olan makinenin merkezinde öylece duruyor.\n\nKolu çekme arzusu… Daha da… Ve daha da… Güçleniyor.\n\nNe yapacaksın?",
       "options": [
         {
-          "message": "Use the machine.",
-          "messageDesc": "50% chance for a positive effect; 50% chance for a negative effect"
+          "message": "Makineyi kullan.",
+          "messageDesc": "%50 şans ile pozitif; %50 şans ile negatif efekt kazanırsın."
         },
         {
-          "message": "Leave the room.",
+          "message": "Odayı terk et.",
           "result": [
-            "You’re not a child anymore. You can resist simple impulses like this.\nIt’s never a good idea to fall for temptation without a second thought.\n\n“Yeah, good thinking.”\n\nYou and the Sinners left the room."
+            "Artık çocuk değilsin. Arzularına karşı gelebilecek birisin.\nBöylesine aklının çelinmesine iki defa düşünmeden izin vermek, asla iyi bir fikir değil.\n\n“Evet, iyi düşündün.”\n\nGünahkârlar ile odayı terk ettin."
           ]
         }
       ]
     },
     {
       "id": 1030101,
-      "name": "An Old Room with a Clockwork Mechanism",
+      "name": "Saat Mekanizması Olan Eski Oda",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Putting a spontaneous thought into action is as impulsive and uninhibited as a child reaching for off-limits marshmallows.\n\nWhen you pull down the lever, a clack follows soon after.\nThe springs begin to turn, some slow, some quick.\nSome clockwise, others counter-clockwise.\n\nWatching the machine’s rumble grow wilder, you feel anxious.",
+      "desc": "Spontan bir düşünceyi eyleme geçirmek, bir çocuğun limitleri aşacak kadar kaytarması kadar dürtüseldir.\n\nKolu çekmenle bir tıkırtı geldi.\nYayların bazıları hızlı, bazıları da yavaş şekilde dönmeye başladı.\nKimisi saat yönünde, kimisi de tam tersi.\n\nMakinenin gürültü seslerinin yükseldiğini duymak, seni telaşlandırmaya başladı.",
       "options": [
         {
-          "message": "Pull the lever.",
+          "message": "Kolu çek.",
           "messageDesc": "50% chance to gain an E.G.O Gift. Failure results in HP and SP damage.",
           "result": [
             "The machine stopped at last.\n\n“Huh… Would you look at that!”\n\nA small wooden chest rose from the floor.\nYou carefully open it to find a bundle of torches.\n\nIt’s not much, but they should give you momentary relief in the dark.\nYou take the torches out of the room.",
