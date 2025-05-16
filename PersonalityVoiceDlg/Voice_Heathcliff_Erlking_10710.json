@@ -2,142 +2,142 @@
     "dataList": [
         {
             "id": "get_10710_1",
-            "desc": "Identity Acquisition",
+            "desc": "Kimlik Edinildiğinde",
             "dlg": "Tekrar döndüm. Catherine ve... malikanenin o lanetli alçaklarıyla yüzleşmek için."
         },
         {
             "id": "lobby_morning_10710_1",
-            "desc": "Morning Greeting",
+            "desc": "Günaydın",
             "dlg": "Ormanın sabahına erkenden kalkıyorum. Özellikle güneş bir kabusun üstüne doğarken; o kabusta, Catherine... sürekli kayboluyor. Ve her zaman, ben..."
         },
         {
             "id": "lobby_noon_10710_1",
-            "desc": "Afternoon Greeting",
+            "desc": "Tünaydın",
             "dlg": "Şimdi o sütten çıkma ak kaşık 'Genç Efendi'lerine bir fincan siyah çay ikram ediyorlardır. Heh heh... Eminim ki vücudundan ayırdığım kolu... ağrıyordur."
         },
         {
             "id": "lobby_night_10710_1",
-            "desc": "Evening Greeting",
+            "desc": "İyi Akşamlar",
             "dlg": "Beni hiçbir zaman akşam ziyafetlerine çağırmasalar bile Catherine beni sürekli mutfaktan aldığı yemeklerle ziyaret ederdi.\n... Hepsi geçmiş günlerin anlamsız birikimleri artık."
         },
         {
             "id": "smalltalk_10710_1",
-            "desc": "Chatter #1",
+            "desc": "Muhabbet #1",
             "dlg": "Bu bir saat mi? Güzel. 'Vaat edilmiş' vakit yakın... Seni gözümün önünde tutacağım. Sabır, Catherine'in hiçbir zaman güçlü yanı olmamıştı.\n... Yine de beni bu kadar değiştikten sonra karşılar mı bilemiyorum."
         },
         {
             "id": "smalltalk_10710_2",
-            "desc": "Chatter #2",
+            "desc": "Muhabbet #2",
             "dlg": "Burası bir orman için fazla sessiz, değil mi...? Çünkü buradaki yaşan herşeyi benim yaptım.\nO sessizlikte Catherine'in anıları geri dönüyor... ve ben bir taş gibi batıyorum."
         },
         {
             "id": "smalltalk_10710_3",
-            "desc": "Chatter #3",
+            "desc": "Muhabbet #3",
             "dlg": "Gençliğimde beni önemseyen bir kadın vardı. Ama yakında benim kılıcım onunkine karşı dayanacak.\nAma bu sefer, onun tıpkı bana yaptığı gibi kendi kanadım altına alacağım."
         },
         {
             "id": "smalltalk_10710_4",
-            "desc": "Post-Uptie Chat 1",
+            "desc": "Rütbe Artırma Sonrası Muhabbet 1",
             "dlg": "Hah, öfkenin kontrolü ele alışının verdiği hazzı hissediyor musun?!\nBurada düşüncelerimize yer yok; ne sizin, ne benim. Ve kalan tek şey, bu işi sonsuza kadar, bu fırtına-kıran tepelerin üstünde bitirmek!\nBitince ayakta kalan kim olacak, merak ediyorum."
         },
         {
             "id": "smalltalk_10710_5",
-            "desc": "Post-Uptie Chat 2",
+            "desc": "Rütbe Artırma Sonrası Muhabbet 2",
             "dlg": "Gazaplı kılıcımın ucu hedefinden şaşmaz. Varlığımın en büyük yakıtı.\nSize azami yıkım getireceğim, benim kalbimi kıran size... ve Uğultulu Tepeler'e, buluşmamızın beşiği!"
         },
         {
             "id": "neglect_10710_1",
-            "desc": "Idle",
+            "desc": "Boşta",
             "dlg": "... Catherine'imin öldüğü gün hayat benim için bitti."
         },
         {
             "id": "gacksung_10710_1",
-            "desc": "Uptying",
+            "desc": "Rütbe Artırılken",
             "dlg": "Söz verilen ziyafetin şafağı, avın günü yükseliyor. Saçımın ucunda hissedebiliyorum... Uğultulu Tepeler'in yıkımı yakındır."
         },
         {
             "id": "formation_10710_1",
-            "desc": "Deployment",
+            "desc": "Yerleştirildiğine",
             "dlg": "Bu ulama sesi... fırtına olmalı. Catherine, o ağlıyor..."
         },
         {
             "id": "battleentry_10710_1",
-            "desc": "Stage Entry",
+            "desc": "Sahne Girişi",
             "dlg": "O Vahşi Av..."
         },
         {
             "id": "battle_select_10710_1",
-            "desc": "Viewed in Battle 1",
+            "desc": "Üzerine Tıklandığında",
             "dlg": "(Delirmişcesine Gülüş)"
         },
         {
             "id": "battle_select_10710_2",
-            "desc": "Viewed in Battle 2",
+            "desc": "Üzerine Tıklandığında 2",
             "dlg": "(Delirmişcesine Gülüş)"
         },
         {
             "id": "battle_select_10710_3",
-            "desc": "Viewed in Battle 3",
+            "desc": "Üzerine Tıklandığında 3",
             "dlg": "(Delirmişcesine Gülüş)"
         },
         {
             "id": "battle_endcommand_10710_1",
-            "desc": "Commencing Attack",
+            "desc": "Saldırırken",
             "dlg": "... İdamın için hazırlan...!"
         },
         {
             "id": "battle_enemy_break_10710_1",
-            "desc": "Enemy Staggered",
+            "desc": "Düşman Sersemlediğinde",
             "dlg": "Fırtınanın içinde..."
         },
         {
             "id": "battle_break_10710_1",
-            "desc": "Staggered",
+            "desc": "Sersemlediğinde",
             "dlg": "Bir daha! Bir daha ve yine birdaha, bu fırtına uyuyana kadar!"
         },
         {
             "id": "battle_kill_10710_1",
-            "desc": "On Kill 1",
+            "desc": "Düşman Ölünce 1",
             "dlg": "... Gömüldüğün zaman uyuyacaksın."
         },
         {
             "id": "battle_kill_10710_2",
-            "desc": "On Kill 2",
+            "desc": "Düşman Ölünce 2",
             "dlg": "... Çığlık atacaksın."
         },
         {
             "id": "battle_kill_10710_3",
-            "desc": "On Kill 3",
+            "desc": "Düşman Ölünce 3",
             "dlg": "... Parçalarına ayrılacaksın."
         },
         {
             "id": "battle_dead_10710_1",
-            "desc": "Death",
+            "desc": "Ölüm",
             "dlg": "Ölümümde bile... Ben... yapacağım..."
         },
         {
             "id": "choice_success_p_10710_2",
-            "desc": "Check Passed",
+            "desc": "Kontrol Geçildi",
             "dlg": "Av için..."
         },
         {
             "id": "choice_fail_n_10710_1",
-            "desc": "Check Failed",
+            "desc": "Kontrol Geçilmedi",
             "dlg": "Av başarısız oldu... ne olursa. Bu acı sadece pençelerimi keskinleştirecek."
         },
         {
             "id": "battle_clear_10710_1",
-            "desc": "Victory Cry",
+            "desc": "Zafer",
             "dlg": "Hayır, bu daha bitmedi. Vahşi Av'ım, ileri! Aşk için çağrılarım Catherine'e ulaşana kadar...!"
         },
         {
             "id": "battle_clear_ex_10710_1",
-            "desc": "Extra Condition Fulfilled",
+            "desc": "Ek Koşullar Sağlandı",
             "dlg": "Bitti! Artık uğultulu fırtınada sarsılmayacağım, Catherine'nin beni yas içinde boğma hayalinden acı çekmeyeceğim, asla! Ben... Ben... Bunu bitirdim, değil mi?"
         },
         {
             "id": "battle_defeat_10710_1",
-            "desc": "Defeat Wail",
+            "desc": "Yenilgi Çığlığı",
             "dlg": "Ne biçim bir rezalet bu... neyse. Döneceğim. Uğultulu Tepeleri dişlerimin arasında ezene kadar geri döneceğim."
         }
     ]
