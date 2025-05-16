@@ -2,128 +2,128 @@
   "dataList": [
     {
       "id": "BloodyHand",
-      "name": "Bloodied Hand",
-      "desc": "- Max Value: 10\n- Base Value: 0\n- At 10 Stack: inflict +1 additional Rupture On Hit with this unit's Skill",
+      "name": "Kanlı El",
+      "desc": "- Maksimum Değer: 10\n- Temel Değer: 0\n- 10 Adet Olunca: Bu birimin Yetenekleriyle Vurulduğunda +1 ek Yırtılma uygular",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloomingThorns",
-      "name": "Blooming Thorn",
-      "desc": "- Max Value: 10\n- When taking damage from Skills, inflict Bleed equal to half of this effect's Stack against the Attacker (rounded up)",
-      "summary": "Inflict Bleed equal to Stack against the Attacker",
+      "name": "Çiçek Açan Diken",
+      "desc": "- Maksimum Değer: 10\n- Yeteneklerden hasar alınca, saldırana bu etkinin adetinin yarısı kadar (yukarı yuvarlanır) Kanama uygular",
+      "summary": "Saldırana adet kadar Kanama uygular",
       "undefined": "-"
     },
     {
       "id": "BloomingThorns_2nd",
-      "name": "Bloodwoven Thorn",
-      "desc": "- Any effects that gain Blooming Thorn gain this effect instead\n- Max Value: 10\n- Turn Start: gain 1 Offense Level Up per 3 Stack (max 3)\n- When taking damage from Skills, inflict Bleed equal to this effect's Stack against the Attacker, then lose 1 Stack (rounded up)\n- On Hit, inflict +1 more Bleed and Bleed Count with this unit's Skill effects\n- When applying Offense Level Up or Defense Level Up to an other ally with Skill Coin effects, apply 1 Clash Power Up next turn as well\n- All Skills that consume Bloodfeast gain Coin Power +1",
-      "summary": "Inflict Bleed on the Attacker equal to Stack\nInflict +1 more Bleed Potency & Count\nApply 1 Clash Power Up to allies\nIf the Skill consumes Bloodfeast, Coin Power +1",
+      "name": "Kan Dokunmuş Diken",
+      "desc": "- Çiçek Açan Diken kazanan tüm etkiler bu etkiyi kazanır\n- Maksimum Değer: 10\n- Tur Başında: Her 3 adet için 1 Saldırı Seviyesi Artışı kazanır (maksimum 3)\n- Yeteneklerden hasar alınca, saldırana bu etkinin adeti kadar Kanama uygular, ardından 1 adet kaybeder (yukarı yuvarlanır)\n- Vurulduğunda, bu birimin Yetenek etkileriyle +1 daha fazla Kanama ve Kanama Sayısı uygular\n- Yetenek Jeton etkisiyle bir diğer müttefiğe Saldırı veya Savunma Seviyesi Artışı uygulandığında, sonraki tur 1 Çarpışma Gücü Artışı da uygular\n- Kan Şöleni tüketen tüm Yetenekler Jeton Gücü +1 kazanır",
+      "summary": "Saldırana adet kadar Kanama uygular\n+1 daha fazla Kanama şiddeti ve sayısı uygular\nMüttefiklere 1 Çarpışma Gücü Artışı uygular\nKan Şöleni tüketen Yeteneklerde Jeton Gücü +1 olur",
       "undefined": "-"
     },
     {
       "id": "BloomingThorns_3rd",
-      "name": "Bloodmolded Thorn",
-      "desc": "- Any effects that gain Blooming Thorn gain this effect instead\n- Max Value: 10\n- Turn Start: gain 1 Offense Level Up per 2 Stack (max 5)\n- When taking damage from Skills, inflict Bleed equal to this effect's Stack against the Attacker, then lose 1 Stack (rounded up)\n- On Hit, inflict +2 more Bleed and Bleed Count with this unit's Skill effects\n- When applying Offense Level Up or Defense Level Up to an other ally with Skill Coin effects, apply 2 Clash Power Up next turn as well\n- All Skills that consume Bloodfeast gain Coin Power +2 and deal +50% more damage\n- When using 'The Parade Repeats for Eternity' Skill, instead of healing HP, heal the same value as SP",
-      "summary": "Inflict Bleed on the Attacker equal to Stack\nInflict +2 more Bleed Potency & Count\nApply 2 Clash Power Up to allies\nIf the Skill consumes Bloodfeast, Coin Power +2 and deal +50% more damage",
+      "name": "Kanla Şekillenmiş Diken",
+      "desc": "- Çiçek Açan Diken kazanan tüm etkiler bu etkiyi kazanır\n- Maksimum Değer: 10\n- Tur Başında: Her 2 adet için 1 Saldırı Seviyesi Artışı kazanır (maksimum 5)\n- Yeteneklerden hasar alınca, saldırana bu etkinin adeti kadar Kanama uygular, ardından 1 adet kaybeder (yukarı yuvarlanır)\n- Vurulduğunda, bu birimin Yetenek etkileriyle +2 daha fazla Kanama ve Kanama Sayısı uygular\n- Yetenek Jeton etkisiyle bir diğer müttefiğe Saldırı veya Savunma Seviyesi Artışı uygulandığında, sonraki tur 2 Çarpışma Gücü Artışı da uygular\n- Kan Şöleni tüketen tüm Yetenekler Jeton Gücü +2 kazanır ve %50 daha fazla hasar verir\n- \"The Parade Repeats for Eternity\" Yetenek kullanıldığında, HP yerine aynı miktarda SP iyileştirir",
+      "summary": "Saldırana adet kadar Kanama uygular\n+2 daha fazla Kanama şiddeti ve sayısı uygular\nMüttefiklere 2 Çarpışma Gücü Artışı uygular\nKan Şöleni tüketen Yeteneklerde Jeton Gücü +2 olur ve %50 daha fazla hasar verir",
       "undefined": "-"
     },
     {
       "id": "FestivalFever",
-      "name": "Festive Fever",
-      "desc": "- Max Value: 10\n- Turn Start: gain 1 Offense Level Up per 3 Stack (max 3)\n- Used for special skills",
+      "name": "Şenlik Ateşi",
+      "desc": "- Maksimum Değer: 10\n- Tur Başında: Her 3 adet için 1 Saldırı Seviyesi Artışı kazanır (maksimum 3)\n- Özel Yeteneklerde kullanılır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IncompleteParade",
-      "name": "Imperfect Parade",
-      "desc": "- Max Value: 50\n- Gain 2 when a Bloodbag dies\n- Gain 3 when a Bloodfiend dies\n- Turn Start: gain 1 Fragile every time this unit consumes 5 cumulative Stack",
+      "name": "Eksik Geçit Töreni",
+      "desc": "- Maksimum Değer: 50\n- Bir Kan Torbası öldüğünde 2 kazanır\n- Bir Kan Hınzırı öldüğünde 3 kazanır\n- Tur Başında: Bu birim toplamda 5 adet harcadığında 1 Kırılgan kazanır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FamineBloodDolci_LowMorale",
-      "name": "Bridle of Nihility",
-      "desc": "- Low Morale\n- Turn Start: gain 1 Attack Power Up and 3 Defense Level Down\n- Turn End: take 5 SP damage",
-      "summary": "Gain 1 Attack Power Up & 3 Defense Level Down",
+      "name": "Hiçlik Dizgini",
+      "desc": "- Düşük Moral\n- Tur Başında: 1 Saldırı Gücü Artışı ve 3 Savunma Seviyesi Azalışı kazanır\n- Tur Sonunda: 5 SP hasar alır",
+      "summary": "1 Saldırı Gücü Artışı & 3 Savunma Seviyesi Azalışı kazanır",
       "undefined": "-"
     },
     {
       "id": "FamineBloodDolci_Panic",
-      "name": "Bridle of Nihility",
-      "desc": "- Panic\n- Turn Start: gain 2 Attack Power Up and 6 Defense Level Down\n- Turn End: heal 10 SP",
-      "summary": "Gain 2 Attack Power Up & 6 Defense Level Down",
+      "name": "Hiçlik Dizgini",
+      "desc": "- Panik\n- Tur Başında: 2 Saldırı Gücü Artışı ve 6 Savunma Seviyesi Azalışı kazanır\n- Tur Sonunda: 10 SP iyileşir",
+      "summary": "2 Saldırı Gücü Artışı & 6 Savunma Seviyesi Azalışı kazanır",
       "undefined": "-"
     },
     {
       "id": "StarvingDolcineaOne",
-      "name": "Withered",
-      "desc": "- Starved for blood for a long, long time.\n- Lose 35 Offense Level\n- Lose 35 Defense Level",
+      "name": "Solgun",
+      "desc": "- Uzun süre kan eksikliği yaşadı.\n- 35 Saldırı Seviyesi kaybeder\n- 35 Savunma Seviyesi kaybeder",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StarvingDolcineaServant",
-      "name": "Withered",
-      "desc": "- Starved for blood for a long, long time.\n- Lose 15 Offense Level\n- Lose 15 Defense Level",
+      "name": "Solgun",
+      "desc": "- Uzun süre kan eksikliği yaşadı.\n- 15 Saldırı Seviyesi kaybeder\n- 15 Savunma Seviyesi kaybeder",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ThornyFall_LowMorale",
-      "name": "Thorns",
-      "desc": "Clash Win: gain 1 Damage Up",
-      "summary": "Clash Win: gain 1 Damage Up",
+      "name": "Dikenler",
+      "desc": "Çarpışma Galibiyeti: 1 Hasar Artışı kazanır",
+      "summary": "Çarpışma Galibiyeti: 1 Hasar Artışı kazanır",
       "undefined": "-"
     },
     {
       "id": "ThornyFall_Panic",
-      "name": "Thorns",
-      "desc": "Clash Win: gain 1 Damage Up\nTurn End: gain 2 Clash Power Up next turn",
-      "summary": "Clash Win: gain 1 Damage Up",
+      "name": "Dikenler",
+      "desc": "Çarpışma Galibiyeti: 1 Hasar Artışı kazanır\nTur Sonu: sonraki tur 2 Çarpışma Gücü Artışı kazanır",
+      "summary": "Çarpışma Galibiyeti: 1 Hasar Artışı kazanır",
       "undefined": "-"
     },
     {
       "id": "HonorableDuel_Don",
-      "name": "Honorable Duel",
-      "desc": "A Reminiscted Tale of Adventures\nBecome immensely powerful",
+      "name": "Onurlu Düello",
+      "desc": "Hatırlanmış Macera Hikayesi\nMuazzam güç kazanır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "HonorableDuel_Knight",
-      "name": "Honorable Duel",
-      "desc": "Reminisced Tales of Adventure",
+      "name": "Onurlu Düello",
+      "desc": "Hatırlanmış Macera Hikayeleri",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StarvingPriestOne",
-      "name": "Withered",
-      "desc": "- Starved for blood for a long, long time.\n- Lose 15 Offense Level\n- Lose 15 Defense Level",
+      "name": "Solgun",
+      "desc": "- Uzun süre kan eksikliği yaşadı.\n- 15 Saldırı Seviyesi kaybeder\n- 15 Savunma Seviyesi kaybeder",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FamineBloodPriestServant_LowMorale",
-      "name": "Hunger",
-      "desc": "- Low Morale\n- Turn Start: gain 1 Clash Power Up and 3 Defense Level Down\n- Turn End: take 5 SP damage",
+      "name": "Açlık",
+      "desc": "- Düşük Moral\n- Tur Başında: 1 Çarpışma Gücü Artışı ve 3 Savunma Seviyesi Azalışı kazanır\n- Tur Sonunda: 5 SP hasar alır",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FamineBloodPriestServant_Panic",
-      "name": "Hunger",
-      "desc": "- Panic\n- Turn Start: gain 2 Clash Power Up and 6 Defense Level Down\n- Turn End: heal 10 SP",
+      "name": "Açlık",
+      "desc": "- Panik\n- Tur Başında: 2 Çarpışma Gücü Artışı ve 6 Savunma Seviyesi Azalışı kazanır\n- Tur Sonunda: 10 SP iyileşir",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnstoppableFunny",
-      "name": "Unstoppable Bliss",
-      "desc": "On Death:\n- Gain 1 E.G.O resource for 3 least-owned E.G.O resources\n- Inflict +3 Bleed Count against an enemy (prioritizes the unit that killed this unit)\n- All allies at 5+ Festive Fever gain 1 Haste next turn\n- All allies without Festive Fever gain 1 Clash Power Up",
-      "summary": "Gain 1 of each 3 E.G.O resources\nInflict +3 Bleed Count",
+      "name": "Durmaksızın Mutluluk",
+      "desc": "Ölümünde:\n- En az sahip olunan 3 E.G.O kaynağı için 1'er tane kazanır\n- Düşmana +3 Kanama Sayısı uygular (öncelikle bu birimi öldüren birime)\n- 5+ Şenlik Ateşi olan tüm müttefikler sonraki tur 1 Hızlanma kazanır\n- Şenlik Ateşi olmayan tüm müttefikler 1 Çarpışma Gücü Artışı kazanır",
+      "summary": "3 E.G.O kaynağından 1'er tane kazanır\n+3 Kanama Sayısı uygular",
       "undefined": "-"
     }
   ]
