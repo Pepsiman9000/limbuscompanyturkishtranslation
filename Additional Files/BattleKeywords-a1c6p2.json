@@ -2,40 +2,40 @@
   "dataList": [
     {
       "id": "AaCfPbBe",
-      "name": "Marked Prey",
-      "desc": "- With every hit this unit takes, take bonus Slash damage equal to 10% of the HP damage taken. Expires next turn.\n- If this unit does not take damage during this turn, inflict 1 Inferiority Complex after attack then expires\n- Max Value: 1",
-      "summary": "Take bonus Slash damage equal to 10% of the HP damage taken",
+      "name": "İşaretli Av",
+      "desc": "- Bu birim her vurulduğunda, alınan HP hasarının %10'u kadar bonus Kesik hasarı alır. Sonraki tur sona erer.\n- Bu birim bu turda hasar almazsa, saldırı sonrası 1 Aşağılık Kompleksi uygular ve sonra sona erer.\n- Maksimum Değer: 1",
+      "summary": "Alınan HP hasarının %10'u kadar bonus Kesik hasarı alır",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBf",
-      "name": "Inferiority Complex",
-      "desc": "- Every time this unit is hit, take ((20% of HP damage taken) * Value) damage\n- Max Value: 5",
-      "summary": "Take ((20% of HP damage taken) * Value) damage",
+      "name": "Aşağılık Kompleksi",
+      "desc": "- Bu birim vurulduğunda, ((Alınan HP hasarının %20'si) * Değer) kadar hasar alır\n- Maksimum Değer: 5",
+      "summary": "((Alınan HP hasarının %20'si) * Değer) kadar hasar alır",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBa",
-      "name": "Explosive Gloom",
-      "desc": "- Gloom Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: inflict 3 SP damage on the attacker, gain 1 Sinking Count, and gain 1 Offense Level Up next turn (9 times per turn)",
+      "name": "Patlayıcı Kasvet",
+      "desc": "- Kasvet Türü Direnci +0.3\n- Diğer Tür Direnci -0.5\n- Vurulduğunda: Saldırana 3 SP hasarı uygular, 1 Batış Miktarı kazanır ve sonraki tur 1 Saldırı Seviyesi Artışı kazanır (tur başına 9 kez)",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBb",
-      "name": "Explosive Envy",
-      "desc": "- Envy Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: apply 1 Offense Level Up, inflict 2 Bleed, and 2 Bleed Count on attacker, and gain 1 Defense Level Down next turn (9 times per turn)",
+      "name": "Patlayıcı Kıskançlık",
+      "desc": "- Kıskançlık Türü Direnci +0.3\n- Diğer Tür Direnci -0.5\n- Vurulduğunda: Saldırana 1 Saldırı Seviyesi Artışı uygular, 2 Kanama ve 2 Kanama Miktarı uygular, sonraki tur 1 Savunma Seviyesi Azalışı kazanır (tur başına 9 kez)",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBc",
-      "name": "Explosive Wrath",
-      "desc": "- Wrath Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: Gain 1 Offense Level Up and 1 Defense Level Down next turn (9 times per turn)",
+      "name": "Patlayıcı Öfke",
+      "desc": "- Öfke Türü Direnci +0.3\n- Diğer Tür Direnci -0.5\n- Vurulduğunda: Sonraki tur 1 Saldırı Seviyesi Artışı ve 1 Savunma Seviyesi Azalışı kazanır (tur başına 9 kez)",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBd",
-      "name": "Deep Bereavement",
-      "desc": "Turn Start: Lose 5 Speed and gain 5 Defense Level Down",
+      "name": "Derin Keder",
+      "desc": "Tur Başında: 5 Hız kaybet ve 5 Savunma Seviyesi Azalışı kazan",
       "undefined": "-"
     }
   ]
