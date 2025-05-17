@@ -245,20 +245,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Draw of the Sword",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Kılıcın Çekilişi",
+          "desc": "[WhenUse] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 1 [Breath] Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 1 [Breath] Kazan"
                 }
               ]
             }
@@ -266,20 +266,20 @@
         },
         {
           "level": 2,
-          "name": "Draw of the Sword",
-          "desc": "<style=\"highlight\">[StartBattle] Apply 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)\n</style>[WhenUse] Gain +2 [Breath] Count",
+          "name": "Kılıcın Çekilişi",
+          "desc": "<style=\"highlight\">[StartBattle] Hızı en düşük olandan yüksek olana doğru (en yavaştan en hızlıya, 2 defa olacak şekilde), en yüksek A-Rezonansına sahip olan Kılıç Soyu Müttefiklerine 1 adet [BladeResultUpTier1] Uygula\n</style>[WhenUse] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] Kazan"
                 }
               ]
             }
@@ -287,20 +287,20 @@
         },
         {
           "level": 3,
-          "name": "Draw of the Sword",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>Apply 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</color>\n[WhenUse] Gain +2 [Breath] Count",
+          "name": "Kılıcın Çekilişi",
+          "desc": "[StartBattle_Force] <color=#EBCAA2> (en yüksek A-Rezonansına sahip) Diğer Kılıç Soyu müttefiklerine, hızlarına göre sırasıyla (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 adet [BladeResultUpTier1] Uygula </color>\n[WhenUse] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] Kazan"
                 }
               ]
             }
@@ -308,20 +308,20 @@
         },
         {
           "level": 4,
-          "name": "Draw of the Sword",
-          "desc": "<style=\"highlight\">At 5+ [Breath], Coin Power +1</style>\n[StartBattle] Apply 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)\n<style=\"highlight\">- If there are 6 or more allied Blade Lineage Identities in the Encounter, apply 2 instead</style>\n[WhenUse] Gain +2 [Breath] Count",
+          "name": "Kılıcın Çekilişi",
+          "desc": "<style=\"highlight\">unit 5+ [Breath] bulunduruyorsa, Jeton Gücü +1'e Katlanır </style>\n[StartBattle] (En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 adet [BladeResultUpTier1] uygula\n<style=\"highlight\">-Eğer Karşılaşmada 6 veya daha fazla müttefik Kılıç Soyu Kişiliği varsa, bunun yerine 2 Uygula</style>\n[WhenUse] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] Kazan"
                 }
               ]
             }
@@ -334,13 +334,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Acupuncture",
-          "desc": "[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 1 Slash Power Up next turn",
+          "name": "Akupunktur",
+          "desc": "[WhenUse] +2 [Breath] Miktarı Kazan\n[WinDuel] sıradaki tur 1 Kesme Gücü Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 3 [Breath] Miktarı Kazan"
                 }
               ]
             },
@@ -348,7 +348,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "Kritik Vurduğunda +%30 Hasar."
                 }
               ]
             }
@@ -356,7 +356,7 @@
         },
         {
           "level": 2,
-          "name": "Acupuncture",
+          "name": "Akupunktur",
           "desc": "<style=\"highlight\">[StartBattle] Apply 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</style>\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 1 Slash Power Up next turn",
           "coinlist": [
             {
@@ -378,7 +378,7 @@
         },
         {
           "level": 3,
-          "name": "Acupuncture",
+          "name": "Akupunktur",
           "desc": "[StartBattle_Force] <color=#EBCAA2>Apply 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</color>\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 1 Slash Power Up next turn",
           "coinlist": [
             {
@@ -400,7 +400,7 @@
         },
         {
           "level": 4,
-          "name": "Acupuncture",
+          "name": "Akupunktur",
           "desc": "<style=\"highlight\">At 7+ [Breath], Coin Power +1</style>\n[StartBattle] Apply 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)\n<style=\"highlight\">- If there are 6 or more allied Blade Lineage Identities in the Encounter, apply 2 instead</style>\n[WhenUse] Gain +3 [Breath] Count\n[WinDuel] Gain 1 Slash Power Up next turn",
           "coinlist": [
             {
