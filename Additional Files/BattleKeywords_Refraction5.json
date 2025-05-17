@@ -2,507 +2,363 @@
   "dataList": [
     {
       "id": "FellBulletMark",
-      "name": "Stigmatized",
-      "desc": "- Targeted by Der Fluchschütze\n- Expires at Turn End",
-      "summary": "",
-      "undefined": "-"
+      "name": "Damgalı",
+      "desc": "- Der Fluchschütze tarafından hedeflendi\n- Tur sonunda sona erer"
     },
     {
       "id": "MRR501",
-      "name": "Infliction Refraction",
-      "desc": "+1 to Burn, Bleed, Tremor, Rupture, and Sinking Potency inflicted against enemies with Skills & Coin effects",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Zarar",
+      "desc": "Yetenek & Jeton etkileriyle düşmanlara verilen Yanma, Kanama, Sarsıntı, Parçalanma ve Batış Şiddetine +1"
     },
     {
       "id": "MRR502",
-      "name": "Gain Refraction",
-      "desc": "+1 to Poise and Charge Count gained by allies with Skills & Coin effects",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Kazanç",
+      "desc": "Yetenek & Jeton etkileriyle müttefiklerin kazandığı Nefes ve Yük Miktarına +1"
     },
     {
       "id": "MRR503",
-      "name": "Refracted Mind",
-      "desc": "3 allies with the least SP heal 8 SP at Turn End (excluding: allies that are Panicked or Corroded)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Sağduyu",
+      "desc": "Tur sonunda en düşük SP'ye sahip 3 müttefik 8 SP iyileştirir (Panik/Aşınma durumundakiler hariç)"
     },
     {
       "id": "MRR504",
-      "name": "버프 이름",
-      "desc": "On Crit, at more than 20 Poise Potency, consume up to 20 of the excess Poise Potency to deal +(Poise Potency consumed x 2.5)% more damage on Critical Hit (max 50%)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kritik Duruş",
+      "desc": "Kritik vuruşta, 20'den fazla Nefes Şiddeti varsa, fazlalığın 20'sini tüketerek Kritik Hasarı +(tüketilen Nefes Şiddeti x 2.5)% artırır (maks. %50)"
     },
     {
       "id": "MRR505",
-      "name": "Refracted Charge",
-      "desc": "On Hit with Skills that consumed 8+ Charge Count: +0.1 to Envy Resistance on the target for this Encounter (once per Skill per enemy; max Resistance adjustment: 0.3)\nSkills that gain or consume Charge Count deal +(10 + (Count gained or consumed x 2))% more damage (max 50%)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Yük",
+      "desc": "8+ Yük Miktarı tüketen Yeteneklerle vurulduğunda: Bu çarpışmada hedefin Haset Direnci +0.1 (her Yetenekte düşman başına bir kez; maks. +0.3)\nYük kazanan/tüketen Yetenekler +(10 + (Miktar x 2))% fazla hasar verir (maks. %50)"
     },
     {
       "id": "MRR506",
-      "name": "Refracted Burst",
-      "desc": "Turn End: against all enemy Parts, inflict Wrath damage equal to Burn Potency on each Part; then, reduce their Burn Count by 1, trigger Tremor Burst once, and reduce their Tremor Count by 1 (activates only at 2+ Count)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Patlama",
+      "desc": "Tur sonu: Tüm düşman Parçalarına, her Parçadaki Yanma Şiddeti kadar Gazap hasarı ver → Yanma Miktarını 1 azalt → 1 Sarsıntı Patlaması tetikle → Sarsıntı Miktarını 1 azalt (2+ Miktarda aktif)"
     },
     {
       "id": "MRR507",
-      "name": "Refracted Rupture",
-      "desc": "Rupture Skills that inflict Rupture Potency or Count: Final Power +2",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Parçalanma",
+      "desc": "Parçalanma Şiddeti veya Miktarı uygulayan Parçalanma Yetenekleri: Final Gücü +2"
     },
     {
       "id": "MRR508",
-      "name": "Refracted Sinking",
-      "desc": "Deal +(Sinking Potency on the target)% more damage against targets at less than 0 SP or without SP (max 45%)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Batış",
+      "desc": "0 SP altındaki/SP'siz hedeflere +(hedefteki Batış Şiddeti)% fazla hasar verir (maks. %45)"
     },
     {
       "id": "MRR509",
-      "name": "Weakness Destroyed",
-      "desc": "Deal +30% more damage against Destroyed or Staggered Parts",
-      "summary": "",
-      "undefined": "-"
+      "name": "Zayıflık Yok Edildi",
+      "desc": "Yok Edilen veya Sersemletilen Parçalara %30 fazla hasar verir"
     },
     {
       "id": "MRR510",
-      "name": "Nebulizer",
-      "desc": "First Turn Start of a wave: all allies gain 5 Poise Potency and +5 Poise Count. If Pride Reson. was activated, all allies gain 3 Poise Potency and +3 Poise Count at Combat Start",
-      "summary": "",
-      "undefined": "-"
+      "name": "Sisletici",
+      "desc": "Dalganın ilk Tur başlangıcında: Tüm müttefikler 5 Nefes Şiddeti ve +5 Nefes Miktarı kazanır. Gurur Rezonansı aktifse +3 kazanır"
     },
     {
       "id": "MRR511",
-      "name": "The Lone Gunman",
-      "desc": "Raise Min & Max Speed values for the #1 Deployed Identity by 1. The said unit loses a Skill 1, but gains a Skill 3",
-      "summary": "",
-      "undefined": "-"
+      "name": "Yalnız Silahşör",
+      "desc": "#1 Konuşlandırılan Kimliğin Hız değerlerini 1 artırır. Bu birim 1. Yeteneğini kaybeder ama 3. Yetenek kazanır"
     },
     {
       "id": "MRR512",
-      "name": "Lasting Battle Spirit",
-      "desc": "Starting from #7 Deployed Sinner: at the start of the same turn it Substitutes in, heal 30 SP, gain 1 Attack Power Up for the Encounter, and gain 2 E.G.O resource for each one of the Affinities corresponding to their Base Attack Skills",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kalıcı Savaş Ruhu",
+      "desc": "#7 Konuşlandırılan Günahkârdan itibaren: Yedekten gelirse 30 SP iyileştirir, +1 Saldırı Gücü ve Temel Yetenek Uyumlarına göre 2 E.G.O kaynağı kazanır"
     },
     {
       "id": "MRR513",
-      "name": "Resource Reaping",
-      "desc": "After using an Attack or a Counter Skill, if the enemy is defeated, gain 2 E.G.O resource of the Skill Affinity that was used (once per Skill, including E.G.O Skills)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kaynak Hasadı",
+      "desc": "Yetenekle düşman öldürüldüğünde, kullanılan Yetenek Uyumundan 2 E.G.O kaynağı kazanılır (E.G.O Yetenekleri dahil)"
     },
     {
       "id": "MRR514",
-      "name": "버프 이름",
-      "desc": "When backup enemies enter the battle, inflict 5 Bleed and +3 Bleed against them at Combat Start. If there is a <Bloodfiend> among allies: when above conditions are met: activate Bleed on all enemies once and reduce their Bleed Count by 1",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kan Kışkırtması",
+      "desc": "Yedek düşmanlar savaşa katıldığında onlara 5 Kanama Şiddeti ve +3 Miktar ver. Müttefiklerde Kan Hınzırı varsa tüm düşmanlarda Kanama tetiklenir"
     },
     {
       "id": "MRR515",
-      "name": "Dogged Defense",
-      "desc": "All allies take -50% less damage",
-      "summary": "",
-      "undefined": "-"
+      "name": "Azimli Savunma",
+      "desc": "Müttefikler %50 daha az hasar alır"
     },
     {
       "id": "MRR516",
-      "name": "Life or Death",
-      "desc": "All allies deal +30% more damage",
-      "summary": "",
-      "undefined": "-"
+      "name": "Yaşam ya da Ölüm",
+      "desc": "Müttefikler %30 daha fazla hasar verir"
     },
     {
       "id": "MRR517",
-      "name": "Wrathful Counter",
-      "desc": "When hit, gain 2 Offense Level Up next turn (max 6)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Öfke Karşılığı",
+      "desc": "Vurulduğunda sonraki tur için +2 Saldırı Seviyesi (maks. 6)"
     },
     {
       "id": "MRR518",
-      "name": "Pendant of Nostalgia",
-      "desc": "Combat Start: 3 currently earliest Deployed allies gain 10 Poise Potency",
-      "summary": "",
-      "undefined": "-"
+      "name": "Nostalji Madalyonu",
+      "desc": "Savaş başlangıcında: İlk 3 konuşlandırılan müttefik +10 Nefes Şiddeti kazanır"
     },
     {
       "id": "MRR519",
-      "name": "버프 이름",
-      "desc": "Skills that consume Ammo: Clash Power +2, deal +(60 / # of Coins)% more damage. At 0 Ammo, gain 2 Ammo at the next Turn Start (once per Encounter per Identity)\nChange the Gloom Resistance of the Final Boss of Section 3 to Weak(x1.5)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Mühimmat Uzmanı",
+      "desc": "Mermi tüketen Yetenekler: Çarpışma Gücü +2, +(60/Jeton Sayısı)% fazla hasar. Mermi biterse sonraki Tur başında 2 Mermi kazanılır (her Kimlikte bir kez)\n3. Bölüm Son Boss'unun Hüzün Direnci Zayıf(x1.5) olur"
     },
     {
       "id": "MRR520",
-      "name": "Fell Bullet Deluge",
-      "desc": "Whenever an ally dies, inflict fixed damage equal to 50% of the dead ally's max HP against all Parts on all enemies",
-      "summary": "",
-      "undefined": "-"
+      "name": "Lanetli Kurşun Yağmuru",
+      "desc": "Müttefik öldüğünde, tüm düşman Parçalarına ölenin maks. HP'sinin %50'si kadar sabit hasar verir"
     },
     {
       "id": "MRR521",
-      "name": "HP Manipulation",
-      "desc": "+25% Max HP for all allies; remove the first Stagger threshold",
-      "summary": "",
-      "undefined": "-"
+      "name": "HP Manipülasyonu",
+      "desc": "Tüm müttefiklerin maks. HP'sini %25 artırır; ilk Sersemleme eşiğini kaldırır"
     },
     {
       "id": "MRR522",
-      "name": "Perilous Contest",
-      "desc": "All ally Skills gain Final Power +1",
-      "summary": "",
-      "undefined": "-"
+      "name": "Tehlikeli Mücadele",
+      "desc": "Tüm müttefik Yeteneklerine Final Gücü +1"
     },
     {
       "id": "MRR523",
-      "name": "Bloody Banquet",
-      "desc": "On Hit, if the enemy lost HP, heal HP equal to 10% of the damage dealt. All allies lose 3 Bleed Count at Turn End",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kanlı Ziyafet",
+      "desc": "Vurulduğunda, düşman HP kaybettiysse verilen hasarın %10'u kadar HP iyileştir. Tüm müttefikler Tur sonunda 3 Kanama Miktarı kaybeder"
     },
     {
       "id": "MRR524",
-      "name": "Festival of Blood",
-      "desc": "Each ally deals +1% more damage for every 10 Bloodfeast they Consumed (max 30%)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kan Festivali",
+      "desc": "Her müttefik, tükettiği her 10 Kan Ziyafeti için %1 fazla hasar verir (maks. %30)"
     },
     {
       "id": "MRR526",
-      "name": "Refracted Slash",
-      "desc": "Slash Skills gain Plus Coin Power +1, Minus Coin Power -1\nChange the Slash Resistance of the Final Boss of Section 3 to Weak(x1.5)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Kesme",
+      "desc": "Kesme Yetenekleri: Artı Jeton Gücü +1, Eksi Jeton Gücü -1\n3. Bölüm Son Boss'unun Kesme Direnci Zayıf(x1.5) olur"
     },
     {
       "id": "MRR527",
-      "name": "Refracted Pierce",
-      "desc": "Pierce Skills gain Plus Coin Power +1, Minus Coin Power -1\nChange the Pierce Resistance of the Final Boss of Section 3 to Weak(x1.5)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Delme",
+      "desc": "Delme Yetenekleri: Artı Jeton Gücü +1, Eksi Jeton Gücü -1\n3. Bölüm Son Boss'unun Delme Direnci Zayıf(x1.5) olur"
     },
     {
       "id": "MRR528",
-      "name": "Refracted Blunt",
-      "desc": "Blunt Skills gain Plus Coin Power +1, Minus Coin Power -1\nChange the Blunt Resistance of the Final Boss of Section 3 to Weak(x1.5)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Darbe",
+      "desc": "Darbe Yetenekleri: Artı Jeton Gücü +1, Eksi Jeton Gücü -1\n3. Bölüm Son Boss'unun Darbe Direnci Zayıf(x1.5) olur"
     },
     {
       "id": "MRR529",
-      "name": "Growth Refraction I",
-      "desc": "Enemy Level +1",
-      "summary": "",
-      "undefined": "-"
+      "name": "Büyüme Kırılması I",
+      "desc": "Düşman Seviyesi +1"
     },
     {
       "id": "MRR530",
-      "name": "Growth Refraction II",
-      "desc": "Enemy Level +2",
-      "summary": "",
-      "undefined": "-"
+      "name": "Büyüme Kırılması II",
+      "desc": "Düşman Seviyesi +2"
     },
     {
       "id": "MRR531",
-      "name": "버프 이름",
-      "desc": "When backup enemies enter the battle, they gain 2 Clash Power Up at the start of the turn they entered in",
-      "summary": "",
-      "undefined": "-"
+      "name": "Yedek Güçlendirme",
+      "desc": "Yedek düşmanlar savaşa katıldığında, geldikleri turda 2 Çarpışma Gücü kazanır"
     },
     {
       "id": "MRR532",
-      "name": "Resource Vaporization",
-      "desc": "After using an Awakening E.G.O, also consume 1 E.G.O resource from 2 Sin Affinities with more than 1 E.G.O resource; consumed from Affinities with the most resources first",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kaynak Buharlaşması",
+      "desc": "Uyanış E.G.O kullanıldıktan sonra, 1'den fazla E.G.O kaynağı olan 2 Günah Türünden 1'er E.G.O kaynağı daha tüketir (en fazla kaynağı olanlardan başlayarak)"
     },
     {
       "id": "MRR533",
-      "name": "Blossomed Blood",
-      "desc": "+1 to Bleed Potency and Count inflicted by enemies against targets with Bleed using Skill & Coin effects",
-      "summary": "",
-      "undefined": "-"
+      "name": "Açan Kan",
+      "desc": "Düşmanların Kanama Şiddeti ve Miktarını +1 artırır (Yetenek & Jeton etkileriyle)"
     },
     {
       "id": "MRR534",
-      "name": "Dogged Defense",
-      "desc": "All enemies take -20% less damage",
-      "summary": "",
-      "undefined": "-"
+      "name": "Azimli Savunma",
+      "desc": "Tüm düşmanlar %20 daha az hasar alır"
     },
     {
       "id": "MRR535",
-      "name": "버프 이름",
-      "desc": "-50% Max HP for all allies",
-      "summary": "",
-      "undefined": "-"
+      "name": "HP Kırılması",
+      "desc": "Tüm müttefiklerin maks. HP'sini %50 azaltır"
     },
     {
       "id": "MRR536",
-      "name": "Refracted Rage",
-      "desc": "When hit by a Skill, enemies randomly gain 1 of the following next turn: Offense Level Up, Defense Level Up (4 times per enemy)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Öfke",
+      "desc": "Bir Yetenekle vurulduğunda, düşmanlar sonraki turda rastgele 1 alır: Saldırı Seviyesi Artışı veya Savunma Seviyesi Artışı (düşman başına 4 kez)"
     },
     {
       "id": "MRR537",
-      "name": "HP Refraction II",
-      "desc": "Enemy Max HP +20%",
-      "summary": "",
-      "undefined": "-"
+      "name": "HP Kırılması II",
+      "desc": "Düşman maks. HP'sini %20 artırır"
     },
     {
       "id": "MRR538",
-      "name": "버프 이름",
-      "desc": "Enemy Skill Final Power +1",
-      "summary": "",
-      "undefined": "-"
+      "name": "Düşman Güçlendirme",
+      "desc": "Düşman Yeteneklerine Final Gücü +1"
     },
     {
       "id": "MRR539",
-      "name": "Bloody Banquet",
-      "desc": "Enemies heal +20% more HP from Skill and Coin effects",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kanlı Ziyafet",
+      "desc": "Düşmanlar Yetenek ve Jeton etkilerinden %20 daha fazla HP iyileştirir"
     },
     {
       "id": "MRR540",
-      "name": "버프 이름",
-      "desc": "Enemy Skills that consume Bloodfeast gain the following: Final Power +1, deal +10% more damage",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kan Ziyafeti Güçlendirme",
+      "desc": "Kan Ziyafeti tüketen düşman Yetenekleri: Final Gücü +1 ve %10 fazla hasar verir"
     },
     {
       "id": "MRR541",
-      "name": "버프 이름",
-      "desc": "When all enemies mainly target the ally with the least Bleed Potency, Skill Final Power +1 when attacking",
-      "summary": "",
-      "undefined": "-"
+      "name": "Odaklanmış Saldırı",
+      "desc": "Tüm düşmanlar ana hedef olarak en az Kanama Şiddetine sahip müttefiği seçtiğinde, saldırırken Yetenek Final Gücü +1 alır"
     },
     {
       "id": "MRR542",
-      "name": "Health Refraction",
-      "desc": "Enemy Max HP +10%",
-      "summary": "",
-      "undefined": "-"
+      "name": "Sağlık Kırılması",
+      "desc": "Düşman maks. HP'sini %10 artırır"
     },
     {
       "id": "MRR543",
-      "name": "Lasting Determination",
-      "desc": "When defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has.",
-      "summary": "",
-      "undefined": "-"
+      "name": "Son Direniş",
+      "desc": "Yenildiğinde, bu birimin her Saldırı Yeteneğinin Uyumluluğuna ve Seviyesine göre E.G.O Kaynağı kazanılır"
     },
     {
       "id": "FellBulletGroggy",
-      "name": "Stigmatized",
-      "desc": "- Cannot be removed\n- If at 0 at Turn End, become Staggered next turn\n- When using 'Designated Target Fire' Skill, if the target isn't Stigmatized, lose 1 Stack\n- If the 'Designated Target Fire' Skill loses the Clash, lose 1 Stack\n- If the ally this unit targeted before using the 'Designated Target Fire' Skill is killed, lose 1 Stack",
-      "summary": "",
-      "undefined": "-"
+      "name": "Damgalı",
+      "desc": "- Kaldırılamaz\n- Tur sonunda 0 ise sonraki turda Sersemlemiş olur\n- 'Hedefli Ateş' Yeteneği kullanıldığında hedef Damgalı değilse 1 Yığın kaybeder\n- 'Hedefli Ateş' Yeteneği çarpışmayı kaybederse 1 Yığın kaybeder\n- 'Hedefli Ateş' kullanmadan önce hedeflenen müttefik öldürülürse 1 Yığın kaybeder"
     },
     {
       "id": "MRR544",
-      "name": "Power Roulette",
-      "desc": "Turn Start: All ally Skills gain Final Power +1~3",
-      "summary": "",
-      "undefined": "-"
+      "name": "Güç Ruleti",
+      "desc": "Tur başlangıcında: Tüm müttefik Yeteneklerine Final Gücü +1~3"
     },
     {
       "id": "MRR545",
-      "name": "Glass Cannon",
-      "desc": "All allies deal +20% more damage",
-      "summary": "",
-      "undefined": "-"
+      "name": "Cam Top",
+      "desc": "Tüm müttefikler %20 daha fazla hasar verir"
     },
     {
       "id": "MRR546",
-      "name": "High-risk",
-      "desc": "All allies deal +10% more damage\nChange the Slash, Pierce, Blunt Resistance of the Final Boss of Section 3 to Weak(x1.3)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Yüksek Risk",
+      "desc": "Tüm müttefikler %10 daha fazla hasar verir\n3. Bölüm Son Boss'unun Kesme, Delme ve Darbe Direnci Zayıf(x1.3) olur"
     },
     {
       "id": "MRR547",
-      "name": "Power Roulette",
-      "desc": "Turn Start: All enemy Skills gain Final Power +1~3",
-      "summary": "",
-      "undefined": "-"
+      "name": "Güç Ruleti",
+      "desc": "Tur başlangıcında: Tüm düşman Yeteneklerine Final Gücü +1~3"
     },
     {
       "id": "MRR548",
-      "name": "Perilous Contest",
-      "desc": "Enemy Clash Power +2",
-      "summary": "",
-      "undefined": "-"
+      "name": "Tehlikeli Mücadele",
+      "desc": "Düşman Çarpışma Gücü +2"
     },
     {
       "id": "MRR549",
-      "name": "Life or Death",
-      "desc": "-25% to max HP on all allies",
-      "summary": "",
-      "undefined": "-"
+      "name": "Yaşam ya da Ölüm",
+      "desc": "Tüm müttefiklerin maks. HP'sini %25 azaltır"
     },
     {
       "id": "MRR550",
-      "name": "Moderate Risk",
-      "desc": "Enemy Plus Coin Power +1",
-      "summary": "",
-      "undefined": "-"
+      "name": "Orta Risk",
+      "desc": "Düşman Artı Jeton Gücü +1"
     },
     {
       "id": "MRR551",
-      "name": "Refracted Bleed",
-      "desc": "Turn Start: inflict 5 Bleed Potency and +3 Count to enemies at max HP (once per enemy per Part per Encounter)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Kanama",
+      "desc": "Tur başlangıcında: maks. HP'deki düşmanlara 5 Kanama Şiddeti ve +3 Miktar verir (çarpışma başına düşman/parça başına bir kez)"
     },
     {
       "id": "MRR552",
-      "name": "버프 이름",
-      "desc": "Whenever an enemy dies, an enemy gains 2 Clash Power Up next turn, starting from the enemy with the least current HP",
-      "summary": "",
-      "undefined": "-"
+      "name": "İntikamcı Ruh",
+      "desc": "Bir düşman öldüğünde, en az mevcut HP'ye sahip düşmandan başlayarak bir düşman sonraki turda 2 Çarpışma Gücü kazanır"
     },
     {
       "id": "MRR5BaseP",
-      "name": "Active Buffs",
-      "desc": "",
-      "summary": "",
-      "undefined": "-"
+      "name": "Aktif Güçlendirmeler",
+      "desc": ""
     },
     {
       "id": "MRR5BaseN",
-      "name": "Active Trials",
-      "desc": "",
-      "summary": "",
-      "undefined": "-"
+      "name": "Aktif Sınamalar",
+      "desc": ""
     },
     {
       "id": "MRR553",
-      "name": "A Single Breath",
-      "desc": "E.G.O Skills deal +30% more damage",
-      "summary": "",
-      "undefined": "-"
+      "name": "Tek Nefes",
+      "desc": "E.G.O Yetenekleri %30 daha fazla hasar verir"
     },
     {
       "id": "MRR554",
-      "name": "버프 이름",
-      "desc": "All allies deal +15% more damage",
-      "summary": "",
-      "undefined": "-"
+      "name": "Saldırı Artışı",
+      "desc": "Tüm müttefikler %15 daha fazla hasar verir"
     },
     {
       "id": "MRR555",
-      "name": "Clash Power Refraction",
-      "desc": "Enemy Clash Power +1",
-      "summary": "",
-      "undefined": "-"
+      "name": "Çarpışma Gücü Kırılması",
+      "desc": "Düşman Çarpışma Gücü +1"
     },
     {
       "id": "MRR556",
-      "name": "Glass Cannon",
-      "desc": "All allies take +30% more damage",
-      "summary": "",
-      "undefined": "-"
+      "name": "Cam Top",
+      "desc": "Tüm müttefikler %30 daha fazla hasar alır"
     },
     {
       "id": "MRR557",
-      "name": "Refracted Poise",
-      "desc": "Deal +(10 + Poise Potency + Poise Count)% more damage on Critical Hit (max 50%)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Denge",
+      "desc": "Kritik vuruşlarda +(10 + Nefes Şiddeti + Nefes Miktarı)% fazla hasar verir (maks. %50)"
     },
     {
       "id": "MRR558",
-      "name": "Refracted Wrath",
-      "desc": "Wrath Skills deal +30% more damage\nChange the Wrath Resistance of the Final Boss of Section 3 to Weak(x1.25)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Gazap",
+      "desc": "Gazap Yetenekleri %30 daha fazla hasar verir\n3. Bölüm Son Boss'unun Gazap Direnci Zayıf(x1.25) olur"
     },
     {
       "id": "MRR559",
-      "name": "Refracted Lust",
-      "desc": "Lust Skills deal +30% more damage\nChange the Lust Resistance of the Final Boss of Section 3 to Weak(x1.25)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Şehvet",
+      "desc": "Şehvet Yetenekleri %30 daha fazla hasar verir\n3. Bölüm Son Boss'unun Şehvet Direnci Zayıf(x1.25) olur"
     },
     {
       "id": "MRR560",
-      "name": "Refracted Sloth",
-      "desc": "Sloth Skills deal +30% more damage\nChange the Sloth Resistance of the Final Boss of Section 3 to Weak(x1.25)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Tembellik",
+      "desc": "Tembellik Yetenekleri %30 daha fazla hasar verir\n3. Bölüm Son Boss'unun Tembellik Direnci Zayıf(x1.25) olur"
     },
     {
       "id": "MRR561",
-      "name": "Refracted Gluttony",
-      "desc": "Gluttony Skills deal +30% more damage\nChange the Gluttony Resistance of the Final Boss of Section 3 to Weak(x1.25)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Oburluk",
+      "desc": "Oburluk Yetenekleri %30 daha fazla hasar verir\n3. Bölüm Son Boss'unun Oburluk Direnci Zayıf(x1.25) olur"
     },
     {
       "id": "MRR562",
-      "name": "Refracted Gloom",
-      "desc": "Gloom Skills deal +30% more damage\nChange the Gloom Resistance of the Final Boss of Section 3 to Weak(x1.25)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Hüzün",
+      "desc": "Hüzün Yetenekleri %30 daha fazla hasar verir\n3. Bölüm Son Boss'unun Hüzün Direnci Zayıf(x1.25) olur"
     },
     {
       "id": "MRR563",
-      "name": "Refracted Pride",
-      "desc": "Pride Skills deal +30% more damage\nChange the Pride Resistance of the Final Boss of Section 3 to Weak(x1.25)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Kibir",
+      "desc": "Kibir Yetenekleri %30 daha fazla hasar verir\n3. Bölüm Son Boss'unun Kibir Direnci Zayıf(x1.25) olur"
     },
     {
       "id": "MRR564",
-      "name": "Refracted Envy",
-      "desc": "Envy Skills deal +30% more damage\nChange the Envy Resistance of the Final Boss of Section 3 to Weak(x1.25)",
-      "summary": "",
-      "undefined": "-"
+      "name": "Kırılmış Haset",
+      "desc": "Haset Yetenekleri %30 daha fazla hasar verir\n3. Bölüm Son Boss'unun Haset Direnci Zayıf(x1.25) olur"
     },
     {
       "id": "MRR565",
-      "name": "Comfy",
-      "desc": "Raise Min & Max Speed values by 2 for all allies; Max HP +25%",
-      "summary": "",
-      "undefined": "-"
+      "name": "Rahat",
+      "desc": "Tüm müttefiklerin Min/Max Hız değerlerini 2 artırır; maks. HP'lerini %25 artırır"
     },
     {
       "id": "MRR566",
-      "name": "Hostile Refraction",
-      "desc": "Enemy Clash Power +1; enemies deal +10% more damage",
-      "summary": "",
-      "undefined": "-"
+      "name": "Düşmanca Kırılma",
+      "desc": "Düşman Çarpışma Gücü +1; düşmanlar %10 daha fazla hasar verir"
     },
     {
       "id": "MRR567",
-      "name": "High-risk",
-      "desc": "Enemy Plus Coin Power +2",
-      "summary": "",
-      "undefined": "-"
+      "name": "Yüksek Risk",
+      "desc": "Düşman Artı Jeton Gücü +2"
     },
     {
       "id": "MRR568",
-      "name": "Defensive Refraction",
-      "desc": "Enemy Defense Level +3",
-      "summary": "",
-      "undefined": "-"
+      "name": "Savunma Kırılması",
+      "desc": "Düşman Savunma Seviyesi +3"
     },
     {
       "id": "MRR569",
-      "name": "Damage Refraction",
-      "desc": "Enemies deal +10% more damage",
-      "summary": "",
-      "undefined": "-"
+      "name": "Hasar Kırılması",
+      "desc": "Düşmanlar %10 daha fazla hasar verir"
     }
   ]
 }
