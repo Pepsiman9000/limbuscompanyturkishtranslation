@@ -154,63 +154,63 @@
     },
     {
       "id": "tuto_00_03_01_05",
-      "content": "Bir Jetonun <color=#f8c200>Tura<color=#ebcaa2> gelme olaslığı %(50 + <color=#f8c200><SP><color=#ebcaa2>)dir.\nBu demek oluyor ki <color=#f8c200><SP><color=#ebcaa2> ne kadar yüksekse, senin için o kadar iyi. (Çoğu zaman)"
+      "content": "Bir Jetonun <color=#f8c200>Tura<color=#ebcaa2> gelme olaslığı %(50 + <color=#f8c200>SP<color=#ebcaa2>)'dir.\nBu demek oluyor ki <color=#f8c200><SP><color=#ebcaa2> ne kadar yüksekse, senin için o kadar iyi. (Çoğu zaman)"
     },
     {
       "id": "tuto_00_03_02_01",
-      "content": "The allied units all won their respective Clashes in the previous turn, which healed their SP.\nThis put us in a favorable position. Please issue your next command."
+      "content": "Müttefik birimlerin hepsi önceki tur Çarpışmalarını kazandılar, bu da onların SP'sini yeniledi.\nBu bizi avantajlı bir duruma getiriyor. Lütfen bir emir daha ver."
     },
     {
       "id": "tuto_00_03_02_02",
-      "content": "Please direct your attention to this unit's HP(Health Point) bar. This thin line here is called the <color=#f8c200><Stagger Threshold><color=#ebcaa2>."
+      "content": "Lütfen dikkatini bu birimin HP'sine ver. Buradaki ince çizgiye, <color=#f8c200><Sersemleme Eşiği><color=#ebcaa2> denir."
     },
     {
       "id": "tuto_00_03_02_03",
-      "content": "When a unit's HP drops below the <color=#f8c200><Stagger Threshold><color=#ebcaa2> line, they become <color=#f8c200><Staggered><color=#ebcaa2>."
+      "content": "Eğer bir birimin HP'si <color=#f8c200><Sersemleme Eşiği><color=#ebcaa2> çizgilerinden birinin altına düşerse, <color=#f8c200><Sersemleme><color=#ebcaa2> geçirirler."
     },
     {
       "id": "tuto_00_03_03_01",
-      "content": "<color=#f8c200><Staggered><color=#ebcaa2> units cannot take any action and take double the damage, which puts them at a significant disadvantage in battle."
+      "content": "<color=#f8c200><Sersemlemiş><color=#ebcaa2> birimler herhangi bir eylem yapamazlar ve iki kat daha fazla hasar alırlar, yani savaş esnasında manidar bir dezavantaja girerler."
     },
     {
       "id": "tuto_00_03_04_01",
-      "content": "You have put the remaining enemies in <color=#f8c200><Panic><color=#ebcaa2> states by defeating their allies in the previous turn, which dropped their SP."
+      "content": "Bir önceki tur düşmanların dostlarını öldürerek, onların SP'sini düşürdün. SP'si <color=#f8c200>-45<color=#ebcaa2>'in altına düşmüş düşmanlar da şuan <color=#f8c200><Panik><color=#ebcaa2> geçiriyorlar."
     },
     {
       "id": "tuto_00_03_04_02",
-      "content": "When an enemy's SP drops below a certain threshold, they may enter <color=#f8c200><Low Morale><color=#ebcaa2> or <color=#f8c200><Panic><color=#ebcaa2> states, which inflict them with negative effects."
+      "content": "SP'si belli bir miktarın altına düşen düşmanlar, <color=#f8c200><Düşük Moral><color=#ebcaa2> veya <color=#f8c200><Panik><color=#ebcaa2> durumları yaşayabilirler, bu da onlara negatif etkiler uygular."
     },
     {
       "id": "tuto_00_03_04_03",
-      "content": "Units in <color=#f8c200><Low Morale><color=#ebcaa2> or <color=#f8c200><Panic><color=#ebcaa2> states are marked by these labels."
+      "content": "<color=#f8c200><Düşük Moral><color=#ebcaa2> veya <color=#f8c200><Panik><color=#ebcaa2> geçiren birimler bu şekilde belirtilir."
     },
     {
       "id": "tuto_00_03_04_04",
-      "content": "Each unit gains different effects from entering <color=#f8c200><Low Morale><color=#ebcaa2> and <color=#f8c200><Panic><color=#ebcaa2> states.\nSelect this icon to learn what effects this unit is suffering from."
+      "content": "Birimler <color=#f8c200><Düşük Moral><color=#ebcaa2> ve <color=#f8c200><Panik><color=#ebcaa2> durumlarından farklı etkilenebilir.\nBirimin üzerinde nasıl efektler uygulandığını görmek için bu ikona dokunabilirsin."
     },
     {
       "id": "tuto_00_04_01_01",
-      "content": "Select a unit to view their <color=#f8c200>detailed information<color=#ebcaa2> window."
+      "content": "Bir birimin <color=#f8c200>Detaylı Bilgiler<color=#ebcaa2> penceresini görmek için üzerine tıkla."
     },
     {
       "id": "tuto_00_04_01_02",
-      "content": "This is where you view each character's <color=#f8c200>basic stats<color=#ebcaa2>."
+      "content": "Karakterlerin <color=#f8c200>Basit Özelliklerini<color=#ebcaa2> burada görebilirsin."
     },
     {
       "id": "tuto_00_04_01_03",
-      "content": "This is where you view this unit's <color=#f8c200>list of Skills<color=#ebcaa2> and <color=#f8c200>upgrade progress<color=#ebcaa2>."
+      "content": "Burası ise bir birimin <color=#f8c200>Yetenekler Listesini<color=#ebcaa2> ve <color=#f8c200>gelişmişlik düzeyini<color=#ebcaa2> görebileceğin kısım."
     },
     {
       "id": "tuto_00_04_01_04",
-      "content": "You may also select an enemy to view their detailed information."
+      "content": "Bu bilgileri görmek için bir düşmanı da seçebilirsin."
     },
     {
       "id": "tuto_00_04_01_05",
-      "content": "Each unit has <color=#f8c200>Resistance<color=#ebcaa2> values.\nUse these values to determine what <color=#f8c200>Attack Type or Affinity<color=#ebcaa2> they are weak against."
+      "content": "Her birimin <color=#f8c200>Direnç<color=#ebcaa2> değerleri vardır.\nOnların hangi <color=#f8c200>Saldırı veya Günah Türüne<color=#ebcaa2> zayıf olduklarını öğrenmek için burayı kullanabilirsin."
     },
     {
       "id": "tuto_00_04_01_06_title",
-      "content": "Attack Types and Affinities"
+      "content": "Saldırı Türleri ve Günah Türleri"
     },
     {
       "id": "tuto_00_04_01_07",
