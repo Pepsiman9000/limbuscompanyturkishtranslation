@@ -236,98 +236,98 @@
     },
     {
       "id": 10302,
-      "name": "Before a Sealed Door",
+      "name": "Mühürlü Kapının Karşısında",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "A steel door rests on one side of the room.\nIt looks too thick to be easily broken or breached with force.\n\n“There’s gotta be something totally valuable through here if it’s guarded this tight~!”\n\nThe Sinner might be right, treasure might be waiting behind the door.\nWhat should you do?",
+      "desc": "Odanın bir tarafında, çelikten bir kapı öylece duruyor.\nZorla açmak veya kırmak için epey sert, kalın bir görünüşe sahip.\n\n“Eğer bu kadar sıkı korunuyorsa, içeride kesinlikle değerli bir şey olmalı~!”\n\nGünahkâr haklı olabilir, belki de içeride değerli bir şey vardır.\nNe yapacaksın?",
       "options": [
         {
-          "message": "Open it with force.",
-          "messageDesc": "Run a Wrath check. Pass to open a new path on the map."
+          "message": "Zorla açmaya çalış.",
+          "messageDesc": "Öfke denemesi yap. Geçerek haritada yeni bir geçiş aç."
         },
         {
-          "message": "Look around for a solution.",
-          "messageDesc": "Run a Sloth check. Pass to open a new path on the map."
+          "message": "Bir çözüm yolu için etrafa bakın.",
+          "messageDesc": "Tembellik denemesi yap. Geçerek haritada yeni bir geçit aç."
         },
         {
-          "message": "Leave the room.",
+          "message": "Odayı terk et.",
           "result": [
-            "It should be safer to stick to the known path rather than take unnecessary risks.\n\n“Aww~ I swear that something’s gotta be in there!”\n\nThough some Sinners complained, you persuaded them into letting it go."
+            "Gereksiz risk almaktansa bilinen yola bağlı kalmak daha güvenli olur.\n\n“Off~ Yemin ederim içeride bir şeyler olmalı!”\n\nGünahkârların bazıları şikayetçi de olsa, bırakıp gitmeleri için onları ikna edebildin."
           ]
         }
       ]
     },
     {
       "id": 10303,
-      "name": "The First Gate",
+      "name": "İlk Geçit",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "You see a large gate in the distance.\nThere’s something eerie about the pointed fences and stone walls.\n\nIt looks to be the only way through this area, but it’s guarded by a large number of Inquisitors.\nIs there anything we can do about them?",
+      "desc": "Uzakta devasa bir geçit gördünüz.\nSivri çitler ve taş duvarlar hakkında ürkütücü bir şey var gibi.\n\nİleriye giden tek yol burası gibi görünüyor, ancak birçok Engizitör tarafından korunmakta.\nOnlar hakkında yapabileceğimiz bir şey var mı?",
       "options": [
         {
-          "message": "Strike them from behind.",
-          "messageDesc": "Run a Pride check, then begin a combat encounter. Pass to buff all allies and reduce the number of waves by 1."
+          "message": "Arkalarından saldır.",
+          "messageDesc": "Gurur denemesi yap, ardından da çatışma başlat. Geçerek müttefiklere takviye sağla ve dalgaların sayısını 1 azalt."
         },
         {
-          "message": "Distract them.",
-          "messageDesc": "Run a Lust check, then begin a combat encounter. Pass to reduce the number of waves by 2."
+          "message": "Dikkatlerini dağıt.",
+          "messageDesc": "Şehvet denemesi yap, ardından çatışma başlat. Geçerek dalgaların sayısını 2 azalt."
         },
         {
-          "message": "Confront them directly.",
-          "messageDesc": "Begin a combat encounter with all 3 waves.",
+          "message": "Doğrudan onlarla yüzleş.",
+          "messageDesc": "3 dalgadan oluşan bir çatışma başlat.",
           "result": [
-            "Sometimes, the simplest solution is best.\nSeparating a Sinner from our group to attempt some silly trick might end up putting us at a disadvantage.\n\nLet’s face them head-on."
+            "Bazen, en iyi çözüm en basit olandır.\nGünahkârlardan birini grubumuzdan ayırıp, sinsi bir numara denemek bizi dezavantaja sokabilir.\n\nHadi onlarla doğrudan yüzleşelim."
           ]
         }
       ]
     },
     {
       "id": 10304,
-      "name": "A Room Full of Crates",
+      "name": "Sandıklarla Dolu Oda",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Dozens of old, broken crates littered the floor.\n\n“Eyuck, cobwebs…”\n\nClearing things away, you found three particularly large crates buried underneath.\n\n“These are all locked.”\n\n“Looks like the keyholes have the same shape!”\n\n“…Alas, the key is of a soft constitution. It won’t be feasible to use it again once it has been inserted into a lock.”\n\nSounds like you get only one try.\nWhich one should you open?",
+      "desc": "Düzinelerce eski sandıklar, odanın içerisinde dağıtılmış bir şekilde duruyor.\n\n“Eyvah, örümcek ağları…”\n\nEtrafı temizlerken; gözle ayırt edilebilir şekilde büyük, 3 adet gömülü sandık buldunuz.\n\n“Hepsi de kilitli.”\n\n“Görünüşe göre hepsinin de anahtar delikleri aynı boyutlarda!”\n\n“…Ne yazık ki, anahtar yumuşak bir yapıya sahip. Sandıklardan birisini açtıktan sonra ötekini açacak kadar sağlam bir yapısı olmayacak.”\n\nYani sadece bir tanesini açabilirsin.\nHangisini açacaksın?",
       "options": [
         {
-          "message": "Open the first crate.",
-          "messageDesc": "Gain an E.G.O Gift that boosts defense.",
+          "message": "İlk sandığı aç.",
+          "messageDesc": "Defansını artıran bir E.G.O Hediyesi elde et.",
           "result": [
-            "“This is…”\n\nThe crate contained a worn helm.\n\n“Oho?! ‘Tis the proper equipment of a knight, is it not?!”\n\nOne Sinner excitedly rubs the helm clean.\nNot a bad haul, all things considered.\nWe carried the helm (and our Sinner infatuated by it) and left the room."
+            "“Bu…”\n\nSandığın içerisinde aşınmış bir miğfer bulunuyordu.\n\n“Oho?! Bu; bir şövalyenin en temel ekipmanı, değil mi?!”\n\nGünahkârlardan birisi miğferi alıp temizlemek adına ovmaya başladı.\nTüm sonuçları düşününce o kadar da kötü değil.\nMiğferi alarak (ve de Günahkârlardan birisi ona delicesine his beslemeye başlayarak) odayı terk ettik."
           ]
         },
         {
-          "message": "Open the second crate.",
-          "messageDesc": "50% chance to gain an E.G.O Gift that boosts Tremor attacks.",
+          "message": "İkinci sandığı aç.",
+          "messageDesc": "%50 şans ile Sarsıntı saldırılarını güçlendiren bir E.G.O Hediyesi kazan.",
           "result": [
-            "“This is…”\n\nThe crate contained an old mallet.\nThe cracks on its handle raised further questions about its usability.\n\n“This thing looks positively useless!”\n\nThe Sinners expressed disappointment over this seemingly regrettable choice.\nBut, you feel as if the mallet is talking to you,\ncompelling you to take it.\n\n“What, you’re gonna take that with you?”\n\nThough the Sinners saw it as junk,\nit seemed good to bring the mallet along.",
-            "“…Empty?”\n\nThere was nothing inside the crate.\nAll that greeted us were tiny specks of dust and dirt stirred up by exposure to the outside air.\n\n“I told you we shoulda gone with that one~”\n\n“No, in all likelihood it would have been empty too.”\n\nYou walked out of the room, trying to ignore the Sinners’ complaints."
+            "“Bu…”\n\nSandığın içerisinde eski bir tokmak vardı.\nTutma yerindeki çatlaklar kullanılabilirliği hakkında birçok sorunun sorulmasına sebebiyet vermişti.\n\n“Bu şey kesinlikle bir işimize yaramaz!”\n\nGünahkârlar, bu acınacak seçime karşı bir hayal kırıklılığı yaşıyordu.\nAma tokmağın seninle iletişim kurmaya çalıştığını hissedebiliyordun,\nalman için seni zorluyordu.\n\n“Ne, onu alacak mısın??”\n\nGünahkârlara işlevsizmiş gibi gözükse de,\ntokmağı almanın iyi bir fikir olduğunu düşündün.",
+            "“…Boş mu?”\n\nSandığın içi tamamen boştu.\nBizi karşılayan tek şey, havanın etkisiyle hareketlenen minik toz ve kir parçacıklarıydı.\n\n“Size diğerini açmamız gerektiğini söylemiştim~”\n\n“Hayır, benzerliklerini düşününce muhtemelen o da boştu.”\n\nGünahkârların şikayetlerini görmezden gelerek odadan çıktın."
           ]
         },
         {
-          "message": "Open the third crate.",
-          "messageDesc": "50% chance to gain an E.G.O Gift that boosts Bleed attacks.",
+          "message": "Üçüncü sandığı aç.",
+          "messageDesc": "%50 şans ile Kanama saldırılarını güçlendiren bir E.G.O Hediyesi kazan.",
           "result": [
-            "“This is…”\n\nThe crate contained a browned nail.\nNot a bundle of nails; just a slightly large one, covered in rust and dust.\n\n“The heck…”\n\nThe Sinners looked devastated by the fact that the key was wasted on this.\n\n“Can’t just throw away loot. If you aren’t gonna use it, then hand it over.”\n\nOne Sinner was showing interest in the item, so you gave it to them and went on your way.",
-            "“…Empty?”\n\nThere was nothing inside the crate.\nAll that greeted us were tiny specks of dust and dirt stirred up by exposure to the outside air.\n\n“I told you we shoulda gone with that one~”\n\n“No, in all likelihood it would have been empty too.”\n\nYou walked out of the room, trying to ignore the Sinners’ complaints."
+            "“Bu…”\n\nSandığın içerisinde kahverengileşmiş bir çivi vardı.\nBir paket değil; normal bir çiviye nazaran büyük, pas ve tozla kaplanmış bir çivi\n\n“Kahretsin…”\n\nGünâhkarlar, anahtarı bu çivide harcadıkları için harap olmuş bir şekilde bakıyorlardı.\n\n“Ganimeti yere atmak da olmazdı. Kullanmayacaksan, bir başkasına ver.”\n\nGünahkârlardan birisinin ilgisini çekmişti, sen de çiviyi ona verip yoluna devam ettin.",
+            "“…Boş mu?”\n\nSandığın içi tamamen boştu.\nBizi karşılayan tek şey, havanın etkisiyle hareketlenen minik toz ve kir parçacıklarıydı.\n\n“Size diğerini açmamız gerektiğini söylemiştim~”\n\n“Hayır, benzerliklerini düşününce muhtemelen o da boştu.”\n\nGünahkârların şikayetlerini görmezden gelerek odadan çıktın."
           ]
         }
       ]
     },
     {
       "id": 10305,
-      "name": "Who Judges the Judge",
+      "name": "Yargıcı Kim Yargılar",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "The N Corp. Inquisitors were busy torturing someone.\n\n“GIAAAAH!”\n\nA filtered scream fills the cramped room.\nTheir victims are people with prosthetic bodies.\n\n“……”\n\nSinclair didn’t utter a word, but his eyes full of wrath and fear were fixed on the torturers.\nHe breathed heavily at irregular intervals, his body shaking; he looks like he might charge forth at any second.\n\nDo you stop him?\nOr…",
+      "desc": "N Şirketi Engizitörleri birisine işkence etmekle meşguldü.\n\n“AAAAAAH!”\n\nSıkış tepiş olan odayı, filtrelenmiş bir çığlık dolduruyordu.\nOnların kurbanları, protez beden parçalarına sahip kişilerdi.\n\n“……”\n\nSinclair tek bir kelime etmedi, gözünde korku ve öfke ile işkence eden kişilere bakıyordu.\nDüzensiz aralıklarla ağır ağır nefes alıyor, bedeni sallanıyordu; her an saldırabilecek gibi bir hâli vardı.\n\nOnu durduracak mısın?\nYoksa…",
       "options": [
         {
-          "message": "Wait for the torture to end.",
-          "messageDesc": "Certain Identities lose SP",
+          "message": "İşkencenin bitmesini bekle.",
+          "messageDesc": "Belirli Kişilikler SP kaybeder",
           "result": [
-            "While the scene is horrible to behold, we are no valiant knights.\nA wise manager wouldn’t risk losing all their Sinners over some juvenile impulse.\nIn that case…\n\n“…Understood.”\n\nSinclair gave you a vexing glare as you placed a hand on his shoulder, but he soon hung his head low and assented.\n\n…Hopefully, this was the right call.\nYou decided to watch and wait until the torture was over."
+            "Sahne izlenmek için fazla korkunç da olsa, biz yürekli şövalyeler değiliz.\nZeki bir müdür, ufak bir dürtü yüzünden tüm Günahkârları kaybetmenin riskini almaz.\nBu durumda…\n\n“…Anlaşıldı.”\n\nSinclair elini omzuna koyduğun zaman siniri bozulmuş bir şekilde sana doğru baktı, ama hemen ardından başını aşağıya eğerek kararını onayladı.\n\n…Umarım, doğru karar budur.\nİşkence bitene kadar oturup izlemeye karar verdin."
           ]
         },
         {
-          "message": "Stop the torture.",
-          "messageDesc": "Run a Wrath check, then begin a combat encounter. Use Sinclair for the check to gain ‘A Sign’. Pass to weaken all enemies.",
+          "message": "İşkenceyi durdur.",
+          "messageDesc": "Öfke denemesi yap, ardından çatışma başlat. Deneme için Sinclair'i kullanarak ‘İşaret’ kazan. Geçerek tüm düşmanları zayıflat.",
           "result": [
-            "We may not be valiant knights.\nYet, even casting morals aside, we will have to fight them to move on.\n\n“…Do you really mean it?”\n\nWhen you explain your plan to Sinclair, he looks back at you with surprise.\n\n“I thought you would stop me…”\n\nHe spoke anxiously, but he seemed nevertheless happy with the decision.\n\n“Got it. I’ll do it.”\n\nSinclair sprinted to where the Inquisitors were alongside the other Sinners."
+            "Cesur şövalyeler olmayabiliriz.\nAncak, ahlâkı bir kenara bıraksak bile ilerlemek için onlarla savaşmak zorundayız.\n\n“…İstediğin gerçekten bu mu?”\n\nSinclair'e planını açıkladığın zaman, şaşırmış bir şekilde sana baktı.\n\n“Beni durduracağını sanmıştım…”\n\nTedirgin olmuş gibi konuşsa da, kararını duyunca sevinmişti.\n\n“Anlaşıldı. Yapacağım.”\n\nSinclair, Egizitörlerin olduğu yere doğru diğer Günahkârlar ile koşmaya başladı."
           ]
         }
       ]
