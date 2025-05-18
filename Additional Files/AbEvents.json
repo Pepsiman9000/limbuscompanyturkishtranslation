@@ -29,14 +29,14 @@
     {
       "id": 800104,
       "title": "백설선택지4",
-      "eventDesc": "As if to demonstrate the unrewarding harshness of life, and in spite of enduring so much pain, not a single flower seemed to bloom from the corpse.\nInstead, the Sinners discover fruits borne on it.\n\nOne audibly swallows to drain their salivations.\nAn urge to know the taste of a fruit made fertile with a Sinner starts to grow.",
+      "eventDesc": "Hayatın nankör gerçekliğini gösterircesine ve bu kadar acı çekmesine inat olarak, cesetin üzerinde bir tane bile çiçek açmamıştı.\n Tersine, Günahkârlar üzerinde bitmiş meyveler buldular .\n\nİnsan gufranının suyunu çekerek seslice yutar.\nGünahkâr ile gübrelenmiş meyve tatma içgüdüsü.",
       "prevDesc": "백설 선택지 4 뜰 예정",
-      "behaveDesc": "A Sinner eventually reached for the fruit.\nWho among them took the bite?",
+      "behaveDesc": "Bir Günahkâr cidden meyveye erişti.\nIsırığı içlerinden kim aldı?",
       "successDesc": [
-        "{0} took a bite out of the fruit.\nTheir tongue is doused in pure delight.\n\nYet it’s more of a curse, as no other flavor will ever again be able to rouse them."
+        "{0} Meyveden ısırık aldı.\nDili saf haz ile sulandı.\n\nAma bu daha çok bir lanetti, artık ona başka hiçbir tat yeteli gelmeyecekti."
       ],
       "failureDesc": [
-        "Something was eating away at the Sinner from the inside.\nIt was something more humiliating than a bug craving sweetness, no; it was an emotion, an ignoble feeling.\n\nThe Sinner looked around.\nThey were now envious of everything, no longer able to love themself."
+        "Günahkârı içten içe bir şeyler yiyordu.\nÇürük arayan bir böcekten bile daha aşağlayıcı bir şey, hayır; bir duyguydu, rezil bir his.\n\nGünahkâr etrafa bakındı.\nArtık her şeye karşı hasuttu, özsevgiye muntazır."
       ]
     },
     {
