@@ -1568,12 +1568,12 @@
         {
           "level": 1,
           "name": "Kahkaha",
-          "desc": "[WhenUse] Deal 10 SP damage",
+          "desc": "[WhenUse] 10 SP Hasarı ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur Attack Gücü Yükseltmesi 1 kazan"
                 }
               ]
             }
@@ -1586,26 +1586,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sin-skewering Nail",
+          "name": "Günah-şişleyen Çivi",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Corp'un Çivilerinden ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Corp'un Çivilerinden ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Corp'un Çivilerinden ver"
                 }
               ]
             }
@@ -2047,15 +2047,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressing Sac",
+          "name": "Pressleyen Kese",
           "keywords": [
-            "Binding"
+            "Yavaşlatma"
           ],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Yavaşlatma ver"
                 }
               ]
             }
@@ -2068,18 +2068,18 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blood Cannon",
+          "name": "Kan Topu",
           "keywords": [
-            "Bleeding"
+            "Kanama"
           ],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] 5 Kanama ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 20 Bleed"
+                  "desc": "[OnSucceedAttackHead] 20 Kanama Ver"
                 }
               ]
             }
@@ -2092,16 +2092,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clotting",
+          "name": "Pıhtılama",
           "keywords": [
-            "Bleeding"
+            "Kanama"
           ],
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 30 Bleed"
+                  "desc": "[OnSucceedAttackHead] 30 Kanama Ver"
                 }
               ]
             }
@@ -2114,12 +2114,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Claw",
+          "name": "Pençe",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
                 }
               ]
             }
@@ -2132,12 +2132,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Constant Voltage",
+          "name": "Devamlı Voltaj",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Parçalanma ver"
                 }
               ]
             }
@@ -2150,19 +2150,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Electromotive Pursuit",
+          "name": "Elektromotif Kovalama",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 4 Parçalanma ver"
                 }
               ]
             }
@@ -2175,15 +2175,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Howl",
+          "name": "Ulu",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Yavaşlatma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Defense Power Down"
+                  "desc": "[OnSucceedAttackHead] 4 Defans Gücü Azaltma ver"
                 }
               ]
             }
@@ -2196,12 +2196,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Electrified Howl",
+          "name": "Elektrikli Uluma",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Parçalanma ver"
                 }
               ]
             }
@@ -2214,15 +2214,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lightning Rod",
+          "name": "Paratoner",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Parçalanma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 5 Parçalanma ver"
                 }
               ]
             },
@@ -2242,12 +2242,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Red Bolts",
+          "name": "Kırmızı Yıldırımlar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 10 Parçalanma ver"
                 }
               ]
             },
@@ -2267,15 +2267,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Howl",
+          "name": "Ulu",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] 2 Yavaşlatma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Defense Power Down"
+                  "desc": "[OnSucceedAttackHead] 4 Savunma Gücü Azaltma ver"
                 }
               ]
             }
@@ -2288,12 +2288,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Coiling Arms",
+          "name": "Kıvrılan Kollar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
                 }
               ]
             }
@@ -2306,20 +2306,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
-          "desc": "[WhenUse] Gain 1 Attack Power Up next turn",
+          "name": "Tokatla",
+          "desc": "[WhenUse] Sonraki tur 1 Saldırı Gücü Arttırma kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed and 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Kanama ve 1 Felç ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed and 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Kanama ve 1 Felç ver"
                 }
               ]
             }
@@ -2332,12 +2332,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thwack",
+          "name": "Vurma",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Yavaşlatma ver"
                 }
               ]
             }
@@ -2350,7 +2350,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Korunma",
           "coinlist": [
             {
               "coindescs": [
@@ -2368,20 +2368,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Poison Spray",
-          "desc": "[WhenUse] Lose 6 HP; Gain 5 Bleed next turn",
+          "name": "Zehir Spreyi",
+          "desc": "[WhenUse] 6 HP Kaybet; Sonraki tur 5 Kanama kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Poison next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Zehir ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Poison next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Zehir ver"
                 }
               ]
             }
@@ -2394,13 +2394,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bawkbawbawbawk",
-          "desc": "Targets the unit with the least SP",
+          "name": "Gıdakgıdakgıdak",
+          "desc": "En az SP sahip olan kişiyi hedefle",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] 5 SP Hasarı ver"
                 }
               ]
             }
@@ -2413,17 +2413,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Babawbawk",
-          "desc": "Targets the unit with the least SP",
+          "name": "Gıtgıdak",
+          "desc": "En az SP sahip olan kişiyi hedefle",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 7 HP"
+                  "desc": "[OnSucceedAttack] 7 HP İyileştir"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttackHead] 3 Batış ver"
                 }
               ]
             }
@@ -2436,8 +2436,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Keghgh",
-          "desc": "If user doesn’t take damage this turn, apply 2 Attack Power Up to all allies next turn",
+          "name": "Kehğğk",
+          "desc": "Eğer kişi bu tur hasar almazsa, bütün müttefiklere 2 Saldırı Gücü Arttırma ver",
           "coinlist": [
             {}
           ]
@@ -2449,13 +2449,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Baaawkbawk",
-          "desc": "Targets the unit with the least HP",
+          "name": "Gııtgıdak",
+          "desc": "En az HPye sahip kişiyi hedefle",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile"
+                  "desc": "[OnSucceedAttack] 1 Kırılganlık Ver"
                 }
               ]
             }
@@ -2468,17 +2468,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bawkbabawk",
-          "desc": "Targets the unit with the least HP",
+          "name": "Gıdakgıtgıdak",
+          "desc": "En az HPye sahip kişiyi hedefle",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 7 HP"
+                  "desc": "[OnSucceedAttack] 7 HP İyileştir"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttackHead] 5 Kanama Ver"
                 }
               ]
             }
@@ -2491,8 +2491,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khgh",
-          "desc": "[OnSucceedEvade] Target loses 15 SP",
+          "name": "Kıhh",
+          "desc": "[OnSucceedEvade] Hedef 15 SP Kaybeder",
           "coinlist": [
             {}
           ]
