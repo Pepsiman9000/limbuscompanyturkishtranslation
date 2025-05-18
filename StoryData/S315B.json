@@ -18,21 +18,21 @@
       "model": "N사심문관1",
       "teller": "An Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "I’ve surely pierced their heart, yet still a pulse remains in their body."
+      "content": "Kalbini kesinlikle deldim, ama hala nabız atışını duyabiliyorum."
     },
     {
       "id": 4,
       "model": "N사심문관2",
       "teller": "Fellow Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "It must be patched with steel. Even the core of their humanity has been tainted by heresy."
+      "content": "Çelikle kaplanmış olmalı, insanlıklarının merkezi bile günahlarla kaplanmış."
     },
     {
       "id": 5,
       "model": "N사심문관2",
       "teller": "Fellow Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "How filthy. A disgrace to flesh and bone."
+      "content": "Ne iğrenç. Deri kemiklerine bir ihanet."
     },
     {
       "id": 6,
@@ -47,14 +47,14 @@
       "model": "N사심문관2",
       "teller": "Fellow Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "Imbibe the oil of humanity, ye heretical soma."
+      "content": "İnsanlığın yağını için, ey günahkarlar."
     },
     {
       "id": 9,
       "model": "N사심문관2",
       "teller": "Fellow Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "Those who cannot return to the earth, find solace in scattering to smoke."
+      "content": "Dünyaya dönemeyenler, tozlara dağıldıklarında teselli bulacaklar."
     },
     {
       "id": 10,
@@ -75,37 +75,37 @@
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "If this hellscape is their idea of purification, I’d rather stay unclean."
+      "content": "Eğer bu cehennem tablosu temizlikten anladıkları şey ise, kirli kalmayı tercih ederim."
     },
     {
       "id": 15,
       "model": "뫼르소",
-      "content": "Nagel und Hammer has always been devoted to scrutinizing the idea of humanity."
+      "content": "Çivi ve Çekiç, her zaman insanlık benliğini irdelemeye odaklı bir grup."
     },
     {
       "id": 16,
       "model": "뫼르소",
-      "content": "Some criticized prosthetic use, as they believed that pain is a necessary component of the human experience. However, it never escalated to the extent of direct action that we are witnessing now."
+      "content": "Bazıları, acı çekmenin insan deneyiminin bir parçası olarak protez kullanımına karşı çıkıyor. Fakat, bu hiç bir zaman şu an gördüğümüz faaliyet kadar ekstrem bir noktaya çıkmadı."
     },
     {
       "id": 17,
       "model": "그레고르",
-      "content": "I’ve been meaning to ask… How do you know so much about N Corp?"
+      "content": "Çok meraklandım… N Kuruluşu hakkında nasıl bu kadar çok şey biliyorsun?"
     },
     {
       "id": 18,
       "model": "뫼르소",
-      "content": "…I was once employed by N Corp."
+      "content": "…Bir zamanlar N Kuruluşu için çalışıyordum."
     },
     {
       "id": 19,
       "model": "그레고르",
-      "content": "Wha…? You used to work with those people?"
+      "content": "Ne…? Bu insanlarla mı çalışıyordun?"
     },
     {
       "id": 20,
       "model": "뫼르소",
-      "content": "I have never worked with those specific individuals, but in terms of affiliation, you can say that I did."
+      "content": "Bu spesifik şahıslarla çalıştığım söylenemez, ama işveren açısından, beraber çalıştığımızı söyleyebilirsin."
     },
     {
       "id": 21,
@@ -118,82 +118,82 @@
     {
       "id": 23,
       "model": "그레고르",
-      "content": "Why didn’t you tell us that earlier? You carry one of those freaky weapons then?"
+      "content": "Neden bunu bize daha önce anlatmadın? Şu korkunç silahlardan da taşıyor musun?"
     },
     {
       "id": 24,
       "model": "뫼르소",
-      "content": "Am I obligated to elaborate?"
+      "content": "Detaya girmem gerekiyor mu?"
     },
     {
       "id": 25,
       "model": "히스클리프",
-      "content": "The hell… Why don’t you explain what makes you different from those nutters, then?"
+      "content": "Hassiktir… O halde şu kafası sikiklerden seni arayan şey ne söyler misin?"
     },
     {
       "id": 26,
       "model": "히스클리프",
-      "content": "Listen, mate… As much as I like to call our daft manager clockface, I don’t think they deserve by any means to be on the stake or chopping block."
+      "content": "Bak aga… Bizim müdürü Saatkafa diye çağırmak sarsa da, şişlenmelerini veya böylesine parçalanmalarını elbette doğru görmüyorum."
     },
     {
       "id": 27,
       "model": "히스클리프",
-      "content": "Those buggers talk big about purifying and all that, but all I see are a bunch of loonies who just needed an excuse to kill, eh?"
+      "content": "Mevzubahis temizlik olunca ağızları çok açık, fakat gördüğüm tek şey, insanları öldürmeye bahane arayan birkaç küçük zenci, eh?"
     },
     {
       "id": 28,
       "model": "히스클리프",
-      "content": "Speak up, then. Are you like those screwloose bucketheads?"
+      "content": "Konuş bakalım. O cıvatasız kovakafalılardan mısın, değil misin?"
     },
     {
       "id": 29,
       "model": "뫼르소",
-      "content": "There was a time when I thought about such things."
+      "content": "Bunu düşündüğüm bir zaman olmuştu."
     },
     {
       "id": 30,
       "model": "뫼르소",
-      "content": "Though I did not come to a conclusion."
+      "content": "Fakat bir sonuca ulaşamamıştım."
     },
     {
       "id": 31,
       "model": "히스클리프",
-      "content": "I want that damn conclusion now! Are you gonna up and butcher all the townsfolk if your manager just says so?"
+      "content": "Cevabımı istiyorum lan! Müdürün isterse, tüm o kasaba halkını çividen mi geçireceksin?"
     },
     {
       "id": 32,
       "model": "뫼르소",
-      "content": "Must I give an answer? That does not aid us in handling our work."
+      "content": "Bir cevap vermeli miyim? Bu, işimizi halletmekte bize yardım etmiyor."
     },
     {
       "id": 33,
       "model": "뫼르소",
-      "content": "An employee must follow their employer’s orders. The terms Vergilius presented state as much."
+      "content": "Bir çalışan, işverenlerinin emirlerini uygulamalıdır. Vergilius'un bize sunduğu şartlar bunu işaret ediyordu."
     },
     {
       "id": 34,
       "model": "뫼르소",
-      "content": "If the manager orders me to do such a thing, I will do it. I may provide my input if I am told that it is necessary, but I do not have a habit of rambling my thoughts unprompted."
+      "content": "Eğer müdürümüz böyle bir şey yapmamı dilerse yaparım. Eğer gerekirse kendi fikrimi de verebilirim, fakat düşüncelerimi istek dışı belirtme gibi bir alışkanlığım bulunmuyor."
     },
     {
       "id": 35,
       "model": "히스클리프",
-      "content": "…Pardon? Are you ‘round the twist? Do you got a chunk of metal for your brains like the folks here?"
+      "content": "…Pardon lan? Kafayı mı yedin sen oğlum? Buradakiler gibi senin de mi beynin yerine paslı demir var yoksa?"
     },
     {
       "id": 36,
       "model": "뫼르소",
-      "content": "I am 16% proteins, 60% water, 7% minerals, and so forth; I am clearly different in terms of composition."
+      "content": "Ben 16% proteinden, 60% sudan, 7% mineralden, ve başka şeylerden oluşuyorum; Yapı açısından kesinlikle farklıyım."
     },
     {
       "id": 37,
       "model": "뫼르소",
-      "content": "Moreover, unnecessary heavy metals do not comprise any portion of my body."
+      "content": "Ayrıca, gereksiz ağır metaller vücut yapımın parçası değil."
     },
     {
       "id": 38,
       "model": "뫼르소",
-      "content": "That is another difference."
+      "content": "Bu da başka bir fark."
     },
     {
       "id": 39,
@@ -206,27 +206,27 @@
     {
       "id": 41,
       "model": "홍루",
-      "content": "Now that you mention it, there’s something I’ve been wondering."
+      "content": "Dedin ya, benim de merak ettiğim bir şey vardı."
     },
     {
       "id": 42,
       "model": "홍루",
-      "content": "I’ve been thinking on whether Manager Dante should be seen as a “human”."
+      "content": "Müdurümüzü bir “insan” sayıp sayamayacağımızı düşünüyordum."
     },
     {
       "id": 43,
       "model": "오티스",
-      "content": "What do you mean?"
+      "content": "Anlamadım?"
     },
     {
       "id": 44,
       "model": "홍루",
-      "content": "What if… when dear Dante is speaking… it’s actually the clock and not the person we know as “Dante” behind those words?"
+      "content": "Ya Dante bey konuştuğunda… Konuşan şey Dante değil de… bu kelimelerin arkasındaki şey saatin kendisi ise?"
     },
     {
       "id": 45,
       "model": "히스클리프",
-      "content": "Eh? You trying to tell me we were being led by an actual clock?"
+      "content": "Eh? Bizi hakiki bir saatin yönettiğini mi söylüyorsun?"
     },
     {
       "id": 46,
