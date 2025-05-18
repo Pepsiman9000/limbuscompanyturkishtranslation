@@ -13,7 +13,7 @@
         {
             "id": "lobby_noon_10610_1",
             "desc": "Afternoon Greeting",
-            "dlg": "Yaaawn... I think I'll try to sleep a little.\nAll the Bloodfiends have crawled into their holes, hiding. I don't need to worry much about ambushes at this hour."
+            "dlg": "(Esneme)... I think I'll try to sleep a little.\nAll the Bloodfiends have crawled into their holes, hiding. I don't need to worry much about ambushes at this hour."
         },
         {
             "id": "lobby_night_10610_1",
@@ -48,12 +48,12 @@
         {
             "id": "neglect_10610_1",
             "desc": "Idle",
-            "dlg": "Would you like a cup of water?"
+            "dlg": "Bir bardak su ister miydin?"
         },
         {
             "id": "gacksung_10610_1",
             "desc": "Uptying",
-            "dlg": "Ha ha... How does it feel, getting hunted down by your prey?"
+            "dlg": "Ha ha... Nasıl hissettiriyor, kendi avın tarafından avlanmak?"
         },
         {
             "id": "formation_10610_1",
@@ -68,17 +68,17 @@
         {
             "id": "battle_select_10610_1",
             "desc": "Viewed in Battle",
-            "dlg": "I should wipe that blood off my weapon."
+            "dlg": "Silahımdaki şu kanı silmem lazım."
         },
         {
             "id": "battle_endcommand_10610_1",
             "desc": "Commencing Attack",
-            "dlg": "Let's hunt."
+            "dlg": "Hadi avlanalım."
         },
         {
             "id": "battle_enemy_break_10610_1",
             "desc": "Enemy Stagger",
-            "dlg": "Does it hurt?"
+            "dlg": "Acıtıyor mu?"
         },
         {
             "id": "battle_break_10610_1",
@@ -103,7 +103,7 @@
         {
             "id": "choice_fail_n_10610_1",
             "desc": "Check Failed",
-            "dlg": "Oops... my bad."
+            "dlg": "Ups... Benim hatam."
         },
         {
             "id": "battle_clear_10610_1",
