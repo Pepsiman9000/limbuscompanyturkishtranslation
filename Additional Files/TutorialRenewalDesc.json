@@ -206,7 +206,7 @@
     },
     {
       "id": "tuto_00_04_01_05",
-      "content": "Her birimin <color=#f8c200>Direnç<color=#ebcaa2> değerleri vardır.\nOnların hangi <color=#f8c200>Saldırı veya Günah Türüne<color=#ebcaa2> zayıf olduklarını öğrenmek için burayı kullanabilirsin."
+      "content": "Her birimin <color=#f8c200>Zayıflık<color=#ebcaa2> değerleri vardır.\nOnların hangi <color=#f8c200>Saldırı veya Günah Türüne<color=#ebcaa2> zayıf olduklarını öğrenmek için burayı kullanabilirsin."
     },
     {
       "id": "tuto_00_04_01_06_title",
@@ -214,35 +214,35 @@
     },
     {
       "id": "tuto_00_04_01_07",
-      "content": "Yeteneklerin saldırıları iki kategoriye ayrılır: <color=#f8c200>3 Saldırı Türü<color=#ebcaa2> ve <color=#f8c200>7 Günah Türü<color=#ebcaa2>.\nHedefin bu kategorilere olan Direnci hasarı azaltabilir veya artırabilir.\n<color=#f8c200>A higher Resistance value on a unit means they will take more damage from that damage type.<color=#ebcaa2>"
+      "content": "Yeteneklerin saldırıları iki kategoriye ayrılır: <color=#f8c200>3 Saldırı Türü<color=#ebcaa2> ve <color=#f8c200>7 Günah Türü<color=#ebcaa2>.\nHedefin bu kategorilere olan Zayıflıkları hasarı azaltabilir veya artırabilir.\n<color=#f8c200>Zayıflık katsayısı ne kadar yüksekse, o Saldırı Türünden o kadar fazla hasar alınır.<color=#ebcaa2>"
     },
     {
       "id": "tuto_00_04_01_08",
-      "content": "Check your enemy's weaknesses and select the Skills that can exploit them to deal more damage."
+      "content": "Rakibin Zayıflıklarını kontrol et ve daha fazla hasar vurabilecek olan Yetenekleri tercih et."
     },
     {
       "id": "tuto_00_04_02_01",
-      "content": "In most cases, the unit with the leftmost Skill on the Dashboard will be the first to act among allies."
+      "content": "Çoğu durumda, Müttefikler arasından ilk hareket eden kişi Panelde en solda olandır."
     },
     {
       "id": "tuto_00_04_02_02",
-      "content": "Starting from the <color=#f8c200>allied unit highest on the Deployment order<color=#ebcaa2>, an ally gains 1 additional Slot with every passing turn. This means that they gain an extra opportunity to attack."
+      "content": "<color=#f8c200>Seçim sırasında en önde olan<color=#ebcaa2> Günahkârdan başlayarak, her geçen Tur bir Müttefik ekstradan bir Yetenek Yuvası kazanır. Bu demek oluyor ki saldırmak için bir hakları daha olur."
     },
     {
       "id": "tuto_00_04_03_01",
-      "content": "Use one of these buttons to let the Sinners choose what Skills they want to use."
+      "content": "Günahkârların istedikleri tercihleri yapmaları için buradaki butonları kullanabilirsin."
     },
     {
       "id": "tuto_00_04_03_02",
-      "content": "However, it must be emphasized that leaving the Sinners to make their own strategic choices could lead to suboptimal combat performances."
+      "content": "Bilakis, unutma ki Günahkârları kendi hallerine bırakmak en optimal stratejiden uzaktır."
     },
     {
       "id": "tuto_00_04_03_03_title",
-      "content": "Clash Outcome Forecast"
+      "content": "Çarpışma Sonucu Öngörüsü"
     },
     {
       "id": "tuto_00_04_03_04",
-      "content": "The Clash outcome forecast appears at the top of the screen and beside each selected Skill. \n\nPlease note that the forecast is not always perfect, but it is serviceable when quick decisions are necessary."
+      "content": "Çarpışma Sonucu Öngörüsü ekranın en üstünde, Yeteneklerin yanında gözükür. \n\nLütfen bu öngörünün gerçek istatistiklerden uzak ve isabetsiz olabileceğini aklında bulundur, fakat hızlı kararlar vermen gerektiğinde kullanışlıdır."
     },
     {
       "id": "tuto_01_02_01_01",
