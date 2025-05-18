@@ -1340,7 +1340,7 @@
   {
     "id": 999907,
     "name": "Mang (望)",
-    "desc": "Mang üretmek için SP harcar. Mang sayısına bağlı olarak daha fazla hasar verir",
+    "desc": "Mang üretmek için SP harcar. Mang Miktarına bağlı olarak daha fazla hasar verir",
     "summary": ""
   },
   {
@@ -1435,13 +1435,13 @@
   },
      {
     "id": 1110901,
-    "name": "Sayısız Nokta",
+    "name": "Miktarız Nokta",
     "desc": "Savaş Başlangıcı: Negatif etki türü en az olan 1 düşmana aşağıdakilerden rastgele seçilen bir etkiyi 2 Şiddet ile uygula: [Combustion], [Laceration], [Vibration], [Burst] veya [Sinking].\n(Odaklı Karşılaşmalarda, bir Parça)",
     "summary": "Savaş Başlangıcı: Rastgele bir negatif etkiyi 2 Şiddet ile uygula"
   },
   {
     "id": 1110911,
-    "name": "Sayısız Nokta",
+    "name": "Miktarız Nokta",
     "desc": "Savaş Başlangıcı: Negatif etki türü en az olan <style=\"highlight\">2</style> düşmana aşağıdakilerden rastgele seçilen bir etkiyi 2 Şiddet ile uygula: [Combustion], [Laceration], [Vibration], [Burst] veya [Sinking].\n(Odaklı Karşılaşmalarda, Parçalar)",
     "summary": "Savaş Başlangıcı: Rastgele bir negatif etkiyi 2 Şiddet ile 2 düşmana uygula"
   },
@@ -1480,7 +1480,7 @@
   {
     "id": 1060901,
     "name": "Titreşim Kaynaklı Çarpık Savaş Bastonu (İzinsiz İcat)",
-    "desc": "Tur Sonu: Bu tur [VibrationExplosion] tetikleme sayısı kadar, sonraki tur için [AttackDmgUp] kazan (maksimum 3)"
+    "desc": "Tur Sonu: Bu tur [VibrationExplosion] tetikleme Miktarı kadar, sonraki tur için [AttackDmgUp] kazan (maksimum 3)"
   },
   {
     "id": 1060921,
@@ -1512,7 +1512,7 @@
   {
     "id": 1051001,
     "name": "Çalışma Salonu",
-    "desc": "Başka bir müttefik bir Yetenek İptal ettiğinde, ona ve bu birime 1 [KnowledgeTraining] uygula (her Yetenek için bir kez, tur başına 3 kez)\nTur Sonu: diğer müttefiklerin iptal ettiği Yetenek sayısı kadar Delme ve Darbe Hasarı Artışı kazan (maksimum 3)",
+    "desc": "Başka bir müttefik bir Yetenek İptal ettiğinde, ona ve bu birime 1 [KnowledgeTraining] uygula (her Yetenek için bir kez, tur başına 3 kez)\nTur Sonu: diğer müttefiklerin iptal ettiği Yetenek Miktarı kadar Delme ve Darbe Hasarı Artışı kazan (maksimum 3)",
     "summary": ""
   },
   {
@@ -1618,7 +1618,7 @@
     {
       "id": 1041002,
       "name": "E.G.O Asimilasyonu",
-      "desc": "Charge Miktarı kazandığında, [RedEyeFirst] veya [PenanceFirst] kazanın yerine\n- [RedEyeFirst] ve [PenanceFirst], [Charge] Potansiyelinden etkilenmez",
+      "desc": "Charge Miktarı kazandığında, [RedEyeFirst] veya [PenanceFirst] kazanın yerine\n- [RedEyeFirst] ve [PenanceFirst], [Charge] Şiddetinden etkilenmez",
       "summary": "Charge Miktarı kazandığında, Kırmızı Göz veya Pişmanlık kazanın"
     },
      {
@@ -1636,7 +1636,7 @@
   {
     "id": 1011002,
     "name": "Ölü Kelebekleri Görüyorum.",
-    "desc": "Başlangıçta her bir [BulletLament]ten 10 adet kazan\n\n[BulletLament] tükettikçe, her bir [BulletLament] değeri için The Living(Potency) ve The Departed(Count) arasında rastgele seçim yap.\n\n[Etkilenen Beyaz] uyguladığında, tüketilen [The Living] ve [The Departed] miktarını aynı şekilde uygula. Örnek aşağıda:\n- Eğer bu birim X Living tükettikse, X Living uygula\n- Eğer bu birim Y Departed tükettikse, Y Departed uygula\n\nEğer bu birim [BulletLament] tükenirse, sonraki Coin ve [ReloadLament] tümünü iptal et.\n\n[ReloadLament] yaparken veya [BulletLament] kazandığında, bu birimin mevcut SP'sine göre ya [The Living] ya da [The Departed] kazan\n- 0 veya daha yüksek SP'de: [The Living] kazanma şansı %30; [The Departed] kazanma şansı %70.\n- 0'dan düşük SP'de: [The Living] kazanma şansı %70; [The Departed] kazanma şansı %30.\n- Her tükenen mermi için ayrı ayrı hesaplanır.",
+    "desc": "Başlangıçta her bir [BulletLament]ten 10 adet kazan\n\n[BulletLament] tükettikçe, her bir [BulletLament] değeri için Yaşayan(Şiddet) ve Vefat Eden(Miktar arasında rastgele seçim yap.\n\n[SinkingWhite] uyguladığında, tüketilen Yaşayan ve Vehat Etmiş miktarını aynı şekilde uygula. Örnek aşağıda:\n- Eğer bu birim X Yaşayan tükettikse, X Yaşayan uygula\n- Eğer bu birim Y Vefat eden tükettikse, Y Vefat eden uygula\n\nEğer bu birim [BulletLament] tükenirse, sonraki Coin ve [ReloadLament] tümünü iptal et.\n\n[ReloadLament] yaparken veya [BulletLament] kazandığında, bu birimin mevcut SP'sine göre ya Yaşayan ya da Vehat Etmiş kazan\n- 0 veya daha yüksek SP'de: Yaşayan kazanma şansı %30; Vehat Etmiş kazanma şansı %70.\n- 0'dan düşük SP'de: Yaşayan kazanma şansı %70; Vehat Etmiş kazanma şansı %30.\n- Her tükenen mermi için ayrı ayrı hesaplanır.",
     "summary": "Bu birim, Mermi tüketildikçe Yeniden Yükler"
   },
   {
@@ -1672,28 +1672,28 @@
   {
     "id": 1091021,
     "name": "Mükemmel Kurye",
-    "desc": "En hızlı Hıza sahip 1 müttefike: [Burst] Potansiyeli veya Sayısı uygulayan Yetenekler için Clash Power +1 uygula",
-    "summary": "[Burst] Potansiyeli veya Sayısı uygulayan Yetenekler için Clash Power +1 uygula"
+    "desc": "En hızlı Hıza sahip 1 müttefike: [Burst] Şiddeti veya Miktarı uygulayan Yetenekler için Clash Power +1 uygula",
+    "summary": "[Burst] Şiddeti veya Miktarı uygulayan Yetenekler için Clash Power +1 uygula"
   },
   {
     "id": 1081001,
     "name": "Şok-Nefes Alan Büyük Kılıç",
-    "desc": "Savaş Başlangıcı, kendisinde [Vibration] Sayısına eşit [DefenseUp] kazan (maksimum 5)"
+    "desc": "Savaş Başlangıcı, kendisinde [Vibration] Miktarına eşit [DefenseUp] kazan (maksimum 5)"
   },
   {
     "id": 1081011,
     "name": "Şok-Nefes Alan Büyük Kılıç",
-    "desc": "Savaş Başlangıcı, kendisinde [Vibration] Sayısına eşit [DefenseUp] kazan (maksimum 5)\n- Eğer bu birim [DefensiveStance] durumunda ise, yukarıdaki [DefenseUp] etkisi iki katına çıkar"
+    "desc": "Savaş Başlangıcı, kendisinde [Vibration] Miktarına eşit [DefenseUp] kazan (maksimum 5)\n- Eğer bu birim [DefensiveStance] durumunda ise, yukarıdaki [DefenseUp] etkisi iki katına çıkar"
   },
   {
     "id": 1081021,
     "name": "Acil Korunma",
-    "desc": "Savaş Başlangıcı, her bir Kimliğin mevcut HP'sini önceki turdaki HP'siyle karşılaştır.\nSonra, HP değerindeki en büyük farkı olan Kimliğe 2 [DefenseUp] uygula"
+    "desc": "Savaş Başlangıcı, her bir Kişiliğin mevcut HP'sini önceki turdaki HP'siyle karşılaştır.\nSonra, HP değerindeki en büyük farkı olan Kişiliğe 2 [DefenseUp] uygula"
   },
   {
     "id": 1101001,
     "name": "Koruma Görevini Başlat",
-    "desc": "Savaş Başlangıcı, kendisinde [Vibration] Sayısına eşit [DefenseUp] kazan (maksimum 5)"
+    "desc": "Savaş Başlangıcı, kendisinde [Vibration] Miktarına eşit [DefenseUp] kazan (maksimum 5)"
   },
   {
     "id": 1101021,
@@ -1704,8 +1704,8 @@
   {
     "id": 1051101,
     "name": "Canlı Yayın",
-    "desc": "Tur Sonunda: Bu birimin kendisinde bulunan her 3 [Breath] Potansiyeli için 1 [Agility] kazan (maksimum 2)\nTemel Saldırı Yeteneğiyle Vuruş Yapıldığında: bir sonraki turda [ConcentratedAttackMeursault] uygula. (her Yetenek başına bir kez)",
-    "summary": "Tur Sonu: Bu birimdeki [Breath] Sayısına bağlı olarak [Agility] kazan. Temel Yetenek ile bir vuruş yapıldığında, bir sonraki turda [ConcentratedAttackMeursault] uygula"
+    "desc": "Tur Sonunda: Bu birimin kendisinde bulunan her 3 [Breath] Şiddeti için 1 [Agility] kazan (maksimum 2)\nTemel Saldırı Yeteneğiyle Vuruş Yapıldığında: bir sonraki turda [ConcentratedAttackMeursault] uygula. (her Yetenek başına bir kez)",
+    "summary": "Tur Sonu: Bu birimdeki [Breath] Miktarına bağlı olarak [Agility] kazan. Temel Yetenek ile bir vuruş yapıldığında, bir sonraki turda [ConcentratedAttackMeursault] uygula"
   },
    {
   "id": 1051111,
@@ -1881,7 +1881,7 @@
 {
   "id": 1061121,
   "name": "Bastırıcı Ateş",
-  "desc": "En fazla [Bullet] sayısına sahip müttefik Kişilik, [Bullet] tüketen Yetenekler ile %10 daha fazla hasar verir\n([Bullet] yokken tetiklenmez)"
+  "desc": "En fazla [Bullet] Miktarına sahip müttefik Kişilik, [Bullet] tüketen Yetenekler ile %10 daha fazla hasar verir\n([Bullet] yokken tetiklenmez)"
 },
 {
   "id": 1071101,
@@ -1906,7 +1906,7 @@
 {
   "id": 1071121,
   "name": "Gözcü",
-  "desc": "En az [Bullet] sayısına sahip 1 müttefik, [Bullet] tüketen bir Yetenek kullandığında +2 [Breath] miktarı kazanır.\n- Eğer söz konusu müttefik bir Full-Stop Ofisi Kişiliği ise ya da [Breath] miktarı 5'in altındaysa, bunun yerine +4 [Breath] miktarı kazanılır (tur başına bir kez; [Bullet] olmayan birimler için geçerli değildir)"
+  "desc": "En az [Bullet] Miktarına sahip 1 müttefik, [Bullet] tüketen bir Yetenek kullandığında +2 [Breath] miktarı kazanır.\n- Eğer söz konusu müttefik bir Full-Stop Ofisi Kişiliği ise ya da [Breath] miktarı 5'in altındaysa, bunun yerine +4 [Breath] miktarı kazanılır (tur başına bir kez; [Bullet] olmayan birimler için geçerli değildir)"
 },
 {
   "id": 1011101,
@@ -2100,23 +2100,23 @@
     },
     {
       "id": 1121201,
-      "name": "Heishou Mutation [Si]",
+      "name": "Heishou Mutasyonu [Si]",
       "desc": "If the target has [BurstPoison], deal +5% damage for every [SnakeStance] on self (max 15%)\nIf this unit reduced the target's [BurstPoison] down to 0 Stack, gain 1 [PenetrateDamageUp] next turn (max 2)"
     },
     {
       "id": 1121221,
-      "name": "Like a Serpent: Flexible, Elastic, and Unpredictable",
+      "name": "Yılan Gibi: Esnek, Elastik, ve Öngörülemez",
       "desc": "If this unit is killed in this Encounter: every turn, at Combat Start, apply 2 [Breath] to the Substituting Identity of the earliest Deployment order"
     },
     {
       "id": 1091201,
-      "name": "Heishou Mutation [Si]",
+      "name": "Heishou Mutasyonu [Si]",
       "desc": "If this unit has [SnakeStance], deal +5% damage\nIf target has [BurstPoison], deal +5% damage"
     },
     {
       "id": 1091221,
-      "name": "Intravascular Venom",
-      "desc": "When 1 ally with the fastest Speed inflicts [Burst] damage to an enemy, inflict 1 [AttackDown] and 1 [DefenseDown] next turn (once per turn)"
+      "name": "Damariçi Zehir",
+      "desc": "En hızlı Hıza sahip bir müttefik bir düşmana [Burst] hasarı verirsen, sonraki tur 1 [AttackDown] ve 1 [DefenseDown] next uygular (tur başına bir kez)"
     }
     
   ]
