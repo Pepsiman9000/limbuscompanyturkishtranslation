@@ -28,7 +28,7 @@
         {
             "id": "smalltalk_10705_2",
             "desc": "Chatter #2",
-            "dlg": "...Name? Didn't give one. It might leave my side whenever.\n...Don't give me that glance."
+            "dlg": "...İsim? Hiç vermedim. It might leave my side wheneve.\n...Don't give me that glance."
         },
         {
             "id": "smalltalk_10705_3",
@@ -48,7 +48,7 @@
         {
             "id": "neglect_10705_1",
             "desc": "Idle",
-            "dlg": "Hmph. Done playing around with me?"
+            "dlg": "Hmf. Benimle uğraşmayı bıraktın mı?"
         },
         {
             "id": "gacksung_10705_1",
@@ -58,7 +58,7 @@
         {
             "id": "formation_10705_1",
             "desc": "Deployment",
-            "dlg": "...For a free world."
+            "dlg": "...Özgür bir dünya için."
         },
         {
             "id": "battleentry_10705_1",
@@ -68,7 +68,7 @@
         {
             "id": "battle_select_10705_1",
             "desc": "Viewed in Battle",
-            "dlg": "...What?"
+            "dlg": "...Ne?"
         },
         {
             "id": "battle_endcommand_10705_1",
@@ -83,7 +83,7 @@
         {
             "id": "battle_break_10705_1",
             "desc": "Staggered",
-            "dlg": "Dammit!"
+            "dlg": "Kahretsin!"
         },
         {
             "id": "battle_kill_10705_1",
@@ -118,7 +118,7 @@
         {
             "id": "battle_defeat_10705_1",
             "desc": "Defeat Wail",
-            "dlg": "Tch... Failed again. You gonna throw me away?"
+            "dlg": "Cık... Yine başarısızlık. Beni kenara atcak mısın?"
         }
     ]
 }
