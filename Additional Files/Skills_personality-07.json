@@ -640,7 +640,7 @@
         {
           "level": 1,
           "name": "Şarj",
-          "desc": "[WhenUse] +3 [Charge] Miktarı kazan (Her turda 1 kere)",
+          "desc": "[WhenUse] +3 [Charge] Miktarı kazan (Turda 1 kere)",
           "coinlist": [
             {}
           ]
@@ -648,7 +648,7 @@
         {
           "level": 4,
           "name": "Şarj",
-          "desc": "[WhenUse] +3 [Charge] Miktarı kazan (Her turda <style=\"highlight\">2 times</style> kere)",
+          "desc": "[WhenUse] +3 [Charge] Miktarı kazan (Turda <style=\"highlight\">2 times</style> kere)",
           "coinlist": [
             {}
           ]
@@ -850,7 +850,7 @@
         {
           "level": 1,
           "name": "Ey Dullahan...!",
-          "desc": "[DuelCounter]\n[StartBattle] Eğer bu Günahkarda [NightPathfinding] yoksa, sonraki tur 1 [NightPathfinding] kazan (Her turda bir kere)\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
+          "desc": "[DuelCounter]\n[StartBattle] Eğer bu Günahkarda [NightPathfinding] yoksa, sonraki tur 1 [NightPathfinding] kazan (Turda bir kere)\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
           "coinlist": [
             {},
             {
@@ -865,7 +865,7 @@
         {
           "level": 3,
           "name": "Ey Dullahan...!",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Ağıt, Yas ve Umutsuzluk'u kullan. (Her turda bir kere)</style>\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki tur 1 [NightPathfinding] kazan (Her turda bir kere)\n<style=\"highlight\">[WhenUse] Hedefte 6+ [Sinking] varsa, Jeton Gücü +1</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]ı kaybet",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Ağıt, Yas ve Umutsuzluk'u kullan. (Turda bir kere)</style>\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki tur 1 [NightPathfinding] kazan (Turda bir kere)\n<style=\"highlight\">[WhenUse] Hedefte 6+ [Sinking] varsa, Jeton Gücü +1</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]ı kaybet",
           "coinlist": [
             {},
             {
@@ -880,7 +880,7 @@
         {
           "level": 4,
           "name": "Ey Dullahan...!",
-          "desc": "[DuelCounter]\n[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Yas, Matem ve Umutsuzluk'u kullan. (Turda bir kere)\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki tur 1 [NightPathfinding] kazan (Her turda bir kere)\n[WhenUse] Hedefteki her 3 [Sinking]için <style=\"highlight\">Jeton Gücü +1 (En Fazla 2)</style>\n<style=\"highlight\">[WinDuel] Sonraki tur (# Çarpışma Sayısı/3) 'e eşit [AttackUp] kazan (En fazla 3, her turda bir kere)</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]ı kaybet",
+          "desc": "[DuelCounter]\n[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Yas, Matem ve Umutsuzluk'u kullan. (Turda bir kere)\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki tur 1 [NightPathfinding] kazan (Turda bir kere)\n[WhenUse] Hedefteki her 3 [Sinking]için <style=\"highlight\">Jeton Gücü +1 (En Fazla 2)</style>\n<style=\"highlight\">[WinDuel] Sonraki tur (# Çarpışma Sayısı/3) 'e eşit [AttackUp] kazan (En fazla 3, turda 1 kere)</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]ı kaybet",
           "coinlist": [
             {},
             {
@@ -1058,7 +1058,7 @@
         {
           "level": 2,
           "name": "Ateşe Karşılık",
-          "desc": "[WhenUse] +2 [Breath] Miktarı kazan\n<style=\"highlight\">[WhenUse] Sonraki tur 2 [Agility] kazan (Her turda bir kere)</style>",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan\n<style=\"highlight\">[WhenUse] Sonraki tur 2 [Agility] kazan (Turda 1 kere)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1089,7 +1089,7 @@
         {
           "level": 4,
           "name": "Ateşe Karşılık",
-          "desc": "[WhenUse] +2 [Breath] Miktarı kazan\n[WhenUse] Sonraki tur <style=\"highlight\">2</style> [Agility] kazan (Her turda bir kere)",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan\n[WhenUse] Sonraki tur <style=\"highlight\">2</style> [Agility] kazan (Turda 1 kere)",
           "coinlist": [
             {
               "coindescs": [
@@ -1142,7 +1142,7 @@
         {
           "level": 2,
           "name": "Tam Kafaya İsabet",
-          "desc": "<style=\"highlight\">Eğer Günahkarın hızı hedeften hızlıysa, her 1 Hız farkı için +10% daha fazla hasar uygula (En fazla 30%)</style>\n[WhenUse]  3 [Breath] ve +1 [Breath] Miktarı kazan\n<style=\"highlight\">[WhenUse] Sonraki tur 2 [Agility] kazan (Her turda bir kere)</style>",
+          "desc": "<style=\"highlight\">Eğer Günahkarın hızı hedeften hızlıysa, her 1 Hız farkı için +10% daha fazla hasar uygula (En fazla 30%)</style>\n[WhenUse]  3 [Breath] ve +1 [Breath] Miktarı kazan\n<style=\"highlight\">[WhenUse] Sonraki tur 2 [Agility] kazan (Turda bir kere)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1165,7 +1165,7 @@
         {
           "level": 4,
           "name": "Tam Kafaya İsabet.",
-          "desc": "Eğer Günahkarın hızı hedeften hızlıysa, her 1 Hız farkı için +10% daha fazla hasar uygula (En fazla 50%)</style>\n[WhenUse] 3 [Breath] ve <style=\"highlight\">2</style> [Breath] Miktarı kazan\n[WhenUse] Sonraki tur 2 [Agility] kazan (Her turda bir kere)",
+          "desc": "Eğer Günahkarın hızı hedeften hızlıysa, her 1 Hız farkı için +10% daha fazla hasar uygula (En fazla 50%)</style>\n[WhenUse] 3 [Breath] ve <style=\"highlight\">2</style> [Breath] Miktarı kazan\n[WhenUse] Sonraki tur 2 [Agility] kazan (Turda bir kere)",
           "coinlist": [
             {
               "coindescs": [
@@ -1241,7 +1241,7 @@
         {
           "level": 1,
           "name": "Savaş Duruşu",
-          "desc": "Tur Başında: 0 Mermideyken bu yetenek yerine 'Siper Alma'yı kullan\n[WhenUse] Eğer Full-Stop Ofis Temsilcisi Hong Lu savaş alanındaysa, ondan [MeleeCover] iste (Elde 1 kere)\n[EndBattle] Sonraki tur 1 [LogicAtelierAM] kazan (Her turda 1 kere)",
+          "desc": "Tur Başında: 0 Mermideyken bu yetenek yerine 'Siper Alma'yı kullan\n[WhenUse] Eğer Full-Stop Ofis Temsilcisi Hong Lu savaş alanındaysa, ondan [MeleeCover] iste (Elde 1 kere)\n[EndBattle] Sonraki tur 1 [LogicAtelierAM] kazan (Turda 1 kere)",
           "coinlist": [
             {
               "coindescs": []
@@ -1251,7 +1251,7 @@
         {
           "level": 4,
           "name": "Savaş Duruşu",
-          "desc": "Tur Başında: 0 Mermideyken bu yetenek yerine 'Siper Alma'yı kullan\n[WhenUse] Eğer Full-Stop Ofis Temsilcisi Hong Lu savaş alanındaysa, ondan [MeleeCover] iste (Elde 1 kere)\n<style=\"highlight\">[OnSucceedEvade] 3 [Breath] kazan (Elde 3 kere)</style>\n[EndBattle] Sonraki tur 1 [LogicAtelierAM] kazan (Her turda 1 kere)",
+          "desc": "Tur Başında: 0 Mermideyken bu yetenek yerine 'Siper Alma'yı kullan\n[WhenUse] Eğer Full-Stop Ofis Temsilcisi Hong Lu savaş alanındaysa, ondan [MeleeCover] iste (Elde 1 kere)\n<style=\"highlight\">[OnSucceedEvade] 3 [Breath] kazan (Elde 3 kere)</style>\n[EndBattle] Sonraki tur 1 [LogicAtelierAM] kazan (Turda 1 kere)",
           "coinlist": [
             {
               "coindescs": []
