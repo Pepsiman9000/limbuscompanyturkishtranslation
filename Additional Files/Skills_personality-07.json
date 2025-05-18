@@ -434,14 +434,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "40S-2 Activation",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1",
+          "name": "40S-2 Aktivasyonu",
+          "desc": "[WhenUse] +1 Jeton Gücü kazanmak için 5 [Charge] harcar",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı kazan"
                 }
               ]
             }
@@ -449,20 +449,20 @@
         },
         {
           "level": 2,
-          "name": "40S-2 Activation",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+          "name": "40S-2 Aktivasyonu",
+          "desc": "[WhenUse] +1<style=\"highlight\"></style> Jeton Gücü kazanmak için 5 [Charge] harcar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain +2 [Charge] Count</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] +2 [Charge] Miktarı kazan</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı kazan<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -470,20 +470,20 @@
         },
         {
           "level": 4,
-          "name": "40S-2 Activation",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+          "name": "40S-2 Aktivasyonu",
+          "desc": "[WhenUse] +1<style=\"highlight\"></style> Jeton Gücü kazanmak için 5 [Charge] harcar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı<style=\"highlight\"></style> kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı kazan<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -496,15 +496,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Photoelectric Mark",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1",
+          "name": "Fotoelektrik Damga",
+          "desc": "[WhenUse] 5~9 [Charge] Miktarı'nda, [Charge] Miktarı'nı 10'a çıkarmak için 2(10 - şuanki [Charge] Miktarı)% HP harca\n[WhenUse] +1 Jeton Gücü kazanmak için 10 [Charge] Miktarı harca",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max 2)"
+                  "desc": "[OnSucceedAttack] Hedefe, [Charge]'a eşit (En fazla 2) [PhotoElectricity] uygula"
                 }
               ]
             }
@@ -512,24 +512,24 @@
         },
         {
           "level": 2,
-          "name": "Photoelectric Mark",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+          "name": "Fotoelektrik Damga",
+          "desc": "5~9 [Charge] Miktarı'nda, [Charge] Miktarı'nı 10'a çıkarmak için 2(10 - şuanki [Charge] Miktarı)% HP harca\n[WhenUse] +1<style=\"highlight\"></style> Jeton Gücü +1 kazanmak için 10 [Charge] Miktarı harca",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this unit consumed [Charge] Count, inflict 2 [DefenseDown]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Eğer bu birim [Charge] Miktarı harcarsa, hedefe 2 [DefenseDown]</style> uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [TakeHpHealReduce]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Hedefe 1 [TakeHpHealReduce]</style> uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max <style=\"highlight\">3</style>)"
+                  "desc": "[OnSucceedAttack] Hedefe, [Charge]'a eşit (En fazla <style=\"highlight\">3</style>) [PhotoElectricity] uygula"
                 }
               ]
             }
@@ -537,8 +537,8 @@
         },
         {
           "level": 4,
-          "name": "Photoelectric Mark",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power <style=\"highlight\">+2</style>",
+          "name": "Fotoelektrik Damga",
+          "desc": "[WhenUse] 5~9 [Charge] Miktarı'nda, [Charge] Miktarı'nı 10'a çıkarmak için 2(10 - şuanki [Charge] Miktarı)% HP harca\n[WhenUse] Jeton Gücü <style=\"highlight\">+2</style> kazanmak için 10 [Charge] Miktarı harca",
           "coinlist": [
             {
               "coindescs": [
@@ -550,17 +550,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit consumed [Charge] Count, inflict 2 [DefenseDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Eğer bu birim [Charge] Miktarı harcarsa, hedefe 2 [DefenseDown]<style=\"highlight\"></style> uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [TakeHpHealReduce]"
+                  "desc": "[OnSucceedAttack] Hedefe <style=\"highlight\">2</style> [TakeHpHealReduce] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Hedefe, [Charge]'a eşit [PhotoElectricity] (En fazla 3)<style=\"highlight\"></style> uygula"
                 }
               ]
             }
@@ -573,28 +573,28 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Photoelectric Harpoon",
-          "desc": "At 2+ [Charge], Coin Power +1",
+          "name": "Fotoelektrik Zıpkın",
+          "desc": "2+ [Charge]'da, Jeton Gücü +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +5 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +5 [Charge] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] x 3) [Charge] Count (max 9)"
+                  "desc": "[OnSucceedAttack] +([Charge] x 3) kadar [Charge] Miktarı kazan (En fazla 9)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max 3)"
+                  "desc": "[OnSucceedAttack] Hedefe [Charge]'a eşit [PhotoElectricity] uygula (En fazla 3)"
                 }
               ]
             }
@@ -602,31 +602,31 @@
         },
         {
           "level": 4,
-          "name": "Photoelectric Harpoon",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 2 [Charge] on self (max 2)</style>",
+          "name": "Fotoelektrik Zıpkın",
+          "desc": "Birimdeki her 2 [Charge için] <style=\"highlight\">Jeton Gücü +1 (En fazla 2)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">7</style> [Charge] Count"
+                  "desc": "[OnSucceedAttack] +<style=\"highlight\">7</style> [Charge] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] x 3) [Charge] Count (max 9)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +([Charge] x 3) [Charge] Miktarı kazan (En fazla 9)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Hedefe [Charge]'a eşit [PhotoElectricity] uygula (En fazla 3)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [HitTakeDamageUp] for every 2 [Charge] (max 2)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Hedefe, her 2 [Charge] için 1 [HitTakeDamageUp] uygula (En fazla 2)</style>"
                 }
               ]
             }
@@ -639,16 +639,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge",
-          "desc": "[WhenUse] Gain +3 [Charge] Count (once per turn)",
+          "name": "Şarj",
+          "desc": "[WhenUse] +3 [Charge] Miktarı kazan (Her elde 1 kere)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Charge",
-          "desc": "[WhenUse] Gain +3 [Charge] Count (<style=\"highlight\">2 times</style> per turn)",
+          "name": "Şarj",
+          "desc": "[WhenUse] +3 [Charge] Miktarı kazan (Her elde <style=\"highlight\">2 times</style> kere)",
           "coinlist": [
             {}
           ]
@@ -667,7 +667,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[Hedefi Vurunca] Hedefe 2 [Batış] uygula"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] uygula"
                 }
               ]
             }
@@ -676,13 +676,13 @@
         {
           "level": 2,
           "name": "Kelle Uçurma",
-          "desc": "[WhenUse] Eğer hedefte 6+ [Sinking] varsa, Çarpışma Gücü +1\n<style=\"highlight\">[Kullanıldığında] Eğer hedefte 3+ [Sinking] Miktarı varsa, Jeton Gücü +1</style>",
+          "desc": "[WhenUse] Eğer hedefte 6+ [Sinking] varsa, Çarpışma Gücü +1\n<style=\"highlight\">[OnUse] Eğer hedefte 3+ [Sinking] Miktarı varsa, Jeton Gücü +1</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefe 2 [Batış] uygula"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Sinking] uygula"
                 }
               ]
             }
@@ -736,7 +736,7 @@
         {
           "level": 2,
           "name": "Anma Töreni",
-          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, Jeton Gücü +1\n<style=\"highlight\">[WhenUse] Eğer bu Günahkarda 4+ [Coffin] varsa, Saldırı Ağırlığı +1\n[Kullanıldığında] Eğer bu Günahkarda [NightPathfinding] varsa, Saldırı Ağırlığı +1</style>\n[Kullanım Sonrası] Eğer bu Günahkarda [NightPathfinding] varsa, 10 SP kaybet",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, Jeton Gücü +1\n<style=\"highlight\">[WhenUse] Eğer bu Günahkarda 4+ [Coffin] varsa, Saldırı Ağırlığı +1\n[OnUse] Eğer bu Günahkarda [NightPathfinding] varsa, Saldırı Ağırlığı +1</style>\n[EndSkill] Eğer bu Günahkarda [NightPathfinding] varsa, 10 SP kaybet",
           "coinlist": [
             {},
             {
@@ -865,7 +865,7 @@
         {
           "level": 3,
           "name": "Ey Dullahan...!",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Ağıt, Yas ve Umutsuzluk'u kullan. (Elde bir kere)</style>\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki tur 1 [NightPathfinding] kazan (her elde bir kere)\n<style=\"highlight\">[WhenUse] Hedefte 6+ [Sinking] varsa, Jeton Gücü +1</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Ağıt, Yas ve Umutsuzluk'u kullan. (Her elde bir kere)</style>\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki tur 1 [NightPathfinding] kazan (her elde bir kere)\n<style=\"highlight\">[WhenUse] Hedefte 6+ [Sinking] varsa, Jeton Gücü +1</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]ı kaybet",
           "coinlist": [
             {},
             {
@@ -880,7 +880,7 @@
         {
           "level": 4,
           "name": "Ey Dullahan...!",
-          "desc": "[DuelCounter]\n[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Yas, Matem ve Umutsuzluk'u kullan. (Elde bir kere)\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki tur 1 [NightPathfinding] kazan (her elde bir kere)\n[WhenUse] Hedefteki her 3 [Sinking]için <style=\"highlight\">Jeton Gücü +1 (En Fazla 2)</style>\n<style=\"highlight\">[WinDuel] Sonraki tur (# Çarpışma Sayısı/3) 'e eşit [AttackUp] kazan (En fazla 3, elde bir kere)</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]i kaybet",
+          "desc": "[DuelCounter]\n[BeforeUse] Eğer bu Günahkarda [NightPathfinding] ve 15+ SP varsa, Yas, Matem ve Umutsuzluk'u kullan. (Elde bir kere)\n[StartBattle] Eğer Günahkarda [NightPathfinding] yoksa, sonraki tur 1 [NightPathfinding] kazan (her elde bir kere)\n[WhenUse] Hedefteki her 3 [Sinking]için <style=\"highlight\">Jeton Gücü +1 (En Fazla 2)</style>\n<style=\"highlight\">[WinDuel] Sonraki tur (# Çarpışma Sayısı/3) 'e eşit [AttackUp] kazan (En fazla 3, elde bir kere)</style>\n[EndBattle] Eğer bu Günahkarda [NightPathfinding] varsa, [NightPathfinding]ı kaybet",
           "coinlist": [
             {},
             {
@@ -900,7 +900,7 @@
         {
           "level": 3,
           "name": "Ağıt, Yas ve Umutsuzluk",
-          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla 2)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar uygula (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +7% daha fazla hasar uygula (En fazla 70%)\n[WhenUse] Kendindeki her [NightPathfinding] için +10% daha fazla hasar uygula (En fazla 30%)\n[WhenUse] 1 [Coffin] elde et\n[EndSkill] Eğer bu saldırı hedefi öldürürse, 2 [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir (Her kayıp SP için 1 SP; En fazla 25)\n[EndBattle] Lose [NightPathfinding]",
+          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla 2)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar uygula (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +7% daha fazla hasar uygula (En fazla 70%)\n[WhenUse] Kendindeki her [NightPathfinding] için +10% daha fazla hasar uygula (En fazla 30%)\n[WhenUse] 1 [Coffin] elde et\n[EndSkill] Eğer bu saldırı hedefi öldürürse, 2 [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir (Her kayıp SP için 1 SP; En fazla 25)\n[EndBattle] [NightPathfinding]'ı kaybet",
           "coinlist": [
             {
               "coindescs": [
@@ -930,7 +930,7 @@
         {
           "level": 4,
           "name": "Ağıt, Yas ve Umutsuzluk",
-          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla <style=\"highlight\">4</style>)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar uygula (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +<style=\"highlight\">10</style>% daha fazla hasar uygula (En fazla <style=\"highlight\">100</style>%)\n[WhenUse] Günahkardaki her [NightPathfinding] için +<style=\"highlight\">20</style>% daha fazla hasar uygula (En fazla <style=\"highlight\">60</style>%)\n[WhenUse] <style=\"highlight\">2</style> [Coffin] kazan\n[EndSkill] Eğer bu saldırı hedefi öldürürse, <style=\"highlight\">3</style> [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir ( <style=\"highlight\">2</style> her kayıp SP için ekstra 10 SP iyileştir; en fazla <style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding] 'i kaybet",
+          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla <style=\"highlight\">4</style>)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar uygula (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +<style=\"highlight\">10</style>% daha fazla hasar uygula (En fazla <style=\"highlight\">100</style>%)\n[WhenUse] Günahkardaki her [NightPathfinding] için +<style=\"highlight\">20</style>% daha fazla hasar uygula (En fazla <style=\"highlight\">60</style>%)\n[WhenUse] <style=\"highlight\">2</style> [Coffin] kazan\n[EndSkill] Eğer bu saldırı hedefi öldürürse, <style=\"highlight\">3</style> [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir ( <style=\"highlight\">2</style> her kayıp SP için ekstra 10 SP iyileştir; en fazla <style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding]'ı kaybet",
           "coinlist": [
             {
               "coindescs": [
@@ -965,7 +965,7 @@
         {
           "level": 3,
           "name": "Ağıt, Yas ve Umutsuzluk",
-          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla 2)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar uygula (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +7% daha fazla hasar uygula (En fazla 70%)\n[WhenUse] Kendindeki her [NightPathfinding] için +10% daha fazla hasar uygula (En fazla 30%)\n[WhenUse] 1 [Coffin] elde et\n[EndSkill] Eğer bu saldırı hedefi öldürürse, 2 [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir (Her kayıp SP için 1 SP; En fazla 25)\n[EndBattle] Lose [NightPathfinding]",
+          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla 2)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar uygula (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +7% daha fazla hasar uygula (En fazla 70%)\n[WhenUse] Kendindeki her [NightPathfinding] için +10% daha fazla hasar uygula (En fazla 30%)\n[WhenUse] 1 [Coffin] elde et\n[EndSkill] Eğer bu saldırı hedefi öldürürse, 2 [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir (Her kayıp SP için 1 SP; En fazla 25)\n[EndBattle] [NightPathfinding]'ı kaybet",
           "coinlist": [
             {
               "coindescs": [
@@ -995,7 +995,7 @@
         {
           "level": 4,
           "name": "Ağıt, Yas ve Umutsuzluk",
-          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla <style=\"highlight\">4</style>)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar uygula (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +<style=\"highlight\">10</style>% daha fazla hasar uygula (En fazla <style=\"highlight\">100</style>%)\n[WhenUse] Günahkardaki her [NightPathfinding] için +<style=\"highlight\">20</style>% daha fazla hasar uygula (En fazla <style=\"highlight\">60</style>%)\n[WhenUse] <style=\"highlight\">2</style> [Coffin] kazan\n[EndSkill] Eğer bu saldırı hedefi öldürürse, <style=\"highlight\">3</style> [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir ( <style=\"highlight\">2</style> her kayıp SP için ekstra 10 SP iyileştir; en fazla <style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding] 'i kaybet",
+          "desc": "[WhenUse] 15 SP kaybet\n[WhenUse] Hedefteki her 5 [Sinking] için Temel Güç +1 (En fazla <style=\"highlight\">4</style>)\n[WhenUse] Günahkarın SP'si 45'ten ne kadar uzaksa o kadar çok hasar uygula (Her kayıp SP için +0.3%, en fazla 21%)\n[WhenUse] Günahkardaki her Tabut için +<style=\"highlight\">10</style>% daha fazla hasar uygula (En fazla <style=\"highlight\">100</style>%)\n[WhenUse] Günahkardaki her [NightPathfinding] için +<style=\"highlight\">20</style>% daha fazla hasar uygula (En fazla <style=\"highlight\">60</style>%)\n[WhenUse] <style=\"highlight\">2</style> [Coffin] kazan\n[EndSkill] Eğer bu saldırı hedefi öldürürse, <style=\"highlight\">3</style> [Coffin] kazan\n[EndSkill] 0 SP'nin altındayken, 10 SP iyileştir. 0 SP'nin altına ne kadar inerse, 0'dan uzaklığı kadar çok SP iyileştir ( <style=\"highlight\">2</style> her kayıp SP için ekstra 10 SP iyileştir; en fazla <style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding]'ı kaybet",
           "coinlist": [
             {
               "coindescs": [
