@@ -482,7 +482,7 @@
         {
           "level": 1,
           "name": "Onların Kemiklerini Alabileyim",
-          "desc": "[BeforeAttack] At 10+ [Breath], Atk Weight +1\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking damage\n[WhenUse] Deal +2% more damage on Critical Hit for every Poise Potency on self (Max 50%)\n+20% Damage on Critical Hit\nDeal +0.5% more damage for every 1% missing HP on self (Max 25%)",
+          "desc": "[BeforeAttack] Kendindeki 10+ [Breath] için, Atk Weight +1'e katlanır\n[WhenUse] Bu Yetenek sona erene kadar,bu unit hasar almaktan sersemleyemez\n[WhenUse] Kendindeki her bir Nefes Şiddeti için Kritik Vurduğunda +%2 daha fazla hasar ver (Maks 50%)\nKritik Vurduğunda +20% Hasar\nKendindeki her %1 eksik Can için +%0.5 daha fazla hasar ver (Maks %25)",
           "coinlist": [
             {},
             {},
@@ -502,7 +502,7 @@
         {
           "level": 4,
           "name": "Onların Kemiklerini Alabileyim",
-          "desc": "<style=\"highlight\">[BeforeAttack] For every 7 [Breath] on self, Atk Weight +1 (Max +2)</style>\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking damage\n[WhenUse] Deal +2% more damage on Critical Hit for every Poise Potency on self (Max 50%)\n+<style=\"highlight\">30</style>% Damage on Critical Hit\nDeal +0.5% more damage for every 1% missing HP on self (Max 25%)\n<style=\"highlight\">If this Skill targets only a single enemy, deal +100% more damage (In Focused Encounters, a single Part)</style>",
+          "desc": "<style=\"highlight\">[BeforeAttack] Kendindeki her 7+ [Breath] için, Atk Weight +1'e katlanır (Maks +2)</style>\n[WhenUse] Bu Yetenek sona erene kadar,bu unit hasar almaktan sersemleyemez\n[WhenUse] Kendindeki her bir Nefes Şiddeti için Kritik Vurduğunda +%2 daha fazla hasar ver (Maks 50%)\n+<style=\"highlight\">30</style>% Kritik Vurduğunda\nKendindeki her %1 eksik Can için +%0.5 daha fazla hasar ver (Maks %25)\n<style=\"highlight\">Eğer bu Yetenek yalnızca tek bir düşmanı hedef alıyorsa, +100% daha fazla hasar ver (Odaklı Karşılaşmalarda tek bir Uzuv).</style>",
           "coinlist": [
             {},
             {},
