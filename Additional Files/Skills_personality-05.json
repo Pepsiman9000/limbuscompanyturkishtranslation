@@ -309,7 +309,7 @@
         {
           "level": 4,
           "name": "Kılıcın Çekilişi",
-          "desc": "<style=\"highlight\">unit 5+ [Breath] bulunduruyorsa, Jeton Gücü +1'e Katlanır </style>\n[StartBattle] (En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 tane [BladeResultUpTier1] uygula\n<style=\"highlight\">-Eğer Karşılaşmada 6 veya daha fazla müttefik Kılıç Soyu Kişiliği varsa, bunun yerine 2 Uygula</style>\n[WhenUse] +2 [Breath] Miktarı Kazan",
+          "desc": "<style=\"highlight\">5+ [Breath] bulunduruyorsa, Jeton Gücü +1'e Katlanır </style>\n[StartBattle] (En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 tane [BladeResultUpTier1] uygula\n<style=\"highlight\">-Eğer Karşılaşmada 6 veya daha fazla müttefik Kılıç Soyu Kişiliği varsa, bunun yerine 2 Uygula</style>\n[WhenUse] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -401,7 +401,7 @@
         {
           "level": 4,
           "name": "Akupunktur",
-          "desc": "<style=\"highlight\">unit 7+ [Breath] bulunduruyorsa, Jeton Gücü +1'e Katlanır</style>\n[StartBattle] (En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 tane [BladeResultUpTier2] uygula\n<style=\"highlight\">-  Eğer Karşılaşmada 6 veya daha fazla müttefik Kılıç Soyu Kişiliği varsa, bunun yerine 2 uygula</style>\n[WhenUse] +3 [Breath] Miktarı Kazan\n[WinDuel] sıradaki tur 1 Kesme Gücü Kazan",
+          "desc": "<style=\"highlight\">7+ [Breath] bulunduruyorsa, Jeton Gücü +1'e Katlanır</style>\n[StartBattle] (En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 tane [BladeResultUpTier2] uygula\n<style=\"highlight\">-  Eğer Karşılaşmada 6 veya daha fazla müttefik Kılıç Soyu Kişiliği varsa, bunun yerine 2 uygula</style>\n[WhenUse] +3 [Breath] Miktarı Kazan\n[WinDuel] sıradaki tur 1 Kesme Gücü Kazan",
           "coinlist": [
             {
               "coindescs": [
