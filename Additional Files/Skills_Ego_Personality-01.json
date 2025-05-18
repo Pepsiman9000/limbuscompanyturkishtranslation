@@ -1,381 +1,381 @@
 {
-  "dataList": [
-    {
-      "id": 2010611,
-      "levelList": [
+    "dataList": [
         {
-          "level": 1,
-          "name": "Bygone Days",
-          "abName": "Portrait of a Certain Day",
-          "desc": "[EndSkill] Randomly inflict (6 + Gloom Reson.) [Sinking] between targets",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 2010611,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn"
+                    "level": 1,
+                    "name": "Mazide Kalan Günler",
+                    "abName": "Belirli Bir Günün Portresi",
+                    "desc": "[EndSkill] Hedefler arasında rastgele (6 + Kasvet Rezon.) [Sinking] uygular",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Sinking] varsa, sonraki tur 1 [Binding] uygular"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Mazide Kalan Günler",
+                    "abName": "Belirli Bir Günün Portresi",
+                    "desc": "[EndSkill] Hedefler arasında rastgele (6 + Kasvet Rezon.) [Sinking] uygular",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Sinking] varsa, sonraki tur 2 [Binding] uygular"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Mazide Kalan Günler",
+                    "abName": "Belirli Bir Günün Portresi",
+                    "desc": "[EndSkill] Hedefler arasında rastgele (6 + (<style=\"highlight\">Kasvet Rezon. x1.5</style>)) [Sinking] uygular",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Sinking] varsa, sonraki tur 2 [Binding] uygular"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
         },
         {
-          "level": 3,
-          "name": "Bygone Days",
-          "abName": "Portrait of a Certain Day",
-          "desc": "[EndSkill] Randomly inflict (6 + Gloom Reson.) [Sinking] between targets",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 2010621,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn"
+                    "level": 1,
+                    "name": "Mazide Kalan Günler",
+                    "abName": "Belirli Bir Günün Portresi",
+                    "desc": "[CantIdentify]\nHedeflere rastgele",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 2 [Sinking] uygular. Sonraki tur 2 [Binding] uygular"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Sinking] varsa, sonraki tur 1 [Binding] uygular"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Mazide Kalan Günler",
+                    "abName": "Belirli Bir Günün Portresi",
+                    "desc": "[CantIdentify]\nHedeflere rastgele\n[BeforeAttack] 3+ (Kasvet Rezon.) durumunda, Saldırı Ağırlığı +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 2 [Sinking] uygular. Sonraki tur 2 [Binding] uygular"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Sinking] varsa, sonraki tur 1 [Binding] uygular"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Mazide Kalan Günler",
+                    "abName": "Belirli Bir Günün Portresi",
+                    "desc": "[CantIdentify]\nHedeflere rastgele\n[BeforeAttack] 3+ (Kasvet Rezon.) durumunda, Saldırı Ağırlığı +1\n[BeforeAttack] 5+ (Kasvet Rezon.) durumunda, ek Saldırı Ağırlığı +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 2 [Sinking] uygular. Sonraki tur 2 [Binding] uygular"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Sinking] varsa, sonraki tur 2 [Binding] uygular"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
         },
         {
-          "level": 4,
-          "name": "Bygone Days",
-          "abName": "Portrait of a Certain Day",
-          "desc": "[EndSkill] Randomly inflict (6 + (<style=\"highlight\">Gloom Reson. x1.5</style>)) [Sinking] between targets",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 2010711,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn"
+                    "level": 1,
+                    "name": "Lanetli Mühimmat",
+                    "abName": "Der Fluchschütze",
+                    "desc": "En az HP'ye sahip hedefleri önceliklendirir (DIKKAT müttefikleri önceliklendirir)\n[BeforeAttack] (en yüksek Rezonans + 1) kadar [BoseProjektil] kazanır (maksimum 7)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazanır (maksimum 7)\n[EndSkill] Tüm [BoseProjektil]leri kaybeder",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Bu Jeton sadece ana hedefe hasar verir."
+                                },
+                                {
+                                    "desc": "Ana hedef bir müttefik ise, her [BoseProjektil] için +%8 daha fazla hasar verir (maksimum %56)"
+                                },
+                                {
+                                    "desc": "[AllyKill] Kendine ve 2 rastgele müttefiğe 2 [Breath] uygular"
+                                },
+                                {
+                                    "desc": "[AllyKillFail] 1 [Breath] kazanır"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Bu Jeton sadece yan hedeflere hasar verir\n- Eğer ilk Jeton müttefiki öldüremezse, 1 rastgele yan hedef hasar alır"
+                                },
+                                {
+                                    "desc": "Her [BoseProjektil] için Kritik Vuruşta +%2 hasar (maksimum %14)"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] 2 [Laceration] uygular"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lanetli Mühimmat",
+                    "abName": "Der Fluchschütze",
+                    "desc": "En az HP'ye sahip hedefleri önceliklendirir (DIKKAT müttefikleri önceliklendirir)\n[BeforeAttack] (en yüksek Rezonans + 1) kadar [BoseProjektil] kazanır (maksimum 7)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazanır (maksimum 7)\n[EndSkill] Tüm [BoseProjektil]leri kaybeder<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Bu Jeton sadece ana hedefe hasar verir.<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "Ana hedef bir müttefik ise, her [BoseProjektil] için <style=\"highlight\">+%10</style> daha fazla hasar (maksimum <style=\"highlight\">%70</style>)"
+                                },
+                                {
+                                    "desc": "[AllyKill] Kendine ve 2 rastgele müttefiğe <style=\"highlight\">3</style> [Breath] uygular<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[AllyKill] Ölen müttefiğin Yetenek 1 Türü için +1 E.G.O kaynağı</style>"
+                                },
+                                {
+                                    "desc": "[AllyKillFail] <style=\"highlight\">3</style> [Breath] kazanır"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Bu Jeton sadece yan hedeflere hasar verir\n- Eğer ilk Jeton müttefiki öldüremezse, 1 rastgele yan hedef hasar alır<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">Her [BoseProjektil] için Kritik Vuruşta +%5 hasar (maksimum %35)</style>"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] 2 [Laceration] uygular<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Lanetli Mühimmat",
+                    "abName": "Der Fluchschütze",
+                    "desc": "En az HP'ye sahip hedefleri önceliklendirir (DIKKAT müttefikleri önceliklendirir)\n[BeforeAttack] (en yüksek Rezonans + 1) kadar [BoseProjektil] kazanır (maksimum 7)\n<style=\"highlight\">- Eğer bu Rezonans bir Pride Rezonansı ise, (en yüksek Rezonans x 2) kadar [BoseProjektil] kazanır (maksimum 7)</style>\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazanır (maksimum 7)\n[EndSkill] Tüm [BoseProjektil]leri kaybeder",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Bu Jeton sadece ana hedefe hasar verir.<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "Ana hedef bir müttefik ise, her [BoseProjektil] için <style=\"highlight\">+%15</style> daha fazla hasar (maksimum <style=\"highlight\">%105</style>)"
+                                },
+                                {
+                                    "desc": "[AllyKill] Kendine ve 2 rastgele müttefiğe <style=\"highlight\">3</style> [Breath] uygular<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[AllyKill] Ölen müttefiğin Yetenek 1 ve 2 Türleri için +1 E.G.O kaynağı</style>"
+                                },
+                                {
+                                    "desc": "[AllyKillFail] <style=\"highlight\">3</style> [Breath] kazanır"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Bu Jeton sadece yan hedeflere hasar verir\n- Eğer ilk Jeton müttefiki öldüremezse, 1 rastgele yan hedef hasar alır<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">Her [BoseProjektil] için Kritik Vuruşta +%9 hasar (maksimum %63)</style>"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] <style=\"highlight\">3</style> [Laceration] uygular"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
+        },
+        {
+            "id": 2010721,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lanetli Mühimmat",
+                    "abName": "Der Fluchschütze",
+                    "desc": "[CantIdentify]\nEn az HP'ye sahip hedefleri önceliklendirir (DIKKAT müttefikleri önceliklendirir)\n[BeforeAttack] (en yüksek Rezonans + 1) kadar [BoseProjektil] kazanır (maksimum 7)\n[BeforeAttack] Her [BoseProjektil] için +%2 daha fazla hasar (maksimum %14)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazanır (maksimum 7)\n[EndSkill] Tüm [BoseProjektil]leri kaybeder",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Bu Jeton sadece ana hedefe hasar verir."
+                                },
+                                {
+                                    "desc": "Ana hedef bir müttefik ise, her [BoseProjektil] için +%10 daha fazla hasar (maksimum %70)"
+                                },
+                                {
+                                    "desc": "Ana hedef bir müttefik ise, kendindeki her [Breath] için +%2 daha fazla hasar (maksimum %50)"
+                                },
+                                {
+                                    "desc": "[AllyKill] Kendine ve 3 rastgele müttefiğe 2 [Breath] uygular"
+                                },
+                                {
+                                    "desc": "[AllyKill] Sonraki Jeton her [BoseProjektil] için +%2 daha fazla hasar verir (maksimum %14)"
+                                },
+                                {
+                                    "desc": "[AllyKill] Ölen müttefiğin Yetenek 1 ve 2 Türleri için +1 E.G.O kaynağı"
+                                },
+                                {
+                                    "desc": "[AllyKillFail] 1 [Breath] kazanır"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Bu Jeton sadece yan hedeflere hasar verir\n- Eğer ilk Jeton müttefiki öldüremezse, 1 rastgele yan hedef hasar alır"
+                                },
+                                {
+                                    "desc": "Her [BoseProjektil] için Kritik Vuruşta +%2 hasar (maksimum %14)"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] 3 [Laceration] uygular"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lanetli Mühimmat",
+                    "abName": "Der Fluchschütze",
+                    "desc": "[CantIdentify]\nEn az HP'ye sahip hedefleri önceliklendirir (DIKKAT müttefikleri önceliklendirir)\n[BeforeAttack] (en yüksek Rezonans + 1) kadar [BoseProjektil] kazanır (maksimum 7)\n[BeforeAttack] Her [BoseProjektil] için <style=\"highlight\">+%3</style> daha fazla hasar (maksimum <style=\"highlight\">%21</style>)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazanır (maksimum 7)\n[EndSkill] Tüm [BoseProjektil]leri kaybeder",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Bu Jeton sadece ana hedefe hasar verir.<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "Ana hedef bir müttefik ise, her [BoseProjektil] için <style=\"highlight\">+%12</style> daha fazla hasar (maksimum <style=\"highlight\">%84</style>)"
+                                },
+                                {
+                                    "desc": "Ana hedef bir müttefik ise, kendindeki her [Breath] için +%2 daha fazla hasar (maksimum %50)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[AllyKill] Kendine ve <style=\"highlight\">3</style> rastgele müttefiğe 3 [Breath] uygular"
+                                },
+                                {
+                                    "desc": "[AllyKill] Sonraki Jeton her [BoseProjektil] için <style=\"highlight\">+%5</style> daha fazla hasar verir (maksimum <style=\"highlight\">%35</style>)"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[AllyKill] Ölen müttefiğin Yetenek 1, 2 ve 3 Türleri için +1 E.G.O kaynağı</style>"
+                                },
+                                {
+                                    "desc": "[AllyKillFail] <style=\"highlight\">2</style> [Breath] kazanır"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Bu Jeton sadece yan hedeflere hasar verir\n- Eğer ilk Jeton müttefiki öldüremezse, 1 rastgele yan hedef hasar alır<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">Her [BoseProjektil] için Kritik Vuruşta +%3 hasar (maksimum %21)</style>"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] <style=\"highlight\">4</style> [Laceration] uygular"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Lanetli Mühimmat",
+                    "abName": "Der Fluchschütze",
+                    "desc": "[CantIdentify]\nEn az HP'ye sahip hedefleri önceliklendirir (DIKKAT müttefikleri önceliklendirir)\n[BeforeAttack] (en yüksek Rezonans + 1) kadar [BoseProjektil] kazanır (maksimum 7)\n<style=\"highlight\">- Eğer bu Rezonans bir Pride Rezonansı ise, (en yüksek Rezonans x 2) kadar [BoseProjektil] kazanır (maksimum 7)</style>\n[BeforeAttack] Her [BoseProjektil] için <style=\"highlight\">+%4</style> daha fazla hasar (maksimum <style=\"highlight\">%28</style>)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazanır (maksimum 7)\n[EndSkill] Tüm [BoseProjektil]leri kaybeder",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Bu Jeton sadece ana hedefe hasar verir.<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "Ana hedef bir müttefik ise, her [BoseProjektil] için +%15 daha fazla hasar (maksimum %105)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "Ana hedef bir müttefik ise, kendindeki her [Breath] için +%2 daha fazla hasar (maksimum %50)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">Kritik Vuruşta +%30 hasar</style>"
+                                },
+                                {
+                                    "desc": "[AllyKill] Kendine ve <style=\"highlight\">4</style> rastgele müttefiğe 3 [Breath] uygular"
+                                },
+                                {
+                                    "desc": "[AllyKill] Sonraki Jeton her [BoseProjektil] için <style=\"highlight\">+%7</style> daha fazla hasar verir (maksimum <style=\"highlight\">%49</style>)"
+                                },
+                                {
+                                    "desc": "[AllyKill] Ölen müttefiğin Yetenek 1, 2 ve 3 Türleri için +1 E.G.O kaynağı<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[AllyKillFail] <style=\"highlight\">3</style> [Breath] kazanır"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Bu Jeton sadece yan hedeflere hasar verir\n- Eğer ilk Jeton müttefiki öldüremezse, 1 rastgele yan hedef hasar alır<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">Her [BoseProjektil] için Kritik Vuruşta +%4 hasar (maksimum %28)</style>"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] <style=\"highlight\">5</style> [Laceration] uygular"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": 2010621,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Bygone Days",
-          "abName": "Portrait of a Certain Day",
-          "desc": "[CantIdentify]\nTargets randomly",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
-                },
-                {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "name": "Bygone Days",
-          "abName": "Portrait of a Certain Day",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ (Gloom Reson.), Atk Weight +1",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
-                },
-                {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Bygone Days",
-          "abName": "Portrait of a Certain Day",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ (Gloom Reson.), Atk Weight +1\n[BeforeAttack] At 5+ (Gloom Reson.), additional Atk Weight +1",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
-                },
-                {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2010711,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Fell Bullet",
-          "abName": "Der Fluchschütze",
-          "desc": "Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "This Coin deals damage only against the main target."
-                },
-                {
-                  "desc": "If the main target is an ally, deal +8% more damage for every [BoseProjektil] (max 56%)"
-                },
-                {
-                  "desc": "[AllyKill] Apply 2 [Breath] to self and 2 random allies"
-                },
-                {
-                  "desc": "[AllyKillFail] Gain 1 [Breath]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage"
-                },
-                {
-                  "desc": "+2% Damage on Critical Hit for every [BoseProjektil] (max 14%)"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [Laceration]"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "name": "Fell Bullet",
-          "abName": "Der Fluchschütze",
-          "desc": "Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]<style=\"highlight\"></style>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "This Coin deals damage only against the main target.<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "If the main target is an ally, deal <style=\"highlight\">+10%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">70%</style>)"
-                },
-                {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and 2 random allies<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 Affinity</style>"
-                },
-                {
-                  "desc": "[AllyKillFail] Gain <style=\"highlight\">3</style> [Breath]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "<style=\"highlight\">+5%</style> Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">35%</style>)"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Fell Bullet",
-          "abName": "Der Fluchschütze",
-          "desc": "Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., gain (highest Reson. x 2) [BoseProjektil] instead (max 7)</style>\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "This Coin deals damage only against the main target.<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "If the main target is an ally, deal <style=\"highlight\">+15%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">105%</style>)"
-                },
-                {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and 2 random allies<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 and 2 Affinities</style>"
-                },
-                {
-                  "desc": "[AllyKillFail] Gain <style=\"highlight\">3</style> [Breath]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "<style=\"highlight\">+9%</style> Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">63%</style>)"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2010721,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Fell Bullet",
-          "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Deal +2% more damage for every [BoseProjektil] (max 14%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "This Coin deals damage only against the main target."
-                },
-                {
-                  "desc": "If the main target is an ally, deal +10% more damage for every [BoseProjektil] (max 70%)"
-                },
-                {
-                  "desc": "If the main target is an ally, deal +2% more damage for every [Breath] on self (max 50%)"
-                },
-                {
-                  "desc": "[AllyKill] Apply 2 [Breath] to self and 3 random allies"
-                },
-                {
-                  "desc": "[AllyKill] The next Coin deals +2% more damage for every [BoseProjektil] (max 14%)"
-                },
-                {
-                  "desc": "[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 and 2 Affinities"
-                },
-                {
-                  "desc": "[AllyKillFail] Gain 1 [Breath]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage"
-                },
-                {
-                  "desc": "+2% Damage on Critical Hit for every [BoseProjektil] (max 14%)"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Laceration]"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "name": "Fell Bullet",
-          "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Deal <style=\"highlight\">+3%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">21%</style>)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "This Coin deals damage only against the main target.<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "If the main target is an ally, deal <style=\"highlight\">+12%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">84%</style>)"
-                },
-                {
-                  "desc": "If the main target is an ally, deal +2% more damage for every [Breath] on self (max 50%)<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and <style=\"highlight\">3</style> random allies"
-                },
-                {
-                  "desc": "[AllyKill] The next Coin deals <style=\"highlight\">+5%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">35%</style>)"
-                },
-                {
-                  "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, and 3 Affinities</style>"
-                },
-                {
-                  "desc": "[AllyKillFail] Gain <style=\"highlight\">2</style> [Breath]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "<style=\"highlight\">+3%</style> Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">21%</style>)"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Inflict <style=\"highlight\">4</style> [Laceration]"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Fell Bullet",
-          "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., gain (highest Reson. x 2) [BoseProjektil] instead (max 7)</style>\n[BeforeAttack] Deal <style=\"highlight\">+4%</style> more damage for every [BoseProjektil] (max 28%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "This Coin deals damage only against the main target.<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "If the main target is an ally, deal +15% more damage for every [BoseProjektil] (max 105%)<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "If the main target is an ally, deal +2% more damage for every [Breath] on self (max 50%)<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "<style=\"highlight\">+30% Damage on Critical Hit</style>"
-                },
-                {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and <style=\"highlight\">4</style> random allies"
-                },
-                {
-                  "desc": "[AllyKill] The next Coin deals <style=\"highlight\">+7%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">49%</style>)"
-                },
-                {
-                  "desc": "[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, and 3 Affinities<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[AllyKillFail] Gain <style=\"highlight\">3</style> [Breath]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "<style=\"highlight\">+4% Damage on Critical Hit for every [BoseProjektil] (max 28%)</style>"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Inflict <style=\"highlight\">5</style> [Laceration]"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    ]
 }
