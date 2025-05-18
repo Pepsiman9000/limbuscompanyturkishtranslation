@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Hedefteki 2 [Combustion] durumunu 1 Savunma Seviyesi Azalmasına çevir (Maksimum 10)"
                 }
               ]
             }
@@ -22,15 +22,15 @@
           "level": 3,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1",
+          "desc": "[BeforeAttack] 4+ (En Yüksek Şehvet A-Rezonansında), Saldırı Ağırlığı +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttackHead] 3 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Hedefteki 2 [Combustion] durumunu 1 Savunma Seviyesi Azalmasına çevir (Maksimum 10)"
                 }
               ]
             }
@@ -40,15 +40,15 @@
           "level": 4,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1\nAt 6+ (Highest Lust A-Reson), additional Atk Weight +1",
+          "desc": "[BeforeAttack] 4+ (En Yüksek Şehvet A-Rezonansında), Saldırı Ağırlığı +1\n6+ (En Yüksek Şehvet A-Rezonansında), ek Saldırı Ağırlığı +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Hedefteki 2 [Combustion] durumunu 1 Savunma Seviyesi Azalmasına çevir (Maksimum 10)"
                 }
               ]
             }
@@ -63,15 +63,15 @@
           "level": 1,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nHedefler rastgele seçilir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttackTail] 4 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Hedefteki 2 [Combustion] durumunu 1 Savunma Seviyesi Azalmasına çevir (Maksimum 10)"
                 }
               ]
             }
@@ -81,18 +81,18 @@
           "level": 3,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1",
+          "desc": "[CantIdentify]\nHedefler rastgele seçilir\n[BeforeAttack] 4+ (En Yüksek Şehvet A-Rezonansında), Saldırı Ağırlığı +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttackTail] Gelecek tur için 2 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Hedefteki 2 [Combustion] durumunu 1 Savunma Seviyesi Azalmasına çevir (Maksimum 10)"
                 }
               ]
             }
@@ -102,25 +102,27 @@
           "level": 4,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1\nAt 6+ (Highest Lust A-Reson), additional Atk Weight +1",
+          "desc": "[CantIdentify]\nHedefler rastgele seçilir\n[BeforeAttack] 4+ (En Yüksek Şehvet A-Rezonansında), Saldırı Ağırlığı +1\n6+ (En Yüksek Şehvet A-Rezonansında), ek Saldırı Ağırlığı +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttackTail] Gelecek tur için 2 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Hedefteki 2 [Combustion] durumunu 1 Savunma Seviyesi Azalmasına çevir (Maksimum 10)"
                 }
               ]
             }
           ]
         }
       ]
-    },
+    }
+  ]
+},
     {
       "id": 2020611,
       "levelList": [
