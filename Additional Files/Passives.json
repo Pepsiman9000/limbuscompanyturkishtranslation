@@ -738,43 +738,43 @@
     {
       "id": 1070601,
       "name": "İçgüdüsel Okuma",
-      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.",
+      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Zayıflık>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.",
       "summary": "Bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular."
     },
     {
       "id": 1070611,
       "name": "İçgüdüsel Okuma",
-      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\nEğer bu birim dahil 4 veya daha fazla hayatta kalan birim Yedi Birliği İşçözücüleriyse, ek olarak +1 daha fazla [Burst] uygular",
+      "desc": "Bir hedefe, hedefin \"Ölümcül\" (Zayıflık>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\nEğer bu birim dahil 4 veya daha fazla hayatta kalan birim Yedi Birliği İşçözücüleriyse, ek olarak +1 daha fazla [Burst] uygular",
       "summary": "Bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular.\n4 veya daha fazla Yedi Birliği İşçözücü müttefik varsa, ek olarak +1 daha fazla [Burst] uygular."
     },
     {
       "id": 1070621,
       "name": "Noktaları Birleştir",
-      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.",
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Zayıflık>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.",
       "summary": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular."
     },
     {
       "id": 1070631,
       "name": "Noktaları Birleştir",
-      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\nEğer müttefik bir Yedi Birliği İşçözücüsüyse, ek olarak +1 daha fazla Parçalanma",
+      "desc": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Zayıflık>x1.5) olduğu bir hasar türüyle saldırırken, Yetenek etkileriyle +1 daha fazla [Burst] uygular.\nEğer müttefik bir Yedi Birliği İşçözücüsüyse, ek olarak +1 daha fazla Parçalanma",
       "summary": "En yüksek Max HP'ye sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, +1 daha fazla [Burst] uygular.\nEğer müttefik bir Yedi Birliği İşçözücüsüyse, ek olarak +1 daha fazla [Burst] uygular."
     },
     {
       "id": 1020601,
       "name": "Çay Soğumadan Önce...",
-      "desc": "Bir hedefe, hedefin \"Zayıf\" veya \"Ölümcül\" (Direnç>x1) olduğu bir hasar türüyle saldırırken, saldırıdan önce hedefteki her [Burst] için 1 [Breath] kazan. (Tur başına maksimum 20)",
+      "desc": "Bir hedefe, hedefin \"Zayıf\" veya \"Ölümcül\" (Zayıflık>x1) olduğu bir hasar türüyle saldırırken, saldırıdan önce hedefteki her [Burst] için 1 [Breath] kazan. (Tur başına maksimum 20)",
       "summary": "Bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, saldırıdan önce hedefteki her [Burst] için 1 [Breath] kazan."
     },
     {
       "id": 1020621,
       "name": "Yedi Birliği Çay Saati",
-      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Direnç>x1.5) olduğu bir hasar türüyle saldırırken, hedefin Parçalanma değerine göre daha fazla hasar uygular.\n+%1.5 her 1 [Burst] için (Maksimum %15)",
+      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin \"Ölümcül\"(Zayıflık>x1.5) olduğu bir hasar türüyle saldırırken, hedefin Parçalanma değerine göre daha fazla hasar uygular.\n+%1.5 her 1 [Burst] için (Maksimum %15)",
       "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Ölümcül olduğu bir hasar türüyle saldırırken, hedefin [Burst] değerine göre daha fazla hasar uygular."
     },
     {
       "id": 1020631,
       "name": "Yedi Birliği Çay Saati",
-      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin \"Zayıf\" veya \"Ölümcül\"(Direnç>x1) olduğu bir hasar türüyle saldırırken, hedefin Parçalanma değerine göre daha fazla hasar uygular.\n(+%1.5 her 1 Parçalanma; Maksimum %15)\nEğer müttefik bir Yedi Birliği İşçözücüsüyse, daha da artan hasar uygular.\n(+%0.5 her 1 Parçalanma; Maksimum %5)",
+      "desc": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin \"Zayıf\" veya \"Ölümcül\"(Zayıflık>x1) olduğu bir hasar türüyle saldırırken, hedefin Parçalanma değerine göre daha fazla hasar uygular.\n(+%1.5 her 1 Parçalanma; Maksimum %15)\nEğer müttefik bir Yedi Birliği İşçözücüsüyse, daha da artan hasar uygular.\n(+%0.5 her 1 Parçalanma; Maksimum %5)",
       "summary": "En yüksek Hıza sahip 1 müttefik, bir hedefe, hedefin Zayıf veya Ölümcül olduğu bir hasar türüyle saldırırken, hedefin [Burst] değerine göre daha fazla hasar uygular.\nEğer müttefik bir Yedi Birliği İşçözücüsüyse, daha da artan hasar uygular."
     },
     {
