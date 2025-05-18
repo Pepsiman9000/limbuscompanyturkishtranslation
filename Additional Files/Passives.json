@@ -1588,20 +1588,20 @@
     {
       "id": 1071011,
       "name": "Erlking'in Çağrısı",
-      "desc": "- Hedefteki her 1 [Sinking] için +%1 daha fazla hasar ver (maksimum %15)\n\n<style=\"highlight\">- Savaş sırasında, 1 müttefik ölmesine sebep olacak hasar aldığında, 2 Coffin tüketerek onlara [WildHunt] uygula (her turda bir kez)\n\n- Sonraki turda [WildHunt] olan müttefike 2 [AttackDmgUp] uygula\n- Eğer bu müttefik Wuthering Heights veya Edgar Ailesi'nden ise, aynı zamanda 1 [Enhancement] de uygula</style>",
-      "summary": "Hedefteki [Sinking] miktarına bağlı olarak daha fazla hasar ver"
+      "desc": "- Hedefteki her 1 [Sinking] için +%1 daha fazla hasar ver (En fazla %15)\n\n<style=\"highlight\">- Savaş sırasında, 1 müttefiğin ölmesine sebep olacak hasar aldığında, 2 [Coffin] tüketerek onlara [WildHunt] uygula (Her turda bir kez)\n\n- Sonraki turda [WildHunt] olan müttefiğe 2 [AttackDmgUp] uygula\n- Eğer bu müttefik Uğultulu Tepeler veya Edgar Ailesi'nden ise, aynı zamanda 1 [Enhancement] de uygula</style>",
+      "summary": "Hedefteki [Sinking] Miktarı'na bağlı olarak daha fazla hasar ver"
     },
     {
       "id": 1071021,
       "name": "Sonsuz Lamentasyon",
-      "desc": "En yüksek SP'ye sahip 1 müttefik, 0 SP'den az olan hedeflere +%5 daha fazla hasar verir\nEğer hedefin 0 SP'den az ise: hedefin SP'si 0'dan ne kadar uzaksa, o kadar fazla hasar ver (+%0.5 her 1 SP farkı için, maksimum %20)\nEğer hedefin SP'si yoksa, bu müttefik, yetenek ve Coin etkileriyle her [Sinking] için +1 [Sinking] Potansiyeli ve Miktarı uygular (her turda 2 kez)",
+      "desc": "En yüksek SP'ye sahip 1 müttefik, 0 SP'den az olan hedeflere +%5 daha fazla hasar verir\nEğer hedefin 0 SP'den az ise: hedefin SP'si 0'dan ne kadar uzaksa, o kadar fazla hasar ver (+%0.5 her 1 SP farkı için, maksimum %20)\nEğer hedefin SP'si yoksa, bu müttefik, yetenek ve Jeton etkileriyle her [Sinking] için +1 [Sinking] Şiddeti ve Miktarı uygular (Her turda 2 kez)",
       "summary": "0 SP'den az olan hedeflere daha fazla hasar ver"
     },
     {
       "id": 1071012,
       "name": "Erlking'in Çağrısı",
-      "desc": "- Hedefteki her 1 [Sinking] için +%1 daha fazla hasar ver (maksimum %15)\n\n- Savaş sırasında, 1 müttefik ölmesine sebep olacak hasar aldığında, 2 Coffin tüketerek onlara [WildHunt] uygula (<style=\"highlight\">her turda 2 kez</style>)\n\n- Sonraki turda [WildHunt] olan müttefike 2 [AttackDmgUp] uygula\n- Eğer bu müttefik Wuthering Heights veya Edgar Ailesi'nden ise, aynı zamanda 1 [Enhancement] de uygula",
-      "summary": "Hedefteki [Sinking] miktarına bağlı olarak daha fazla hasar ver"
+      "desc": "- Hedefteki her 1 [Sinking] için +%1 daha fazla hasar ver (En fazla %15)\n\n- Savaş sırasında, 1 müttefiğin ölmesine sebep olacak hasar aldığında, 2 [Coffin] tüketerek onlara [WildHunt] uygula (<style=\"highlight\">Her turda 2 kez</style>)\n\n- Sonraki turda [WildHunt] olan müttefiğe 2 [AttackDmgUp] uygula\n- Eğer bu müttefik Uğultulu Tepeler veya Edgar Ailesi'nden ise, aynı zamanda 1 [Enhancement] de uygula",
+      "summary": "Hedefteki [Sinking] Miktarı'na bağlı olarak daha fazla hasar ver"
     },
     {
       "id": 1041001,
