@@ -3,82 +3,82 @@
         {
             "id": "get_10611_1",
             "desc": "Identity Acquisition",
-            "dlg": "Hold your fire, now. We'll chase them down as soon as we get a clear shot."
+            "dlg": "Şimdilik ateşi kesin. Açık bir hedef gördüğümüzde peşlerine düşeriz."
         },
         {
             "id": "lobby_morning_10611_1",
             "desc": "Morning Greeting",
-            "dlg": "Good morning, let's clean some guns~ Make sure they're in tip-top shape! We don't want them to jam in the middle of a fight, right?"
+            "dlg": "Günaydın, hadi biraz silah temizleyelim~ Hepsinin kusursuz durumda olduğundan da emin de olalım! Bir çatışmanın ortasında tutukluk yapmalarını istemeyiz, değil mi?"
         },
         {
             "id": "lobby_noon_10611_1",
             "desc": "Afternoon Greeting",
-            "dlg": "Want to go practice shooting after lunch? Bullets sure are expensive, but it can't be more expensive than your life, right?\nSeriously, though. Do you actually feel like these are that pricey? Huh... that's funny. I was actually pretty surprised because they were much cheaper than I thought they'd be."
+            "dlg": "Öğle yemeğinden sonra atış talimi yapmaya gitmek ister misin? Mermiler gerçekten pahalı ama… hayatından daha pahalı olamaz ya, değil mi?\nŞaka bir yana, gerçekten o kadar pahalı olduklarını düşünüyor musun? Huh… komik. ben fiyatları görünce bayağı şaşırmıştım; beklediğimden çok daha ucuzlardı da."
         },
         {
             "id": "lobby_night_10611_1",
             "desc": "Evening Greeting",
-            "dlg": "It's getting dark outside... Looks like the speech is about to start~\nWe'll leave the leader to Heathcliff and focus on handling the worshipers who'll likely rush us after the deed is done. You remember the plan, right?"
+            "dlg": "Dışarısı kararıyor… Görünen o ki konuşma başlamak üzere~\nLideri Heathcliff’e bırakacağız, biz de iş bittikten sonra üzerimize saldırması muhtemel olan ibadetçiler ile ilgileneceğiz. Planı hatırlıyorsun, değil mi?"
         },
         {
             "id": "smalltalk_10611_1",
             "desc": "Chatter #1",
-            "dlg": "Atelier Logic is acceptable, but I wouldn't compare them to the S-class Workshops.\nI once saw an S-class firearm my big brother somehow managed to get his hands on, and it was much better than the ones we're using in our Office."
+            "dlg": "Atelier Logic kabul edilebilir, ancak bunları S sınıfı Atölyelerle karşılaştırmam.\nBir keresinde ağabeyimin bir şekilde eline geçirmeyi başardığı bir S sınıfı ateşli silah gördüm ve ofisimizde kullandıklarımızdan çok daha iyiydi."
         },
         {
             "id": "smalltalk_10611_2",
             "desc": "Chatter #2",
-            "dlg": "The real selling point of our Office is that we can quickly mow down weaker enemies who can't react fast enough to bullets.\nOh, what about enemies who can react to bullets? We'll run, of course~"
+            "dlg": "Ofisimizin gerçek satış noktası, mermilere yeterince hızlı tepki veremeyen zayıf düşmanları hızla biçip geçebilmemizdir.\nHm? Peki ya mermilere tepki verebilen düşmanlar karşı ne mi yapacağız? Kaçacağız elbette~"
         },
         {
             "id": "smalltalk_10611_3",
             "desc": "Chatter #3",
-            "dlg": "I don't think the Head wants people to die anticlimactically. But what <i>is </i>an anticlimactic death anyway?\nWe can put all kinds of meaningful labels on deaths, but it's still death at the end of the day."
+            "dlg": "Bence Baş, insanların anti-klimaktik bir şekilde ölmesini istemiyor. Ama anti-klimaktik bir ölüm nedir <i>ki </i>zaten?\nÖlümlere her türlü anlamlı etiketleri koyabiliriz ama günün sonunda: Ölüm ölümdür."
         },
         {
             "id": "smalltalk_10611_4",
             "desc": "Post-Uptie Chat 1",
-            "dlg": "Ha ha, were you feeling safe back there because bullets can't penetrate steel?\nI have some bad news for you... shattering steel does not break the Head's taboo~"
+            "dlg": "Ha ha, kurşunlar çeliği delemediği için orada kendini güvende mi hissediyordun?\n Sana çok kötü bir haberim var... Çeliği parçalamak, Baş'ın tabularını çiğnemiyor~"
         },
         {
             "id": "smalltalk_10611_5",
             "desc": "Post-Uptie Chat 2",
-            "dlg": "I know it's tragic, but there are some covers where you shouldn't just jump out like that. Having your gear destroyed while trying to adjust your position is just... unfortunate, isn't it?"
+            "dlg": "Bunun trajik olduğunu biliyorum, ancak öylece atılmamanın gerektiği bazı siperler var. Pozisyonunuzu ayarlamaya çalışırken ekipmanınızın parçalanması gerçekten de... talihsiz, değil mi?"
         },
         {
             "id": "neglect_10611_1",
             "desc": "Idle",
-            "dlg": "Hm? We're out of both cash and ammunition? Ha ha... Looks like I'm going to have to give my family a call~"
+            "dlg": "Hm? Hem nakit hem de mühimmatımız mı bitti? Ha ha... Sanırım ailemi aramam gerekecek~"
         },
         {
             "id": "gacksung_10611_1",
             "desc": "Uptying",
-            "dlg": "Three shots to the chest, and... doesn't look like I'll even need to shoot them in the head for good measure."
+            "dlg": "Göğüslerine üç el ateş edildi ve... ne olur ne olmaz diye kafalarına sıkmaya bile gerek yok gibi gözüküyor."
         },
         {
             "id": "formation_10611_1",
             "desc": "Deployment",
-            "dlg": "It's been a while since I was under someone else's command."
+            "dlg": "Başkasının emri altında olalı epey olmuştu."
         },
         {
             "id": "battleentry_10611_1",
             "desc": "Stage Entry",
-            "dlg": "Cover me, please~"
+            "dlg": "Koru beni, lütfen~"
         },
         {
             "id": "battle_select_10611_1",
             "desc": "Viewed in Battle",
-            "dlg": "Nervous? Take a deep, deep breath—it'll help."
+            "dlg": "Gergin misin? Derin, derin bir nefes al—yardımcı olacaktır."
         },
         {
             "id": "battle_endcommand_10611_1",
             "desc": "Commencing Attack",
-            "dlg": "Target in sight. One O'clock."
+            "dlg": "Hedef göründü. Saat Bir yönünde."
         },
         {
             "id": "battle_enemy_break_10611_1",
             "desc": "Enemy Stagger",
-            "dlg": "You don't really know what you're doing, do you~?"
+            "dlg": "Ne yaptığından bile haberin yok senin, değil mi~?"
         },
         {
             "id": "battle_break_10611_1",
@@ -88,37 +88,37 @@
         {
             "id": "battle_kill_10611_1",
             "desc": "Enemy Killed",
-            "dlg": "Next target."
+            "dlg": "Sıradaki."
         },
         {
             "id": "battle_dead_10611_1",
             "desc": "Death",
-            "dlg": "Looks like I was the one who was made light of…"
+            "dlg": "Görünen o ki... küçümsenmekte olan kişi benmişim…"
         },
         {
             "id": "choice_success_p_10611_2",
             "desc": "Check Passed",
-            "dlg": "Everything can be made manageable with a plan."
+            "dlg": "Her şey bir planla yönetilebilir hale getirilebilir."
         },
         {
             "id": "choice_fail_n_10611_1",
             "desc": "Check Failed",
-            "dlg": "Hmm~ That didn't work out. What now?"
+            "dlg": "Hmm~ işe yaramadı gibi. Şimdi ne yapsak ki?"
         },
         {
             "id": "battle_clear_10611_1",
             "desc": "Victory Cry",
-            "dlg": "That sure was a rightful victory. Is everyone alright?"
+            "dlg": "Bu kesinlikle hak edilen bir zaferdi. Herkes iyi mi?"
         },
         {
             "id": "battle_clear_ex_10611_1",
             "desc": "Extra Conditions Fulfilled",
-            "dlg": "Contract fee plus safeguard fee minus bullet costs... Wow~ looks like I won't have to make up for the losses with my own funds this time!"
+            "dlg": "Sözleşme ücreti artı koruma ücreti eksi mermi maliyetleri... Vay~ bu sefer kayıpları kendi paramla telafi etmek zorunda kalmayacağım gibi."
         },
         {
             "id": "battle_defeat_10611_1",
             "desc": "Defeat Wail",
-            "dlg": "Abort contract. Everyone, fall back!\nWhat's that in your hand? Oh. Like I said, we can always buy new guns. Just discard it, it'll only slow you down."
+            "dlg": "Sözleşme iptal! Herkes geri çekilsin!\nHm? Elindeki de ne? Oh. Dediğim gibi, Her zaman yeni silahlar alabiliriz. At gitsin, sadece seni yavaşlatacak."
         }
     ]
 }
