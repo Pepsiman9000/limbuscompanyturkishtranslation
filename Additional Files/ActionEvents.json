@@ -58,7 +58,7 @@
       "options": [
         {
           "message": "Sesin kaynağına doğru ilerle.",
-          "messageDesc": "Bir Kibir testi dene. E.G.O Hediyesi kazan.",
+          "messageDesc": "Bir Kibir denemesi yap. E.G.O Hediyesi kazan.",
           "result": [
             "Enkaz altında acı içinde bir asker var.\n\n“Lütfen beni öldürün… acı çekiyorum.”\n\nBu şahısı görmezden gelemezsin.\nOnu hakkına kavuşturması için kimi görevlendireceksin?"
           ]
@@ -144,7 +144,7 @@
       "options": [
         {
           "message": "Meydan okumayı kabul et.",
-          "messageDesc": "Rodion SP kazanır. Öfke, Tembellik ve Kasvet kontrolleri yap. E.G.O Hediyesi kazanmak ve tüm müttefiklerin SP'lerini iyileştirmek için geç.",
+          "messageDesc": "Rodion SP kazanır. Öfke, Tembellik ve Kasvet denemeleri yap. E.G.O Hediyesi kazanmak ve tüm müttefiklerin SP'lerini iyileştirmek için geç.",
           "result": [
             "“Burası benim parlamam gereken yer, bilirsin ya!”\n\nRodya, gururla bunu söylerken ileriye doğru bir adım attı.\nSuartındaki heyecan ve beklenti görülebiliyordu."
           ]
@@ -264,7 +264,7 @@
       "options": [
         {
           "message": "Arkalarından saldır.",
-          "messageDesc": "Gurur denemesi yap, ardından da çatışma başlat. Geçerek müttefiklere takviye sağla ve dalgaların sayısını 1 azalt."
+          "messageDesc": "Kibir denemesi yap, ardından da çatışma başlat. Geçerek müttefiklere takviye sağla ve dalgaların sayısını 1 azalt."
         },
         {
           "message": "Dikkatlerini dağıt.",
