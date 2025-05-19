@@ -309,7 +309,7 @@
         {
           "level": 4,
           "name": "Kılıcın Çekilişi",
-          "desc": "<style=\"highlight\">5+ [Breath] bulunduruyorsa, Jeton Gücü +1'e Katlanır </style>\n[StartBattle] (En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 tane [BladeResultUpTier1] uygula\n<style=\"highlight\">-Eğer Karşılaşmada 6 veya daha fazla müttefik Kılıç Soyu Kişiliği varsa, bunun yerine 2 Uygula</style>\n[WhenUse] +2 [Breath] Miktarı Kazan",
+          "desc": "<style=\"highlight\">5+ [Breath] bulunduruyorsa, Jeton Gücü +1</style>\n[StartBattle] (En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 tane [BladeResultUpTier1] uygula\n<style=\"highlight\">-Eğer Karşılaşmada 6 veya daha fazla müttefik Kılıç Soyu Kişiliği varsa, bunun yerine 2 Uygula</style>\n[WhenUse] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -335,7 +335,7 @@
         {
           "level": 1,
           "name": "Akupunktur",
-          "desc": "[WhenUse] +2 [Breath] Miktarı Kazan\n[WinDuel] sıradaki tur 1 Kesme Gücü Kazan",
+          "desc": "[WhenUse] +2 [Breath] Miktarı Kazan\n[WinDuel] sıradaki tur 1 [SlashResultUp] Kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -357,7 +357,7 @@
         {
           "level": 2,
           "name": "Akupunktur",
-          "desc": "<style=\"highlight\">[StartBattle] (En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 tane [BladeResultUpTier2] uygula</style>\n[WhenUse] +2 [Breath] Miktarı Kazan\n[WinDuel] sıradaki tur 1 Kesme Gücü Kazan",
+          "desc": "<style=\"highlight\">[StartBattle] (En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 tane [BladeResultUpTier2] uygula</style>\n[WhenUse] +2 [Breath] Miktarı Kazan\n[WinDuel] sıradaki tur 1 [SlashResultUp] Kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -370,7 +370,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Kritik Vurduğunda +40 Hasar"
+                  "desc": "Kritik Vurduğunda +%40 Hasar"
                 }
               ]
             }
@@ -379,7 +379,7 @@
         {
           "level": 3,
           "name": "Akupunktur",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>(En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 tane [BladeResultUpTier2] uygula</color>\n[WhenUse] +2 [Breath] Miktarı Kazan\n[WinDuel] sıradaki tur 1 Kesme Gücü Kazan",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>(En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 tane [BladeResultUpTier2] uygula</color>\n[WhenUse] +2 [Breath] Miktarı Kazan\n[WinDuel] sıradaki tur 1 [SlashResultUp] Kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -401,7 +401,7 @@
         {
           "level": 4,
           "name": "Akupunktur",
-          "desc": "<style=\"highlight\">7+ [Breath] bulunduruyorsa, Jeton Gücü +1'e Katlanır</style>\n[StartBattle] (En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 tane [BladeResultUpTier2] uygula\n<style=\"highlight\">-  Eğer Karşılaşmada 6 veya daha fazla müttefik Kılıç Soyu Kişiliği varsa, bunun yerine 2 uygula</style>\n[WhenUse] +3 [Breath] Miktarı Kazan\n[WinDuel] sıradaki tur 1 Kesme Gücü Kazan",
+          "desc": "<style=\"highlight\">7+ [Breath] bulunduruyorsa, Jeton Gücü +1</style>\n[StartBattle] (En Yüksek A-Rezonansına sahip) diğer Kılıç Soyu müttefiklerine, hızlarına göre artan sırada (en yavaştan en hızlıya, 2 defa olacak şekilde) 1 tane [BladeResultUpTier2] uygula\n<style=\"highlight\">-  Eğer Karşılaşmada 6 veya daha fazla müttefik 'Kılıç Soyu' Kişiliği varsa, bunun yerine 2 uygula</style>\n[WhenUse] +3 [Breath] Miktarı Kazan\n[WinDuel] sıradaki tur 1 [SlashResultUp] Kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -414,7 +414,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Kritik Vurduğunda +60 Hasar"
+                  "desc": "Kritik Vurduğunda +%60 Hasar"
                 }
               ]
             }
@@ -427,16 +427,16 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Etimi Kopartsınlar Ki",
-          "desc": "[WhenUse] Sıradaki tur bu Yetenek Yuvasına +3 Aggro Kazan\n[WhenUse] Bu Yetenek sona erene kadar,bu unit hasar almaktan sersemleyemez\n[WinDuel] 5 [Breath] Kazan\n[DefeatDuel] Hasar aldıktan sonra, 'Onların Kemiklerini Alabileyim' Yeteneğini kullan\n[CriticalActivated] Kendindeki her bir Nefes Şiddeti için Kritik Vuruşta +2% daha fazla hasar ver (Maks %50))\nKritik Vurduğunda +15% Hasar\nKendindeki her %1 eksik Can için +0.5% daha fazla hasar vur (Maks %25)",
+          "name": "Etimi Kopartsınlar ki...",
+          "desc": "[WhenUse] Sıradaki tur bu Yetenek Yuvasına +3 [Aggro] kazan\n[WhenUse] Bu Yetenek sona erene kadar,bu birim sersemleyemez\n[WinDuel] 5 [Breath] Kazan\n[DefeatDuel] Hasar aldıktan sonra, 'Onların Kemiklerini Alabileyim' Yeteneğini kullan\n[CriticalActivated] Kendindeki her bir [Breath] Şiddeti için Kritik Vuruşta +2% daha fazla hasar ver (Maks %50))\nKritik Vurduğunda +15% Hasar\nKendindeki her %1 eksik Can için +0.5% daha fazla hasar vur (Maks %25)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Etimi Kopartsınlar Ki",
-          "desc": "[WhenUse] Sıradaki tur bu Yetenek Yuvasına +3 Aggro Kazan\n[WhenUse] Bu Yetenek sona erene kadar,bu unit hasar almaktan sersemleyemez\n[WinDuel] 5 [Breath] Kazan\n[DefeatDuel] Hasar aldıktan sonra, 'Onların Kemiklerini Alabileyim' Yeteneğini kullan\n[CriticalActivated] Kendindeki her bir Nefes Şiddeti için Kritik Vuruşta +3% daha fazla hasar ver (Maks %75))\nKritik Vurduğunda +30% Hasar\nKendindeki her %1 eksik Can için +0.5% daha fazla hasar vur (Maks %25)",
+          "name": "Etimi Kopartsınlar ki...",
+          "desc": "[WhenUse] Sıradaki tur bu Yetenek Yuvasına +3 [Aggro] kazan\n[WhenUse] Bu Yetenek sona erene kadar, bu birim sersemleyemez\n[WinDuel] 5 [Breath] Kazan\n[DefeatDuel] Hasar aldıktan sonra, 'Onların Kemiklerini Alabileyim' Yeteneğini kullan\n[CriticalActivated] Kendindeki her bir [Breath] Şiddeti için Kritik Vuruşta +3% daha fazla hasar ver (Maks %75))\nKritik Vurduğunda +30% Hasar\nKendindeki her %1 eksik Can için +0.5% daha fazla hasar vur (Maks %25)",
           "coinlist": [
             {}
           ]
@@ -449,12 +449,12 @@
         {
           "level": 1,
           "name": "Devirme",
-          "desc": "[WhenUse] sıradaki tur 1 Kesme Gücü Kazan (maks 1 defa)",
+          "desc": "[WhenUse] Sonraki tur 1 [SlashResultUp] kazan (Tur Başına 1 kez)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Breath] Kazan"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 }
               ]
             }
@@ -463,7 +463,7 @@
         {
           "level": 4,
           "name": "Devirme",
-          "desc": "[WhenUse] sıradaki tur 1 Kesme Gücü Kazan (maks 1 defa)\n<style=\"highlight\">Kendindeki her %1 eksik Can için +%0.5 daha fazla hasar ver (Maks %25)</style>",
+          "desc": "[WhenUse] Sonradaki tur 1 [SlashResultUp] Kazan (maks 1 defa)\n<style=\"highlight\">Kendindeki her %1 eksik Can için +%0.5 daha fazla hasar ver (Maks %25)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -482,7 +482,7 @@
         {
           "level": 1,
           "name": "Onların Kemiklerini Alabileyim",
-          "desc": "[BeforeAttack] Kendindeki 10+ [Breath] için, Atk Weight +1'e katlanır\n[WhenUse] Bu Yetenek sona erene kadar,bu unit hasar almaktan sersemleyemez\n[WhenUse] Kendindeki her bir Nefes Şiddeti için Kritik Vurduğunda +%2 daha fazla hasar ver (Maks 50%)\nKritik Vurduğunda +20% Hasar\nKendindeki her %1 eksik Can için +%0.5 daha fazla hasar ver (Maks %25)",
+          "desc": "[BeforeAttack] Kendindeki 10+ [Breath] için, Saldırı Ağırlı +1\n[WhenUse] Bu Yetenek sona erene kadar,bu birim sersemleyemez\n[WhenUse] Kendindeki her bir Nefes Şiddeti için Kritik Vurduğunda +%2 daha fazla hasar ver (Maks 50%)\nKritik Vurduğunda +20% Hasar\nKendindeki her %1 eksik Can için +%0.5 daha fazla hasar ver (Maks %25)",
           "coinlist": [
             {},
             {},
@@ -502,7 +502,7 @@
         {
           "level": 4,
           "name": "Onların Kemiklerini Alabileyim",
-          "desc": "<style=\"highlight\">[BeforeAttack] Kendindeki her 7+ [Breath] için, Atk Weight +1'e katlanır (Maks +2)</style>\n[WhenUse] Bu Yetenek sona erene kadar,bu unit hasar almaktan sersemleyemez\n[WhenUse] Kendindeki her bir Nefes Şiddeti için Kritik Vurduğunda +%2 daha fazla hasar ver (Maks 50%)\n+<style=\"highlight\">30</style>% Kritik Vurduğunda\nKendindeki her %1 eksik Can için +%0.5 daha fazla hasar ver (Maks %25)\n<style=\"highlight\">Eğer bu Yetenek yalnızca tek bir düşmanı hedef alıyorsa, +100% daha fazla hasar ver (Odaklı Karşılaşmalarda tek bir Uzuv).</style>",
+          "desc": "<style=\"highlight\">[BeforeAttack] Kendindeki her 7+ [Breath] için, Sadlırı Ağırlığı +1 (Maks +2)</style>\n[WhenUse] Bu Yetenek sona erene kadar, bu birim sersemleyemez\n[WhenUse] Kendindeki her bir [Breath] Şiddeti için Kritik Vurduğunda +%2 daha fazla hasar ver (Maks 50%)\n+<style=\"highlight\">30</style>% Kritik Vurduğunda\nKendindeki her %1 eksik Can için +%0.5 daha fazla hasar ver (Maks %25)\n<style=\"highlight\">Eğer bu Yetenek yalnızca tek bir düşmanı hedef alıyorsa, +100% daha fazla hasar verir (Odaklı Karşılaşmalarda tek bir Uzuv).</style>",
           "coinlist": [
             {},
             {},
@@ -510,10 +510,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Bleed uygula"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki Tur 5 Paralyze uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 5 [Paralysis] uygula"
                 }
               ]
             }
@@ -711,7 +711,7 @@
         {
           "level": 1,
           "name": "Studious Dedication",
-          "desc": "Gain ([KnowledgeExplored] x 3% of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots",
+          "desc": "Gain ([KnowledgeExplored] x 3% of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the highest rank in all of this birim's Skill Slots",
           "coinlist": [
             {},
             {
@@ -726,7 +726,7 @@
         {
           "level": 2,
           "name": "Studious Dedication",
-          "desc": "Gain ([KnowledgeExplored] x <style=\"highlight\">4%</style> of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots\n<style=\"highlight\">[WhenUse] At 2+ [KnowledgeExplored], Clash Power +1\n[WinDuel] Gain 2 [KnowledgeTraining] (once per turn)</style>",
+          "desc": "Gain ([KnowledgeExplored] x <style=\"highlight\">4%</style> of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this birim's Skill Slots\n<style=\"highlight\">[WhenUse] At 2+ [KnowledgeExplored], Clash Power +1\n[WinDuel] Gain 2 [KnowledgeTraining] (once per turn)</style>",
           "coinlist": [
             {},
             {
@@ -741,7 +741,7 @@
         {
           "level": 4,
           "name": "Studious Dedication",
-          "desc": "Gain ([KnowledgeExplored] x <style=\"highlight\">5%</style> of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots\n<style=\"highlight\">[WhenUse] Gain ([KnowledgeExplored] - 1) Clash Power (max 2)</style>\n[WinDuel] Gain 2 [KnowledgeTraining] (once per turn)",
+          "desc": "Gain ([KnowledgeExplored] x <style=\"highlight\">5%</style> of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this birim's Skill Slots\n<style=\"highlight\">[WhenUse] Gain ([KnowledgeExplored] - 1) Clash Power (max 2)</style>\n[WinDuel] Gain 2 [KnowledgeTraining] (once per turn)",
           "coinlist": [
             {},
             {
@@ -761,7 +761,7 @@
         {
           "level": 1,
           "name": "Moment of Erudition",
-          "desc": "[StartBattle] Gain [KnowledgeTraining] equal to [KnowledgeExplored] on self\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
+          "desc": "[StartBattle] Gain [KnowledgeTraining] equal to [KnowledgeExplored] on self\n[WhenUse] [Discard] 2 of this birim's Skills in ascending order of ranks from all of its Skill Slots",
           "coinlist": [
             {},
             {
@@ -776,7 +776,7 @@
         {
           "level": 2,
           "name": "Moment of Erudition",
-          "desc": "<style=\"highlight\">Deal +3% more damage for every [KnowledgeExplored] on self (max 9%)</style>\n[StartBattle] Apply [KnowledgeTraining] equal to [KnowledgeExplored] on self <style=\"highlight\"> to a random ally</style> and on self <style=\"highlight\">(prioritizes allies with [Discard] that has the least [KnowledgeTraining])</style>\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n<style=\"highlight\">[WhenUse] If target has 6+ [Sinking], Coin Power +1</style>",
+          "desc": "<style=\"highlight\">Deal +3% more damage for every [KnowledgeExplored] on self (max 9%)</style>\n[StartBattle] Apply [KnowledgeTraining] equal to [KnowledgeExplored] on self <style=\"highlight\"> to a random ally</style> and on self <style=\"highlight\">(prioritizes allies with [Discard] that has the least [KnowledgeTraining])</style>\n[WhenUse] [Discard] 2 of this birim's Skills in ascending order of ranks from all of its Skill Slots\n<style=\"highlight\">[WhenUse] If target has 6+ [Sinking], Coin Power +1</style>",
           "coinlist": [
             {},
             {
@@ -791,7 +791,7 @@
         {
           "level": 4,
           "name": "Moment of Erudition",
-          "desc": "Deal <style=\"highlight\">+5%</style> more damage for every [KnowledgeExplored] on self (max <style=\"highlight\">15%</style>)\n[StartBattle] Apply [KnowledgeTraining] equal to [KnowledgeExplored] on self <style=\"highlight\">to 2 random allies</style> and on self (prioritizes allies with [Discard] that has the least [KnowledgeTraining])\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Sinking] on target (max 2)</style>",
+          "desc": "Deal <style=\"highlight\">+5%</style> more damage for every [KnowledgeExplored] on self (max <style=\"highlight\">15%</style>)\n[StartBattle] Apply [KnowledgeTraining] equal to [KnowledgeExplored] on self <style=\"highlight\">to 2 random allies</style> and on self (prioritizes allies with [Discard] that has the least [KnowledgeTraining])\n[WhenUse] [Discard] 2 of this birim's Skills in ascending order of ranks from all of its Skill Slots\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Sinking] on target (max 2)</style>",
           "coinlist": [
             {},
             {
@@ -848,7 +848,7 @@
         {
           "level": 1,
           "name": "Fixated Study",
-          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots",
+          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of this birim's Skill Slots",
           "coinlist": [
             {
               "coindescs": [
@@ -862,7 +862,7 @@
         {
           "level": 4,
           "name": "Fixated Study",
-          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots\n<style=\"highlight\">[WhenUse] Gain +6 Aggro to this Skill Slot next turn</style>",
+          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of this birim's Skill Slots\n<style=\"highlight\">[WhenUse] Gain +6 Aggro to this Skill Slot next turn</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -896,7 +896,7 @@
         {
           "level": 2,
           "name": "Allez",
-          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "If this birim's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -917,7 +917,7 @@
         {
           "level": 4,
           "name": "Allez",
-          "desc": "If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 3 Speed difference; max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "If this birim's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 3 Speed difference; max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -932,7 +932,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's, inflict [Burst] equal to their Speed difference (max 3)"
+                  "desc": "[OnSucceedAttack] If this birim's Speed is faster than the target's, inflict [Burst] equal to their Speed difference (max 3)"
                 }
               ]
             }
@@ -974,7 +974,7 @@
         {
           "level": 2,
           "name": "Fente",
-          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "If this birim's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1005,7 +1005,7 @@
         {
           "level": 4,
           "name": "Fente",
-          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "If this birim's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1024,7 +1024,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">If this unit does not inflict [Burst], +5% Damage on Critical Hit for every [Burst] Potency and Count it would have inflicted</style>"
+                  "desc": "<style=\"highlight\">If this birim does not inflict [Burst], +5% Damage on Critical Hit for every [Burst] Potency and Count it would have inflicted</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 [Burst]<style=\"highlight\"></style>"
@@ -1044,7 +1044,7 @@
         {
           "level": 3,
           "name": "Salut",
-          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not consume [Burst] Count On Hit\n[WinDuel] Gain 5 [Breath]\n- If target has [ConcentratedAttackMeursault], gain 5 additional [Breath]",
+          "desc": "If this birim's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not consume [Burst] Count On Hit\n[WinDuel] Gain 5 [Breath]\n- If target has [ConcentratedAttackMeursault], gain 5 additional [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1075,7 +1075,7 @@
         {
           "level": 4,
           "name": "Salut",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 3)</style>\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not consume [Burst] Count On Hit\n[WinDuel] Gain 5 [Breath]\n- If target has [ConcentratedAttackMeursault], gain 5 additional [Breath]",
+          "desc": "<style=\"highlight\">If this birim's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 3)</style>\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not consume [Burst] Count On Hit\n[WinDuel] Gain 5 [Breath]\n- If target has [ConcentratedAttackMeursault], gain 5 additional [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1131,7 +1131,7 @@
         {
           "level": 4,
           "name": "Défensive",
-          "desc": "[WhenUse] If this unit's Speed is faster than the target's by 3 or more, Coin Power +2",
+          "desc": "[WhenUse] If this birim's Speed is faster than the target's by 3 or more, Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
