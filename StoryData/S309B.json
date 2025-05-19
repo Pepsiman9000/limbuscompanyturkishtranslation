@@ -12,7 +12,7 @@
     {
       "id": 2,
       "model": "카론",
-      "content": "You’re late. Charon counted to one hundred and you still didn’t come."
+      "content": "Geç kaldın. Charon yüze kadar saydı ve gelmedin."
     },
     {
       "id": 3,
@@ -28,14 +28,14 @@
     {
       "id": 5,
       "model": "카론",
-      "content": "Verg, Charon will remember this."
+      "content": "Verg, Charon bunu hatırlayacak."
     },
     {
       "id": 6,
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "Sorry about that. I’ll buy you something sweet later."
+      "content": "Üzgünüm, müsait zamanda tatlı bir şeyler alırım."
     },
     {
       "id": 7,
@@ -58,7 +58,7 @@
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "Let’s hear your excuse, Don Quixote."
+      "content": "Bahaneni duyalım bakalım, Don Quixote."
     },
     {
       "id": 12,
@@ -70,7 +70,7 @@
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "No, wrong."
+      "content": "Hayır, yok öyle bir şey."
     },
     {
       "id": 14,
@@ -98,7 +98,7 @@
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "I asked for an excuse, not a justification of your views."
+      "content": "Bahaneni söyle dedim, bakış açını meşrulaştır demedim."
     },
     {
       "id": 20,
@@ -110,21 +110,21 @@
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "This isn’t the first time, either, Don Quixote. You’re responsible for three separate incidents already."
+      "content": "Bu ilk vukuatın da değil, Don Quixote. Daha şimdiden üç farklı kazaya adını kazıdın."
     },
     {
       "id": 22,
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "That’s three separate times you’ve jeopardized our work with your deranged behavior."
+      "content": "Bu da üç kez saçma sapan hareketlerin ile işimizi baltaladığın anlamına geliyor."
     },
     {
       "id": 23,
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "What do you think? Speak."
+      "content": "Ne düşünüyorsun? Dökül bakalım."
     },
     {
       "id": 24,
@@ -153,7 +153,7 @@
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "I was asking for your thoughts. Why do you not understand this?"
+      "content": "Düşüncelerini soruyorum. Anlamayacak ne var?"
     },
     {
       "id": 30,
@@ -165,14 +165,14 @@
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "What you should’ve said to me at the get-go was an apology, Don Quixote."
+      "content": "Bana söylemen gereken ilk şey bir özürdü, Don Quixote."
     },
     {
       "id": 32,
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "Anything you’d add should be an elaboration on how you plan to improve your conduct."
+      "content": "Bu andan sonra ekleyeceğin her söz ise, nasıl davranışlarını düzeltebileceğin üzerine olmalıydı."
     },
     {
       "id": 33,
@@ -184,14 +184,14 @@
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "Don’t you know? A company already has the “correct” answers for its employees. The questions are only asked to see if you can get it right."
+      "content": "Bilmiyor musun? Bir şirket, çoktandır çalışanları için “doğru” cevaplara sahiptir. Sorular sadece cevabı bilip bilmediğini görmek için sorulur."
     },
     {
       "id": 35,
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "You’re sorely mistaken if you believe the company is sincerely curious about your input."
+      "content": "Eğer şirketin, senin eleştirini önemsediğini düşünüyorsan çok büyük yanılıyorsun."
     },
     {
       "id": 36,
@@ -203,7 +203,7 @@
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "…I’m sick of this."
+      "content": "…Hasta edeceksin beni."
     },
     {
       "id": 38,
@@ -218,7 +218,7 @@
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "I’m sure you remember what went down when you joined."
+      "content": "Eminim ki seni şirkete katarken nelerin yaşandığını hatırlıyorsundur."
     },
     {
       "id": 41,
@@ -228,7 +228,7 @@
     {
       "id": 42,
       "model": "베르길리우스",
-      "content": "I hope you haven’t forgotten the deal we struck that day. …Miss. Don. Quixote."
+      "content": "O gün yaptığımızın anlaşmayı unutmadığını umuyorsun. …Bayan. Don. Quixote."
     },
     {
       "id": 43,
@@ -243,7 +243,7 @@
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "…That’s all. Back to your seat."
+      "content": "…Bu kadar yeter. Yerine dön."
     },
     {
       "id": 46,
@@ -262,33 +262,33 @@
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "The same goes for the rest of you."
+      "content": "Dediklerim sizin için de geçerli."
     },
     {
       "id": 50,
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "A company isn’t a platform for fulfilling egocentric dreams or preaching big ideas."
+      "content": "Bir şirket, egoist emellerinizi gerçekleştirmek veya fikirlerinizi yaymanız için doğru bir platform değil."
     },
     {
       "id": 51,
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "If you would still go against the terms of your employment contract to act unprompted, consider the consequences before you do."
+      "content": "Eğer illa iş sözleşmenizi göz ardı edip kafanıza göre takılacaksanız, yaşanacakları bir düşünün derim."
     },
     {
       "id": 52,
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "You’ll spend a grueling period of being unable to escape; not through death, nor through struggles at severance."
+      "content": "Kaçamayacağınız uzun bir zaman geçirirsiniz; ne ölüm, ne de en büyük uğraşlarınız sizi kurtarabilir."
     },
     {
       "id": 53,
       "model": "그레고르",
-      "content": "I guess getting help from that guy―who was that again, Mister… Zack Friture, or something―must’ve ruffled his feathers."
+      "content": "Sanırım o adamdan yardım istemek―adı neydi ya, Baya… Zack Friture, bişi bişi―poposunu iyi kaldırmış olmalı."
     },
     {
       "id": 54,
@@ -298,17 +298,17 @@
     {
       "id": 55,
       "model": "로쟈",
-      "content": "Sheesh, the mission hasn’t even started and we already got a scolding~ Have some tact before you act, ‘kay?"
+      "content": "Heyt be, görev daha başlamadan birisi azarı yedi~ Bir şey yapmadan önce iki kez düşün, tamam mı?"
     },
     {
       "id": 56,
       "model": "이스마엘",
-      "content": "Phew… I knew this day would come sooner or later. We should all be careful from now on."
+      "content": "Hüff… Bu günün eninde sonunda geleceğini bliyordum. İleride daha dikkatli olsak iyi olur."
     },
     {
       "id": 57,
       "model": "히스클리프",
-      "content": "Why are you two birds gawking at me? Looking to get stoned?"
+      "content": "Neye bakıyorsunuz lan? Pestilinizi mi çıkartayim illa?"
     },
     {
       "id": 58,
@@ -320,7 +320,7 @@
     {
       "id": 59,
       "model": "히스클리프",
-      "content": "…Fine, I got it! Tsk."
+      "content": "…Tamam be, anladım! Tsk."
     }
   ]
 }
