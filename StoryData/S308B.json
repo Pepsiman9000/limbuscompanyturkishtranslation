@@ -14,19 +14,19 @@
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "How’s life been, Red Gaze? We’ve rarely had a chance to meet in recent times. Haven’t shown up to the ‘League of Excellent Nest-dwelling Fixers’ lately, either…"
+      "content": "Hayat nasıl, Kızıl Nazar? Son zamanlarda nadiren görüşebiliyoruz. Şu ‘Yuva-Gezgini Muhteşem İçözücüler Birliği’ şeyine de bakmıyorsun hiç…"
     },
     {
       "id": 3,
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Were you unable to read the dozens of invitations I sent you?"
+      "content": "Sana gönderdiğim tonca davetiyeyi okuyamıyor musun yoksa?"
     },
     {
       "id": 4,
       "model": "베르길리우스",
-      "content": "Changed addresses. And I don’t have the time to lick top-brass boots like you’re doing."
+      "content": "İkametgahımı değiştirdim. Ve senin aksine, pabuç yalayacak zamanım da yok, takatim de."
     },
     {
       "id": 5,
@@ -36,7 +36,7 @@
     {
       "id": 6,
       "model": "파우스트",
-      "content": "The difference in disposition between them is rather clear, isn’t it, Dante?"
+      "content": "Fikirleri arasındaki fark sence de apaçık ortada değil mi, Dante?"
     },
     {
       "id": 7,
@@ -46,22 +46,22 @@
     {
       "id": 8,
       "model": "파우스트",
-      "content": "Simply put, Mr. Siegfried can be described as a pro-Wing Fixer based on the views he’s expressed."
+      "content": "Basitçe açıklamak gerekirse, Bay Siegfried gösterdiği söylemlerden, Kanat yandaşı bir İşçözücü olduğunu ortaya koyuyor."
     },
     {
       "id": 9,
       "model": "파우스트",
-      "content": "On the other hand, our guide Vergilius sought independence as a Fixer."
+      "content": "Diğer tarafta ise rehberimiz Vergilius, daha bağımsız bir İçözücü olma eğiliminde."
     },
     {
       "id": 10,
       "model": "파우스트",
-      "content": "He believed that a Fixer loses sight of their core principles the moment they become subordinate to an influential entity."
+      "content": "Bir içözücünün, üst bir kuruma bağlandığı anda ana hususlarından birini kaybettiğine inanıyor."
     },
     {
       "id": 11,
       "model": "파우스트",
-      "content": "He is someone who is strict towards those with power, after all."
+      "content": "Günün sonunda, kendisi güç sahibi kişilere katı birisi."
     },
     {
       "id": 12,
@@ -81,7 +81,7 @@
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Aha! An aspiring Fixer! I have little time to spare, but more than enough for an autograph!"
+      "content": "Aha! Gelecek vadeden bir İşçözücü! Vaktim kısıtlıdır, ama bir imza için her zaman vaktim sonsuz!"
     },
     {
       "id": 16,
@@ -91,27 +91,27 @@
     {
       "id": 17,
       "model": "그레고르",
-      "content": "Slow breaths, Don Quixote…"
+      "content": "Sakin ol, Don Quixote…"
     },
     {
       "id": 18,
       "teller": "Announcement",
       "title": "K Corp. Checkpoint",
-      "content": "Attention. Code purple, dismissed. Code purple, dismissed. All codes cleared."
+      "content": "Uyarı. Mor kod bitmiştir. Mor kod bitmiştir. Tüm kodlar bitmiştir."
     },
     {
       "id": 19,
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Huzzah! That’s a job done well!"
+      "content": "Haha! İş dediğin böyle yapılır işte!"
     },
     {
       "id": 20,
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Now then, until next we meet! Hahahaha!!"
+      "content": "O halde, sonra görüşürüz! Hahahaha!!"
     },
     {
       "id": 21,
@@ -154,12 +154,12 @@
     {
       "id": 30,
       "model": "오티스",
-      "content": "…A newfound foe? Bold of them to challenge us right in front of a Nest’s checkpoint."
+      "content": "…Yeni bir düşman mı? Bizi bir Yuva'nın sınır noktasında karşılamaları ne cesurca."
     },
     {
       "id": 31,
       "model": "파우스트",
-      "content": "This vehicle is from… LCC, the clearance department."
+      "content": "Bu araç… LŞCÖ'den, temizlik departmanından."
     },
     {
       "id": 32,
@@ -170,7 +170,7 @@
       "model": "제복에피",
       "teller": "Effie",
       "title": "LCCB",
-      "content": "Ah geez, what took you so long? We had to cycle three laps waiting for it to be over."
+      "content": "Ah be, sizi bu kadar tutan neydi? Bitene kadar üç tur attık."
     },
     {
       "id": 34,
@@ -187,14 +187,14 @@
     {
       "id": 37,
       "model": "그레고르",
-      "content": "Oh, people from the Before Team, eh? Something about you looks different, I’ve gotta say."
+      "content": "Oh, Önce Takımı'nın ahalisi, eh? Biraz farklı görünüyorsunuz gibi geldi gözüme."
     },
     {
       "id": 38,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "That was a disguise we had in order to infiltrate the casino. It was ultimately useless, though."
+      "content": "Kumarhaneye sızmak için giydiğimiz bir kıyafetti o. Tabii günün sonunda bir işe yaramamıştı."
     },
     {
       "id": 39,
@@ -204,7 +204,7 @@
     {
       "id": 40,
       "model": "그레고르",
-      "content": "…Still got that sharp tongue too, huh."
+      "content": "…Dilin de hiç yumuşamamış, ha."
     },
     {
       "id": 41,
@@ -215,14 +215,14 @@
       "model": "제복에피",
       "teller": "Effie",
       "title": "LCCB",
-      "content": "Pft… Saude, you see that hand on the clock trembling? You’ll make them cry."
+      "content": "Pft… Saude, şu saatin elinin sallanışına baksana? Ağlatacaksın az daha."
     },
     {
       "id": 43,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "I was just being playful. While you had much room for improvement in regard to skill, I’ve made up my mind to admit that the LCB department has its own character."
+      "content": "Sadece takılıyorum yahu. Becerini geliştirmen hususunda çok yol katedebileceğin halde, LŞÖ Departmanı'nın kendisine has bir havası olduğuna karar kıldım."
     },
     {
       "id": 44,
@@ -231,110 +231,110 @@
     {
       "id": 45,
       "model": "파우스트",
-      "content": "The Before Team was supposed to be on site at this hour, wasn’t it?"
+      "content": "Öncü Takımı tam olarak bu saatte olay mahalinde olmalıydı, değil mi?"
     },
     {
       "id": 46,
       "model": "제복에피",
       "teller": "Effie",
       "title": "LCCB",
-      "content": "The others should be there already. We decided to wait for you because we had useful intel to share."
+      "content": "Diğerleri çoktan gitmiş olmalı. Ama biz, paylaşacak güzel bir istihbaratımız olduğundan dolayı burada kaldık."
     },
     {
       "id": 47,
       "model": "그레고르",
-      "content": "Hmm… In any case, you cared about us, right?"
+      "content": "Hmm… Bizi önemsiyorsunuz yani, değil mi?"
     },
     {
       "id": 48,
       "model": "로쟈",
-      "content": "Pfhu, do we have a couple of new fans knee-deep in our charm?"
+      "content": "Pfhu, dibimizde yeni bir çift hayran doğdu, ha?"
     },
     {
       "id": 49,
       "model": "로쟈",
-      "content": "Y’know~ Something like—the sorta food that’s cooked from ghastly ingredients, but the end result’s a pleasant surprise."
+      "content": "Biliyor musun~ Şey gibi—garip gurup malzemelerle yapılmış, ama sonunda beklenenden iyi tat bırakan bir yemek gibi."
     },
     {
       "id": 50,
       "model": "그레고르",
-      "content": "Yep, had a lot of that on the battlefield. Miserable to swallow, but somehow memorable…"
+      "content": "Evet, cephede çok yemiştim. Yutması acı verici, ama tadı çok akılda kalıcıydı…"
     },
     {
       "id": 51,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "…What kind of food have you two been eating?"
+      "content": "…İkinizi neyle besliyorlardı lan?"
     },
     {
       "id": 52,
       "model": "홍루",
-      "content": "Um, by the way, what’s the intel you were going to share with us?"
+      "content": "Um, bu arada, bizimle paylaşacağınız istihbarat tam olarak ne?"
     },
     {
       "id": 53,
       "model": "제복에피",
       "teller": "Effie",
       "title": "LCCB",
-      "content": "It’s about our target location. It seems another faction has occupied the place already."
+      "content": "Hedef noktamız ile alakalı. Görünüşe bakılırsa çoktan başka bir grup olay alanını mesken edinmiş."
     },
     {
       "id": 54,
       "model": "제복에피",
       "teller": "Effie",
       "title": "LCCB",
-      "content": "We’re putting in more manpower than usual as a result."
+      "content": "Bu yüzden de beklenenden fazla personeli oraya yönlendirmemiz gerekiyor."
     },
     {
       "id": 55,
       "model": "오티스",
-      "content": "Hmph, I bet they are yet another swarm of gadflies attracted by opportunity."
+      "content": "Hmph, Eminim ki para kokusunu almış at sineklerinden başka kişiler değillerdir."
     },
     {
       "id": 56,
-      "content": "As Outis pointed out, we weren’t new to encounters against groups of foes drawn near the Golden Boughs."
+      "content": "Outis'in de tespit ettiği gibi, Altın Dal'ların olduğu yerlere çekilmiş düşmanlara alışığız artık."
     },
     {
       "id": 57,
-      "content": "For our first mission, straggling soldiers from G Corp. took shelter in the abandoned facility."
+      "content": "İlk görevimizde, G Kuruluşu'nun gazileri, yıkılmış branşı sığınak edinmişlerdi."
     },
     {
       "id": 58,
-      "content": "And on our second, a variety of gangs inhabited the casino."
+      "content": "İkincisinde ise, bir ton serseri kumarhaneyi mesken edinmişti"
     },
     {
       "id": 59,
       "model": "제복에피",
       "teller": "Effie",
       "title": "LCCB",
-      "content": "Unfortunately, our opponents this time won’t be some crummy no-names like before."
+      "content": "Ama maalesef ki, bu seferki düşmanlarımız bir avuç çapulcu olmayacak."
     },
     {
       "id": 60,
       "model": "제복에피",
       "teller": "Effie",
       "title": "LCCB",
-      "content": "We took a peek at the immigration inspection records and found out that N Corp. dispatched a legion of employees a few weeks ago. Same destination as ours, too."
+      "content": "Sınır geçişi raporlarına göz gezdirdik, ve N Kuruluşu'nun haftalar öncesinden, bir lejyonu sınırdan geçirdiğini gördük. Hatta bizim hedefimiz ile aynı konuma doğru."
     },
     {
       "id": 61,
       "model": "이스마엘",
-      "content": "From N Corp?"
+      "content": "N Kuruluşu'ndan mı?"
     },
     {
       "id": 62,
       "model": "제복에피",
       "teller": "Effie",
       "title": "LCCB",
-      "content": "Though this wasn’t an officially disclosed activity, seeing that K Corp. has let them pass means they might have made a deal under the table."
+      "content": "Bu resmi bir aktivite olmadığı halde, K Kuruluşu'nun geçişe izin vermesi, masa altında bir anlaşma dönmüş olması ihtimalini de ortaya çıkartıyor."
     },
     {
       "id": 63,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Which… if it’s true that N Corp. has sent staff in advance, then the journey won’t be a smooth one."
+      "content": "Yanisi… N Kuruluşu'nun erkenden personel gönderdiği bilgisi doğru ise, maceramız hiç de rahat geçmeyecek."
     },
     {
       "id": 64,
