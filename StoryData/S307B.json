@@ -8,12 +8,12 @@
     {
       "id": 1,
       "model": "히스클리프",
-      "content": "‘Ey, what the… What’s that thing running at us?"
+      "content": "‘Ey, o ne lan… O ney de bize koşuyor?"
     },
     {
       "id": 2,
       "model": "뫼르소",
-      "content": "ETA is three seconds. Manager, your judgement?"
+      "content": "Tahmini çarpışma süresi üç saniye. Müdür, kararınız nedir?"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
     {
       "id": 6,
       "model": "베르길리우스",
-      "content": "Ah, there you are. K Corp’s superstar."
+      "content": "Ah, işte buradasın. K Kuruluşu'nun süper yıldızı."
     },
     {
       "id": 7,
@@ -42,77 +42,77 @@
       "model": "지크프리트",
       "teller": "???",
       "title": "???",
-      "content": "Greetings one and all! You are free to share stories of the heroic feats you are to witness here, but photographs and more will require permission from K Corp!"
+      "content": "Hepinize selamlar! Burada yüzleşeceğiniz olayları hikayelere döküp yaymakta özgürsünüz, fakat fotoğraflar ve daha fazlası için K Kuruluşu'ndan izin almanız lazım!"
     },
     {
       "id": 9,
       "model": "지크프리트",
       "teller": "???",
       "title": "???",
-      "content": "Alas, I must attend a magazine interview in half an hour, so I cannot overlinger. I pray you to understand!"
+      "content": "Maalesef ki, Yarım saate bir dergiye röportaj vermem gerekiyor, bu yüzden vaktimi burada çok harcayamam. Umarım anlayış gösterebilirsiniz!"
     },
     {
       "id": 10,
       "model": "베르길리우스",
-      "content": "Was wondering when you’d come."
+      "content": "Ne zaman geleceğini düşünüyordum ben de."
     },
     {
       "id": 11,
       "model": "베르길리우스",
-      "content": "I heard you became a wagie serving a Wing, Siegfried."
+      "content": "Kanat'ın birine hizmet eden bir maaşlı çalışan olduğunu duydum, Siegfried."
     },
     {
       "id": 12,
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Ahaha! I see your tongue is as sharp as ever, dear fellow!"
+      "content": "Ahaha! Dilin her zamanki gibi kılıçtan keskin, güzel dostum!"
     },
     {
       "id": 13,
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "I rushed here at once in response to code purple, and methinks your friends were the perpetrators!"
+      "content": "Buraya mor kod yüzünden koşturdum, ve düşünüyorum ki yoldaşların bu kargaşanın sorumlusu!"
     },
     {
       "id": 14,
       "model": "베르길리우스",
-      "content": "Not exactly friends. I hope you understand that I have nothing to do with the commotion."
+      "content": "Yoldaşlarım sayılmazlar. Umarım olay ile hiç bir bağlantım olmadığını anlayabilirsin."
     },
     {
       "id": 15,
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "In that case…"
+      "content": "O halde…"
     },
     {
       "id": 16,
       "model": "베르길리우스",
-      "content": "Yup, I’m counting on you to give them a spicy lesson."
+      "content": "Evet, onlara güzel bir ders vermen konusunda sana güveniyorum."
     },
     {
       "id": 17,
       "model": "히스클리프",
-      "content": "What are you two muttering about? Don’t bode well."
+      "content": "Ne fısıldaşıyorsunuz lan? Hiç iyi gelmiyor kulağa."
     },
     {
       "id": 18,
       "model": "료슈",
-      "content": "Agreed. From under what stone did he come out?"
+      "content": "Kabul. Hangi taşın altından çıktı bu?"
     },
     {
       "id": 19,
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Hahahah! Well well, it appears that some of you come from faraway lands. Right then, I shall grant you all the privilege of photography for this special occasion!"
+      "content": "Hahahah! Evet, görünüşe bakılırsa bazılarınız uzak topraklardan geliyor. O halde, bu özel an için size benimle fotoğraf çektirme imtiyazını sunacağım!"
     },
     {
       "id": 20,
       "model": "오티스",
-      "content": "He treats us like worshippers on the streets. How dare y—"
+      "content": "Bizi iki üç putpereste benzetiyor. Ne cüretl—"
     },
     {
       "id": 21,
@@ -132,14 +132,14 @@
     {
       "id": 24,
       "model": "베르길리우스",
-      "content": "We’re in a hurry, so get this done within one minute if possible. And keep that clockhead out of this."
+      "content": "Biraz acelemiz var, yani bir dakika içinde işini hallet. Ve şu saat kafalıyı bu işten uzak tut."
     },
     {
       "id": 25,
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Hmm… A prosthetic, is it? Right then, make it 50 seconds!!!"
+      "content": "Hmm… Protezli, değil mi? Tamam o halde, 50 saniye!!!"
     },
     {
       "id": -1,
@@ -165,19 +165,19 @@
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Now, look here once more! I’m sure our fans will love it!"
+      "content": "Bakın buraya hele! Hayranlarımızın buna bayılacağına eminim!"
     },
     {
       "id": 29,
       "model": "료슈",
-      "content": "This blighter… is too damn strong."
+      "content": "Bu eleman… fazla güçlü."
     },
     {
       "id": 30,
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Hm? What did you do just now? Hahahah! Well, isn’t that cute!"
+      "content": "Hm? Ne diyorsun sen şimdi? Hahahah! Ne tatlı ama!"
     },
     {
       "id": 31,
@@ -186,7 +186,7 @@
     },
     {
       "id": 32,
-      "content": "One after another, he made short work of the Sinners."
+      "content": "Sıra sıra, Günahkarlar'ı bozuk para gibi harcamaya başlamıştı."
     },
     {
       "id": 33,
@@ -200,12 +200,12 @@
     {
       "id": 35,
       "model": "베르길리우스",
-      "content": "About time they learned what happens if they kick up a ruckus in a Nest thinking they can get away with it."
+      "content": "Arkalarında bırakabileceklerini sanarak, bir Kanat'ın içinde mevzu çıkartırlarsa neler yaşayabileceklerini görüyorlar işte."
     },
     {
       "id": 36,
       "model": "베르길리우스",
-      "content": "…Dante, you may not remember it at the moment, but at one point you used to be something of a bigwig… so to speak."
+      "content": "…Dante, şu an hatırlamıyor olabilirsin, fakat geçmişte oldukça… önemli birisiydin."
     },
     {
       "id": 37,
@@ -286,7 +286,7 @@
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Hurrah! 46.5 seconds! Another day, another heroic tale of justice written!!"
+      "content": "Harika! 46.5 saniye! Yeni bir gün, ve yeni bir adalet hikayesi!!"
     },
     {
       "id": 55,
