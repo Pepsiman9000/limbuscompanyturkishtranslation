@@ -666,7 +666,7 @@
         {
           "level": 4,
           "name": "Kavurucu Darbe",
-          "desc": "Coin Power +<style=\"highlight\">2</style> for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +<style=\"highlight\">10</style>% more damage for every Wrath Rezon. (max <style=\"highlight\">60</style>%)\n<style=\"highlight\">If at 4+ highest Wrath A-Rezon., deal +20% more damage for every Wrath Rezon. instead (max 120%)</style>\n[EndSkill] Lose 15 SP",
+          "desc": "Coin Power +<style=\"highlight\">2</style> for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +<style=\"highlight\">10</style>% more damage for every Wrath Rezon. (max <style=\"highlight\">60</style>%)\n<style=\"highlight\">If at 4+ highest Wrath M-Rezon., deal +20% more damage for every Wrath Rezon. instead (max 120%)</style>\n[EndSkill] Lose 15 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1323,7 +1323,7 @@
         {
           "level": 4,
           "name": "Faizli Geri Dönüş",
-          "desc": "Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] Bir sonraki tur bu Özellik Yuvasına +<style=\"highlight\">5</style> [Aggro] kazan\n[StartBattle] (en yüksek Rezon. / 2) Saldırı Seviyesi kazan (max 3, aşağı yuvarla)\n<style=\"highlight\">- eğer bu Rezon. bir A-Rezon. içeriyor ise, yukarıdaki efektten kazanılan Saldırı Seviyesini ikiye katla</style>",
+          "desc": "Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] Bir sonraki tur bu Özellik Yuvasına +<style=\"highlight\">5</style> [Aggro] kazan\n[StartBattle] (en yüksek Rezon. / 2) Saldırı Seviyesi kazan (max 3, aşağı yuvarla)\n<style=\"highlight\">- eğer bu Rezon. bir M-Rezon. içeriyor ise, yukarıdaki efektten kazanılan Saldırı Seviyesini ikiye katla</style>",
           "coinlist": [
             {},
             {
@@ -1375,7 +1375,7 @@
         {
           "level": 4,
           "name": "Alayını Yazın Ulan",
-          "desc": "Her 2 [VengeanceBookSinclair] başına +1% daha fazla hasar vur <style=\"highlight\">1</style> (max <style=\"highlight\">30%</style>)\n<style=\"highlight\">Rakip üzerindeki her 6 [Laceration] başına Jeton Gücü +1 (max 2)</style>\n[StartBattle] Bu yetenek (en yüksek Rezon. / 2) Saldırı Gücü kazanır (max 3, aşağı yuvarla)\n<style=\"highlight\">- eğer bu Rezon. bir A-Rezon. içeriyor ise, yukarıdaki efektten kazanılan Saldırı Seviyesini ikiye katla</style>",
+          "desc": "Her 2 [VengeanceBookSinclair] başına +1% daha fazla hasar vur <style=\"highlight\">1</style> (max <style=\"highlight\">30%</style>)\n<style=\"highlight\">Rakip üzerindeki her 6 [Laceration] başına Jeton Gücü +1 (max 2)</style>\n[StartBattle] Bu yetenek (en yüksek Rezon. / 2) Saldırı Gücü kazanır (max 3, aşağı yuvarla)\n<style=\"highlight\">- eğer bu Rezon. bir M-Rezon. içeriyor ise, yukarıdaki efektten kazanılan Saldırı Seviyesini ikiye katla</style>",
           "coinlist": [
             {},
             {
@@ -1426,7 +1426,7 @@
         {
           "level": 4,
           "name": "Doğu'da İdman",
-          "desc": "<style=\"highlight\">[StartBattle] Bu yetenek, Haset A-Rezon'ların toplamına göre değişir.:\n- 4+ A-Rezon. toplamında, karşı saldırı olarak 'Faizli Geri Dönüş'ü kullan\n- 6+ A-Rezon. toplamında, karşı saldırı olarak 'Alayını Yazın Ulan'ı kullan\n(En soldaki Yetenek Yuvasından başlar. Tur başına 2 kez aktive olur)</style>\n[StartBattle] Eksik HP'nin <style=\"highlight\">30%</style>unu Kalkan olarak kazan (turda bir kez)",
+          "desc": "<style=\"highlight\">[StartBattle] Bu yetenek, Haset M-Rezon'ların toplamına göre değişir.:\n- 4+ M-Rezon. toplamında, karşı saldırı olarak 'Faizli Geri Dönüş'ü kullan\n- 6+ M-Rezon. toplamında, karşı saldırı olarak 'Alayını Yazın Ulan'ı kullan\n(En soldaki Yetenek Yuvasından başlar. Tur başına 2 kez aktive olur)</style>\n[StartBattle] Eksik HP'nin <style=\"highlight\">30%</style>unu Kalkan olarak kazan (turda bir kez)",
           "coinlist": [
             {
               "coindescs": [
