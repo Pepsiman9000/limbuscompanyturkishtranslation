@@ -4,17 +4,17 @@
       "id": 0,
       "place": "K Corp. Checkpoint",
       "model": "단테",
-      "content": "<I’ve gotten used to this sort of situation, but it looks pretty serious.>"
+      "content": "<Bu tarz durumlara artık alıştım da bu seferki sıkıntı gibi duruyor.>"
     },
     {
       "id": 1,
       "model": "파우스트",
-      "content": "Doğru. Neticede, bir Kanat'ın yasaklarından birini çiğnedik."
+      "content": "Doğru. Neticede, bir Kanat'ın tabularından birini çiğnedik."
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<It’s not like anyone was hurt—can’t we just talk this through?>"
+      "content": "<Ama kimsenin başına bir şey gelmedi, bunu konuşarak halledemez miyiz?>"
     },
     {
       "id": 3,
@@ -22,16 +22,16 @@
     },
     {
       "id": 4,
-      "content": "Genellikle konuşur iken boşluğa bakan Faust'un, birine doğrudan bakması tek bir şey anlamına geliyordu:"
+      "content": "Genellikle konuşurken boşluğa bakan Faust'un, birine doğrudan bakması tek bir şeyi ima ediyordu:"
     },
     {
       "id": 5,
-      "content": "Çok sinirlendirici bir şey söylemiş olmalıydım."
+      "content": "Çok salakça bir şey söylemiş olmalıyım."
     },
     {
       "id": 6,
       "model": "파우스트",
-      "content": "Hangi Kanat olursa olsun, bir yasağın çiğnenmesi—"
+      "content": "Hangi Kanat olursa olsun, bir tabunu ihlali—"
     },
     {
       "id": -1,
@@ -40,35 +40,35 @@
     },
     {
       "id": 7,
-      "content": "Gürültülü bir patlama Don Kişot'u olduğu yerde parçalarına ayırdı.."
+      "content": "Uzaktaki gürültülü bir patlama Don Quixote'yi parçalara ayırdı."
     },
     {
       "id": 8,
       "model": "파우스트",
-      "content": "—uyarısız bir şekilde yasağı çiğneyen kişiye karşı ölümcül önemler alınabilmesi anlamına gelir."
+      "content": "—uyarısız bir şekilde ihlal eden kişiye karşı ölümcül önemler alınmasını gerektirir."
     },
     {
       "id": 9,
-      "content": "Görünüşe göre sınır kontrolü, geriye kalan diğer günahkarları da parçalarına ayırana kadar bizi affetmeye niyetli değildi…"
+      "content": "Görünüşe göre sınır kontrolü, geriye kalan diğer Günahkârları da parçalarına ayırana kadar bizi affetmeye niyetli değildi…"
     },
     {
       "id": 10,
-      "content": "Silahlanmış güvenlikler her tarafımızı kuşatmıştı."
+      "content": "Silahlanmış güvenlikler bir anda her tarafımızı kuşattılar."
     },
     {
       "id": 11,
       "model": "베르길리우스",
-      "content": "…Sürekli beni şaşırtıyorsun."
+      "content": "…Beni şaşırtmakta hiç geri kalmayın zaten."
     },
     {
       "id": 12,
       "model": "베르길리우스",
-      "content": "Sana bıraktığım son umut damlasını da kurutmayı başardın.."
+      "content": "Sende kalan son beklenti damlamı da kurutmayı başardın.."
     },
     {
       "id": 13,
       "model": "베르길리우스",
-      "content": "Ben buna bulaşmıyorum. İstersen suçu ona yık, istersen sorumluluğu üzerine al, ne istersen yap."
+      "content": "Ben buna bulaşmıyorum. Bütün hepsini ona yık, sorumluğu üstlen falan ne yapıyorsan yap."
     },
     {
       "id": 14,
@@ -78,15 +78,15 @@
     {
       "id": 15,
       "model": "베르길리우스",
-      "content": "Kaçınılmaz sorunları halletmek için size eşlik ettim, akıntıya karşı yüzmek için değil."
+      "content": "Kaçınılmaz sorunları halletmek için size eşlik ettim, sağ sola isyan etmek için değil."
     },
     {
       "id": 16,
-      "content": "Vergilius silahlı güvenliklerin arasından rahatça ilerledi ve bir duvara yaslandı."
+      "content": "Vergilius silahlı güvenliklerin arasından rahatça süzülüp ve bir duvara yaslandı."
     },
     {
       "id": 17,
-      "content": "Sonra sanki sadece bir seyirci olarak kalacağını vurgularmışçasına, kollarını kavuşturdu."
+      "content": "Sonra sadece bir seyirci olarak kalacağını daha da vurgularcasına, kollarını kavuşturdu."
     }
   ]
 }
