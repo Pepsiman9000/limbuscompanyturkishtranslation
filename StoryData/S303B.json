@@ -4,12 +4,12 @@
       "id": 0,
       "place": "K Corp. Checkpoint",
       "model": "이스마엘",
-      "content": "The line’s moving quickly. It’ll be our turn in about 10 minutes at most."
+      "content": "Sıra oldukça hızlı ilerliyor. En geç 10 dakikaya bizim de sıramız gelecek."
     },
     {
       "id": 1,
       "model": "이스마엘",
-      "content": "Will all thirteen of us need to answer immigration questions? They won’t be able to understand Manager Dante, so what should we do?"
+      "content": "On üçümüzün de teker teker soruları cevaplaması mı gerekecek? Müdür Dante'yi anlamayacaklar, napacağız bu konuda?"
     },
     {
       "id": 2,
@@ -18,47 +18,47 @@
     {
       "id": 3,
       "model": "베르길리우스",
-      "content": "I was just about to get to that."
+      "content": "Tam da o konuya değinecektim."
     },
     {
       "id": 4,
       "model": "베르길리우스",
-      "content": "Listen up. The K Corp. official will only ask very simple questions to the passengers in this line."
+      "content": "Dinleyin. K Kuruluşu memurları, bu sıradaki kişilere yeterince kısa sorular soracak."
     },
     {
       "id": 5,
       "model": "베르길리우스",
-      "content": "And your answers will be similarly concise."
+      "content": "Cevaplarınız da buna benzer şekilde kısa kalacak."
     },
     {
       "id": 6,
       "model": "베르길리우스",
-      "content": "When the border official asks about the nature of your visit…"
+      "content": "Sınır memuru ziyaret nedeninizi sorduğundan…"
     },
     {
       "id": 7,
       "model": "베르길리우스",
-      "content": "Say: “I’m here for business on the behalf of Limbus Company, please refer to my work visa.”"
+      "content": "Şöyle diyeceksiniz: “Limbus Şirketi adına çalışmak için buradayım, lütfen çalışma iznime göz atın.”"
     },
     {
       "id": 8,
       "model": "베르길리우스",
-      "content": "Remember this exact phrase so that you can recite it word for word."
+      "content": "Bunu aklınızda ezberleyin ki, sıra size geldiğinde harfiyen diyebilesiniz."
     },
     {
       "id": 9,
       "model": "베르길리우스",
-      "content": "I’ll take care of the rest, so you just have to prove that you aren’t here to cause trouble."
+      "content": "Kalan prosedürü ben halledeceğim, yani yapmanız gereken tek şey buraya sorun çıkartmak için gelmediğinizi kanıtlamak."
     },
     {
       "id": 10,
       "model": "파우스트",
-      "content": "If even memorizing that is too much of a burden for you, I suggest that you keep your mouth shut."
+      "content": "Eğer bunları hatırlamak bile size yorucu geliyorsa, yapabileceğiniz en iyi şey çenenizi kapatmak."
     },
     {
       "id": 11,
       "model": "파우스트",
-      "content": "You can present your employee card instead."
+      "content": "Konuşmak yerine kartlarınızı göstermeniz yeterli olacaktır."
     },
     {
       "id": 12,
@@ -80,17 +80,17 @@
     {
       "id": 16,
       "model": "베르길리우스",
-      "content": "Now, next up."
+      "content": "Şimdi, sıradaki."
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "If you have a question, make sure to first ask yourself if it’s actually meaningful."
+      "content": "Eğer bir sorunuz varsa, öncelikle mantıklı olup olmadığını kendinize bir sorun."
     },
     {
       "id": 18,
       "model": "베르길리우스",
-      "content": "Then quietly raise your hand."
+      "content": "Ardından da sessizce elinizi kaldırın."
     },
     {
       "id": 19,
@@ -104,22 +104,22 @@
     {
       "id": 21,
       "model": "로쟈",
-      "content": "Since this trip is for business, we can carry our weapons, yeah~?"
+      "content": "İş gezisinde olduğumuza göre, silahlarımızı taşımamızda sakınca var mıdır~?"
     },
     {
       "id": 22,
       "model": "베르길리우스",
-      "content": "Correct. Next."
+      "content": "Yoktur. Sıradaki."
     },
     {
       "id": 23,
       "model": "로쟈",
-      "content": "Then, Greg’s creepy-crawly arm and Dante’s chichi clockhead’re getting a pass too?"
+      "content": "Yani Greg'in korkunçlu kolu ve Dante'nin şirin saat kafası da sınırdan geçebiliyor?"
     },
     {
       "id": 24,
       "model": "이스마엘",
-      "content": "That should be the case. For your reference, our manager’s head counts as a prosthetic rather than a weapon, which means it’d be approved even if what we had were a tourist visa, powers to revive notwithstanding."
+      "content": "Öyle olmalı. Müdürümüzün kafası bir silah aksine sadece bir protez, yani bir turist vizemiz olsa bile, restorasyon gücü göz ardı edilecek şekilde geçiş izni alabilir."
     },
     {
       "id": 25,
@@ -136,7 +136,7 @@
     {
       "id": 28,
       "model": "베르길리우스",
-      "content": "Precisely."
+      "content": "Aynen öyle."
     },
     {
       "id": 29,
@@ -145,12 +145,12 @@
     {
       "id": 30,
       "model": "베르길리우스",
-      "content": "And, Ryōshū. Put out your cigarette before you speak."
+      "content": "Ve, Ryōshū. Konuşmadan önce sigaranı bırak."
     },
     {
       "id": 31,
       "model": "료슈",
-      "content": "…I didn’t raise my hand."
+      "content": "…Elimi kaldırmadım bile."
     },
     {
       "id": 32,
@@ -168,7 +168,7 @@
     {
       "id": 35,
       "model": "베르길리우스",
-      "content": "…Fine, Don Quixote. What is it?"
+      "content": "…Tamam, Don Quixote. Ne oldu?"
     },
     {
       "id": 36,
@@ -192,17 +192,17 @@
     {
       "id": 40,
       "model": "그레고르",
-      "content": "That line’s slowed to a crawl, people are sat on the floor waiting for it to move."
+      "content": "Sıra ilerlemiyor herhalde, hareketlenmesini bekleyen insanlar yere oturmuş hep."
     },
     {
       "id": 41,
       "model": "그레고르",
-      "content": "Looks like they’ve been there for quite some time."
+      "content": "Bir süredir buradalar gibi görünüyor."
     },
     {
       "id": 42,
       "model": "뫼르소",
-      "content": "There are many armed guards as well. Three times as many compared to this side."
+      "content": "Fazlaca gardiyan da mevcut. Bizim sıradakilerin üç katı neredeyse."
     },
     {
       "id": 43,
