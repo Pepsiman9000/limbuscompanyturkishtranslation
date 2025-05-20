@@ -246,43 +246,43 @@
     },
     {
       "id": "tuto_01_02_01_01",
-      "content": "Chaining multiple Skills with the same <color=#f8c200>Affinity(Color)<color=#ebcaa2> in the same turn will activate what is known as <color=#f8c200><Resonance><color=#ebcaa2>."
+      "content": "Aynı <color=#f8c200>Günah Türünden(Renk)<color=#ebcaa2> birkaç Yeteneği zincirlemek, <color=#f8c200><Rezonans><color=#ebcaa2> adı verilen şeyi tetikler."
     },
     {
       "id": "tuto_01_02_01_02",
-      "content": "Connect these Skills with the same Affinities and activate <color=#f8c200><Resonance><color=#ebcaa2>."
+      "content": "Aynı Günah Türüne sahip Yetenekleri zincirle ve <color=#f8c200><Rezonans><color=#ebcaa2> tetikle."
     },
     {
       "id": "tuto_01_02_01_03",
-      "content": "<color=#f8c200>Chaining 3 or more adjacent Skills<color=#ebcaa2> with the same Affinity activates <color=#f8c200><Absolute Resonance><color=#ebcaa2>.\n\nTry activating <color=#f8c200><Absolute Resonance><color=#ebcaa2> using these Skills."
+      "content": "<color=#f8c200>Yan yana 3 ya da daha fazla <color=#ebcaa2> aynı Günah Türüne sahip Yetenek zincirlemek, <color=#f8c200><Mutlak Rezonans><color=#ebcaa2> tetikler.\n\nHadi bu Yetenekleri kullanarak bir <color=#f8c200><Mutlak Rezonans><color=#ebcaa2> tetikle."
     },
     {
       "id": "tuto_01_02_01_04",
-      "content": "Activating <color=#f8c200><Resonance><color=#ebcaa2> or <color=#f8c200><Absolute Resonance><color=#ebcaa2> grants minor boosts to the Skills chained for the Resonance, such as a slight increase in Skill Power."
+      "content": "<color=#f8c200><Rezonans><color=#ebcaa2> veya <color=#f8c200><Mutlak Rezonans><color=#ebcaa2>, Rezonans için kullan Yeteneklere daha yüksek Çarpışma Gücü gibi küçük geliştirmeler sağlar. "
     },
     {
       "id": "tuto_01_02_01_05_title",
-      "content": "Resonance"
+      "content": "Rezonans"
     },
     {
       "id": "tuto_01_02_01_06",
-      "content": "Chaining 2 or more Skills with the same Affinity in the same turn will activate what is known as <color=#f8c200><Resonance><color=#ebcaa2>."
+      "content": "Aynı Günah Türüne sahip 2 veya daha fazla Yetenek zincirlemek <color=#f8c200><Rezonans><color=#ebcaa2> tetikler."
     },
     {
       "id": "tuto_01_02_02_01_title",
-      "content": "Absolute Resonance"
+      "content": "Mutlak Rezonans"
     },
     {
       "id": "tuto_01_02_02_02",
-      "content": "Chaining 3 or more adjacent Skills with the same Affinity in the same turn will activate what is known as <color=#f8c200><Absolute Resonance><color=#ebcaa2>."
+      "content": "Aynı Günah Türüne sahip yan yana 3 veya daha fazla yetenek zincirlemek <color=#f8c200><Mutlak Rezonans><color=#ebcaa2> tetikler."
     },
     {
       "id": "tuto_01_02_02_03_title",
-      "content": "Resonance Effects"
+      "content": "Rezonans Etkikleri"
     },
     {
       "id": "tuto_01_02_02_04",
-      "content": "Activating <color=#f8c200><Resonance><color=#ebcaa2> slightly enhances affected Skills based on <color=#f8c200>the number of Skills linked in the Resonance chain<color=#ebcaa2>. Skills closer to the right end of the Dashboard receive greater boosts.\n\nActivating <color=#f8c200><Absolute Resonance><color=#ebcaa2> guarantees that every Skill in the Resonance chain receives the boost."
+      "content": "<color=#f8c200><Rezonans><color=#ebcaa2> tetiklemek, <color=#f8c200>Rezonans altında zincirlenmiş yetenek sayısı kadar<color=#ebcaa2> bonuslar verir. Rezonans altındaki her Yetenek, kendinden önceki Yetenek sayısı kadar bonus kazanır (Yani Panelde ne kadar sağda ise, o kadar fazla).\n\n<color=#f8c200><Mutlak Rezonans><color=#ebcaa2> tetiklediğinde ise, zincirdeki her Yetenek bu bonusu alır."
     },
     {
       "id": "tuto_01_02_03_01",
