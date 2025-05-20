@@ -10,10 +10,6 @@
     },
     {
       "id": "3",
-      "content": "A Coin’s Power may increase or decrease depending on the face it lands on."
-    },
-        {
-      "id": "3",
       "content": "Bir Jeton'un Tura Gücü, geldiği yüze göre artabilir ya da azalabilir."
     },
     {
@@ -115,6 +111,9 @@
     {
       "id": "34",
       "content": "Savaş Pasifleri ve Destek Pasifleri aktive olması için belirli Günah Rezonansı ya da Kaynağa ihtiyaç duyar."
-    }
+    },
+    {
+      "id": "35",
+      "content": "Kurabiye bütün Renk İşçözücüleri sololar."
   ]
 }
