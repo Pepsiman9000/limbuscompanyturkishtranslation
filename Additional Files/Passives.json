@@ -1149,14 +1149,14 @@
   {
   "id": 1090801,
   "name": "Yanan Tutku",
-  "desc": "Hedefteki her 6 [Combustion] Şiddeti için %5 daha fazla hasar ver (Maksimum %15)\nSavaş Başlangıcı: Tüm düşmanlarda 6+ [Combustion] Şiddeti varsa, (en yüksek Öfke A-Rezonansı olan) müttefiklere konuşlandırma sırasına göre 1 [CrimsonDamageUp] uygula\n- Odaklı Karşılaşmalarda, yukarıdaki etki tüm düşman Parçalarında 6+ [Combustion] olduğunda aktif olur",
-  "summary": "Hedefteki her 6 [Combustion] Şiddeti için %5 daha fazla hasar ver (Maksimum %15)\nBelirli Yanma ve Öfke A-Rezonans koşullarında, müttefiklere buff uygula"
+  "desc": "Hedefteki her 6 [Combustion] Şiddeti için %5 daha fazla hasar ver (Maksimum %15)\nSavaş Başlangıcı: Tüm düşmanlarda 6+ [Combustion] Şiddeti varsa, (en yüksek Öfke M-Rezonansı olan) müttefiklere konuşlandırma sırasına göre 1 [CrimsonDamageUp] uygula\n- Odaklı Karşılaşmalarda, yukarıdaki etki tüm düşman Parçalarında 6+ [Combustion] olduğunda aktif olur",
+  "summary": "Hedefteki her 6 [Combustion] Şiddeti için %5 daha fazla hasar ver (Maksimum %15)\nBelirli Yanma ve Öfke M-Rezonans koşullarında, müttefiklere buff uygula"
   },
   {
   "id": 1090811,
   "name": "Yanan Tutku",
-  "desc": "Hedefteki her 6 [Combustion] Şiddeti için %10 daha fazla hasar ver (Maksimum %30)\nSavaş Başlangıcı: Tüm düşmanlarda 6+ [Combustion] Şiddeti varsa, (en yüksek Öfke A-Rezonansı olan) müttefiklere konuşlandırma sırasına göre 1 [CrimsonDamageUp] uygula\n- Odaklı Karşılaşmalarda, yukarıdaki etki tüm düşman Parçalarında 6+ [Combustion] olduğunda aktif olur\n- Müttefik bir Liu Birliği Fixer ise, 1 Saldırı Gücü Artışı uygula",
-  "summary": "Hedefteki her 6 [Combustion] Şiddeti için %10 daha fazla hasar ver (Maksimum %30)\nBelirli Yanma ve Öfke A-Rezonans koşullarında, müttefiklere buff uygula"
+  "desc": "Hedefteki her 6 [Combustion] Şiddeti için %10 daha fazla hasar ver (Maksimum %30)\nSavaş Başlangıcı: Tüm düşmanlarda 6+ [Combustion] Şiddeti varsa, (en yüksek Öfke M-Rezonansı olan) müttefiklere konuşlandırma sırasına göre 1 [CrimsonDamageUp] uygula\n- Odaklı Karşılaşmalarda, yukarıdaki etki tüm düşman Parçalarında 6+ [Combustion] olduğunda aktif olur\n- Müttefik bir Liu Birliği Fixer ise, 1 Saldırı Gücü Artışı uygula",
+  "summary": "Hedefteki her 6 [Combustion] Şiddeti için %10 daha fazla hasar ver (Maksimum %30)\nBelirli Yanma ve Öfke M-Rezonans koşullarında, müttefiklere buff uygula"
   },
   {
   "id": 1090821,
