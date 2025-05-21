@@ -13,7 +13,7 @@ Limbus Company'nin resmi olmayan Türkçe çeviri projesidir. Oyun içi metinler
 - <span style="color:#ffef23">**donkilot**</span> - 1# Çevirmen
 - <span style="color:#b01c37">**durante035**</span> - 2# Çevirmen
 - <span style="color:#5BFFDE">**shcyank**</span> - 3# Çevirmen
-- <span style="color:#4e3076">**sf_x**</span> - Çevirmen
+- <span style="color:#4e3076">**sf_x**</span> - Vahşi Tacizci
 - <span style="color:#ffbfb4">**mox**</span> - Çevirmen
 - <span style="color:#325339">**_bloodharborripper**</span> - Çevirmen
 - <span style="color:#5BFFDE">**atarik41**</span> - Canto 8 Düşleyicisi/Çevirmen
