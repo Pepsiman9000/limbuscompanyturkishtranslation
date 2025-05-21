@@ -16,6 +16,7 @@ Limbus Company'nin resmi olmayan Türkçe çeviri projesidir. Oyun içi metinler
 - <span style="color:#4e3076">**sf_x**</span> - Çevirmen
 - <span style="color:#ffbfb4">**recelmox**</span> - Çevirmen
 - <span style="color:#325339">**_bloodharborripper**</span> - Çevirmen
+- <span style="color:#5BFFDE">**atarik41**</span> - Canto 8 Düşleyicisi/Çevirmen
 - <span style="color:#69350b">**fuuemir**</span> - Çevirmen
 - <span style="color:#293b95">**normal_akelius**</span> - Çevirmen
 - <span style="color:#5555ff">**boibebe**</span> - Çevirmen
