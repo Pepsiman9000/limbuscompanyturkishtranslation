@@ -1,6 +1,6 @@
 # 🎭 Limbus Company - Türkçe Yama Projesi
 
-![Limbus Company Logo](aziz_şuraya_logo_koy_amk.com) 
+![Limbus Company Logo]((https://i.imgur.com/ZpxDkNQ.png)) 
 
 Bu repo, **Limbus Company** oyununun Türkçe çevirisini içermektedir. Çeviri, topluluk tarafında zulüm ve faşist bir yönetim biçimi ile yapılmakta ve düzenlenmektedir.
 
