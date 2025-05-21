@@ -14,7 +14,7 @@ Limbus Company'nin resmi olmayan Türkçe çeviri projesidir. Oyun içi metinler
 - <span style="color:#b01c37">**durante035**</span> - 2# Çevirmen
 - <span style="color:#5BFFDE">**shcyank**</span> - 3# Çevirmen
 - <span style="color:#4e3076">**sf_x**</span> - Çevirmen
-- <span style="color:#ffbfb4">**recelmox**</span> - Çevirmen
+- <span style="color:#ffbfb4">**mox**</span> - Çevirmen
 - <span style="color:#325339">**_bloodharborripper**</span> - Çevirmen
 - <span style="color:#5BFFDE">**atarik41**</span> - Canto 8 Düşleyicisi/Çevirmen
 - <span style="color:#69350b">**fuuemir**</span> - Çevirmen
@@ -23,6 +23,7 @@ Limbus Company'nin resmi olmayan Türkçe çeviri projesidir. Oyun içi metinler
 - <span style="color:#ff9500">**vexentnex**</span> - Çevirmen
 - <span style="color:#cf0000">**alp9913**</span> - Çevirmen
 - <span style="color:#8b9c15">**syestq.**</span> - Çevirmen
+- <span style="color:#ffffff">**doguu33**</span> - Çevirmen
 
 
 
