@@ -3,7 +3,7 @@
     {
       "id": 0,
       "place": "K Corp. Checkpoint",
-      "content": "A figure approached us with terrifying force, reminiscent of a frenzied beast."
+      "content": "Korkunç bir güçle figür bize yaklaştı, Çıldırmış bir yaratığınkini anımsatırcasına."
     },
     {
       "id": 1,
@@ -13,67 +13,67 @@
     {
       "id": 2,
       "model": "뫼르소",
-      "content": "Tahmini çarpışma süresi üç saniye. Müdür, kararınız nedir?"
+      "content": "Tahmini varış süresi üç saniye. Müdür, kararınız nedir?"
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<I… I dunno, I’m not sure what to…>"
+      "content": "<Ne… eee bilmem, Ne yapmam lazım…>"
     },
     {
       "id": 4,
-      "content": "Vergilius was the only one who showed no surprise."
+      "content": "Vergilius şaşırmamış yahut gafil avlanmamış tek kişi idi."
     },
     {
       "id": 5,
-      "content": "To be more clear, he was more displeased than unsurprised at this apparently expected arrival."
+      "content": "Hatta daha çok bu anlaşılan beklediği “Yetişme”den şaşırmamazlıktan ziyade hoşnutsuzdu."
     },
     {
       "id": 6,
       "model": "베르길리우스",
-      "content": "Ah, işte buradasın. K Kuruluşu'nun süper yıldızı."
+      "content": "Ah, işte geldin. K Kuruluşu'nun süper yıldızı."
     },
     {
       "id": 7,
-      "content": "A jovial-looking man appeared amidst the chaos with an obnoxious laugh."
+      "content": "Kaosun arasından şen şakrak bir adam gıcık kahkalarla çıkageldi."
     },
     {
       "id": 8,
       "model": "지크프리트",
       "teller": "???",
       "title": "???",
-      "content": "Hepinize selamlar! Burada yüzleşeceğiniz olayları hikayelere döküp yaymakta özgürsünüz, fakat fotoğraflar ve daha fazlası için K Kuruluşu'ndan izin almanız lazım!"
+      "content": "Hepinize selamlar millet! Burada yüzleşeceğiniz kahramanca olayları hikayelere döküp yedi cihana yaymaktan çekinmeyin, fakat fotoğraflar ve daha fazlası için K Kuruluşu onaylı izin gerekicek!"
     },
     {
       "id": 9,
       "model": "지크프리트",
       "teller": "???",
       "title": "???",
-      "content": "Maalesef ki, Yarım saate bir dergiye röportaj vermem gerekiyor, bu yüzden vaktimi burada çok harcayamam. Umarım anlayış gösterebilirsiniz!"
+      "content": "Maalesef ki, Yarım saate bir dergiye röportaj vermeye yazgılıyım, bu yüzden vaktimi burada çok harcayamam. Umarım ki anlayış gösterebilirsiniz!"
     },
     {
       "id": 10,
       "model": "베르길리우스",
-      "content": "Ne zaman geleceğini düşünüyordum ben de."
+      "content": "Ne zaman geleceğini merak ediyordum ben de."
     },
     {
       "id": 11,
       "model": "베르길리우스",
-      "content": "Kanat'ın birine hizmet eden bir maaşlı çalışan olduğunu duydum, Siegfried."
+      "content": "Kanat'ın birine hizmet eden bir kiralık olduğunu duydum, Siegfried."
     },
     {
       "id": 12,
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Ahaha! Dilin her zamanki gibi kılıçtan keskin, güzel dostum!"
+      "content": "Ahaha! Dilin her zamanki keskinliğini , güzel dostum!"
     },
     {
       "id": 13,
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Buraya mor kod yüzünden koşturdum, ve düşünüyorum ki yoldaşların bu kargaşanın sorumlusu!"
+      "content": "Buraya mor koda karşılık hemen koştum, ve düşünüyorum ki bu kargalanın failleri yoldaşların olsa gerek!"
     },
     {
       "id": 14,
@@ -90,7 +90,7 @@
     {
       "id": 16,
       "model": "베르길리우스",
-      "content": "Evet, onlara güzel bir ders vermen konusunda sana güveniyorum."
+      "content": "Evet, onlara “İyi” bir ders vermen konusunda sana güveniyorum."
     },
     {
       "id": 17,
@@ -107,32 +107,32 @@
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Hahahah! Evet, görünüşe bakılırsa bazılarınız uzak topraklardan geliyor. O halde, bu özel an için size benimle fotoğraf çektirme imtiyazını sunacağım!"
+      "content": "Hahahah! Evet, görünüşe bakılırsa bazılarınız uzak diyarlardan geliyor. O halde, bu özel an için size benimle fotoğraf çektirme imtiyazını tanıyacağım!"
     },
     {
       "id": 20,
       "model": "오티스",
-      "content": "Bizi iki üç putpereste benzetiyor. Ne cüretl—"
+      "content": "Bizi iki üç hayranına benzetiyor. Ne cüretl—"
     },
     {
       "id": 21,
       "model": "돈키호테",
-      "content": "OOOOHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!"
+      "content": "OOOOOOOOOOOOOOOOHHHHHHHHHHHHHHHHHHHHHHHHHH!!"
     },
     {
       "id": 22,
       "model": "단테",
-      "content": "<Don Quixote, what’s wrong?>"
+      "content": "<Don Quixote, Noldu?>"
     },
     {
       "id": 23,
       "model": "돈키호테",
-      "content": "Th, tha, the, tha, th-tha, the, th, th, tha, that, TH, THE, HH, THAT MAN, HE, HIM, THE MAN HIMSELF!!!!!!!!!!!!!!!!"
+      "content": "İ, i, i, iş, i-ş, işt, iş, iş, işt, işt, İŞTE, O, VALLAHİ, BİLLAHİ, O, İŞTE, TA KENDİSİ!!!!!!!!!!!!!!!!"
     },
     {
       "id": 24,
       "model": "베르길리우스",
-      "content": "Biraz acelemiz var, yani bir dakika içinde işini hallet. Ve şu saat kafalıyı bu işten uzak tut."
+      "content": "Biraz acelemiz var, yani bir dakika içinde hallet. Ve şu saat kafalıyı bu işten uzak tut."
     },
     {
       "id": 25,
@@ -153,7 +153,7 @@
     },
     {
       "id": 26,
-      "content": "Both a skilled fighter and talented performer, I could only watch in awe as he proved himself to be nothing short of a “hero”."
+      "content": "Hem yenekli bir savaşçı hemde çılgın bir şovmen, kendini hiçte bir “Kahraman” olmadığını kanıtlarken dehşet içinde seyretmekten başka bir şey yapamadım."
     },
     {
       "id": 27,
@@ -165,7 +165,7 @@
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Bakın buraya hele! Hayranlarımızın buna bayılacağına eminim!"
+      "content": "Burada bak tekrardan! Hayranlarımızın buna bayılacağına eminim!"
     },
     {
       "id": 29,
@@ -186,11 +186,11 @@
     },
     {
       "id": 32,
-      "content": "Sıra sıra, Günahkarlar'ı bozuk para gibi harcamaya başlamıştı."
+      "content": "Sıra sıra, Günahkârlar'ı bozuk para gibi harcamaya başladı."
     },
     {
       "id": 33,
-      "content": "Vergilius watched the carnage with a pleased expression."
+      "content": "Vergilius kıyımı memnun olmuş bir şekilde izledi."
     },
     {
       "id": 34,
@@ -200,38 +200,38 @@
     {
       "id": 35,
       "model": "베르길리우스",
-      "content": "Arkalarında bırakabileceklerini sanarak, bir Kanat'ın içinde mevzu çıkartırlarsa neler yaşayabileceklerini görüyorlar işte."
+      "content": "Arkalarında bırakabileceklerini sanarak, bir Kanat'ın içinde mevzu çıkartırlarsa ne olacağını öğrenme zamanları."
     },
     {
       "id": 36,
       "model": "베르길리우스",
-      "content": "…Dante, şu an hatırlamıyor olabilirsin, fakat geçmişte oldukça… önemli birisiydin."
+      "content": "…Dante, şu an hatırlamıyor olabilirsin, fakat bir zamanlar sen… oldukça kilit birisiydin."
     },
     {
       "id": 37,
       "model": "단테",
-      "content": "<I… I was?>"
+      "content": "<Ö… Öylemiydim?>"
     },
     {
       "id": 38,
-      "content": "I just couldn’t picture it."
+      "content": "Ben cidden hayal edemedim."
     },
     {
       "id": 39,
-      "content": "Right now, I’m just a powerless leader who fumbles in any emergency—constantly being chewed up, spat out, and ignored in the trash by my Sinners."
+      "content": "Şu anda, Ben sadece güçsüz önüne çıkan her engelde tökezleyen; Günahkârlarca çiğnenen, yutulan, ve umursanmayan bir liderim."
     },
     {
       "id": 40,
-      "content": "They’ve even started treating me as the team’s field medic; to think that this miserable manager used to be the respected leader of many sometime in the past."
+      "content": "Hatta liderden çok sanki ekibin dokturuydum; bu acınası müdürün eskiden büyük bir gürühun saygın lideri olduğunu düşünmek."
     },
     {
       "id": 41,
-      "content": "I felt a genuine desire to ask Faust for another way to recover my memories."
+      "content": "Hakklı bir istekle Faust'a dönüp anılarımı geri kazanmak için başka yollar arama arzusu hissetim."
     },
     {
       "id": 42,
       "model": "베르길리우스",
-      "content": "However, your memory loss does not wholly excuse all the faults in your performance as the manager. I’m certain you understand what I mean."
+      "content": "Fakat, hafıza kaybın müdür olarak sahip olduğun bütün kusurlarını tümüyle örtpas etmemekte. Ne dediğimi anlamışsındır."
     },
     {
       "id": 43,
@@ -240,31 +240,31 @@
     },
     {
       "id": 44,
-      "content": "I thought of the staff at the K Corp. checkpoint."
+      "content": "Kontrol Noktasındaki K Kuruluşu görevisini düşündüm."
     },
     {
       "id": 45,
-      "content": "They showed no pity for the family they were about to tear apart, treating it all as nothing more than part of the due procedure."
+      "content": "Yıkmak üzere oldukları aile hakkında hiçbir rahatsızlıkları yok, hepsini gerekli iş prosedürlerinden farksız görüyorlar."
     },
     {
       "id": 46,
-      "content": "Although Don Quixote got us into trouble when she sprang forth to rectify injustice…"
+      "content": "Her ne kadar Don Quixote adaletsizliği yermek için ileri atıldığında bizi sıkıntıya soktuysa da…"
     },
     {
       "id": 47,
-      "content": "I just know it would’ve haunted my sleep for days if we turned a blind eye."
+      "content": "Eminim ki biz de sağır sultanı oynasaydık günlerce rüyalarıma mussallat olacaktı."
     },
     {
       "id": 48,
-      "content": "And seeing Heathcliff tighten the grip on his weapon to veins as he witnessed the disturbance…"
+      "content": "Ve Heathcliff'in kargaşaya tanık olunca elleriyle sopasının sapına iyice kavramasını görünce…"
     },
     {
       "id": 49,
-      "content": "If not Don Quixote, I feel at least one of us would have intervened."
+      "content": "Don Quixote olmasa bile, sanırım en azından birimiz duruma mudahale ederdik."
     },
     {
       "id": 50,
-      "content": "Truth be told, I didn’t do everything in my power to keep Don Quixote down. Vergilius isn’t necessarily wrong when he says the blame rests on me for causing this."
+      "content": "Aslına bakarsanız, Don Quixote'yi tutmak için elimde olan hiçbir şeyi yapmadım bile. Vergilius sorumluğu benim alabileceğimi söylerken çokta haksız sayılmaz."
     },
     {
       "id": 51,
@@ -274,24 +274,24 @@
     {
       "id": 52,
       "model": "베르길리우스",
-      "content": "Ah, dear… I’ve got to tell them to put a microphone next time."
+      "content": "Aman, Allahım… Sonraki sefere bir mikrafon koymalarını isteyeceğim."
     },
     {
       "id": 53,
       "model": "베르길리우스",
-      "content": "…I’ll take it that you’ve gotten my point."
+      "content": "…Bunu beni anlamana yoruyorum."
     },
     {
       "id": 54,
       "model": "지크프리트",
       "teller": "Siegfried",
       "title": "A Fixer?",
-      "content": "Harika! 46.5 saniye! Yeni bir gün, ve yeni bir adalet hikayesi!!"
+      "content": "Harika! 46.5 saniye! Yeni bir gün, yeni bir kahramanca başarı hikayesi!!"
     },
     {
       "id": 55,
       "model": "베르길리우스",
-      "content": "Ah, looks like the curtains have closed. Time to rewind, Dante."
+      "content": "Ah, Perde bitmiş gibi duruyor. Geri zarma zamanı, Dante."
     }
   ]
 }
