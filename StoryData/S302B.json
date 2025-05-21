@@ -91,7 +91,7 @@
     {
       "id": 18,
       "model": "베르길리우스",
-      "content": "Limbus Şirketi'nin çeşitli alanlarda görevli yatırımcılardan oluşan desteği var."
+      "content": "Limbus Şirketi'nin çeşitli alanlarda görevli yatırımcılardan oluşan destek ağı var."
     },
     {
       "id": 19,
@@ -101,17 +101,17 @@
     {
       "id": 20,
       "model": "홍루",
-      "content": "Evimizi şahsen ziyarete gelmişleri çünkü küçük kardeşim  Diplomatik Passaport alıcam diye tuturmuştu da."
+      "content": "Evimizi şahsen ziyarete gelmişleri çünkü küçük kardeşim  Diplomatik -Siyah- Passaport alıcam diye tuturmuştu da."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "Mağlesef, ben sadece böyle bir bilgiyi bilmeye yetkisi olaman mütevazi bir rehberim."
+      "content": "Mağlesef, ben sadece böyle bir bilgiyi bilmeye yetkisi olmayann mütevazi bir rehberim."
     },
     {
       "id": 22,
       "model": "베르길리우스",
-      "content": "Öyle olmasa bile, soru cevaplamay değicek önemli bir soru gibi durmuyor."
+      "content": "Öyle olmasa bile, soru cevaplamaya değicek önemli bir soru gibi durmuyor."
     },
     {
       "id": 23,
@@ -126,7 +126,7 @@
     {
       "id": 25,
       "model": "베르길리우스",
-      "content": "Bu kadar kati önlemler beraberinde kolay yolla içeri girmek isteyenleri doğruyor, ki bazıları geçiş iznini zor kullanarak da almak isteye biliyor."
+      "content": "Bu kadar kati önlemler beraberinde kolay yolla içeri girmek isteyenleri doğruyor, ki bazıları geçiş iznini zor kullanarak da almak isteyebiliyor."
     },
     {
       "id": 26,
@@ -136,7 +136,7 @@
     {
       "id": 27,
       "model": "단테",
-      "content": "<Yapacak bir şey yok… Bu omnibüs savaşa katılır.>"
+      "content": "<Yapacak bir şey yok… Bu otobüs savaşa katılacak.>"
     }
   ]
 }
