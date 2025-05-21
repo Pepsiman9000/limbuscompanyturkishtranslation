@@ -4,7 +4,7 @@
       "id": 0,
       "place": "Aboard Mephistopheles",
       "model": "카론",
-      "content": "Hoppa danak Charon, hoppa danak park ediyor."
+      "content": "Hoppa danak, Charon hoppa danak park ediyor."
     },
     {
       "id": 1,
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "model": "베르길리우스",
-      "content": "Etrafta at koşturup prensesler kurtarmaya çalışmayın…"
+      "content": "Etrafta at koşturup prensesler kurtarmaya çalışmayın…"  
     },
     {
       "id": 4,
@@ -47,15 +47,15 @@
     },
     {
       "id": 8,
-      "content": "Tehditkar ve sanki bir sorgudaymış hissi veren bu atmosfer, ilk kez gelen her ziyaretçinin şevkini kıral bilirdi ki Günahkârlar da buna istisna değildi."
+      "content": "Tehditkar ve sanki bir sorgudaymış hissi veren bu atmosfer, ilk kez gelen her ziyaretçinin şevkini kıra bilirdi ki Günahkârlar da buna istisna değilerdi."
     },
     {
       "id": 9,
-      "content": "Arada sırada Sinclair'in telaşlanışını, ve Gregor ile Rodya'nın onu sakinleştirmesini duyabiliyordum."
+      "content": "Arada sırada Sinclair'in telaşlandığını, ve Gregor ile Rodya'nın onu sakinleştirdiklerini duyabiliyordum."
     },
     {
       "id": 10,
-      "content": "Sebebini her soruşum kafalarını sallamaları ile sonuçlanıyordu."
+      "content": "Ama sebebini her soruşum kafalarını sallamaları ile sonuçlanıyordu."
     },
     {
       "id": 11,
@@ -70,7 +70,7 @@
     {
       "id": 13,
       "model": "단테",
-      "content": "<Bu sefer neden dışarı çıktın…?>"
+      "content": "<Bu seni ne dışarı çıkardı…?>"
     },
     {
       "id": 14,
@@ -89,7 +89,7 @@
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "Söyle söyleyim, Dante. Üzerine yüklencek olan sorumluluk tek başına üstlenmen için biraz fazla olur."
+      "content": "Dante, söyle söyleyeyim. Üzerine yüklencek olan sorumluluk tek başına üstlenmen için biraz fazla olur."
     },
     {
       "id": 18,
