@@ -334,34 +334,34 @@
     },
     {
       "id": 10306,
-      "name": "A Rotting Corpse’s Memento",
+      "name": "Çürüyen Cesedin Hatırası",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "“Gehk, what’s this odor…”\n\nThe Sinners frowned at the olfactory assault.\nFollowing their eyes, you find an Inquisitor collapsed on the floor.\n\n“Definitely dead…”\n\nThe smell must be coming from the rotting corpse.\nWhile everyone was hesitant to approach, you see something sparkle.\n\nThere seems to be something amidst the writhing manes…\nWhat will you do?",
+      "desc": "“Ah, bu koku da neyin nesi…”\n\nGünahkârlar, bu koku saldırısına karşılık kaşlarını çattılar.\nGözlerinin gittiği yere bakarken, yere çökmüş olan bir Engizitör gördün.\n\n“Kesinlikle ölmüş…”\n\nKoku da muhtemelen çürümüş olan cesetten geliyordu.\nDiğer herkes yaklaşma konusunda tereddüt ediyor olsa da, sen bir şeylerin parıldadığını gördün.\n\nKıvranan yeleler arasında bir şey var gibi…\nNe yapacaksın?",
       "options": [
         {
-          "message": "Examine the dead Inquisitor.",
-          "messageDesc": "Run a Gluttony check. Pass to gain an E.G.O Gift. Fail to lose HP and SP."
+          "message": "Bedeni araştır.",
+          "messageDesc": "Bir Oburluk kontrolü yap. Geçerek E.G.O Hediyesi kazan. Başarısız olursan HP ve SP kaybedersin."
         },
         {
-          "message": "Leave without touching it.",
+          "message": "Dokunmadan buradan ayrıl.",
           "result": [
-            "Surely it’s nothing.\nIf we really need it, we can always recover it later.\n\nYou’d rather not damage the psyches of your Sinners for something so uncertain."
+            "Elbette hiçbir şey değil.\nEğer gerçekten de ihtiyacımız olursa, geri dönebiliriz.\n\nKesin olmayan bir şey için Günahkârların aklını bozmaya gerek duymadın."
           ]
         }
       ]
     },
     {
       "id": 10307,
-      "name": "[Hel. P. Me. He. Lp.]",
+      "name": "[Ban. A. Yard. Im. Et.]",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "You hear snappy mechanical noises through the closed door.\n\n“Sounds like a cry for help…”\n\nAs you focus your attention, you begin to hear footsteps.\n\n“Steel… Those are clangs of steel…”\n\nSinclair froze.\nIt looks like an Inquisitor is coming for them.\nWhat will you do?",
+      "desc": "Kapının arkasından canlı mekanik sesleri duyuyorsun\n\n“Bir yardım çığlığı gibi…”\n\nOdağını bozmamaya odaklanırken, birkaç ayak sesi duyuyorsun.\n\n“Çelik… Bunlar çelik çınlamaları…”\n\nSinclair donmuşçasına yerinde duruyordu.\nGörünüşe göre bir Engizitör onlar için geliyor.\nNe yapacaksın?",
       "options": [
         {
-          "message": "Free the prosthetic.",
-          "messageDesc": "Sinclair heals SP. Begin a combat encounter. Win to gain an E.G.O Gift.",
+          "message": "Protezlileri özgürleştir.",
+          "messageDesc": "Sinclair SP kazanır. Bir çatışma başlat. Kazanarak bir E.G.O Hediyesi elde et.",
           "result": [
-            "“…I knew I could count on you.”\n\nSinclair jumped in as soon as you told him what to do.\nAs you expected, a number of prosthetic people were bound by ropes.\n\n“Get out of here, quickly!”\n\nAs soon as he untied them, they hurriedly ran out of the room.\n\n“Tch… The heretics!”\n\nWe were a little late to leave; the Inquisitors shouted as they entered the room.\nIt seems conflict is unavoidable.",
-            "“…I knew I could count on you.”\n\nSinclair jumped in as soon as you told him what to do.\nAs you expected, a number of prosthetic people were bound by ropes.\n\n“Get out of here, quickly!”\n\nAs soon as he untied them, they hurriedly ran out of the room.\n\n“Bastards, not even a simple thank you.”\n\nSome of the Sinners complained,\nbut Sinclair looked satisfied with the deed.\n\nCalming them down, we left the room."
+            "“…Sana güvenebileceğimi biliyordum.”\n\nSinclair, ona ne yapması gerektiğini söylediğin gibi atıldı.\nTahmin ettiğin gibi, birçok protezli iplerle bağlanmıştı.\n\n“Buradan çıkın, hemen!”\n\nOnları çözdüğünüz gibi koşa koşa odadan ayrıldılar.\n\n“Lanet kâfirler!”\n\nKaçmak için biraz geçti; Ebgizitörler odaya girdikleri gibi bağırmaya başladı.\nAnlaşmazlık kaçınılmaz görünüyor.",
+            "“…Sana güvenebileceğimi biliyordum.”\n\nSinclair, ona ne yapması gerektiğini söylediğin gibi atıldı.\nTahmin ettiğin gibi, birçok protezli iplerle bağlanmıştı.\n\n“Buradan çıkın, hemen!”\n\nOnları çözdüğünüz gibi koşa koşa odadan ayrıldılar.\n\n“Lanet herifler, basit bir teşekkür bile yok.”\n\nGünahkârların bazıları şikayet etti,\nama Sinclair yaptığı şey ile tatmin olmuştu\n\nOnları sakinleştirip odadan ayrıldın."
           ]
         },
         {
