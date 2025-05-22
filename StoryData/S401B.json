@@ -2,27 +2,27 @@
     "dataList": [
         {
             "id": 0,
-            "content": "<color=#d4e1e8>We were neither highfliers nor greedy vultures; we were merely children who loved technology.</color>"
+            "content": "<color=#d4e1e8>Ne yüksekleri hedefliyorduk, ne de açgözlü kartallara benziyorduk; bizler yalnızca, teknolojiyi seven çocuklardan ibarettik.</color>"
         },
         {
             "id": 1,
-            "content": "<color=#d4e1e8>Do you remember the day when we first felt that we were breathing?</color>"
+            "content": "<color=#d4e1e8>İlk defa güzel bir nefes aldığımızı hissettiğimiz günü hatırlıyor musun?</color>"
         },
         {
             "id": 2,
-            "content": "<color=#d4e1e8>Back then…</color>"
+            "content": "<color=#d4e1e8>O zamanlar...</color>"
         },
         {
             "id": 3,
-            "content": "<color=#d4e1e8>That breath alone would suffice.</color>"
+            "content": "<color=#d4e1e8>Bu bile bize yetiyordu.</color>"
         },
         {
             "id": 4,
-            "content": "<color=#d4e1e8>Or perhaps…</color>"
+            "content": "<color=#d4e1e8>Ya da belki de…</color>"
         },
         {
             "id": 5,
-            "content": "<color=#d4e1e8>It was the air that was exceptionally clear that day.</color>"
+            "content": "<color=#d4e1e8>O gün asıl temiz olan şey, gökyüzüydü.</color>"
         },
         {
             "id": 6,
@@ -36,7 +36,7 @@
         {
             "id": 8,
             "model": "이상",
-            "content": "It is time… to turn the clock."
+            "content": "Saati... Döndürme vakti."
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "id": 16,
             "place": "Aboard Mephistopheles",
             "model": "홍루",
-            "content": "Where are we going this time?"
+            "content": "Bu defa nereye gidiyoruz?"
         },
         {
             "id": 17,
@@ -83,22 +83,22 @@
         {
             "id": 19,
             "model": "파우스트",
-            "content": "That’s not quite the right question. This mission begins with a person, rather than a place."
+            "content": "Bu pek doğru bir soru sayılmaz. Bu görev bir insan aksine, bir yer ile başlıyor."
         },
         {
             "id": 20,
             "model": "이상",
-            "content": "A person, you say?"
+            "content": "Bir insan, ha?"
         },
         {
             "id": 21,
             "model": "파우스트",
-            "content": "We happen to have a client."
+            "content": "Bir müşterimiz bulunuyor."
         },
         {
             "id": 22,
             "model": "이스마엘",
-            "content": "You mean… We take requests from outside like we’re a Fixer Office or something?"
+            "content": "Yani… İşçözücü Ofislerine benzer bir şekilde dışarıdan iş alıyor muyuz?"
         },
         {
             "id": 23,
@@ -108,87 +108,87 @@
         {
             "id": 24,
             "model": "베르길리우스",
-            "content": "Quiet. I’ll be answering questions."
+            "content": "Sessizlik, soruları ben cevaplayacağım."
         },
         {
             "id": 25,
             "model": "베르길리우스",
-            "content": "As you all know, the Golden Boughs are a relatively recent discovery."
+            "content": "Bildiğiniz üzere, Altın Dalların varlığı, oldukça güncel bir keşif."
         },
         {
             "id": 26,
             "model": "베르길리우스",
-            "content": "Fortunately, J Corp. and D Corp. didn’t have much interest when we visited their districts."
+            "content": "Şansımıza, J ve D Kuruluşları, eyaletlerini ziyaret ettiğimiz esnada Dallara ilgili değildi."
         },
         {
             "id": 27,
             "model": "베르길리우스",
-            "content": "That is why those facilities were populated by no more than Backstreets miscreants or ragtag Syndicates."
+            "content": "Bu yüzden ki, gittiğimiz dalların içinde sadece Arka Sokak fareleri ve Çete üyeleri mesken geziyordu."
         },
         {
             "id": 28,
             "model": "베르길리우스",
-            "content": "However…There are Wings that have caught wind of their existence and value early, like K Corp, whose turf we’re in right now."
+            "content": "Fakat…Şu an topraklarında bulunduğumuz K Kuruluşu gibi, Dalların varlığını ve değerini erkenden kavramış kanatlar da mevcut."
         },
         {
             "id": 29,
             "model": "그레고르",
-            "content": "Hmm? But I thought we’d already taken the Golden Bough here in K Corp’s Nest?"
+            "content": "Hmm? Fakat çoktan K Kuruluşu'nun Yuvasındaki Altın Dalı aldık sanıyordum?"
         },
         {
             "id": 30,
             "model": "베르길리우스",
-            "content": "I never said that there were any rules that say only one Bough may exist in a District."
+            "content": "Hiç bir zaman, bir eyalette sadece tek bir Dal bulunacağını söylemedim."
         },
         {
             "id": 31,
             "model": "베르길리우스",
-            "content": "The distribution of Lobotomy Corp’s branch facilities is more complicated than you’d expect. They can be found everywhere… spread quite literally like tree branches."
+            "content": "Lobotomi Kuruluşu'nun dallarının dağılışı, düşündüğünüzden de karmaşık. Her yerde bulunabiliyorlar… tıpkı bir ağacın dalları gibi etrafa yayılmışlar."
         },
         {
             "id": 32,
             "model": "싱클레어",
-            "content": "Like how one was connected to our estate’s basement…"
+            "content": "Bizim mülkümüzün bodrumunda bir tanesinin olması gibi…"
         },
         {
             "id": 33,
             "model": "베르길리우스",
-            "content": "There also haven’t been any clear definitions about who owns the Boughs."
+            "content": "Ayrıca Dalların sahipleri hakkında da genel bir inanış bulunmuyor."
         },
         {
             "id": 34,
             "model": "베르길리우스",
-            "content": "Which is why everyone’s been playing by the primitive rule that “the first finders of a Bough are its keepers”."
+            "content": "Bu yüzdendir ki, bu yarıştaki herkes “Dal'ı bulan ilk kişi alır” kuralına göre oynuyor."
         },
         {
             "id": 35,
             "model": "로쟈",
-            "content": "Well, that’s how it usually goes with slumbering treasures~"
+            "content": "Well, gömülü hazine mevzuları genelde böyle ilerler~"
         },
         {
             "id": 36,
             "model": "그레고르",
-            "content": "In that case… Are you telling us that we’ve accepted the request to earn ownership of a Golden Bough?"
+            "content": "Bu durumda… Bize bir Altın Dal'ı sahiplendirme teklifini kabul mu ettiğimizi ima ediyorsun?"
         },
         {
             "id": 37,
             "model": "베르길리우스",
-            "content": "To be exact, they made the offer first."
+            "content": "Doğruyu söylemek gerekirse, teklif onlardan geldi."
         },
         {
             "id": 38,
             "model": "베르길리우스",
-            "content": "Since a Golden Bough is on the line, we have…"
+            "content": "İşin sonunda da bir Altın Dal olduğuna göre…"
         },
         {
             "id": 39,
             "model": "이스마엘",
-            "content": "No choice… I get it now."
+            "content": "Başka bir seçeneğimiz yoktu… Anlaşıldı."
         },
         {
             "id": 40,
             "model": "베르길리우스",
-            "content": "Thus… Haaa, I don’t know how many times I have to remind you of this, but do not do anything to aggravate the client."
+            "content": "Yani… Haaa, Size bunu ne kadar hatırlatmam gerekir bilmiyorum, fakat müşteriyi kışkırtacak hareketlerde sakın bulunmayın."
         },
         {
             "id": 41,
@@ -198,7 +198,7 @@
         {
             "id": 42,
             "model": "베르길리우스",
-            "content": "Now then, keep your mouths shut until you’re there. All as usual."
+            "content": "Şimdi, her zamanki gibi istikametimize ulaşana kadar o çenenizi kapatın."
         },
         {
             "id": 43,
@@ -208,7 +208,7 @@
         {
             "id": 44,
             "model": "파우스트",
-            "content": "Dante seemed to have something to say."
+            "content": "Dante'nin diyecek bir şeyi var gibi görünüyor."
         },
         {
             "id": 45,
@@ -218,7 +218,7 @@
         {
             "id": 46,
             "model": "베르길리우스",
-            "content": "Ah, sorry about that, Dante. I do hope you understand that it’s quite cumbersome to grow used to the concept that the ticking of a clock can be something to respond to."
+            "content": "Ah, kusura bakma, Dante. Umarım anlayış gösterebilirsin, takırdayan bir saate cevap vermemi gerektiren bir konsepte alışmak, elbette biraz alışması zor bir şey."
         },
         {
             "id": 47,
@@ -238,32 +238,32 @@
         {
             "id": 50,
             "model": "파우스트",
-            "content": "They’re asking about the purpose of the Golden Boughs."
+            "content": "Altın Dal'ların ne amaçla kullanıldığını soruyor."
         },
         {
             "id": 51,
             "model": "베르길리우스",
-            "content": "…Uh-huh."
+            "content": "…Ah-Hah."
         },
         {
             "id": 52,
             "model": "베르길리우스",
-            "content": "I see you’ve finally begun to ruminate on subjects, Manager Dante. Here you are, growing curious about the company’s plans."
+            "content": "Sonunda bir şeylere kafanı çalıştırdığını görüyorum, Dante. Şirketin planlarını önemsemeye başladın."
         },
         {
             "id": 53,
             "model": "베르길리우스",
-            "content": "Then I ought to aid your management as a guide by providing kind explanation."
+            "content": "O halde ben de sana nazikçe sorunu cevaplayıp, yardımda bulunacağım."
         },
         {
             "id": 54,
             "model": "베르길리우스",
-            "content": "The Golden Boughs…"
+            "content": "Altın Dallar…"
         },
         {
             "id": 55,
             "model": "베르길리우스",
-            "content": "They are branches, as their name suggests. That’s what we call stems growing from the trunk of a tree. These ones happen to have a golden glow."
+            "content": "Adından da anlaşılabileceği üzere, dallar. Ağaçların kalın kısmından yayılan ince şeylere diyoruz. Bu dallar ise altın renginde parıldıyor."
         },
         {
             "id": 56,
@@ -285,7 +285,7 @@
         {
             "id": 60,
             "model": "카론",
-            "content": "Verg, the road is blocked. Should I go around it?"
+            "content": "Verg, yol kapalı. Etrafından gideyim mi?"
         },
         {
             "id": 61,
@@ -295,12 +295,12 @@
         {
             "id": 62,
             "model": "이스마엘",
-            "content": "It’s blocked?"
+            "content": "Kapalı mı?"
         },
         {
             "id": 63,
             "model": "이스마엘",
-            "content": "Strange that there’s a blocked road. This is in the middle of K Corp’s Nest, too; it’s unlikely that there’s a scene—"
+            "content": "Bir yolun kapalı olması ne tuhaf. K Kuruluşu'nun Yuvasının ortasında hem de; garip garip şeyler olmasının ihtima—"
         },
         {
             "id": 64,
@@ -309,32 +309,32 @@
         {
             "id": 65,
             "model": "로쟈",
-            "content": "…Something just got flung at the bus and boinked off… That was a person, wasn’t it?"
+            "content": "…Bir şey otobüse fırlayıp, futbol topu gibi uçup gitti... İnsanın biriydi, değil mi?"
         },
         {
             "id": 66,
             "model": "뫼르소",
-            "content": "A male individual who appears to be in his early 40s. There seems to be a serious injury in his occipital region. He had already died before the impact."
+            "content": "Aşağı yukarı 40 yaşlarında bulunan bir eril birey. Arka baş hizasında ciddi yaraları olduğu görülüyor. Çarpışma anından önce ölmüş."
         },
         {
             "id": 67,
             "model": "베르길리우스",
-            "content": "Yeah, sure doesn’t seem like the average scuffle."
+            "content": "Evet, sıradan bir mevzu değil gibi."
         },
         {
             "id": 68,
             "model": "베르길리우스",
-            "content": "Pitstop. If it’s a problem you can handle, come back after you’re done."
+            "content": "Pitstop. Eğer halledebileceğiniz bir sorun ise, işi çözüp gelin."
         },
         {
             "id": 69,
             "model": "로쟈",
-            "content": "…And what about if it isn’t?"
+            "content": "…Peki halledebileceğimiz bir sorun değilse?"
         },
         {
             "id": 70,
             "model": "베르길리우스",
-            "content": "The clock’ll have to spin until it’s been dealt with."
+            "content": "Sorun çözülene kadar saati çevirmemiz gerekir o halde."
         },
         {
             "id": 71,
@@ -344,12 +344,12 @@
         {
             "id": 72,
             "model": "로쟈",
-            "content": "Hm, now then…"
+            "content": "Hm, o halde…"
         },
         {
             "id": 73,
             "model": "로쟈",
-            "content": "Off the bus."
+            "content": "Kalkın bakalım dostlar."
         },
         {
             "id": 74,
@@ -359,12 +359,12 @@
         {
             "id": 75,
             "model": "로쟈",
-            "content": "What? Weren’t you about to say the same thing anyway? Saved you the trouble~"
+            "content": "Ne var? Zaten aynı şeyi demeyecek miydin sen de? Ağzını açma zahmetinden kurtardım seni~"
         },
         {
             "id": 76,
             "model": "홍루",
-            "content": "I just can’t wait, what adventures are in store for us this time?"
+            "content": "Sabırsızlanıyorum, acaba bizi nasıl maceralar bekliyor?"
         }
     ]
 }
