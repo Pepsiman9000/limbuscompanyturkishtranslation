@@ -2510,7 +2510,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 Haste next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Hızlanma kazan"
                 }
               ]
             }
@@ -2523,17 +2523,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kawkbaawk!",
-          "desc": "If user took no damage last turn, Coin Power +3",
+          "name": "Kaavkbaavk!",
+          "desc": "Kullanıcı son tur hasar almadı ise, Jeton Gücü +3",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 7 HP"
+                  "desc": "[OnSucceedAttack] 7 HP İyileştir"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Felç ver"
                 }
               ]
             }
@@ -2546,7 +2546,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Krgh!",
+          "name": "Krhh!",
           "desc": "",
           "coinlist": [
             {}
@@ -2559,13 +2559,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khgh",
-          "desc": "Targets the unit with the most HP",
+          "name": "Khh",
+          "desc": "En çok HPye sahip kişiyi hedefler",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Paralyze"
+                  "desc": "[OnSucceedAttack] 2 Felç Ver"
                 }
               ]
             }
@@ -2578,17 +2578,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khgaawahk",
-          "desc": "Targets the unit with the most HP",
+          "name": "Kgaavk!",
+          "desc": "En çok HPye sahip kişiyi hedefler",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 7 HP"
+                  "desc": "[OnSucceedAttack] 7 HP İyileştir"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] 3 Felç Ver"
                 }
               ]
             }
@@ -2614,20 +2614,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kgh!",
+          "name": "Kıh!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttackHead] 3 Kanama Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 3 Parçalanma Ver"
                 }
               ]
             }
@@ -2640,13 +2640,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Krgh!",
-          "desc": "Targets the unit with the least SP",
+          "name": "Kırhh!",
+          "desc": "En az SPye sahip kişiyi hedefler",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttackHead] 3 Batış Ver"
                 }
               ]
             }
@@ -2659,7 +2659,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Krgh…",
+          "name": "Kırh…",
           "desc": "",
           "coinlist": [
             {}
@@ -2672,20 +2672,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kgh!",
+          "name": "Kıh!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] 3 Kanama Ver
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] 3 Sarsıntı Ver"
                 }
               ]
             }
@@ -2704,28 +2704,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] 3 Kanama Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] 3 Sarsıntı Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze and 5 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Felç ve 5 Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması Tetikle"
                 }
               ]
             }
@@ -2739,12 +2739,12 @@
         {
           "level": 1,
           "name": "Keghgh!",
-          "desc": "Targets the unit with the least SP\n[OnSucceedAttack] Spawn a Raw Chicken",
+          "desc": "En az SPye sahip kişiyi hedefler\n[OnSucceedAttack] Çiğ bir Tavuk oluştur",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] 5 Batış Ver"
                 }
               ]
             }
@@ -2758,19 +2758,19 @@
         {
           "level": 1,
           "name": "Khghghghgk",
-          "desc": "[WinDuel] Final Power +1",
+          "desc": "[WinDuel] Final Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] 5 Kanama Ver
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması Tetikle"
                 }
               ]
             }
@@ -2796,20 +2796,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ram",
+          "name": "Tosla",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] 3 Yanma Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] 3 Yanma Ver"
                 }
               ]
             }
@@ -2822,13 +2822,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pin Down",
+          "name": "Sabitle",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Burn Count"
+                  "desc": "[OnSucceedAttack] +3 Yanma miktarı ver"
                 }
               ]
             }
@@ -2841,36 +2841,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge In",
+          "name": "Hücum Et",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] 2 Yanma Ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini vurulan hasarın %20si kadar arttır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] 2 Yanma Ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini vurulan hasarın %20si kadar arttır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] 2 Yanma Ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini vurulan hasarın %20si kadar arttır"
                 }
               ]
             }
@@ -2883,16 +2883,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Overflowing Sorrow",
-          "desc": "[DefeatDuel] Gain 1 Unresolved Sorrow",
+          "name": "Taşan Üzüntü",
+          "desc": "[DefeatDuel] 1 Çözülmemiş Üzüntü kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 15 SP"
+                  "desc": "[OnSucceedAttack] Hedef 15 SP kaybeder"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini vurulan hasarın %50si kadar arttır"
                 }
               ]
             }
@@ -2905,16 +2905,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heated Cries",
-          "desc": "[WinDuel] Gain 1 Haste and 1 Attack Power Up next turn",
+          "name": "Isınmış Ağlamalar",
+          "desc": "[WinDuel] Sonraki tur 1 Hızlanma ve 1 Saldırı gücü arttırma kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Wavering Emotions"
+                  "desc": "[OnSucceedAttack] 1 Dalgalanan Duygular ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] +3 Batış Miktarı ver"
                 }
               ]
             }
@@ -2927,26 +2927,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heated Screams",
-          "desc": "[WinDuel] Gain 1 Haste and 1 Attack Power Up next turn",
+          "name": "Isınmış Bağırışlar",
+          "desc": "[WinDuel] Sonraki tur 1 Hızlanma ve 1 Saldırı gücü arttırma kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Wavering Emotions"
+                  "desc": "[OnSucceedAttack] 1 Dalgalanan Duygular ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] 2 Batış Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Wavering Emotions"
+                  "desc": "[OnSucceedAttack] 1 Dalgalanan Duygular ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] 2 Batış Ver"
                 }
               ]
             }
@@ -2959,7 +2959,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flash; Flash;",
+          "name": "Flaş; Flaş;",
           "desc": "",
           "coinlist": [
             {
@@ -2978,7 +2978,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scanning . . .",
+          "name": "Taranıyor . . .",
           "desc": "",
           "coinlist": [
             {
@@ -2997,7 +2997,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proximity Shooting",
+          "name": "Yaknlık Sıkışları",
           "desc": "",
           "coinlist": [
             {
@@ -3017,12 +3017,12 @@
         {
           "level": 1,
           "name": "Bite",
-          "desc": "[WhenUse] Gain 2 Self-charge\n[DefeatDuel] Lose 1 Self-charge",
+          "desc": "[WhenUse] 2 Öz-Yük kazan\n[DefeatDuel] 1 Öz-yük Kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed and +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] 3 Kanama ve +2 Kanama miktarı ver"
                 }
               ]
             }
@@ -3035,20 +3035,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tail Poke",
-          "desc": "[WhenUse] Gain 2 Self-charge\n[DefeatDuel] Lose 1 Self-charge",
+          "name": "Kuyruk Dürtmesi",
+          "desc": "[WhenUse] 2 Öz-Yük Kazan\n[DefeatDuel] 1 Öz-Yük kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed and +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] 3 Kanama ve +2 Kanama miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Yavaşlama ver"
                 }
               ]
             }
@@ -3061,16 +3061,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wrapping Coil",
-          "desc": "[WhenUse] Gain 2 Self-charge\n[DefeatDuel] Lose 1 Self-charge",
+          "name": "Sarmalayan Bobin",
+          "desc": "[WhenUse] 2 Öz-Yük kazan\n[DefeatDuel] 1 Öz-Yük kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile"
+                  "desc": "[OnSucceedAttack] 2 Kırılgan Ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Yavaşlama ver"
                 }
               ]
             }
@@ -3083,14 +3083,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Electric Load",
-          "desc": "[WhenUse] Gain 1 Self-charge\nDeal +10% damage to targets with Paralyze",
+          "name": "Elektrik Yükü",
+          "desc": "[WhenUse] 1 Öz-Yük kazan\nFelç hedeflere %10 daha fazla hasar vur",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] 3 Felç Ver"
                 }
               ]
             }
@@ -3103,15 +3103,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Electric Release",
-          "desc": "[WhenUse] Gain 1 Self-charge\nDeal +10% damage to targets with Paralyze",
+          "name": "Elektrik Salımı",
+          "desc": "[WhenUse] 1 Öz-Yük kazan\nFelç hedeflere %10 daha fazla hasar vur",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] 3 Felç Ver"
                 }
               ]
             }
@@ -3124,20 +3124,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Electric Discharge",
-          "desc": "[WhenUse] Gain 1 Self-charge\nDeal +20% damage to targets with Paralyze",
+          "name": "Elektrik Salımı",
+          "desc": "[WhenUse] 1 Öz-Yük kazan\nFelç hedeflere %10 daha fazla hasar vur",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile"
+                  "desc": "[OnSucceedAttack] 2 Kırılganlık Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze"
+                  "desc": "[OnSucceedAttack] 5 Felç Ver"
                 }
               ]
             }
@@ -3150,23 +3150,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "High-voltage Electric Discharge",
-          "desc": "At 11+ Self-charge, deal +10% Damage for each Count of Self-charge over 10\nSpend all Self-charge",
+          "name": "Yüksek-Voltaj Elektrik Salınımı",
+          "desc": "11+ Öz-Yükte, 10un üzerinde bulunan her Öz-Yük için %10 daha fazla hasar vur\nBütün Öz-Yükleri harca",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile"
+                  "desc": "[OnSucceedAttack] 2 Kırılganlık Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Capacitor, deal 40% of damage dealt as fixed damage"
+                  "desc": "[OnSucceedAttack] Hedefte Kapasitör var ise, Hasarın %40ını Sabit Hasar olarak ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze and 1 Capacitor"
+                  "desc": "[OnSucceedAttack] 3 Felç ve 1 Kapasitör ver"
                 }
               ]
             }
@@ -3179,8 +3179,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Coil Up",
-          "desc": "If this skill is on a slot, gain shield by the head's current HP",
+          "name": "Sarmalan",
+          "desc": "Eğer bu yetenek bir yetenek yuvasındaysa, kafanın şimdihi HPsine göre kalkan kazan",
           "coinlist": [
             {}
           ]
@@ -3192,14 +3192,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wriggling Head",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge",
+          "name": "Kıvranan Kafa",
+          "desc": "En az HPye sahip olan kişiyi hedefler\n[WhenUse] 2 Öz-Yük harca\n[DefeatDuel] 2 Öz-Yük kaybet",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] 3 Felç Ver"
                 }
               ]
             }
@@ -3212,15 +3212,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wriggling Tail",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 3 Self-charge",
+          "name": "Kıvranan Kuyruk",
+          "desc": "En az HPye sahip olan kişiyi hedeflerP\n[WhenUse] 2 Öz-Yük harca\n[DefeatDuel] 3 Öz-Yük kaybet",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] 3 Felç ver"
                 }
               ]
             }
@@ -3233,13 +3233,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gloomy Moan",
+          "name": "Hüzüntülü Çağırış",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] 3 Batış Ver"
                 }
               ]
             }
@@ -3252,20 +3252,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Raging Withdrawal",
+          "name": "Öfkeli Çekilme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] +2 Batış Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] 3 Batış Ver"
                 }
               ]
             }
@@ -3278,20 +3278,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sorrowful Recoil",
+          "name": "Hüzüntülü Geri Tepme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] 2 Parçalanma ver"
                 }
               ]
             }
@@ -3304,23 +3304,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sorrowful Torrent",
+          "name": "Hüzüntülü Sel",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] +2 Parçalanma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] 2 Parçalanma ver"
                 }
               ]
             }
@@ -3333,16 +3333,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cries Seeking Something",
-          "desc": "[WhenUse] Spawn an Old Umbrella next turn",
+          "name": "Ağlamalar Birşeyi Arıyor",
+          "desc": "[WhenUse] Sonraki tur Eski Şemsiye oluştur",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] 5 Batış Ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Deal +15% damage for each Old Umbrella"
+                  "desc": "[OnSucceedAttackHead] Her Eski Şemsiye için %15 hasar vur"
                 }
               ]
             }
@@ -3355,8 +3355,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Waiting",
-          "desc": "[StartBattle] All enemies lose 20 SP",
+          "name": "Bekliyor",
+          "desc": "[StartBattle] Bütün düşmanlar 20 SP Kaybeder",
           "coinlist": [
             {}
           ]
@@ -3368,13 +3368,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Entangling Talisman",
-          "desc": "[WhenUse] Inflict 2 Entangled Curse Talisman",
+          "name": "Dolanan Tılsım",
+          "desc": "[WhenUse] 2 Dolanmış Lanet Tılsımı ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture and +2 Rupture Count next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Parçalanma ve +2 Parçalanma Miktarı ver"
                 }
               ]
             }
