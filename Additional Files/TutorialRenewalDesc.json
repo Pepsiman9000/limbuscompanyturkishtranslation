@@ -6,11 +6,11 @@
     },
     {
       "id": "tuto_00_01_01_02",
-      "content": "Dikkatini buradaki <color=#f8c200>Panel<color=#ebcaa2>e çekmek isterim.\n\nGünahkârlara emirlerini vermek için bu <color=#f8c200>Panel<color=#ebcaa2>i kullanacaksın."
+      "content": "Dikkatini buradaki <color=#f8c200>Panele<color=#ebcaa2> çekmek isterim.\n\nGünahkârlara emirlerini vermek için bu <color=#f8c200>Paneli<color=#ebcaa2> kullanacaksın."
     },
     {
       "id": "tuto_00_01_01_03",
-      "content": "<color=#f8c200>Panel<color=#ebcaa2>de, her Günahkârın <color=#f8c200>Yetenek<color=#ebcaa2>lerini görebilirsin."
+      "content": "<color=#f8c200>Panelde<color=#ebcaa2>, her Günahkârın <color=#f8c200>Yeteneklerini<color=#ebcaa2> görebilirsin."
     },
     {
       "id": "tuto_00_01_01_04",
@@ -82,11 +82,11 @@
     },
     {
       "id": "tuto_00_02_02_02",
-      "content": "<color=#f8c200><Çarpışma><color=#ebcaa2>daki <color=#f8c200>Güç<color=#ebcaa2>ü, Çarpışmak için kullanılan Yetenekler belirler."
+      "content": "<color=#f8c200><Çarpışmadaki><color=#ebcaa2> <color=#f8c200>Gücü<color=#ebcaa2>, Çarpışmak için kullanılan Yetenekler belirler."
     },
     {
       "id": "tuto_00_02_02_03",
-      "content": "Ve daha yüksek <color=#f8c200>Güç<color=#ebcaa2>e sahip olan kazanır."
+      "content": "Ve daha yüksek <color=#f8c200>Güce<color=#ebcaa2> sahip olan kazanır."
     },
     {
       "id": "tuto_00_02_02_04",
@@ -94,15 +94,15 @@
     },
     {
       "id": "tuto_00_02_02_05",
-      "content": "Bir Yetenek bir Çarpışma kaybetse bile, hala daha <color=#f8c200>Yetenek Jetonları<color=#ebcaa2>na sahip olduğu sürece, iki Yetenek de Jetonlarını atmaya devam eder ve <color=#f8c200>birisi tüm Jetonlarını kaybedene kadar<color=#ebcaa2> <color=#f8c200><Çarpışırlar><color=#ebcaa2>."
+      "content": "Bir Yetenek bir Çarpışma kaybetse bile, hala daha <color=#f8c200>Yetenek Jetonlarına<color=#ebcaa2> sahip olduğu sürece, iki Yetenek de Jetonlarını atmaya devam eder ve <color=#f8c200>birisi tüm Jetonlarını kaybedene kadar<color=#ebcaa2> <color=#f8c200><Çarpışırlar><color=#ebcaa2>."
     },
     {
       "id": "tuto_00_02_02_06",
-      "content": "<color=#f8c200><Çarpışma><color=#ebcaa2>da tüm Jetonlarını kaybeden kişi, <color=#f8c200><Çarpışma><color=#ebcaa2>yı kaybeder.\nBu demek oluyor ki <color=#f8c200>Çarpışmayı kazan kişi<color=#ebcaa2> saldırma hakkı hazanır, kaybeden ise saldıramaz."
+      "content": "<color=#f8c200><Çarpışmada><color=#ebcaa2> tüm Jetonlarını kaybeden kişi, <color=#f8c200><Çarpışmayı><color=#ebcaa2> kaybeder.\nBu demek oluyor ki <color=#f8c200>Çarpışmayı kazanan kişi<color=#ebcaa2> saldırma hakkı kazanır, kaybeden ise saldıramaz."
     },
     {
       "id": "tuto_00_02_03_01",
-      "content": "Şimdi bakalım <color=#f8c200><Çarpışma><color=#ebcaa2>ların sonucuna karar veren şey, yani <color=#f8c200>Güç<color=#ebcaa2> nasıl çalışıyormuş.\n\nLütfen emirleri ver."
+      "content": "Şimdi bakalım <color=#f8c200><Çarpışmaların><color=#ebcaa2> sonucuna karar veren şey, yani <color=#f8c200>Güç<color=#ebcaa2> nasıl çalışıyormuş.\n\nLütfen emirleri ver."
     },
     {
       "id": "tuto_00_02_03_02",
@@ -114,7 +114,7 @@
     },
     {
       "id": "tuto_00_02_03_04",
-      "content": "Burada, Yeteneklerin <color=#f8c200>ne kadar Jetonu olduğunu<color=#ebcaa2> görebilirsin.\n\nJeton sayısı iki şey belirler:\n<color=#f8c200>1) Tüm Jetonlarını kaybetmeden önce kaç kere <Çarpışma> kaybedebilir\n2) Saldırırken, kaç vuruş yapar<color=#ebcaa2>."
+      "content": "Burada, Yeteneklerin <color=#f8c200>ne kadar Jetonu olduğunu<color=#ebcaa2> görebilirsin.\n\nJeton sayısı iki şeyi belirler:\n<color=#f8c200>1) Tüm Jetonlarını kaybetmeden önce kaç kere <Çarpışma> kaybedebileceğini\n2) Saldırırken, kaç vuruş yapacağını<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_02_03_05",
@@ -134,7 +134,7 @@
     },
     {
       "id": "tuto_00_02_03_07",
-      "content": "Bu örnekte de görebileceğin gibi, ikisinden birinin hiçbir Jetonu kalmayana kadar çarpışmaya devam ediyorlar. <color=#f8c200>Jetonların kalan taraf, <Çarpışma>yı kazanıyor<color=#ebcaa2>.\n\nUnutma: <color=#f8c200><Çarpışma><color=#ebcaa2> kazanmak savaşmanın en temel unsurlarından biridir."
+      "content": "Bu örnekte de görebileceğin gibi, ikisinden birinin hiçbir Jetonu kalmayana kadar çarpışmaya devam ediyorlar. <color=#f8c200>Jetonları kalan taraf, Çarpışmayı kazanıyor<color=#ebcaa2>.\n\nUnutma: <color=#f8c200><Çarpışma><color=#ebcaa2> kazanmak savaşmanın en temel unsurlarından biridir."
     },
     {
       "id": "tuto_00_03_01_01",
