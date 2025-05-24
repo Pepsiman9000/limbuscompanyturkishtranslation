@@ -286,59 +286,59 @@
     },
     {
       "id": "tuto_01_02_03_01",
-      "content": "Each unit has a unique <color=#f8c200>Passive<color=#ebcaa2>."
+      "content": "Her birimin kendine özgün bir <color=#f8c200>Pasifi<color=#ebcaa2> vardır."
     },
     {
       "id": "tuto_01_02_03_02",
-      "content": "Select Faust to view her <color=#f8c200>Passive<color=#ebcaa2>."
+      "content": "En zeki Günahkârın <color=#f8c200>Pasifini<color=#ebcaa2> görmek için üzerine tıkla."
     },
     {
       "id": "tuto_01_02_03_03",
-      "content": "Select the Sinner's Skills tab."
+      "content": "Yetenekler kısmını seç."
     },
     {
       "id": "tuto_01_02_03_04",
-      "content": "Select the <color=#f8c200>Passive<color=#ebcaa2> button here to view its activation conditionals and effects."
+      "content": "Buradaki <color=#f8c200>Pasif<color=#ebcaa2> butonuna tıkla."
     },
     {
       "id": "tuto_01_02_03_05",
-      "content": "Faust's Passive is a <color=#f8c200><Resonance><color=#ebcaa2> Passive.\nThe conditionals for these Passives can be met by activating <color=#f8c200><Resonance><color=#ebcaa2> that was explained earlier."
+      "content": "Faust'un Pasifi, bir <color=#f8c200><Rezonans><color=#ebcaa2> Pasifi.\nBu tür Pasifleri etkinleştirmek için gerekli <color=#f8c200><Rezonansı><color=#ebcaa2> yapmalısın."
     },
     {
       "id": "tuto_01_02_03_06",
-      "content": "Please activate the <color=#f8c200><Resonance Passive><color=#ebcaa2> by activating <color=#f8c200><Resonance><color=#ebcaa2> for the necessary Affinity.\n\nFaust's Passive requires 2 or more <color=#004bd5>Pride(Indigo)<color=#ebcaa2> Resonance."
+      "content": "Lütfen gerekli Türden <color=#f8c200><Rezonansı><color=#ebcaa2> yap ve bu <color=#f8c200><Rezonans Pasifini><color=#ebcaa2> aktifleştir.\n\nFaust'un Pasifi, 2 veya daha fazla <color=#004bd5>Kibir(Koyu Mavi)<color=#ebcaa2> Rezonansı gerektirir."
     },
     {
       "id": "tuto_01_02_04_01",
-      "content": "Let us take a look at a different type of Passive.\n\nThese icons <color=#f8c200>in the top left corner<color=#ebcaa2> of the screen also show the list of available Passives. Select Meursault's icon, highlighted here."
+      "content": "Bir de başka tür bir Pasife bakalım.\n\n<color=#f8c200>Sol taraftaki<color=#ebcaa2> bu ikonlar etkinleştirebileceğin Pasifleri gösterir. Meursault'un ikonuna bas."
     },
     {
       "id": "tuto_01_02_04_02",
-      "content": "Sinner Meursault's Passive is an <color=#f8c200><Owned><color=#ebcaa2> Passive.\n\n<color=#f8c200><Owned Passives><color=#ebcaa2> activate automatically each turn, provided you have enough <color=#f8c200>E.G.O resources<color=#ebcaa2> to meet the requirement."
+      "content": "Meursault'un Pasifi, bir <color=#f8c200><Sahiplik><color=#ebcaa2> Pasifi.\n\n<color=#f8c200><Sahiplik Pasifleri><color=#ebcaa2> gerekli <color=#f8c200>E.G.O kaynaklarına<color=#ebcaa2> sahip olduğun sürece her tur otomatik olarak aktive olurlar."
     },
     {
       "id": "tuto_01_02_04_03",
-      "content": "This Passive requires that you own 2 <color=#fbc82b>Sloth(Yellow)<color=#ebcaa2> Resources."
+      "content": "Bu Pasif, 2 <color=#fbc82b>Tembellik(Sarı)<color=#ebcaa2> Kaynağına sahip olmanı gerektiriyor."
     },
     {
       "id": "tuto_01_02_04_04",
-      "content": "<color=#f8c200>Use a Skill<color=#ebcaa2> to <color=#f8c200>gain an E.G.O resource corresponding to that Skill's Affinity<color=#ebcaa2>, viewable here.\n\nSince we gathered enough <color=#fbc82b>Sloth (Yellow)<color=#ebcaa2> E.G.O resources in the previous turn, this <color=#f8c200><Owned Passive><color=#ebcaa2> is already activated."
+      "content": "<color=#f8c200>Bir Yetenek kullan<color=#ebcaa2> ve <color=#f8c200>o Yeteneğin Günah Türüne karşılık gelen E.G.O kaynağını kazan<color=#ebcaa2>, burada kaynaklarını görebilirsin.\n\nBir önceki tur yeterince <color=#fbc82b>Tembellik (Sarı)<color=#ebcaa2> E.G.O kaynağı topladığımız için, bu <color=#f8c200><Sahiplik Pasifi><color=#ebcaa2> çoktan aktive olmuş durumda."
     },
     {
       "id": "tuto_01_02_04_05",
-      "content": "Currently active Passives will be highlighted."
+      "content": "Aktive olmuş Pasifler parlayarak belirtilecektir."
     },
     {
       "id": "tuto_01_02_04_06",
-      "content": "Sinners not participating in this Encounter will provide <Support Passives> to aid the Sinners in battle.\n\nView the <color=#f8c200><Support Passives><color=#ebcaa2> here."
+      "content": "Karşılaşmada yer almayan Günahkârlar, yardım etmek için <Destek Pasifleri> kullanırlar.\n\n<color=#f8c200><Destek Pasiflerine><color=#ebcaa2> buradan bakabilirsin."
     },
     {
       "id": "tuto_01_02_04_07_title",
-      "content": "Support Passives"
+      "content": "Destek Pasifleri"
     },
     {
       "id": "tuto_01_02_04_08",
-      "content": "Sinners that have been sufficiently upgraded can assist the Deployed Sinners through their <Support Passives>.\n<Support Passives>, like regular Passives, have <color=#f8c200><Resonance><color=#ebcaa2> and <color=#f8c200><Owned><color=#ebcaa2> conditionals."
+      "content": "Yeterli yükseltmeyi almış Günahkârlar, <Destek Pasiflerine> sahiplerdir.\n<Destek Pasifleri>, aynı normal Pasifler gibi,<color=#f8c200><Rezonans><color=#ebcaa2> ve <color=#f8c200><Sahiplik><color=#ebcaa2> koşullarına sahiplerdir."
     },
     {
       "id": "tuto_01_03_01_01",
