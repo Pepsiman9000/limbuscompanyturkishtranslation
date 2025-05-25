@@ -3530,19 +3530,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Have This!",
-          "desc": "[CantDuel]\nCannot be redirected\nPrioritizes enemies with Morale Boost\nIf target has no Tipsy, Clash Power +5",
+          "name": "Bunu Ben Alacağım!",
+          "desc": "[CantDuel]\nYönlendirilemez\nMoral Arttırmaya sahip hedeflere öncelik ver\nHedefte içkili efekti yoksa, Çatışma Gücü +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +10% damage for each Count"
+                  "desc": "[OnSucceedAttack] Hedefte Moral Arttırma var ise, her miktar için %10 ekstra hasar vur"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 HP"
+                  "desc": "[OnSucceedAttack] Hedefte içkili var ise, 0 hasar vur, ve kullanıcı 50 HP kaybeder"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove all Morale Boost or Tipsy"
+                  "desc": "[OnSucceedAttack] Bütün Moral Arttırma veya İçkiliyi kaldır"
                 }
               ]
             }
@@ -3555,19 +3555,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Have This!",
-          "desc": "Prioritizes enemies with Morale Boost\nIf target has no Tipsy, Clash Power +5",
+          "name": "Bunu Ben Alacağım!",
+          "desc": "Moral Arttırmaya sahip hedeflere öncelik ver\nHedefte içkili efekti yoksa, Çatışma Gücü +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +100% damage for each Count"
+                  "desc": "[OnSucceedAttack] Hedefte Moral Arttırma var ise, her miktar için %100 ekstra hasar vur"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 HP"
+                  "desc": "[OnSucceedAttack] Hedefte içkili var ise, 0 hasar vur, ve kullanıcı 50 HP kaybeder"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove all Morale Boost or Tipsy"
+                  "desc": "[OnSucceedAttack] Bütün Moral Arttırma veya İçkiliyi kaldır"
                 }
               ]
             }
@@ -3580,13 +3580,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Not This Time!",
-          "desc": "Prioritizes Fairy Wine",
+          "name": "Bu Sefer Değil!",
+          "desc": "Peri Şarabına öncelik verir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this attacks Fairy Wine, heal 10% HP next turn, and gain 2 Attack Power Up, 2 Haste, and 2 Protection"
+                  "desc": "[OnSucceedAttack] Bu Peri Şarabına saldırırsa, sonraki tur 10% HP İyileştir, ve 2 Saldırı Gücü Arttırma, 2 Hızlandırma, and 2 Koruma kazan"
                 }
               ]
             }
@@ -3599,8 +3599,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Like This Brew?",
-          "desc": "[WhenUse] Gain 1 Bind next turn",
+          "name": "Bu Demlemeyi Sevdin Mi?",
+          "desc": "[WhenUse] Sonraki tur 1 Yavaşlatma kazan",
           "coinlist": [
             {}
           ]
@@ -3612,8 +3612,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fairy Wine",
-          "desc": "[WhenUse] Convert opponent's Morale Boost into Tipsy",
+          "name": "Peri Şarabı",
+          "desc": "[WhenUse] Hedefin Moral Arttırmasını İçkiliye çevir",
           "coinlist": [
             {}
           ]
@@ -3625,8 +3625,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scattering Sorrow",
-          "desc": "[EndSkill] Inflict +2 Rupture Count and +2 Sinking Count to all enemies",
+          "name": "Saçılan Hüzüntü",
+          "desc": "[EndSkill] Bütün düşmanlara +2 Parçalanma miktarı ve +2 Batış miktarı ver",
           "coinlist": [
             {}
           ]
@@ -3638,27 +3638,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stinging Memories",
-          "desc": "[WinDuel] Heal 8 SP\n[DefeatDuel] Lose 5 SP",
+          "name": "Batan Anılar",
+          "desc": "[WinDuel] 8 SP İyileştir\n[DefeatDuel] 5 SP Kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking and 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ve 2 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking and 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ve 2 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking and 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ve 2 Parçalanma ver"
                 }
               ]
             }
@@ -3671,20 +3671,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thorny Memories",
-          "desc": "[WinDuel] Heal 8 SP\n[DefeatDuel] Lose 5 SP",
+          "name": "Dikenli Anılar",
+          "desc": "[WinDuel] 8 SP İyileştir\n[DefeatDuel] 5 SP Kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] +2 Batış miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] +2 Parçalanma miktarı ver"
                 }
               ]
             }
@@ -3697,13 +3697,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Self-defense",
-          "desc": "[DefeatDuel] Lose 8 SP and gain 3 Sinking",
+          "name": "Kendini-savunma",
+          "desc": "[DefeatDuel] 8 SP kaybet ve 3 Batış kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Yavaşlatma ve 2 Saldırı Gücü Azaltma ver"
                 }
               ]
             }
@@ -3716,23 +3716,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Aching Heart",
+          "name": "Acıyan Kalp",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count."
+                  "desc": "[OnSucceedAttack] +3 Parçalanma miktarı ver."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini vurulan hasarın %50si kadar arttır"
                 }
               ]
             }
@@ -3745,16 +3745,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sink It All",
-          "desc": "[WhenUse] Lose 30 SP and gain 5 Sinking; Gain Corroding Heart next turn",
+          "name": "Hepsini Batır",
+          "desc": "[WhenUse] 30 SP kaybet ve 5 Batış kazan; Sonraki tur Yıpranan Kalp kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 15 SP."
+                  "desc": "[OnSucceedAttack] Hedef 15 SP Kaybeder."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 Sinking and 8 Poison next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 8 Batış ve 8 Zehir ver"
                 }
               ]
             }
@@ -3767,8 +3767,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Get It Away",
-          "desc": "[OnDefeatEvade] Lose 8 SP",
+          "name": "Onu Uzaklaştır",
+          "desc": "[OnDefeatEvade] 8 SP Kaybet",
           "coinlist": [
             {}
           ]
@@ -3780,8 +3780,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don't Touch Me...!",
-          "desc": "[StartBattle] Gain Thorns",
+          "name": "Elleme bana...!",
+          "desc": "[StartBattle] Dikenler Kazan",
           "coinlist": [
             {}
           ]
@@ -3793,26 +3793,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scattering Fragrance",
+          "name": "Saçılan Koku",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] 2 Parçalanma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Blooming"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] 2 Parçalanma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Blooming"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
                 }
               ]
             }
@@ -3825,20 +3825,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pungent Fragrance",
+          "name": "Keskin Koku",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Blooming"
+                  "desc": "[OnSucceedAttack] 2 Çiçeklenme ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Blooming"
+                  "desc": "[OnSucceedAttack] 2 Çiçeklenme ver"
                 }
               ]
             }
@@ -3851,16 +3851,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flowering Buds",
-          "desc": "Spawn 2 flowers next turn\nIf there are 4 flowers present, instead raise the level of a lowest-level flower by 1",
+          "name": "Çiçeklenen Tomurcuklar",
+          "desc": "Sonraki tur 2 Çiçekler oluştur\nEğer 4 Çiçekler varsa, en-düşük seviyedeki bir çiçeğin seviyesini 1 arttır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Blooming"
+                  "desc": "[OnSucceedAttack] 3 Çiçeklenme ver"
                 }
               ]
             }
@@ -3873,20 +3873,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Like Flowers in Full Bloom...",
+          "name": "Çiçek Açmış Çiçekler Gibi...",
           "desc": "[WhenUse] Inflict 3 Blooming",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Blooming"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Blooming"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme Ver"
                 }
               ]
             },
@@ -3900,16 +3900,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Magnificent Spring Breeze",
-          "desc": "Gain +5 Final Power for each living Soon-to-bloom Flower\n\n[EndSkill] Remove all Soon-to-bloom Flowers",
+          "name": "Muhteşem İlkbahar Esintisi",
+          "desc": "Her yaşan Yakında-Çiçeklenecek Çiçek için +5 Final Gücü kazan\n\n[EndSkill] Bütün Yakında-Çiçeklenecek Çiçekleri kaldır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 15 SP"
+                  "desc": "[OnSucceedAttack] Hedef 15 SP Kaybeder"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Blooming"
+                  "desc": "[OnSucceedAttack] 3 Çiçeklenme ver"
                 }
               ]
             }
@@ -3922,8 +3922,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Must Cover With Dirt",
-          "desc": "[WhenUse] Inflict Dueling next turn",
+          "name": "Toprak İle Örtmeliyim",
+          "desc": "[WhenUse] Sonraki tur Duello ver",
           "coinlist": [
             {}
           ]
@@ -3935,8 +3935,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flowering Glory",
-          "desc": "[StartBattle] Gain 10 Protection\n[DefeatDuel] Gain 1 Scattering Petals",
+          "name": "Çiçeklenen Görkem",
+          "desc": "[StartBattle] 10 Korunma Kazan\n[DefeatDuel] 1 Saçılan Yapraklar kazan",
           "coinlist": [
             {}
           ]
@@ -3948,8 +3948,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Withering Flower",
-          "desc": "[StartBattle] Gain 10 Protection\n[DefeatDuel] Gain 3 Scattering Petals",
+          "name": "Solan Çiçek",
+          "desc": "[StartBattle] 10 Korunma Kazan\n[DefeatDuel] 3 Saçılan Yapraklar kazan",
           "coinlist": [
             {}
           ]
@@ -3961,30 +3961,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Culminating Fragrance",
-          "desc": "If target is Fully Bloomed, deal +100% damage",
+          "name": "Sonuçlanan Koku",
+          "desc": "Hedef Tamamen Çiçeklenmişse, +100% Hasar Vur",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target is Fully Bloomed, stagger them and remove the effect"
+                  "desc": "[OnSucceedAttack] Hedef Tamamen Çiçeklenmişse, onları sersemlet ve efekti kaldır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile"
+                  "desc": "[OnSucceedAttack] 2 Kırılganlık ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] 5 Parçalanma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttack] +5 Parçalanma miktarı ver"
                 }
               ]
             }
@@ -3997,8 +3997,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Piquant Scent",
-          "desc": "[OnSucceedEvade] Inflict 1 Blooming",
+          "name": "Cazip Koku",
+          "desc": "[OnSucceedEvade] 1 Çiçeklenme ver",
           "coinlist": [
             {}
           ]
@@ -4010,8 +4010,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Awaiting the Moment",
-          "desc": "[StartBattle] Gain 5 Protection",
+          "name": "Anı Bekliyor",
+          "desc": "[StartBattle] 5 Korunma Kazan",
           "coinlist": [
             {}
           ]
@@ -4023,13 +4023,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Floral Breeze",
+          "name": "Çiçeksi Esinti",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Blooming"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme Ver"
                 }
               ]
             }
@@ -4042,20 +4042,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fragrant Breeze",
+          "name": "Kokulu Esinti",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Blooming"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Blooming"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
                 }
               ]
             }
@@ -4068,27 +4068,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pungent Breeze",
+          "name": "Keskin Esinti",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Blooming"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Blooming"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Blooming"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
                 }
               ]
             }
@@ -4101,8 +4101,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Borne Scent",
-          "desc": "[WhenUse] Heal 10 HP",
+          "name": "Taşınan Koku",
+          "desc": "[WhenUse] 10 HP İyileştir",
           "coinlist": [
             {}
           ]
@@ -4114,8 +4114,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fully Bloomed",
-          "desc": "[DefeatDuel] This unit is defeated",
+          "name": "Tamamen Çiçeklendi",
+          "desc": "[DefeatDuel] Bu kişi yenilir",
           "coinlist": [
             {}
           ]
@@ -4127,8 +4127,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Full Bloom",
-          "desc": "Cannot act\nAt the end of the turn, lose 20 SP\nIf SP reaches -45, fully heal SP, then gain Dazzled Mind next turn\nIf this effect isn't removed for 2 turns, remove it at the end of the turn",
+          "name": "Tamamen Çiçeklenme",
+          "desc": "Birşey yapamaz\nTurun sonunda, 20 SP Kaybet\nSP -45e ulaşır ise, SPyi Tamamen İyileştir ve sonraki tur Büyülenmiş Akıl kazan\nEğer bu efekt 2 tur içinde kaldırılmazsa, tur sonunda kaldır",
           "coinlist": [
             {}
           ]
