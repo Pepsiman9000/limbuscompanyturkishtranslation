@@ -6,20 +6,20 @@
     },
     {
       "id": 1,
-      "content": "Dur durak bilmiyor. Açlığına yenik düşmüş olabilir mi? Veya…"
+      "content": "Dur durak bilmiyor. Açlığından mı? Veya…"
     },
     {
       "id": 2,
       "place": "Mephistopheles'in İçerisi",
       "teller": "???",
       "title": "???",
-      "content": "Sallanıyor. Kalktı mı acaba?"
+      "content": "Kıpır kıpırlar. Kalktılar mı acaba?"
     },
     {
       "id": 3,
       "teller": "???",
       "title": "???",
-      "content": "Sonunda uyandı. Şuracıkta gitseydin gerçekten de hayal kırıklığına uğrardım."
+      "content": "Sonunda uyandın. Daha şimdiden tahtalı köyü boyalasaydın hayal kırıklığına uğrardım."
     },
     {
       "id": 4,
@@ -31,21 +31,21 @@
       "model": "눈이붉은자",
       "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "Sabah olmasa bile, bunu duymak bir nebze rahatlatıcı olmalı. Nasıl hissediyorsun, Dante?"
+      "content": "Gün değil ama, sanırım biraz aydın olabilir. Nasıl hissediyorsun, Dante?"
     },
     {
       "id": 6,
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ben",
-      "content": "<Yani, pek de…>"
+      "content": "<Yani, ben…>"
     },
     {
       "id": 7,
       "model": "눈이붉은자",
       "teller": "Kızıl Gözlü Adam",
       "title": "???",
-      "content": "Saat gibi takırdıyorsun… Hah, büyük bir iletişim sorunumuz var."
+      "content": "Saatin Tick Tockları… Hah, büyük bir dil sorunu bu."
     },
     {
       "id": 8,
@@ -54,7 +54,7 @@
     },
     {
       "id": 9,
-      "content": "Saldırganlık göstermediğini hissettiğimden, yavaşça başımı salladım."
+      "content": "Düşmancıl gözükmediğinden , yavaşça başımı salladım."
     },
     {
       "id": 10,
@@ -68,11 +68,11 @@
     },
     {
       "id": 12,
-      "content": "Ağır bir gürültü ve türbülasyon vardı, tıpkı çamura saplanıp çıkmaya çalışan bir araç gibi."
+      "content": "Ağır bir inleme ve sarsıntı hissetim, sanki derin bir çamurdan çıkmaya çalışırmışçasına."
     },
     {
       "id": 13,
-      "content": "Tam bu anda bir otobüsün içerisinde olduğumu anladım."
+      "content": "Tam o anda bir otobüsün içerisinde olduğumu anladım."
     },
     {
       "id": 14,
@@ -81,11 +81,11 @@
     {
       "id": 15,
       "model": "베르길리우스",
-      "content": "Kim olduğunu hatırlıyor musun?"
+      "content": "Eskiden kim olduğunu hatırlıyor musun?"
     },
     {
       "id": 16,
-      "content": "Kafamı sallayarak hayır demeye çalıştım. Kafamın artık bir saatten farksız olduğu gerçeği bir kez daha yüzüme çarptı."
+      "content": "Hayır demek için kafamı salladım. Kafamın artık bir zanâat eseri olduğu gerçeği bir kez daha yüzüme çarpt."
     },
     {
       "id": 17,
@@ -94,12 +94,12 @@
     },
     {
       "id": 18,
-      "content": "Onaylayarak başımı salladım. Gerçekten de aptalın teki gibi hissediyordum."
+      "content": "Başımı salladım. Cidden bir aptal gibi hissediyorum."
     },
     {
       "id": 19,
       "model": "베르길리우스",
-      "content": "Ne rahat. Sizin de böyle hareket bazlı bir iletişim yoluna başvurmanız için uygun bir zaman değil mi?"
+      "content": "Ne kadar da rahat. Sizin de böyle mimik bazlı bir iletişime başvurmanızı durduran ne?"
     },
     {
       "id": 20,
@@ -114,7 +114,7 @@
     {
       "id": 22,
       "model": "파우스트",
-      "content": "Çoğu zaman bedenlerimiz üzerinde bile yeterli özgürlüğe sahip olacağımızdan şüpheliyim."
+      "content": "Çoğu zaman bedenlerimiz üzerinde böyle yeterli kabiliyetine sahip olacağımızdan şüpheliyim."
     },
     {
       "id": 23,
@@ -122,7 +122,7 @@
     },
     {
       "id": 24,
-      "content": "Güneş olmadan bile parlayan gümüş saçları, ona sahiden de gizemli bir hava katıyordu."
+      "content": "Güneş olmadan bile parlayan gümüş saçları, ona sahiden de gizemli bir hava katıyor."
     },
     {
       "id": 25,
@@ -138,24 +138,24 @@
     },
     {
       "id": 27,
-      "content": "Tekrardan düşününce, kızıl gözlü adam da bana aynı şekilde seslenmişti."
+      "content": "Tekrardan düşününce, kızıl gözlü adam da bana aynı şekilde sesleniyordu."
     },
     {
       "id": 28,
       "model": "파우스트",
-      "content": "Dante senin adın oluyor. Hafıza kaybın pek bir ağır olsa gerek."
+      "content": "Dante senin adın oluyor. Amnezi seni ağır etkiliyor olmalı."
     },
     {
       "id": 29,
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ben",
-      "content": "<Kesinlikle öyle... Hiç kulağa tanıdık gelen kelimeler söylemiyorsun.>"
+      "content": "<Görünüşe göre öyle... Hiç kulağa tanıdık gelen bir kelime değil.>"
     },
     {
       "id": 30,
       "model": "파우스트",
-      "content": "Zamanla alışacağına inanıyorum."
+      "content": "Zamanla alışaacaksın."
     },
     {
       "id": 31,
@@ -169,7 +169,7 @@
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ben",
-      "content": "<Bana daha önceden saldıran grup —ve şu Vergie ya da ne diyorsak artık —benden sadece saat sesleri duyuyordu.>"
+      "content": "<Bana önceden saldıran grup- ve şu Vergie ya da adı neyse artık— benden sadece saat sesleri duyuyor gibiydi.>"
     },
     {
       "id": 33,
@@ -181,34 +181,34 @@
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ben",
-      "content": "<Gerçekten mi…? Ama nasıl? Bir ağzım bile yok ki.>"
+      "content": "<Gerçekten mi…? Ama nasıl? Gerçek bir ağzım bile yok ki.>"
     },
     {
       "id": 35,
       "model": "파우스트",
-      "content": "Tarihi geçmiş fikirler, kafanın değişmesinin bir yan etkisi olsa gerek."
+      "content": "Tarihi geçmiş fikirler, kafanın değişmesinin bir yan etkisi olmalı."
     },
     {
       "id": 36,
       "model": "파우스트",
-      "content": "Ses telleri veya dil gibi organların, iletişim için gerekli olduğunu düşünmek pek cahilce bir fikir."
+      "content": "Ses telleri veya dil gibi ses organlarının, iletişim için elzem olduğunu düşünmek artık pek bir anakronistik." Bu kelimeyi Tarih dersinde duymayanları yahut unutanalrı bizim hoca sikiyodu
     },
     {
       "id": 37,
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ben",
-      "content": "<Cahilce mi… Peki. Bu açıdan hiç bakmamıştım.>"
+      "content": "<Anakronistik mi… Tabii. Bu açıdan hiç bakmamıştım.>"
     },
     {
       "id": 38,
       "model": "파우스트",
-      "content": "…Alıcı kişi sayısını bire indirebilir, veya herkesle aynı anda konuşabilirsin."
+      "content": "…Alıcı kişi sayısını bire indirebilir, yahut herkesle aynı anda konuşabilirsiniz."
     },
     {
       "id": 39,
       "model": "파우스트",
-      "content": "Ufak bir doğrulama yapmama izin ver: “Herkes” derken, sadece Günahkarlardan bahsediyorum."
+      "content": "Ah, ufak bir doğrulama: “Herkes” derken, sadece Günahkârlardan bahsediyorum."
     },
     {
       "id": 40,
@@ -220,7 +220,7 @@
     {
       "id": 41,
       "model": "파우스트",
-      "content": "Arkanda oturan…"
+      "content": "Arkanda koltuklarına yerleşmiş olan insanlar…"
     },
     {
       "id": 42,
@@ -231,13 +231,13 @@
       "id": 43,
       "teller": "???",
       "title": "???",
-      "content": "Neeee!!! Yolculuğumuzun kadrosunu tamamlayan yegane kişi de sensin demek! Bu anı uzun zamandır bekliyordum!"
+      "content": "OOOooo!!! Sergüzeştimizin kadrosunu tamamlayan yegane kondüvit sensin demek! Bu ana ne zamandır muntazırım!"
     },
     {
       "id": 44,
       "teller": "???",
       "title": "???",
-      "content": "Söylesene dostum, eski kelleni hangi pazarda sattın?"
+      "content": "Söylesene, Ahbap eski kafandaki kranyumu hangi pazarda sattın?"
     },
     {
       "id": 45,
@@ -248,22 +248,22 @@
     {
       "id": 46,
       "model": "베르길리우스",
-      "content": "Hepiniz sessiz olun. Hiçbir şey kuru gürültüden daha rahatsız edici değil."
+      "content": "Hepiniz sessiz olun. Hiçbir şey kuru gürültünüzün korosundan daha rahatsız edici değil."
     },
     {
       "id": 47,
       "model": "베르길리우스",
-      "content": "Hepiniz onunla az da olsa kaynaşsa iyi eder."
+      "content": "Sanırım hepiniz ona kısa bir skeç borçlusunuz."
     },
     {
       "id": 48,
       "model": "베르길리우스",
-      "content": "En yakında oturan kişiden, birbirinizi tanıtmaya başlayabilirsiniz. Hadi bakalım."
+      "content": "Kendinizi tanıtmanız için zaman vereceğim. En önden başlıyarak, hadi oynayın."
     },
     {
       "id": 49,
       "model": "그레고르",
-      "content": "Neden her zaman önde olanlar önce gider ki… Her şeyde başı çekmek beni hasta ediyor."
+      "content": "Neden her zaman önde olanlar önce gider ki… Şu an herhangi bir başı çekmek istemiyorum."
     },
     {
       "id": 50,
@@ -301,7 +301,7 @@
     {
       "id": 57,
       "model": "로쟈",
-      "content": "Greg! O sadece beyimiz veya patronumuz değil~ Bizi köpek gibi zengin edecek olan adam ile konuşuyorsun!"
+      "content": "Greg! O sadece patronumuz veya “Ahbap”ımız değil~ Bizi köpek gibi zengin edecek olan adam ile konuşuyorsun!"
     },
     {
       "id": 58,
