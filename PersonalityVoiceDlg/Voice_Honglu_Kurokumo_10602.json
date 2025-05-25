@@ -3,47 +3,47 @@
     {
       "id": "get_10602_1",
       "desc": "Identity Acquisition",
-      "dlg": "Emirlerinizi sorunsuz yerine getireceğim~ Obedience might be a tall order, though~"
+      "dlg": "Emirlerinizi sorunsuzca yerine getireceğim~ İtaat etmek zor bir görev olabilir ama~"
     },
     {
       "id": "lobby_morning_10602_1",
       "desc": "Morning Greeting",
-      "dlg": "When you’re too tired to get up, it might just be best to stay in and relax~"
+      "dlg": "Kalkmak için çok yorgun olduğunuzda, içeride kalıp rahatlamak en iyisi olabilir~"
     },
     {
       "id": "lobby_noon_10602_1",
       "desc": "Afternoon Greeting",
-      "dlg": "On wonderful days… I sometimes bathe in the sunlight. I like the warmth it wraps me up in."
+      "dlg": "Harika günlerde... Bazen güneş ışığında yıkanırım. Beni saran sıcaklığını seviyorum."
     },
     {
       "id": "lobby_night_10602_1",
       "desc": "Evening Greeting",
-      "dlg": "When dusk falls, and even the moonlight is shrouded by the clouds… Look, it really does blend with the shadows, doesn’t it?"
+      "dlg": "Akşam karanlığı çöktüğünde, ay ışığı bile bulutlarla örtülünce... Bak, gölgelerle gerçekten de bütünleşiyor değil mi?"
     },
     {
       "id": "smalltalk_10602_1",
       "desc": "Chatter #1",
-      "dlg": "Bir şeyleri kesmek hep eğlenceli. Ama, zorunlu olarak yapmak… modu düşürüyor gibi."
+      "dlg": "Bir şeyleri kesmek hep eğlenceli. Ama,bunu zorunlu olarak yapınca… hevesim gitmiyor değil."
     },
     {
       "id": "smalltalk_10602_2",
       "desc": "Chatter #2",
-      "dlg": "It’s a mystery how people are so obsessed with what they own. If only they could nurture a spirit of generosity."
+      "dlg": "İnsanların sahip oldukları şeylere nasıl bu kadar takıntılı oldukları bir gizem. bi cömertlik ruhu büyütebilseler..."
     },
     {
       "id": "smalltalk_10602_3",
       "desc": "Chatter #3",
-      "dlg": "I prefer to have autonomy in choosing my opponent. Doing as you’re told all the time… It’d end up being a pointless life."
+      "dlg": "Rakibimi seçmede özerk olmayı tercih ederim. Her zaman söyleneni yapmak... anlamsız bir hayat olurdu."
     },
     {
       "id": "smalltalk_10602_4",
       "desc": "Post-Uptie Chat 1",
-      "dlg": "Gerçekten saydığım tek kişi sizsiniz, Lord Dante. Eğer bu ünvanı hakettiğinizi düşünmeseydim size lord demezdim."
+      "dlg": "Gerçekten sayğı duyduğum tek kişi sizsiniz, Lord Dante. Eğer bu ünvanı hakettiğinizi düşünmeseydim size lord demezdim."
     },
     {
       "id": "smalltalk_10602_5",
       "desc": "Post-Uptie Chat 2",
-      "dlg": "Lord Dante, what I like about you… is that you don’t demand I bow to you. Receiving orders from your boss with your back courteously bent… That’s only really fun in movies, no?"
+      "dlg": "Lord Dante, sizin hakkınızda en çok hoşuka giden şey... benden sana boyun eğmemi istememeniz. Sırtını eğmiş bir şekilde Patronundan emir almak... sadece filmlerde eğlenceli, değil mi?"
     },
     {
       "id": "neglect_10602_1",
@@ -53,7 +53,7 @@
     {
       "id": "gacksung_10602_1",
       "desc": "Uptying",
-      "dlg": "Teşekkürler. Is there anything else you’d like me to fell?"
+      "dlg": "Teşekkürler. Başka söylememi istediğiniz bir şey var mı?"
     },
     {
       "id": "formation_10602_1",
@@ -63,7 +63,7 @@
     {
       "id": "battleentry_10602_1",
       "desc": "Stage Entry",
-      "dlg": "Can I slit them however I see fit?"
+      "dlg": ""Onları istediğim gibi kesebilir miyim?"
     },
     {
       "id": "battle_select_10602_1",
@@ -73,12 +73,12 @@
     {
       "id": "battle_endcommand_10602_1",
       "desc": "Commencing Attack",
-      "dlg": "It won’t be as fun, but I’ll do it~"
+      "dlg": "O kadar eğlenceli olmayacak ama, yapacağım~"
     },
     {
       "id": "battle_enemy_break_10602_1",
       "desc": "Enemy Stagger",
-      "dlg": "I think I could do a better job next time?"
+      "dlg": "Sanırım bir dahaki sefere daha iyi bir iş çıkarabilirim?"
     },
     {
       "id": "battle_break_10602_1",
@@ -93,7 +93,7 @@
     {
       "id": "battle_allydead_10602_1",
       "desc": "Ally Death",
-      "dlg": "I don’t envy your outlook there, Lord Dante~"
+      "dlg": "Sizin o bakış açınızı kıskanmıyorum, Lord Dante~"
     },
     {
       "id": "choice_success_p_10602_1",
@@ -108,12 +108,12 @@
     {
       "id": "battle_clear_10602_1",
       "desc": "Victory Cry",
-      "dlg": "Wasn’t my swordsmanship snazzy to behold? Huhu…"
+      "dlg": "Kılıç ustalığım görülmeye değer değil miydi? Huhu…"
     },
     {
       "id": "battle_clear_ex_10602_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "I just sent them to where they belonged—by simply cutting down what I saw~"
+      "dlg": "Ben sadece onları ait oldukları yere gönderdim—gördüklerimi basitçe keserek~"
     },
     {
       "id": "battle_defeat_10602_1",
