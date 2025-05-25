@@ -1193,7 +1193,7 @@
         {
           "level": 3,
           "name": "Tam Onikiden!",
-          "desc": "[BeforeUse] Eğer Günahkarda [Bullet_LogicAtelier] varsa, 'AL-HV Parçalayıcı Mermi!' yeteneğini kullan\nEğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] ı harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 12.5)% daha fazla hasar uygula",
+          "desc": "[BeforeUse] Eğer Günahkarda [Bullet_LogicAtelier] varsa, 'AL-YH Parçalayıcı Mermi!' yeteneğini kullan\nEğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] ı harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 12.5)% daha fazla hasar uygula",
           "coinlist": [
             {
               "coindescs": [
@@ -1213,7 +1213,7 @@
         {
           "level": 4,
           "name": "Tam Onikiden!",
-          "desc": "[BeforeUse] Eğer Günahkarda [Bullet_LogicAtelier] varsa, 'AL-HV Parçalıyıcı Mermi!' yetemeğini kullan\nEğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] ı harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 12.5)% daha fazla hasar uygula\n<style=\"highlight\">[EndSkill] +2 [Breath] Miktarı kazan</style>",
+          "desc": "[BeforeUse] Eğer Günahkarda [Bullet_LogicAtelier] varsa, 'AL-YH Parçalıyıcı Mermi!' yetemeğini kullan\nEğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] ı harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 12.5)% daha fazla hasar uygula\n<style=\"highlight\">[EndSkill] +2 [Breath] Miktarı kazan</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1265,7 +1265,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "AL-HV Parçalama Mermisi",
+          "name": "AL-YH Parçalıyıcı Mermi",
           "desc": "Eğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] i harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 25)% daha fazla hasar uygula",
           "coinlist": [
             {
@@ -1285,7 +1285,7 @@
         },
         {
           "level": 4,
-          "name": "AL-HV Parçalama Mermisi",
+          "name": "AL-YH Parçalıyıcı Mermi",
           "desc": "Eğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] i harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 25)% daha fazla hasar uygula\n<style=\"highlight\">[EndSkill] Gain +5 [Breath] Count</style>",
           "coinlist": [
             {
