@@ -20,7 +20,7 @@
         },
         {
             "id": 3,
-            "content": "Tabii ki de, Bunu yaparken etrafını el verişli bir şekilde incelemekten de geri kalmadan."
+            "content": "Tabii ki de, Bunu yaparken etrafını el verişli bir şekilde incelemekten de geri kalmıyorudu."
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "model": "로쟈",
             "teller": "Rodion",
             "title": "Zwei Section 5",
-            "content": "Burası sözleşmeli-kişi koruma. Anlaşıldı şekerim~"
+            "content": "Burası atanmış kişi koruma. Anlaşıldı şekerim~"
         },
         {
             "id": 6,
@@ -55,7 +55,7 @@
             "model": "로쟈",
             "teller": "Rodion",
             "title": "Zwei Section 5",
-            "content": "Ooh! Cidden mi? Sağlasın~ Ben kaçtım!"
+            "content": "Ooh! Cidden mi? Sağolasın~ Ben kaçtım!"
         },
         {
             "id": 9,
@@ -87,7 +87,7 @@
         },
         {
             "id": 13,
-            "content": "Diğer çocuk eline bir not kitabı almadan önce hafif bir biçimde gülümsedi."
+            "content": "Diğer çocuk eline bir not defteri almadan önce hafif bir biçimde gülümsedi."
         },
         {
             "id": 14,
@@ -115,7 +115,7 @@
             "model": "이스마엘",
             "teller": "Ishmael",
             "title": "Zwei Section 4",
-            "content": "Hey, Don Quixote is on the move."
+            "content": "Hey, Don Quixote harakete geçti."
         },
         {
             "id": 18,
@@ -126,105 +126,105 @@
         },
         {
             "id": 19,
-            "content": "While the other child scribbled in her notepad, this child breathed warily and began to fiddle with the panel in her hands."
+            "content": "Diğer çocuk not defterini karalarken, bu çocuk ise temkinli şekilde nefes alıp verip elindeki panel ile uğraşmaya başladı."
         },
         {
             "id": 20,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Zwei Section 4",
-            "content": "To Sinclair. Have you noticed any suspicious individuals entering the territory?"
+            "content": "Siclair'e. Bölgeye giren herhangi bir şüpheli şahsiyet görüldü mü?"
         },
         {
             "id": 21,
             "model": "싱클레어",
             "teller": "Sinclair",
             "title": "Zwei Section 6",
-            "content": "Uh... That's uh..."
+            "content": "Umm... Eee... Şöyle ki..."
         },
         {
             "id": 22,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Zwei Section 4",
-            "content": "Don Quixote is advancing... somewhere."
+            "content": "Don Quixote ilerliyor... bir yere doğru."
         },
         {
             "id": 23,
             "model": "싱클레어",
             "teller": "Sinclair",
             "title": "Zwei Section 6",
-            "content": "T–that's, uh, she thought some people were tailing our client, so she said we should follow them."
+            "content": "O, aaa, birilerinin müvvekilimizi takip ettiğini düşündü, o yüzden de bizimde onları takip etmemiz gerektiğini söyledi."
         },
         {
             "id": 24,
             "model": "싱클레어",
             "teller": "Sinclair",
             "title": "Zwei Section 6",
-            "content": "And I... agree with her. We're the Zwei, our client's shield."
+            "content": "Ve ben... katılıyorum ona. Bizler Zwei'ız, müvvekilimizin kalkanıyız."
         },
         {
             "id": 25,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Zwei Section 4",
-            "content": "The client has already made contact with the hostiles. They appear to be forces from outside the territory..."
+            "content": "Müvvekil zaten hali hazırda hasımlarla karşılatı. Bölgenin dışından gelen güçler olma durumundalar..."
         },
         {
             "id": 26,
             "model": "이스마엘",
             "teller": "Ishmael",
             "title": "Zwei Section 4",
-            "content": "Oh, someone's moving in on Don Quixote's position."
+            "content": "Oh, birileri Don Quixote'nin konumuna doğru ilerliyor."
         },
         {
             "id": 27,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Zwei Section 4",
-            "content": "...Sinclair, immediately move to Don Quixote's position and provide support. Section 6, follow the plan and focus on neutralizing any and all external forces."
+            "content": "...Sinclair, hemen Don Quixote'nin konumuna ilerle ve destek sağla. Bölük 6, plana sadık kalın ve herhangi ve bütün harici kuvvetlerin etkisiz hale getirilmesine odaklanın."
         },
         {
             "id": 28,
             "model": "싱클레어",
             "teller": "Sinclair",
             "title": "Zwei Section 6",
-            "content": "Ah! That fast... Roger that!"
+            "content": "Ah! Bu cidden hızlıydı... Tamam!"
         },
         {
             "id": 29,
             "model": "이스마엘",
             "teller": "Ishmael",
             "title": "Zwei Section 4",
-            "content": "...This turned out to be a pretty big operation, huh?"
+            "content": "...Bu umduğumuzdan daha büyük çaplı bir görev çıktı, ha?"
         },
         {
             "id": 30,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Zwei Section 4",
-            "content": "While a joint operation isn't strictly uncommon, it's not quotidian, either."
+            "content": "Geniş çaplı ortaklaşa görevler özellikle nadir olmasalarda, gündelikte sayılmazlar."
         },
         {
             "id": 31,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Zwei Section 4",
-            "content": "If sections 4, 5, and 6 are all being deployed at once, it is most likely because there will be a conflict of an equivalent scale."
+            "content": "Eğer Bölükler 4, 5, ve 6'nın hepsi aynı anda mevzilendirilmişse, hepsinin kullanımını gerektirecek bir çatışmanın yaşanacağı aşikar."
         },
         {
             "id": 32,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Zwei Section 4",
-            "content": "For example..."
+            "content": "Mesala..."
         },
         {
             "id": 33,
             "model": "이스마엘",
             "teller": "Ishmael",
             "title": "Zwei Section 4",
-            "content": "Huh, speak of the devil."
+            "content": "Evet, iyi düşman lafın üstüne gelirmiş."
         },
         {
             "id": 34,
