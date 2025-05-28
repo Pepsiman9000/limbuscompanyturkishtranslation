@@ -445,7 +445,7 @@
     {
       "id": 89,
       "model": "히스클리프",
-      "content": "Kimsenin emrine göre değil, onu bilesin. Sadece sinirimi bozan mahluklara yapıyorum."
+      "content": "Kimsenin emrine göre değil, onu bilesin. Sadece sinirimi bozan mahluklara yapıyordum."
     },
     {
       "id": 90,
@@ -477,22 +477,22 @@
     {
       "id": 96,
       "model": "단테",
-      "content": "<İşçözücü mü…? Zamanında haşır neşir olduğum bir terime benziyor…>"
+      "content": "<İşçözücü mü…? Zamanında haşır neşir olduğum ama şimdi kafamdan silinmiş bulduğum bir terime benziyor…>"
     },
     {
       "id": 97,
       "model": "돈키호테",
-      "content": "Ne olduğunu mu bilmek istiyorsunuz? Sualinizin cevabı zatıma zahir! İşçözücüler Şehir'in koruyucularıdır nitekim!"
+      "content": "Zat-ı şahaneniz ne olduğunu mu bilmek mi isterler? Sualinizin cevabı zatıma zahir! İşçözücüler Şehir'in muhafızlarıdır nitekim!"
     },
     {
       "id": 98,
       "model": "돈키호테",
-      "content": "Ah! Belki de Şehir'in ne olduğunu da unutmuşsunuzdur! Şeh—"
+      "content": "Ah! Belki de Şehir'in ne olduğu da efkarınıza gelmemekte! Şeh—"
     },
     {
       "id": 99,
       "model": "베르길리우스",
-      "content": "Kısa bir tanışma sürdüreceğinizi söylediğimi düşünüyorum."
+      "content": "Kısa bir tanışma sürdüreceğinizi söylediğimi sanıyordum."
     },
     {
       "id": 100,
@@ -502,7 +502,7 @@
     {
       "id": 101,
       "model": "베르길리우스",
-      "content": "Bana ikilettiretim deme. Sıradaki."
+      "content": "Bana söylediklerimi ikilettireyim deme. Sıradaki."
     },
     {
       "id": 102,
@@ -534,7 +534,7 @@
     },
     {
       "id": 108,
-      "content": "Heathcliff sopasını savurmaktan sadece birkaç adım ötede görünüyord…"
+      "content": "Heathcliff sopasını savurmaktan sadece birkaç adım ötede görünüyordu…"
     },
     {
       "id": 109,
@@ -653,7 +653,7 @@
     {
       "id": 134,
       "model": "오티스",
-      "content": "Bazıları kafa kafaya verip bu işten bir ortak pay çıkarabilir."
+      "content": "Bazıları kafa kafaya verip bu işten bir ortak pay çıkarabilirler."
     },
     {
       "id": 135,
@@ -668,11 +668,11 @@
     {
       "id": 137,
       "model": "단테",
-      "content": "<Bu gerçekten de rahatlatıcı… Teşekkürler.>"
+      "content": "<Bu gerçekten de… güven verici, Teşekkürler.>"
     },
     {
       "id": 138,
-      "content": "Onaylarcasına başımı salladım, lakin hala kabalık derken neyi kastettiğini anlamış değilim."
+      "content": "Onaylarcasına başımı salladım, lakin hala kabalık derken neyi kastettiğini anlamış değildim."
     },
     {
       "id": 139,
@@ -681,12 +681,12 @@
     },
     {
       "id": 140,
-      "content": "…Sanırım anlamaya başlıyorum."
+      "content": "…Sanırım şimdi anladım."
     },
     {
       "id": 141,
       "model": "파우스트",
-      "content": "Görünen o ki, son sırada ben varım. Adım Faust."
+      "content": "Görünen o ki, son sırada ben varım. İsim, Faust."
     },
     {
       "id": 142
@@ -694,7 +694,7 @@
     {
       "id": 143,
       "model": "파우스트",
-      "content": "Yolların kesiştiği için kendini şanslı hissetmen gereken bir dahi."
+      "content": "Yolların kesiştiği için bile kendini şanslı hissetmen gereken bir dahi."
     },
     {
       "id": 144,
@@ -719,12 +719,12 @@
     {
       "id": 148,
       "model": "파우스트",
-      "content": "Faust'un sahiden de bir dahi olduğunu."
+      "content": "Faust'un sahiden de akıl almaz zihni olduğunu."
     },
     {
       "id": 149,
       "model": "파우스트",
-      "content": "Bir atasözünde demişler ki, karşıdaki alıcı, sesi duymadığı sürece söylenen hiç bir şey doğruluk niteliği taşımaz."
+      "content": "Bir hüsn-ü tabir ağacı düştüğünde, sesinin gerçekliği onun gözlemcisi fark etmekte geri kalınca hakikate eremezmiş."
     },
     {
       "id": 150,
@@ -734,22 +734,22 @@
     {
       "id": 151,
       "model": "베르길리우스",
-      "content": "Tamam, bu kadar yeter."
+      "content": "Tamam, bu kadar tanışma yeterli."
     },
     {
       "id": 152,
       "model": "베르길리우스",
-      "content": "Dante, yeni işini anlatmama izin ver."
+      "content": "Dante, yeni mesleğini açıklamama izin ver."
     },
     {
       "id": 153,
       "model": "단테",
-      "content": "<Şey… müdür olma işi mi?>"
+      "content": "<Yani… müdür olarak mı?>"
     },
     {
       "id": 154,
       "model": "파우스트",
-      "content": "Anlatacağınız işin bir müdür olmak veya olmamak olduğunu soruyor."
+      "content": "Anlatacağınız mesleğin bir müdür olmak veya olmamak oldup olmadığını soruyor."
     },
     {
       "id": 155,
@@ -758,37 +758,37 @@
     {
       "id": 156,
       "model": "베르길리우스",
-      "content": "Doğrudur, Müdür Dante. Sana kendini tanıtmış olan on iki Günahkâr ile Cehennem'e doğru bir yolculuk yapacaksın."
+      "content": "Bu doğru, Müdür Dante. Sana kendini tanıtmış olan on iki Günahkâr ile Inferno'ya doğru bir yolculuk yapacaksın."
     },
     {
       "id": 157,
       "model": "단테",
-      "content": "<Cehennem…? Neden oraya gidiyorum ki ben?>"
+      "content": "<Inferno…? Neden cehenneme gideyim ki?>"
     },
     {
       "id": 158,
       "model": "파우스트",
-      "content": "Neden Cehennem'e gitmesi gerektiğini soruyor."
+      "content": "Neden Inferno'ya gitmesi gerektiğini soruyor."
     },
     {
       "id": 159,
       "model": "베르길리우스",
-      "content": "Hmm… Şöyle diyelim: Yolun sonunda büyük bir hazine seni bekliyor, bu seni ikna eder mi?"
+      "content": "Hmm… Şöyle diyelim: Yolun sonunda büyük bir hazine seni bekliyor... yeterli mi?"
     },
     {
       "id": 160,
       "model": "단테",
-      "content": "<Şey... Daha önceden bir hazine avcısı olduğumu mu ima etmeye çalışıyorsun?>"
+      "content": "<Şey... Yani, daha önceden bir hazine avcısı olduğumu mu ima etmeye çalışıyorsun?>"
     },
     {
       "id": 161,
       "model": "파우스트",
-      "content": "Seni pek anlamışa benzemiyor."
+      "content": "Seni hiçte anlamışa benzemiyorlar."
     },
     {
       "id": 162,
       "model": "베르길리우스",
-      "content": "Anlayışını soran kimse olmadı, Dante. Ne anlayışını, ne de bu işe olan inancını."
+      "content": "Anlayıp anlamadığını soran olmadı, Dante. Ne de istekliğini merak eden."
     },
     {
       "id": 163,
@@ -798,22 +798,22 @@
     {
       "id": 164,
       "model": "단테",
-      "content": "<Yani... Geri almayı tabii ki istiyorum, fakat…>"
+      "content": "<Yani... Geri almayı tabi ki istiyorum, fakat…>"
     },
     {
       "id": 165,
       "model": "파우스트",
-      "content": "Çekingen davranıyor."
+      "content": "Çekingen davranıyorlar."
     },
     {
       "id": 166,
       "model": "베르길리우스",
-      "content": "Bayan Faust, Dante işbirliğine yanaşmaz ise napacağız? Bu beklediğimiz bir senaryo değildi."
+      "content": "Bayan Faust, Dante işbirliğini reddedip durarsa ne yapacağız? Bu beklediğimiz bir senaryo değildi."
     },
     {
       "id": 167,
       "model": "파우스트",
-      "content": "Bu imkansız. Faust her ihtimali göz önüne alıyor."
+      "content": "Absürtçe. Faust her ihtimali bekler."
     },
     {
       "id": 168,
@@ -823,7 +823,7 @@
     {
       "id": 169,
       "model": "파우스트",
-      "content": "*Amacına ulaşabilirsin*."
+      "content": "*Amacına ulaşabileceksin."
     },
     {
       "id": 170,
@@ -832,7 +832,7 @@
     },
     {
       "id": 171,
-      "content": "*Amacıma ulaşmak*... Bu cümle kafamda sertçe yankılanıyordu, anılarım bana karşı erişilmez olsada... İç güdülerim mutlak bir tepki doğuruyor."
+      "content": "*Amaç. Kafamda sertçe yankılanan bir kelime, anılarım bana karşı erişilmez olsa da, İç güdülerim mutlak bir tepki doğuruyor."
     },
     {
       "id": 172,
@@ -861,12 +861,12 @@
     {
       "id": 177,
       "model": "카론",
-      "content": "Mephi'nin önünde garip garip elemanlar birikti."
+      "content": "Mephi'nin önünde  elemanlar birikti."
     },
     {
       "id": 178,
       "model": "베르길리우스",
-      "content": "Demedim mi ben, Charon? Mephi'ye bir şey olursa, direkt olarak bana haber vermen gerek."
+      "content": "Charon, sana demedim mi? Otobüse bir şey olursa, direkt olarak bana haber vermen gerek."
     },
     {
       "id": 179,
@@ -881,12 +881,12 @@
     {
       "id": 181,
       "model": "파우스트",
-      "content": "…Ve Faust'un Magnum Opus'u."
+      "content": "…Ve Faust'un Magnum Opus Cordis'i."
     },
     {
       "id": 182,
       "model": "베르길리우스",
-      "content": "Cehennem boyunca bizi taşıyabilecek, ideal bir taşıt."
+      "content": "Cehennem boyunca bizi taşıyabilecek, ideal bir kayık."  Karon normalde bir kayıkçıdır ona gönderme var teşşekürler
     },
     {
       "id": 183,
@@ -895,17 +895,17 @@
     },
     {
       "id": 184,
-      "content": "Ne demeye çalıştığını anlamadığımdan, ona cevap vermek yerine başımı cama doğrultup dışarı bakmaya başlamıştım."
+      "content": "Neye varmaya çalıştığını anlamadığımdan, ona cevap vermek yerine başımı cama doğrultup dışarı baktım."
     },
     {
       "id": 185,
       "model": "베르길리우스",
-      "content": "Görünüşe bakılırsa, Arka Sokaklar'da yaşıyan bir grup fareden fazlası değiller."
+      "content": "Görünüşe bakılırsa, Arka Sokaklar'da yaşıyan bir grup fare daha." aaaa lor göndermesi ilk resepsiyon yada ikinci mi
     },
     {
       "id": 186,
       "model": "베르길리우스",
-      "content": "Tam da zamanı geldi, Dante. Liderliğini test edebilmemiz için biçilmiş kaftan."
+      "content": "Tam da zamanı, Dante. Liderliğini test edebilmemiz için biçilmiş kaftan."
     },
     {
       "id": 187,
@@ -925,7 +925,7 @@
     {
       "id": 190,
       "model": "파우스트",
-      "content": "Ve bunun yüzünden de sürekli bizi diriltmenin acısını çekmen gerekecek."
+      "content": "Ve bunun yüzünden de sürekli bizi diriltmenin acısına katlanman gerekecek."
     },
     {
       "id": 191,
@@ -935,7 +935,7 @@
     {
       "id": 192,
       "model": "파우스트",
-      "content": "Evet, “Saati geriye sardığın” için hayata geri döndük."
+      "content": "Evet, “Saati geriye sardığın” için hayata geri dönnmüştük."
     },
     {
       "id": 193,
@@ -945,7 +945,7 @@
     {
       "id": 194,
       "model": "베르길리우스",
-      "content": "Sonra da konuşursunuz. Günahkârlar, inin bakalım otobüsten."
+      "content": "Çekirdekleri sonraya da saklayın. Günahkârlar, inin bakalım otobüsten."
     },
     {
       "id": 195,
