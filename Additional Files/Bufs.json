@@ -1430,8 +1430,8 @@
     },
     {
       "id": "KCorpSerum",
-      "name": "K Kuruluşu Aşısı",
-      "desc": "Turn Start: At less than 4 Count, heal by ({0} * 5)% of Max HP\nAt 4+ Count, the unit dies",
+      "name": "K Kuruluşu Ampulü",
+      "desc": "Tur Başlangıcında: Miktar 4'ten az ise, Maksimum HP'nin ({0} * 5)%si kadar HP yenile\n4+ Miktarda, öl",
       "summary": ""
     },
     {
