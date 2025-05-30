@@ -1618,34 +1618,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Purify",
-          "desc": "[WhenUse] If target’s HP is below 30%, Skill Power +2",
+          "name": "Arındır",
+          "desc": "[WhenUse] Hedefin canı 30%un altında ise, Yetenek Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttack] 1 N Corp'un çivilerinden ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttack] 1 N Corp'un çivilerinden ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttack] 1 N Corp'un çivilerinden ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them and remove the Nails"
+                  "desc": "[OnSucceedAttack] Hedefte 5+ N Corp'un çivilerinden var ise, Onu sersemlet ve bütün çivileri kaldır"
                 }
               ]
             }
@@ -1658,20 +1658,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Shall Claim Your Life!",
-          "desc": "[WhenUse] If target’s HP is below 30%, Skill Power +2",
+          "name": "Senin Canını Alacağım!",
+          "desc": "[WhenUse] Hedefin canı 30%un altında ise, Yetenek Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Nails, Stagger them"
+                  "desc": "[OnSucceedAttack] edefte 5+ çivi var ise, Onu sersemlet"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal damage by 3x Nails on target, then remove the Nails"
+                  "desc": "[OnSucceedAttack] Hedefteki Çivilerin 3 katına göre hasar vur, sonra çivileri kaldır"
                 }
               ]
             }
@@ -1684,13 +1684,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Shall Claim Your Life!",
-          "desc": "[DefeatDuel] User becomes Staggered",
+          "name": "Senin Canını Alacağım!",
+          "desc": "[DefeatDuel] Kullanıcı Sersemler",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Stagger target and inflict 10 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Hedefi sersemlet ve Sonraki tur 10 Kırılganlık ver"
                 }
               ]
             }
@@ -1716,8 +1716,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Are Nothing",
-          "desc": "[OnSucceedEvade] Deal 5 SP damage",
+          "name": "Sen Hiçbirşeysin",
+          "desc": "[OnSucceedEvade] 5 SP hasarı ver",
           "coinlist": [
             {}
           ]
@@ -1729,7 +1729,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Protoplast’s Wings",
+          "name": "Protoplast'ın Kanatları",
           "coinlist": [
             {}
           ]
@@ -1741,7 +1741,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Protoplast’s Wings",
+          "name": "Protoplast'ın Kanatları",
           "coinlist": [
             {},
             {}
@@ -1754,45 +1754,45 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Innocent Flutters",
+          "name": "Masum Çırpınmalar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
                 }
               ]
             }
@@ -1805,25 +1805,25 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Broken Wings",
+          "name": "Kırık Kanatlar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
                 }
               ]
             }
@@ -1836,25 +1836,25 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Broken Wings",
+          "name": "Kırık Kanatlar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
                 }
               ]
             }
@@ -1867,7 +1867,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Enraged Flutters",
+          "name": "Öfkeli Çırpınmalar",
           "coinlist": [
             {}
           ]
@@ -1879,35 +1879,35 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Noble Purification",
+          "name": "Soylu Arındırma",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
                 }
               ]
             }
@@ -1920,13 +1920,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Honorable Grip",
-          "desc": "[WhenUse] If target’s HP is below 30%, +100% Damage",
+          "name": "Onurlu Kavrama",
+          "desc": "[WhenUse] Hedefin canı 30%un altında ise, +100% Hasar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target’s HP is below 30%, kill them and heal 30 HP\nGain 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttackHead] Hedefin canı 30%un altında ise, onu öldür ve 30 HP iyileş\nSonraki tur 2 Saldırı Gücü Arttırma kazan"
                 }
               ]
             }
@@ -1939,16 +1939,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Repent!!",
-          "desc": "[WhenUse] If target’s HP is below 30%, +100% Damage",
+          "name": "Tövbe Et!!",
+          "desc": "[WhenUse] Hedefin canı 30%un altında ise, +100% Hasar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 Kırılganlık ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 Kanama ver"
                 }
               ]
             }
@@ -1961,7 +1961,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Peerless Flesh",
+          "name": "Eşsiz Et",
           "coinlist": [
             {
               "coindescs": [
@@ -1977,7 +1977,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clap",
+          "name": "Alkış",
           "keywords": [
             "Reduction"
           ],
@@ -1985,7 +1985,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Saldırı Gücü Azaltma ver"
                 }
               ]
             }
@@ -1998,7 +1998,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Powerful Clap",
+          "name": "Güçlü Alkış",
           "keywords": [
             "Reduction"
           ],
@@ -2006,7 +2006,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Saldırı Gücü Azaltma ver"
                 }
               ]
             }
@@ -2019,7 +2019,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tail Whip",
+          "name": "Kuyruk Kırbacı",
           "keywords": [
             "Vulnerable"
           ],
@@ -2027,14 +2027,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Kırılganlık ver"
                 }
               ]
             }
