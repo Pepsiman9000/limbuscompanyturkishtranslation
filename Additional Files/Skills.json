@@ -4024,7 +4024,7 @@
         {
           "level": 4,
           "name": "Shove",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\nIf target has 8+ [Vibration], Skill Power +2",
+          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\nIf target has 8+ [Vibration], Skill Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4187,7 +4187,7 @@
         {
           "level": 4,
           "name": "Basit Korunma",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\nAt 0 Ammo, gain 2 more Aggro",
+          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\nAt 0 Ammo, gain 2 more  [Aggro] ",
           "coinlist": [
             {}
           ]
@@ -5153,7 +5153,7 @@
         {
           "level": 4,
           "name": "Suppress",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[DefeatDuel] Inflict 6 Tremor",
+          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\n[DefeatDuel] Inflict 6 Tremor",
           "coinlist": [
             {},
             {
@@ -5193,7 +5193,7 @@
         {
           "level": 4,
           "name": "Strong Strike",
-          "desc": "[WhenUse] Give 1 Protection to the ally with the least HP next turn\n[WhenUse] Gain +10 Aggro to this Skill Slot next turn",
+          "desc": "[WhenUse] Give 1 Protection to the ally with the least HP next turn\n[WhenUse] Gain +10  [Aggro]  to this Skill Slot next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -5226,7 +5226,7 @@
         {
           "level": 4,
           "name": "Basit Korunma",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn",
+          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn",
           "coinlist": [
             {}
           ]
@@ -6531,7 +6531,7 @@
         {
           "level": 4,
           "name": "Drive",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\nAt less than 50% HP, Coin Power +2",
+          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\nAt less than 50% HP, Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -6604,7 +6604,7 @@
         {
           "level": 4,
           "name": "You Are Cleansed of Sin",
-          "desc": "[WhenUse] Gain +6 Aggro to this Skill Slot next turn",
+          "desc": "[WhenUse] Gain +6  [Aggro]  to this Skill Slot next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -6654,7 +6654,7 @@
         {
           "level": 4,
           "name": "Annihilate Heretics",
-          "desc": "[WhenUse] Gain +6 Aggro to this Skill Slot next turn",
+          "desc": "[WhenUse] Gain +6  [Aggro]  to this Skill Slot next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -9612,7 +9612,7 @@
         {
           "level": 4,
           "name": "It's Heavy...!",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[DefeatDuel] Inflict 2 Tremor and 2 [Burst]",
+          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\n[DefeatDuel] Inflict 2 Tremor and 2 [Burst]",
           "coinlist": [
             {
               "coindescs": [
@@ -9676,7 +9676,7 @@
         {
           "level": 4,
           "name": "It's Churning...!",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[DefeatDuel] Inflict 3 Tremor and 3 [Burst]",
+          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\n[DefeatDuel] Inflict 3 Tremor and 3 [Burst]",
           "coinlist": [
             {
               "coindescs": [
@@ -9716,7 +9716,7 @@
         {
           "level": 4,
           "name": "Corrosive Splash",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[DefeatDuel] Inflict 5 Tremor and 5 [Burst]",
+          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\n[DefeatDuel] Inflict 5 Tremor and 5 [Burst]",
           "coinlist": [
             {
               "coindescs": [
@@ -9743,7 +9743,7 @@
         {
           "level": 4,
           "name": "Basit Korunma",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn",
+          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn",
           "coinlist": [
             {}
           ]
@@ -9772,7 +9772,7 @@
         {
           "level": 4,
           "name": "Impede the Intruder",
-          "desc": "If target has 5+ [Burst], Coin Power +3\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn",
+          "desc": "If target has 5+ [Burst], Coin Power +3\n[WhenUse] Gain +5  [Aggro]  to this Skill Slot next turn",
           "coinlist": [
             {}
           ]
@@ -9827,7 +9827,7 @@
         {
           "level": 4,
           "name": "Decay Blade",
-          "desc": "[WhenUse] Gain +5 Aggro to this Skill Slot next turn",
+          "desc": "[WhenUse] Gain +5  [Aggro]  to this Skill Slot next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -9899,16 +9899,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ampule Injection",
-          "desc": "[WhenUse] Gain 1 K Corp Ampule next turn",
+          "name": "Ampul Enjektesi",
+          "desc": "[WhenUse] Sonraki tur 1 [KCorpSerum] kazan",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Ampule Injection",
-          "desc": "[WhenUse] Gain 1 K Corp Ampule next turn\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn",
+          "name": "Ampul Enjektesi",
+          "desc": "[WhenUse] Sonraki tur 1 [KCorpSerum] kazan\n[WhenUse] Sonraki tur bu Yetenek Yuvasına +5  [Aggro] kazan",
           "coinlist": [
             {}
           ]
@@ -10658,7 +10658,7 @@
         {
           "level": 4,
           "name": "Careful Obstruction",
-          "desc": "[WhenUse] Gain +2 Aggro to this Skill Slot next turn\n[DefeatDuel] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] Gain +2  [Aggro]  to this Skill Slot next turn\n[DefeatDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -10707,7 +10707,7 @@
         {
           "level": 4,
           "name": "Focused Defense",
-          "desc": "[WhenUse] At 15+ Shield, gain +2 [Breath] Count\n[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] At 15+ Shield, gain +2 [Breath] Count\n[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -10783,7 +10783,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WhenUse] Gain +5 Aggro to this Skill Slot next turn"
+                  "desc": "[WhenUse] Gain +5  [Aggro]  to this Skill Slot next turn"
                 }
               ]
             }
