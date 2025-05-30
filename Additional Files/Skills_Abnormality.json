@@ -4140,13 +4140,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You're Empty As Well",
-          "desc": "[WhenUse] Inflict Empty Mark next turn",
+          "name": "Sende Boşsun",
+          "desc": "[WhenUse] Sonraki tur Boş Damga ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Rupture"
+                  "desc": "[OnSucceedAttack] 10 Parçalanma ver"
                 }
               ]
             }
@@ -4159,20 +4159,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prune",
+          "name": "Buda",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] 5 Parçalanma Ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
                 }
               ]
             }
@@ -4185,20 +4185,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prune",
+          "name": "Buda",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by damage dealt"
+                  "desc": "[OnSucceedAttack] Vurulan hasara göre iyileş"
                 }
               ]
             }
@@ -4211,20 +4211,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thinning",
-          "desc": "Deal +50% damage to targets with Empty Mark\n[DefeatDuel] Gain 1 Fragile next turn",
+          "name": "İnceltme",
+          "desc": "Boş Damgaya sahip hedeflere %50 daha fazla hasar vur\n[DefeatDuel] Sonraki tur 1 Kırılganlık kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by damage dealt\nIf target has Empty Mark, gain 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Vurulan hasara göre iyileş\nHedefte Boş Damga var ise, sonraki tur 1 Saldırı Gücü Arttırma kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by damage dealt\nIf target has Empty Mark, gain 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Vurulan hasara göre iyileş\nHedefte Boş Damga var ise, sonraki tur 1 Saldırı Gücü Arttırma kazan"
                 }
               ]
             }
@@ -4237,13 +4237,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Destruction",
+          "name": "Yıkım",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Bleed"
+                  "desc": "[OnSucceedAttack] 10 Kanama Ver"
                 }
               ]
             }
@@ -4256,27 +4256,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Still Not Enough...",
-          "desc": "Targets a random friendly unit",
+          "name": "Hala Yeterli Değiil...",
+          "desc": "Rastgele bir müttefiği hedefler",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed; Heal by 25% of damage dealt"
+                  "desc": "[OnSucceedAttack] 3 Kanama Ver; Vurulan hasarın 25% kadar iyileş"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed; Heal by 25% of damage dealt"
+                  "desc": "[OnSucceedAttack] 3 Kanama Ver; Vurulan hasarın 25% kadar iyileş"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb 1 random positive status effect from target and gain it next turn"
+                  "desc": "[OnSucceedAttack] Hedeften rastgele 1 positif statü çal ve sonraki tur onu kazan"
                 }
               ]
             }
@@ -4289,20 +4289,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Must Fill...",
-          "desc": "Targets a random unit",
+          "name": "Doldurmalıyım...",
+          "desc": "Rastgele bir Kişiyi hedefler",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb 1 random positive status effect from target and gain it next turn"
+                  "desc": "[OnSucceedAttack] Hedeften rastgele 1 positif statü çal ve sonraki tur onu kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply +5 Bleed Count"
+                  "desc": "[OnSucceedAttack] +5 Kanama Miktarı ver"
                 }
               ]
             }
@@ -4315,8 +4315,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "It's All Empty",
-          "desc": "[DefeatDuel] Gain 10 Rupture",
+          "name": "Hepsi Boş",
+          "desc": "[DefeatDuel] 10 Parçalanma Kazan",
           "coinlist": [
             {}
           ]
@@ -4328,13 +4328,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "It's Too Late Now",
+          "name": "Artık Çok Geç",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Fragile"
+                  "desc": "[OnSucceedAttack] 5 Kırılganlık Ver"
                 }
               ]
             }
@@ -4347,13 +4347,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "It's All Burned Up",
+          "name": "Hepsi Yandı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile, 5 Rupture, and 5 Bleed; Heal by 10% of damage dealt"
+                  "desc": "[OnSucceedAttack] 2 Kırılganlık, 5 Parçalanma, and 5 Kanama ver; Vurulan hasarın 10%u kadar iyileş"
                 }
               ]
             }
@@ -4366,7 +4366,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "It's No Use",
+          "name": "Faydasız",
           "desc": "",
           "coinlist": [
             {}
@@ -4379,20 +4379,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cultivate",
+          "name": "Yetiştir",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind and 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Yavaşlatma ve 1 Felç ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind and 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Yavaşlatma ve 1 Felç ver"
                 }
               ]
             }
@@ -4405,27 +4405,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Dissemination",
+          "name": "Yayma",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Seeds next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Tohumlar ver"
                 }
               ]
             }
@@ -4438,27 +4438,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Facilitate",
+          "name": "Kolaylaştır",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Seeds; if target already has Seeds, inflict 1 more"
+                  "desc": "[OnSucceedAttack] 1 Tohumlar ver; hedefte zaten Tohumlar var ise, 1 kere daha ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Seeds; if target already has Seeds, inflict 1 more"
+                  "desc": "[OnSucceedAttack] 1 Tohumlar ver; hedefte zaten Tohumlar var ise, 1 kere daha ver
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Seeds; if target already has Seeds, inflict 1 more"
+                  "desc": "[OnSucceedAttack] 1 Tohumlar ver; hedefte zaten Tohumlar var ise, 1 kere daha ver"
                 }
               ]
             }
@@ -4471,13 +4471,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Overgrowth",
+          "name": "Aşırı Büyüme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Seeds and Overheal; Heal target's HP by 15"
+                  "desc": "[OnSucceedAttack] 3 Tohumlar ver ve Aşırı İyileş; Hedefi 15 HP iyileştirir"
                 }
               ]
             }
@@ -4490,13 +4490,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Time of Harvest",
+          "name": "Biçme Vakti",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Fragile and 10 Bleed\nIf target has Nutrient Drain, heal 20 HP, and gain 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] 3 Kırılganlık ve 10 Kanama ver\nHedefte Besin Drenajı var ise, 20 HP iyileş, ve sonraki tur 2 Saldırı Gücü Arttırma kazan"
                 }
               ]
             }
@@ -4509,13 +4509,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Please Be My Nutrient",
-          "desc": "[WhenUse] All Trees of Desires heal 15 HP; If there are no Trees of Desires, spawn one",
+          "name": "Lütfen Besinim Ol",
+          "desc": "[WhenUse] Bütün Arzu Ağaçları 15 can iyileşir; Eğer hiç Arzu Ağacı yok ise, bir tane oluştur",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 10 HP; Inflict 3 Seeds"
+                  "desc": "[OnSucceedAttack] 10 HP iyileş; 3 Tohumlar ver"
                 }
               ]
             }
@@ -4528,20 +4528,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Growing Results",
+          "name": "Yetişen Sonuçlar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Seeds"
+                  "desc": "[OnSucceedAttack] 1 Tohumlar ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Seeds"
+                  "desc": "[OnSucceedAttack] 1 Tohumlar ver"
                 }
               ]
             }
@@ -4554,7 +4554,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Expectation",
+          "name": "Beklenti",
           "desc": "",
           "coinlist": [
             {}
@@ -4567,16 +4567,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Expanding Roots",
+          "name": "Genişleyen Kökler",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] +2 Sarsıntı Miktarı ver"
                 }
               ]
             }
@@ -4589,16 +4589,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Burrowing Roots",
+          "name": "Kazınan Kökler",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] 2 Parçalanma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] +2 Sarsıntı Miktarı ver"
                 }
               ]
             }
@@ -4611,23 +4611,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quivering Lure",
+          "name": "Titreyen Yem",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] +3 Sarsıntı Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] 3 Sarsıntı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Down next turn"
+                  "desc": "[OnSucceedAttack] 2 Defans Gücü Azaltma ver"
                 }
               ]
             }
@@ -4640,13 +4640,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Encroaching Stems",
-          "desc": "[WinDuel] If target has Rupture, inflict +2 Rupture Count",
+          "name": "Yaklaşan Kökler",
+          "desc": "[WinDuel] Hedefte Parçalanma var ise, +2 Parçalanma Miktarı ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
                 }
               ]
             }
@@ -4659,16 +4659,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Uncovered Abyss",
+          "name": "Ortaya Çıkmış Uçurum",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by target's Rupture"
+                  "desc": "[OnSucceedAttack] Hedefin Parçalanma Miktarına göre Sarsıntı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack]  [VibrationExplosion] Tetikle"
                 }
               ]
             }
@@ -4681,8 +4681,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hard Branches",
-          "desc": "[StartBattle] Gain 3 Protection",
+          "name": "Sert Dallar",
+          "desc": "[StartBattle] 3 Korunma Kazan",
           "coinlist": [
             {}
           ]
@@ -4694,19 +4694,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Skim Wounds",
+          "name": "Yaraları Gözden Geçir",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] Hedefte Kanama var ise, 1 Felç ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] +3 Kanama Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] Hedefte +2 Kanama Miktarı var ise, 5 Kanama ver"
                 }
               ]
             }
@@ -4719,16 +4719,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Entangled Injury",
+          "name": "Dolaşık Yara",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Hedefte Kanama var ise, 1 Yavaşlatma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] 3 Kanama ver"
                 }
               ]
             }
@@ -4741,23 +4741,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Smeared Flesh",
+          "name": "Lekelenmiş Et",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] 3 Kanama ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, heal 20 HP"
+                  "desc": "[OnSucceedAttack] Hedefte Kanama var ise, 20 HP iyileş"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] Hedefte +2 Kanama Miktarı var ise, 5 Kanama ver"
                 }
               ]
             }
@@ -4770,13 +4770,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Casting Shade",
-          "desc": "[WhenUse] Spawn a Giant Clover next turn\n[WhenUse] Deal +5% damage per Bleed Count\n[DefeatDuel] The Giant Clover spawns with 70% HP",
+          "name": "Gölgelendirme",
+          "desc": "[WhenUse] Sonraki tur Devasa Yonca oluştur\n[WhenUse] Her Kanama Miktarı için 5% fazladan hasar vur\n[DefeatDuel] Dev Yonca 70% Can ile oluşur",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Remove all Bleed Count"
+                  "desc": "[OnSucceedAttack] Bütün Kanama Miktarını kaldır"
                 }
               ]
             }
@@ -4789,13 +4789,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Churning",
+          "name": "Çalkalama",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by 1% of Max HP per target's [Laceration]\nRemove all Bleed Count"
+                  "desc": "[OnSucceedAttack] Hedfteki her [Laceration] başına 1% HP iyileş\nBütün Kanama Miktarını kaldır"
                 }
               ]
             }
@@ -4808,7 +4808,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nibble",
+          "name": "Kemir",
           "coinlist": [
             {},
             {}
@@ -4821,26 +4821,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Greedy Gluttons",
+          "name": "Aç Gözlü Oburlar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 HP"
+                  "desc": "[OnSucceedAttackHead] 1 HP iyileş"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 HP"
+                  "desc": "[OnSucceedAttackHead] 1 HP iyileş"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 HP"
+                  "desc": "[OnSucceedAttackHead] 1 HP iyileş"
                 }
               ]
             }
@@ -4853,7 +4853,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Roll",
+          "name": "Yuvarlan",
           "coinlist": [
             {}
           ]
@@ -4865,12 +4865,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slothful Grip",
+          "name": "Tembel Kavrama",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Yavaşlatma ver"
                 }
               ]
             }
@@ -4883,7 +4883,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sear",
+          "name": "Kavur",
           "coinlist": [
             {},
             {}
@@ -4896,12 +4896,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Explosive Wrath",
+          "name": "Patlayıcı Öfke",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Burn next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Yanma ver"
                 }
               ]
             }
@@ -4914,7 +4914,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fire Off",
+          "name": "Ateş Et",
           "coinlist": [
             {}
           ]
@@ -4926,12 +4926,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bursting Gloom",
+          "name": "Patlayıcı Hüzün",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Sinking next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Batış ver"
                 }
               ]
             }
@@ -4944,7 +4944,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strike Down",
+          "name": "Devir",
           "coinlist": [
             {}
           ]
@@ -4956,12 +4956,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Piercing Lust",
+          "name": "Delici Şehvet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Kanama ver"
                 }
               ]
             }
@@ -4974,7 +4974,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Grind",
+          "name": "Öğüt",
           "coinlist": [
             {}
           ]
@@ -4986,19 +4986,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prideful Runover",
+          "name": "Kibirli Akıntı",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kırılganlık ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kırılganlık ver"
                 }
               ]
             }
@@ -5011,8 +5011,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Queen's Decree",
-          "desc": "[StartBattle] Inflict 1 [PreparedMeat] to a random ally without [PreparedMeat]",
+          "name": "Kraliçe'nin Fermanı",
+          "desc": "[StartBattle]  [PreparedMeat] olmayan bir müttefiğe 1 [PreparedMeat] ver",
           "coinlist": [
             {}
           ]
@@ -5024,12 +5024,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wingbeat",
+          "name": "Kanat Çırpma",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı ver"
                 }
               ]
             },
@@ -5055,7 +5055,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 3% of Max HP to the Core"
+                  "desc": "[OnSucceedAttack] Azami HPnin 3%ünü Çekirdeğe İyileştir"
                 }
               ]
             }
@@ -5068,27 +5068,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Starved Fluttering",
-          "desc": "At 3+ [Hunger], Coin Power +1\nIf the target has 5+ [Laceration], Coin Power +1",
+          "name": "Aç Çırpınma",
+          "desc":  "3+ [Hunger] var ise, Jeton Gücü +1\nHedefte +5 [Laceration] var ise, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] ver"
                 }
               ]
             }
@@ -5101,16 +5101,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ravening Hunger",
-          "desc": "[CantIdentify]\nPrioritizes targets with [PreparedMeat]\nIf the target has 5 +[Laceration], Coin Power +1\nIf the target has [PreparedMeat], Coin Power +10\nCoin Power -5 for every broken Arm Part\n[TargetKill] All Parts gain 2 [Enhancement] for the Encounter (stackable)",
+          "name": "Çılgın Açlık",
+          "desc": "[CantIdentify]\n[PreparedMeat] e sahip olan hedeflere öncelik verir\nHedefte 5+ [Laceration] var ise, Jeton Gücü +1\nHedefte [PreparedMeat] var ise, Jeton Gücü +10\nHer Kırık Kol parçası için Jeton Gücü -5\n[TargetKill] Bütün parçalar bütün karşılaşma boyunca 2 [Enhancement] kazanır (stackable)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse Coin once (3 times per Skill)"
+                  "desc": "[OnSucceedAttackHead] Jetonu Tek Seferlik yeniden kullan (Yetenek başı 3 kere)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Core heals 10 HP"
+                  "desc": "[OnSucceedAttack] Çekirdek 10 HP iyileşir"
                 }
               ]
             }
@@ -5123,7 +5123,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Respite",
+          "name": "Mola",
           "coinlist": [
             {}
           ]
@@ -5135,8 +5135,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Time to Pay for My Care",
-          "desc": "[StartBattle] Inflict 1 [PreparedMeat] to all allies without [PreparedMeat]",
+          "name": "Bakımım için Ödeme Vakti",
+          "desc": "[StartBattle]  [PreparedMeat] e sahip olmayan bütün müttefiklere 1 [PreparedMeat] ver",
           "coinlist": [
             {}
           ]
@@ -5148,19 +5148,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Munch Munch",
+          "name": "Nom Nom",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Core heals 3 HP"
+                  "desc": "[OnSucceedAttack] Çekirdek 3 HP iyileşir"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Core heals 3 HP"
+                  "desc": "[OnSucceedAttack] Çekirdek 3 HP iyileşir"
                 }
               ]
             }
@@ -5173,16 +5173,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gluttony",
-          "desc": "If the target has 5+ [Laceration], Coin Power +1",
+          "name": "Oburluk",
+          "desc": "Hedefte 5+ [Laceration] var ise, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Core heals 10 HP"
+                  "desc": "[OnSucceedAttack] Çekirdek 10 HP iyileşir"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı ver"
                 }
               ]
             }
@@ -5195,27 +5195,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tiny Wingbeat",
-          "desc": "If the target has 5+ [Laceration], Coin Power +1",
+          "name": "Küçük Kanat Çırpma",
+          "desc": "Hedefte 5+ [Laceration] var ise, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] ver"
                 }
               ]
             }
@@ -5228,7 +5228,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Respite",
+          "name": "Mola",
           "coinlist": [
             {}
           ]
