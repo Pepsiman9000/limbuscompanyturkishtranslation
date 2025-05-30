@@ -2,111 +2,111 @@
   "dataList": [
     {
       "id": 1001,
-      "panicName": "Compulsion",
-      "lowMoraleDescription": "Turn Start: Gain 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Haste</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>",
-      "panicDescription": "Turn Start: Lose 10 HP."
+      "panicName": "Zorlama",
+      "lowMoraleDescription": "Tur Başlangıcı: 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Hızlandırma</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan",
+      "panicDescription": "Tur Başlangıcı: 10 HP Kaybet."
     },
     {
       "id": 1002,
       "panicName": "Outlash",
-      "lowMoraleDescription": "Turn Start: Gain 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>",
-      "panicDescription": "Turn Start: Random ally loses 20 SP."
+      "lowMoraleDescription": "Tur Başlangıcı: 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Saldırı Gücü Arttırma</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan",
+      "panicDescription": "Tur Başlangıcı: Rastgele Müttefik 20 SP Kaybeder."
     },
     {
       "id": 1003,
-      "panicName": "Overwhelmed",
-      "lowMoraleDescription": "Turn Start: Gain 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Attack Power Down</color></link></u>",
-      "panicDescription": "Does not act for this turn."
+      "panicName": "Bunalma",
+      "lowMoraleDescription": "Tur Başlangıcı: Gain 2 <sprite name=\"Azaltma\"><color=#e30000><u><link=\"Azaltma\"Saldırı Gücü Azalma</color></link></u>",
+      "panicDescription": "Bu tur birşey yapmaz."
     },
     {
       "id": 1004,
-      "panicName": "Atrophied",
-      "lowMoraleDescription": "Turn Start: Gain 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Attack Power Down</color></link></u>",
-      "panicDescription": "Turn Start: Gain 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Attack Power Down</color></link></u>"
+      "panicName": "Körleme",
+      "lowMoraleDescription": "Tur Başlangıcı: 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Saldırı Gücü Azalma</color></link></u> kazan",
+      "panicDescription": "Tur Başlangıcı: 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Saldırı Gücü Azalma</color></link></u> kazan"
     },
     {
       "id": 1005,
-      "panicName": "Agitated",
-      "lowMoraleDescription": "Turn Start: Gain 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>",
-      "panicDescription": "Turn Start: Gain 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> and 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>"
+      "panicName": "Tedirgin",
+      "lowMoraleDescription": "Tur Başlangıcı: 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Arttırma</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan",
+      "panicDescription": "Tur Başlangıcı: 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Arttırma</color></link></u> and 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan"
     },
     {
       "id": 1006,
-      "panicName": "Running",
-      "lowMoraleDescription": "Does not act. When hit, this unit is defeated after the skill ends.",
+      "panicName": "Koşma",
+      "lowMoraleDescription": "Birşey yapmaz. Vurulunca, bu kişi yetenek bitince yenilir.",
       "panicDescription": ""
     },
     {
       "id": 1007,
-      "panicName": "Sorrow",
-      "lowMoraleDescription": "Gain 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Damage Down</color></link></u> each turn",
-      "panicDescription": "Gain 5 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Damage Down</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u> each turn"
+      "panicName": "Hüzüntü",
+      "lowMoraleDescription": "Her tur 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Hasar Azalma</color></link></u> kazan",
+      "panicDescription": "Her tur 5 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Hasar Azalma</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u> kazan"
     },
     {
       "id": 1008,
-      "panicName": "Maddened",
-      "lowMoraleDescription": "When at low morale for the first time, targets units indiscriminately",
-      "panicDescription": "Targets indiscriminately; Clash Power +1, and gain 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u>"
+      "panicName": "Delirmiş",
+      "lowMoraleDescription": "İlk kez düşük moraldeyken, kişileri rastgele hedef alır",
+      "panicDescription": "Rastgele Hedef alır; Çarpışma Gücü +1, ve 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> kazan"
     },
     {
       "id": 1009,
-      "panicName": "Suicidal",
-      "lowMoraleDescription": "When at low morale for the first time, become unable to act",
-      "panicDescription": "Cannot act for 3 turns. After 3 turns, unit dies at turn start; all its allies lose additional 10 SP with every SP loss condition"
+      "panicName": "İntihara Meyilli",
+      "lowMoraleDescription": "İlk kez düşük moraldeyken, birşey yapamayacak hale gel",
+      "panicDescription": "3 Tur birşey yapamaz. 3 tur sonra, kişi tur başı ölür; ve bütün müttefikleri her SP kayıp kondisyonu için fazladan 10 SP kaybeder"
     },
     {
       "id": 1010,
-      "panicName": "Wandering",
-      "lowMoraleDescription": "Turn End: Deal 2 SP damage to allies",
-      "panicDescription": "Turn End: Deal 5 SP damage to allies. Flees from battle after 3 turns have passed"
+      "panicName": "Geziniyor",
+      "lowMoraleDescription": "Tur Sonu: Müttefiklere 2 SP hasarı vur",
+      "panicDescription": "Tur Sonu: Müttefiklere 5 SP hasarı vur. 3 tur sonra savaştan ayrılır"
     },
     {
       "id": 1011,
-      "panicName": "Unstable",
-      "lowMoraleDescription": "Turn Start: Gain 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Bind</color></link></u>",
-      "panicDescription": "Turn Start: Become staggered"
+      "panicName": "Dengesiz",
+      "lowMoraleDescription": "Tur Başlangıcı: 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Saldırı Gücü Arttırma</color></link></u> ve 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Yavaşlatma</color></link></u> kazan",
+      "panicDescription": "Tur Başlangıcı: Sersemlenir"
     },
     {
       "id": 1012,
-      "panicName": "Dejection",
+      "panicName": "Keyifsiz",
       "lowMoraleDescription": "Gain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>; In a clash, if any Coin lands tails, Clash Power -1 for the clash.",
       "panicDescription": "Gain 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>; In a clash, if any Coin lands tails, Clash Power -3 for the clash."
     },
     {
       "id": 9999,
-      "panicName": "Panic",
+      "panicName": "Panik",
       "lowMoraleDescription": "",
-      "panicDescription": "Does not act for this turn."
+      "panicDescription": "Bu tur birşey yapmaz."
     },
     {
       "id": 1013,
-      "panicName": "Impurity",
-      "lowMoraleDescription": "Gain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>. Target loses 2 SP if this unit loses the clash",
-      "panicDescription": "Gain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>. Target loses 5 SP if this unit loses the clash"
+      "panicName": "Safsızlık",
+      "lowMoraleDescription": "Gain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>. Bu kişi çatışmayı kaybeder ise hedef 2 SP Kaybeder",
+      "panicDescription": "Gain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>. Bu kişi çatışmayı kaybeder ise hedef 5 SP Kaybeder"
     },
     {
       "id": 1014,
-      "panicName": "Vengeance",
+      "panicName": "İntikam",
       "lowMoraleDescription": "Turn Start: Gain 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Defense Level Down</color></link></u>. Gain <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> based on the amount of damage taken last turn (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> for every 3% of Max HP lost)",
       "panicDescription": "Turn Start: Gain 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 6 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Defense Level Down</color></link></u>. Gain <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> based on the amount of damage taken last turn (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> for every 3% of Max HP lost)"
     },
     {
       "id": 1015,
-      "panicName": "Pallid Panic",
+      "panicName": "Solgun Panik",
       "lowMoraleDescription": "[MentalSystemResultDecrease_Typo] +2",
       "panicDescription": "Every Turn End: Gain 2 <sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">Bind</color></link></u>.\nEvery Coin this unit flips lands on tails."
     },
     {
       "id": 1016,
-      "panicName": "Resentment",
-      "lowMoraleDescription": "Turn Start: gain 2 [AttackDmgUp] and 3 [DefenseDown]",
-      "panicDescription": "Turn Start: gain 1 [Enhancement] and 5 [DefenseDown]"
+      "panicName": "Kin",
+      "lowMoraleDescription": "Tur Başlangıcı: 2 [AttackDmgUp] ve 3 [DefenseDown] kazan",
+      "panicDescription": "Tur Başlangıcı: 1 [Enhancement] ve 5 [DefenseDown] kazan"
     },
     {
       "id": 1026,
-      "panicName": "Ruin",
-      "lowMoraleDescription": "Gain 3 [Sinking] at every Turn End; Clash Power -1",
-      "panicDescription": "Gain 5 [Sinking] and +3 [Sinking] Count at every Turn End; Clash Power -2"
+      "panicName": "Yıkım",
+      "lowMoraleDescription": "Her Tur Sonu 3 [Sinking] kazan; Jeton G]c] -1",
+      "panicDescription": "Her Tur sonu 5 [Sinking] ve +3 [Sinking] Miktarı kazan; Çatışma Gücü -2"
     }
   ]
 }
