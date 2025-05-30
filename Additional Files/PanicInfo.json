@@ -9,26 +9,26 @@
     {
       "id": 1002,
       "panicName": "Outlash",
-      "lowMoraleDescription": "Tur Başlangıcı: 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Saldırı Gücü Arttırma</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan",
+      "lowMoraleDescription": "Tur Başlangıcı: 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Saldırı Gücü Artışı</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan",
       "panicDescription": "Tur Başlangıcı: Rastgele Müttefik 20 SP Kaybeder."
     },
     {
       "id": 1003,
       "panicName": "Bunalma",
-      "lowMoraleDescription": "Tur Başlangıcı: Gain 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\"Saldırı Gücü Azalma</color></link></u>",
+      "lowMoraleDescription": "Tur Başlangıcı: Gain 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\"Saldırı Gücü Düşüşü</color></link></u>",
       "panicDescription": "Bu tur birşey yapmaz."
     },
     {
       "id": 1004,
       "panicName": "Körleme",
-      "lowMoraleDescription": "Tur Başlangıcı: 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Saldırı Gücü Azalma</color></link></u> kazan",
-      "panicDescription": "Tur Başlangıcı: 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Saldırı Gücü Azalma</color></link></u> kazan"
+      "lowMoraleDescription": "Tur Başlangıcı: 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Saldırı Gücü Düşüşü</color></link></u> kazan",
+      "panicDescription": "Tur Başlangıcı: 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Saldırı Gücü Düşüşü</color></link></u> kazan"
     },
     {
       "id": 1005,
       "panicName": "Tedirgin",
-      "lowMoraleDescription": "Tur Başlangıcı: 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Arttırma</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan",
-      "panicDescription": "Tur Başlangıcı: 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Arttırma</color></link></u> and 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan"
+      "lowMoraleDescription": "Tur Başlangıcı: 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Artışı</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan",
+      "panicDescription": "Tur Başlangıcı: 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Artışı</color></link></u> and 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan"
     },
     {
       "id": 1006,
@@ -39,14 +39,14 @@
     {
       "id": 1007,
       "panicName": "Hüzüntü",
-      "lowMoraleDescription": "Her tur 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Hasar Azalma</color></link></u> kazan",
-      "panicDescription": "Her tur 5 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Hasar Azalma</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan"
+      "lowMoraleDescription": "Her tur 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Hasar Düşüşü</color></link></u> kazan",
+      "panicDescription": "Her tur 5 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Hasar Düşüşü</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan"
     },
     {
       "id": 1008,
       "panicName": "Delirmiş",
       "lowMoraleDescription": "İlk kez düşük moraldeyken, kişileri rastgele hedef alır",
-      "panicDescription": "Rastgele Hedef alır; Çarpışma Gücü +1, ve 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> kazan"
+      "panicDescription": "Rastgele Hedef alır; Çarpışma Gücü +1, ve 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Artışı</color></link></u> kazan"
     },
     {
       "id": 1009,
@@ -63,14 +63,14 @@
     {
       "id": 1011,
       "panicName": "Dengesiz",
-      "lowMoraleDescription": "Tur Başlangıcı: 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Saldırı Gücü Arttırma</color></link></u> ve 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Yavaşlatma</color></link></u> kazan",
+      "lowMoraleDescription": "Tur Başlangıcı: 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Saldırı Gücü Artışı</color></link></u> ve 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Yavaşlatma</color></link></u> kazan",
       "panicDescription": "Tur Başlangıcı: Sersemlenir"
     },
     {
       "id": 1012,
       "panicName": "Keyifsiz",
-      "lowMoraleDescription": "Gain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>; In a clash, if any Coin lands tails, Clash Power -1 for the clash.",
-      "panicDescription": "Gain 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>; In a clash, if any Coin lands tails, Clash Power -3 for the clash."
+      "lowMoraleDescription": "Gain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u>; Bir Çatışmada, eğer herhangi bir Jeton tura gelirse, Çatışma içim Çatışma Gücü -1.",
+      "panicDescription": "Gain 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u>; Bir Çatışmada, eğer herhangi bir Jeton tura gelirse, Çatışma içim Çatışma Gücü -3."
     },
     {
       "id": 9999,
@@ -81,14 +81,14 @@
     {
       "id": 1013,
       "panicName": "Safsızlık",
-      "lowMoraleDescription": "Gain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u>. Bu kişi çatışmayı kaybeder ise hedef 2 SP Kaybeder",
-      "panicDescription": "Gain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u>. Bu kişi çatışmayı kaybeder ise hedef 5 SP Kaybeder"
+      "lowMoraleDescription": "1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan. Bu kişi çatışmayı kaybeder ise hedef 2 SP Kaybeder",
+      "panicDescription": "1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kırılganlık</color></link></u> kazan. Bu kişi çatışmayı kaybeder ise hedef 5 SP Kaybeder"
     },
     {
       "id": 1014,
       "panicName": "İntikam",
-      "lowMoraleDescription": "Tur Başlangıcı: 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Saldırı Gücü Arttırma</color></link></u> ve 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Savunma Seviyesi Azalma</color></link></u> kazan. Son tur alınan hasara göre <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Arttırma</color></link></u> kazan (Azami canın kaybedilen her 3%ü için 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Arttırma</color></link></u> kazan)",
-      "panicDescription": "Tur Başlangıcı: 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Saldırı Gücü Arttırma</color></link></u> ve 6 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Savunma Seviyesi Azalma</color></link></u> kazan. Son tur alınan hasara göre <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> kazan (Azami canın kaybedilen her 3%ü için 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Arttırma</color></link></u> kazan)"
+      "lowMoraleDescription": "Tur Başlangıcı: 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Saldırı Gücü Artışı</color></link></u> ve 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Savunma Seviyesi Düşüşü</color></link></u> kazan. Son tur alınan hasara göre <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Artışı</color></link></u> kazan (Azami canın kaybedilen her 3%ü için 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Artışı</color></link></u> kazan)",
+      "panicDescription": "Tur Başlangıcı: 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Saldırı Gücü Artışı</color></link></u> ve 6 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Savunma Seviyesi Düşüşü</color></link></u> kazan. Son tur alınan hasara göre <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Artışı</color></link></u> kazan (Azami canın kaybedilen her 3%ü için 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Hasar Artışı</color></link></u> kazan)"
     },
     {
       "id": 1015,
