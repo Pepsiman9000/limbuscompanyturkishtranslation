@@ -24,12 +24,12 @@
             "id": 5,
             "place": "K Corp. Laboratory Lobby",
             "model": "홍루",
-            "content": "Fuhu, I guess we’ve earned some renown. We’re finally being invited to places regular people would live."
+            "content": "Fuhu, görünüşe bakılısa biraz ün elde ettik. Sonunda, sıradan insanların yaşayabileceği yerlere davet ediliyoruz."
         },
         {
             "id": 6,
             "model": "히스클리프",
-            "content": "Lemme make one thing clear… If the request and the reward’s a load of tosh like the last time, I’m out."
+            "content": "Şundan emin olun bak… Eğer istenen iş ve para ödülü yine saçma salak bir şey ise, ben yokum."
         },
         {
             "id": 7,
@@ -40,7 +40,7 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, you’re a little late as expected."
+            "content": "Ah, beklendiği gibi geç kaldınız."
         },
         {
             "id": 9,
@@ -50,14 +50,14 @@
         {
             "id": 10,
             "model": "오티스",
-            "content": "That man is…"
+            "content": "O adam…"
         },
         {
             "id": 11,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It’s a pleasure to meet you again. I want you to know that this is my heartfelt sentiment and not a formality."
+            "content": "Sizinle tekrar tanıştığımız memnun oldum. Formalite icabı değil, içinden geldiği için bunları söylediğimi lütfen unutmayın."
         },
         {
             "id": 12,
@@ -66,7 +66,7 @@
         {
             "id": 13,
             "model": "히스클리프",
-            "content": "…I’m out. Already told ya."
+            "content": "…Ben yokum. Demiştim."
         },
         {
             "id": 14,
@@ -76,47 +76,47 @@
         {
             "id": 15,
             "model": "히스클리프",
-            "content": "Let go! Do you even get how it feels to have nightmares about doing the tango with raw chickens? Huh?"
+            "content": "Bırak be! Rüyanda çiğ tavuklarla damat halayı çekmek ne kadar boktan bir his, biliyor musun? Hah?"
         },
         {
             "id": 16,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "To tell you the truth, my last request was a test to measure your competence."
+            "content": "Doğrusunu söylemek gerekirse, geçen seferki işiniz, yeterliliğinizi ölçmek içindi."
         },
         {
             "id": 17,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "And you passed with flying colors. Congratulations. I mean this one as well."
+            "content": "Ve çok güzel bir not ile geçtiniz. Tebrik ederim. Bunu da formalite olsun diye demiyorum."
         },
         {
             "id": 18,
             "model": "히스클리프",
-            "content": "Who are you to test and grade us?! You—"
+            "content": "Bizi test edecek taşşak sende ne arar lan?! Seni—"
         },
         {
             "id": 19,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That’s of course—"
+            "content": "Tabii ki—"
         },
         {
             "id": 20,
             "model": "동랑",
             "teller": "???",
             "title": "???",
-            "content": "That’s of course at the discretion of Mr. Samjo, my shrewd secretary. So you must be… from Limbus Company."
+            "content": "Tabii ki bu, kurnaz sekreterim Bay Samjo'nun takdirinde olan bir mevzu. Siz ise… Limbus Şirketi'ndekiler olmalısınız."
         },
         {
             "id": 21,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "A pleasure to meet you, I’m Dongrang. I heard a lot about you from Samjo—it almost made me a fan."
+            "content": "Sizinle tanıştığıma memnun oldum, Ben Dongrang. Samjo'dan sizin hakkınızda çok şey duydum—neredeyse size hayran kalacaktım."
         },
         {
             "id": 22,
@@ -126,40 +126,40 @@
         {
             "id": 23,
             "model": "로쟈",
-            "content": "It’s just flattery, Don Quixote…"
+            "content": "Sadece pohpohluyor, Don Quixote…"
         },
         {
             "id": 24,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "If I’m being quite honest… the test wasn’t my idea. I mean, you aren’t lab hens or anything, and you deserve better than involuntary tests."
+            "content": "Dürüst olmam gerekirse… test fikri benden çıkmadı. Yani, buradan bakınca deney faresine benzemiyorsunuz, ve istemsiz testlerden daha iyisini hak ettiğiniz ortada."
         },
         {
             "id": 25,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Indeed, it was my suggestion."
+            "content": "Evet, fikir bendenizden çıktı."
         },
         {
             "id": 26,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I had reason to do so as your “Limbus Company” is a little-known firm that… could or could not be newly established."
+            "content": "“Limbus Şirketi”niz, çokça az bilinen bir şirket olduğundan dolayı… daha yeni kurulup kurulmadığınızı test etmeye çalışıyordum."
         },
         {
             "id": 27,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "We couldn’t take the risk of entrusting an unknown organization with a request on Mr. Dongrang’s word alone."
+            "content": "Sadece Bay Dongrang'ın referansına güvenerek, böylesine bilinmedik bir şirketi işe alamazdık."
         },
         {
             "id": 28,
             "model": "이스마엘",
-            "content": "Ahem… So, that means you’re requesting us…"
+            "content": "Öhöm… Bu demek ki, bizi gerçekten istiyorsunuz…"
         },
         {
             "id": 29,
@@ -170,7 +170,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Why, of course. Because, you all are…"
+            "content": "Tabii ki. Çünkü hepiniz…"
         },
         {
             "id": 31,
@@ -184,7 +184,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, why don’t I show you to my lab? There are many fun things to see."
+            "content": "Ah, neden size laboratuvarımı göstermiyorum? Görebileceğimiz çok güzel şeyler var."
         },
         {
             "id": 33,
@@ -196,21 +196,21 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Sorry? Are you really going to take these people to your laboratory?"
+            "content": "Affedersiniz? Gerçekten onları laboratuvarınıza mı götüreceksiniz?"
         },
         {
             "id": 35,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Why not? They passed your test, didn’t they, Mr. Samjo."
+            "content": "Neden olmasın? Testinizi geçtiler, değil mi Bay Samjo?"
         },
         {
             "id": 36,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "And if they’ve got the skills to take down what they called an “Abnormality” as we saw today…"
+            "content": "Ve şu “Aanomali” dedikleri yaratığı alt edecek yetenekleri de olduğuna göre…"
         },
         {
             "id": 37,
@@ -222,14 +222,14 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Haha, that’s a fun way to put it."
+            "content": "Haha, işte eğlenceli bir tasvir."
         },
         {
             "id": 39,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, and you must be the manager… it was Dante, yes? May we speak for a moment?"
+            "content": "Ah, ve siz de müdürleri olmalısınız… Dante'ydi, değil mi? Birazcık konuşabilir miyiz?"
         },
         {
             "id": 40,
