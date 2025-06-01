@@ -1002,16 +1002,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Joust",
-          "desc": "[WinDuel] Gain 1 Haste next turn",
+          "name": "Dövüş",
+          "desc": "[WinDuel] Sonraki tur 1 hızlanma kazan",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 2,
-          "name": "Joust",
-          "desc": "[WinDuel] Gain 2 Haste next turn",
+          "name": "Dövüş",
+          "desc": "[WinDuel] Sonraki tur 2 hızlanma kazan",
           "coinlist": [
             {}
           ]
@@ -1023,29 +1023,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Galloping Tilt",
-          "desc": "[WinDuel] Gain 1 Attack Power Up next turn",
+          "name": "Dörtnala eğim",
+          "desc": "[WinDuel] Sonraki tur 1 Saldırı Gücü Artışı kazan",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 2,
-          "name": "Galloping Tilt",
-          "desc": "[WinDuel] Gain 2 Attack Power Up next turn",
+          "name": "Dörtnala eğim",
+          "desc": "[WinDuel] Sonraki tur 2 Saldırı Gücü Artışı kazan",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Galloping Tilt",
-          "desc": "[WinDuel] Gain 2 Attack Power Up next turn",
+          "name": "Dörtnala eğim",
+          "desc": "[WinDuel] Sonraki tur 2 Saldırı Gücü Artışı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] 2 Kanama uygula"
                 }
               ]
             }
@@ -1058,8 +1058,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "For Justice!",
-          "desc": "At 10+ Speed, Coin Power +2",
+          "name": "Adalet için!",
+          "desc": "10+ Hızda, +2 Jeton Gücü",
           "coinlist": [
             {},
             {},
@@ -1068,27 +1068,27 @@
         },
         {
           "level": 4,
-          "name": "For Justice!",
-          "desc": "At 10+ Speed, Coin Power +2",
+          "name": "Adalet için!",
+          "desc": "10+ Hızda, +2 Jeton Gücü",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] 1 kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] 1 kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed count"
+                  "desc": "[OnSucceedAttack] Kanama +2 sayısı"
                 }
               ]
             }
