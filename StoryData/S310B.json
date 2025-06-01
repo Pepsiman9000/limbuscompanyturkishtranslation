@@ -3,11 +3,11 @@
     {
       "id": 0,
       "place": "Aboard Mephistopheles",
-      "content": "With the conflict sorted out, the bus finally departed."
+      "content": "Don Quixote'nin dersinin bitmesiyle, otobüs kalkışa geçti."
     },
     {
       "id": 1,
-      "content": "Looking out the windows evoked a strange feeling in the passengers."
+      "content": "Camlarının dışına bakmak yolcularının içinde garip duygular uyandırdı."
     },
     {
       "id": 2,
@@ -17,27 +17,27 @@
     {
       "id": 3,
       "model": "단테",
-      "content": "<This is way different from the roads we’ve been through.>"
+      "content": "<Daha önce geçtiğimiz manzaralara hiç benzemiyor.>"
     },
     {
       "id": 4,
       "model": "그레고르",
-      "content": "Aha, sanırım Menajer ahbapımız daha önce bir Yuva'nın içinden geçmemiş."
+      "content": "Aha, sanırım Müdür ahbapımız daha önce bir Yuva'nın içinden geçmemiş."
     },
     {
       "id": 5,
       "model": "이스마엘",
-      "content": "Yuva ve Arka Sokaklar arasında dünya kadar fark var. Ayrıca, her Yuva'nın kendi kültürü de var."
+      "content": "Yuva ve Arka Sokaklar arasında dünya kadar fark var. Ayrıca, her Yuva'nın kendi kültürel geçmişi de var."
     },
     {
       "id": 6,
       "model": "베르길리우스",
-      "content": "Dikkat dikkat."
+      "content": "Herkes buraya baksın."
     },
     {
       "id": 7,
       "model": "베르길리우스",
-      "content": "İstikamet, K Yuva'sında yer alan Calw kasabası. Araştırmalar, köyde Lobotomi Kuruluşu branşına bağlı bir geçit keşfedildiğini gösteriyor."
+      "content": "İstikamet, K Yuva'sında yer alan Calw kasabası. Kaynaklarımız,köyde Lobotomi Kuruluşu şubesine bağlı bir geçit keşfedildiğini belirtti."
     },
     {
       "id": 8,
@@ -46,16 +46,16 @@
     },
     {
       "id": 9,
-      "content": "As soon as the name ‘Calw’ was mentioned, Sinclair lapsed into fear once again and started trembling."
+      "content": "‘Calw’ adınu duyar duymaz Sinclair bir kez daha korkuya kapılıp titremeye başaldı."
     },
     {
       "id": 10,
-      "content": "As if something were coming after him…"
+      "content": "Sanki bir şeyler onu kovalıyormuş gibi…"
     },
     {
       "id": 11,
       "model": "베르길리우스",
-      "content": "Fakat bana denildiği üzere, branşın çevresinde üçüncü parti bir organizasyon hüküm sürüyor. Bu yüzden üst kademelerden, bir keşif operasyonu talep ettim."
+      "content": "Fakat dediğiniz gibi şubenin çevresinde üçüncü bir parti mesken edinmiş. Bu yüzden üst kademelerden bir keşif operasyonu talep ettim."
     },
     {
       "id": 12,
@@ -69,20 +69,20 @@
     },
     {
       "id": 14,
-      "content": "Shortly afterward, the bus entered a quiet woodland path leading to the village."
+      "content": "Biraz sonra, otobüs kasabaya açılan dar ormanlık bir yola saptı."
     },
     {
       "id": 15,
-      "content": "Lush green trees rarely found in the Backstreets began to decorate the scene, providing a comforting sight. But that was soon disturbed by something odd."
+      "content": "Arka Sokaklarda eşine rastlanılmayan yemyeşil ağaçlar etrafımızı süslemeye başladı. Sundukları manzara huzur vericiydi, ama çok sürmeden aykırı bir görüntü tarafından bölündü."
     },
     {
       "id": 16,
-      "content": "I could see an ominous billow of smoke rise in the distance."
+      "content": "Uzaktan keyif kaçırıcı duman kümeleri yükseliyordu."
     },
     {
       "id": 17,
       "model": "싱클레어",
-      "content": "Duman… nereden… geliyor…"
+      "content": "Neden- Duman… nereden… geliyor…"
     },
     {
       "id": 18,
@@ -105,7 +105,7 @@
     },
     {
       "id": 21,
-      "content": "The bus made a sharp turn to the left, shortly before a giant nail flew in and noisily embedded itself in the back window."
+      "content": "Otobüsü sola doğru ani bir dönüş yaptı, hemen ardından güdümlenmiş kocaman bir çivi arka camı parçalayarak sağır edici bir sesle otobüse saplandı."
     },
     {
       "id": 22,
@@ -115,7 +115,7 @@
     {
       "id": 23,
       "model": "파우스트",
-      "content": "Hmm… Bu ivmede bir şarapnel ile bir denemede bulunmasam bile, bu bize camların biraz olsun sağlamlaştırılması gerektiğini gösteriyor."
+      "content": "Hmm… Bu kadar ivmeye sahip şarapneller ile denemede bulunmasam bile, bu bize camların biraz olsun sağlamlaştırılması gerektiğini gösteriyor."
     },
     {
       "id": 24,
@@ -130,24 +130,24 @@
     {
       "id": 26,
       "model": "베르길리우스",
-      "content": "Yakın zamanda duracaklarını sanmıyorum."
+      "content": "Yakın zamanda durmayacaklar gibi."
     },
     {
       "id": 27,
       "model": "베르길리우스",
-      "content": "Hepiniz dışarı."
+      "content": "Herkes dışarı."
     },
     {
       "id": 28,
-      "place": "Path towards Calw",
-      "content": "As we got off the bus, a group stood in the way, clad from head to toe in rusty armor with faded coats of white."
+      "place": "Calw patikası",
+      "content": "Otobüsten indiğmiz gibi, bir adam önümüzü kesti, solmuş beyaz yeleği ve paslı zırhı ile tepeden tırnağa donatılmış bir biçimde ."
     },
     {
       "id": 29,
       "model": "N사심문관1",
       "teller": "???",
       "title": "???",
-      "content": "Dur yolcu. Bu yoldan geçemezsiniz."
+      "content": "Dur yolcu. Bu yoldan geçemezsin."
     },
     {
       "id": 30,
@@ -164,17 +164,17 @@
       "model": "N사심문관1",
       "teller": "Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "Biz Engizitörleriz. Kafirleri temizleyen çivi, ve günahkarları alaşağı eden çekiciz."
+      "content": "Biz Engizitörleriz. Kafirleri temizleyen çivi, ve günahkârları alaşağı eden çekiciz."
     },
     {
       "id": 33,
       "model": "이스마엘",
-      "content": "Yani N Kuruluşu… Nagel und Hammer'ın..."
+      "content": "Yani N Kuruluşu… Nagel und Hammer'ın çalışanı olduğunuzu söylemek için fazlaca dolamaçlı bir yöntem..."
     },
     {
       "id": 34,
       "model": "파우스트",
-      "content": "…Yani “Çivi ve Çekiç”in bir çalışanısınız."
+      "content": "…“Çivi ve Çekiç” olarak da bilinir."
     },
     {
       "id": 35,
