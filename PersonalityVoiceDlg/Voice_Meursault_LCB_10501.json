@@ -3,107 +3,107 @@
     {
       "id": "get_10501_1",
       "desc": "Identity Acquisition",
-      "dlg": "Meursault. Please refer to me as such, Manager."
+      "dlg": "Meursault. Lütfen bana böyle seslen, Müdür."
     },
     {
       "id": "lobby_morning_10501_1",
       "desc": "Morning Greeting",
-      "dlg": "The company rules say that its employees are to get up at designated hours. It appears most Sinners are unaware of this fact, and so are you."
+      "dlg": "Şirketin kuralları derki çalışanlar belirli saatlerde uyanmalı. Görünüşe göre çoğu Günahkarlar bu bilgiyi bilmiyor, sende dahil."
     },
     {
       "id": "lobby_noon_10501_1",
       "desc": "Afternoon Greeting",
-      "dlg": "If you ask me how I intend to spend my afternoon… No rules state what to do."
+      "dlg": "Akşamımı nasıl geçirceğimi sormak istiyorsan… Hiçbir kural ne yapıcağını söylemiyor."
     },
     {
       "id": "lobby_night_10501_1",
       "desc": "Evening Greeting",
-      "dlg": "If I had to compare the times of day against each other, I prefer day to night. Darkness obscures vision, and what is hard to see is hard to understand."
+      "dlg": "Günün vakitlerini birbirleri arasına karşılaştırmam gerekir ise, Günü, geceye terchi ederim. Karanlık görüşü engeller, ve görülmesi zor olan şeyin anlaşılmasıda zordur."
     },
     {
       "id": "smalltalk_10501_1",
       "desc": "Chatter #1",
-      "dlg": "Do you have any business with me, Manager? If there is a particular reason, do make it clear."
+      "dlg": "Benimle bir işin var mı, Müdür? Spesifik bir neden var ise, açıkça belirt."
     },
     {
       "id": "smalltalk_10501_2",
       "desc": "Chatter #2",
-      "dlg": "People suggest that I smile more often. Do you want that as well, Manager?"
+      "dlg": "İnsanlar daha sık gülmemi istiyor. Sende bunu istiyor musun, Müdür?"
     },
     {
       "id": "smalltalk_10501_3",
       "desc": "Chatter #3",
-      "dlg": "…You continue to speak with me. Are you encouraged by the rules to do so?"
+      "dlg": "…Benle konuşmaya devam ediyorsun. Kurallar bunu yapmanı öneriyor mu?"
     },
     {
       "id": "neglect_10501_1",
       "desc": "Idle",
-      "dlg": "I shall wait here until you return."
+      "dlg": "Sen gelene kadar burada bekleyeceğim."
     },
     {
       "id": "formation_10501_1",
       "desc": "Deployment",
-      "dlg": "Yes, if that is what you want."
+      "dlg": "Evet, istediğin bu ise."
     },
     {
       "id": "battleentry_10501_1",
       "desc": "Stage Entry",
-      "dlg": "If the rules say so."
+      "dlg": "Kurallar öyle diyorsa."
     },
     {
       "id": "battle_select_10501_1",
       "desc": "Viewed in Battle",
-      "dlg": "Is there a problem, Manager?"
+      "dlg": "Bir sorun mu var, Müdür?"
     },
     {
       "id": "battle_endcommand_10501_1",
       "desc": "Commencing Attack",
-      "dlg": "I shall execute the order according to the rules."
+      "dlg": "Emiri kurallarda nasıl isteniyorsa öyle yerine getireceğim."
     },
     {
       "id": "battle_enemy_break_10501_1",
       "desc": "Enemy Stagger",
-      "dlg": "I am awaiting your next order."
+      "dlg": "Sonraki emrinizi bekliyorum."
     },
     {
       "id": "battle_break_10501_1",
       "desc": "Staggered",
-      "dlg": "Ugh!"
+      "dlg": "Ihh!"
     },
     {
       "id": "battle_kill_10501_1",
       "desc": "Enemy Killed",
-      "dlg": "Done accordingly."
+      "dlg": "Uygun şekilde yapıldı."
     },
     {
       "id": "battle_allydead_10501_1",
       "desc": "Ally Death",
-      "dlg": "Please take care of this by the rules."
+      "dlg": "Lütfen kurallara uygun şekilde halledin."
     },
     {
       "id": "choice_success_p_10501_2",
       "desc": "Check Passed",
-      "dlg": "I made it."
+      "dlg": "Başardım."
     },
     {
       "id": "choice_fail_n_10501_1",
       "desc": "Check Failed",
-      "dlg": "I failed."
+      "dlg": "Başaramadım."
     },
     {
       "id": "battle_clear_10501_1",
       "desc": "Victory Cry",
-      "dlg": "I simply followed orders."
+      "dlg": "Sadece kurallara uydum."
     },
     {
       "id": "battle_clear_ex_10501_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "It’s what should have been done; compliments are redundant."
+      "dlg": "Yapılması gerekendi; Takdirlere gerek yok."
     },
     {
       "id": "battle_defeat_10501_1",
       "desc": "Defeat Wail",
-      "dlg": "I implore you to revise the strategy."
+      "dlg": "Stratejilerini revize etmeni rica ederim."
     }
   ]
 }
