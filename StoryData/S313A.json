@@ -9,17 +9,17 @@
     {
       "id": 1,
       "model": "오티스",
-      "content": "Ne küstahça bir söylem. Bir asker, ufukta zafer görünmedikçe düşmanının peşini bırakmaz."
+      "content": "Ne küstahça bir söylem. Bir asker, ufukta zafer görünmekteyken düşmanının peşini bırakmaz."
     },
     {
       "id": 2,
       "model": "이스마엘",
-      "content": "Havalı sözlerini sonraya bıraksan olur mu?"
+      "content": "Askeri tadbikatı sonraya bıraksan olmaz mı?"
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<Ishmael is right. That’s not someone we can beat easily.>"
+      "content": "<Ishmael haklı. kaçabileceğimiz için şanslıyız.>"
     },
     {
       "id": 4,
@@ -28,39 +28,39 @@
     },
     {
       "id": 5,
-      "content": "Outis reluctantly backed down."
+      "content": "Outis zoraki olarak geri adım atmak durumunda kaldı."
     },
     {
       "id": 6,
       "model": "단테",
-      "content": "<Sinclair, do you know what that Kromer meant by “that familiar spot”?>"
+      "content": "<Sinclair, Kromer'ın “unutamayacağın yer” derken nereyi kast ettiğini biliyormusun?>"
     },
     {
       "id": 7,
       "model": "싱클레어",
-      "content": "Şey… diyor…"
+      "content": "Şey… orası…"
     },
     {
       "id": 8,
-      "content": "Sinclair shook. He was seemingly overwhelmed with dread."
+      "content": "Sinclair sarsıldı. Tamamen dehşetle dolmuştu."
     },
     {
       "id": 9,
-      "content": "But I could also see a teeth-grinding anger in him that surpassed his fear."
+      "content": "Dişlerini gıcırtatan siniri, duyduğu dehşete üstün gelmeye çalışıyor. Ama her seferinde başarısız olup yeniden deniyordu."
     },
     {
       "id": 10,
-      "content": "Looking at him, a thought blossomed in my mind."
+      "content": "Onun bu halini görmek, aklımda bir düşünce filizlendirdi."
     },
     {
       "id": 11,
       "model": "단테",
-      "content": "<You need to talk, Sinclair.>"
+      "content": "<Konuşmalısın, Sinclair.>"
     },
     {
       "id": 12,
       "model": "단테",
-      "content": "<Tell us what you know, and you’ll prevent half the deaths we might suffer.>"
+      "content": "<Ne bildiğini anlat, belki çekmemiz gerekicek olan ölümlerin yarısını önleyebilirsin.>"
     },
     {
       "id": 13,
@@ -69,11 +69,11 @@
     },
     {
       "id": 14,
-      "content": "…I hope I’m doing the right thing as the manager."
+      "content": "…Umarım bu yaptığım müdür olarak doğru bir şeydir."
     },
     {
       "id": 15,
-      "content": "Sinclair shook his head upon hearing my words, breathed in, and finally opened his mouth after some struggle."
+      "content": "Sinclair beni duyunca kafasını salladı, yavaşça nefes aldı ve biraz zorlanmadan sonra sonund ağızını açtı."
     },
     {
       "id": 16,
@@ -93,7 +93,7 @@
     {
       "id": 19,
       "model": "싱클레어",
-      "content": "…Okulda tanışmıştım."
+      "content": "…Onunla okulda tanışmıştım."
     },
     {
       "id": 20,
@@ -103,7 +103,7 @@
     {
       "id": 21,
       "model": "싱클레어",
-      "content": "Dostum falan değil. Ailemi öldürdü."
+      "content": "Dostum falan değil. Kromer, ailemi öldürdü."
     },
     {
       "id": 22,
@@ -117,11 +117,11 @@
     },
     {
       "id": 24,
-      "content": "A prosthetic head hanging from a tree slowly turned to face us."
+      "content": "Ağacın birinden sarkan bir prostetik kafa yavaşça bize döndü."
     },
     {
       "id": 25,
-      "content": "Lights and sparks occasionally flickered within."
+      "content": "Cızıltılar ve yanıp sönen ışıklardan anlaşılan,"
     },
     {
       "id": 26,
@@ -142,7 +142,7 @@
     },
     {
       "id": 29,
-      "content": "Rodya asked while looking at the dismembered prostheses."
+      "content": "Diye sordu Rodya. Paramparça olmuş prostetiğe bakarken"
     },
     {
       "id": 30,
@@ -151,15 +151,15 @@
     },
     {
       "id": 31,
-      "content": "Sinclair replied, watching with a grim look on his face as their bare wires sparked and short-circuited."
+      "content": "Açık havaya temas eden teller kıvılcımlar çıkarıp kısa devre yaparken ümitsizce izleyen Sinclair, mırıldandı."
     },
     {
       "id": 32,
-      "content": "The robotic head soon stopped moving, only emitting discordant things."
+      "content": "Çok geçmeden robotik kafa harket etmeyi durdurdu, artık sadece ahenksiz sesler çıkararak"
     },
     {
       "id": 33,
-      "content": "Then, a song begins to fill the air."
+      "content": "Sonrasında, başka bir şarkı başladı."
     },
     {
       "id": 34,
@@ -169,7 +169,7 @@
     },
     {
       "id": 35,
-      "content": "All the heads hung from the trees are singing the same song."
+      "content": "."
     },
     {
       "id": 36,
