@@ -13,7 +13,7 @@
     {
       "id": "lobby_noon_10301_1",
       "desc": "Afternoon Greeting",
-      "dlg": "Zatınız öğleyin neler planladı acaba? Şahsen, Bendeniz, Señorita Rodya’nın “Havalı Sofra” tercihine şevkle sabrederim."
+      "dlg": "Zatınız öğle aşı olarak neler planladı acaba? Şahsen, bendeniz Señorita Rodya’nın “Havalı Sofra” tercihine şevkle sabrederim."
     },
     {
       "id": "lobby_night_10301_1",
@@ -78,17 +78,17 @@
     {
       "id": "battle_allydead_10301_1",
       "desc": "Ally Death",
-      "dlg": "Manager Esquire, I am counting on you to regain our ground!"
+      "dlg": "Müdür efedi, yarenlerimizin kanını yerde bırakma!"
     },
     {
       "id": "choice_success_p_10301_1",
       "desc": "Check Passed",
-      "dlg": "I shan’t bask in glory! I know history will remember this deed, after all!"
+      "dlg": "Zaferimle iftihar etmemeliyim! Zira bilirim ki, şen namelere şanım müdavimdir!"
     },
     {
       "id": "choice_fail_n_10301_1",
       "desc": "Check Failed",
-      "dlg": "A true hero must needs be able to overcome hardship. We shall sally forth once more next time!"
+      "dlg": "Şanlı bir İşçözücü, önüne her gelen meşakkati aşmalı. Tan yerine bir daha ilerle!"
     },
     {
       "id": "battle_clear_10301_1",
@@ -98,12 +98,12 @@
     {
       "id": "battle_clear_ex_10301_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "I knew a great Fixer slumbered within me!!!! Mwahahahaha!!!!"
+      "dlg": "Evvela şahsiyetim bünyesinde şanlı bir İşçözücünün yattığını biliyordum!!!! Mwahahahaha!!!!"
     },
     {
       "id": "battle_defeat_10301_1",
       "desc": "Defeat Wail",
-      "dlg": "Keugh… They shall… pay… for this…"
+      "dlg": "Aghh… Despotlar… Sizler… bunu ödeyeceksiniz…"
     }
   ]
 }
