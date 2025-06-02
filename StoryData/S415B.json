@@ -6,19 +6,19 @@
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "Attention, everyone! Reinforcements have arrived!!"
+            "content": "Dikkat dikkat, millet! Takviye birliği geldi!!"
         },
         {
             "id": 1,
             "model": "로쟈",
-            "content": "W-Who are those people?"
+            "content": "B-Bunlar da kim?"
         },
         {
             "id": 2,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "For sure, who could these be, Shrenne~? Made new friends other than me?"
+            "content": "Harbiden, bunlar da kim, Shrenne~? Benden başka yeni arkadaşlar mı edindin?"
         },
         {
             "id": 3,
@@ -32,32 +32,32 @@
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "Pleasure to meet you. I'm Niko, representative of Rosespanner Workshop."
+            "content": "Tanıştığımıza memnun oldum. Ben Niko, Rosespanner atölyesinin temsilcisiyim."
         },
         {
             "id": 5,
-            "content": "The enemies' faces clouded over at the unexpected arrival of reinforcements."
+            "content": "Takviye kuvevetlerinin beklenmedik gelişini gören düşman kuvvetlerinin yüzü buruştu."
         },
         {
             "id": 6,
             "model": "란",
             "teller": "???",
             "title": "Terrorist Organization?",
-            "content": "Boring. Let's head back."
+            "content": "Sıkıcı. Hadi geri dönelim."
         },
         {
             "id": 7,
             "model": "마리르",
             "teller": "???",
             "title": "Terrorist Organization?",
-            "content": "What?"
+            "content": "Ne?"
         },
         {
             "id": 8,
             "model": "마리르",
             "teller": "???",
             "title": "Terrorist Organization?",
-            "content": "Sure... We'll leave."
+            "content": "Pekala... Geri çekileceğiz."
         },
         {
             "id": 9,
@@ -71,52 +71,52 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Thanks, Shrenne. This made me seriously consider the possibility that your department might be picked as the best next year for the first time."
+            "content": "Sağol, Shrenne. Bu durum bir dahaki sene sizin bölümünüzü ilk defa en iyi olarak seçmeyi bana ciddi anlamda düşündürttü."
         },
         {
             "id": 11,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "Shame about your precious trophies being destroyed, huh?"
+            "content": "Ödül kupalarınızın yok edilmesi ne üzücü, ha?"
         },
         {
             "id": 12,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ms. Shrenne, pardon me for suspecting, but you did not perchance wait until the trophies were broken before bringing reinforcements, did you?"
+            "content": "Bayan Shrenne, şüphelendiğim için özür dilerim, ama takviye çağırmadan önce kupaların kırılmasını beklememişsinizdir, değil mi?"
         },
         {
             "id": 13,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I don't mind losing them."
+            "content": "Onları kaybetmek beni rahatsız etmez."
         },
         {
             "id": 14,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "As long as the photo is fine."
+            "content": "Fotoğraf sağlam olduğu sürece."
         },
         {
             "id": 15,
             "model": "그레고르",
-            "content": "The damage they left is pretty severe now that I'm seeing it firsthand..."
+            "content": "Şimdi kendi gözlerimle görünce, geride bıraktıkları hasar oldukça ciddiymiş..."
         },
         {
             "id": 16,
             "model": "그레고르",
-            "content": "It could've gotten all the researchers killed if things went wrong."
+            "content": "İşler ters gitseydi tüm araştırmacılar ölebilirdi."
         },
         {
             "id": 17,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Indeed, which is why we must eliminate them and reclaim the facility they've occupied as soon as possible."
+            "content": "Doğru, bu yüzden onları yok etmeli ve işgal ettikleri bölümü geri almalıyız."
         },
         {
             "id": 18,
@@ -152,12 +152,12 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Anyway, I ought to bring a generous supply of regeneration ampules for you all to use. Now should be a good time to depart, right?"
+            "content": "Her neyse, I ought to bring a generous supply of regeneration ampules for you all to use. Now should be a good time to depart, right?"
         },
         {
             "id": 24,
             "model": "그레고르",
-            "content": "We aren't going on a picnic, Dongrang... You gonna be okay?"
+            "content": "Biz bir pikniğe çıkmıyoruz, Dongrang... İyi olacağından emin misin?"
         },
         {
             "id": 25,
@@ -238,7 +238,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Oh right, that too."
+            "content": "Ha doğru, o da vardı."
         },
         {
             "id": 38,
@@ -271,7 +271,7 @@
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "...Three of my coworkers died in their last attack."
+            "content": "...Son saldrılarında üç meslektaşım öldü."
         },
         {
             "id": 43,
@@ -285,7 +285,7 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ms. Shrenne..."
+            "content": "Bayan Shrenne..."
         },
         {
             "id": 45,
@@ -313,14 +313,14 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Let's head there together."
+            "content": "Oraya birlikte gidelim hadi."
         },
         {
             "id": 49,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Laboratory",
-            "content": "I was hoping I could get a ride on your bus... What a shame."
+            "content": "Ben de sizin o otobüsünüze binebilirim diye umuyordum... Ne yazık."
         },
         {
             "id": 50,
