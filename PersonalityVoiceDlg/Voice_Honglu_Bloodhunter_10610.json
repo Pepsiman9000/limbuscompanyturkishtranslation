@@ -3,47 +3,49 @@
         {
             "id": "get_10610_1",
             "desc": "Identity Acquisition",
-            "dlg": "Bloodfiends are not only vile, they're also very persistent. So~ we should make sure we have everything ready to take them on, right?"
+            "dlg": "Kan Hınzırları sadece iğrenç değil, aynı zamanda çok ısrarcıdırlar. Yani~ onlarla başa çıkmak için her şeyin hazır olduğundan emin olmalıyız, değil mi?"
         },
         {
             "id": "lobby_morning_10610_1",
             "desc": "Morning Greeting",
-            "dlg": "Hm? Is it sunrise already? Seems like the hunt is coming to a close."
+            "dlg": "Hm? gün doğumu çoktan gelmiş mi? Av sona eriyor gibi görünüyor."
         },
         {
             "id": "lobby_noon_10610_1",
             "desc": "Afternoon Greeting",
-            "dlg": "(Esneme)... I think I'll try to sleep a little.\nAll the Bloodfiends have crawled into their holes, hiding. I don't need to worry much about ambushes at this hour."
+            "dlg": "(Esneme)... Sanırım biraz uyumaya çalışacağım.\nBütün Kan Hınzırları deliklerine sokulup saklandılar bile. Bu saatte pusuya düşmek konusunda fazla endişelenmeme gerek yok."
         },
         {
             "id": "lobby_night_10610_1",
             "desc": "Evening Greeting",
-            "dlg": "Watch yourself at night. When people aren't looking... That's when Bloodfiends crawl out of their dens in search of our blood."
+            "dlg": "Geceleri dikkatini elden bırakma. İnsanlar bakmadıklarında... İşte tam o zamanlarda Kan Hınzırları kanımızı aramak için inlerinden dışarı çıkarlar."
         },
         {
             "id": "smalltalk_10610_1",
             "desc": "Chatter #1",
-            "dlg": "Not all Bloodfiend Hunters know each other well.\nBut did you know that we can immediately tell whenever we're out on a job? There's that... unique flavor of leaden wrath and hatred that is found only in Bloodfiend Hunters."
+            "dlg": "Kan Hınzırı Avcılarının hepsi birbirlerini pek tanımaz.\nAncak bir işte olduğumuzu hemen anlayabildiğimizi biliyor muydun? Bizlerde... Sadece Kan Hınzırı Avcılarında bulunan, kurşuni bir öfke ve nefretin eşsiz bir tadı var." 
+
         },
         {
             "id": "smalltalk_10610_2",
             "desc": "Chatter #2",
-            "dlg": "I decided to send the Bloodfiend we captured last time to my home.\nThe elders back home will love it! I'm sure they'll have many things to ask that Bloodfiend, given the long lifespans of its kind."
+            "dlg": "Geçen sefer yakaladığımız Kan Hınzırını evime göndermeye karar verdim.\nMemleketin büyükleri buna bayılacak! Türlerinin uzun yaşam süreleri göz önüne alındığında, o Kan Hınzırına soracak çok şeyleri olacaklarından eminim."
         },
         {
             "id": "smalltalk_10610_3",
             "desc": "Chatter #3",
-            "dlg": "Bloodfiends are like wild animals. Sometimes they'll approach you in a friendly manner, sometimes they'll even do something kind. But...\n... assume they're full when they're like that. A hungry Bloodfiend will never be that kind toward humans."
+            "dlg": "Kan Hınzırları vahşi hayvanlar gibidir. Bazen size dostça yaklaşırlar, bazen de nazik bir şey yaparlar. Ama...\n... böyle olduklarında tok olduklarını varsayın. Aç bir Kan Hınzırı insanlara karşı asla o kadar nazik olmaz."
         },
         {
             "id": "smalltalk_10610_4",
             "desc": "Post-Uptie Chat 1",
-            "dlg": "Bloodfiends snatch people away from their own families and contort their brains to turn them into one of their own.\nWill your real family no longer be your own after you get turned? What even is a real family, I wonder?"
+            "dlg": "Kan Hınzırları insanları kendi ailelerinden koparır ve beyinlerini çarpıtarak onları kendilerinden birine dönüştürür.\nGerçek Ailen sen dönüştürüldükten senin olmayacak mı? Gerçek bir aile tam olarak nedir ki, acaba?"
+
         },
         {
             "id": "smalltalk_10610_5",
             "desc": "Post-Uptie Chat 2",
-            "dlg": "Some people consider Bloodfiends humans. Otherwise, why won't the Head go after them, right?\nWell, that's their criteria. In our eyes, Bloodfiends aren't humans. They are just vermin we have to exterminate."
+            "dlg": "Bazı kişiler Kan Hınzırlarını insan olarak görüyorlar. Yoksa, Baş neden onların peşine düşmesin ki, değil mi?\nEh, bu onların kriterleri. Bizim gözümüzde, Kan Hınzırları insan değil. Sadece yok edilmesi gereken haşereler."
         },
         {
             "id": "neglect_10610_1",
@@ -58,12 +60,12 @@
         {
             "id": "formation_10610_1",
             "desc": "Deployment",
-            "dlg": "Are Bloodfiends... making a fuss again?"
+            "dlg": "Kan Hınzırları... yine mi sorun çıkarıyorlar?"
         },
         {
             "id": "battleentry_10610_1",
             "desc": "Stage Entry",
-            "dlg": "Don't bother coming along if you don't have what it takes. You'll only step on my foot~"
+            "dlg": "Eğer gerekenlere sahip değilsen, gelmek için zahmet etmeyiver. Sadece ayağıma basarsın~"
         },
         {
             "id": "battle_select_10610_1",
@@ -93,12 +95,12 @@
         {
             "id": "battle_dead_10610_1",
             "desc": "Death",
-            "dlg": "I'll take... one more of you with me..."
+            "dlg": "Birinizi daha... yanımda götüreceğim..."
         },
         {
             "id": "choice_success_p_10610_2",
             "desc": "Check Passed",
-            "dlg": "This'll be helpful for the hunt!"
+            "dlg": "Bu av için faydalı olacaktır!"
         },
         {
             "id": "choice_fail_n_10610_1",
@@ -108,17 +110,18 @@
         {
             "id": "battle_clear_10610_1",
             "desc": "Victory Cry",
-            "dlg": "A few of them gave us the slip, but we won in the end. They must be cowering in fear by now."
+            "dlg": "Birkaçı bizi atlattı ama sonuç olarak biz kazandık. Şu anda korkudan sinmiş olsalar gerek."
+
         },
         {
             "id": "battle_clear_ex_10610_1",
             "desc": "Extra Conditions Fulfilled",
-            "dlg": "I think this area's been cleansed of Bloodfiends. Then... shall we head to our next hunting ground?"
+            "dlg": "Sanırım bu alan Kan Hınzırlarından temizlendi. O zaman... bir sonraki avlanma alanımıza gidelim mi?"
         },
         {
             "id": "battle_defeat_10610_1",
             "desc": "Defeat Wail",
-            "dlg": "Ha ha... we lost, huh? For all that big talk I did... it's a bit embarrassing. But next time, I'll..."
+            "dlg": "Ha ha... kaybettik, huh? Yaptığım tüm o büyük konuşmalar için... bu biraz utanç verici. Ama bir dahaki sefere, ben..."
         }
     ]
 }
