@@ -2,108 +2,108 @@
   "dataList": [
     {
       "id": "get_10101_1",
-      "desc": "Identity Acquisition",
-      "dlg": "Adım Yi Sang. Tek söyleyecek şeyim adım."
+      "desc": "Kişilik Edinildiğinde",
+      "dlg": "Adım Yi Sang. Bu kadar."
     },
     {
       "id": "lobby_morning_10101_1",
-      "desc": "Morning Greeting",
-      "dlg": "Are you sound this morning? Have you returned to the waking world without leaving any memories behind in the night?"
+      "desc": "Günaydın",
+      "dlg": "Bu sabah iyi misin? Gecenin içerisinde hiçbir anı bırakmadan uyanıkların dünyasına dönebildin mi?"
     },
     {
       "id": "lobby_noon_10101_1",
-      "desc": "Afternoon Greeting",
-      "dlg": "The sun stares into my face. I can feel its glare even when my eyes are closed."
+      "desc": "Tünaydın",
+      "dlg": "Güneş yüzüme nazar eyliyor. Gözlerim kapalıyken bile onun bakışını hissedebiliyorum."
     },
     {
       "id": "lobby_night_10101_1",
-      "desc": "Evening Greeting",
-      "dlg": "I have been merely standing here as the day has faded."
+      "desc": "İyi Akşamlar",
+      "dlg": "Tüm gün solup giderken, yalnızca burada durdum."
     },
     {
       "id": "smalltalk_10101_1",
-      "desc": "Chatter #1",
-      "dlg": "Have you discovered a way to return to the past, or a way to repel the future?"
+      "desc": "Muhabbet #1",
+      "dlg": "Geçmişe dönmenin bir yolunu buldun mu, yahut geleceği kovmanın?"
     },
     {
       "id": "smalltalk_10101_2",
-      "desc": "Chatter #2",
-      "dlg": "One moment, I stopped my sprint, and confined myself to this bus."
+      "desc": "Muhabbet #2",
+      "dlg": "Bir anda, koşuşumu durdurdum, ve kendimi bu otobüse kapattım."
     },
     {
       "id": "smalltalk_10101_3",
-      "desc": "Chatter #3",
-      "dlg": "Your clock doesn’t seem to ever stop. It never ceases to bring me back to home each time I perish."
+      "desc": "Muhabbet #3",
+      "dlg": "Saatin görünüşe göre hiç durmuyor. Her can verdiğimde beni eve geri kavuşturmaktan ödün vermiyor."
     },
     {
       "id": "neglect_10101_1",
-      "desc": "Idle",
-      "dlg": "Have you finally located your destination?"
+      "desc": "Boşta",
+      "dlg": "Sonunda istikametini bulabildin mi?"
     },
     {
       "id": "formation_10101_1",
-      "desc": "Deployment",
+      "desc": "Yerleştirildiğinde",
       "dlg": "Yolu göster."
     },
     {
       "id": "battleentry_10101_1",
-      "desc": "Stage Entry",
-      "dlg": "Our destination has many a bump."
+      "desc": "Sahne Girişi",
+      "dlg": "Yolumuzda birçok engebe var."
     },
     {
       "id": "battle_select_10101_1",
-      "desc": "Viewed in Battle",
+      "desc": "Üzerine Tıklanınca",
       "dlg": "Aradığını buldun mu?"
     },
     {
       "id": "battle_endcommand_10101_1",
-      "desc": "Commencing Attack",
-      "dlg": "I shall remove the bumps."
+      "desc": "Saldırı Başlangıcı",
+      "dlg": "Bu engebeleri kaldırayım."
     },
     {
       "id": "battle_enemy_break_10101_1",
-      "desc": "Enemy Stagger",
-      "dlg": "Such is the fate of a frequent target."
+      "desc": "Düşman Sersemleme",
+      "dlg": "İşte sıkça saldırıya uğrayan bir hedefin talihi."
     },
     {
       "id": "battle_break_10101_1",
-      "desc": "Staggered",
+      "desc": "Sersemleme",
       "dlg": "Hnf…"
     },
     {
       "id": "battle_kill_10101_1",
-      "desc": "Enemy Killed",
-      "dlg": "The mirror of this bump has shattered."
+      "desc": "Düşman Ölünce",
+      "dlg": "Bu engebenin aynası parçalandı."
     },
     {
       "id": "battle_allydead_10101_1",
-      "desc": "Ally Death",
-      "dlg": "Your clock shall have to wind."
+      "desc": "Müttefik Ölümü",
+      "dlg": "Saatin dönmek zorunda kalacak."
     },
     {
       "id": "choice_success_p_10101_1",
-      "desc": "Check Passed",
-      "dlg": "I was met with mirth."
+      "desc": "Kontrol Geçildi",
+      "dlg": "Görünüşe göre beni neşe karşıladı."
     },
     {
       "id": "choice_fail_n_10101_1",
-      "desc": "Check Failed",
-      "dlg": "Man will despair."
+      "desc": "Kontrol Geçilemedi",
+      "dlg": "İnsan umutsuzluğa düşer."
     },
     {
       "id": "battle_clear_10101_1",
-      "desc": "Victory Cry",
-      "dlg": "I’m certain this shan’t last forever. I am therefore apathetic."
+      "desc": "Zafer",
+      "dlg": "Bunun ebediyen sürmeyeceğinden eminim. Binaenaleyh, kayıtsız kalacağım."
     },
     {
       "id": "battle_clear_ex_10101_1",
-      "desc": "Extra Conditions Fulfilled",
-      "dlg": "The fruits of arduous labor. I feel as though I’m withering."
+      "desc": "Ek Koşullar Sağlandı",
+      "dlg": "Kesintisiz emeklerin hasatı. Soluyormuş gibi hissediyorum."
     },
     {
       "id": "battle_defeat_10101_1",
-      "desc": "Defeat Wail",
-      "dlg": "Thus, in a haze, it pales…"
+      "desc": "Yenilgi Çığlığı",
+      "dlg": "Ve, bir hız içinde, soluyor…"
     }
   ]
 }
