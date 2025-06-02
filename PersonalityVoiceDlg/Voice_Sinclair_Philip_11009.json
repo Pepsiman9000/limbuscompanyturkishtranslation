@@ -3,27 +3,27 @@
     {
       "id": "get_11009_1",
       "desc": "Identity Acquisition",
-      "dlg": "Sometimes I get hand tremors... I hope that doesn't make me look like a coward."
+      "dlg": "Bazen ellerimde titreme oluyor... Umarım beni korkak gibi göstertmiyordur."
     },
     {
       "id": "lobby_morning_11009_1",
       "desc": "Morning Greeting",
-      "dlg": "Oh! You're back early. As always, I placed any and all contract requests we received today on your desk."
+      "dlg": "Ah! Erken döndün. Herzamanki gibi, Bugün aldığımız bütün kontrakt isteklerini masana koydum."
     },
     {
       "id": "lobby_noon_11009_1",
       "desc": "Afternoon Greeting",
-      "dlg": "We should get to work soon. Or our Office might not make our next month's rent."
+      "dlg": "Yakında işe başlamalıyız. yoksa Ofisimiz sonraki ayın kirasını ödeyemebilir."
     },
     {
       "id": "lobby_night_11009_1",
       "desc": "Evening Greeting",
-      "dlg": "It's pretty cold tonight. How about a warm cup of ssanghwa-cha?"
+      "dlg": "Bu akşam epey soğuk. Sıcak bir barda ssanghwa-cha ister misin?"
     },
     {
       "id": "smalltalk_11009_1",
       "desc": "Chatter #1",
-      "dlg": "Do you listen to music from time to time? I enjoy the sound of cello myself.\nOne day, I hope to have a chance to try my hand at learning it. I'm sure creating music with my own hands feels different."
+      "dlg": "Ara sıra müzik dinler misin? Ben viyolonselin sesini severim.\nBir gün, Umarım elimde onu öğrenmek için bir an olur. Eminimki kendi ellerimle müzik yapmak farklı hisettirir."
     },
     {
       "id": "smalltalk_11009_2",
@@ -33,92 +33,92 @@
     {
       "id": "smalltalk_11009_3",
       "desc": "Chatter #3",
-      "dlg": "Oh, did you enjoy the ssanghwa-cha? Huh? They'd call me 'The Yellow Ssanghwa' if I ever became a Color...? I mean, I guess my blonde hair does resemble an egg yolk, but... Come on, don't tease me like that."
+      "dlg": "Ah, ssanghwa-chayı sevdin mi? Heh? Bana 'Sarı Ssanghwa' denilebiir eğer bir renk olursam...? Yani, Sarı saçım yumurta sarısına benziyor, ama... Hadi be, benle öyle alay etme."
     },
     {
       "id": "smalltalk_11009_4",
       "desc": "Post-Uptie Chat 1",
-      "dlg": "Are people of the City... not allowed to do anything on behalf of others?"
+      "dlg": "Şehrin halkının... başkaları adına birşey yapmaları yasak mı?"
     },
     {
       "id": "smalltalk_11009_5",
       "desc": "Post-Uptie Chat 2",
-      "dlg": "\"For them\". \"For the others\". \"For someone else's sake\"... You know, they were all just... selfish disguises to hide my true self. Have you ever pretended to be something you're not?"
+      "dlg": "\"Onlar için\". \"Diğerleri için\". \"Başka birinin hatrı için\"... Biliyorsun, onların hepsi... öz kişiliğimi saklamak için bencil kılıklar. Sen olmadığın birşey gibi davranmaya çalışmış mıydın?"
     },
     {
       "id": "neglect_11009_1",
       "desc": "Idle",
-      "dlg": "Everyone... needs the time to collect their thoughts."
+      "dlg": "Herkes... düşüncelerini toplamak için zamana ihtiyaç duyar."
     },
     {
       "id": "gacksung_11009_1",
       "desc": "Uptying",
-      "dlg": "No one's going to shed their tears on behalf of my sorrow."
+      "dlg": "Kimse benim hüzüntüm yerine gözyaşı akıtmayacak."
     },
     {
       "id": "formation_11009_1",
       "desc": "Deployment",
-      "dlg": "Do we have... a contract? Okay, I'll go get ready."
+      "dlg": "Bizm bir... kontraktımız mı var? Tamam, Gidip hazırlanacağım."
     },
     {
       "id": "battleentry_11009_1",
       "desc": "Stage Entry",
-      "dlg": "I'll try my best not to hold you back."
+      "dlg": "En iyimi deneyip seni geride bırakmamayacağım."
     },
     {
       "id": "battle_select_11009_1",
       "desc": "Viewed in Battle",
-      "dlg": "Give me the courage to face something..."
+      "dlg": "Bana birşeyle yüzleşmek için cesaret ver..."
     },
     {
       "id": "battle_endcommand_11009_1",
       "desc": "Commencing Attack",
-      "dlg": "I will follow your judgment."
+      "dlg": "Senin yargına uyacağım."
     },
     {
       "id": "battle_enemy_break_11009_1",
       "desc": "Enemy Stagger",
-      "dlg": "I shouldn't hesitate..."
+      "dlg": "Tereddüt etmemeliyim..."
     },
     {
       "id": "battle_break_11009_1",
       "desc": "Staggered",
-      "dlg": "I feel like I'm just causing you concern..."
+      "dlg": "Sana sadece kaygı hissetiriyorum gibi hissediyorum..."
     },
     {
       "id": "battle_kill_11009_1",
       "desc": "Enemy Killed",
-      "dlg": "... I have to be bold!"
+      "dlg": "... Cesur Olmalıyım!"
     },
     {
       "id": "battle_dead_11009_1",
       "desc": "Death",
-      "dlg": "I thought... I'd be there for you all the way..."
+      "dlg": "Sandım ki... Yolun sonuna kadar sizle olurdum..."
     },
     {
       "id": "choice_success_p_11009_2",
       "desc": "Check Passed",
-      "dlg": "It was for everyone's sake."
+      "dlg": "Herkesin hatrı içindi."
     },
     {
       "id": "choice_fail_n_11009_1",
       "desc": "Check Failed",
-      "dlg": "I didn't want to be a baggage... to you all..."
+      "dlg": "Hepiniz için... bir yük olmamak istemiştim..."
     },
     {
       "id": "battle_clear_11009_1",
       "desc": "Victory Cry",
-      "dlg": "We did suffer some losses, but... only the outcome matters in the end."
+      "dlg": "Birkaç kaybımız oldu, ama... tek önemli olan şey sonuçtur."
     },
     {
       "id": "battle_clear_ex_11009_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "That was certainly a perfect victory. How about we throw a house party like we did last time?"
+      "dlg": "Bu kesinlikle kusursuz bir zaferdi. Son sefer yaptığımız gibi bir ev partisi yapmak nasıl bir fikir?"
     },
     {
       "id": "battle_defeat_11009_1",
       "desc": "Defeat Wail",
-      "dlg": "Not yet... I've got to, I've got to go ask for help...!"
+      "dlg": "Şimdi değil... Gitmem lazım, Yardım istemeye gitmem lazım...!"
     }
   ]
 }
