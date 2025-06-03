@@ -24,40 +24,40 @@
     {
       "id": 4,
       "model": "싱클레어",
-      "content": "Benim yerime… bunu üstelenebilir misin?"
+      "content": "Benim için… bu kadar acıyı çekebilir misin?"
     },
     {
       "id": 5,
-      "content": "Sinclair was trembling so badly that it’d be pitiful for anyone to witness."
+      "content": "Sinclair o kadar kötü bir vaziyetteydi ki, gören herkes ona acır dı."  
     },
     {
       "id": 6,
-      "content": "I could tell he was desperately trying to suppress his fear."
+      "content": "Çaresizce korkusunu bastırmaya çalıştığını görebiliyordum."
     },
     {
       "id": 7,
-      "content": "It wouldn’t be the first time Sinclair has died. Whenever he bit the dust, I made sure to bring him back."
+      "content": "Bu Sinclair'ın ilk ölümü olmayacaktı. Ne zaman tahtalı köyü boylasa, onu her zaman geri getirmiştim."
     },
     {
       "id": 8,
-      "content": "But today, he’s newly asking for my understanding. He looked determined to confront them directly even if it means he’ll die again and again."
+      "content": "Ama bu gün, benim anlayışımı bekliyor. Tekrar ve tekrar ölecek olmasına rağmen, onlarla direkt yüzleşmek için azimliydi."
     },
     {
       "id": 9,
-      "content": "A feeling quite unlike the fright a usual battle evokes…"
+      "content": "Herhangi bir çarpışmada yaşayacağı korkulara benzersiz bir duygu…"
     },
     {
       "id": 10,
-      "content": "Maybe he’s holding the kind of fear that comes with a certain courage."
+      "content": "Belki de kesin bir cesaretten doğan bir duygu."
     },
     {
       "id": 11,
-      "content": "In that case…"
+      "content": "Eğer öyleyse…"
     },
     {
       "id": 12,
       "model": "단테",
-      "content": "<Are you scared, Sinclair?>"
+      "content": "<Korkuyor musun, Sinclair?>"
     },
     {
       "id": 13,
@@ -66,12 +66,12 @@
     },
     {
       "id": 15,
-      "content": "Sinclair suddenly turned around and gave me a startled look."
+      "content": "Sinclair aniden dönüp şaşkın bir yüz ifadesiyle bana baktı."
     },
     {
       "id": 16,
       "model": "단테",
-      "content": "<Hmm? Did I say something weird?>"
+      "content": "<Noldu? Garip bir şey mi söyledim?>"
     },
     {
       "id": 17,
@@ -80,7 +80,7 @@
     },
     {
       "id": 18,
-      "content": "Sinclair opened his mouth after a brief pause. His voice cracked."
+      "content": "Dedi Sinclair, uzun bir duraksamanın ardından. Sesi çatlayarak."
     },
     {
       "id": 19,
@@ -100,7 +100,7 @@
     {
       "id": 22,
       "model": "단테",
-      "content": "<Thanks, Sinclair.>"
+      "content": "<Teşekürler, Sinclair.>"
     },
     {
       "id": 23,
@@ -110,15 +110,15 @@
     {
       "id": 24,
       "model": "싱클레어",
-      "content": "Bir şey değil. Hayatımı çöp ederek sana acı çektirecekken, bana teşekkür etmen hiç de gerekmiyor. Haha."
+      "content": "Bir şey değil. Hayatımı har vurup harman savurarak sana acı çektirecekken, bana teşekkür etmen hiç de gerekmiyor. Haha."
     },
     {
       "id": 25,
-      "content": "Just as I realized that I forgot to ask what he said in response to the same question his friend had…"
+      "content": "Tam da benimle aynı soruyu soran arkadaşına verdiği yanıtı sormayı unutuğumu hatırladığım anda…"
     },
     {
       "id": 26,
-      "content": "Sinclair had already charged into the fray."
+      "content": "Sinclair çoktan hayatını savurmaya başlamıştı bile."
     }
   ]
 }
