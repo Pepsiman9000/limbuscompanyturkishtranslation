@@ -576,7 +576,7 @@
     {
       "id": "Assemble",
       "name": "Fanatic",
-      "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn. (Applies to clashes as well)"
+      "desc": "Raise Skill Final Power by the effect’s Count against birims with Nails for the turn. (Applies to clashes as well)"
     },
     {
       "id": "Nail",
@@ -696,12 +696,12 @@
     {
       "id": "AssemblePersonality",
       "name": "Fanatic",
-      "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn. (Applies to clashes as well)"
+      "desc": "Raise Skill Final Power by the effect’s Count against birims with Nails for the turn. (Applies to clashes as well)"
     },
     {
       "id": "MarkOfHeresy",
       "name": "Gaze",
-      "desc": "Take +20% damage from Pierce and Blunt skills for one turn.\nThe ally that defeats the marked unit heals 10 SP; if the ally is an 'N Corp. Fanatic', also apply 1 Fanatic next turn."
+      "desc": "Take +20% damage from Pierce and Blunt skills for one turn.\nThe ally that defeats the marked birim heals 10 SP; if the ally is an 'N Corp. Fanatic', also apply 1 Fanatic next turn."
     },
     {
       "id": "HitResultUp",
@@ -716,7 +716,7 @@
     {
       "id": "Cycle",
       "name": "Karma",
-      "desc": "Take +1% damage per Count. At the end of the turn, if at 108+ Count, the unit dies."
+      "desc": "Take +1% damage per Count. At the end of the turn, if at 108+ Count, the birim dies."
     },
     {
       "id": "Duress",
@@ -736,7 +736,7 @@
     {
       "id": "CyclingKarma",
       "name": "Cyclical Karma",
-      "desc": "All units transfer their Karma to their targets after a successful attack.\nKarma is not transferred to My Form Empties as long as its allies are alive.",
+      "desc": "All birims transfer their Karma to their targets after a successful attack.\nKarma is not transferred to My Form Empties as long as its allies are alive.",
       "summary": "Karma transferred on Clash win"
     },
     {
@@ -806,7 +806,7 @@
     {
       "id": "SelfCharge",
       "name": "Self-charge",
-      "desc": "Electric currents seem to flow around its body.\nAfter the unit faces death, as long as it has Self-charge, its HP is fixed at 1 until it is fully consumed. (Max 20)",
+      "desc": "Electric currents seem to flow around its body.\nAfter the birim faces death, as long as it has Self-charge, its HP is fixed at 1 until it is fully consumed. (Max 20)",
       "summary": "표시용"
     },
     {
@@ -914,7 +914,7 @@
     {
       "id": "ATL_Target",
       "name": "Get 'Em!",
-      "desc": "Simultaneously attacks one unit.",
+      "desc": "Simultaneously attacks one birim.",
       "summary": "표시용"
     },
     {
@@ -937,7 +937,7 @@
     {
       "id": "Crazy_LowMorale",
       "name": "Maddened",
-      "desc": "- Low Morale\n- When at low morale for the first time, targets units indiscriminately",
+      "desc": "- Low Morale\n- When at low morale for the first time, targets birims indiscriminately",
       "undefined": "-"
     },
     {
@@ -955,7 +955,7 @@
     {
       "id": "Suicide_Panic",
       "name": "Suicidal",
-      "desc": "- Panic\n- Cannot act for 3 turns. Unit dies at turn start; all its allies lose 10 SP",
+      "desc": "- Panic\n- Cannot act for 3 turns. birim dies at turn start; all its allies lose 10 SP",
       "undefined": "-"
     },
     {
@@ -1110,7 +1110,7 @@
     {
       "id": "SinkingSurge",
       "name": "Batış Tufanı",
-      "desc": "(Batış Miktarı * Batış Kuvveti) kadar AP hasarı ver, ardından Batış kalkar.\nHedefin AP'si -45 veya altındaysa, fazla AP hasarı Kasvet hasarı olarak verilir.\n(Aklıselimliği olmayan birimler tüm hasarı Kasvet hasarı olarak alır.)"
+      "desc": "(Batış Miktarı * Batış Şiddeti) kadar AP hasarı ver, ardından Batış kalkar.\nHedefin AP'si -45 veya altındaysa, fazla AP hasarı Kasvet hasarı olarak verilir.\n(Aklıselimliği olmayan birimler tüm hasarı Kasvet hasarı olarak alır.)"
     },
     {
       "id": "AmberResultUp",
@@ -1288,8 +1288,8 @@
     },
     {
       "id": "VibrationExplosion",
-      "name": "Titreşim Patlaması",
-      "desc": "Hedefin Sersemleme Eşiğini Titreşim Kuvveti kadar artırır"
+      "name": "Sarsıntı Patlaması",
+      "desc": "Hedefin Sersemleme Eşiğini Sarsıntı Şiddeti kadar artırır"
     },
     {
       "id": "OneOnOneDuel",
@@ -1369,18 +1369,18 @@
     },
     {
       "id": "VibrationCollapse",
-      "name": "Titreşim - Çöküş",
-      "desc": "Her 4 Titreşim Kuvveti için 1 Savunma Seviyesi kaybet\nTitreşim Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiğini efektin Kuvveti kadar artır\nTur Sonu: Miktarı 1 azalt\n(Normal Titreşim'le Kuvvet/)"
+      "name": "Sarsıntı - Çürüme",
+      "desc": "Her 4 Sarsıntı Şiddeti için 1 Savunma Seviyesi kaybet\nSarsıntı Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiğini efektin Şiddeti kadar artır\nTur Sonu: Miktarı 1 azalt\n(Normal Sarsıntı'le Kuvvet/)"
     },
     {
       "id": "EchoOfMansion",
       "name": "Malikanenin Yankıları",
-      "desc": "- Yetenek veya Jeton efektlerinden Batış Kuvveti/Miktarı kazandığında %50 şansla +1 Batış Miktarı kazan\n- AP'si olan birimler: Panik Türünü Malikanenin Yankıları'na çevir. Bu birim Paniklerse, sonraki tur 2 rastgele müttefiğe 2 Malikanenin Yankıları uygula\n- AP'si olmayan birimler: Tura şansı -%10\n- Tur Sonu: 1 azalır\nBu efekt birikmez; uygulandığında mevcut değeri yenisiyle değiştir.\n※ 'AP'si olmayan birimler' koşulunu AP'si olan ama Panik Türünü değiştiremeyen düşmanlara uygula."
+      "desc": "- Yetenek veya Jeton efektlerinden Batış Şiddeti/Miktarı kazandığında %50 şansla +1 Batış Miktarı kazan\n- AP'si olan birimler: Panik Türünü Malikanenin Yankıları'na çevir. Bu birim Paniklerse, sonraki tur 2 rastgele müttefiğe 2 Malikanenin Yankıları uygula\n- AP'si olmayan birimler: Tura şansı -%10\n- Tur Sonu: 1 azalır\nBu efekt birikmez; uygulandığında mevcut değeri yenisiyle değiştir.\n※ 'AP'si olmayan birimler' koşulunu AP'si olan ama Panik Türünü değiştiremeyen düşmanlara uygula."
     },
     {
       "id": "Switch_Vibration",
       "name": "Genlik Dönüşümü",
-      "desc": "Hedefteki Titreşim veya dönüştürülmüş Titreşim'i farklı tür Titreşim'e çevir.\nDönüşüm sırasında Kuvvet ve Miktar değerleri değişmez."
+      "desc": "Hedefteki Sarsıntı veya dönüştürülmüş Sarsıntı'i farklı tür Sarsıntı'e çevir.\nDönüşüm sırasında Kuvvet ve Miktar değerleri değişmez."
     },
     {
       "id": "AzureResultUp",
@@ -1389,8 +1389,8 @@
     },
     {
       "id": "VibrationCrack",
-      "name": "Titreşim - Kırık",
-      "desc": "- Sersemlediğinde ve Titreşim Kuvveti + Miktarı toplamı 20'den fazla ise ise, Sersemleme Seviyesini 1 artır\n- Bu efektle maksimum Sersemleme Seviyesi aşılamaz\n\nTitreşim Patlaması tetikleyen saldırılarla vurulduğunda, Sersemleme Eşiğini efektin Kuvveti kadar artır\nTur Sonu: Miktarı 1 azalt\n(Titreşim Kuvveti/Miktarı artıran/azaltan efektler ile Normal Titreşimle aynı şekilde etkileşir)"
+      "name": "Sarsıntı - Kırık",
+      "desc": "- Sersemlediğinde ve Sarsıntı Şiddeti + Miktarı toplamı 20'den fazla ise ise, Sersemleme Seviyesini 1 artır\n- Bu efektle maksimum Sersemleme Seviyesi aşılamaz\n\nSarsıntı Patlaması tetikleyen saldırılarla vurulduğunda, Sersemleme Eşiğini efektin Şiddeti kadar artır\nTur Sonu: Miktarı 1 azalt\n(Sarsıntı Şiddeti/Miktarı artıran/azaltan efektler ile Normal Sarsıntıle aynı şekilde etkileşir)"
     },
     {
       "id": "ForwardToTheKing",
@@ -1430,26 +1430,26 @@
     },
     {
       "id": "VibrationEcho",
-      "name": "Titreşim - Yankı",
-      "desc": "- Titreşim Patlaması'nda, üzerindeki Titreşim Kuvveti kadar Tembellik hasarı al.\n- Titreşim Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiğini etkinin Kuvveti kadar artır.\n- Tur Sonu: Miktarı 1 azalt.\n(Titreşim Kuvveti/Miktarı artıran/azaltan etkiler ile Normal Titreşimle aynı şekilde etkileşir)",
+      "name": "Sarsıntı - Yankı",
+      "desc": "- Sarsıntı Patlaması'nda, üzerindeki Sarsıntı Şiddeti kadar Tembellik hasarı al.\n- Sarsıntı Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiğini etkinin Şiddeti kadar artır.\n- Tur Sonu: Miktarı 1 azalt.\n(Sarsıntı Şiddeti/Miktarı artıran/azaltan etkiler ile Normal Sarsıntıle aynı şekilde etkileşir)",
       "summary": ""
     },
     {
       "id": "ShieldManagerCryingToad",
       "name": "Baloncuk Kalkan",
-      "desc": "- Bu efekt 'Kalkan Yönetimi' etkisi sayılır.\n- Tur Sonu: Miktarı 1 azalt\n- Baloncuk aktifken Kalkan Tur Sonunda kaybolmaz (hasarla veya efektle kırılmadığı sürece)\n- Baloncuklu Kalkan hasarla kırılırsa, saldırgana 4 Batış Kuvveti veya Miktarı uygula. (4 değerinin Kuvvet/Miktar dağılımı rastgele belirlenir)\n- Balon Kalkan aktifken kalkan değeri biriktirilebilir ancak Maks Canın %60'ını geçemez.",
+      "desc": "- Bu efekt 'Kalkan Yönetimi' etkisi sayılır.\n- Tur Sonu: Miktarı 1 azalt\n- Baloncuk aktifken Kalkan Tur Sonunda kaybolmaz (hasarla veya efektle kırılmadığı sürece)\n- Baloncuklu Kalkan hasarla kırılırsa, saldırgana 4 Batış Şiddeti veya Miktarı uygula. (4 değerinin Kuvvet/Miktar dağılımı rastgele belirlenir)\n- Balon Kalkan aktifken kalkan değeri biriktirilebilir ancak Maks Canın %60'ını geçemez.",
       "summary": ""
     },
     {
       "id": "VibrationContinue",
-      "name": "Titreşim - Ebedi",
-      "desc": "- Titreşim Patlaması tetikleyen Yetenek veya Jetonlarla vurulduğunda, %(Kendi Üzerindeki Titreşim Kuvveti) şansla ek Patlama tetikle. (maks %50)\n- Titreşim Patlaması tetikleyen Yetenek veya Jetonlarla vurulduğunda, %(Kendi Üzerindeki Titreşim Miktarı) şansla ek Patlama tetikle. (maks %50)\n- Titreşim Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiğini efektin Kuvveti kadar artır\n- Tur Sonu: Miktarı 1 azalt\n(Titreşim Kuvveti/Miktarı artıran/azaltan etkiler ile Normal Titreşimle aynı şekilde etkileşir)",
+      "name": "Sarsıntı - Ebedi",
+      "desc": "- Sarsıntı Patlaması tetikleyen Yetenek veya Jetonlarla vurulduğunda, %(Kendi Üzerindeki Sarsıntı Şiddeti) şansla ek Patlama tetikle. (maks %50)\n- Sarsıntı Patlaması tetikleyen Yetenek veya Jetonlarla vurulduğunda, %(Kendi Üzerindeki Sarsıntı Miktarı) şansla ek Patlama tetikle. (maks %50)\n- Sarsıntı Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiğini efektin Şiddeti kadar artır\n- Tur Sonu: Miktarı 1 azalt\n(Sarsıntı Şiddeti/Miktarı artıran/azaltan etkiler ile Normal Sarsıntıle aynı şekilde etkileşir)",
       "summary": ""
     },
     {
       "id": "TimeSuspend",
-      "name": "Zaman Moratoryumu",
-      "desc": "- Bu etki aktifken hasar almaz; bunun yerine tüm hasarı depolar\n- Savaş Sonu: 1 Miktar kalırsa, depolanan hasarın %(100 + (Yük x 15)) kadarını Tembellik hasarı vererek Titreşim Patlama tetikler\n- Tur Sonu: 1 Yük kazan ve 1 Miktar kaybet\n- Eğer Zaman Moratoryumu olan bir birime başka bir Zaman Moratoryumu etkisi uygulanırsa Tembellik Hasarı ve Titreşim patlaması anında tetiklenir ve eski etki sonlanır.",
+      "name": "Zaman Gözetimi",
+      "desc": "- Bu etki aktifken hasar almaz; bunun yerine tüm hasarı depolar\n- Savaş Sonu: 1 Miktar kalırsa, depolanan hasarın %(100 + (Yük x 15)) kadarını Tembellik hasarı vererek Sarsıntı Patlaması tetikler\n- Tur Sonu: 1 Yük kazan ve 1 Miktar kaybet\n- Eğer Zaman Gözetimi olan bir birime başka bir Zaman Gözetimi etkisi uygulanırsa Tembellik Hasarı ve Sarsıntı patlaması anında tetiklenir ve eski etki sonlanır.",
       "summary": ""
     },
     {
@@ -1460,8 +1460,8 @@
     },
     {
       "id": "VibrationChainPersonality",
-      "name": "Titreşim - Zincir",
-      "desc": "- Her 10 Titreşim Kuvveti için 1 Çarpışma Gücü kaybet (maks 3)\n- Titreşim Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiğini efektin Kuvveti kadar artır\n- Tur Sonu: Miktarı 1 azalt\n- (Titreşim Kuvveti/Miktarı artıran/azaltan etkiler ile Normal Titreşimle aynı şekilde etkileşir)",
+      "name": "Sarsıntı - Zincir",
+      "desc": "- Her 10 Sarsıntı Şiddeti için 1 Çarpışma Gücü kaybet (maks 3)\n- Sarsıntı Patlaması tetikleyen Yeteneklerle vurulduğunda, Sersemleme Eşiğini efektin Şiddeti kadar artır\n- Tur Sonu: Miktarı 1 azalt\n- (Sarsıntı Şiddeti/Miktarı artıran/azaltan etkiler ile Normal Sarsıntıle aynı şekilde etkileşir)",
       "summary": ""
     },
     {
@@ -1509,19 +1509,19 @@
     {
       "id": "WildHunt",
       "name": "Vahşi Av",
-      "desc": "- Bu ünitin ilk kez Vahşi Av elde ettiği turda, 1 HP ye sahip ol.; Tur sonunda bu üniti \"dirilt\"(50% can iyileştir ve AP yi sıfırla. ).\n- Ölümde, en az sahip olunan E.G.O için 1 E.G.O kaynağı elde et.\n- Eğer bu init bir saldırı tarafından öldürürdüyse, son saldırgana 3 tane Batma uygula .\n- Bu ünitin diriltildiği turun sonunda ölür.",
+      "desc": "- Bu birimin ilk kez Vahşi Av kazandığı turda, 1 HP ye sahip ol.; Tur sonunda bu birimi \"dirilt\"(50% can iyileştir ve AP yi sıfırla. ).\n- Ölümde, en az sahip olunan E.G.O için 1 E.G.O kaynağı elde et.\n- Eğer bu init bir saldırı tarafından öldürürdüyse, son saldırgana 3 tane Batma uygula .\n- Bu birimin diriltildiği turun sonunda ölür.",
       "summary": ""
     },
     {
       "id": "NightPathfinding",
       "name": "Dullahan",
-      "desc": "- Maks Değer: 3\n- 3 Saldırı Seviyesi kazan\n- 3 Savunma Seviyesi kaybet \n- Min  & Maks Hız değerlerini 1 yükselt\n- Tur Sonu: Sonraki tur 1 Dullahan elde et (Ancak -25 veya daha düşük AP de, Dullahanı yitir)\n- Turn End: Eğer bu unit Dullahana sahip ise, (15 - (Tabut/2)) AP kaybet. (min 10)",
+      "desc": "- Maks Değer: 3\n- 3 Saldırı Seviyesi kazan\n- 3 Savunma Seviyesi kaybet \n- Min  & Maks Hız değerlerini 1 yükselt\n- Tur Sonu: Sonraki tur 1 Dullahan elde et (Ancak -25 veya daha düşük AP de, Dullahanı yitir)\n- Turn End: Eğer bu birim Dullahana sahip ise, (15 - (Tabut/2)) AP kaybet. (min 10)",
       "summary": ""
     },
     {
       "id": "WanderingFootsteps",
       "name": "Yaklaşan Yıkıntı",
-      "desc": "- AP ye sahip birlikler: Panik türünü \"\"Yıkıntı\"\" ya dönüştür.\n(Yıkıntı: Bu unit Düşük Moral durumuna girdiğinde, her Tur Sonunda 3 Batma elde et ve 1 Çarpışma Gücü kaybet. Bu unit Paniklediğinde, her Tur Sonunda 5 Batma ve 3 Batma Miktarı elde et ve 2 Çarpışma Gücü kaybet. )\n- AP olmayan unitler: Tura atma ihtimali -10% chance\n- Tur soununda 1 azalt\n- Bu etki birikemez; uygulamak, mevcut değeri uygulanan değerle değiştirecektir. AP si olmayan fakat Panik Türü değiştirilemeyen bazı düşmanlara \"\"AP'siz Unitler\"\" koşulunu \n※ygula"
+      "desc": "- AP ye sahip birlikler: Panik türünü \"\"Yıkıntı\"\" ya dönüştür.\n(Yıkıntı: Bu birim Düşük Moral durumuna girdiğinde, her Tur Sonunda 3 Batma elde et ve 1 Çarpışma Gücü kaybet. Bu birim Paniklediğinde, her Tur Sonunda 5 Batma ve 3 Batma Miktarı elde et ve 2 Çarpışma Gücü kaybet. )\n- AP olmayan birimler: Tura atma ihtimali -10% chance\n- Tur soununda 1 azalt\n- Bu etki birikemez; uygulamak, mevcut değeri uygulanan değerle değiştirecektir. AP si olmayan fakat Panik Türü değiştirilemeyen bazı düşmanlara \"\"AP'siz birimler\"\" koşulunu \n※ygula"
      },
     {
       "id": "WanderingFootsteps_Main",
@@ -1566,14 +1566,14 @@
     {
       "id": "Retreat",
       "name": "Stratejik R&R Modu",
-      "desc": "- Tur Sonu: Sersemleden iyileş ve Karşılaşmadan Geri Çekil (zorunlu bir Sersemleme olmadığı sürece; ölüm olarak sayılmaz)\n· Zincir Savaşlarda, bu ünitin yuvalarını İkame Edilen Ünite ver ve Yedek ünitlerin Yerleştirme sırasında en son sıraya gir. (bir sonraki turda yer değiştirecek başka Yedek Ünit kalmadıysa Karşılaşmadan tamamen kaç. Savaşa geri dönerken, geri çekildikleri sırayla geri dön)\n· Savaşa geri dönerken, bu ünitin geri çekildiğinde sahip olduğu can ve AP miktarıyla geri dön ve belirli birkaç etki harici  kendi üzerindeki tüm etkileri ortadan kaldır (bu birim geri çekilirken 0 AP'den daha az AP'ye sahipse, bunun yerine AP'yi 0'a sıfırla)",
+      "desc": "- Tur Sonu: Sersemleden iyileş ve Karşılaşmadan Geri Çekil (zorunlu bir Sersemleme olmadığı sürece; ölüm olarak sayılmaz)\n· Zincir Savaşlarda, bu birimin yuvalarını İkame Edilen Ünite ver ve Yedek ünitlerin Yerleştirme sırasında en son sıraya gir. (bir sonraki turda yer değiştirecek başka Yedek Ünit kalmadıysa Karşılaşmadan tamamen kaç. Savaşa geri dönerken, geri çekildikleri sırayla geri dön)\n· Savaşa geri dönerken, bu birimin geri çekildiğinde sahip olduğu can ve AP miktarıyla geri dön ve belirli birkaç etki harici  kendi üzerindeki tüm etkileri ortadan kaldır (bu birim geri çekilirken 0 AP'den daha az AP'ye sahipse, bunun yerine AP'yi 0'a sıfırla)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DefensiveStance",
       "name": "Savunma Duruşu",
-      "desc": "- Maks Değer: 2\n- Bu efektin kuvveti artmaz; ilave Yüklar sadece süresini uzatır.\n- Tur Sonu: 1 azalt\n- Bu efekt kazanıldığında, sonraki tur şunları elde et:\n  · Birimin Hızını minimum değere sabitle\n  · 5 Savunma Seviyesi Artışı kazan\n  · Her Yuvasına +(10 / yuva sayısı) Tehdit Değeri ekle\n  · Yetenek zincirlerken, hızdan bağımsız olarak düşman saldırılarını üzerine çek (Sadece Odaklı Karşılaşmalarda)\n  · Çarpışma Kazanıldığında Titreşim Patlaması tetikle\n  · Hasar ile Sersemlenemez",
+      "desc": "- Maks Değer: 2\n- Bu efektin Şiddeti artmaz; ilave Yüklar sadece süresini uzatır.\n- Tur Sonu: 1 azalt\n- Bu efekt kazanıldığında, sonraki tur şunları elde et:\n  · Birimin Hızını minimum değere sabitle\n  · 5 Savunma Seviyesi Artışı kazan\n  · Her Yuvasına +(10 / yuva sayısı) Tehdit Değeri ekle\n  · Yetenek zincirlerken, hızdan bağımsız olarak düşman saldırılarını üzerine çek (Sadece Odaklı Karşılaşmalarda)\n  · Çarpışma Kazanıldığında Sarsıntı Patlaması tetikle\n  · Hasar ile Sersemlenemez",
       "summary": ""
     },
     {
@@ -1619,7 +1619,7 @@
     {
       "id": "Snare",
       "name": "Kement",
-      "desc": "- Maks Değer: 3\n- Tur Sonu: Bu birimin mevcut Hız değeri kadar Yırtılma Kuvveti kazan (maks 5) ve sonraki tur 1 Mıhlanma kazan\n- Tur Sonu: 1 azalt",
+      "desc": "- Maks Değer: 3\n- Tur Sonu: Bu birimin mevcut Hız değeri kadar Yırtılma Şiddeti kazan (maks 5) ve sonraki tur 1 Mıhlanma kazan\n- Tur Sonu: 1 azalt",
       "summary": "",
       "undefined": "-"
     },
@@ -1654,7 +1654,7 @@
     {
       "id": "BloomingThornsRodionFirst",
       "name": "Açan Diken I",
-      "desc": "- Maks Değer: 10\n- Aşama 1 Açan Diken\n- Her 2 Yük için 1 Savunma Seviyesi kazan (maks 5)\n- Vurulduğunda saldırgana 1 Kanama uygula ve 1 Yük kaybet\n- [The Princess of La Manchaland Rodion Only]\n· Maks Yükda bu efektin sonraki aşamasına dönüşür\n· Temel Saldırı Yeteneği Jeton efektleriyle +(Aşama - 1) ek Kanama ve Yırtık Kuvveti uygular\n· Gereksinimlerin altına düşerse önceki aşamaya döner",
+      "desc": "- Maks Değer: 10\n- Aşama 1 Açan Diken\n- Her 2 Yük için 1 Savunma Seviyesi kazan (maks 5)\n- Vurulduğunda saldırgana 1 Kanama uygula ve 1 Yük kaybet\n- [The Princess of La Manchaland Rodion Only]\n· Maks Yükda bu efektin sonraki aşamasına dönüşür\n· Temel Saldırı Yeteneği Jeton efektleriyle +(Aşama - 1) ek Kanama ve Yırtık Şiddeti uygular\n· Gereksinimlerin altına düşerse önceki aşamaya döner",
       "summary": "",
       "undefined": "-"
     },
@@ -1681,8 +1681,8 @@
     },
     {
       "id": "VibrationSpring",
-      "name": "Titreşim - Saatkurma", 
-      "desc": "- Maks Hız + 2\n- Bu birimin yetenekleri veya Jeton etkileri ile 1 daha fazla Titreşim Kuuveti veya Miyktarı uygulamak için kendi üzerindeki Titreşim Miktarını Tüket.\n- Titreşim Patlaması tetikleyen yetenekler tarafıdan vurulduğunda, Sersemleme Eşiğini etkinin Kuvveti kadar arttır.\n- Tur Sonu: Miktarı 1 azalt.\n- (Titreşim Kuvveti/Miktarı artıran/azaltan etkiler ile Normal Titreşimle aynı şekilde etkileşir)",
+      "name": "Sarsıntı - Saatkurma", 
+      "desc": "- Maks Hız + 2\n- Bu birimin yetenekleri veya Jeton etkileri ile 1 daha fazla Sarsıntı Kuuveti veya Miyktarı uygulamak için kendi üzerindeki Sarsıntı Miktarını Tüket.\n- Sarsıntı Patlaması tetikleyen yetenekler tarafıdan vurulduğunda, Sersemleme Eşiğini etkinin Şiddeti kadar arttır.\n- Tur Sonu: Miktarı 1 azalt.\n- (Sarsıntı Şiddeti/Miktarı artıran/azaltan etkiler ile Normal Sarsıntıle aynı şekilde etkileşir)",
       "summary": "",
       "undefined": "-"
     },
@@ -1701,7 +1701,7 @@
     },
     {
       "id": "SwirlingBloodPersonality",
-      "name": "Parıldayan【Kan Hınzırı】",
+      "name": "Parıldayan[Kan Hınzırı]",
       "desc": "- Max Stack: 50\n- As long as this effect exists, all Bleed damage taken by the Shield HP is converted to Bloodfeast.\n- Gain Shield HP equal to the Stack at the moment of its application\n- Expires at Turn End",
       "summary": ""
     },
@@ -1762,7 +1762,7 @@
     {
       "id": "FreishutzOutisEgoBullet_7th",
       "name": "Yedinci Sihirli Mühimmat",
-      "desc": "- Deal +200% more damage\n- Deal +2.5% more damage for every 1% missing HP on target (max 200%)\n- Before Attack: for this attack, if the Pierce Damage Res. on target or on self are less than 2.0, change them to Fatal(x2.0)\n- After Attack: kills this unit"
+      "desc": "- Deal +200% more damage\n- Deal +2.5% more damage for every 1% missing HP on target (max 200%)\n- Before Attack: for this attack, if the Pierce Damage Res. on target or on self are less than 2.0, change them to Fatal(x2.0)\n- After Attack: kills this birim"
     },
     {
       "id": "FreishutzOutisEgoBulletCnt",
@@ -1772,7 +1772,7 @@
     {
       "id": "CoveringFire",
       "name": "Hedef Tespit Edildi",
-      "desc": "If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with its Skill 2 against the same enemy Unit A attacked with its Skill. Activates at Unit A's Attack End.\n- The Skill used due to this effect does not affect Unit B's upcoming Skills list."
+      "desc": "If birim A applies this effect to birim B: birim B follows up with an Unopposed Attack with its Skill 2 against the same enemy birim A attacked with its Skill. Activates at birim A's Attack End.\n- The Skill used due to this effect does not affect birim B's upcoming Skills list."
     },
     {
       "id": "FullReload",
@@ -1787,22 +1787,22 @@
     {
       "id": "Retreat_FullStop",
       "name": "Gözetleme Görevi",
-      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)"
+      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this birim's Slots to a Substituted birim and move to the rearmost place in the Backup birims' Deployment order (escape from the Encounter entirely if there are no other Backup birims remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this birim had when it retreated, and eliminate all effects on self for a select few (if this birim had less than 0 SP when retreating, reset SP to 0 instead)"
     },
     {
       "id": "LogicAtelierAM",
-      "name": "Konsantrasyon【Sniper】",
+      "name": "Konsantrasyon[Sniper]",
       "desc": "- Max Stack: 4\n- Turn End: gain 1 Stack"
     },
     {
       "id": "MeleeCover",
       "name": "Yakın Destek",
-      "desc": "- If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with the 'Melee Support' Skill against the same enemy that attacked Unit A. Activates at Unit A's Skill End.\n- The Skill used due to the 'Melee Support' effect does not affect Unit B's upcoming Skills list."
+      "desc": "- If birim A applies this effect to birim B: birim B follows up with an Unopposed Attack with the 'Melee Support' Skill against the same enemy that attacked birim A. Activates at birim A's Skill End.\n- The Skill used due to the 'Melee Support' effect does not affect birim B's upcoming Skills list."
     },
     {
       "id": "RequestedTarget",
       "name": "Hedef Belirlendi",
-      "desc": "+0.2 Resistance to Attack Types with 1.5 or less Resistance. If the target with this effect is defeated, gain 1 E.G.O resource for all Affinities, and the unit that defeated the target heals 10 SP"
+      "desc": "+0.2 Resistance to Attack Types with 1.5 or less Resistance. If the target with this effect is defeated, gain 1 E.G.O resource for all Affinities, and the birim that defeated the target heals 10 SP"
     },
     {
       "id": "GlowingLantern",
@@ -1834,7 +1834,7 @@
     {
       "id": "BlackCloud",
       "name": "Kara Bulut",
-      "desc": "Max Stack: 1\nConverts all of this unit's Base Attack Skill Coins used this turn to [Unbreakable Coins], prevents damage from Staggering this unit until Skill End, and inflict +1 more of Bleed effects\nOn Clash Lose: gain Final Power +3\nTurn End: this effect expires"
+      "desc": "Max Stack: 1\nConverts all of this birim's Base Attack Skill Coins used this turn to [Unbreakable Coins], prevents damage from Staggering this birim until Skill End, and inflict +1 more of Bleed effects\nOn Clash Lose: gain Final Power +3\nTurn End: this effect expires"
     },
     {
       "id": "BlackCloudBlade",
@@ -1844,7 +1844,7 @@
     {
       "id": "EngageToBattle",
       "name": "Savaşa Hazır",
-      "desc": "Max Value: 1\nBleed Potency and Count inflicted with this unit's Skill or Coin effects: +1\nGain 1 Slash Power Up and 3 Slash DMG Up for the duration of this Encounter"
+      "desc": "Max Value: 1\nBleed Potency and Count inflicted with this birim's Skill or Coin effects: +1\nGain 1 Slash Power Up and 3 Slash DMG Up for the duration of this Encounter"
     },
     {
       "id": "CloudWall",
@@ -1859,12 +1859,12 @@
     {
       "id": "NebulizerExhale",
       "name": "Nebülizatör α",
-      "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- Combat Start: on all allies, including this unit, apply 1 Nefes Potency and +1 Nefes Count"
+      "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- Combat Start: on all allies, including this birim, apply 1 Nefes Potency and +1 Nefes Count"
     },
     {
       "id": "ReleaseBreath",
       "name": "Tutuk Nefes",
-      "desc": "- Max Value: 1\n- At 20+ Nefes Potency, gain +1 Count as well whenever this unit gains Nefes Potency with Skill and Coin effects\n- Expires at Turn End"
+      "desc": "- Max Value: 1\n- At 20+ Nefes Potency, gain +1 Count as well whenever this birim gains Nefes Potency with Skill and Coin effects\n- Expires at Turn End"
     },
     {
       "id": "FirePunchFuel",
@@ -1883,7 +1883,7 @@
     {
       "id": "DianxueDonQuixote",
       "name": "Sinir Saldırısı - Don Quixote",
-      "desc": "- Max Stack: 3\n- The unit that inflicted this Nerve Strike gains the following effects based on target's(or targeted Part's) Nerve Strike Stack\n· 1x Stack: Gain Clash Power +1\n· 2x Stack: Gain Base Power +1\n· 3x Stack: Gain Clash Power +1 and Base Power +1\n- Expires if the unit that inflicted it inflicts this effect against a different target(or a different Part)\n- Replaced when another unit inflicts Nerve Strike",
+      "desc": "- Max Stack: 3\n- The birim that inflicted this Nerve Strike gains the following effects based on target's(or targeted Part's) Nerve Strike Stack\n· 1x Stack: Gain Clash Power +1\n· 2x Stack: Gain Base Power +1\n· 3x Stack: Gain Clash Power +1 and Base Power +1\n- Expires if the birim that inflicted it inflicts this effect against a different target(or a different Part)\n- Replaced when another birim inflicts Nerve Strike",
       "summary": "",
       "undefined": "-"
     },
@@ -1897,7 +1897,7 @@
     {
       "id": "VendettaMark",
       "name": "İntikam İşareti",
-      "desc": "- Max Stack: 10\n- Consumed by certain Skills or Passives\n- Take +2% more damage from The Middle enemies for every Stack (max 20%)\n- Turn End: the unit with the highest Stack of this effect gains 1 Sibling Vengeance Mark next turn\n(Counted separately from Vengeance Mark; if more than a single unit has the highest Stack of this effect, this effect targets the one with a higher HP percentage)",
+      "desc": "- Max Stack: 10\n- Consumed by certain Skills or Passives\n- Take +2% more damage from The Middle enemies for every Stack (max 20%)\n- Turn End: the birim with the highest Stack of this effect gains 1 Sibling Vengeance Mark next turn\n(Counted separately from Vengeance Mark; if more than a single birim has the highest Stack of this effect, this effect targets the one with a higher HP percentage)",
       "summary": "",
       "undefined": "-"
     },
@@ -1910,38 +1910,123 @@
     },
     {
       "id": "BirdCage",
-      "name": "Searing Birdcage",
-      "desc": "Max Stack: 5\nIf this unit has Burn, Wrath Resistance +0.1 for every Stack (cannot exceed 2.0 Wrath Resistance with this effect)\nTurn End: gain Bind equal to Stack next turn\nTurn End: halve Stack (rounded down)\n※ Cannot gain additional Stacks of this effect while it is already active",
+      "name": "Kavurucu Kuş Kafesi",
+      "desc": "Max Stack: 5\nIf this birim has Burn, Wrath Resistance +0.1 for every Stack (cannot exceed 2.0 Wrath Resistance with this effect)\nTurn End: gain Bind equal to Stack next turn\nTurn End: halve Stack (rounded down)\n※ Cannot gain additional Stacks of this effect while it is already active",
       "summary": "Wrath Resistance +0.1 for every Stack",
       "undefined": "-"
     },
     {
       "id": "WideAreaRampage",
-      "name": "Unfocused Volley",
+      "name": "Dizginsiz Saldırı",
       "desc": "- When this Skill flips Coins, each Coin flips against a random enemy among its targets\n· The first Coin always targets the main target\n· All 'On Hit' effects and all damage dealt by each Coin are inflicted only against the random target the Coin selected",
       "summary": "Attack indiscriminately among selected targets",
       "undefined": "-"
     },
     {
       "id": "ActivatedEgoPassive",
-      "name": "E.G.O Passives",
-      "desc": "Active E.G.O Passives",
+      "name": "E.G.O Pasifleri",
+      "desc": "Aktif E.G.O Pasifleri",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BurstPoison",
-      "name": "Deathrite【Venom】",
+      "name": "Deathrite [Zehir]",
       "desc": "Base Stack: 5\n- Deathrite\n- When getting Rupture triggered by a Critical Hit from the target, lose 1 Stack\n- When losing Stacks due to this effect, gain 1 Offense Level Down or 1 Defense Level Down (3 times per turn)\n- When losing Stacks due to this effect, if the Stack drops to 0, take Gluttony damage equal to Rupture Potency on self\n- ※ Cannot gain additional Stacks of this effect while it is already active",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SnakeStance",
-      "name": "Serpent Arm",
+      "name": "Yılan Kolu",
       "desc": "Max Stack: 3\nTurn End: gain 3 Poise and +2 Poise Count next turn\nOn Base Attack Skill use, if target has Rupture, gain 5 Poise\nTurn End: lose 1 Stack",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "BurstZilu",
+      "name": "Deathrite [Fissure]",
+      "desc": "- Base Stack: 3\n- When getting Rupture triggered while this birim has Deathrite, lose 1 Stack, and gain 1 Bind next turn\n· When this effect activates, if this birim is to gain 3 or more Bind next turn, lose 2 Stacks instead of gaining Bind\n- At 0 Stack, take Gluttony damage equal to Rupture Potency on self\n※ Cannot gain additional Stacks of this effect while it is already active.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportProtect",
+      "name": "Asist Defans",
+      "desc": "- Max Stack: 3\n- When an ally is about to take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self; then, use the unique Skill that activates for Assist Defense\n- When there are multiple allies with Assist Defense Stacks, the ally with the highest Stack has the highest activation priority\n- Does not activate for allies who equipped Defense Skills\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EnhanceZilu",
+      "name": "Tianjiu Yıldızının Kılıcı",
+      "desc": "- Maks Adet: 20\n- 10+ adette: Tur Sonu, Bir sonraki turda 1 Hız kazan\n- Bazı Yetenekler için kullanılır",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstVulnerableZilu",
+      "name": "Çürümenin İzi",
+      "desc": "- Max Stack: 1\n- Take +10% damage from Gluttony Skills\n- Take +10% damage from Deathrite\n- Removed at Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportProtectTypo",
+      "name": "Assist Defense",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EntangledCurseTalisman",
+      "name": "Çarpık Lanetli Tılsım",
+      "desc": "- Max Stack: 10\n- Expires at Turn End\n- At 10+ Stack, when taking 30+ damage from a Skill: gain +1 Rupture Count; take Gluttony damage equal to Rupture Potency on self (once per turn)\n- When this effect expires, gain (Stack / 4) Attack Power Down next turn (max 2)\n※ Cannot gain additional Stacks of this effect while it is already active",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CentipedePoison",
+      "name": "Kırkayak Zehiri",
+      "desc": "- Max Stack: 20\n- Turn End: gain (Stack / 4) Defense Level Down next turn (rounded down)\n- Turn End: take Gluttony damage equal to Stack, and halve the Stack (rounded down)\nUpon death, transfers to this birim's ally(for Focused Encounters, a different Part) with none or the least Centipede Venom Stacks.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DragonLance",
+      "name": "Çiçek-gömen Kama",
+      "desc": "Base Stack: 0\nMax Stack: 3\n- All Coins on this birim's leftmost Base Attack Skill on the Dashboard become Unbreakable Coins\n- Turn Start: gain 2 Offense Level Up and 2 Defense Level Down\n- Turn Start: at 3+ Stack, gain 1 Tarnished Blood (once per Encounter)\n- Turn End: gain 1 Stack\n※ Cannot raise the effect's Stack by any other means than the ones above\n- Expires upon death or Retreat\n\n- When this birim takes damage that brings their HP down to 0: instead of letting this birim's HP drop below 1, or becoming Staggered or Defeated, use the 'Tears of the Tarnished Blood - The End' Skill at the very end of that turn. Remove the Flower-burying Wedge when the Skill ends.\nWhen this birim takes damage that brings their HP down to 1 at Turn End, use 'Tears of the Tarnished Blood - The End' Skill based on this birim's Speed next turn",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CondensedBlood",
+      "name": "Lekeli Kan",
+      "desc": "Max Stack: 5\n- Turn End: take 20% HP damage per Stack (cannot be Staggered by this effect)\n- Gain 1 Stack at Turn End\n- Expires upon death or Retreat",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonSelf",
+      "name": "Çiçek-gömen iğne",
+      "desc": "Max Stack: 20\n- Gain 1 Stack at Turn End or when hit\n- Gain 1 Offense Level per 5 Stack\n- If the birim with this effect dies, inflict Gluttony damage equal to Stack and inflict 5 Rupture\n- Expires upon death or Retreat",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonNodie",
+      "name": "İnkâr",
+      "desc": "When this birim takes damage that brings their HP down to 0: this birim's HP does not drop below 1; recover from Stagger due to damage.\nIf the above effect activated, dies at Turn End.\nExpires upon death, Retreat, or Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonBurst",
+      "name": "Keskin Diken",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
     }
+    
   ]
 }
