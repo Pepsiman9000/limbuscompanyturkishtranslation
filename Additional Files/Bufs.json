@@ -2253,7 +2253,7 @@
     },
     {
       "id": "SwirlingBloodPersonality",
-      "name": "Parıldayan【Kan Hınzırı】",
+      "name": "Parıldayan[Kan Hınzırı]",
       "desc": "- Maksimum Değer: 50\n- Bu etki olduğu sürece, Kalkan tarafından alınan tüm Kanama hasarı Kanşölenine dönüşür.\n- Uygulama anında Miktara eşit bir güçlükte bir Kalkan kazanılır\n- Tur Sonu sona erer",
       "summary": ""
     },
@@ -2343,7 +2343,7 @@
     },
     {
       "id": "LogicAtelierAM",
-      "name": "Konsantrasyon【Sniper】",
+      "name": "Konsantrasyon [Sniper]",
       "desc": "- Maks Değer: 4\n- Tur Sonu: 1 Artar"
     },
     {
@@ -2457,7 +2457,7 @@
     },
         {
       "id": "BirdCage",
-      "name": "Searing Birdcage",
+      "name": "Kavurucu Kuş Kafesi"",
       "desc": "Max Stack: 5\nIf this unit has Burn, Wrath Resistance +0.1 for every Stack (cannot exceed 2.0 Wrath Resistance with this effect)\nTurn End: gain Bind equal to Stack next turn\nTurn End: halve Stack (rounded down)\n※ Cannot gain additional Stacks of this effect while it is already active",
       "summary": "Wrath Resistance +0.1 for every Stack",
       "undefined": "-"
@@ -2471,24 +2471,108 @@
     },
     {
       "id": "ActivatedEgoPassive",
-      "name": "E.G.O Passives",
-      "desc": "Active E.G.O Passives",
+      "name": "E.G.O Passifleri",
+      "desc": "Aktif E.G.O Pasifleri",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BurstPoison",
-      "name": "Deathrite【Venom】",
+      "name": "Deathrite [Zehir]",
       "desc": "Base Stack: 5\n- Deathrite\n- When getting Rupture triggered by a Critical Hit from the target, lose 1 Stack\n- When losing Stacks due to this effect, gain 1 Offense Level Down or 1 Defense Level Down (3 times per turn)\n- When losing Stacks due to this effect, if the Stack drops to 0, take Gluttony damage equal to Rupture Potency on self\n- ※ Cannot gain additional Stacks of this effect while it is already active",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SnakeStance",
-      "name": "Serpent Arm",
+      "name": "Yılan Kolu",
       "desc": "Max Stack: 3\nTurn End: gain 3 Poise and +2 Poise Count next turn\nOn Base Attack Skill use, if target has Rupture, gain 5 Poise\nTurn End: lose 1 Stack",
       "summary": "",
       "undefined": "-"
-    }    
+       },
+    {
+      "id": "BurstZilu",
+      "name": "Deathrite [Yarık]",
+      "desc": "- Base Stack: 3\n- When getting Rupture triggered while this unit has Deathrite, lose 1 Stack, and gain 1 Bind next turn\n· When this effect activates, if this unit is to gain 3 or more Bind next turn, lose 2 Stacks instead of gaining Bind\n- At 0 Stack, take Gluttony damage equal to Rupture Potency on self\n※ Cannot gain additional Stacks of this effect while it is already active.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportProtect",
+      "name": "Asist Defans",
+      "desc": "- Max Stack: 3\n- When an ally is about take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self; then, use the exclusive Skill that activates for Assist Defense\n- When there are multiple allies with Assist Defense Stacks, the ally with the highest Stack has the highest activation priority\n- Does not activate for allies who equipped Defense Skills\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EnhanceZilu",
+      "name": "Tianjiu Yıldızının Kılıcı",
+      "desc": "- Max Stack: 20\n- At 10+ Stack: at Turn End, gain 1 Haste next turn\n- Used for certain Skills",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstVulnerableZilu",
+      "name": "Çürümenin İzi",
+      "desc": "- Max Stack: 1\n- Take +10% damage from Gluttony Skills\n- Take +10% damage from Deathrite\n- Removed at Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportProtectTypo",
+      "name": "Asist Defans",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EntangledCurseTalisman",
+      "name": "Çarpık Lanetli Tılsım",
+      "desc": "- Max Stack: 10\n- Expires at Turn End\n- At 10+ Stack, when taking 30+ damage from a Skill: gain +1 Rupture Count; take Gluttony damage equal to Rupture Potency on self (once per turn)\n- When this effect expires, gain (Stack / 4) Attack Power Down next turn (max 2)\n※ Cannot gain additional Stacks of this effect while it is already active",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CentipedePoison",
+      "name": "Kırkayak Zehiri",
+      "desc": "- Max Stack: 20\n- Turn End: gain (Stack / 4) Defense Level Down next turn (rounded down)\n- Turn End: take Gluttony damage equal to Stack, and halve the Stack (rounded down)\nUpon death, transfers to this unit's ally(for Focused Encounters, a different Part) with none or the least Centipede Venom Stacks.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DragonLance",
+      "name": "Çiçek-gömen Kama",
+      "desc": "Base Stack: 0\nMax Stack: 3\n- All Coins on this unit's leftmost Base Attack Skill on the Dashboard become Unbreakable Coins\n- Turn Start: gain 2 Offense Level Up and 2 Defense Level Down\n- Turn Start: at 3+ Stack, gain 1 Tarnished Blood (once per Encounter)\n- Turn End: gain 1 Stack\n※ Cannot raise the effect's Stack by any other means than the ones above\n- Expires upon death or Retreat\n\n- When this unit takes damage that brings their HP down to 0: instead of letting this unit's HP drop below 1, or becoming Staggered or Defeated, use the 'Tears of the Tarnished Blood - The End' Skill at the very end of that turn. Remove the Flower-burying Wedge when the Skill ends.\nWhen this unit takes damage that brings their HP down to 1 at Turn End, use 'Tears of the Tarnished Blood - The End' Skill based on this unit's Speed next turn",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CondensedBlood",
+      "name": "Lekeli Kan",
+      "desc": "Max Stack: 5\n- Turn End: take 20% HP damage per Stack (cannot be Staggered by this effect)\n- Gain 1 Stack at Turn End\n- Expires upon death or Retreat",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonSelf",
+      "name": "Çiçek-gömen iğne"",
+      "desc": "Max Stack: 20\n- Gain 1 Stack at Turn End or when hit\n- Gain 1 Offense Level per 5 Stack\n- If the unit with this effect dies, inflict Gluttony damage equal to Stack and inflict 5 Rupture\n- Expires upon death or Retreat",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonNodie",
+      "name": "İnkâr",
+      "desc": "When this unit takes damage that brings their HP down to 0: this unit's HP does not drop below 1; recover from Stagger due to damage.\nIf the above effect activated, dies at Turn End.\nExpires upon death, Retreat, or Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonBurst",
+      "name": "Keskin Diken",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    }   
   ]
 }
