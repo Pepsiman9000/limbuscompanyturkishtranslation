@@ -9,6 +9,11 @@
       "id": 80101,
       "desc": "- Tüm karakterler için, yerleştirilmiş olan E.G.O Yeteneklerini sıfırlanır ve tüm Yetenekler için hedeflemer sıfırlanır.",
       "rawDesc": "Herhangi bir E.G.O kaynağı tüketmeden tek bir E.G.O Yeteneği yerleştir."
+    },
+    {
+      "id": 70101,
+      "desc": "- 3 tur boyunca tüm birimlerin Saldırı ve Savunma Seviyeleri, tüm birimlerin değerlerinin ortalamasına ayarlanır.",
+      "rawDesc": "Tüm birimlerin Saldırı ve Savunma Seviyeleri, tüm birimlerin değerlerinin ortalamasına ayarlanır."
     }
   ]
 }
