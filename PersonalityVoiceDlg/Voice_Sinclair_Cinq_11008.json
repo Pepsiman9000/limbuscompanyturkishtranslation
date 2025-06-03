@@ -23,17 +23,17 @@
     {
       "id": "smalltalk_11008_1",
       "desc": "Chatter #1",
-      "dlg": "Sometimes... I wonder if the sword is wielding me and not the other way around. I sometimes lose myself and get too aggressive, even during a friendly spar."
+      "dlg": "Bazen... Kılıcım mı bana hakim yoksa ben mi kılıca hakimim diye düşünürüm. Bazen kendimi kaybedip fazla agresif olurum, dostçul bir çarpışmada bile."
     },
     {
       "id": "smalltalk_11008_2",
       "desc": "Chatter #2",
-      "dlg": "I'm a bit all over the place, and I make a lot of mistakes... but I like it here! My coworkers are so nice to me.\nMmm... Sometimes, they give me worried looks, though. I guess they're worried that I might stumble into another blunder?"
+      "dlg": "Biraz kafam karışık, ve Çok hata yaparım... ama burayı seviyorum! İş Arkadaşlarım bana çok nazik.\nMmm... Bazen, bana endişeli bakışlarla bakarlar, yinede. I guess they're worried that I might stumble into another blunder?"
     },
     {
       "id": "smalltalk_11008_3",
       "desc": "Chatter #3",
-      "dlg": "So uh... I just need to use my arm to... Woaaah?! Did I do that right...? I can just topple them, just like that?!"
+      "dlg": "Yani eh... Kolumu sadece... Voaah?! Doğru yaptım mı...? Onları böyle, devirebiliyormuyum?!"
     },
     {
       "id": "smalltalk_11008_4",
@@ -43,12 +43,12 @@
     {
       "id": "smalltalk_11008_5",
       "desc": "Post-Uptie Chat 2",
-      "dlg": "When I'm ready to duel, my surroundings fade away. A part of me does, too. There is nothing before me but the enemy in a dark, dark place."
+      "dlg": "Duelloya hazır olduğum zaman, etrafım yok oluyor. Benim bir parçamda, dahil. Önümde karanlık ortam ve rakibim dışında birşey yok, karanlık ortam."
     },
     {
       "id": "neglect_11008_1",
       "desc": "Idle",
-      "dlg": "Ah! I'm finally free from work! Now we can talk... Ah, where are you?"
+      "dlg": "Ah! Sonunda işim kalmadı! Şimdi konuşabiliriz... Ah, neredesin?"
     },
     {
       "id": "gacksung_11008_1",
@@ -58,12 +58,12 @@
     {
       "id": "formation_11008_1",
       "desc": "Deployment",
-      "dlg": "Is it work?"
+      "dlg": "İş mi?"
     },
     {
       "id": "battleentry_11008_1",
       "desc": "Stage Entry",
-      "dlg": "Focus... on the tip of my blade..."
+      "dlg": "Odaklan... kılıcımın ucuna..."
     },
     {
       "id": "battle_select_11008_1",
@@ -73,12 +73,12 @@
     {
       "id": "battle_endcommand_11008_1",
       "desc": "Commencing Attack",
-      "dlg": "There it is."
+      "dlg": "İşte burda."
     },
     {
       "id": "battle_enemy_break_11008_1",
       "desc": "Enemy Stagger",
-      "dlg": "More."
+      "dlg": "Daha."
     },
     {
       "id": "battle_break_11008_1",
@@ -88,37 +88,37 @@
     {
       "id": "battle_kill_11008_1",
       "desc": "Enemy Killed",
-      "dlg": "I've hit all of your vital areas."
+      "dlg": "Bütün hayati noktalarına saldırdım."
     },
     {
       "id": "battle_dead_11008_1",
       "desc": "Death",
-      "dlg": "Huh? No... I thought... the duel was... going well..."
+      "dlg": "Hıh? Hayır... Sanıyordum ki... duello... iyi gidiyordu..."
     },
     {
       "id": "choice_success_p_11008_2",
       "desc": "Check Passed",
-      "dlg": "Hmph... Huh? That worked?"
+      "dlg": "Hmmf... Hıh? Çalıştı mı?"
     },
     {
       "id": "choice_fail_n_11008_1",
       "desc": "Check Failed",
-      "dlg": "That didn't work? Then how about here? No, here?!"
+      "dlg": "Çalışmadı mı? Peki ya buradan? Hayır, bura?!"
     },
     {
       "id": "battle_clear_11008_1",
       "desc": "Victory Cry",
-      "dlg": "Well, that worked out... somehow! Whew, I guess I didn't make any mistakes this time."
+      "dlg": "Yani, çalıştı... birşekilde! Wuf, Sanırım bu sefer hiç hata yapmadım."
     },
     {
       "id": "battle_clear_ex_11008_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "More... Oh hey, guys! Uh... why are you backing away?"
+      "dlg": "Daha... Ah selam, kankalar! Ih... niye geri gidiyorsunuz?"
     },
     {
       "id": "battle_defeat_11008_1",
       "desc": "Defeat Wail",
-      "dlg": "It can't end like this. I have—I know I can do better!"
+      "dlg": "Böyle bitemez. Yapabilirim—Daha iyi yapabileceğimi biliyorum!"
     }
   ]
 }
