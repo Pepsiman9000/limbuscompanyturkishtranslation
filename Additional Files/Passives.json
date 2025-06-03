@@ -2117,7 +2117,25 @@
       "id": 1091221,
       "name": "Damariçi Zehir",
       "desc": "En hızlı Hıza sahip bir müttefik bir düşmana [Burst] hasarı verirsen, sonraki tur 1 [AttackDown] ve 1 [DefenseDown] next uygular (tur başına bir kez)"
+   },
+    {
+      "id": 1021201,
+      "name": "Heishou Mutasyonu [Mao] / Mao Braşı Mahiri",
+      "desc": "Bu birimin Hızı hedefinkinden yüksekse, her 1 Hız farkı için %+2 daha fazla hasar verir (maksimum %10)\n\nBir müttefik bir Ölüm Ayini etkisini tetiklediğinde 1 [EnhanceZilu] kendine uygulanır (tur başına 5 kez)\n- Eğer bu birim bir Ölüm Ayini etkisini tetiklediyse, fazladan 1 [EnhanceZilu] kendine uygulanır\n[SupportProtect] etkisi etkinleştirildiğinde 5 [EnhanceZilu] kendine uygulanır",
+      "summary": "Hız farkına bağlı olarak daha fazla hasar verir\nÖlüm Ayini veya [SupportProtect] etkisi etkinleştiğinde [EnhanceZilu] kendine uygulanır"
     }
+    {
+      "id": 1021221,
+      "name": "Serikılıç",
+      "desc": "En Hızlı 1 müttefik [Burst] Hasarı uyguladığında, bir sonraki tur için 1 [AttackUp] kendine uygulanır (tur başına 3 kez)"
+    },
+    {
+      "id": 1021203,
+      "name": "Tianjiu Yıldızı",
+      "desc": "[BurstZilu] Miktarı 0'a düşer ve sona erer, [BurstVulnerableZilu] kazanır"
+    }
+  ]
+}
     
   ]
 }
