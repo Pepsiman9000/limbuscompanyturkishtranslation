@@ -3,11 +3,11 @@
     {
       "id": 0,
       "place": "11. Eyalet - LC Şubesi İç Mekanı",
-      "content": "The branch facility we entered was not as well-preserved as the one we had visited in District 4."
+      "content": "Girdiğimiz şube Eyalet 4'ünkü kadar iyi durumda değildi."
     },
     {
       "id": 1,
-      "content": "Anlaşılan N Kuruluşu'nun Engizisyoncuları burayı bir süredir üs olarak kullanıyorlardı; görüş alanıma çeşitli işkence aletleri, kasabada gördüğümüz türden et parçaları ve makineler girdi."
+      "content": "Anlaşılan N Kuruluşu'nun engizisyoncuları burayı bir süredir mesken berilemişler; görüş alanıma çeşitli işkence aletleri, içeride kasabada gördüğümüz gibi çeşitli işkence ailetleri, et parçaları ve metal aygıtlar vardı."
     },
     {
       "id": 2,
@@ -20,14 +20,14 @@
       "model": "N사심문관1",
       "teller": "Kırbaçlayan Engizisyoncu",
       "title": "Çivi ve Çekiç",
-      "content": "Hah. Bu acıdan bahsediyor."
+      "content": "Hah. Bu acıdan söz ediyor."
     },
     {
       "id": 4,
       "model": "N사심문관2",
       "teller": "Sorgulayıcı Engizisyoncu",
       "title": "Çivi ve Çekiç",
-      "content": "Sahte bir şekilde ağlıyor. Önemseme."
+      "content": "Sahte bir çığlık. Önemseme."
     },
     {
       "id": 5,
@@ -47,7 +47,7 @@
       "model": "N사심문관2",
       "teller": "Sorgulayıcı Engizisyoncu",
       "title": "Çivi ve Çekiç",
-      "content": "Enough. This one is too far gone to repent."
+      "content": "Yeter. bu tövbe etmek için çok fazla günah işlemiş."
     },
     {
       "id": 8,
@@ -74,7 +74,7 @@
       "model": "N사심문관2",
       "teller": "Sorgulayıcı Engizisyoncu",
       "title": "Çivi ve Çekiç",
-      "content": "…Hm. Gerçekten de, gerçek bir üzüntünün dışa vurumu insanlığı çağrıştırır."
+      "content": "…Hm. Gerçekten de, gerçek bir üzüntünün dışa vurumu insanlığı çağrıştırır ne de olsa."
     },
     {
       "id": 12,
@@ -112,7 +112,7 @@
     {
       "id": 17,
       "model": "로쟈",
-      "content": "…Huzzah!"
+      "content": "…hıı!"
     },
     {
       "id": -1,
@@ -123,7 +123,7 @@
       "model": "N사심문관1",
       "teller": "Kırbaçlayan Engizisyoncu",
       "title": "Çivi ve Çeki",
-      "content": "Gah… Ngh…"
+      "content": "Gah… ıh…"
     },
     {
       "id": -1,
@@ -135,7 +135,7 @@
       "model": "N사심문관2",
       "teller": "Sorgulayıcı Engizisyoncu",
       "title": "Çivi ve Çeki",
-      "content": "…Siz kafirler gerçekten de zararlı böcekler gibisiniz."
+      "content": "…Siz kafirler gerçekten de pire gibisiniz."
     },
     {
       "id": 20,
@@ -146,12 +146,12 @@
     },
     {
       "id": 21,
-      "content": "Geriye baktığımda Rodya omuz silkti."
+      "content": "Baktığımda Rodya omuz silkiyordu."
     },
     {
       "id": 22,
       "model": "로쟈",
-      "content": "Ne? Bir kereliğine sorumluluğu üstlenmek istedim."
+      "content": "Ne? Bir kereliğine mahsus sorumluluğu üstleneyim dedim."
     }
   ]
 }
