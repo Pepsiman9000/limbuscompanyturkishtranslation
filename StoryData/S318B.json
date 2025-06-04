@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Sinclair'in Eski Malikanesi",
+      "place": "Eski Sinclair Konağı",
       "model": "싱클레어",
       "content": "Rrraaaaaaah!!!"
     },
@@ -13,11 +13,11 @@
     },
     {
       "id": 2,
-      "content": "Sinclair, Kromer'ı kimse durduramadan onu kovalamak için öne atıldı."
+      "content": "Sinclair, Kromer'ı kimse onu durduramadan önce Kromer'ı yakalayabilmek için öne atıldı."
     },
     {
       "id": 3,
-      "content": "Ancak, N Kurulu Engizisyoncularının geri kalanı tarafından engellendi."
+      "content": "Ancak, N Kuruluşu engizitörlerinin geri kalanı tarafından engellendi."
     },
     {
       "id": -1,
@@ -25,15 +25,15 @@
     },
     {
       "id": 4,
-      "content": "Karşılığında, hiç beklemediğim bir güçle silahını savurdu ve onu yakalayanın kafasını parçaladı."
+      "content": "Onu durdumak isteyenlere içinde sahip olduğunu bilmediğim bir kuvvete baltalı kargısını savurdu. Önündeki engizitörün kafasını parçalayarak."
     },
     {
       "id": 5,
-      "content": "Engizisyoncu ağzından tek bir soluk bile çıkamadan yere yığıldı."
+      "content": "Engizisyoncu ağzından tek bir ses bile çıkamadan yere yığıldı."
     },
     {
       "id": 6,
-      "content": "Sinclair normalde grubumuzun arkasında kalırdı; onu böyle aniden hücum ederken ilk kez gördüm."
+      "content": "Sinclair normalde grubumuzun arkasında kalırdı; ilk kez onu böyle aniden hücum ederken gördüm."
     },
     {
       "id": 7,
@@ -45,7 +45,7 @@
       "model": "귀도",
       "teller": "Guido",
       "title": "Çivi ve Çekiç",
-      "content": "Hayatlarına son verdiğimi net bir şekilde hatırlıyorum."
+      "content": "Hayatlarınıza son verdiğimi net bir şekilde hatırlıyorum."
     },
     {
       "id": 9,
@@ -64,7 +64,7 @@
     {
       "id": 11,
       "model": "그레고르",
-      "content": "Mucizevi iyileşmelerden şikayet eden sen değilsin…"
+      "content": "Mucizevi iyileşmelerden şikayet eden sen misin?…"
     },
     {
       "id": 12,
@@ -72,14 +72,14 @@
     },
     {
       "id": 13,
-      "content": "Daha sonra sanki gözlemi ona ihtiyaç duyduğu bilgiyi vermiş gibi yavaşça başını salladı."
+      "content": "Sonrasında sanki gözlemi ona ihtiyaç duyduğu bilgiyi vermiş gibi yavaşça başını salladı."
     },
     {
       "id": 14,
       "model": "귀도",
       "teller": "Guido",
       "title": "Çivi ve Çekiç",
-      "content": "Daha sonra sanki gözlemi ona ihtiyaç duyduğu bilgiyi vermiş gibi yavaşça başını salladı."
+      "content": "Sen oradaki, şirk tutman kafayı taşıyan."
     },
     {
       "id": 15,
@@ -90,7 +90,7 @@
     },
     {
       "id": 16,
-      "content": "Avludaki çivilenmiş cesetlere çenesiyle işaret ediyor."
+      "content": "Avludaki çivilenmiş cesetlere çenesiyle işaret ederek."
     },
     {
       "id": 17,
@@ -118,14 +118,14 @@
       "model": "귀도",
       "teller": "Guido",
       "title": "Çivi ve Çekiç",
-      "content": "Ama sen farklısın."
+      "content": "Ancak sen farklısın."
     },
     {
       "id": 21,
       "model": "귀도",
       "teller": "Guido",
       "title": "Çivi ve Çekiç",
-      "content": "The sin of worshipping a heretic is less severe than indulging in heresy oneself."
+      "content": "Bir kafire ibadet etmek, kendin kafir olmaktan daha hafif bir günahtır."
     },
     {
       "id": 22,
@@ -153,11 +153,11 @@
       "model": "귀도",
       "teller": "Guido",
       "title": "Çivi ve Çekiç",
-      "content": "O sahte mucizenin cazibesinden kurtulun ve önümde diz çökün."
+      "content": "O sahte mucizenin büyüsünden kurtulun ve önümde diz çökün."
     },
     {
       "id": 26,
-      "content": "Çatışma durma noktasına geldi. Kimse ilk konuşmaya istekli görünmüyordu."
+      "content": "Kendi sapkın nutukları sonlandı. Kimse ilk konuşmaya istekli görünmüyordu."
     },
     {
       "id": 27,
@@ -166,7 +166,7 @@
     },
     {
       "id": 28,
-      "content": "Biraz ortamı yumuşatmak için bir espri yapmaya çalıştım ama kimse gülmedi."
+      "content": "Biraz ortamı yumuşatmak için bir espri yapmaya çalıştım ama nafileydi."
     },
     {
       "id": 29,
@@ -176,16 +176,16 @@
     {
       "id": 30,
       "model": "단테",
-      "content": "<Yani, siz de bana hep saat yüzlü diyorsunuz…>"
+      "content": "<Yani, siz de bana hep saatkafa diyip duruyorsunuz…>"
     },
     {
       "id": 31,
       "model": "이스마엘",
-      "content": "Bu hiç de aynı değil! Ayrıca, ben o takma adı hiç kullanmadım…"
+      "content": "Bu hiç de aynı şey değil! Ayrıca, ben o takma adı hiç kullanmadım-"
     },
     {
       "id": 32,
-      "content": "Ishmael homurdandı."
+      "content": "Diye Ishmael hırladı."
     },
     {
       "id": 33,
@@ -244,7 +244,7 @@
       "model": "귀도",
       "teller": "Guido",
       "title": "Çivi ve Çekiç",
-      "content": "Çünkü tövbe etmeyen kimse…"
+      "content": "Çünkü tövbe etmeyen kimse için…"
     },
     {
       "id": 42,
@@ -256,7 +256,7 @@
       "model": "귀도",
       "teller": "Guido",
       "title": "Çivi ve Çekiç",
-      "content": "…yer altında dinlenmeye izin verilmez."
+      "content": "…yeraltında dinlenmeye izin verilmez."
     }
   ]
 }
