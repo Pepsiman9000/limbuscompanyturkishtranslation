@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Bodrum Alanı",
+      "place": "Bodrum",
       "content": "Yanmış malikaneye girdik ve Sinclair bizi bodruma götürdü."
     },
     {
@@ -17,7 +17,7 @@
     {
       "id": 3,
       "model": "단테",
-      "content": "<To think there’d be a tunnel down here…>"
+      "content": "<Burada bir yer altı geçidi olacağını düşünmek…>"
     },
     {
       "id": 4,
@@ -52,12 +52,12 @@
     {
       "id": 10,
       "model": "싱클레어",
-      "content": "…Öyle değil mi??"
+      "content": "…Öyle değil mi?"
     },
     {
       "id": 11,
       "model": "싱클레어",
-      "content": "Bizi Altın Dallar'a sensör olarak kullanmak üzere yanında getiriyorsun."
+      "content": "Bizi Altın Dallar'a sensör olarak kullanmak için yanında getiriyorsun."
     },
     {
       "id": 12,
@@ -65,17 +65,17 @@
     },
     {
       "id": 13,
-      "content": "Sinclair'e cevap vermek yerine yanından geçip kapının önünde durdu."
+      "content": "Faust ise ona cevap vermek yerine önünden geçip bir kapının önünde durdu."
     },
     {
       "id": 14,
       "model": "파우스트",
-      "content": "Malzemeye bakılırsa bu tünelin nispeten yakın zamanda yapıldığı anlaşılıyor."
+      "content": "Malzemeye bakacak olursak, bu tünelin nispeten yakın zamanda yapıldığı anlaşılıyor."
     },
     {
       "id": 15,
       "model": "파우스트",
-      "content": "Muhtemelen N Kuruluşu'nun keşif kuvvetleri kasabayı işgal ettiğinde kazılmıştı."
+      "content": "Muhtemelen N Kuruluşu'nun keşif kuvvetleri kasabayı işgal ettiğinde kazılmış."
     },
     {
       "id": 16,
@@ -100,7 +100,7 @@
     {
       "id": 20,
       "model": "파우스트",
-      "content": "…Ben bu konuda yorum yapacak durumda değilim."
+      "content": "…Ben basitçe, bu konuda yorum yapabilecek durumda değilim."
     }
   ]
 }
