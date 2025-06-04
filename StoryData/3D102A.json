@@ -106,7 +106,7 @@
     },
     {
       "id": 19,
-      "content": "Guido bana doğru gelip boynu kavradı."
+      "content": "Guido bana doğru gelip boynumu kavradı."
     },
     {
       "id": 20,
@@ -189,19 +189,19 @@
     },
     {
       "id": 37,
-      "content": "Arkasına bir çivi saplanmıştı, ve Sinclair arkasında nefes nefese kalmıştı ."
+      "content": "Arkasına bir çivi saplanmıştı, ve Sinclair nefes nefeseydi."
     },
     {
       "id": 38,
-      "content": "Neredeyse bilinci yerinde değildi, az önce yerde yatmasına rağmen—ayağa kalkıp bunu yapabilmesi bir mucizeydi."
+      "content": "Hala nerdeyse baygındı, az önce yerde yatmasına rağmen ayağa kalkıp bunu yapabilmesi bir mucizeydi."
     },
     {
       "id": 39,
-      "content": "Guido'nun ellerinden onun sayesinde kaçabilmiştim…"
+      "content": "Guido'nun ellerinden onun sayesinde kurtulabilmiştim…"
     },
     {
       "id": 40,
-      "content": "Fakat Guido Sinclair'ın çaresiz saldırısına rağmen sağlam duruyordu; nefesini geri topladı ve yavaşça arkasına döndü."
+      "content": "Fakat Guido Sinclair'ın çaresiz saldırısına rağmen sapasağlam duruyordu; nefesini geri topladı ve yavaşça arkasına döndü."
     },
     {
       "id": 41,
@@ -215,12 +215,12 @@
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "Sen de, pis bir kâfirsin…"
+      "content": "Sen, de, pis bir kâfirsin…"
     },
     {
       "id": 43,
       "model": "싱클레어",
-      "content": "Siz… hepiniz çılgınsınız… delisiniz…"
+      "content": "Siz… hepiniz delisiniz… Keçileri kaçırmışsınız…"
     },
     {
       "id": 44,
@@ -234,7 +234,7 @@
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "Senin de onun gibi biri olabileceğini söylemişti."
+      "content": "Senin de onun gibi “Kişi” olabileceğini söylemişti."
     },
     {
       "id": 46,
@@ -277,7 +277,7 @@
     },
     {
       "id": 52,
-      "content": "Ama mermi Guido'nun kafasını deldi."
+      "content": "Mermi Guido'nun kafasına çarptı."
     },
     {
       "id": 53,
@@ -299,10 +299,10 @@
       "teller": "Guido",
       "title": "Nagel und Hammer",
       "content": "Çekiç sizi takip edecek…"
-    },
+    },  
     {
       "id": 56,
-      "content": "Bu sözlerden sonra…"
+      "content": "Bu sözlerle birlikte…"
     },
     {
       "id": 57,
@@ -314,7 +314,7 @@
     },
     {
       "id": 59,
-      "content": "Silahının yere düşme sesi geldi."
+      "content": "Saude'nin silahının yere düştüğünü duydum."
     },
     {
       "id": 60,
@@ -333,7 +333,7 @@
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Hepiniz kötü yalancılarsınız. En azından biraz inanılır yapmaya çalışın."
+      "content": "Hepiniz berbat yalancılarsınız. En azından biraz inanılır yapmaya çalışın."
     },
     {
       "id": 63,
@@ -343,21 +343,21 @@
     {
       "id": 64,
       "model": "이스마엘",
-      "content": "Doğru. Turnike alacağım…"
+      "content": "Doğru. Turnike bulacağım…"
     },
     {
       "id": 65,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Aptal olma. Zarzor parmağımı oynatabiliyorum."
+      "content": "Aptal olmayın. Zar zor parmağımı oynatabiliyorum."
     },
     {
       "id": 66,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Ayrıca, şu Engizisyoncualr gelmeye devam ediyorlar, değil mi? Aşağı doğru ilerlemeniz gerek."
+      "content": "Ayrıca, şu engizisyoncualr gelmeye devam edecekler, değil mi? Aşağı doğru ilerlemeniz gerek."
     },
     {
       "id": 67,
@@ -374,26 +374,26 @@
     {
       "id": 69,
       "model": "이스마엘",
-      "content": "Zarzor parmağını oynatabildiğini sen söyledin. böyle bir durumdayken arkamızı kollamana izin veremem… Lütfen?"
+      "content": "Zar zor parmağını oynatabildiğini sen söyledin. böyle bir durumdayken arkamızı kollamana izin veremem… Lütfen?"
     },
     {
       "id": 70,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Biliyorsun… böyle durumlarda… sadece kafanızı sallayıp gitmeniz gerekiyor."
+      "content": "Bilirsiniz… böyle durumlarda… sadece kafanızı sallayıp gitmeniz gerekiyor."
     },
     {
       "id": 71,
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Neden arkada kalmak için gönüllü olana bu kadar üzülüyorsunuz?"
+      "content": "Neden arkada kalmak için gönüllü olan birine karşı bu kadar üzülüyorsunuz?"
     },
     {
       "id": 72,
       "model": "싱클레어",
-      "content": "Sen… sen sadece…"
+      "content": "Sen… sen böyle…"
     },
     {
       "id": 73,
@@ -407,7 +407,7 @@
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "Faust, lütfen şu aptalları buradan götür."
+      "content": "Faust, lütfen şu ahmakları buradan götür."
     },
     {
       "id": 75,
@@ -426,7 +426,7 @@
       "model": "제복소드",
       "teller": "Saude",
       "title": "LCCB",
-      "content": "…SAdece ona bi ara ziyaret etmesini ve merhaba demesini söyleyin. Ne dediğimi biliyorsun değil mi?"
+      "content": "…Sadece ona bi ara ziyaret etmesini ve merhaba demesini söyleyin. Ne dediğimi anladın değil mi?"
     },
     {
       "id": 78,
@@ -440,11 +440,11 @@
     },
     {
       "id": 80,
-      "content": "Saude'u ölüme bırakarak, Sonraki alana doğru ilerledik."
+      "content": "Saude'u ölümün matemli güvertesine bırakarak, Sonraki alana doğru ilerledik."
     },
     {
       "id": 81,
-      "content": "Hepimiz bir süre sessiz kaldık."
+      "content": "Hepimiz bir süre sessizliğimizi koruduk."
     }
   ]
 }
