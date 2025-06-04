@@ -881,12 +881,12 @@
         {
           "level": 1,
           "name": "Allez",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı Kazan"
                 }
               ]
             },
@@ -896,19 +896,19 @@
         {
           "level": 2,
           "name": "Allez",
-          "desc": "If this birim's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "Eğer bu birimin hızı, hedefin hızından 3 veya daha fazla hızlıysa, Jeton Gücü +1\n[WhenUse] Hedefte 15+ [Burst] ve 3+ [Burst] Miktarı var ise, Bu yetenek efektleri ile [Burst] Gücü vermez, ama vuruşta [Burst] Miktarı harcamaz\n[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] ver"
                 }
               ]
             }
@@ -917,22 +917,22 @@
         {
           "level": 4,
           "name": "Allez",
-          "desc": "If this birim's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 3 Speed difference; max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "Eğer bu birim hedefinden daha hızlı ise, Hız farkına göre Jeton Gücü kazan (Her 3 hız farkı için Jeton Gücü +1; maks 2)\n[WhenUse] Hedefte 15+ [Burst] ve 3+ [Burst] Miktarı var ise, Bu yetenek efektleri ile [Burst] Gücü vermez, ama vuruşta [Burst] Miktarı harcamaz\n[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this birim's Speed is faster than the target's, inflict [Burst] equal to their Speed difference (max 3)"
+                  "desc": "[OnSucceedAttack] "Eğer bu birim hedefinden daha hızlı ise, Hız farkına eşit olarak [Burst] ver (maks 3)"
                 }
               ]
             }
@@ -946,26 +946,26 @@
         {
           "level": 1,
           "name": "Fente",
-          "desc": "[WinDuel] Gain +2 [Breath] Count",
+          "desc": "[WinDuel] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 4 [Burst] Ver"
                 }
               ]
             }
@@ -974,29 +974,29 @@
         {
           "level": 2,
           "name": "Fente",
-          "desc": "If this birim's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "Eğer bu birimin hızı, hedefin hızından 3 veya daha fazla hızlıysa, Jeton Gücü +1\n[WhenUse] Hedefte 15+ [Burst] ve 3+ [Burst] Miktarı var ise, Bu yetenek efektleri ile [Burst] Gücü vermez, ama vuruşta [Burst] Miktarı harcamaz\n[WhenUse] +2 [Breath] Miktarı kazan\n[WinDuel] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 4 [Burst] Ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 7+ Hızda iken, +2 [Burst] Miktarı ver"
                 }
               ]
             }
@@ -1005,32 +1005,32 @@
         {
           "level": 4,
           "name": "Fente",
-          "desc": "If this birim's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "Eğer bu birimin hızı, hedefin hızından 3 veya daha fazla hızlıysa, Jeton Gücü +1\n[WhenUse] Hedefte 15+ [Burst] ve 3+ [Burst] Miktarı var ise, Bu yetenek efektleri ile [Burst] Gücü vermez, ama vuruşta [Burst] Miktarı harcamaz\n[WhenUse] +2 [Breath] Miktarı kazan\n[WinDuel] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +2 [Breath] Miktarı Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">If this birim does not inflict [Burst], +5% Damage on Critical Hit for every [Burst] Potency and Count it would have inflicted</style>"
+                  "desc": "<style=\"highlight\">Eğer bu birim [Burst] vermez ise, Vereceği her [Burst] Gücü ve Miktarı için +5% Kritik Vuruş hasarı</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 4 [Burst] ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict +2 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 7+ Hızda iken, +2 [Burst] Miktarı ver<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1044,29 +1044,29 @@
         {
           "level": 3,
           "name": "Salut",
-          "desc": "If this birim's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not consume [Burst] Count On Hit\n[WinDuel] Gain 5 [Breath]\n- If target has [ConcentratedAttackMeursault], gain 5 additional [Breath]",
+          "desc": "Eğer bu birimin hızı, hedefin hızından 2 veya daha fazla hızlıysa, Jeton Gücü +1\n[WhenUse] Hedefte 15+ [Burst] ve 3+ [Burst] Miktarı var ise, Bu yetenek efektleri ile [Burst] Gücü vermez, ama vuruşta [Burst] Miktarı harcamaz\n[WinDuel] 5 [Breath] Kazan\n- Hedefte [ConcentratedAttackMeursault] var ise, fazladan 5 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] The final Coin deals +10% more damage"
+                  "desc": "[WinDuelAttack] Son Jeton +10% fazladan hasar vurur"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] The final Coin deals +10% more damage"
+                  "desc": "[WinDuelAttack] Son Jeton +10% fazladan hasar vurur"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +10% more damage for every [ConcentratedAttackMeursault] on the Slot"
+                  "desc": "Hedefteki her [ConcentratedAttackMeursault] için +10% hasar vur"
                 },
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta +30% Hasar"
                 }
               ]
             }
@@ -1075,35 +1075,35 @@
         {
           "level": 4,
           "name": "Salut",
-          "desc": "<style=\"highlight\">If this birim's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 3)</style>\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not consume [Burst] Count On Hit\n[WinDuel] Gain 5 [Breath]\n- If target has [ConcentratedAttackMeursault], gain 5 additional [Breath]",
+          "desc": "<style=\"highlight\">Eğer bu birim hedefinden daha hızlı ise, Hız farkına göre Jeton Gücü kazan (Her 2 hız farkı için Jeton Gücü +1; maks 2)\n[WhenUse] Hedefte 15+ [Burst] ve 3+ [Burst] Miktarı var ise, Bu yetenek efektleri ile [Burst] Gücü vermez, ama vuruşta [Burst] Miktarı harcamaz\n[WinDuel] 5 [Breath] Kazan\n- Hedefte [ConcentratedAttackMeursault] var ise, fazladan 5 [Breath] Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] The final Coin deals +10% more damage"
+                  "desc": "[WinDuelAttack] Son Jeton +10% fazladan hasar vurur"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] The final Coin deals +10% more damage"
+                  "desc": "[WinDuelAttack] Son Jeton +10% fazladan hasar vurur"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal <style=\"highlight\">+20%</style> more damage for every [ConcentratedAttackMeursault] on the Slot"
+                  "desc": "Yuvadaki her [ConcentratedAttackMeursault] için hedefe <style=\"highlight\">+20%</style> daha fazla hasar vur"
                 },
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta +30% hasar"
                 },
                 {
-                  "desc": "<style=\"highlight\">- Deal +2% Damage on Critical Hit for every [Burst] on target (max 30%)</style>"
+                  "desc": "<style=\"highlight\">- Hedefteki her [Burst] için +2% Kritik Vuruş hasarı vur (max 30%)</style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[EndSkill] If this Coin defeated the target or destroyed the Part, Reuse this Skill once against a random target (does not activate on Reuse)</style>"
+                  "desc": "<style=\"highlight\">[EndSkill] Eğer bu Jeton bir hedefi yenmiş veya bir parçayı yok etmiş ise, Bu yeteneği rastgele bir hedef üzerinde yeniden kullan (Yeniden kullanmada aktif olmaz)</style>"
                 }
               ]
             }
@@ -1131,7 +1131,7 @@
         {
           "level": 4,
           "name": "Défensive",
-          "desc": "[WhenUse] If this birim's Speed is faster than the target's by 3 or more, Coin Power +2",
+          "desc": "[WhenUse] Eğer bu birimin hızı, hedefin hızından 3 veya daha fazla hızlı ise, Jeton Gücü +2",
           "coinlist": [
             {
               "coindescs": [
