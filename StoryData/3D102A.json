@@ -3,12 +3,12 @@
     {
       "id": 0,
       "place": "11. Eyalet - LŞ Şube İçi",
-      "content": "Çok uzaktan gelmeyen, tanıdık gelen ama bir o kadar da uğursuz olan çivinin yerde sürtünme sesini duydum."
+      "content": "Yine o tanıdık ama bir o kadar da netameli çivi sürtünme sesini yakınlarda bir yerden gelmeye başladı."
     },
     {
       "id": 1,
       "model": "오티스",
-      "content": "…Müdür. Söylememe izin verirseniz, Savaş protokolünüze ekstra bir adım olarak düşmanlarımızın öldüğünü kesinleştirme eklemenizi tavsiye ederim."
+      "content": "…Müdür. Söylememe izin verirseniz, Savaş protokolünüze ekstra bir adım olarak düşmanlarımızın öldüğünü teyit etme aşamasını eklemenizi tavsiye ederim."
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "Sizi Kâfirler… idam edilmeli."
+      "content": "Seni Kâfir… idam edilmelisin."
     },
     {
       "id": 4,
@@ -28,26 +28,26 @@
     },
     {
       "id": 5,
-      "content": "Guido öncekinden daha yavaş bir yürüyüşle gelirken, gözleri tamamen bana bakıyordu."
+      "content": "Guido öncekinden daha yavaş bir şekilde yaklaşıyordu. Nazarı tamamen bana merkuz vaziyette."
     },
     {
       "id": 6,
       "model": "피묻은귀도",
       "teller": "Guido",
       "title": "Nagel und Hammer",
-      "content": "Ve… geri kalanı… arındırılmalı."
+      "content": "Ve… geri kalanı… arınmalı."
     },
     {
       "id": 7,
-      "content": "Saati geri sarmam lazımdı."
+      "content": "Saati geri sarmalıydım."
     },
     {
       "id": 8,
-      "content": "Çoğu Günahkar ya ölüydü yada ağır derecede yaralanmıştı."
+      "content": "Günahkârlar ya ölüydü ya da ağır derecede yaralanmışlardı."
     },
     {
       "id": 9,
-      "content": "Savaşamayan bir müdür ve zarzor hayata tutunan bir kadının bu adamı indirmesi imkansızdı."
+      "content": "Savaşamayan bir müdürün ve hayata tutunmakta güçlük çeken birinin, bu izbandutla başedebilmesi imkansızdı."
     },
     {
       "id": 10,
@@ -62,7 +62,7 @@
     },
     {
       "id": 12,
-      "content": "Ucunu bana doğrulttu."
+      "content": "Namlusunu bana doğrulttu."
     },
     {
       "id": 13,
@@ -106,7 +106,7 @@
     },
     {
       "id": 19,
-      "content": "Guido bana doğru geldi ve boynumdan tuttu."
+      "content": "Guido bana doğru gelip boynu kavradı."
     },
     {
       "id": 20,
@@ -115,7 +115,7 @@
     },
     {
       "id": 21,
-      "content": "Sonra, sanki parçalayacakmış gibi öteki eliyle kafamı tutup sıktı."
+      "content": "Sonra, sanki parçalayacakmış gibi diğer eliyle kafamı tutup sıktı."
     },
     {
       "id": 22,
@@ -124,27 +124,27 @@
     },
     {
       "id": 23,
-      "content": "Gıcırtılar, çatlaklar, takırtılar kafamın içinde çalıyor."
+      "content": "Gıcırtılar, çatlaklar ve takırtılar kafamın içinde yankılamnıyor,"
     },
     {
       "id": 24,
-      "content": "Parmaklarının beni parçalamaya santimetreler kalması beni korkutuyor."
+      "content": "parmaklarının beni parçalamasına milim kalmış olamsı beni korkutuyordu."
     },
     {
       "id": 25,
-      "content": "Buraya kadar mıydı? Böyle mi öleceğim?"
+      "content": "Buraya kadar mıydı? Böyle mi ölecektim?"
     },
     {
       "id": 26,
-      "content": "Bu… ben daha iyi bir müdür olsaydım daha farklı olabilr miydi?"
+      "content": "Bu olaylar silsilesi… ben daha iyi bir müdür olsaydım daha farklı gelişebilir miydi?"
     },
     {
       "id": 27,
-      "content": "Heathcliff'in bana sertçe kafamın içinde ne olduğunu görebilmek için açıp açamayacağını sorduğunu hatırlıyorum."
+      "content": "Heathcliff'in bana Tehditkârca kafamın içinde ne olduğunu görebilmek için açıp açamayacağını sorduğunu hatırlıyorum."
     },
     {
       "id": 28,
-      "content": "Kötü şans, Heathcliff."
+      "content": "Şansına küs, Heathcliff."
     },
     {
       "id": 29,
@@ -153,7 +153,7 @@
     {
       "id": -1,
       "model": "//효과음",
-      "content": "Tak"
+      "content": "Thwack"
     },
     {
       "id": 30,
