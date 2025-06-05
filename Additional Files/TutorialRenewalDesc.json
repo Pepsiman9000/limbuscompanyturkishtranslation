@@ -342,51 +342,51 @@
     },
     {
       "id": "tuto_01_03_01_01",
-      "content": "In addition to Attack Skills, each unit also has <color=#f8c200><Defense Skills><color=#ebcaa2>."
+      "content": "Saldırı Yeteneklerinin yanı sıra, her birimin bir <color=#f8c200><Defans Yeteneği><color=#ebcaa2> de vardır."
     },
     {
       "id": "tuto_01_03_01_02",
-      "content": "Lightly tap a Sinner's portrait at the bottom of the Dashboard to swap their bottom Skill with a <color=#f8c200><Defense Skill><color=#ebcaa2>."
+      "content": "Bir <color=#f8c200><Defansif Yetenek><color=#ebcaa2> oluşturmak için Panelde bir Günahkârın portresine dokun.\nDefansif Yetenek, Günahkârın alttaki Yeteneğinin yerine geçer."
     },
     {
       "id": "tuto_01_03_01_03",
-      "content": "First, let's try selecting Sinner Meursault's portrait to generate a <color=#f8c200><Guard><color=#ebcaa2> Skill."
+      "content": "İlk olarak, bir <color=#f8c200><Korunma><color=#ebcaa2> Yeteneği oluşturmak için Günahkâr Meursault'un portresine dokun."
     },
     {
       "id": "tuto_01_03_01_04",
-      "content": "Now, select Faust's portrait to generate an <color=#f8c200><Evade><color=#ebcaa2> Skill."
+      "content": "Ardından, bir <color=#f8c200><Kaçınma><color=#ebcaa2> Yeteneği oluşturmak için en zeki Günahkârın portresine dokun."
     },
     {
       "id": "tuto_01_03_01_05",
-      "content": "Finally, select Sinner Heathcliff's portrait to generate a <color=#f8c200><Counter><color=#ebcaa2> Skill."
+      "content": "Son olarak, bir <color=#f8c200><Karşı Saldırı><color=#ebcaa2> Yeteneği oluşturmak için Günahkâr Heathcliff'in portresine dokun."
     },
     {
       "id": "tuto_01_03_01_06_title",
-      "content": "Defense Skills: Guard"
+      "content": "Defansif Yetenekler: Korunma"
     },
     {
       "id": "tuto_01_03_01_07",
-      "content": "Use the <color=#f8c200><Guard><color=#ebcaa2> Skill to gain <color=#f8c200>Shield<color=#ebcaa2> equal to its Power.\nDamage will be absorbed by the Shield first before affecting the unit's HP."
+      "content": "Bir <color=#f8c200><Korunma><color=#ebcaa2> Yeteneği kullandığında, Gücüne eşit miktarda <color=#f8c200>Kalkan<color=#ebcaa2> kazanırsın.\nBu kalkan gelen hasarın HP'ye işlemeden önce emilmesini sağlar."
     },
     {
       "id": "tuto_01_03_01_08_title",
-      "content": "Defense Skills: Evade"
+      "content": "Defansif Yetenekler: Kaçınma"
     },
     {
       "id": "tuto_01_03_01_09",
-      "content": "When using a <color=#f8c200><Evade><color=#ebcaa2> Skill, if its Final Power is greater than or equal to that of the enemy's Skill, the unit will <color=#f8c200>completely ignore<color=#ebcaa2> the enemy's attack, taking no damage from it.\nEvade Skills flip their Coin once for every enemy Coinflip.\nWarning: If an Evade-type Defense Skill's Final Power is lower than the enemy's attack, it will fail, and the enemy's attack will strike with full force."
+      "content": "Bir <color=#f8c200><Kaçınma><color=#ebcaa2> Yeteneği kullandığında, eğer Final Gücü rakibin saldırısına eşit veya daha fazla ise, rakibin saldırısından hiçbir hasar almayarak <color=#f8c200>tamamen kaçınırsın<color=#ebcaa2>.\nKaçınma Yetenekleri rakibin her Jetonu için bir kez daha kendi Jetonunu atar, kaçınmaya devam ettiği sürece Yetenek bozulmaz.\nDikkat: Eğer bir Kaçınma Yeteneğinin Final Gücü rakibin saldırısından az kalırsa, kaybeder. Rakibin saldırısı karşılıksızmış gibi tüm gücüyle vurur ve Kaçınma Yeteneği bozulur."
     },
     {
       "id": "tuto_01_03_01_10_title",
-      "content": "Defense Skills: Counter"
+      "content": "Defansif Yetenekler: Karşı Saldırı"
     },
     {
       "id": "tuto_01_03_01_11",
-      "content": "<color=#f8c200><Counter><color=#ebcaa2> Skills allow the enemy to strike first, <color=#f8c200>then perform an Unopposed Attack against the attacker<color=#ebcaa2>.\nWarning: If the unit is Staggered by the enemy's attack, the Counter will not activate."
+      "content": "<color=#f8c200><Karşı Saldırı><color=#ebcaa2> Yeteneği rakibin vurmasına izin verir, fakat ardından ona karşı <color=#f8c200>karşılıksız bir saldırı yapar<color=#ebcaa2>.\nDikkat: Eğer birlik rakibin saldırısı tarafından Sersemleme geçirirse, Karşı Saldırı etkinleşmez."
     },
     {
       "id": "tuto_01_03_01_12",
-      "content": "Lightly tap the Sinner's portrait again to <color=#f8c200>cancel the generated <Defense Skill><color=#ebcaa2>."
+      "content": "<color=#f8c200>Oluşmuş <Defansif Yeteneği> iptal etmek için<color=#ebcaa2>, Günahkârın portresine bir kez daha dokun."
     },
     {
       "id": "tuto_01_03_01_13",
