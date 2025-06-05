@@ -4,27 +4,27 @@
             "id": 0,
             "place": "Inside the Pallid Whale",
             "model": "오티스",
-            "content": "Men! We will commence a search. This boat must be found as soon as possible."
+            "content": "Hepiniz! Bir arama başlatıyoruz. Bot bulanabilecek en hızlı şekilde bulunmalı."
         },
         {
             "id": 1,
             "model": "뫼르소",
-            "content": "No, there is no need for a search."
+            "content": "Hayır, arama yapmaya gerek yok."
         },
         {
             "id": 2,
             "model": "뫼르소",
-            "content": "400 meters to your right. There is the boat—"
+            "content": "Sağına doğru 400 metre. Bot orada—"
         },
         {
             "id": 3,
             "model": "오티스",
-            "content": "Quite observant you are. Let's not waste any time and return to the boat."
+            "content": "Oldukça dikkatlisin. Hadi daha fazla zaman kaybetmeden botumuza gidelim."
         },
         {
             "id": 4,
             "model": "뫼르소",
-            "content": "Allow me to finish. There is the boat in a ditch. 75% of its hull integrity has been breached and its remains are scattered on the ground."
+            "content": "Bitirmeme izin ver. Bot bir hendeğin içerisinde. Bütününün %75'i parçalara ayrılmış ve yerlere dağışmış durumda."
         },
         {
             "id": 5,
@@ -34,30 +34,30 @@
         {
             "id": 6,
             "model": "홍루",
-            "content": "Wow, so this was a piece of our boat, huh?"
+            "content": "Vay be, yani bu bizim botumuzun bir parçasıydı, he?"
         },
         {
             "id": 7,
             "model": "파우스트",
-            "content": "... That vessel was designed to be used more than three times."
+            "content": "... 3 kereden fazla kullanılmak için tasarlanmıştı."
         },
         {
             "id": 8,
-            "content": "Hong Lu was pointing at the pitiful sight of an absolutely busted looking pieces of the propeller..."
+            "content": "Hong Lu, acısanı görünüşte olan pervaneye doğru işaret ediyordu..."
         },
         {
             "id": 9,
-            "content": "... Well, to be exact, busted pieces of the propeller and what appeared to once have been our boat's engines. Something comes to a sputtering halt amidst the wreckage."
+            "content": "... Yani, dürüst olursak, bir zamanlar botumuzun motorunda olan pervanelerin parçaları. Enkazın ortasında birşey duruyor."
         },
         {
             "id": 10,
             "model": "이상",
-            "content": "Thus it rests here forevermore..."
+            "content": "Böylece sonsuza kadar burada yatacak..."
         },
         {
             "id": 11,
             "model": "이상",
-            "content": "This would have been quite the painful sight for Mika and Rain."
+            "content": "Mika ve Rain için gerçektende üzücü bir manzara olurdu."
         },
         {
             "id": 12,
@@ -67,32 +67,32 @@
         {
             "id": 13,
             "model": "단테",
-            "content": "<... This is a pretty painful sight for us, too.>"
+            "content": "<... Bizim için de gayet acı verici bir manzara.>"
         },
         {
             "id": 14,
             "model": "싱클레어",
-            "content": "Uh, so... What do we..."
+            "content": "Uh, yani... Şimdi ne..."
         },
         {
             "id": 15,
             "model": "이스마엘",
-            "content": "Manager. You can still sense the Golden Bough, right?"
+            "content": "Müdür. Hala Altın Dalı hissedebiliyorsun, değil mi?"
         },
         {
             "id": 16,
             "model": "단테",
-            "content": "<Yeah. Unlike at the Lobotomy Corp. Branch, I can definitely feel that it's somewhere 'in here'. But it's also pretty far away, so I can't tell where it exactly—>"
+            "content": "<Evet. Lobotomi Kuruluşu'nun Şubesi'ne nazaran, Burada gerçekten 'birşeyin' olduğunu seziyorum. Ama yinede uzakta, bu yüzden tam olarak nerede olduğunu sezemiyorum—>"
         },
         {
             "id": 17,
             "model": "이스마엘",
-            "content": "... Great. Are you ready to turn the clock?"
+            "content": "... Güzel. Saati çevirmeye hazır mısın?"
         },
         {
             "id": 18,
             "model": "단테",
-            "content": "<What's that about turning the clock?>"
+            "content": "<Saati çevirmeye hazırlanmak derken?>"
         },
         {
             "id": 19,
@@ -101,11 +101,11 @@
         },
         {
             "id": 20,
-            "content": "The Whale's pallor had taken over their bodies and minds."
+            "content": "Balina'nın solukluğu bedenlerini ve zihinlerini ele geçirmişti."
         },
         {
             "id": 21,
-            "content": "Of course. It only makes sense that this place is crawling with Mermaids."
+            "content": "Tabii ki. Tüm mekanın Denizkızları ile dolup taşması mantıklı."
         }
     ]
 }
