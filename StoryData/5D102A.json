@@ -2,121 +2,121 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Inside the Pallid Whale",
+            "place": "Soluk Balina'nın İçi",
             "model": "그레고르",
-            "content": "Haah... Yeah, let's bounce before more of those Mermaids show up."
+            "content": "Haah... Evet, hadi daha fazla Denizkızı gelmeden kaçalım."
         },
         {
             "id": 1,
             "model": "싱클레어",
-            "content": "Bounce where...? We're trapped inside a Whale."
+            "content": "Nereye...? Bir Balina'nın içerisindeyiz."
         },
         {
             "id": 2,
             "model": "로쟈",
-            "content": "Are we... are we gonna end up looking like them, too? You know, we've been... 'devoured'."
+            "content": "Biz... bizde onlar gibi olmayacağız, değil mi? Biliyorsunuz ki, biz de... 'yutulduk'."
         },
         {
             "id": 3,
             "model": "파우스트",
-            "content": "The Golden Bough inside Dante's head is likely counteracting the Pallidification effects on the Sinners' bodies."
+            "content": "Dante'nin kafasının içerisindeki altın dal Soluklaşma efektlerine karşı koyuyor."
         },
         {
             "id": 4,
             "model": "파우스트",
-            "content": "But there is no guarantee that this defensive effect would last forever."
+            "content": "Ama bunun sonsuza kadar devam edeceği konusunda bir garantimiz yok."
         },
         {
             "id": 5,
             "model": "파우스트",
-            "content": "We must take into account that we are in an unknown environment."
+            "content": "Bilinmeyen bir çevrede olduğumuzu unutmamalıyız."
         },
         {
             "id": 6,
-            "content": "In other words, spending too long here could turn us into Mermaids, just like them..."
+            "content": "Başka bir şekilde söyleyecek olursak, burada çok uzun süre kalmak bizi Denizkızı'na çevirebilir, aynı onlar gibi..."
         },
         {
             "id": 7,
-            "content": "I wasn't sure if I could bring back a Sinner that's turned into a Mermaid."
+            "content": "Denizkızı'na dönüşmüş bir Günahkârı geri getirebileceğimden emin değilim."
         },
         {
             "id": 8,
             "model": "단테",
-            "content": "<But... Where do we even go?>"
+            "content": "<Ama... Nereye gideceğiz ki?>"
         },
         {
             "id": 9,
             "model": "단테",
-            "content": "<I don't have even the slightest idea as to where we might be...>"
+            "content": "<Nerede olduğumuz hakkında en ufak bir fikrim yok...>"
         },
         {
             "id": 10,
             "model": "홍루",
-            "content": "Weird... I didn't know it could rain inside a Whale's belly."
+            "content": "Garip... Bir Balina'nın karnında yağmur yağabileceğini bilmezdim."
         },
         {
             "id": 11,
-            "content": "I was still unsure where to go, so much so that I was starting to feel completely lost... when Hong Lu suddenly blurted something about rain."
+            "content": "Nereye gideceğimiz hakkında emin değildim, tamamen kaybolmuş gibi hissediyordum... ama Hong lu bi anda yağmurla alakalı birşey dedi."
         },
         {
             "id": 12,
             "model": "단테",
-            "content": "<... What are you talking about?>"
+            "content": "<... Ne diyorsun?>"
         },
         {
             "id": 13,
             "model": "홍루",
-            "content": "Oh, it's just that I felt a few droplets of water on my shoulder."
+            "content": "Oh, sadece omzumda birkaç su damlası hissediyorum."
         },
         {
             "id": 14,
             "model": "히스클리프",
-            "content": "... Wait."
+            "content": "... Bekle."
         },
         {
             "id": 15,
             "model": "히스클리프",
-            "content": "So this is the first place we landed on after the Whale swallowed us whole, innit?"
+            "content": "Balina bizi yuttuktan sonra indiğimiz ilk yer burası, di mi?"
         },
         {
             "id": 16,
             "model": "단테",
-            "content": "<Right...>"
+            "content": "<Evet...>"
         },
         {
             "id": 17,
             "model": "히스클리프",
-            "content": "Sorry, I just sometimes need someone to confirm my common senses."
+            "content": "Kusura bakmayın ya, Sadece bazen kafamı toparlamam gerekiyor."
         },
         {
             "id": 18,
             "model": "히스클리프",
-            "content": "When you eat something... where does it usually land first?"
+            "content": "Bi' şeyi yediğinde... yemek ilk nereye düşer?"
         },
         {
             "id": 19,
             "model": "로쟈",
-            "content": "My stomach, of course. My poor, starving stomach..."
+            "content": "Mideme, takibiikide. Benim acınası, aç mideme..."
         },
         {
             "id": 20,
             "model": "파우스트",
-            "content": "... I see your point, Heathcliff."
+            "content": "... Demek istediğini anladım, Heathcliff."
         },
         {
             "id": 21,
             "model": "파우스트",
-            "content": "The stomach constantly secretes acid in order to digest the food effectively."
+            "content": "Mide sürekli içerisindekileri sindirmek için asit salgılıyor."
         },
         {
             "id": 22,
             "model": "싱클레어",
-            "content": "Yeah, I think I learned about it in school. It's usually some kind of powerful acid..."
+            "content": "Evet, Sanırım okulda öğrenmiştim. Genellikle güçlü bir asit oluyor..."
         },
         {
             "id": 23,
             "model": "싱클레어",
-            "content": "That... dissolves everything it touches..."
+            "content": "Dokunduğu... herşeyi eriten..."
         },
         {
             "id": 24,
@@ -126,31 +126,31 @@
         {
             "id": 25,
             "model": "홍루",
-            "content": "So that's why my clothes melted where the water touched. Feels a bit prickly, too."
+            "content": "Yani bu yüzden ıslanan yerdeki kıyafetim eridi. Biraz da acıtıyor."
         },
         {
             "id": 26,
-            "content": "I stared at Hong Lu's shoulder. Something had burrowed a hole there, and the surrounding skin was sizzling and melting away."
+            "content": "Hong Lu'nun omzuna baktım. Birşey oraya bir delik açmıştı, ve etrafındaki deri de erimeye başlamıştı."
         },
         {
             "id": 27,
             "model": "돈키호테",
-            "content": "Are we fated to become porridge... so soon after our arrival...?"
+            "content": "Bir lapâya dönmeye mahkummuyuz... gelişimizden bu kadar kısa süre sonra...?"
         },
         {
             "id": 28,
             "model": "파우스트",
-            "content": "There is one positive discovery, however. This creature appears to share similar biological mechanisms and shapes as an ordinary organic lifeform."
+            "content": "Fakat, olumlu bir keşfimiz var. Bu yaratık organik bir yaşam formu gibi bir yapıya sahip."
         },
         {
             "id": 29,
             "model": "단테",
-            "content": "<Everyone... We gotta run...!>"
+            "content": "<Hepiniz... koşun...!>"
         },
         {
             "id": 30,
             "model": "단테",
-            "content": "<I don't care how many pieces of you there are left, just make sure that there's something left for me to bring back...>"
+            "content": "<Kaç parçanız kaldığı umrumda değil, sadece sizi geri getirebileceğim kadar bırakın...>"
         }
     ]
 }
