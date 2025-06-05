@@ -8,54 +8,54 @@
         },
         {
             "id": 1,
-            "content": "Heathcliff looked out the rattling bus window with a dour expression."
+            "content": "Heathcliff takırdayan otobüs camından sıkılmış bir surat ifadesiyle dışarıya bakıyordu."
         },
         {
             "id": 2,
-            "content": "Though it wasn't raining, the world outside was grey and opaque like an overcast sky. Black, pungent clouds of smoke had long devoured the atmosphere."
+            "content": "Yağmur yağmıyor olsada, dışarıdaki dünya kapalı bi gökyüzü gibi gri ve opaktı. Siyah, keskin duman bulutları atmosferi çoktan yutmuştu."
         },
         {
             "id": 3,
-            "content": "So this is the kind of place Heathcliff used to roam..."
+            "content": "Demek Heathcliff böyle yerlerde geziniyordu..."
         },
         {
             "id": 4,
             "model": "이상",
-            "content": "The color remains grey this deep into the heart of the Backstreets. I recall with quite the certitude that the T Corp. I arrived at after my departure from S Corp. was sepia-hued."
+            "content": "Arka sokakların bu derinliklerinde bile renk hala gri kalıyor. Kesinlikle hatırlıyorum ki S Kuruluşundan ayrıldığımda, vardığım T Kuruluşu sepya tonlarındaydı."
         },
         {
             "id": 5,
             "model": "파우스트",
-            "content": "This phenomenon can be explained by the fact that the technology used to drain our saturation is situated at the center of T Corp. It has been reported that such variations in hue may occur in areas further away from its sphere of influence."
+            "content": "Bu olgu, renk yoğunluğumuzu azaltmak için kullanılan teknolojinin T Kuruluşunun merkezinin yer almasıyla açıklanabilir. Bu tür renk tonu değişikliklerinin etki alanından uzak bölgelerde meydana gelebileceği bildirilmiştir."
         },
         {
             "id": 6,
             "model": "이상",
-            "content": "Ah, I understand. Then..."
+            "content": "Ah, anlıyorum. O zaman..."
         },
         {
             "id": 7,
-            "content": "Two other Sinners immediately jumped in on the conversation to direct it away from whichever obscure subject Yi Sang and Faust were about to steer it into."
+            "content": "Diğer iki günahkâr hemen sohbete dahil oldular ve Yi Sang ile Faust'un açağı belirsiz konudan uzaklaştırdılar."
         },
         {
             "id": 8,
             "model": "로쟈",
-            "content": "OH! Right, I had something to ask you guys!"
+            "content": "AH! Tabi, size sormam gereken birşey vardı!"
         },
         {
             "id": 9,
             "model": "그레고르",
-            "content": "Ohh, yeah! Uh, m-me too."
+            "content": "Ahh, evet! Iı, b-bende."
         },
         {
             "id": 10,
             "model": "로쟈",
-            "content": "What? I-I mean yeah! That's, uh... oh, yeah. The buildings here look a little different from where Yi Sang used to live... so I'm just wondering if there's anything up with that."
+            "content": "Ne? Y-yani evet! bu, şey... ah, evet. Binalar Yi Sang'ın yaşadığı yerdekilere kıyasla farklı duruyor... O yüzden bu konuyla alakalı birşey olup olmadığını merak ediyordum."
         },
         {
             "id": 11,
             "model": "그레고르",
-            "content": "Exactly! That's exactly what I was about to ask."
+            "content": "Kesinlikle! Kesinlikle bunu soracaktım."
         },
         {
             "id": 12,
@@ -64,122 +64,122 @@
         },
         {
             "id": 13,
-            "content": "It's been a while since we started on this journey together. I was starting to grow more comfortable with the Sinners."
+            "content": "Bu maceraya beraber atılalı uzun zaman olmuştu, Günahkarlarla daha rahat olmaya başlamıştım."
         },
         {
             "id": 14,
-            "content": "Maybe that's why I found Gregor and Rodya's valiant effort to keep this conversation remotely comprehensible to most occupants of the bus... pretty amusing."
+            "content": "Belkide bu yüzden Rodya ile Gregor'un bu konuyu otobüstekiler için uzaktan da olsa anlaşılabilir kılmak için gösterdikleri üstün çabayı oldukça eğlenceli buldum."
         },
         {
             "id": 15,
             "model": "이상",
-            "content": "Ah, allow me to elaborate, then. To discuss this subject, we must first—"
+            "content": "Ah, anlatmama izin ver o zaman. Bu konuyu tartışmak için öncelikle–"
         },
         {
             "id": 16,
-            "content": "And Yi Sang, unknowingly shooting down their effort by jumping into another complicated discussion, was another sight I'd become familiar with."
+            "content": "Ve Yi Sang, bilmeden başka bir karmaşık konuya atlayarak çabalarını boşa çıkarmaları da aşina olduğum bir başka görüntüydü."
         },
         {
             "id": 17,
-            "content": "While I was curious about the technology T Corp. uses to drain our color, and about the behind-the-scenes of T Corp.'s operations..."
+            "content": "T Kuruluşunun rengimizi çekmek için kullandığı teknolojiyi ve arkada neler döndüğünü bende merak ediyordum."
         },
         {
             "id": 18,
-            "content": "... it wasn't something that could be answered now. I decided to table that discussion for later."
+            "content": "... şimdilik cevaplanacak birşey değildi. Bu konuyu sonraya ertelemeye karar verdim."
         },
         {
             "id": 19,
-            "content": "Instead, I approached Heathcliff. He was sitting all by his lonesome, clearly in deep thought."
+            "content": "Onun yerine Heathcliff'e doğru yaklaştım. Tek başına oturmuş, kesinlikle düşüncelerinde kaybolmuştu."
         },
         {
             "id": 20,
             "model": "히스클리프",
-            "content": "... Hm? Ah, Clockhead."
+            "content": "... Hm? Ah, Saatkafa."
         },
         {
             "id": 21,
             "model": "단테",
-            "content": "<Still wracking your head about what to wear to Wuthering Heights?>"
+            "content": "<Hala daha Uğultulu Tepelerde ne giyeceğini mi düşünüyosun?>"
         },
         {
             "id": 22,
             "model": "히스클리프",
-            "content": "What?! N-no. It's nothing like that."
+            "content": "Ne!? H-hayır. Öyle bişi değil."
         },
         {
             "id": 23,
-            "content": "Heathcliff protested, jumping up from his seat. Looks like I hit the nail right on the head."
+            "content": "Heathcliff itiraz etti, oturduğu yerden fırladı. Galiba çiviyi tamda yerine çaktım."
         },
         {
             "id": 24,
             "model": "히스클리프",
-            "content": "Fine, I was. A little bit. But... I was mostly reminiscing."
+            "content": "Peki, düşünüyordum. Birazcık. Fakat... çoğunlukla eski günleri yad ediyordum."
         },
         {
             "id": 25,
-            "content": "Mm, I do remember hearing that Heathcliff used to live in the Backstreets."
+            "content": "Mm, Heathcliff'in Arka Sokaklarda yaşadığını hatırlıyorum."
         },
         {
             "id": 26,
-            "content": "A part of some... Syndicate, if I recall correctly."
+            "content": "Doğru hatırlıyorsam... Bir çetenin parçasıydı."
         },
         {
             "id": 27,
-            "content": "Vergilius did say that we were going through the Backstreets instead of going straight to the T Corp. Nest for a reason. And that it was because of the company's orders."
+            "content": "Vergilius T Kuruluşunun yuvasından doğruca gitmek yerine Arka Sokaklardan geçmemizin bir sebebi olduğunu söylemişti. Ve bunun şirketin emirleri olduğunu söylemişti"
         },
         {
             "id": 28,
             "model": "단테",
-            "content": "<... Maybe there's something for us to do here? Heathcliff did spend some time in the T Corp. Backstreets, after all.>"
+            "content": "<... Belkide burada yapabileceğimiz birşey vardır? Heathcliff T Kuruluşunun Arka Sokaklarında zaman geçirdi ne de olsa.>"
         },
         {
             "id": 29,
             "model": "단테",
-            "content": "<Maybe we'll run into a Golden Bough here...?>"
+            "content": "<Belkide bir Altın Dal'a denk geliriz...?>"
         },
         {
             "id": 30,
             "model": "이스마엘",
-            "content": "No chance. If the Golden Bough was as common as any other twig in some Backstreets, why'd we be doing any of this globetrotting waste of time?"
+            "content": "İmkanı yok. Eğer ki Altın Dal yerdeki bi dal kadar sıradan birşey olsaydı neden bu kadar dolaşıp zamanımızı harcardık ki?"
         },
         {
             "id": 31,
             "model": "단테",
-            "content": "<T-true, I guess...>"
+            "content": "<H-haklısın...>"
         },
         {
             "id": 32,
             "model": "히스클리프",
-            "content": "... Besides, Wuthering Heights is... quite the manor in more ways than one. You won't find it anywhere near some run-down Backstreets like this."
+            "content": "... Üstelik, Uğultulu Tepeler... birden fazla açıdan oldukça iyi bir malikâne. Bunu, Böyle bakımsız bir Arka Sokağın yakınlarında bulamazsınız."
         },
         {
             "id": 33,
             "model": "히스클리프",
-            "content": "There's a chasm of wealth between these poor alleyway sods and... them."
+            "content": "Bu yoksul sokak serserileriyle... onlar arasında bir servet uçurumu var."
         },
         {
             "id": 34,
             "model": "히스클리프",
-            "content": "After all, they've sent me an invitation. Quite obvious that we'll find our Golden Bough in that manor, innit? Or at least somewhere in the same Nest?"
+            "content": "Sonuçta bana bi davetiye gönderdiler. Altın Dal'ı o malikânede bulacağımız çok açık, di'mi? Ya da en azından aynı Yuvanın bi' yerlerinde?"
         },
         {
             "id": 35,
             "model": "파우스트",
-            "content": "... Correct. We will eventually travel to T Corp.'s Nest."
+            "content": "... Doğru. Eninde sonunda T Kuruluşunun Yuvasına gideceğiz."
         },
         {
             "id": 36,
-            "content": "Heathcliff continued to speak in a low voice. The hubbub from outside the bus seemed to blend with his words, turning into a mass of murmurs. There was a sort of commotion outside..."
+            "content": "Heathcliff alçak sesle konuşmaya devam etti. Otobüsün dışından gelen gürültü onun sözleriyle karışıyor, bir mırıltı yığınına dönüşüyordu. Dışarıda bir tür kargaşa vardı..."
         },
         {
             "id": 37,
             "model": "히스클리프",
-            "content": "Before we talk about wherever our eventual destination is, we'll have to clear the road of some blockage."
+            "content": "Nihai varış noktamız neresi diye konuşmadan önce, yoldaki bazı sorunları halletmemiz gerekicek gibi."
         },
         {
             "id": 38,
             "model": "베르길리우스",
-            "content": "Your intuition is half-right, Heathcliff."
+            "content": "Sezgilerin yarı yarıya doğru, Heathcliff."
         },
         {
             "id": 39,
@@ -188,27 +188,27 @@
         },
         {
             "id": 40,
-            "content": "Heathcliff, who was muttering to himself in an uncharacteristic daze, jolted awake."
+            "content": "Kendine özgü bir sersemlik içinde kendince mırıldanan Heathcliff, sarsılarak kendine geldi."
         },
         {
             "id": 41,
             "model": "히스클리프",
-            "content": "Bloody hell... what's wrong with you and the vroom-vroom lass? Neither of you ever do anything with a proper forewarning."
+            "content": "Kahretsin... Senle şu vrum-vrum kızı arasındaki şu sorun ne ya? ikinizde uyarmadan bişi yapıyosunuz."
         },
         {
             "id": 42,
             "model": "베르길리우스",
-            "content": "I simply did not see the necessity in warning you."
+            "content": "Kısaca seni uyarmayı gerekli görmedim."
         },
         {
             "id": 43,
             "model": "베르길리우스",
-            "content": "Anyway, those outside the bus are our 'targets'."
+            "content": "Herneyse, otobüsün dışındakiler bizim 'hedefimiz'."
         },
         {
             "id": 44,
             "model": "단테",
-            "content": "<Targets...?>"
+            "content": "<Hedefimiz...?>"
         },
         {
             "id": 45,
