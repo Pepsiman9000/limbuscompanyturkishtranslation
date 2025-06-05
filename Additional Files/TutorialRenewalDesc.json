@@ -346,19 +346,19 @@
     },
     {
       "id": "tuto_01_03_01_02",
-      "content": "Bir <color=#f8c200><Defansif Yetenek><color=#ebcaa2> oluşturmak için Panelde bir Günahkârın portresine dokun.\nDefansif Yetenek, Günahkârın alttaki Yeteneğinin yerine geçer."
+      "content": "Bir <color=#00bfff><Defansif Yetenek><color=#ebcaa2> oluşturmak için Panelde bir Günahkârın portresine dokun.\nDefansif Yetenek, Günahkârın alttaki Yeteneğinin yerine geçer."
     },
     {
       "id": "tuto_01_03_01_03",
-      "content": "İlk olarak, bir <color=#f8c200><Korunma><color=#ebcaa2> Yeteneği oluşturmak için Günahkâr Meursault'un portresine dokun."
+      "content": "İlk olarak, bir <color=#00bfff><Korunma><color=#ebcaa2> Yeteneği oluşturmak için Günahkâr Meursault'un portresine dokun."
     },
     {
       "id": "tuto_01_03_01_04",
-      "content": "Ardından, bir <color=#f8c200><Kaçınma><color=#ebcaa2> Yeteneği oluşturmak için en zeki Günahkârın portresine dokun."
+      "content": "Ardından, bir <color=#00bfff><Kaçınma><color=#ebcaa2> Yeteneği oluşturmak için en zeki Günahkârın portresine dokun."
     },
     {
       "id": "tuto_01_03_01_05",
-      "content": "Son olarak, bir <color=#f8c200><Karşı Saldırı><color=#ebcaa2> Yeteneği oluşturmak için Günahkâr Heathcliff'in portresine dokun."
+      "content": "Son olarak, bir <color=#00bfff><Karşı Saldırı><color=#ebcaa2> Yeteneği oluşturmak için Günahkâr Heathcliff'in portresine dokun."
     },
     {
       "id": "tuto_01_03_01_06_title",
@@ -366,7 +366,7 @@
     },
     {
       "id": "tuto_01_03_01_07",
-      "content": "Bir <color=#f8c200><Korunma><color=#ebcaa2> Yeteneği kullandığında, Gücüne eşit miktarda <color=#f8c200>Kalkan<color=#ebcaa2> kazanırsın.\nBu kalkan gelen hasarın HP'ye işlemeden önce emilmesini sağlar."
+      "content": "Bir <color=#00bfff><Korunma><color=#ebcaa2> Yeteneği kullandığında, Gücüne eşit miktarda <color=#00bfff>Kalkan<color=#ebcaa2> kazanırsın.\nBu kalkan gelen hasarın HP'ye işlemeden önce emilmesini sağlar."
     },
     {
       "id": "tuto_01_03_01_08_title",
@@ -374,7 +374,7 @@
     },
     {
       "id": "tuto_01_03_01_09",
-      "content": "Bir <color=#f8c200><Kaçınma><color=#ebcaa2> Yeteneği kullandığında, eğer Final Gücü rakibin saldırısına eşit veya daha fazla ise, rakibin saldırısından hiçbir hasar almayarak <color=#f8c200>tamamen kaçınırsın<color=#ebcaa2>.\nKaçınma Yetenekleri rakibin her Jetonu için bir kez daha kendi Jetonunu atar, kaçınmaya devam ettiği sürece Yetenek bozulmaz.\nDikkat: Eğer bir Kaçınma Yeteneğinin Final Gücü rakibin saldırısından az kalırsa, kaybeder. Rakibin saldırısı karşılıksızmış gibi tüm gücüyle vurur ve Kaçınma Yeteneği bozulur."
+      "content": "Bir <color=#00bfff><Kaçınma><color=#ebcaa2> Yeteneği kullandığında, eğer Final Gücü rakibin saldırısına eşit veya daha fazla ise, rakibin saldırısından hiçbir hasar almayarak <color=#f8c200>tamamen kaçınırsın<color=#ebcaa2>.\nKaçınma Yetenekleri rakibin her Jetonu için bir kez daha kendi Jetonunu atar, kaçınmaya devam ettiği sürece Yetenek bozulmaz.\nDikkat: Eğer bir Kaçınma Yeteneğinin Final Gücü rakibin saldırısından az kalırsa, kaybeder. Rakibin saldırısı karşılıksızmış gibi tüm gücüyle vurur ve Kaçınma Yeteneği bozulur."
     },
     {
       "id": "tuto_01_03_01_10_title",
@@ -382,11 +382,11 @@
     },
     {
       "id": "tuto_01_03_01_11",
-      "content": "<color=#f8c200><Karşı Saldırı><color=#ebcaa2> Yeteneği rakibin vurmasına izin verir, fakat ardından ona karşı <color=#f8c200>karşılıksız bir saldırı yapar<color=#ebcaa2>.\nDikkat: Eğer birlik rakibin saldırısı tarafından Sersemleme geçirirse, Karşı Saldırı etkinleşmez."
+      "content": "<color=#00bfff><Karşı Saldırı><color=#ebcaa2> Yeteneği rakibin vurmasına izin verir, fakat ardından ona karşı <color=#f8c200>karşılıksız bir saldırı yapar<color=#ebcaa2>.\nDikkat: Eğer birlik rakibin saldırısı tarafından Sersemleme geçirirse, Karşı Saldırı etkinleşmez."
     },
     {
       "id": "tuto_01_03_01_12",
-      "content": "<color=#f8c200>Oluşmuş <Defansif Yeteneği> iptal etmek için<color=#ebcaa2>, Günahkârın portresine bir kez daha dokun."
+      "content": "<color=#00bfff>Oluşmuş <Defansif Yeteneği> iptal etmek için<color=#ebcaa2>, Günahkârın portresine bir kez daha dokun."
     },
     {
       "id": "tuto_01_03_01_13",
@@ -394,7 +394,7 @@
     },
     {
       "id": "tuto_01_03_02_01",
-      "content": "Doğru şartlar altında kullanıldığında, <color=#f8c200><Defansif Yetenekler><color=#ebcaa2> rakibe saldırmak veya Çarpışmaktan bile daha efektif olabilir. Amma velâkin, bu Yeteneklerin yanlış kullanılışı Günahkârları büyük bir riske sokabilir."
+      "content": "Doğru şartlar altında kullanıldığında, <color=#00bfff><Defansif Yetenekler><color=#ebcaa2> rakibe saldırmak veya Çarpışmaktan bile daha efektif olabilir. Amma velâkin, bu Yeteneklerin yanlış kullanılışı Günahkârları büyük bir riske sokabilir."
     },
     {
       "id": "tuto_01_03_02_02",
