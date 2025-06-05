@@ -2,70 +2,70 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Backstreets of T Corp.",
+            "place": "T Kuruluşu Arka Sokakları",
             "teller": "???",
             "title": "???",
-            "content": "That one's headed your way, aniki!"
+            "content": "Şuradaki senin tarafa geliyo abi!"
         },
         {
             "id": 1,
             "teller": "???",
             "title": "???",
-            "content": "Don't worry about me, I'll handle him! Try not to get yourself killed, ya got that?!"
+            "content": "Benim için endişelenme, onu ben hallederim! Kendini öldürtme yeter, anladın mı?!"
         },
         {
             "id": 2,
             "model": "단테",
-            "content": "<What a mess...>"
+            "content": "<Ne kargaşa ama...>"
         },
         {
             "id": 3,
-            "content": "We walked out of the bus and right into what appeared to be a battlefield of a violent gang war."
+            "content": "Otobüsten çıktık ve önümüzde şiddetli bir çete savaşının yaşandığı bir alana girdik."
         },
         {
             "id": 4,
-            "content": "Black cloaks flutter under the grey sky, and bloodthirsty blades clash violently. The bus had stopped not even 30 paces away from the thick of the battle."
+            "content": "Siyah ceketler gri gökyüzünün altında çırpınıyor ve kana susamış kılıçlar şiddetle çarpışıyor. Otobüs, savaşın en yoğun olduğu yerden sadece 30 adım ötede durmuştu."
         },
         {
             "id": 5,
             "model": "이스마엘",
-            "content": "They're... the Kurokumo Clan?"
+            "content": "Onlar... Kurokumo Klanı mı?"
         },
         {
             "id": 6,
-            "content": "Kurokumo Clan. I've heard of them before."
+            "content": "Kurokumo Klanı, onları önceden de duymuştum."
         },
         {
             "id": 7,
-            "content": "I'm sure we had some Identities from that Syndicate. Some Identity Cards said 'Wakashu' too."
+            "content": "Eminim ki bu çeteden birkac kimliğimiz vardı. Bazı kimliklerde 'Wakashu' ismi geçiyordu."
         },
         {
             "id": 8,
-            "content": "They're a pretty large subsidiary of an even larger Syndicate called 'The Thumb'. I think the Identities wore outfits similar to the ones they're wearing here."
+            "content": "Badem adlı daha büyük bir çetenin oldukça büyük bir yan kuruluşu. Sanırım kimliklerde giydikleri kıyafetler burada giydiklerine benziyordu."
         },
         {
             "id": 9,
             "model": "단테",
-            "content": "<I think you're right. ... But who are they fighting?>"
+            "content": "<Sanırım haklısın. ... Fakat kime karşı savaşıyorlar?>"
         },
         {
             "id": 10,
             "model": "히스클리프",
-            "content": "It's gotta be a strife."
+            "content": "Bi' çekişme olmalı."
         },
         {
             "id": 11,
-            "content": "Heathcliff replied in a monotone voice like he was reading from an encyclopedia."
+            "content": "Ansiklopedi okur gibi monoton bir ses tonuyla cevap verdi heathcliff."
         },
         {
             "id": 12,
             "model": "히스클리프",
-            "content": "It ain't a rare sight to see Syndicates fighting one another in the Backstreets."
+            "content": "Arka Sokaklarda bi çetenin diğeriyle savaştığını görmek o kadar ender değildir."
         },
         {
             "id": 13,
             "model": "히스클리프",
-            "content": "Must be somethin' about street tax or some other trivial turf dispute."
+            "content": "Sokak vergisi veya anlamsız bi arazi anlaşmazlığıyla alakalı bişi olmalı."
         },
         {
             "id": 14,
@@ -75,135 +75,135 @@
         {
             "id": 15,
             "model": "히스클리프",
-            "content": "It ain't anything new, lass... Most Syndicates are like that. The only difference between 'em is how far they're willing to go."
+            "content": "Yeni bişi değil kanka... çoğu çete böyle. Aralarında değişen tek şey bi' konuyu ne kadar ileri götürecekleridir."
         },
         {
             "id": 16,
             "model": "히스클리프",
-            "content": "Like... right, there he is. Blokes like that one over there. The one walking right at us."
+            "content": "Mesela... Tam şuradaki bize doğru gelen eleman gibi."
         },
         {
             "id": 17,
-            "content": "Heathcliff raised his bat and pointed it at the approaching man."
+            "content": "Heathcliff sopasını kaldırıp bize doğru gelen adama doğrulttu."
         },
         {
             "id": 18,
-            "content": "He wore the same outfit as the other Kurokumo Clan members."
+            "content": "Adam Kurokumo Klanı üyeleriyle aynı kıyafeti giyiyordu."
         },
         {
             "id": 19,
             "model": "흑운회조직원2",
             "teller": "???",
-            "title": "Kurokumo Clan",
-            "content": "The hell are you lookin' at? Crowdin' like you're here to start shit..."
+            "title": "Kurokumo Klanı",
+            "content": "Neye bakıyonuz lan? Bi' sikim başlatıcakmış gibi toplanmışınız..."
         },
         {
             "id": 20,
             "model": "흑운회조직원2",
             "teller": "???",
             "title": "Kurokumo Clan",
-            "content": "Gonna keep pointing that bat at me? You wanna go? Is that it?"
+            "content": "O sopayı bana doğrultmaya devam etçen mi? Kavga mı istiyon?"
         },
         {
             "id": 21,
             "model": "오티스",
-            "content": "Hey, lower your weapon. Let's not do anything rash—no need to escalate this further, is there?"
+            "content": "Hey, silahını indir. Gereksiz, aceleci bir davranışta bulunmayalım. Bunu uzatmanın gereği yok. Değil mi?"
         },
         {
             "id": 22,
-            "content": "Outis stepped in to warn Heathcliff, but he did not budge. He remained motionless, the bat still raised and pointing threateningly at the approaching man."
+            "content": "Outis Heathcliff'i uyarmak için önüne geçti, fakat kendisi silahını indirmedi. Hareketsizce, sopasını tehdit edercesine yaklaşan adama doğrulttu."
         },
         {
             "id": 23,
             "model": "히스클리프",
-            "content": "Won't matter what we do here. It's a foregone conclusion."
+            "content": "Ne yaptığımızın önemi yok. Çoktan kaçınılmaz bir akıbet."
         },
         {
             "id": 24,
             "model": "싱클레어",
-            "content": "... That we're going to have to fight him?"
+            "content": "... Onunla savaşmamızı gerektiren bi sonuç mu?"
         },
         {
             "id": 25,
             "model": "히스클리프",
-            "content": "Right on, lad."
+            "content": "Doğru bildin kanka."
         },
         {
             "id": 26,
             "model": "히스클리프",
-            "content": "They're in the middle of a strife. They'll be real sensitive about making it clear that this is their turf."
+            "content": "Bi kavganın ortasındalar. Burasının kendi toprakları olduğu söyleme konusunda oldukça hassas davranıcaklar."
         },
         {
             "id": 27,
             "model": "히스클리프",
-            "content": "What better way to do it than forcing some unwitting travelers to pay the toll for the road?"
+            "content": "Bunu yapmanın, bilmeden yolculuk yapan bazı yolcuları yol parası ödemeye zorlamaktan daha iyi bi yolu mu var?"
         },
         {
             "id": 28,
             "model": "흑운회조직원2",
             "teller": "???",
-            "title": "Kurokumo Clan",
-            "content": "Heh, looks like we've got a smart one 'ere."
+            "title": "Kurokumo Klanı",
+            "content": "Heh, Bu eleman zekiymiş."
         },
         {
             "id": 29,
-            "content": "The Kurokumo Clan henchman strutted before us like he owned the place."
+            "content": "Kurokumo Klanı yardakçısı sanki mekan onunmuş gibi önümüzde durdu"
         },
         {
             "id": 30,
             "model": "이스마엘",
-            "content": "Just as I begin to wonder about how dumb you could possibly be... you show your shrewd detective side. Gotta say, it's a real mystery."
+            "content": "Ne kadar salak olabileceğini düşünmeye başlarken kurnaz dedektif yanını ortaya çıkarıyorsun... söylemeliyim ki gerçek bir gizem."
         },
         {
             "id": 31,
-            "content": "Ishmael muttered at Heathcliff, who was shrugging at us with an expression that clearly read 'I told you so'."
+            "content": "Ishmael, omuzlarını silkerek bize doğru bakan Heathcliff'e söylendi. Heathcliff'in yüzünden 'Ben size demiştim' ifadesi okunuyordu."
         },
         {
             "id": 32,
             "model": "흑운회조직원2",
             "teller": "???",
-            "title": "Kurokumo Clan",
-            "content": "Well, since it looks like you clowns already know how this works... lemme get straight to the point."
+            "title": "Kurokumo Klanı",
+            "content": "Bu işlerin nası yürüdüğünü bilen bi avuç palyaço gibi duruyosunuz... konuya geleyim."
         },
         {
             "id": 33,
             "model": "흑운회조직원2",
             "teller": "???",
-            "title": "Kurokumo Clan",
-            "content": "The toll is five-hundred-thousand Ahn. Per person."
+            "title": "Kurokumo Klanı",
+            "content": "Ayak bastı bedeli kişi başına beş-yüz-bin Ahn."
         },
         {
             "id": 34,
             "model": "돈키호테",
-            "content": "F-f-f-fffive-hundred-thousand Ahn?!?!"
+            "content": "B-b-b-beş-yüz-bin Ahn?!?!"
         },
         {
             "id": 35,
             "model": "흑운회조직원2",
             "teller": "???",
-            "title": "Kurokumo Clan",
-            "content": "Lessee 'ere... One, two... right, I count thirteen of you here. And since you guys all rode in on a bus, I'm sure there's a driver in there, too."
+            "title": "Kurokumo Klanı",
+            "content": "Bi' bakalım şimdi. bir... iki... sizden tam on üç kişi saydım. otobüsle geldiniz desek o otobüsün içinde illaki bi sürücü vardır desen."
         },
         {
             "id": 36,
             "model": "흑운회조직원2",
             "teller": "???",
-            "title": "Kurokumo Clan",
-            "content": "Don't ya skimp out on us, now. I'd like it if we didn't have to make this business... messy by going through the bus ourselves."
+            "title": "Kurokumo Klanı",
+            "content": "Şimdi cimrilik etmeyin canım. keşke bu işi otobüse binmeden kendi aramızda halledebilsek."
         },
         {
             "id": 37,
             "model": "로쟈",
-            "content": "Didya hear that, Dante? This is totally a highway robbery."
+            "content": "Duydunmu dante? yolüstü insan soyuyorlar bildiğin."
         },
         {
             "id": 38,
             "model": "단테",
-            "content": "<It kind of is, isn't it?>"
+            "content": "<Öyle aslında, değil mi?>"
         },
         {
             "id": 39,
-            "content": "Well, it didn't really matter how much they were asking for. I wasn't going to negotiate with them anyway."
+            "content": "İstedikleri pekte umrumda değil gerçi. bunlar ile pek bir pazarlık yapacak zihniyette değilim."
         },
         {
             "id": 40,
@@ -212,7 +212,7 @@
         },
         {
             "id": 41,
-            "content": "Ishmael turned and looked quietly in my direction. I nodded back."
+            "content": "Ishmael bana döndü ve sessizca bana baktı. ben de başımı salladım."
         },
         {
             "id": 42,
@@ -221,7 +221,7 @@
         },
         {
             "id": 43,
-            "content": "Don Quixote pointed at... something."
+            "content": "Don Quixote birşeyi... işaret ediyordu."
         },
         {
             "id": 44,
@@ -230,17 +230,17 @@
         },
         {
             "id": 45,
-            "content": "Just as Don Quixote said, I could catch a glimpse of someone bleeding out on the ground through the chaos of clashing blades and black cloaks."
+            "content": "Don Quixote'nin dediği gibi, çarpışan kılıçların ve siyah ceketlerin yarattığı kaosun içinde, yerden kanlar içinde yatan birini görebiliyordum."
         },
         {
             "id": 46,
             "model": "히스클리프",
-            "content": "Oi, what'd I say about this 'justice' rubbish? This is a Syndicate turf war, yeah? No one's more or less honourable than the other."
+            "content": "Oy, ben sana bu 'adalet' saçmalığı hakkında ne dedim? Bu bi' çete savaşı dedim di'mi? Kimse kimseden daha üstün değil burada."
         },
         {
             "id": 47,
             "model": "뫼르소",
-            "content": "Agreed. It is no complicated mathematics to expect unnecessary allied casualties in this effort should we involve ourselves in this conflict."
+            "content": "Katılıyorum. Bu çatışmaya dahil olmamız durumunda müttefiklerimizin gereksiz zaiyatlar vermesini beklemek karmaşık bir matematik meselesi değil."
         },
         {
             "id": 48,
@@ -249,7 +249,7 @@
         },
         {
             "id": 49,
-            "content": "I guess it's an improvement... In the early days of our adventures, we would've been dragged into this conflict five minutes ago thanks to Don Quixote's recklessly valiant rescue attempt."
+            "content": "Sanırım bu bir gelişme... Maceralarımızın ilk günlerinde Don Quixote'nin pervasızca ve cesurca kurtarma girişimi sayesinde beş dakika önce bu kavgaya dahil olmuş olurduk."
         },
         {
             "id": 50,
@@ -258,16 +258,16 @@
         },
         {
             "id": 51,
-            "content": "I suppose she's learned her lessons by trials of fire. She was starting to show restraint for once."
+            "content": "Sanırım dersini ateşle oynayarak almıştı. Bir kerelik olsa bile kendini tutmaya başlamıştı."
         },
         {
             "id": 52,
-            "content": "... But it's a bit different this time."
+            "content": "... Fakat bu seferki biraz farklıydı."
         },
         {
             "id": 53,
             "model": "단테",
-            "content": "<Okay, so I do think that we have to help that woman. But—>"
+            "content": "<Peki, o kadına yardım etmemiz gerektiğini düşünüyordum fakat—>"
         },
         {
             "id": 54,
@@ -277,35 +277,35 @@
         {
             "id": 55,
             "model": "히스클리프",
-            "content": "What?!"
+            "content": "Ne?!"
         },
         {
             "id": 56,
             "model": "이스마엘",
-            "content": "Manager...? I didn't think that this was what that nod was about...?"
+            "content": "Müdür...? Başını salladığında kast ettiğinin bu olduğunu düşünmemiştim...?"
         },
         {
             "id": 57,
             "model": "단테",
-            "content": "<No, no. I'm not saying that we should get involved because 'it's the right thing to do' or anything like that.>"
+            "content": "<Yo, yo. buna dahil olmayı istememin sebebi 'doğru olan şey bu' ve benzeri şeyler olduğu için değil.>"
         },
         {
             "id": 58,
-            "content": "If Vergilius was telling us the truth earlier, there is a chance that we were purposefully made to drive right through this strife. Which means that there must be something here they're expecting us to find..."
+            "content": "Eğer ki Vergilius az önce doğruyu söylediyse, bu kavganın ortasına gelmemizin kasıtlı bir sebebi olmasının bir ihtimali var. bu da burada bulmamızı bekledikleri bir şey olması gerektiği anlamına geliyor..."
         },
         {
             "id": 59,
-            "content": "They always put us in harm's way for a reason, after all."
+            "content": "Bizi hep bi sebepten dolayı şiddetin yoluna sokup durdular."
         },
         {
             "id": 60,
             "model": "단테",
-            "content": "<... I just have a feeling that the wounded woman might have something to tell us. Maybe... an intel of some kind.>"
+            "content": "<... İçimde bir his o yaralı kadının bize söyleyebileceği şeylerin olduğunu söylüyor. Belkide... bir tür bilgidir.>"
         },
         {
             "id": 61,
             "model": "단테",
-            "content": "<And... if it turns out that we were supposed to get that intel from the Kurokumo Clan and not that woman, then I suppose we'll have to beat it out of them.>"
+            "content": "<Ve... eğer ki almamız gereken bilgiyi o kadından değilde kurokumo klanından almamız gerekirse onlardan bilgiyi zorla alırız.>"
         },
         {
             "id": 62,
@@ -315,46 +315,46 @@
         {
             "id": 63,
             "model": "오티스",
-            "content": "Marvelous, Executive Manager! I, Outis, am actually awestruck by your genius!"
+            "content": "Mükemmel, İdari Müdür! Ben, Outis, sizin dahiyane fikrinize hayran kaldım!"
         },
         {
             "id": 64,
-            "content": "... 'Actually'? What, is she implying that her usual flattery is phony?"
+            "content": "... 'Hayran kaldım'mı? Ne, her zamanki iltifatlarının sahte olduğunu mu imâ ediyor?"
         },
         {
             "id": 65,
             "model": "흑운회조직원2",
             "teller": "???",
-            "title": "Kurokumo Clan",
-            "content": "I don't like the way you're treating the Kurokumo Clan like we're some pack of stray dogs..."
+            "title": "Kurokumo Klanı",
+            "content": "Kurokumo Klanına sanki bir grup sokak köpeğiymişiz gibi davranmanız hiç hoşuma gitmedi..."
         },
         {
             "id": 66,
             "model": "흑운회조직원2",
             "teller": "???",
-            "title": "Kurokumo Clan",
-            "content": "And don't think I missed that sympathetic look you gave her. Which could only mean..."
+            "title": "Kurokumo Klanı",
+            "content": "Ve ona attığın sempatik bakışı kaçırdığımı zannetme. bu sadece şu anlama gelebilir..."
         },
         {
             "id": 67,
             "model": "흑운회조직원2",
             "teller": "???",
-            "title": "Kurokumo Clan",
-            "content": "... that you clowns are chummy with the Blade Lineage."
+            "title": "Kurokumo Klanı",
+            "content": "... siz palyaçolar Kılıç Soyu ile dostsunuz."
         },
         {
             "id": 68,
-            "content": "I could practically hear our negotiations(not that I was going to negotiate) falling apart as the man drew his blade."
+            "content": "Adam kılıcını çekerken pazarlığımızın -zaten pazarlık edecek değildim- dağıldığını neredeyse duyabiliyordum."
         },
         {
             "id": 69,
             "model": "오티스",
-            "content": "A rational deliberation followed by a sensible decision. I will return my appreciation for your magnificent leadership with a flawless victory."
+            "content": "Mantıklı bir pazarlığın ardından mantıklı bir karar. Muhteşem liderliğiniz için takdirimi kusursuz bir zaferle iade edeceğim."
         },
         {
             "id": 70,
             "model": "오티스",
-            "content": "All units! Prepare for battle!"
+            "content": "Tüm birimler! Savaşa hazırlanın!"
         }
     ]
 }
