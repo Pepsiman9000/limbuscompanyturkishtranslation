@@ -3,11 +3,11 @@
     {
       "id": 0,
       "place": "Sonsuz Ceset Tepesi",
-      "content": "Sonu gelmeyen ceset yığınları görüyordum."
+      "content": "Sonu gelmeyen ceset yığınları vardı."
     },
     {
       "id": 1,
-      "content": "Engizitörler bir şeye tapınıyorlarmış gibi kollarını hep birlikte kaldırıyorlardı."
+      "content": "Engizitörler bir şeye tapınıyormuşçasına kollarını hep birlikte kaldırıyorlardı."
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
     {
       "id": 4,
       "model": "파우스트",
-      "content": "Ego'nun derinlikleri çoktan açılmış durumda. Görünüşe bakılırsa, bizden önce başkası Dal ile yankılanma geçirmeye başlamış."
+      "content": "Ego'nun derinlikleri çoktan açılmış durumda. Görünüşe bakılırsa, bizden önce başkası Dal ile rezonansa geçmeye başlamış."
     },
     {
       "id": 5,
@@ -30,7 +30,7 @@
     {
       "id": 6,
       "model": "파우스트",
-      "content": "…Dua etmek için."
+      "content": "…Dua."
     },
     {
       "id": -1,
@@ -55,11 +55,11 @@
     {
       "id": 9,
       "model": "그레고르",
-      "content": "…Okul zili bu. Çocuğumuz okuldan bu kadar nefret ediyordu demek, heh."
+      "content": "…Bir okul zili bu. Çocuğumuz okuldan bu kadar nefret ediyormuş demek, heh."
     },
     {
       "id": 10,
-      "content": "Bu renkli konuşma, Günahkarların modunu biraz olsun yükseltmiş gibiydi..."
+      "content": "Bu küçük şakalaşma, Günahkârların modunu biraz olsun yükseltmiş gibiydi..."
     },
     {
       "id": 11,
@@ -67,7 +67,7 @@
     },
     {
       "id": 12,
-      "content": "Derinliklerin asıl sahibi olması gereken kişi, halen büyük bir rahatsızlık hissediyordu."
+      "content": "Ego derinliklerinin asıl sahibi olan kişi, halen büyük bir rahatsızlık içindeydi."
     },
     {
       "id": 13,
@@ -76,7 +76,7 @@
     },
     {
       "id": 14,
-      "content": "Maalesef ki, sözü bu gerçeklikte geçmiyordu."
+      "content": "Maalesef, yakarışının bu gerçeklik üzerinde bir etkisi yoktu."
     },
     {
       "id": 15,
@@ -90,35 +90,35 @@
       "model": "N사심문관1",
       "teller": "An Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "Tutan Kişi buyuruyor."
+      "content": "Kavrayan Kişi buyurdu."
     },
     {
       "id": 17,
       "model": "N사심문관2",
       "teller": "Fellow Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "Tutan Kişi buyuruyor."
+      "content": "Kavrayan Kişi buyurdu."
     },
     {
       "id": 18,
       "model": "크로머",
       "teller": "Kromer",
       "title": "Nagel und Hammer",
-      "content": "Kafirler ritüelimizi bozmakla kalmamış, üstüne üstlük en büyük kul hakkımız olan bu kurbanın peşine düşmüşlerdir!"
+      "content": "Kafirler ritüelimizi bozmakla kalmamış, üstüne üstlük en büyük hakkımız olan bu nimetin peşine düşmüşlerdir!"
     },
     {
       "id": 19,
       "model": "N사심문관1",
       "teller": "An Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "Rezil ve kirliler."
+      "content": "Rezil ve kirlice."
     },
     {
       "id": 20,
       "model": "N사심문관2",
       "teller": "Fellow Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "Rezil ve kirliler."
+      "content": "Rezil ve kirlice."
     },
     {
       "id": 21,
@@ -132,21 +132,21 @@
       "model": "크로머",
       "teller": "Kromer",
       "title": "Nagel und Hammer",
-      "content": "Bu Altın bizim olduğu müddetçe, tekrar ve tekrar hayata dönebileceksiniz!"
+      "content": "Bu altın nimet bizim olduğu müddetçe, tekrar ve tekrar hayata dönebileceksiniz!"
     },
     {
       "id": 23,
       "model": "N사심문관1",
       "teller": "An Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "Korkumuz yoktur, ki Tutan Kişi bizimledir."
+      "content": "Korkumuz yoktur, ki Kavrayan Kişi bizimledir."
     },
     {
       "id": 24,
       "model": "N사심문관2",
       "teller": "Fellow Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "Korkumuz yoktur, ki Tutan Kişi bizimledir."
+      "content": "Korkumuz yoktur, ki Kavrayan Kişi bizimledir."
     },
     {
       "id": 25,
@@ -160,21 +160,21 @@
       "model": "크로머",
       "teller": "Kromer",
       "title": "Nagel und Hammer",
-      "content": "Ayaklan bakalım. Senin yerin, benim biricik ellerim."
+      "content": "Ayaklan bakalım. Benim ellerime düşeceksin."
     },
     {
       "id": 27,
       "model": "N사심문관1",
       "teller": "An Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "Tutan Kişi tarafından tutulmak kadar büyük bir zevk yoktur."
+      "content": "Bir zevk olmasın ki Kavrayan Kişi tarafından kavranmak kadar büyük olsun."
     },
     {
       "id": 28,
       "model": "N사심문관2",
       "teller": "Fellow Inquisitor",
       "title": "Nagel und Hammer",
-      "content": "Tutan Kişi tarafından tutulmak kadar büyük bir zevk yoktur."
+      "content": "Bir zevk olmasın ki Kavrayan Kişi tarafından kavranmak kadar büyük olsun."
     },
     {
       "id": 29,
@@ -197,9 +197,9 @@
     },
     {
       "id": 32,
-      "place": "Rowdy Classroom",
+      "place": "Küçümseyici Sınıf",
       "model": "싱클레어",
-      "content": "…Teneffüsler, birbiri ile konuşanlardan dolayı hep capcanlı geçerdi."
+      "content": "…Teneffüsler her zaman canlı geçerdi, birbiri ile konuşanlardan dolayı hep capcanlı geçerdi."
     },
     {
       "id": 33,
