@@ -3,11 +3,11 @@
     {
       "id": 0,
       "place": "The Old Sinclair Estate",
-      "content": "Guido'un sonunda yere düşmesiyle yer sallandı."
+      "content": "Guido'un sonunda yere düşmesiyle yer sarsıldı."
     },
     {
       "id": 1,
-      "content": "Acaba bu sefer cidden onu öldürmeyi başara bildik mi, yine de miğferini çıkarıp hala nefes alıp almadığını kontrol etmek için çok yorgunduk."
+      "content": "Acaba bu sefer cidden onu öldürmeyi başara bildik mi? Yine de miğferini çıkarıp hala nefes alıp almadığını kontrol etmek için çok yorgunduk."
     },
     {
       "id": -1,
@@ -16,7 +16,7 @@
     },
     {
       "id": 2,
-      "content": "Sinclair engizitörün birine kargısının arka ucunu sokup sokup çıkarıyordu."
+      "content": "Sinclair engizitörün birine kargısının arka ucunu sokup sokup çıkarmakla meşguldü."
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
     },
     {
       "id": 6,
-      "content": "Burnundan, ağazından, gözünden öfke ve dehşetle dolmuş sıvılar çıkıyordu."
+      "content": "Burnundan, ağazından, gözünden öfke ve dehşet sıvılaşmış formlar halinde dökülüyordu."
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
     {
       "id": 19,
       "model": "돈키호테",
-      "content": "Allah aşkına anlat, ihtisas'ın şimdi nasıl?"
+      "content": "Allah aşkına zikret, ihtisas'ın şimdi nasıldır?"
     },
     {
       "id": 20,
@@ -105,7 +105,7 @@
     {
       "id": 21,
       "model": "돈키호테",
-      "content": "Aciliyetimi mazur gör. Ekseriyetle kendimi cinnet içinde bulurdum. Vahşi, tıpkı vaban bir atınki."
+      "content": "Aciliyetimi mazur gör. Ekseriyetle kendimi cinnet içinde bulurdum. Vahşiyeti, tıpkı vaban bir atınki."
     },
     {
       "id": 22,
@@ -167,7 +167,7 @@
     {
       "id": 34,
       "model": "싱클레어",
-      "content": "O zamanlar… ‘Nagul und Hammer’ adı ile etrafta dolaşmıyorlardı. Açıkta, çok kişiyle beraber görmezsiniz onları."
+      "content": "O zamanlar… ‘Nagul und Hammer’ adı ile etrafta dolaşmıyorlardı. Açıkta, çok kişiyle beraber görmezdiniz onları."
     },
     {
       "id": 35,
