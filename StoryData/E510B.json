@@ -213,50 +213,50 @@
         {
             "id": 45,
             "model": "뫼르소",
-            "content": "I believe that he means to say that they must be eliminated."
+            "content": "Sanırım demek istediği onların ortadan kaldırılmasıdır."
         },
         {
             "id": 46,
             "model": "베르길리우스",
-            "content": "I feel compelled to let you know that that is not the only implication of the word 'target'. Though I am yet to be informed of the precise details of this mission, that is..."
+            "content": "'Hedef' kelimesinin tek anlamının bu olmadığını size bildirme mecburiyetindeymişim gibi hissediyorum. Bu görevin kesin ayrıntıları hakkında henüz bilgilendirilmedim, ancak bu..."
         },
         {
             "id": 47,
             "model": "베르길리우스",
-            "content": "Regardless, you are to make contact with a 'target' among them."
-        },
+            "content": "Ama yine de, bunlardan bir 'hedefle' temas kurmanız gerekiyor."
+        r
         {
             "id": 48,
             "model": "베르길리우스",
-            "content": "Find the target, then extract the necessary intel. Is this clear enough for you, manager?"
+            "content": "Hedefi bul, Gerekli bilgiyi al. bu senin için yeterli bir açıklama mı, Müdür?"
         },
         {
             "id": 49,
             "model": "단테",
-            "content": "<How are we supposed to find this 'target' if you're not even going to tell us who it is...?>"
+            "content": "<Bu 'hedef'i bize kim olduğunu söylemeden nasıl bulmamız gerekiyor...?>"
         },
         {
             "id": 50,
             "model": "파우스트",
-            "content": "Dante asks if there are any identifying characteristics to this 'target'."
+            "content": "Dante bu 'hedef'in tanımlayıcı herhangi bir özelliği olup olmadığını soruyor."
         },
         {
             "id": 51,
             "model": "베르길리우스",
-            "content": "I'm sure you'll find out when you get there... You are asking me questions I have no answers to, Dante. Don't waste your time."
+            "content": "Eminim ki oraya gittiğinizde kendiniz görürsünüz... Bana cevabı bende olmayan sorular soruyorsun, Dante. Zamanını boşa harcama."
         },
         {
             "id": 52,
             "model": "베르길리우스",
-            "content": "Well... Off the bus, all."
+            "content": "Madem öyle... herkes otobüsten insin."
         },
         {
             "id": 53,
-            "content": "I was somewhat wary of the way Vergilius answered me, but... even in murky situations like these, we've always managed to pull through anyway."
+            "content": "Vergilius'un bana verdiği cevaptan biraz çekinmiştim ama... bu gibi karanlık durumlarda bile her zaman bir şekilde kurtulmayı başardık."
         },
         {
             "id": 54,
-            "content": "I'm sure things'll get a little clearer once we get there. I slowly disembarked the bus with the rest of the Sinners."
+            "content": "Oraya vardığımızda her şeyin biraz daha netleşeceğinden eminim. Günahkârların geri kalanıyla beraber otobüsten yavaşça indim."
         }
     ]
 }
