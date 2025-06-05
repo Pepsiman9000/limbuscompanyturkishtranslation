@@ -656,7 +656,7 @@
                   "desc": "[OnSucceedAttack] 10 [Combustion] ver"
                 },
                 {
-                  "desc": "[EnemyKill] Randomly inflict [Combustion] Potency of the defeated target between all enemies (max 10. In Focused Encounters, between all Parts)",
+                  "desc": "[EnemyKill] Yenilen rakibin [Combustion] gücünü bütün düşmanlar arasında rastgele paylaş (maks 10. Odaklı Karşılaşmalarda, bütün Parçalar arasında)",
                   "summary": "[EnemyKill] Rastgele düşmanlara [Combustion] ver"
                 }
               ]
@@ -666,24 +666,24 @@
         {
           "level": 4,
           "name": "Kavurucu Darbe",
-          "desc": "Coin Power +<style=\"highlight\">2</style> for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +<style=\"highlight\">10</style>% more damage for every Wrath Rezon. (max <style=\"highlight\">60</style>%)\n<style=\"highlight\">If at 4+ highest Wrath M-Rezon., deal +20% more damage for every Wrath Rezon. instead (max 120%)</style>\n[EndSkill] Lose 15 SP",
+          "desc": "Jeton Gücü +<style=\"highlight\">2</style> for every 4 (sum of [Combustion] Potency on all enemies) (maks 8)\n[WinDuel] 10 SP İyileş\n[DefeatDuel] 30 SP Kaybet\nHer Öfke Rezonansı için +<style=\"highlight\">10</style>% %10 daha fazla hasar vur. (maks <style=\"highlight\">60</style>%)\n<style=\"highlight\">Eğer 4+ Öfke M-Rezonansında ise., her Öfke Rezonansı için +20% daha fazla hasar vur. yerine (maks 120%)</style>\n[EndSkill] 15 SP Kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +<style=\"highlight\">4</style>% more damage for every 1 [Combustion] on target (max <style=\"highlight\">120</style>%)",
-                  "summary": "Deal more damage based on [Combustion] on target"
+                  "desc": "Hedefteki her [Combustion] için +<style=\"highlight\">4</style>% daha fazla hasar vur (maks <style=\"highlight\">120</style>%)",
+                  "summary": "Hedefteki [Combustion]a göre daha fazla hasar vur"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ [Combustion], inflict 2 [Combustion] against (# of highest Rezon.) random enemies\n<style=\"highlight\">- If the above Rezon. was a Wrath Rezon., inflict +1 [Combustion] Count as well</style>",
-                  "summary": "[OnSucceedAttack] Inflict [Combustion] based on Rezon."
+                  "desc": "[OnSucceedAttack] Hedefte 10+ [Combustion] var ise, Rastgele düşmanlara (en yüksek Rezonansın #.) göre 2 [Combustion] ver\n<style=\"highlight\">- Eğer yukarıdaki Rezonans. Öfke Rezonansıysa., +1 [Combustion] Miktarıda ver</style>",
+                  "summary": "[OnSucceedAttack] Rezonansa göre [Combustion] ver."
                 },
                 {
                   "desc": "[OnSucceedAttack] 10 [Combustion] ver"
                 },
                 {
-                  "desc": "[EnemyKill] Randomly inflict [Combustion] Potency of the defeated target between all enemies (max 10. In Focused Encounters, between all Parts)",
-                  "summary": "[EnemyKill] Inflict [Combustion] to random enemies"
+                  "desc": "[EnemyKill] Yenilen rakibin [Combustion] gücünü bütün düşmanlar arasında rastgele paylaş (maks 10. Odaklı Karşılaşmalarda, bütün Parçalar arasında)",
+                  "summary": "[EnemyKill] Rastgele düşmanlara [Combustion] ver"
                 }
               ]
             }
