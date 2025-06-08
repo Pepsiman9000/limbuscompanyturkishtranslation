@@ -3,19 +3,19 @@
     {
       "id": 0,
       "place": "Sonsuz Ceset Tepesi",
-      "content": "Sonu gelmeyen ceset yığınları vardı."
+      "content": "Sonu gelmeyen ceset yığınları görüyordum."
     },
     {
       "id": 1,
-      "content": "Engizitörler bir şeye tapınıyormuşçasına kollarını hep birlikte kaldırıyorlardı."
+      "content": "Engizitörler bir şeye tapınıyormuşçasına kollarını hep birlikte kaldırmışlardı."
     },
     {
       "id": 2,
-      "content": "Ve tepenin zirvesinde ise Kromer vardı."
+      "content": "Ve tepenin zirvesinde ise Kromer duruyordu."
     },
     {
       "id": 3,
-      "content": "Ellerini dua eder bir şekilde sunaktaki Altın Dal'a doğru uzatıyordu."
+      "content": "Ellerini dua eder bir vaziyette sunaktaki Altın Dal'a doğru uzatıyordu."
     },
     {
       "id": 4,
@@ -76,7 +76,7 @@
     },
     {
       "id": 14,
-      "content": "Maalesef, yakarışının bu gerçeklik üzerinde bir etkisi yoktu."
+      "content": "Maalesef, yakarışının bu gerçeklik üzerinde bir etkisi bulunmuyordu."
     },
     {
       "id": 15,
@@ -199,12 +199,12 @@
       "id": 32,
       "place": "Küçümseyici Sınıf",
       "model": "싱클레어",
-      "content": "…Teneffüsler her zaman canlı geçerdi, birbiri ile konuşanlardan dolayı hep capcanlı geçerdi."
+      "content": "…Teneffüslerde sınıfımız her zaman kalabalıktı, birbiri ile konuşanlardan dolayı hep capcanlı geçerdi."
     },
     {
       "id": 33,
       "model": "싱클레어",
-      "content": "Yetişkinler ise bizi sürekli uzaktan izleyip, bunu kalp ısıtıcı bir sahne olarak görüyordu."
+      "content": "Yetişkinler ise bizi sürekli uzaktan izleyip bunu kalp ısıtıcı bir sahne olarak görüyordu."
     },
     {
       "id": 34,
@@ -214,7 +214,7 @@
     {
       "id": 35,
       "model": "싱클레어",
-      "content": "Yakından baktığında, bu mutlu mesut etkileşimler, kıskançlık, gurur kibir, ve kurnazlık ile doluydu."
+      "content": "Yakından bakıldığında, bu mutlu mesut etkileşimler; aslında kıskançlık, aşağılama, kibir, ve üçkağıtçılık ile doluydu."
     },
     {
       "id": 36,
@@ -223,15 +223,15 @@
     },
     {
       "id": 37,
-      "teller": "Reminisced Classmate",
+      "teller": "Anılardaki Sınıf Arkadaşı",
       "title": "Öğrenci",
-      "content": "Yan sınıftaki Rahul'un iki kolundan da ameliyat olacağını duydum. Daha önce gelip görünmemiş bir teknolojiymiş. Ne havalı, değil mi?"
+      "content": "Yan sınıftaki Rahul'un iki koluna da babasının ameliyat yapacağını duydum. Daha önce gelip görünmemiş bir teknolojiymiş. Ne havalı, değil mi?"
     },
     {
       "id": 38,
       "teller": "Reminisced Schoolmate",
       "title": "Öğrenci",
-      "content": "Şu dergi kapaklarını işgal eden elemanı biliyorsunuzi, değil mi? Adamın, annemin göz doktorunda ameliyat olacağını söylemiş miydim size? Sıra o kadar uzundu ki, öne geçmek için bizzat bize yalvardılar."
+      "content": "Şu dergi kapaklarını işgal eden elemanı biliyorsunuz, değil mi? Adamın, annemin kliniğinde göz implantı ameliyatı olacağını söylemiş miydim size? Sıra o kadar uzundu ki, öne geçmek için bizzat kendisi bize yalvardı."
     },
     {
       "id": 39,
@@ -241,7 +241,7 @@
     {
       "id": 40,
       "model": "싱클레어",
-      "content": "Ne paylaşabilirdim ki? Beklentili gözleri, her an bir çift korkunç gözlere dönüşebilirdi."
+      "content": "Ne paylaşabilirdim ki? Bana okdalı beklentili gözler, sanki her an küçümseyici tenkitçilere dönüşebilirdi."
     },
     {
       "id": 41,
@@ -251,17 +251,17 @@
     {
       "id": 42,
       "model": "싱클레어",
-      "content": "Endişeli bir şekilde yutkunmuştum."
+      "content": "Endişeli bir şekilde yutkundum."
     },
     {
       "id": 43,
       "model": "싱클레어",
-      "content": "Belki de en başından bir hikaye istemiyorlardı benden."
+      "content": "Belki de en başından bir hikaye istememişlerdi benden ama..."
     },
     {
       "id": 44,
       "model": "싱클레어",
-      "content": "Ama meraklı gözlerini üzerimde tutmalarını istiyordum."
+      "content": "Meraklı gözlerini üzerimde tutmalıydım."
     },
     {
       "id": 45,
@@ -276,7 +276,7 @@
     {
       "id": 47,
       "model": "싱클레어",
-      "content": "Aman tanrım, bunu söylerken ne düşünüyordum ki ben?"
+      "content": "Aman Allahım, bunu söylerken ne düşünüyordum ki ben?"
     },
     {
       "id": 48,
@@ -291,7 +291,7 @@
     {
       "id": 50,
       "model": "싱클레어",
-      "content": "“Bak Emil, bu işlerimiz için çok gizli bir anlaşma. Başkaları katiyen bilmemeli.”\nİnatçı uyarıları aklıma kazınmıştı—Onun yüzünü görebiliyordum."
+      "content": "“Bak Emil, bu işlerimiz için çok gizli bir anlaşma. Katiyen başkalarına söylememlisin.”\nİnatçı hatırlatmaları aklıma kazınmıştı. Yüzünü görebiliyordum."
     },
     {
       "id": 51,
@@ -308,7 +308,7 @@
     {
       "id": 53,
       "model": "싱클레어",
-      "content": "Bir anda hasbihalin merkezi konumuna gelmiştim. Sınıftaki tüm meraklı gözlerin üzerime çullandığını hissedebiliyordum."
+      "content": "Bir anda dedikoduların merkezi haline gelmiştim. Sınıftaki tüm meraklı gözlerin üzerimde olduğunu hissedebiliyordum."
     },
     {
       "id": 54,
@@ -318,7 +318,7 @@
     {
       "id": 55,
       "model": "싱클레어",
-      "content": "Sanırım nafile bir ilgi isteği ile sarmalanmıştım."
+      "content": "Sanırım yaramaz bir ilgi açlığı, beni buna itmişti."
     },
     {
       "id": 56,
@@ -334,22 +334,22 @@
     {
       "id": 58,
       "model": "싱클레어",
-      "content": "Eğer yüzüme az da olsa bakarlarsa…"
+      "content": "Eğer yüzüme az da olsa baksalardı…"
     },
     {
       "id": 59,
       "model": "싱클레어",
-      "content": "Jestlerimdeki isteksizliği görebilirlerdi."
+      "content": "Mimiklerimdeki gönülsüzlüğü görebilirlerdi."
     },
     {
       "id": 60,
       "model": "싱클레어",
-      "content": "Çok şükür ki, kimse bundan bahsetmemişti."
+      "content": "Şükür ki, kimse bundan bahsetmemişti."
     },
     {
       "id": 61,
       "model": "싱클레어",
-      "content": "Tek başıma kalmam ve teneffüsün bitmesi ile, büyük bir suçluluk hissiyatı beni sarmalamıştı."
+      "content": "Tek başıma kaldıktan ve teneffüs bitikten sonra, eninde sonunda büyük bir suçluluk hissiyatı beni sarmıştı."
     },
     {
       "id": 62,
@@ -369,7 +369,7 @@
     {
       "id": 65,
       "model": "싱클레어",
-      "content": "Endişeli hissettiğim zaman tırnaklarımı yeme alışkanlığım, yine canımı yakıyordu."
+      "content": "Endişeli hissettiğim zaman tırnaklarımı yeme alışkanlığım, en sonunda bana zarar vermişti."
     },
     {
       "id": 66,
@@ -379,7 +379,7 @@
     {
       "id": 67,
       "model": "싱클레어",
-      "content": "Daha önce hiç derime kadar ısıracağımı düşünmemiştim."
+      "content": "Onun yerine derimi ısırcağımı düşünmemiştim."
     },
     {
       "id": 68,
@@ -389,17 +389,17 @@
     {
       "id": 69,
       "model": "싱클레어",
-      "content": "Mezun olduktan sonra, bir protezi takınacaktım…"
+      "content": "Mezun olduktan sonra, bir protez taktıracaktım…"
     },
     {
       "id": 70,
       "model": "싱클레어",
-      "content": "Taktıktan sonra ise bir daha canımın yanmasını hissetmeyecek, veya kanımı görmeyecektim."
+      "content": "Taktırdıktan sonra ise bir daha canımın yanmasını hissetmeyecek, veya kanımı görmeyecektim."
     },
     {
       "id": 71,
       "model": "싱클레어",
-      "content": "Ama… Bu gerçekten…"
+      "content": "Ama… Bu cidden…"
     },
     {
       "id": 72,
@@ -411,17 +411,17 @@
     {
       "id": 73,
       "model": "싱클레어",
-      "content": "Korkunç gülümsemeli birisi, masamı gölgesi ile kaplamıştı."
+      "content": "Birisi Tuhaf bir ıslıkla, masamı gölgesi ile kaplamıştı."
     },
     {
       "id": 74,
       "model": "싱클레어",
-      "content": "O kadar nadir konuştuğum bir sınıf arkadaşımdı ki, adını neredeyse hatırlayamıyordum."
+      "content": "O kadar nadir konuştuğum bir sınıf arkadaşımdı ki, adını neredeyse hatırlayamamıştım."
     },
     {
       "id": 75,
       "model": "싱클레어",
-      "content": "Telaşlı bir şekilde, yarım yamalak bir cevap çıkartmıştım ağzımdan."
+      "content": "Telaşlanmış bir şekilde, yarım yamalak bir cevap çıkardım ağızımdan."
     },
     {
       "id": 76,
@@ -460,14 +460,14 @@
     {
       "id": 82,
       "model": "싱클레어",
-      "content": "Sanki babamın büyüklüğü, aslında benimmiş gibi."
+      "content": "Sanki babamın büyüklüğü, bir şekilde benimmiş gibi."
     },
     {
       "id": 83,
       "model": "학생크로머",
       "teller": "Kromer",
       "title": "Öğrenci",
-      "content": "Ama… Neden öyle bir yüz takınıyorsun?"
+      "content": "Ama… Neden yüzünü öyle yaptın ki?"
     },
     {
       "id": 84,
@@ -479,19 +479,19 @@
       "model": "학생크로머",
       "teller": "Kromer",
       "title": "Öğrenci",
-      "content": "Biliyorsun… Sen de düşünmeden edemiyorsun."
+      "content": "Bilirsin… Sen de böyle düşünüyorsun, değil mi?"
     },
     {
       "id": 86,
       "model": "싱클레어",
-      "content": "Ardından ise başını indirip, sadece benim duyabileceğim kadar kısık bir sesle fısıldamıştı."
+      "content": "Ardından başını indirip, sadece benim duyabileceğim kadar kısık bir sesle fısıldadı."
     },
     {
       "id": 87,
       "model": "학생크로머",
       "teller": "Kromer",
       "title": "Öğrenci",
-      "content": "Bu işin kirli olduğunu düşünüyorsun."
+      "content": "Bu işin kirli olduğunu."
     },
     {
       "id": 88,
@@ -506,17 +506,17 @@
     {
       "id": 90,
       "model": "싱클레어",
-      "content": "Onun gibi, bana tamamen yabancı birisinin ne sakladığımı direkt olarak anlayabildiği için."
+      "content": "Onun gibi, bana tamamen yabancı birisinin ne sakladığımı direkt olarak anlayabildiği için de."
     },
     {
       "id": 91,
       "model": "싱클레어",
-      "content": "N-Nerden biliyorsun bunları?"
+      "content": "N-Nasıl anladın?"
     },
     {
       "id": 92,
       "model": "싱클레어",
-      "content": "Onun iftiralarını reddetseydim, bu işten direkt olarak kaçabilirdim, ama kendi ayağıma sıkıp, garip bir yüz ifadesi ile ona bu soruyu sormuştum."
+      "content": "Eğer iftiralarını reddetseydim, bu işten direkt olarak kaçabilirdim. Ama düşüncesizlik yapıp, şakın bir yüz ile ona bu soruyu sormuştum."
     },
     {
       "id": 93,
@@ -535,7 +535,7 @@
       "model": "학생크로머",
       "teller": "Kromer",
       "title": "Öğrenci",
-      "content": "Seninle aynı dalga uzunluğunda olan kişileri, çok rahat hissedebiliyorsun."
+      "content": "Seninle aynı frekansta olan kişileri, çok rahat hissedebiliyorsun."
     },
     {
       "id": 96,
@@ -552,7 +552,7 @@
     {
       "id": 98,
       "model": "싱클레어",
-      "content": "Kromer ve ben sık sık konuşan dostlar olmuştuk."
+      "content": "Kromer ve ben sık sık konuşan arkadaşlar olmuştuk."
     }
   ]
 }
