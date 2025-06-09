@@ -2,119 +2,119 @@
   "dataList": [
     {
       "id": "announcer_cheer_24_1",
-      "dlg": "Umm... I don't exactly know what to say here. \"We got this\", \"Keep up the good work\" and whatever aren't the kind of encouragements you're looking for from me anyway."
+      "dlg": "Ihh... Burada ne diyeceğimi bilmiyorum. \"Bu işi hallederiz\", \"Aynı şekilde devam et\" ve neyse benden duyacağın motive edici sözler değil zaten."
     },
     {
       "id": "announcer_cheer_24_2",
-      "dlg": "I never wanted to be in this position. Not even once."
+      "dlg": "Bu pozisyonda hiçbir zaman olmak istememiştim. Hiç istememiştim."
     },
     {
       "id": "announcer_specialcheer_24_1",
-      "dlg": "You must know by now how meaningless the concept of 'safety' is at a place like this."
+      "dlg": "Böyle bir yerde 'güvenlik' konseptinin ne kadar anlamsız olduğunu biliyor olmalısın."
     },
     {
       "id": "announcer_specialcheer_24_2",
-      "dlg": "It's evacuation or death for them. No one's gonna remember even if they were to go down swinging, anyway... You sure you wanna keep fighting?"
+      "dlg": "Onlar için ya kaçış yada ölüm. Savururken ölseler bile onları kimse hatırlamayacak, zaten... Onları hala çatıştırmakta emin misin?"
     },
     {
       "id": "announcer_enemy_break_24_1",
-      "dlg": "Looks like an opportunity to suppress the enemy. Only for them to escape again later."
+      "dlg": "Düşmanı bastırmak için bir fırsat gibi. Sonradan yine kaçmaları için."
     },
     {
       "id": "announcer_ally_break_24_1",
-      "dlg": "Thus snaps another tenuous hold to life."
+      "dlg": "Böylece hayata tutunan bir zayıf dal daha kopar."
     },
     {
       "id": "announcer_killenemy_24_1",
-      "dlg": "No one's safe in here. That entity is no exception."
+      "dlg": "Kimse burada güvenli değil. O varlıkta dahil."
     },
     {
       "id": "announcer_ally_dead_24_1",
-      "dlg": "Don't let yourselves feel guilty over this. You could never have saved them anyway."
+      "dlg": "Bunun için kendinizi suçlu hissetmeyin. Onları zaten kurtaramazdınız."
     },
     {
       "id": "announcer_enemy_adv_24_1",
-      "dlg": "Give up. What's the point of prolonging a hopeless fight?"
+      "dlg": "Pes et. Umutsuz bir çatışmayı uzatmanın amacı ne?"
     },
     {
       "id": "announcer_ally_advex_24_1",
-      "dlg": "To lower the casualty numbers... Maybe you could just not send as many of them in there to begin with."
+      "dlg": "Kayıp sayısını azaltmak için... Belki de en başta oraya bu kadar fazla kişi göndermiyebilirsin."
     },
     {
       "id": "announcer_danger_24_1",
-      "dlg": "The end is so, so near. Here's hoping it's a wonderful end, manager. It's always so awful in here."
+      "dlg": "Son çok, çok yakın. Umarım harika bir son olur, müdür. Burası her zaman çok kötü."
     },
     {
       "id": "announcer_enemy_specialskill_24_1",
-      "dlg": "Dangerous attack incoming... whatever. Just let it happen. It's what you do best, isn't it?"
+      "dlg": "Tehlikeli saldırı geliyor... neyse. Olmasına izin ver. Senin en iyi yaptığın şey, dimi?"
     },
     {
       "id": "announcer_enemy_specialgimmick_24_1",
-      "dlg": "A hostile entity's doing something, I guess... I dunno. I think it'll be nice for that enemy to wipe everything out so there won't be anything left when I open my eyes again."
+      "dlg": "Tehlikeli bir varlık birşey yapıyor, Sanırım... bilmiyom. Bence o düşmanın her şeyi silip süpürmesi iyi olur, böylece gözlerimi tekrar açtığımda geride hiçbir şey kalmaz."
     },
     {
       "id": "announcer_advatk_physical_24_1",
-      "dlg": "... Yeah, nice hit. Not that it means anything."
+      "dlg": "... Evet, güzel darbe. Tabii çok birşey ifade etmesede."
     },
     {
       "id": "announcer_disadvatk_physical_24_1",
-      "dlg": "That was just... straight-up awful, huh... If you've got something to say, I'll lend you an ear, I guess."
+      "dlg": "Bu... dümdüz çok kötüydü, hıh... Diyecek birşeyin varsa, Sana kulak veririm, Sanırım."
     },
     {
       "id": "announcer_advatk_attr_24_1",
-      "dlg": "Keep doing that, and we just might wrap up today's suppression early."
+      "dlg": "Onu yapmaya devam et, ve bugünün bastırmasını erken bitirebiliriz."
     },
     {
       "id": "announcer_disadvatk_attr_24_1",
-      "dlg": "Why on earth did you— Actually, nevermind. Do whatever you wanna do."
+      "dlg": "Neden böyle bir şey yaptın ki— Neyse boşver. Ne yapmak istiyorsan yap."
     },
     {
       "id": "announcer_enemy_specialbuff_24_1",
-      "dlg": "Something's going on with that hostile entity over there. It's a bother, but you might want to do something about that."
+      "dlg": "Oradaki varlık birşeyler çeviriyor gibi. Biraz zahmetli ama bununla ilgili bir şey yapsan iyi olabilir."
     },
     {
       "id": "announcer_enemy_specialdebuff_24_1",
-      "dlg": "The hostile entity's doing pretty bad over there. It's not that big of a deal, but I guess things'll get slightly better."
+      "dlg": "Oradaki varlık çok iyi yapmıyor. Çok büyük bir olay değil, ama işler biraz daha iyiye gidecek gibi."
     },
     {
       "id": "announcer_ally_specialbuff_24_1",
-      "dlg": "We've got an advantage for once. So you could've done this all along, and just... didn't? What, was it because it wasn't your job to be good at it?"
+      "dlg": "Bir seferliğine avantajımız oldu. Yani bunu hep yapabilirdin, ve hiç... yapmadın? Ne, iyi olmak senin görevin olmadığı için mi?"
     },
     {
       "id": "announcer_ally_specialdebuff_24_1",
-      "dlg": "Something's up with the employees. They all look a bit... off today. Mind checking on them for me?"
+      "dlg": "Çalışanlarla ilgili birşey var. Hepsi biraz... soluk bugün. Benim için onları kontrol eder misin?"
     },
     {
       "id": "announcer_enemy_destroy_24_1",
-      "dlg": "Man, why's the ground shaking like this? I can't even get a good look at the entity's parts..."
+      "dlg": "Ya, niye zemin böyle sallanıyor? Varlığın parçalarına düzgün bakamıyorum bile..."
     },
     {
       "id": "announcer_enemy_destroy_24_2",
-      "dlg": "Oh. Heard ya smashed something to smithereens or something, manager. Way to go."
+      "dlg": "Ah. Birşeyi paramparça etmişsin diye duydum, müdür. Helal sana."
     },
     {
       "id": "announcer_round_takebigdmg_24_1",
-      "dlg": "It's a familiar sight... Doesn't mean that I'll ever get used to this overwhelming feeling of powerlessness."
+      "dlg": "Tanıdık bir manzara... Bu ezici çaresizlik duygusuna asla alışamayacağım anlamına geliyor."
     },
     {
       "id": "announcer_round_takebigdmg_24_2",
-      "dlg": "I guess this place could never really be safe. Take care of the surviving employees. It's all going to come crashing down again later anyway."
+      "dlg": "Sanırım burası hiçbir zaman güvenli olamaz. Hayatta kalan çalışanlarla ilgilen. Zaten eninde sonunda herşey yeniden çökecek."
     },
     {
       "id": "announcer_round_givebigdmg_24_1",
-      "dlg": "Nngh... my bad, I got all woozy and missed what happened. Well, I'll hazard a guess and say that you probably did something great again."
+      "dlg": "Nnhh... üzgünüm, Baygın oldum ve herşeyi kaçırdım. Şey, Tahminimce yine çok güzel birşey başardın."
     },
     {
       "id": "announcer_round_givebigdmg_24_2",
-      "dlg": "I'll be honest, that right there wasn't anything all that \"great\". Oh, were you looking to be showered with compliments? Why don't you call Miss Angela or Malkuth for that and leave me alone?"
+      "dlg": "Dürüst olmak gerekirse, orası pek de \"harika\" birşey değildi. Ah, iltifat almayı mı bekliyordun? Onun için niye Bayan Angela veya Malkuth'a gitmiyorsun ve beni yalnız bırakmıyorsun?"
     },
     {
       "id": "announcer_multikillenemy_24_1",
-      "dlg": "Oh hey, an employee's showing some promise. Install them a beer vending machine or something, why don't you?"
+      "dlg": "Ah hey, bir çalışan umut vadediyor. Onun için bir bira otomatı falan yap, nasıl fikir?"
     },
     {
       "id": "announcer_equip_24_1",
-      "dlg": "Uh, you already know my name, right? ... It's Netzach. Sephirah of the very unsafe Safety team."
+      "dlg": "Ih, adımı biliyorsun, dimi? ... Adım Netzach. Çok güvenli olmayan güvenlik takımının Sefirotu."
     }
   ]
 }
