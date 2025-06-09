@@ -3,7 +3,7 @@
         {
             "id": "get_11210_1",
             "desc": "Identity Acquisition",
-            "dlg": "Though I may forgive them in Father's stead... he will not find the same clemency within him for my absolution."
+            "dlg": "Ben onları Peder'in yerine affedebilsem de... O beni bağışlamak için gereken merhamete sahip olmayacak."
         },
         {
             "id": "lobby_morning_11210_1",
@@ -33,7 +33,7 @@
         {
             "id": "smalltalk_11210_3",
             "desc": "Chatter #3",
-            "dlg": "This too, must be endured... This is a discipline for myself. The retribution Father would have given me... had he not left on his adventure."
+            "dlg": "Bu da, katlanılmalı... This is a discipline for myself. The retribution Father would have given me... had he not left on his adventure."
         },
         {
             "id": "smalltalk_11210_4",
@@ -43,22 +43,22 @@
         {
             "id": "smalltalk_11210_5",
             "desc": "Post-Uptie Chat 2",
-            "dlg": "Kan... istiyorum... hayır. Düşünme bile. Ah... Peder şuan nerede, acaba? Did he find the helm, the Relic?"
+            "dlg": "Kan... istiyorum... hayır. Düşünme bile. Ah... Peder şuan nerede, acaba? Miğferi buldu mu, the Relic?"
         },
         {
             "id": "neglect_11210_1",
             "desc": "Idle",
-            "dlg": "Did you think about blood today? I did. What about yesterday? Yeah, what about yesterday? Did you also think about blood? Of course I did. Then how about tomorrow? Will you think about blood tomorrow? Are you sure? No, we shouldn't. But can we not think about blood? We're Bloodfiends."
+            "dlg": "Bugün hiç kan düşündünüz mü? Ben düşündüm. Peki ya dün? Evet, peki ya dün? Siz de kan düşündünüz mü? Ben tabii ki düşündüm. Peki ya yarın? Will you think about blood tomorrow? Emin misiniz? Hayır, düşünmemeliyiz. Ama düşünmeyebilir miyiz? Bizler Kan Hınzırıyız."
         },
         {
             "id": "gacksung_11210_1",
             "desc": "Uptying",
-            "dlg": "Though this shame may be masked... the thirst underneath its surface won't leave me alone."
+            "dlg": "Bu utanç maskelense bile... altındaki sussuzluk beni terketmeyecek."
         },
         {
             "id": "formation_11210_1",
             "desc": "Deployment",
-            "dlg": "If that is your wish."
+            "dlg": "Eğer isteğiniz bu ise."
         },
         {
             "id": "battleentry_11210_1",
@@ -68,27 +68,27 @@
         {
             "id": "battle_select_11210_1",
             "desc": "Viewed in Battle",
-            "dlg": "Can you come back later for the consultation? I'm a bit... occupied at the moment."
+            "dlg": "Danışmanlık için sonra gelseniz olur mu? Şuan biraz... meşgulüm de."
         },
         {
             "id": "battle_endcommand_11210_1",
             "desc": "Commencing Attack",
-            "dlg": "Sen de mi bir günahkarsın?"
+            "dlg": "Siz de mi bir günahkârsınız?"
         },
         {
             "id": "battle_enemy_break_11210_1",
             "desc": "Enemy Stagger",
-            "dlg": "This too shall be forgiven..."
+            "dlg": "Bu da affedilecektir..."
         },
         {
             "id": "battle_break_11210_1",
             "desc": "Staggered",
-            "dlg": "Pain... must be endured..."
+            "dlg": "Acı... katlanılmalı..."
         },
         {
             "id": "battle_kill_11210_1",
             "desc": "Enemy Killed",
-            "dlg": "... şimdi dinlen, ebediyen."
+            "dlg": "... Şimdi dinlen, ebediyen."
         },
         {
             "id": "battle_dead_11210_1",
@@ -98,12 +98,12 @@
         {
             "id": "choice_success_p_11210_2",
             "desc": "Check Passed",
-            "dlg": "I'm always here... for you. If something ails you... again, feel free to pay a visit any time."
+            "dlg": "Ben hep buradayım... sizin için. Eğer bir derdiniz olursa... yine, beni ziyaret etmekten çekinmeyin."
         },
         {
             "id": "choice_fail_n_11210_1",
             "desc": "Check Failed",
-            "dlg": "I just... need some time. I can't think about anything other than... blood..."
+            "dlg": "Bana sadece... biraz zaman lazım. Kan dışında hiçbir şey... düşünemiyorum..."
         },
         {
             "id": "battle_clear_11210_1",
@@ -113,12 +113,12 @@
         {
             "id": "battle_clear_ex_11210_1",
             "desc": "Extra Conditions Fulfilled",
-            "dlg": "Blood... there is... so much blood... overflowing... Give it to me! A sip— no, even a droplet of blood! Even if Father will never forgive me for it... I need this!!"
+            "dlg": "Kan... çok fazla... kan... fışkırıyor... Ver bana! Bir yudum— yok, bir damla kan bile olur! Peder bunun için beni affetmeyecek olsa bile... İhtiyacım var!!"
         },
         {
             "id": "battle_defeat_11210_1",
             "desc": "Defeat Wail",
-            "dlg": "Not only did I defy my Father... I sought blood...\nThis failure is the humiliation I deserve."
+            "dlg": "Babama karşı koymakla kalmadım... Kan peşinden koştum...\nBu benim hak ettiğim aşağılanmadır."
         }
     ]
 }
