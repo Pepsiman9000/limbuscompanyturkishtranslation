@@ -2,119 +2,119 @@
   "dataList": [
     {
       "id": "announcer_cheer_2_1",
-      "dlg": "I’ll do my best. …Who just said they won’t listen to a bug?"
+      "dlg": "Elimden gelen en iyisini yapacağım. …Kim bir böceği dinlemeyeceklerini söyledi?"
     },
     {
       "id": "announcer_cheer_2_2",
-      "dlg": "Dunno how helpful my cheerleading will be, but… might as well do what I can."
+      "dlg": "Tezahüratlarım ne kadar yardım eder bilmiyom, ama… elimden gelenin en iyisini yapmanın zararı yoktur."
     },
     {
       "id": "announcer_specialcheer_2_1",
-      "dlg": "Our guys are looking pretty spent. Got a way out of this?"
+      "dlg": "Adamlarımız baya yorgun gözüküyor. Bu işten çıkmanın bir yolunu biliyor musun?"
     },
     {
       "id": "announcer_specialcheer_2_2",
-      "dlg": "Y’all look roughed up bad. Sure you’re alright?"
+      "dlg": "Fena hırpalanmış gibi gözüküyorsunuz. İyi olduğunuzdan emin misiniz?"
     },
     {
       "id": "announcer_enemy_break_2_1",
-      "dlg": "Got ‘em good there. Let’s push ahead and break their ranks."
+      "dlg": "İyi yakaladık onları. İleri itelim ve düzenlerini bozalım."
     },
     {
       "id": "announcer_ally_break_2_1",
-      "dlg": "No good, our formation’s broken. We ought to reorganize."
+      "dlg": "Nafile, formasyonumuz bozuldu. Yeniden organize olmalıyız."
     },
     {
       "id": "announcer_killenemy_2_1",
-      "dlg": "Tango down—oops, old habits die hard… Enemy defeated. Good."
+      "dlg": "Tango düştü-uups, eski alışkanlıkar zor ölür… Düşman yenildi. Güzel."
     },
     {
       "id": "announcer_ally_dead_2_1",
-      "dlg": "Man down. Ugh… That hurts to watch… Manager Bud!"
+      "dlg": "Adam düştü. Ihh… İzlemesi acı çektirtiyor… Müdür Kanka!"
     },
     {
       "id": "announcer_enemy_adv_2_1",
-      "dlg": "…You know we’re gonna taste dirt if this keeps up, right?"
+      "dlg": "…Bu devam ederse toprak tadacağımızı biliyorsun, dimi?"
     },
     {
       "id": "announcer_ally_adv_2_1",
-      "dlg": "Things’re going our way. Let’s end this quick."
+      "dlg": "İşler yolunda gidiyor. Bu işi hızlı halledelim."
     },
     {
       "id": "announcer_danger_2_1",
-      "dlg": "…I’ve got a bad feeling. The decisions you make here might matter a lot."
+      "dlg": "…Kötü bir hissim var. Burada yapcağın seçimler çok önemli."
     },
     {
       "id": "announcer_enemy_specialskill_2_1",
-      "dlg": "Looks like they might be up to something? We’d better get ready ‘less we want trouble."
+      "dlg": "Görünüşe göre birşey planlıyor olabilirler? Sorun istemiyorsak hazırlanmalıyız."
     },
     {
       "id": "announcer_enemy_specialgimmick_2_1",
-      "dlg": "Seems our enemies are brewing curious tactics. Let’s let them cook."
+      "dlg": "Düşmanlarımız şaşırtıcı birkaç taktik oluşturuyorlar gibi. Pişirmelerine izin verelim."
     },
     {
       "id": "announcer_advatk_physical_2_1",
-      "dlg": "That strike was effective. Good, stay focused."
+      "dlg": "O darbe efektifti. Güzel, odaklı kal."
     },
     {
       "id": "announcer_disadvatk_physical_2_1",
-      "dlg": "Whoop… That wasn’t so good. Well, dumm gelaufen. We’ll pull through, long as we don’t give up."
+      "dlg": "Hop…  O çok iyi değildi. Peki, iyi gitmedi. İlerlemeye devam edeceğiz, pes etmediğimiz sürece."
     },
     {
       "id": "announcer_advatk_attr_2_1",
-      "dlg": "Sehr gut, that was sound strategy. Keep advancing."
+      "dlg": "Çok güzel, güzel bir stratejiydi. İlerlemeye devam."
     },
     {
       "id": "announcer_disadvatk_attr_2_1",
-      "dlg": "Not the best option we could’ve picked. Welp… Let’s keep cool heads and try again."
+      "dlg": "Seçebileceğimiz en iyi opsiyon değildi. Neyse… Sakin olup yeniden deneyelim."
     },
     {
       "id": "announcer_enemy_specialbuff_2_1",
-      "dlg": "Did they get stimulants or something…? Our enemies seem to have gotten stronger."
+      "dlg": "Bir uyarıcı falan mı aldılar…? Düşmanlarımız güçlenmiş gibi."
     },
     {
       "id": "announcer_enemy_specialdebuff_2_1",
-      "dlg": "Their morale is down. Now’s our chance to knock ‘em senseless."
+      "dlg": "Moralleri düşük. Şimdi onları darmadağın etme vakti."
     },
     {
       "id": "announcer_ally_specialbuff_2_1",
-      "dlg": "We’re in good spirits. Wanna show ‘em what we’re really made of?"
+      "dlg": "Moralimiz yüksek. Gerçekten neyden yapıldığımızı onlara göstermek ister misin?"
     },
     {
       "id": "announcer_ally_specialdebuff_2_1",
-      "dlg": "Our pals are looking tossed-up. Hey, isn’t it your job to keep them in good condition?"
+      "dlg": "Dostlarımız ne yapacağını bilmiyor gibi. Hey, onları iyi kondisyonda tutmak senin görevin değil mi?"
     },
     {
       "id": "announcer_enemy_destroy_2_2",
-      "dlg": "One of its parts broke. That was a smooth hit."
+      "dlg": "Bir parçası kırıldı. Temiz bir darbeydi."
     },
     {
       "id": "announcer_enemy_destroy_2_1",
-      "dlg": "Great, we got one of its parts. Don’t give it an inch to recover."
+      "dlg": "Güzel, onun bir parçasını hallettik. Toparlanmasına sakın izin verme."
     },
     {
       "id": "announcer_round_takebigdmg_2_2",
-      "dlg": "Verdammt… Hey, you alright?"
+      "dlg": "Siktir… Hey, iyi misin?"
     },
     {
       "id": "announcer_round_takebigdmg_2_1",
-      "dlg": "One of our men looks badly hurt by the attack. Think they can hold out?"
+      "dlg": "Adamlarımızdan biri saldırıdan baya yaralanmış gibi gözüküyor. Sence dayanabilirler mi?"
     },
     {
       "id": "announcer_round_givebigdmg_2_2",
-      "dlg": "Whew, that there was mean piece of work. I might have to buy ‘em a beer or two."
+      "dlg": "Oh, o gerçekten sert biriydi. Ona birkaç bira alabilirim."
     },
     {
       "id": "announcer_round_givebigdmg_2_1",
-      "dlg": "Just remember this flow. You’ve got this one in the bag."
+      "dlg": "Bu akışı hatırla. Bu işi sen kesin hallettin."
     },
     {
       "id": "announcer_multikillenemy_2_1",
-      "dlg": "No time like now to charge forward. Victory’s just within reach. Don’t want any medals, though."
+      "dlg": "İleri atılmak için en iyi vakit. Zafer çok yakın. Hiçbir madalya istemiyorum, ama."
     },
     {
       "id": "announcer_equip_2_1",
-      "dlg": "Ahem… Gregor here. Ahh… Ahhh… Cool to clear my throat before I start?"
+      "dlg": "Ehem… Bu Gregor. Ahh… Ahhh… Başlamadan önce boğazımı temizlememde sakınca var mı?"
     }
   ]
 }
