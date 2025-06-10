@@ -64,6 +64,21 @@
       "id": "battle_erosion_20607_1",
       "desc": "E.G.O Corrosion",
       "dlg": "Hahaha! Yakaladım~!\nİşte yerini bilmeyip kaçarsan böyle olur, kaçgın şey."
-    }
+    },
+    {
+        "id": "battle_awaken_20608_1",
+        "desc": "E.G.O Aktivasyonu",
+        "dlg": "Ağırbaşlı bir zarafetle, bu hak edilmiş cezayı kabul ediyorum."
+      },
+      {
+        "id": "battle_awaken_20608_2",
+        "desc": "E.G.O Aktivasyonu",
+        "dlg": "Tevekkülle, üstümdeki berrak gökleri karartacağım;\nkendi bedenimden arıttığım kanla bu toprağı sulayacağım."
+      },
+      {
+        "id": "battle_erosion_20608_1",
+        "desc": "E.G.O Bozulması",
+        "dlg": "Gökyüzü hükmünü verdi: Bu lekeli, pis bedenin yükselecek bir seması yok…\nEy dünyanın bütün uğursuz şeyleri, sonsuza dek benimle kalın!"
+      }
   ]
 }
