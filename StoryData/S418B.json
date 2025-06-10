@@ -6,33 +6,33 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, this corridor must be the last. Once we're past here, we'll reach the edge of the facility."
+            "content": "Ah, bu koridor da sonuncusu olmalı. Burayı da geçince, tesisin köşesine ulaşmış olacağız."
         },
         {
             "id": 1,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "After I retrieve my precious items from there, I'll give you the ownership of the Golden Bough as promised."
+            "content": "Değerli eşyalarımı oradan aldıktan sonra ise sözleştiğimiz gibi, size Altın Dal'ı vereceğim."
         },
         {
             "id": 2,
             "model": "로쟈",
-            "content": "Feels like this is gonna end on a rotten note, you gonna be okay with that? Those terrorists really must've run off, seeing how none of 'em showed up..."
+            "content": "İşiniz biraz yarım kalmış gibi de, buna eyvallah mı diyeceksiniz sahiden? Hiç birileri gelmediğine göre, teröristler gerçekten de topuklamış olsa gerek..."
         },
         {
             "id": 3,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It was part of the contract to reclaim the laboratory."
+            "content": "Laboratuvarı geri almak, kontratımızın bir parçasıydı ya."
         },
         {
             "id": 4,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That's why I kept telling you, Mr. Dongrang. When you draft a contract, you have to be meticulous and calculating, and write it in a way that favors us."
+            "content": "Bu yüzden diyordum işte, Mr. Dongrang. Bir kontrat oluştururken dikkatli ve ölçülü olun ki, işin sonunda kazançlı taraf biz olalım."
         },
         {
             "id": 5,
@@ -50,7 +50,7 @@
         {
             "id": 8,
             "model": "오티스",
-            "content": "Be on guard, Executive Manager! Someone is ahead of us."
+            "content": "Gardınızı alın, İdari Müdür! Birisi hemen karşımızda."
         },
         {
             "id": 9,
@@ -60,7 +60,7 @@
         {
             "id": 10,
             "model": "오티스",
-            "content": "They may be unarmed, but you are an incredibly weak and fragile civilian, Executive Manager!"
+            "content": "Silahsız olabilirler, fakat siz de kırılgan ve savunmasız bir sivilsiniz, İdari Müdür!"
         },
         {
             "id": 11,
@@ -72,153 +72,153 @@
             "model": "란",
             "teller": "???",
             "title": "Technology Liberation Alliance",
-            "content": "Can't you count? You clearly outnumber us by a huge margin. Don't be a baby..."
+            "content": "Sayamıyor musunuz lan? Sayı üstünlüğü bal gibi de sizde. Ağlamayın hemen..."
         },
         {
             "id": 13,
             "model": "란",
             "teller": "???",
             "title": "Technology Liberation Alliance",
-            "content": "Here at last, worms?"
+            "content": "Gelebildiniz ha, kurtçuklar?"
         },
         {
             "id": 14,
             "model": "싱클레어",
-            "content": "It's the same voice that played from the machines. And... it's the same face we saw earlier."
+            "content": "Makinelerden gelen sesin aynısı. Ve aynı zamanda... daha önceden gördüğümüz bir yüz."
         },
         {
             "id": 15,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Where are your other members, Senior Researcher Ran?"
+            "content": "Yoldaşların nerede, Kıdemli Araştırmacı Ran?"
         },
         {
             "id": 16,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "...You managed to bring more help in that mess, I see."
+            "content": "...Görüyorum ki, o kargaşada biraz daha destek kuvvet bulmuşsunuz."
         },
         {
             "id": 17,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "And put away that \"senior\" crap, we haven't even known each other for long. Don't you see what's going on?"
+            "content": "Ayrıca şu \"kıdemli\" şeyini bırak, uzun zamandır bile tanışık değiliz. Ne durumda olduğumuzu anlıyor musun?"
         },
         {
             "id": 18,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "They've all evacuated. And here I am... buying time for them."
+            "content": "Hepsi tahliye oldu, ben ise... onlar adına zaman kazanmak için buradayım."
         },
         {
             "id": 19,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That's interesting... We thought we stormed in unexpectedly, yet you knew it in advance and escaped?"
+            "content": "İlginç... Beklenmedik bir baskında bulunduğumuzu sanıyorduk, fakat bunu önceden farkedip kaçabildiniz mi?"
         },
         {
             "id": 20,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "'Cause you're worms. Look at you, getting all cocky after receiving the best employee award..."
+            "content": "Kurtçuksunuz ya hani. Baksana, en iyi çalışan ödülünü aldıktan sonra bi' havalara girmişsin..."
         },
         {
             "id": 21,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "Raiding here, dare trying to catch us."
+            "content": "Bizi yakalamaya cürret edecek kadar götün kalkmış."
         },
         {
             "id": 22,
             "model": "히스클리프",
-            "content": "You've got a big mouth. You think you're better than us?"
+            "content": "Ağzın iyi boş yapıyor hele. Bizden sağlam olduğunu mu düşünüyorsun lan?"
         },
         {
             "id": 23,
             "model": "히스클리프",
-            "content": "You're outnumbered like you said. That noggin of yours probably knows you'd better surrender, eh?"
+            "content": "Dediğin gibi, sayı avantajı bizde. Senin saksı da teslim olmanın iyi bir fikir olduğunu biliyordur, eh?"
         },
         {
             "id": 24,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "...Let's say I do. It's clear what you'll do with me."
+            "content": "...Diyelim teslim oldum. Bana napacağınız apaçık ortada."
         },
         {
             "id": 25,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "You'll neutralize me and keep me barely alive..."
+            "content": "Beni etkisiz hale getirip, ölümün eşiğinde tutacaksınız..."
         },
         {
             "id": 26,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "\"Curing\" me with your flaunted regeneration ampules..."
+            "content": "Şatafatlı renejerasyon ampulleriniz ile beni iyileştireceksiniz..."
         },
         {
             "id": 27,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "Rinse and repeat, until you get the answers you want."
+            "content": "Ve istediğiniz cevabı alana kadar bunu tekrar edeceksiniz."
         },
         {
             "id": 28,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Sounds like a problem that can be prevented by giving us the answers right away. Am I asking too much?"
+            "content": "Bize direkt olarak istediğimizi söyleyerek rahatlıkla kaçınabileceğin bir durum. Çok mu şey istiyorum?"
         },
         {
             "id": 29,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "'Course you are. Unlike you..."
+            "content": "Tabii ki çok şey istiyorsun. Senin aksine..."
         },
         {
             "id": 30,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "We aren't planning to live like roaches that feed on whatever is provided from above."
+            "content": "Gökten ne düşerse onu yiyerek geçinen böcekler gibi yaşamak istemiyoruz."
         },
         {
             "id": 31,
             "model": "그레고르",
-            "content": "...This is really getting on my nerves."
+            "content": "...Damarıma basmaya başladı ama."
         },
         {
             "id": 32,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "Ah, whatever~ I've had enough of toying with you."
+            "content": "Ah, neyse ne~ Sizinle oynamak canımı sıkmaya başladı."
         },
         {
             "id": 33,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "What are you trying to..."
+            "content": "Napmaya çalışıyorsun..."
         },
         {
             "id": 34,
             "model": "란",
             "teller": "Ran",
             "title": "Technology Liberation Alliance",
-            "content": "That's right, show your curiosity only to what's happening immediately before your eyes. That's how a researcher should be."
+            "content": "Merakını, sadece gözünün önünde yaşanan şeye saklamalısın. Bir araştırmacı, tam olarak böyle birisi olmalı."
         },
         {
             "id": 35,
@@ -245,28 +245,28 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Are you alright, Mr. Dongrang?"
+            "content": "İyi misiniz, Bay Dongrang?"
         },
         {
             "id": 40,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I'm fine... Someone in Dante's party pushed me away as soon as the blast was heard. You know, the quiet fellow with intimidating eyes."
+            "content": "İyiyim... Dante'nin grubundan birisi patlama esnasında beni alan dışına ittirdi. Bilirsin, şu korkutucu bakışlı sessiz adam."
         },
         {
             "id": 41,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I was going to do the same, but I was standing too far away."
+            "content": "Ben de aynısını yapacaktım, fakat biraz uzakta kaldım."
         },
         {
             "id": 42,
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "Whew, that was close."
+            "content": "Hüff, bu yakındı işte."
         },
         {
             "id": 43,
@@ -281,14 +281,14 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It must be the faith that they will come back to life at any time that prompted them to jump into danger without hesitation."
+            "content": "Her tehlikeye ikinci kez atlama düşünceleri, öldükleri her an sahneye geri döneceklerini bilmelerinden gelen inançtan dolayı olmalı."
         },
         {
             "id": 46,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Not out of any sort of friendship or affinity... Isn't that right?"
+            "content": "Yoldaşlık duygusundan falan değil yani... Haksız mıyım?"
         },
         {
             "id": 47,
@@ -297,7 +297,7 @@
         {
             "id": 48,
             "model": "뫼르소",
-            "content": "...Cough."
+            "content": "...Öhö."
         },
         {
             "id": 49,
@@ -307,21 +307,21 @@
         {
             "id": 50,
             "model": "뫼르소",
-            "content": "...It was my directive to protect the manager and see that the company's mission is accomplished."
+            "content": "...Şirketin görevinin tamamlanması gereği, ve bana verilen müdürü koruma görevimden dolayı bu hamlede bulundum."
         },
         {
             "id": 51,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That... must be it, yes."
+            "content": "Evet... nedeni bu olmalı."
         },
         {
             "id": 52,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "How convenient. You can recover your body without using regeneration ampules."
+            "content": "Ne de münasıp. Rejenerasyon ampulü gerekmeksizin vücudunuzu iyileştirebiliyorsunuz."
         },
         {
             "id": 53,
@@ -338,42 +338,42 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Right, is Ms. Shrenne alright? And the other Fixers?"
+            "content": "Pekala, Bayan Shrenne'ye bir şey oldu mu? Ve diğer İşçözücülere?"
         },
         {
             "id": 56,
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "We're perfectly sound."
+            "content": "Gayet iyiyiz."
         },
         {
             "id": 57,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "Your group blocked the blast for us, so we turned out fine."
+            "content": "Grubunuz bizim yerimize patlamayı göğüslediği için, bir şeyimiz olmadı."
         },
         {
             "id": 58,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "That's... why you haven't been taking the ampules. That clock had special powers."
+            "content": "Yani bu yüzden... ampulleri almıyordunuz. O saatin özel güçleri var."
         },
         {
             "id": 59,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Indeed. After all, I recruited them after thorough screening and testing."
+            "content": "Kesinlikle. Günün sonunda, onları derin bir test ve araştırma sonucunda bize katabildim."
         },
         {
             "id": 60,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "I see... Well, darn... All the ampules I brought... are useless now."
+            "content": "Anlıyorum... O halde... Getirdiğim onca ampulün... hiç bir amacı kalmadı."
         },
         {
             "id": 61,
@@ -402,7 +402,7 @@
         {
             "id": 67,
             "model": "히스클리프",
-            "content": "Clock...face... Stop...dawdling about... That yellow-haired lass is dying..."
+            "content": "Saat...kafa... Boş boş...konuşmayı bırak... Bizim sarışın kız gebermek üzere..."
         },
         {
             "id": 68,
@@ -411,7 +411,7 @@
         {
             "id": 69,
             "model": "히스클리프",
-            "content": "Hurry up and turn it... This... hurts an awful lot..."
+            "content": "Hızlı ol ve çevir şunu... Çok... pis acıtıyor amına koyayim..."
         },
         {
             "id": 70,
