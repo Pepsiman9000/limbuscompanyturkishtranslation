@@ -69,6 +69,17 @@
       "id": "battle_erosion_20307_1",
       "desc": "E.G.O Corrosion",
       "dlg": "Açlığımızı anlayamazsınız! Gerekirse sizin de kanınızı içeceğim...\nve... ve çiçek açarım — Ey al renk, gitgide daha da derinleş!"
-    }                                                                    
+    
+    },
+      {
+        "id": "battle_awaken_20308_1",
+        "desc": "E.G.O Aktivasyonu",
+        "dlg": "Heheh! Ne kadar da dilekle dolusun... Hangisinin gerçeğe dönüşmesini arzuluyorsun, söyle bakalım?!"
+      },
+      {
+        "id": "battle_erosion_20308_1",
+        "desc": "E.G.O Bozulması",
+        "dlg": "Hooh... umutlar, arzular—bütün bu illetler paramparça olacak...! Ve ben seni onların boyunduruğundan azat edeceğim!"
+      }
   ]
 }
