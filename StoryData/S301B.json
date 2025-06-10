@@ -3,7 +3,7 @@
     {
       "id": 0,
       "place": "Aboard Mephistopheles",
-      "content": "Güneş nerdeyse batmıştı, Otobüsü kızılıklar içinde bırakarak."
+      "content": "Güneş nerdeyse batmıştı, otobüsü kızılıklar içinde bırakarak."
     },
     {
       "id": 1,
@@ -21,7 +21,7 @@
     {
       "id": 4,
       "model": "베르길리우스",
-      "content": "En güzel performanslar, kırılmış yahut bozuk ensturmanlardan doğar. İronik, bu dünyanın işleyişi.."
+      "content": "En güzel performanslar, kırık yahut bozuk enstrümanlardan doğar. İronik, bu dünyanın işleyişi.."
     },
     {
       "id": 5,
@@ -82,20 +82,20 @@
     },
     {
       "id": 17,
-      "content": "Öyle bir ton ki, birine yanlzlığı betimleyen bir renk seç denirse, düşünmeden seçeceği tarzdan."
+      "content": "Öyle bir ton ki, birine yanlızlığı betimleyen bir renk seç denirse düşünmeden seçeceği bir renk."
     },
     {
       "id": 18,
-      "content": "Ama bu sahne Ağzı Çiçekli Adam gibi kısacıktı…"
+      "content": "Ama bu sahne <i>Ağzı Çiçekli Adam</i> gibi kısacıktı…"
     },
     {
       "id": 19,
-      "content": "Ben de bunu parlak gün batımının kandırmacasına yormaya karar verdim."
+      "content": "Ben de bunu parlak gün batımının kandırmacasına yormuştum."
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "…Charon'un şu an mırıldandığı dünya, hem renkten ne de sesten yoksun olandan."
+      "content": "…Charon'un şu an mırıldandığı dünya, hem renkten hem de sesten yoksun olandan."
     },
     {
       "id": 21,
@@ -108,17 +108,17 @@
     },
     {
       "id": 23,
-      "content": "Charon ve Vergilius'un da kendilerine ait acımasız hatıra yumakları var."
+      "content": "Charon ve Vergilius'un da kendilerine ait acımasız hatıra düğümleri vardır."
     },
     {
       "id": 24,
       "model": "베르길리우스",
-      "content": "Ah, pardon. Sanırım bu kadar kişisel hikaye yeter, Dante."
+      "content": "Ah, kusuruma bakma. Sanırım bu kadar kişisel hikaye yeter, Dante."
     },
     {
       "id": 25,
       "model": "베르길리우스",
-      "content": "Senin işin ekibini yönetmek, bu yaşlı rehbele arkadaş olmak değil."
+      "content": "Senin işin ekibini yönetmek, bu yaşlı rehberle arkadaş olmak değil."
     },
     {
       "id": 26,
@@ -126,7 +126,7 @@
     },
     {
       "id": 27,
-      "content": "Onu bir kaç kez başımı sallayarak onayladım ve Günahâkrları kontrol etmek için arkaya döndüm."
+      "content": "Onu bir kaç kez başımı sallayarak onayladım ve Günahkârları kontrol etmek için arkaya döndüm."
     },
     {
       "id": 28,
@@ -134,16 +134,16 @@
     },
     {
       "id": 29,
-      "content": "İlk defa uğruna toplandıklar işi yapıp bir Altın Dal'ı ele geçirmeleri buna yardımcı olmuştu."
+      "content": "İlk defa uğruna toplandıklar işi becerip bir Altın Dal'ı ele geçirmeleri buna yardımcı olmuştu."
     },
     {
       "id": 30,
-      "content": "Tüm günahkarlar J Kuruluşu'nun Eyaleti'nde yaptıkları hakkında konuşmakla meşguldü."
+      "content": "Tüm Günahkârlar J Kuruluşu'nun Eyaleti'nde yaptıkları hakkında konuşmakla meşguldü."
     },
     {
       "id": 31,
       "model": "로쟈",
-      "content": "O kartı masaya vurmamı görmeliydin. Harbiden, inanılmaz önemliydi~"
+      "content": "O kartı masaya vurmamı görmeliydin. Harbiden, bütün ışıklar bendeydi~"
     },
     {
       "id": 32,
@@ -188,7 +188,7 @@
     {
       "id": 40,
       "model": "료슈",
-      "content": "Eh, etin bölge bölge kızaran kan rengini hayal etkmek ağız sulandırıyor."
+      "content": "Eh, etin bölge bölge kızaran kan rengini hayal etmek ağız sulandırıyor."
     },
     {
       "id": 41,
@@ -202,7 +202,7 @@
     },
     {
       "id": 43,
-      "content": "Elle tutulur bir konuşma ve hikayeler paylaşma hasretinde Rodya, doğal olarak Sinclair'e döndü."
+      "content": "Elle tutulur bir konuşma geçirme ve hikayeler paylaşma hasretinde olan Rodya, doğal olarak Sinclair'e dönmüştü."
     },
     {
       "id": 44,
@@ -250,7 +250,7 @@
     {
       "id": 53,
       "model": "싱클레어",
-      "content": "Sadece… Sadece miğdem rahatsızlandı. Üzgünüm."
+      "content": "Sadece… Sadece midem rahatsızlandı. Üzgünüm."
     },
     {
       "id": 54,
@@ -265,12 +265,12 @@
     {
       "id": 56,
       "model": "단테",
-      "content": "<Faust, berirli bir trend yakalıyorum ki ne zaman Vergilius durağımızı açıklarsa; içimizden birisine inme iniyor.>"
+      "content": "<Faust, berirli bir trend yakalıyorum ki ne zaman Vergilius durağımızı açıklasa; içimizden birisine inme iniyor.>"
     },
     {
       "id": 57,
       "model": "단테",
-      "content": "<Ek olarak, vardığımızda, inme inen kişinin aslında o durakla çokca içli dışlı olduğunu öğreniyoruz.>"
+      "content": "<Ek olarak, vardığımızda, inme inen kişinin aslında o durakla çokça içli dışlı olduğunu öğreniyoruz.>"
     },
     {
       "id": 58,
@@ -295,7 +295,7 @@
     {
       "id": 62,
       "model": "파우스트",
-      "content": "Sorunuza gelecek olursak, Günahkâr işe alım detaylarını sizinle paylaşmayacak olsam da…"
+      "content": "Sorunuza gelecek olursak, Günahkâr işe alım detaylarını sizinle paylaşamayacak olsam da…"
     },
     {
       "id": 63,
@@ -315,12 +315,12 @@
     {
       "id": 66,
       "model": "히스클리프",
-      "content": "Hyst… Hysterone??"
+      "content": "Hyst… Hystero ne??"
     },
     {
       "id": 67,
       "model": "파우스트",
-      "content": "…Anlamı: Faust'u anlamak için zorlanımanın sebebi eğitimsizliğinden, Faust'un iyi eğitimliliğinden değil."
+      "content": "…Anlamı: Faust'u anlamak için zorlanmanın sebebi eğitimsizliğinden, Faust'un iyi eğitimliliğinden değil."
     },
     {
       "id": 68,
@@ -334,7 +334,7 @@
     },
     {
       "id": 70,
-      "content": "Tam Heathliff ellerindeki sinirden titreyen sopayla Faust'a doğru yürürken…"
+      "content": "Tam Heathcliff ellerindeki sinirden titreyen sopayla Faust'a doğru yürürken…"
     },
     {
       "id": 71,
