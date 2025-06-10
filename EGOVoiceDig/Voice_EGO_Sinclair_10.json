@@ -64,6 +64,17 @@
       "id": "battle_erosion_21007_1",
       "desc": "E.G.O Corrosion",
       "dlg": "Artık lime lime oldun… , seni dikeceğim! Heheh... Gel buraya!"
+    },
+    {
+      "id": "battle_awaken_21008_1",
+      "desc": "E.G.O Aktivasyonu",
+      "dlg": "Yeryüzüne bağlandım ama... seni kucaklayabilmek için bu sonsuz düşüşe katlanıyorum."
+    },
+    {
+      "id": "battle_erosion_21008_1",
+      "desc": "E.G.O Bozulması",
+      "dlg": "Toprağın, senin günahların için bir cezası yok.\nŞimdi gözlerini kapa. Göklerin hükmünü kabullen."
     }
+
   ]
 }
