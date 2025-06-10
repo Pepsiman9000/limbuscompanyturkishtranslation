@@ -94,6 +94,16 @@
       "id": "battle_erosion_20808_1",
       "desc": "E.G.O Corrosion",
       "dlg": "Merak tehlikeli bir şeydir,bilirsin... eğer fazlasına kapılırsan, karanlık seni yutar.!"
-    }
+    },
+    {
+  "id": "battle_awaken_20809_1",
+  "desc": "E.G.O Aktivasyonu",
+  "dlg": "Akıl ermez Sonsuzluk. Eğer inancın... cesaret bulduysa... o aptalca şüpheleri yüreğinden söküp atmalıydın!"
+},
+{
+  "id": "battle_erosion_20809_1",
+  "desc": "E.G.O Bozulması",
+  "dlg": "Şüphe yok. İnancı kazı zihnine. Karanlıkta dua et... takıntıyla dua et."
+}
   ]
 }
