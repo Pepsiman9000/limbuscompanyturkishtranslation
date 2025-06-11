@@ -88,7 +88,7 @@
         {
             "id": "battle_kill_10109_1",
             "desc": "Enemy Killed",
-            "dlg": "Finally... it is complete."
+            "dlg": "Sonunda... tamamlandı."
         },
         {
             "id": "battle_dead_10109_1",
@@ -103,7 +103,7 @@
         {
             "id": "choice_fail_n_10109_1",
             "desc": "Check Failed",
-            "dlg": "Mm... that may be a failing grade."
+            "dlg": "Mm... bu sınıfta kalma sayılabilir."
         },
         {
             "id": "battle_clear_10109_1",
