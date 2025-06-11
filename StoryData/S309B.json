@@ -23,7 +23,7 @@
     },
     {
       "id": 4,
-      "content": "O ciddi ama Charonumsu tavrında söyleyeceği birkaç bir şey var gibiydi ama, Vergilius elini omzuna koydu ve ona yöneldi."
+      "content": "O ciddi ama Charonumsu tavrında söyleyeceği birkaç bir şey daha var gibiydi ama, Vergilius elini omzuna koydu ve ona yöneldi."
     },
     {
       "id": 5,
@@ -47,7 +47,7 @@
     },
     {
       "id": 9,
-      "content": "Gurubu dağıtarak kendi koltukalrımıza oturduk…"
+      "content": "Gurubu dağıtarak kendi koltuklarımıza oturduk…"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
     },
     {
       "id": 15,
-      "content": "Kırpacak bir gözüm bile yok, o yüzden bir anını bile kaçırmama imkan yok ama, yinede…"
+      "content": "Kırpacak bir gözüm bile yok, o yüzden bir anını bile kaçırmama imkan yok ama, yine de…"
     },
     {
       "id": 16,
@@ -142,7 +142,7 @@
     },
     {
       "id": 27,
-      "content": "Tabii ki de, kendi tavırları yüzünden böleydi ama…"
+      "content": "Tabii ki de, kendi tavırları yüzünden bu halde idi ama…"
     },
     {
       "id": 28,
@@ -218,7 +218,7 @@
       "model": "베르길리우스2",
       "teller": "Vergilius",
       "title": "Guide",
-      "content": "Nush ile uslanmadın etmeliydi seni tekdir. Tekdirden de anlamadın, artık hakkın kötekdir."
+      "content": "<i>Nush ile uslanmadın etmeliydi seni tekdir. Tekdirden de anlamadın, artık hakkın kötektir.</i>."
     },
     {
       "id": 41,
@@ -251,7 +251,7 @@
     },
     {
       "id": 47,
-      "content": "Sadece konusunu açmanın bile Don Quixoteyi susturmaya yetten bir anlaşma…"
+      "content": "Sadece konusunu açmanın bile Don Quixoteyi susturmaya yeten bir anlaşma…"
     },
     {
       "id": 48,
@@ -320,7 +320,7 @@
     {
       "id": 59,
       "model": "히스클리프",
-      "content": "…Tamam be, anladık lan! Tsk."
+      "content": "…Tamam be, anladık lan! Tç."
     }
   ]
 }
