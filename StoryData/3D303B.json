@@ -272,22 +272,23 @@
       "teller": "Kromer",
       "title": "Student",
       "content": "Sana olan sözümü tutacağıma yemin ediyorum, gerçekten bak."
+    },
     {
       "id": 49,
       "model": "학생크로머",
       "teller": "Kromer",
       "title": "Student",
-      "content": "Sadece mahzenin anahtarını ver, ve yol bulma işini bana bırak…"
+      "content": "Sadece Bodrumun anahtarını ver, ve yol bulma işini bana bırak…"
     },
     {
       "id": 50,
       "model": "싱클레어",
-      "content": "Kelimelerinde gizlenmiş olan o benzerliği farketmemiş bir şekilde, Yavaşça başımı sallamıştım…"
+      "content": "Kelimelerinde gizlenmiş olan o soluk tanıdık hissi farketmemiş bir şekilde, Yavaşça başımı sallamıştım…"
     },
     {
       "id": 51,
       "model": "싱클레어",
-      "content": "Böyle, kötülüklerin dünyası, tam da evimin ortasında başlamıştı."
+      "content": "Böylece, kötülüklerin dünyası, tam da evimin ortasında başlamıştı.\n<color=#8b9c15>Die böse Welt indessen begann schon mitten in unserem eigenen Hause</color> "
     }
   ]
 }
