@@ -4,22 +4,22 @@
       "id": 0,
       "place": "Classroom",
       "model": "싱클레어",
-      "content": "Bir gün, Demian adlı bir nakil öğrencisi, sıramın hemen yanına yerleştirilmişti."
+      "content": "Bir gün, Demian adlı bir transfer öğrenci, sıramın hemen yanına yerleştirildi."
     },
     {
       "id": 1,
       "model": "싱클레어",
-      "content": "Onu her gördüğümde çevresinde bir kalabalık vardı."
+      "content": "Ona her baktığımda, çevresinde bir kalabalık olurdu."
     },
     {
       "id": 2,
       "model": "싱클레어",
-      "content": "Fakat çevresindeki hiç kimseye bağlanmadığını hissettiriyordu."
+      "content": "Fakat çevresindeki hiç kimseyle bağlanmadığını hissediyordum."
     },
     {
       "id": 3,
       "model": "싱클레어",
-      "content": "Bana sanki havada uçuyormuş gibi geliyordu; öyle bir ilgisizlik hissi veriyordu."
+      "content": "Bana sanki havada uçuyormuş gibi geliyordu; öyle bir ilgisiz biriydi."
     },
     {
       "id": 4,
@@ -39,27 +39,27 @@
     {
       "id": 7,
       "model": "싱클레어",
-      "content": "Gözlerim sürekli tahtadan uzaklaşıyordu, ve ben farkında olmadan cama doğru yöneliyordu."
+      "content": "Gözlerim sürekli tahtadan kayıyordu ve ben farkında olmadan, cama doğru yöneliyorlardı."
     },
     {
       "id": 8,
       "model": "싱클레어",
-      "content": "Camdan ise, onun yürüyüş yapışına şahitlik etmiştim."
+      "content": "Camdan ise, onun etrafta gezdiğine şahitlik ettim."
     },
     {
       "id": 9,
       "model": "싱클레어",
-      "content": "Her zamanki gibi nazik bir gülümseme ile, arkadaşları tarafından çevrelenmişti."
+      "content": "Her zamanki gibi sönük bir gülümsemesiyle ile, arkadaşları ile çevriliydi."
     },
     {
       "id": 10,
       "model": "싱클레어",
-      "content": "Jestleri bile onun yaşında birinin yapacağı jestlerden farklı görünüyordu; Olgun ama bir o kadar da yalnız bir hava taşıyordu."
+      "content": "Jestleri bile onun yaşında birinin yapacağı jestlerden farklı görünüyordu; Olgun ama bir o kadar da münzevi bir hava taşıyordu."
     },
     {
       "id": 11,
       "model": "싱클레어",
-      "content": "Güneş ışıklarının eşliğinde, saçını geriye atmıştı."
+      "content": "Güneş ışıklarının eşliğinde, saçını geriye attı."
     },
     {
       "id": 12,
@@ -74,7 +74,7 @@
     {
       "id": 14,
       "model": "싱클레어",
-      "content": "Doğru mu görmüştüm? Belki de kör edici güneş ışığının, alnından yansımasıydı."
+      "content": "Doğru mu görmüştüm? Belki de sadece kör edici güneş ışığının alnından yansımasıydı."
     },
     {
       "id": 15,
@@ -84,34 +84,34 @@
     {
       "id": 16,
       "model": "싱클레어",
-      "content": "Onunla göz teması kurduğumu hissettim."
+      "content": "Onunla göz teması kuruyormuş gibi hissetim."
     },
     {
       "id": 17,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
+      "title": "Gizemli Transfer Öğrenci",
       "content": "……"
     },
     {
       "id": 18,
       "model": "싱클레어",
-      "content": "Bazı öğrenciler hala dışarıda sohbet ediyordu."
+      "content": "Bazı öğrenciler hala dışarıda sohbet ediyorlardı."
     },
     {
       "id": 19,
       "model": "싱클레어",
-      "content": "Onun bakışlarını hissettiğim anda, Çabucak gözlerimi camdan çekip, masaya dikivermiştim."
+      "content": "Onun bakışlarını hissettiğim anda, Çabucak gözlerimi camdan çekip masaya diktim."
     },
     {
       "id": 20,
       "model": "싱클레어",
-      "content": "O garip olaydan beridir, Demian benimle arkadaş canlısı bir tonla konuşmaya başlamıştı."
+      "content": "O garip olaydan sonra, Demian benimle arkadaş canlısı bir tonla konuşmaya başlamıştı."
     },
     {
       "id": 21,
       "model": "싱클레어",
-      "content": "Garip bir şekilde, Demian ile konuştuğum günlerde, Kromer bana selam vermeye gelmezdi."
+      "content": "Garip bir şekilde, Demian ile konuştuğum günler, Kromer bana selam vermeye gelmezdi."
     },
     {
       "id": 22,
@@ -123,92 +123,92 @@
       "place": "Classroom",
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "I often have this dream, Sinclair."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "Sıkça şöyle bir rüya görürüm, Sinclair."
     },
     {
       "id": 24,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "In it, I climb an endlessly long ladder. Then everything down below comes into view. The Nest, the Backstreets, the Outskirts, all of it."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "İçerisinde, sonsuz bir merdivene tırmanırım. Sonra aşşağıda kalan her şey nazarıma ilişir. Yuvalar, Arka Sokaklar, Taşra, hepsi."
     },
     {
       "id": 25,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "And when I look beneath my feet, all the lights are out in the City, as if the end of all things had come."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "Ve ayağımın altına baktığımda, Şehir'deki bütün ışıklar sönmüş olur, sanki “her varlığın sonu” gelmiş gibi."
     },
     {
       "id": 26,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "Fallen into silent death, empty of any motion."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "<i>Sessiz bir gemi, sallanmaz ne mendil ne de bir kol</i>."
     },
     {
       "id": 27,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "Indeed, it’s the state of death itself."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "Gerçekten de, ölümün ta kendisi."
     },
     {
       "id": 28,
       "model": "싱클레어",
-      "content": "Demian, Taşra'ya mı gittin sen?"
+      "content": "Demian, Taşra'da bulundun mu?"
     },
     {
       "id": 29,
       "model": "싱클레어",
-      "content": "Korkmuş bir şekilde ona fısıldamıştım."
+      "content": "Korkmuş bir şekilde fısıldadım."
     },
     {
       "id": 30,
       "model": "싱클레어",
-      "content": "Kimsenin gidemeyeceği ve gitmek istemeyeceği korkunç bir yer hakkında konuşuyordu."
+      "content": "Kimsenin gidemeyeceği ve gitmemesi gereken yasaklı bir yer hakkında konuşmuştu."
     },
     {
       "id": 31,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "Sinclair, the world as people want to define it can’t be divided into places of where you should and shouldn’t go."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "Sinclair, insanların isteğinin aksine; dünya, gimen gereken yahut gitmemen gereken yerler olarak ayrılıp tanımlanamaz."
     },
     {
       "id": 32,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "Do you think love and freedom can be found within the confines of this Nest? Compared to here, life is much richer in the Outskirts."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "Özürlük ve sevginin Yuvaların tabutları içersinde bulunabilir mi dersin? Buraya kıyasla, Taşra'da hayat çok daha zengin."
     },
     {
       "id": 33,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "There’s something I’ve been pondering for a long time, and I thought that maybe that’s where I could find the answer."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "Efkarımı uzunca bir süredir meşgul eden bir şey var, ve belki cevabımı bulacağım yerin burası olabileceğini düşünmüştüm."
     },
     {
       "id": 34,
       "model": "싱클레어",
-      "content": "Demian ile her sohbetimde, ruhumun biraz olsun olgunlaştığını hissediytordum."
+      "content": "Demian ile olan her sohbetimde, ruhumun biraz olsun olgunlaştığını hissediyordum."
     },
     {
       "id": 35,
       "model": "싱클레어",
-      "content": "Fakat ona asla değişim prosedürüne karşı olan korkum, veya Kromer ile olan ilişkimden bahsetmemiştim."
+      "content": "Fakat asla ona değişim prosedürüne karşı olan korkum, veya Kromer ile olan ilişkimden bahsetmemiştim."
     },
     {
       "id": 36,
       "model": "싱클레어",
-      "content": "Benim hakkımda daha çok şey bilmek istiyor olsa bile, sırlarımı paylaşmakta pek bir çekingendim."
+      "content": "Benim hakkımda daha çok şey bilmek istiyor olsa bile, sırlarımı paylaşmak konusunda, çok çekingendim"
     },
     {
       "id": 37,
       "model": "싱클레어",
-      "content": "Derin korkularımı ona göstermekten çekiniyordum."
+      "content": "Karşısında derinde gizlenmiş sırlarımla yüzleşmek için çok utanıyordum."
     },
     {
       "id": 38,
@@ -225,34 +225,34 @@
       "model": "학생크로머",
       "teller": "Kromer",
       "title": "Student",
-      "content": "Yo, Sinclair, bana mahzenini gösterebilir misin?"
+      "content": "Yo, Sinclair, bana bodrumunu gösterebilir misin?"
     },
     {
       "id": 41,
       "model": "싱클레어",
-      "content": "Kelimeleri hiçlikten gelmişti, fakat bir tüy kadar da hafifti."
+      "content": "Sözleri hiçlikten gelip beni gafil avlamıştı, bir tüy kadar da hafif olsalarda."
     },
     {
       "id": 42,
       "model": "싱클레어",
-      "content": "Bir silgiyi yerden almak kadar basit bir şeymiş gibi söylemişti, ki neredeyse kendimi dediklerini kabul ederken bulacaktım."
+      "content": "Bir silgiyi yerden almak kadar basit bir şeymiş gibi söylemişti, ki neredeyse kendimi dediklerini kabul ederken buluyordum."
     },
     {
       "id": 43,
       "model": "싱클레어",
-      "content": "P-Peki neden özellikle mahzenim?"
+      "content": "P-Peki neden özellikle bodrumum?"
     },
     {
       "id": 44,
       "model": "학생크로머",
       "teller": "Kromer",
       "title": "Student",
-      "content": "Eğer duymuş olduğum dedikodu doğru ise, eviniz skandal dolu bir yere bağlı. Kontrol etmem gereken bir şey var."
+      "content": "Eğer duymuş bulunduğum dedikodu doğruysa, eviniz skandal dolu bir yere bağlı. Kontrol etmem gereken bir şey var."
     },
     {
       "id": 45,
       "model": "싱클레어",
-      "content": "Fakat ebeveynlerim…"
+      "content": "Fakat Ailem…"
     },
     {
       "id": 46,
