@@ -2,82 +2,82 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Pequod Town",
+            "place": "Pequod Kenti",
             "model": "피쿼드호주민1",
             "teller": "???",
             "title": "???",
-            "content": "Here we are! Welcome to Pequod Town."
+            "content": "İşte geldik! Pequod Kenti'ne hoşgeldiniz."
         },
         {
             "id": 1,
             "model": "피쿼드호주민2",
             "teller": "???",
             "title": "???",
-            "content": "We're back, Cap'n! Look what we fished up!"
+            "content": "Geri geldik, Kaptan! Bak ne yakaladık!"
         },
         {
             "id": 2,
             "model": "단테",
-            "content": "<Captain?>"
+            "content": "<Kaptan?>"
         },
         {
             "id": 3,
             "model": "에이해브",
             "teller": "Captain?",
             "title": "???",
-            "content": "Quite the catch indeed! You certainly are an excellent scout, Starbuck!"
+            "content": "Gerçekten güzel bir av! Gerçekten iyi bir gözcüsün, Starbuck!"
         },
         {
             "id": 4,
-            "content": "A wiry old woman approached us, her harsh voice tickling our ears."
+            "content": "Zayıf görünen yaşlı bir kadın bize yaklaştı, sert sesi kulaklarımızı tırmalıyordu."
         },
         {
             "id": 5,
             "model": "에이해브",
             "teller": "Captain?",
             "title": "???",
-            "content": "Two gold coins for you, lad. And here's one for the twins."
+            "content": "Senin için 2 altın para, delikanlı. Ve ikizler için de bir tane."
         },
         {
             "id": 6,
             "model": "피쿼드호주민1",
             "teller": "???",
             "title": "???",
-            "content": "Thank you, Cap'n."
+            "content": "Teşekkürler, Kaptan."
         },
         {
             "id": 7,
             "model": "에이해브",
             "teller": "Captain?",
             "title": "???",
-            "content": "It has been a long, long while since our Pequod Town gained new villagers."
+            "content": "Pequod Kenti, uzun zamanlardır yeni yerliler görmemişti."
         },
         {
             "id": 8,
             "model": "그레고르",
-            "content": "... Villagers? Not guests?"
+            "content": "... Yerliler mi? Misafir değil mi?"
         },
         {
             "id": 9,
             "model": "오티스",
-            "content": "That woman seems to think us already bound to this village."
+            "content": "O kadın artık burada kalmak zorunda olduğumuzu düşünüyor."
         },
         {
             "id": 10,
             "model": "이스마엘",
-            "content": "I knew it..."
+            "content": "Biliyordum..."
         },
         {
             "id": 11,
             "model": "에이해브",
             "teller": "Captain?",
             "title": "???",
-            "content": "Welcome. I have built this village and watched over these poor, wretched souls. Soon, I shall set sail on the final voyage with my crew."
+            "content": "Hoşgeldiniz. Bu köyü ben kurdum ve bu zavallı, perişan ruhlara önderlik ettim. Yakın zamanda ise, ekibimle ile son bir yolculuğa çıkacağız."
         },
         {
             "id": 12,
             "model": "에이해브",
-            "content": "I am Captain Ahab."
+            "content": "Ben Kaptan Ahab."
         },
         {
             "id": 13,
@@ -87,53 +87,53 @@
         {
             "id": 14,
             "model": "이스마엘",
-            "content": "You have... no idea how I've waited... how I've longed for this moment. You won't ever know."
+            "content": "Seni... bu zaman için... ne kadar beklediğim hakkında hiçbir fikrin yok. Hiçbir zaman da olmayacak."
         },
         {
             "id": 15,
             "model": "이스마엘",
-            "content": "Because I'll gut you like a fish before you even have the chance to find out."
+            "content": "Çünkü o fikre sahip olma şansı tanımadan seni bir balık gibi parçalayacağım."
         },
         {
             "id": 16,
-            "content": "Muttering, Ishmael charged at Ahab."
+            "content": "Mırıldanarak, Ishmael Ahab'a saldırdı."
         },
         {
             "id": 17,
             "model": "에이해브",
-            "content": "What a way to greet your Captain, Ishmael."
+            "content": "Kaptanını selamlamak için çok iyi bir yol, Ishmael."
         },
         {
             "id": 18,
-            "content": "The Captain remained serene, even as Ishmael suddenly charged at her."
+            "content": "Ishmael ona aniden saldırmasına rağmen, Kaptan sakin görünüyordu."
         },
         {
             "id": 19,
             "model": "스타벅",
             "teller": "???",
-            "title": "Pequod Town",
-            "content": "I-Ishmael...?! Wa...it, now that you mention it—"
+            "title": "Pequod Kenti",
+            "content": "I-Ishmael...?! Du....r, şimdi söyleyince—"
         },
         {
             "id": 20,
             "model": "피쿼드호주민1",
-            "teller": "Blinded Pequod Town Villager",
-            "title": "Pequod Town",
-            "content": "You thankless bastards. You dare attack our Cap'n?!"
+            "teller": "Kör Pequod Kenti Yerlisi",
+            "title": "Pequod Kenti",
+            "content": "Sizi şükürsüz piçler. Kaptanımıza saldırmaya cüret edersiniz ha?!"
         },
         {
             "id": 21,
             "model": "피쿼드호주민2",
-            "teller": "Gagged Pequod Town Villager",
-            "title": "Pequod Town",
-            "content": "We'll show you what we're made of!"
+            "teller": "Ağzı Tıkalı Pequod Kenti Yerlisi",
+            "title": "Pequod Kenti",
+            "content": "Size neyden yapıldığımızı göstereceğiz lan!"
         },
         {
             "id": 22,
             "model": "피쿼드호주민1",
-            "teller": "Blinded Pequod Town Villager",
-            "title": "Pequod Town",
-            "content": "We'll toss you back into that river of acid!"
+            "teller": "Kör Pequod Kenti Yerlisi",
+            "title": "Pequod Kenti",
+            "content": "Sizi o asit gölüne geri atacağız!"
         }
     ]
 }
