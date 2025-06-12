@@ -4,7 +4,7 @@
       "id": 0,
       "place": "Classroom",
       "model": "싱클레어",
-      "content": "Bir gün, Demian adlı bir transfer öğrenci, sıramın hemen yanına yerleştirildi."
+      "content": "Bir gün, Demian adlı bir transfer öğrenci, hemen yanımdaki sıraya yerleştirildi."
     },
     {
       "id": 1,
@@ -24,12 +24,12 @@
     {
       "id": 4,
       "model": "싱클레어",
-      "content": "Aynı şekil, bana karşı da pek ilgili görünmüyordu."
+      "content": "Aynı şekilde, bana karşı da pek ilgili görünmüyordu."
     },
     {
       "id": 5,
       "model": "싱클레어",
-      "content": "En azından, başlarda böyleydi."
+      "content": "En azından, başlarda öyleydi."
     },
     {
       "id": 6,
@@ -44,17 +44,17 @@
     {
       "id": 8,
       "model": "싱클레어",
-      "content": "Camdan ise, onun etrafta gezdiğine şahitlik ettim."
+      "content": "Camda ise, onun etrafta gezdiğine şahitlik etmiştim."
     },
     {
       "id": 9,
       "model": "싱클레어",
-      "content": "Her zamanki gibi sönük bir gülümsemesiyle ile, arkadaşları ile çevriliydi."
+      "content": "Her zamanki gibi sönük bir gülümsemesiyle, arkadaşları tarafından çevrelenmişti."
     },
     {
       "id": 10,
       "model": "싱클레어",
-      "content": "Jestleri bile onun yaşında birinin yapacağı jestlerden farklı görünüyordu; Olgun ama bir o kadar da münzevi bir hava taşıyordu."
+      "content": "Jestleri bile onun yaşında birinin yapacağı türden jestlerden farklı görünüyordu; Olgun ama bir o kadar da münzevi bir hava taşıyordu."
     },
     {
       "id": 11,
@@ -84,7 +84,7 @@
     {
       "id": 16,
       "model": "싱클레어",
-      "content": "Onunla göz teması kuruyormuş gibi hissetim."
+      "content": "Onunla göz teması kurmuş gibi hissetim."
     },
     {
       "id": 17,
@@ -101,7 +101,7 @@
     {
       "id": 19,
       "model": "싱클레어",
-      "content": "Onun bakışlarını hissettiğim anda, Çabucak gözlerimi camdan çekip masaya diktim."
+      "content": "Onun bakışlarını hissettiğim anda, Çabucak gözlerimi camdan çekip masama diktim."
     },
     {
       "id": 20,
@@ -145,7 +145,7 @@
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "<i>Sessiz bir gemi, sallanmaz ne mendil ne de bir kol</i>."
+      "content": "<i>Sessiz Gemi, sallanmaz ne mendil ne de bir kol</i>."
     },
     {
       "id": 27,
@@ -174,21 +174,21 @@
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "Sinclair, insanların isteğinin aksine; dünya, gimen gereken yahut gitmemen gereken yerler olarak ayrılıp tanımlanamaz."
+      "content": "Sinclair, insanların isteğinin aksine; dünya, gitmen gereken yahut gitmemen gereken yerler olarak ayrılıp tanımlanamaz."
     },
     {
       "id": 32,
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "Özürlük ve sevginin Yuvaların tabutları içersinde bulunabilir mi dersin? Buraya kıyasla, Taşra'da hayat çok daha zengin."
+      "content": "Özürlük ve sevginin, Yuvaların tabutları içersinde bulunabilir mi dersin? Buraya kıyasla, Taşra'da hayat çok daha zengin."
     },
     {
       "id": 33,
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "Efkarımı uzunca bir süredir meşgul eden bir şey var, ve belki cevabımı bulacağım yerin burası olabileceğini düşünmüştüm."
+      "content": "Efkarımı uzunca bir süredir meşgul eden bir şey var, ve belki de cevabımı bulacağım yerin burası olabilir diye düşünmüştüm."
     },
     {
       "id": 34,
@@ -230,7 +230,7 @@
     {
       "id": 41,
       "model": "싱클레어",
-      "content": "Sözleri hiçlikten gelip beni gafil avlamıştı, bir tüy kadar da hafif olsalarda."
+      "content": "Sözleri hiçlikten gelip beni gafil avlamıştı, bir tüy kadar hafif olsalarda."
     },
     {
       "id": 42,
