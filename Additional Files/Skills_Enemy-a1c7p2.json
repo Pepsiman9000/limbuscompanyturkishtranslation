@@ -5,20 +5,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Slam",
-                    "desc": "[WhenUse] If this unit has [HardenedBlood], and if this Skill's Coin effect inflicts [Burst], inflict +1 [Laceration] Count as well",
+                    "name": "Sertkan Çarpma",
+                    "desc": "[WhenUse] Eğer bu birimde [HardenedBlood] varsa ve bu Yeteneğin Jeton etkisi [Burst] uygularsa, ek olarak +1 [Laceration] Miktarı uygula",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                                    "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                                 }
                             ]
                         }
@@ -31,30 +31,30 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Aimless Wrath",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] If this unit has 3+ [HardenedBlood], and if this Skill's Coin effect inflicts [Burst], inflict 2 [Laceration] as well",
+                    "name": "Hedefsiz Öfke",
+                    "desc": "[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] Eğer bu birimde 3+ [HardenedBlood] varsa ve bu Yeteneğin Jeton etkisi [Burst] uygularsa, ek olarak 2 [Laceration] uygula",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                                    "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                                    "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has [Laceration], gain 1 [HardenedBlood]"
+                                    "desc": "[OnSucceedAttack] Eğer hedefte [Laceration] varsa, 1 [HardenedBlood] kazan"
                                 }
                             ]
                         }
@@ -67,40 +67,40 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Unbridled Smite",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1",
+                    "name": "Dizginsiz Darbe",
+                    "desc": "[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Jeton Gücü +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable]"
+                                    "desc": "[OnSucceedAttack] 1 [Vulnerable] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                                    "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], deal +20% more damage"
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 10+ [Laceration] varsa, +20% hasar ver"
                                 }
                             ]
                         }
@@ -113,8 +113,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Guard",
-                    "desc": "[WhenUse] If the target has [Laceration], gain 1 [HardenedBlood]",
+                    "name": "Savunma",
+                    "desc": "[WhenUse] Eğer hedefte [Laceration] varsa, 1 [HardenedBlood] kazan",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -132,20 +132,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Slam",
-                    "desc": "[WhenUse] If this unit has [HardenedBlood], and if this Skill's Coin effect inflicts [Burst], inflict +1 [Laceration] Count as well",
+                    "name": "Sertkan Çarpma",
+                    "desc": "[WhenUse] Eğer bu birimde [HardenedBlood] varsa ve bu Yeteneğin Jeton etkisi [Burst] uygularsa, ek olarak +1 [Laceration] Miktarı uygula",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı uygula"
                                 }
                             ]
                         }
@@ -158,30 +158,30 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Aimless Wrath",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] If this unit has 3+ [HardenedBlood], and if this Skill's Coin effect inflicts [Burst], inflict +1 [Laceration] Count as well",
+                    "name": "Hedefsiz Öfke",
+                    "desc": "[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] Eğer bu birimde 3+ [HardenedBlood] varsa ve bu Yeteneğin Jeton etkisi [Burst] uygularsa, ek olarak +1 [Laceration] Miktarı uygula",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has [Laceration], gain 1 [HardenedBlood]"
+                                    "desc": "[OnSucceedAttack] Eğer hedefte [Laceration] varsa, 1 [HardenedBlood] kazan"
                                 }
                             ]
                         }
@@ -194,40 +194,40 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Unbridled Smite",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1",
+                    "name": "Dizginsiz Darbe",
+                    "desc": "[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Jeton Gücü +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable]"
+                                    "desc": "[OnSucceedAttack] 1 [Vulnerable] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                                    "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], deal +20% more damage"
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 10+ [Laceration] varsa, +20% hasar ver"
                                 }
                             ]
                         }
@@ -240,8 +240,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Guard",
-                    "desc": "[WhenUse] If the target has [Laceration], gain 1 [HardenedBlood]",
+                    "name": "Savunma",
+                    "desc": "[WhenUse] Eğer hedefte [Laceration] varsa, 1 [HardenedBlood] kazan",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -259,16 +259,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Thrash",
-                    "desc": "[DefeatDuel] Gain 10 [Laceration] and +1 [Laceration] Count",
+                    "name": "Sertkan Kırbaçlama",
+                    "desc": "[DefeatDuel] 10 [Laceration] ve +1 [Laceration] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 10 [Laceration] and 1 [BloodyHand]"
+                                    "desc": "[OnSucceedAttack] 10 [Laceration] ve 1 [BloodyHand] kazan"
                                 }
                             ]
                         }
@@ -281,33 +281,33 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Lash",
-                    "desc": "[WhenUse] If the target has 8+ [Laceration], deal +20% damage",
+                    "name": "Sertkan Kamçı",
+                    "desc": "[WhenUse] Eğer hedefte 8+ [Laceration] varsa, +20% hasar ver",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 6+ [Laceration], gain 1 [HardenedBlood]"
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Laceration] varsa, 1 [HardenedBlood] kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 20 [Laceration] and 2 [BloodyHand]"
+                                    "desc": "[OnSucceedAttack] 20 [Laceration] ve 2 [BloodyHand] kazan"
                                 }
                             ]
                         }
@@ -320,23 +320,23 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Strike",
-                    "desc": "[WhenUse] If the target has 6+ [Laceration], Base Power +1\n[WhenUse] When inflicting [Laceration] with this Skill, inflict [Burst] equal to [HardenedBlood] on self as well\n[EndSkill] Consume all [HardenedBlood] and [BloodyHand]",
+                    "name": "Sertkan Vuruş",
+                    "desc": "[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Temel Güç +1\n[WhenUse] Bu Yetenekle [Laceration] uygularken, kendindeki [HardenedBlood] kadar [Burst] de uygula\n[EndSkill] Tüm [HardenedBlood] ve [BloodyHand]'ı tüket",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] (Hedefteki [Laceration])% HP Yenile (maks. 20%)"
                                 }
                             ]
                         }
@@ -349,13 +349,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Counter",
-                    "desc": "[WhenUse] Base Power +1 for every [HardenedBlood] on self",
+                    "name": "Karşı Saldırı",
+                    "desc": "[WhenUse] Kendindeki her [HardenedBlood] için Temel Güç +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                                 }
                             ]
                         }
@@ -368,16 +368,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Thrash",
-                    "desc": "[DefeatDuel] Gain 10 [Laceration] and +1 [Laceration] Count",
+                    "name": "Sertkan Kırbaçlama",
+                    "desc": "[DefeatDuel] 10 [Laceration] ve +1 [Laceration] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 10 [Laceration] and 1 [BloodyHand]"
+                                    "desc": "[OnSucceedAttack] 10 [Laceration] ve 1 [BloodyHand] kazan"
                                 }
                             ]
                         }
@@ -390,33 +390,33 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Lash",
-                    "desc": "[WhenUse] If the target has 4+ [Laceration], deal +10% more damage",
+                    "name": "Sertkan Kamçı",
+                    "desc": "[WhenUse] Eğer hedefte 4+ [Laceration] varsa, +10% hasar ver",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 6+ [Laceration], gain 1 [HardenedBlood]"
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Laceration] varsa, 1 [HardenedBlood] kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 20 [Laceration] and 2 [BloodyHand]"
+                                    "desc": "[OnSucceedAttack] 20 [Laceration] ve 2 [BloodyHand] kazan"
                                 }
                             ]
                         }
@@ -429,23 +429,23 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Strike",
-                    "desc": "[WhenUse] If the target has 6+ [Laceration], Base Power +1\n[WhenUse] When inflicting [Laceration] with this Skill, inflict [Burst] equal to [HardenedBlood] on self as well\n[EndSkill] Consume all [HardenedBlood] and [BloodyHand]",
+                    "name": "Sertkan Vuruş",
+                    "desc": "[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Temel Güç +1\n[WhenUse] Bu Yetenekle [Laceration] uygularken, kendindeki [HardenedBlood] kadar [Burst] de uygula\n[EndSkill] Tüm [HardenedBlood] ve [BloodyHand]'ı tüket",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] (Hedefteki [Laceration])% HP Yenile (maks. 20%)"
                                 }
                             ]
                         }
@@ -458,13 +458,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Counter",
-                    "desc": "[WhenUse] Base Power +1 for every [HardenedBlood] on self",
+                    "name": "Karşı Saldırı",
+                    "desc": "[WhenUse] Kendindeki her [HardenedBlood] için Temel Güç +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                                 }
                             ]
                         }
@@ -477,20 +477,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Please answer the survey.",
-                    "desc": "[WhenUse] Gain 5 [Laceration] and +1 [Laceration] Count",
+                    "name": "Lütfen anketi yanıtlayın.",
+                    "desc": "[WhenUse] 5 [Laceration] ve +1 [Laceration] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                                 }
                             ]
                         }
@@ -503,16 +503,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Don't! Don't Cut Me Off!",
-                    "desc": "[WhenUse] Gain 5 [Laceration] and +1 [Laceration] Count",
+                    "name": "Hayır! Beni Kesme!",
+                    "desc": "[WhenUse] 5 [Laceration] ve +1 [Laceration] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], gain 1 [BloodyHand]"
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 5+ [Laceration] varsa, 1 [BloodyHand] kazan"
                                 }
                             ]
                         }
@@ -525,20 +525,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Faded Patience",
-                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1",
+                    "name": "Soluk Sabır",
+                    "desc": "[WhenUse] En fazla 50 [BloodDinner] tüket; her 10 [BloodDinner] için 1 [BloodyHand] kazan\n[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Jeton Gücü +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[EndSkill] If this unit failed to consume [BloodDinner] with this Skill, gain 10 [Laceration] and 1 [BloodyHand]."
+                                    "desc": "[EndSkill] Eğer bu birim bu Yetenekle [BloodDinner] tüketemezse, 10 [Laceration] ve 1 [BloodyHand] kazan."
                                 }
                             ]
                         }
@@ -551,33 +551,33 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Endless Atonement",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every [HardenedBlood] on self\n[DefeatDuel] Lose 2 [BloodyHand]",
+                    "name": "Sonsuz Kefaret",
+                    "desc": "[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] Kendindeki her [HardenedBlood] için Çarpışma Gücü +1\n[DefeatDuel] 2 [BloodyHand] kaybet",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Consume all [BloodyHand] to inflict +3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] Tüm [BloodyHand]'ı tüketerek +3 [Laceration] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Consume all [HardenedBlood] on self to increase [BloodDinner] by (consumed [HardenedBlood] x 3) and gain 5 [Laceration]"
+                                    "desc": "[OnSucceedAttack] Kendindeki tüm [HardenedBlood]'ı tüketerek [BloodDinner]'ı (tüketilen [HardenedBlood] x 3) artır ve 5 [Laceration] kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] (Hedefteki [Laceration])% HP Yenile (maks. 30%)"
                                 }
                             ]
                         }
@@ -590,13 +590,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Counter",
-                    "desc": "[WhenUse] At 1+ [BloodyHand], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], Coin Power +1",
+                    "name": "Karşı Saldırı",
+                    "desc": "[WhenUse] 1+ [BloodyHand] varsa, Temel Güç +1\n[WhenUse] 3+ [HardenedBlood] varsa, Jeton Gücü +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 }
                             ]
                         }
@@ -609,20 +609,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Please answer the survey.",
-                    "desc": "[WhenUse] Gain 5 [Laceration] and +1 [Laceration] Count",
+                    "name": "Lütfen anketi yanıtlayın.",
+                    "desc": "[WhenUse] 5 [Laceration] ve +1 [Laceration] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                                 }
                             ]
                         }
@@ -635,16 +635,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Don't! Don't Cut Me Off!",
-                    "desc": "[WhenUse] Gain 5 [Laceration] and +1 [Laceration] Count",
+                    "name": "Hayır! Beni Kesme!",
+                    "desc": "[WhenUse] 5 [Laceration] ve +1 [Laceration] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +3 [Laceration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], gain 1 [BloodyHand]"
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 5+ [Laceration] varsa, 1 [BloodyHand] kazan"
                                 }
                             ]
                         }
@@ -657,20 +657,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Faded Patience",
-                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1",
+                    "name": "Soluk Sabır",
+                    "desc": "[WhenUse] En fazla 50 [BloodDinner] tüket; her 10 [BloodDinner] için 1 [BloodyHand] kazan\n[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Jeton Gücü +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[EndSkill] If this unit failed to consume [BloodDinner] with this Skill, gain 10 [Laceration] and 1 [BloodyHand]."
+                                    "desc": "[EndSkill] Eğer bu birim bu Yetenekle [BloodDinner] tüketemezse, 10 [Laceration] ve 1 [BloodyHand] kazan."
                                 }
                             ]
                         }
@@ -683,33 +683,33 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Endless Atonement",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every [HardenedBlood] on self\n[DefeatDuel] Lose 2 [BloodyHand]",
+                    "name": "Sonsuz Kefaret",
+                    "desc": "[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] Kendindeki her [HardenedBlood] için Çarpışma Gücü +1\n[DefeatDuel] 2 [BloodyHand] kaybet",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Consume all [BloodyHand] to inflict +3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] Tüm [BloodyHand]'ı tüketerek +3 [Laceration] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Consume all [HardenedBlood] on self to increase [BloodDinner] by (consumed [HardenedBlood] x 3) and gain 5 [Laceration]"
+                                    "desc": "[OnSucceedAttack] Kendindeki tüm [HardenedBlood]'ı tüketerek [BloodDinner]'ı (tüketilen [HardenedBlood] x 3) artır ve 5 [Laceration] kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] (Hedefteki [Laceration])% HP Yenile (maks. 30%)"
                                 }
                             ]
                         }
@@ -722,13 +722,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Counter",
-                    "desc": "[WhenUse] At 1+ [BloodyHand], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], Coin Power +1",
+                    "name": "Karşı Saldırı",
+                    "desc": "[WhenUse] 1+ [BloodyHand] varsa, Temel Güç +1\n[WhenUse] 3+ [HardenedBlood] varsa, Jeton Gücü +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 }
                             ]
                         }
@@ -741,16 +741,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Downward Cut",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Final Power +1",
+                    "name": "Sertkan Aşağı Kesme",
+                    "desc": "[WhenUse] 5+ [FestivalFever] varsa, Final Gücü +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] ve +2 [Laceration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                                    "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                                 }
                             ]
                         }
@@ -763,23 +763,23 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Carve",
-                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever] on self or every 6 [Laceration] on the target (max 2)\n[WhenUse] Gain 15 [Laceration], immediately trigger it once, and reduce [Laceration] Count by 1",
+                    "name": "Sertkan Oyma",
+                    "desc": "[WhenUse] Kendindeki her 5 [FestivalFever] veya hedefteki her 6 [Laceration] için Final Gücü +1 (maks. 2)\n[WhenUse] 15 [Laceration] kazan, hemen bir kez tetikle ve [Laceration] Miktarını 1 azalt",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 6+ [Laceration], gain 1 [HardenedBlood]"
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Laceration] varsa, 1 [HardenedBlood] kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] 3 [Laceration] ve +2 [Laceration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 1 [BloomingThorns]"
+                                    "desc": "[OnSucceedAttack] 1 [BloomingThorns] kazan"
                                 }
                             ]
                         }
@@ -792,27 +792,27 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Power Unfurling",
-                    "desc": "[WhenUse] Gain 15 [Laceration] and +2 [Laceration] Count, immediately trigger it twice, then reduce [Laceration] Count by 2\n[EndBattle] Consume all [HardenedBlood] and [FestivalFever]",
+                    "name": "Sertkan Güç Açılımı",
+                    "desc": "[WhenUse] 15 [Laceration] ve +2 [Laceration] Miktarı kazan, hemen iki kez tetikle, sonra [Laceration] Miktarını 2 azalt\n[EndBattle] Tüm [HardenedBlood] ve [FestivalFever]'ı tüket",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood] on self"
+                                    "desc": "[OnSucceedAttack] Kendindeki [HardenedBlood] kadar [Laceration] ve [Burst] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([FestivalFever] x 2.5)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] ([FestivalFever] x 2.5)% HP Yenile (maks. 20%)"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 [FestivalFever]"
+                                    "desc": "[OnSucceedAttack] 2 [FestivalFever] kazan"
                                 }
                             ]
                         }
@@ -825,8 +825,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Evade",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Final Power +1\n[StartBattle] Gain 2 [FestivalFever]\n[OnDefeatEvade] Lose 2 [FestivalFever]",
+                    "name": "Kaçınma",
+                    "desc": "[WhenUse] 5+ [FestivalFever] varsa, Final Gücü +1\n[StartBattle] 2 [FestivalFever] kazan\n[OnDefeatEvade] 2 [FestivalFever] kaybet",
                     "coinlist": [
                         {}
                     ]
@@ -838,16 +838,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Lash",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Final Power +1",
+                    "name": "Sertkan Kamçı",
+                    "desc": "[WhenUse] 5+ [FestivalFever] varsa, Final Gücü +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +3 [Laceration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                                    "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                                 }
                             ]
                         }
@@ -860,23 +860,23 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Wild Jag",
-                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever] on self or every 6 [Laceration] on the target (max 2)\n[WhenUse] Gain 15 [Laceration], immediately trigger it once, and reduce [Laceration] Count by 1",
+                    "name": "Sertkan Vahşi Yarma",
+                    "desc": "[WhenUse] Kendindeki her 5 [FestivalFever] veya hedefteki her 6 [Laceration] için Final Gücü +1 (maks. 2)\n[WhenUse] 15 [Laceration] kazan, hemen bir kez tetikle ve [Laceration] Miktarını 1 azalt",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 6+ [Laceration], gain 1 [HardenedBlood]"
+                                    "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Laceration] varsa, 1 [HardenedBlood] kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] 3 [Laceration] ve +2 [Laceration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 1 [BloomingThorns]"
+                                    "desc": "[OnSucceedAttack] 1 [BloomingThorns] kazan"
                                 }
                             ]
                         }
@@ -889,27 +889,27 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hardblood Power Unfurling",
-                    "desc": "[WhenUse] Gain 15 [Laceration] and +2 [Laceration] Count, immediately trigger it twice, then reduce [Laceration] Count by 2\n[EndBattle] Consume all [HardenedBlood] and [FestivalFever]",
+                    "name": "Sertkan Güç Açılımı",
+                    "desc": "[WhenUse] 15 [Laceration] ve +2 [Laceration] Miktarı kazan, hemen iki kez tetikle, sonra [Laceration] Miktarını 2 azalt\n[EndBattle] Tüm [HardenedBlood] ve [FestivalFever]'ı tüket",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood] on self"
+                                    "desc": "[OnSucceedAttack] Kendindeki [HardenedBlood] kadar [Laceration] ve [Burst] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([FestivalFever] x 2.5)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] ([FestivalFever] x 2.5)% HP Yenile (maks. 20%)"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 [FestivalFever]"
+                                    "desc": "[OnSucceedAttack] 2 [FestivalFever] kazan"
                                 }
                             ]
                         }
@@ -922,8 +922,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Evade",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Final Power +1\n[StartBattle] Gain 2 [FestivalFever]\n[OnDefeatEvade] Lose 2 [FestivalFever]",
+                    "name": "Kaçınma",
+                    "desc": "[WhenUse] 5+ [FestivalFever] varsa, Final Gücü +1\n[StartBattle] 2 [FestivalFever] kazan\n[OnDefeatEvade] 2 [FestivalFever] kaybet",
                     "coinlist": [
                         {}
                     ]
@@ -935,16 +935,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Welcome to the Festival of Wonders!",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Final Power +2",
+                    "name": "Harikalar Festivali'ne Hoş Geldiniz!",
+                    "desc": "[WhenUse] 5+ [FestivalFever] varsa, Final Gücü +2",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] 3 [Laceration] ve +2 [Laceration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
+                                    "desc": "[OnSucceedAttackHead] 3 [Burst] uygula"
                                 }
                             ]
                         }
@@ -957,13 +957,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Join the Joyful Parade!",
-                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever] on self or every 6 [Laceration] on the target (max 3)\n[WhenUse] At less than 20 [BloodDinner], gain 20 [Laceration] and immediately trigger it once, then reduce [Laceration] Count by 1\n[EndSkill] Consume 20 [BloodDinner]",
+                    "name": "Neşeli Geçite Katılın!",
+                    "desc": "[WhenUse] Kendindeki her 5 [FestivalFever] veya hedefteki her 6 [Laceration] için Final Gücü +1 (maks. 3)\n[WhenUse] 20'den az [BloodDinner] varsa, 20 [Laceration] kazan ve hemen bir kez tetikle, sonra [Laceration] Miktarını 1 azalt\n[EndSkill] 20 [BloodDinner] tüket",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 1 [HardenedBlood] for every 6 [Laceration] on the target (max 2)"
+                                    "desc": "[OnSucceedAttack] Hedefteki her 6 [Laceration] için 1 [HardenedBlood] kazan (maks. 2)"
                                 }
                             ]
                         },
@@ -973,10 +973,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[WinDuelAttack] Inflict 4 [Laceration] and +3 [Laceration] Count"
+                                    "desc": "[WinDuelAttack] 4 [Laceration] ve +3 [Laceration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2~3 [BloomingThorns]"
+                                    "desc": "[OnSucceedAttack] 2~3 [BloomingThorns] kazan"
                                 }
                             ]
                         }
@@ -989,13 +989,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Blossom your Smiles of Joy!",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Coin Power +1\n[WhenUse] If the target has 6+ [Laceration], Clash Power +1",
+                    "name": "Neşe Gülümsemelerinizle Açın!",
+                    "desc": "[WhenUse] 5+ [FestivalFever] varsa, Jeton Gücü +1\n[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Çarpışma Gücü +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +3 [Laceration] Miktarı uygula"
                                 }
                             ]
                         },
@@ -1003,7 +1003,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[WinDuelAttack] Gain 2 [FestivalFever]"
+                                    "desc": "[WinDuelAttack] 2 [FestivalFever] kazan"
                                 }
                             ]
                         }
@@ -1016,16 +1016,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Eternal Kingdom of Happiness, La Manchaland!",
-                    "desc": "[WhenUse] At less than 40 [BloodDinner], gain 20 [Laceration] and +2 [Laceration] Count, immediately trigger it twice, then reduce [Laceration] Count by 2\n[EndSkill] Consume 40 [BloodDinner]\n[EndBattle] Consume all [HardenedBlood] and [FestivalFever]",
+                    "name": "Mutluluğun Ebedî Krallığı, La Mancha Diayrı!",
+                    "desc": "[WhenUse] [BloodDinner] 40'tan azsa, 20 [Laceration] ve +2 [Laceration] Miktarısı kazan, hemen iki kez tetikle, ardından [Laceration] Miktarısını 2 azalt\n[EndSkill] 40 [BloodDinner] tüket\n[EndBattle] Tüm [HardenedBlood] ve [FestivalFever] tüket",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood] on self"
+                                    "desc": "[OnSucceedAttack] Kendine [HardenedBlood] kadar [Laceration] ve [Burst] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([FestivalFever] x 4)% HP (max 40%)"
+                                    "desc": "[OnSucceedAttack] ([FestivalFever] x 4)% HP iyileştir (maksimum %40)"
                                 }
                             ]
                         },
@@ -1035,7 +1035,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 5 [BloomingThorns]"
+                                    "desc": "[OnSucceedAttack] 5 [BloomingThorns] kazan"
                                 }
                             ]
                         }
@@ -1048,8 +1048,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Evade",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Final Power +2\n[StartBattle] Gain 3 [FestivalFever]\n[OnDefeatEvade] Lose 3 [FestivalFever]",
+                    "name": "Savun",
+                    "desc": "[WhenUse] 5+ [FestivalFever] varsa, Nihai Güç +2\n[StartBattle] 3 [FestivalFever] kazan\n[OnDefeatEvade] 3 [FestivalFever] kaybet",
                     "coinlist": [
                         {}
                     ]
@@ -1061,16 +1061,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Welcome to the Festival of Wonders!",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Final Power +2",
+                    "name": "Mucizeler Festivaline Hoş Geldin!",
+                    "desc": "[WhenUse] 5+ [FestivalFever] varsa, Nihai Güç +2",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +3 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] ve +3 [Laceration] Miktarısı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
+                                    "desc": "[OnSucceedAttackHead] 3 [Burst] uygula"
                                 }
                             ]
                         }
@@ -1083,13 +1083,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Let's All Match Our Steps, Dance!",
-                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever] on self or every 6 [Laceration] on the target (max 3)\n[WhenUse] At less than 20 [BloodDinner], gain 20 [Laceration] and immediately trigger it once, then reduce [Laceration] Count by 1\n[EndSkill] Consume 20 [BloodDinner]",
+                    "name": "Haydi Hep Birlikte Ritme Uyalım, Dans!",
+                    "desc": "[WhenUse] Üzerinde her 5 [FestivalFever] veya hedefteki her 6 [Laceration] için Nihai Güç +1 (maksimum 3)\n[WhenUse] [BloodDinner] 20'den azsa, 20 [Laceration] kazan ve hemen bir kez tetikle, ardından [Laceration] Miktarısını 1 azalt\n[EndSkill] 20 [BloodDinner] tüket",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 1 [HardenedBlood] for every 6 [Laceration] on the target (max 2)"
+                                    "desc": "[OnSucceedAttack] Hedefteki her 6 [Laceration] için 1 [HardenedBlood] kazan (maksimum 2)"
                                 }
                             ]
                         },
@@ -1099,10 +1099,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[WinDuelAttack] Inflict 4 [Laceration] and +3 [Laceration] Count"
+                                    "desc": "[WinDuelAttack] 4 [Laceration] ve +3 [Laceration] Miktarısı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2~3 [BloomingThorns]"
+                                    "desc": "[OnSucceedAttack] 2~3 [BloomingThorns] kazan"
                                 }
                             ]
                         }
@@ -1115,13 +1115,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Lose Yourself in the Singing!",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Coin Power +1\n[WhenUse] If the target has 6+ [Laceration], Clash Power +1",
+                    "name": "Kendini Şarkının Ritmine Bırak!",
+                    "desc": "[WhenUse] 5+ [FestivalFever] varsa, Jeton Gücü +1\n[WhenUse] Hedefte 6+ [Laceration] varsa, Çatışma Gücü +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] +3 [Laceration] Miktarısı uygula"
                                 }
                             ]
                         },
@@ -1129,7 +1129,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[WinDuelAttack] Gain 2 [FestivalFever]"
+                                    "desc": "[WinDuelAttack] 2 [FestivalFever] kazan"
                                 }
                             ]
                         }
@@ -1142,16 +1142,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Eternal Kingdom of Happiness, La Manchaland!",
-                    "desc": "[WhenUse] At less than 40 [BloodDinner], gain 20 [Laceration] and +2 [Laceration] Count, immediately trigger it twice, then reduce [Laceration] Count by 2\n[EndSkill] Consume 40 [BloodDinner]\n[EndBattle] Consume all [HardenedBlood] and [FestivalFever]",
+                    "name": "Mutluluğun Ebedî Krallığı, La Mancha Diyarı!",
+                    "desc": "[WhenUse] [BloodDinner] 40'tan azsa, 20 [Laceration] ve +2 [Laceration] Miktarısı kazan, hemen iki kez tetikle, ardından [Laceration] Miktarısını 2 azalt\n[EndSkill] 40 [BloodDinner] tüket\n[EndBattle] Tüm [HardenedBlood] ve [FestivalFever] tüket",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood] on self"
+                                    "desc": "[OnSucceedAttack] Kendine [HardenedBlood] kadar [Laceration] ve [Burst] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([FestivalFever] x 4)% HP (max 40%)"
+                                    "desc": "[OnSucceedAttack] ([FestivalFever] x 4)% HP iyileştir (maksimum %40)"
                                 }
                             ]
                         },
@@ -1161,7 +1161,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 5 [BloomingThorns]"
+                                    "desc": "[OnSucceedAttack] 5 [BloomingThorns] kazan"
                                 }
                             ]
                         }
@@ -1174,8 +1174,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Evade",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Final Power +2\n[StartBattle] Gain 3 [FestivalFever]\n[OnDefeatEvade] Lose 3 [FestivalFever]",
+                    "name": "Savun",
+                    "desc": "[WhenUse] 5+ [FestivalFever] varsa, Nihai Güç +2\n[StartBattle] 3 [FestivalFever] kazan\n[OnDefeatEvade] 3 [FestivalFever] kaybet",
                     "coinlist": [
                         {}
                     ]
