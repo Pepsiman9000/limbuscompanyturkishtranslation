@@ -5,53 +5,53 @@
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "Demek Kromer'e anahtarı verdin."
+      "content": "Demek eninde sonunda Kromer'a anahtarı verdin."
     },
     {
       "id": 1,
       "model": "싱클레어",
-      "content": "Bunu nereden öğrendin?"
+      "content": "Bunu nasıl bilebiliyorsun?"
     },
     {
       "id": 2,
       "model": "싱클레어",
-      "content": "Demian'ın, ona söylemediğim şeyleri bilmek gibi bir özelliği vardı."
+      "content": "Demian'ın ona anlatmadığım şeyleri kavrayabilmek, gibi bir özelliği vardı."
     },
     {
       "id": 3,
       "model": "싱클레어",
-      "content": "Bundan bahsettiğimde ise, bunun sadece “başkalarını dikkatlice gözlemlemek ile endindiğin bir bilgi” olduğunu söyleyip, konuya daha fazla değinmemişti."
+      "content": "Ona bunun hakkında sorduğumda, bunun sadece “başkalarını dikkatlice gözlemlemek ile endindiğin bir yetenek” olduğunu söyleyip, konuya daha fazla değinmemişti."
     },
     {
       "id": 4,
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "Sinclair, geleceğinde bir dizi acı verici olaylar seni bekleyebilir."
+      "content": "Sinclair, gelecekte bir dizi çok daha acı verici olaylar silsilesi seni bekleyebilir."
     },
     {
       "id": 5,
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "Ama pes etmemelisin."
+      "content": "Fakat pes etmemelisin."
     },
     {
       "id": 6,
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "O acı seni güzel bir canlıya dönüştürmekte yardımcı olacak."
+      "content": "O acı, seni güzel bir canlıya dönüşümünü teşvik edecek."
     },
     {
       "id": 7,
       "model": "싱클레어",
-      "content": "Denilenler ne kadar karmaşık ve kafa yorucu olsa bile, Demian’ın insanüstü karizması, denen her şeye ikna olmamı sağlıyordu."
+      "content": "Denikleri ne kadar karmaşık ve kafa karıştırıcı olsa bile, Demian’ın insanüstü karizması, söylediği her şeye ikna olmamı sağlıyordu."
     },
     {
       "id": 8,
       "model": "싱클레어",
-      "content": "Onun konuşmasını dinlemek, gerçekten de büyüme konusuna içimde bir umut yeşertmişti. Kayda değer birisi olabileceğim için umutlanmıştım."
+      "content": "Onun konuşmasını dinlemek, gerçekten de büyüyebileceğim konusunda bana umut verdi. Kayda değer birisi olabileceğim için umutlanmıştım."
     },
     {
       "id": 9,
@@ -63,12 +63,12 @@
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "Öğrenmek sana kalmış. Öğrendiğinde cevabını bana da söyle."
+      "content": "Anlaması sana kalmış. Sadece o zaman, beni de haberdar ettiğinden emin ol."
     },
     {
       "id": 11,
       "model": "싱클레어",
-      "content": "Sesi yumuşacıktı, ve gözlerinden memnuniyet akıyordu, yine de ne derse onu yapma hissiyatı içimde doğuyordu."
+      "content": "Sesi yumuşacıktı, ve gözlerinden rahatlık akıyordu, yine de ne derse onu yapma hissiyatı içimde doğuyordu."
     },
     {
       "id": 12,
@@ -78,7 +78,7 @@
     {
       "id": 13,
       "model": "싱클레어",
-      "content": "Kendisiyle göz temasında bulunanları pasifleştirmek, veya zihinlerini sömürmek gibi."
+      "content": "Kendisiyle göz temasında bulunanları pasifleştirip zihinlerini güçsüzleştirmek."
     },
     {
       "id": 15,
@@ -88,12 +88,12 @@
     {
       "id": 16,
       "model": "싱클레어",
-      "content": "Eğer gerçekler buysa, neden beni en başından uyarmadı?"
+      "content": "Eğer durum böyleyse, neden beni uyarmadı ki?"
     },
     {
       "id": 17,
       "model": "싱클레어",
-      "content": "Bu güne dek kendime sorduğum bir şeydi bu."
+      "content": "Bu güne dek kendime sorduğum bir şey bu."
     }
   ]
 }
