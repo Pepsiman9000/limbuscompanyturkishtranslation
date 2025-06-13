@@ -15,19 +15,19 @@
     {
       "id": 2,
       "model": "싱클레어",
-      "content": "Demian'ın ona anlatmadığım şeyleri kavrayabilmek, gibi bir özelliği vardı."
+      "content": "Demian'ın ona anlatmadığım şeyleri kavrayabilmek gibi bir özelliği vardı."
     },
     {
       "id": 3,
       "model": "싱클레어",
-      "content": "Ona bunun hakkında sorduğumda, bunun sadece “başkalarını dikkatlice gözlemlemek ile endindiğin bir yetenek” olduğunu söyleyip, konuya daha fazla değinmemişti."
+      "content": "Ona bundan bahsettiğimde, bunun sadece “başkalarını dikkatlice gözlemlemek ile endinilen bir yetenek” olduğunu söyleyip, konuya daha fazla değinmemişti."
     },
     {
       "id": 4,
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "Sinclair, gelecekte bir dizi çok daha acı verici olaylar silsilesi seni bekleyebilir."
+      "content": "Sinclair, gelecekte bir dizi çok daha acı verici olaylar silsilesi seni bekliyor olabilir."
     },
     {
       "id": 5,
@@ -41,7 +41,7 @@
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "O acı, seni güzel bir canlıya dönüşümünü teşvik edecek."
+      "content": "O acı, senin güzel bir canlıya dönüşümünü teşvik edecek."
     },
     {
       "id": 7,
@@ -63,7 +63,7 @@
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "Anlaması sana kalmış. Sadece o zaman, beni de haberdar ettiğinden emin ol."
+      "content": "Anlaması sana kalmış. Sadece o zaman, bana da bildirdiğinden ettiğinden emin ol."
     },
     {
       "id": 11,
