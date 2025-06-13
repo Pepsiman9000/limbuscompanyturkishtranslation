@@ -1,984 +1,984 @@
 {
-    "dataList": [
+  "dataList": [
+    {
+      "id": 9008801,
+      "levelList": [
         {
-            "id": 9008801,
-            "levelList": [
+          "level": 1,
+          "name": "Korku Ekmek",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
                 {
-                    "level": 1,
-                    "name": "Sow Fear",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttackTail] Deal 2 SP damage"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttackTail] Deal 2 SP damage"
-                                }
-                            ]
-                        }
-                    ]
+                  "desc": "[OnSucceedAttackTail] 2 SP hasarı ver"
                 }
-            ]
-        },
-        {
-            "id": 9008802,
-            "levelList": [
+              ]
+            },
+            {
+              "coindescs": [
                 {
-                    "level": 1,
-                    "name": "Engrave Horror",
-                    "desc": "[WinDuel] Deal 10 SP damage to target; this unit heals 10 HP",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
-                                }
-                            ]
-                        }
-                    ]
+                  "desc": "[OnSucceedAttackTail] 2 SP hasarı ver"
                 }
-            ]
-        },
-        {
-            "id": 9008803,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Reap Horror",
-                    "desc": "If target’s SP is below 20, heal 20% more HP from this attack",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttackTail] Deal 3 SP damage"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttackTail] Deal 3 SP damage"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9008804,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Paralyze Mind",
-                    "desc": "If target's SP is below -15, deal +50% damage",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9008901,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "-... - ..-",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Sinking"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Sinking"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9008902,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "-- ... -.-",
-                    "desc": "[WinDuel] Inflict 1 Pallid Noise",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Sinking"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict +3 Sinking Count"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9008903,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "...- .",
-                    "desc": "Final Power +1 for each surviving Pallidified ally (not counting this unit)",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Heal by 40% of damage dealt"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, Damage Up, and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Heal by 40% of damage dealt"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009001,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "..-. .",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009002,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "..-. . --",
-                    "desc": "[WinDuel] Inflict 1 Pallid Noise",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009003,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": ".-.. -",
-                    "desc": "[WinDuel] Deal 1 SP damage to target for each surviving Pallidified ally (not counting this unit)",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Heal by 40% of damage dealt"
-                                },
-                                {
-                                    "desc": "Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, Damage Up, and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Heal by 40% of damage dealt"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009101,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "-... .…",
-                    "desc": "If the target has <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, the HP heal effect also applies to 1 other Pallidified ally with the lowest SP",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Sinking"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Sinking"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009102,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": ".--- .",
-                    "desc": "If the target has <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, the HP heal effect also applies to 1 other Pallidified ally with the lowest SP",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Heal by 50% of damage dealt"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Pallid Noise"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009103,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "-. .…",
-                    "desc": "[WhenUse] If the target has <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, all other Pallidified allies heal 30 HP",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, Damage Up, and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Heal 20 HP on self"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009201,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "-- . -.-",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Tremor"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Tremor"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009202,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "-... .-",
-                    "desc": "[WhenUse] Apply 1 Protection to 1 other random ally next turn. If the ally is a Pallidified ally, apply 1 additional Protection.",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict +4 Tremor Count"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009203,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "-.-. ..-",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Trigger Tremor Burst"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Reduce Tremor Count by 2"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Pallid Noise"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 10 Rupture and +4 Rupture Count"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009204,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": ".--. .",
-                    "desc": "[StartBattle] Gain 1 Protection for every 2 Pallidified ally (not counting this unit)\nWhen attacked while this unit has Shield, inflict 1 Tremor to the attacker",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009301,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "..-. .",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009302,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": ".-.. .",
-                    "desc": "[WhenUse] Apply 1 Damage Up to 1 other random Pallidified ally next turn",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Paralyze"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009303,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": ".-.. .-",
-                    "desc": "[WhenUse] Apply 1 Damage Up to 1 random Pallidified ally next turn",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Pallid Noise"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009401,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "--. . ...-",
-                    "desc": "If the target has <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, deal 1 SP damage to target for every other surviving ally",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009402,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "...- …",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Pallid Noise"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Bleed"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009403,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": ".--. .... -",
-                    "desc": "[WinDuel] Inflict 1 Pallid Noise",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 4 Bleed next turn"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009404,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "-.- -",
-                    "desc": "When attacked while this unit has Shield, inflict 1 Pallid Noise to the target\n[EndBattle] If this unit has Shield, gain 3 Poise next turn",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009501,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": ".--. -",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009502,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": ".-.. - ..-",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009503,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "-- .... -",
-                    "desc": "[WhenUse] Gain 1 Protection for every surviving ally. (Max 3)",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Gain 2 Protection"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Gain 2 Protection next turn"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict 4 Bleed next turn"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009504,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "-.- ..",
-                    "desc": "[WhenUse] Gain 2 Protection\nWhen attacked while this unit has Shield, inflict 1 Pallid Noise to the target\n[EndBattle] Heal HP by x2 of the remaining Shield HP.",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009601,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Right in the Solar Plexus",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009602,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "We Remember!",
-                    "desc": "[DefeatDuel] Gain 1 Damage Up next turn",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Deal additional fixed damage equal to the number of the Middle allies killed during this wave"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009603,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Skull Crushing",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Attack Power Down next turn"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009604,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Ready to Write",
-                    "desc": "[EndBattle] If this unit has Shield, gain 1 Attack Power Up next turn",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009605,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Vengeance",
-                    "desc": "[DefeatDuel] Gain 1 Damage Up next turn",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackTail] Raise Stagger Threshold by 8"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009606,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Multifold Retribution",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Deal 20 fixed HP damage"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze next turn"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009701,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Right in the Solar Plexus",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009702,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Write Their Sins!",
-                    "desc": "[DefeatDuel] Gain 1 Damage Up next turn",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Deal additional fixed damage equal to the number of the Middle allies killed during this wave"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009703,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Skull Bursting",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Plus Coin Drop next turn"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009704,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Ready to Write",
-                    "desc": "If this unit's Shield is fully depleted, gain 1 Attack Power Up next turn",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009705,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Vengeance",
-                    "desc": "[DefeatDuel] Gain 1 Damage Up next turn",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackTail] Raise Stagger Threshold by 8"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 9009706,
-            "levelList": [
-                {
-                    "level": 1,
-                    "name": "Multifold Retribution",
-                    "desc": "",
-                    "coinlist": [
-                        {
-                            "coindescs": [
-                                {
-                                    "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Deal 20 fixed HP damage"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+              ]
+            }
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "id": 9008802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dehşet Kazımak",
+          "desc": "[WinDuel] Hedefe 10 SP hasarı ver; bu birim 10 HP iyileştirir",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 1 [Binding] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dehşet Biçmek",
+          "desc": "Eğer hedefin SP'si 20'nin altındaysa, bu saldırıdan %20 daha fazla HP iyileştir",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 3 SP hasarı ver"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Verilen hasarın %30'u kadar Yenile"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 3 SP hasarı ver"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Verilen hasarın %30'u kadar Yenile"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zihin Felci",
+          "desc": "Eğer hedefin SP'si -15'in altındaysa, %50 daha fazla hasar ver",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 [Paralysis] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 [Paralysis] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... - ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 [Sinking] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 [Sinking] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- ... -.-",
+          "desc": "[WinDuel] 1 [AaCePbBa] Uygula",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 [Sinking] Uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] +3 [Sinking] Miktarı Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...- .",
+          "desc": "Hayatta kalan her Solgunlaştırılmış müttefik için Final Gücü +1 (bu birim hariç)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Verilen hasarın %40'ı kadar Yenile"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hedefte şu an uygulanan buff'lardan birini kopyala. Kopyalanan buff'ı sonraki turda kazan.\n(Sınırlı: [Enhancement], [Agility], [AttackDmgUp] ve [Protection])"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Verilen hasarın %40'ı kadar Yenile"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. .",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 [Sinking] Miktarı Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 [Sinking] Miktarı Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. . --",
+          "desc": "[WinDuel] 1 [AaCePbBa] Uygula",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 [Sinking] Miktarı Uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 2 [Sinking] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. -",
+          "desc": "[WinDuel] Hayatta kalan her Solgunlaştırılmış müttefik için (bu birim hariç) hedefe 1 SP hasarı ver",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Verilen hasarın %40'ı kadar Yenile"
+                },
+                {
+                  "desc": "Hedefte şu an uygulanan buff'lardan birini kopyala. Kopyalanan buff'ı sonraki turda kazan.\n(Sınırlı: [Enhancement], [Agility], [AttackDmgUp] ve [Protection])"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Verilen hasarın %40'ı kadar Yenile"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... .…",
+          "desc": "Eğer hedefte [Sinking] varsa, HP iyileştirme etkisi aynı zamanda en düşük SP'ye sahip 1 diğer Solgunlaştırılmış müttefiğe de uygulanır",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Verilen hasarın %30'u kadar iyileş"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 1 [Sinking] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Verilen hasarın %30'u kadar Yenile"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 1 [Sinking] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--- .",
+          "desc": "Eğer hedefte [Sinking] varsa, HP iyileştirme etkisi aynı zamanda en düşük SP'ye sahip 1 diğer Solgunlaştırılmış müttefiğe de uygulanır",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Verilen hasarın %50'u kadar Yenile"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 2 [AaCePbBa] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-. .…",
+          "desc": "[WhenUse] Eğer hedefte [AaCePbBa] varsa, diğer tüm Solgunlaştırılmış müttefikler 30 HP iyileştirir",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Hedefte şu an uygulanan güçlendirmelerden birini kopyala. Kopyalanan güçlendirmeyi sonraki turda kazan.\n(Sınırlı: [Enhancement], [Agility], [AttackDmgUp] ve [Protection])"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kendinde 20 HP Yenile"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- . -.-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 [Vibration] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 [Vibration] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... .-",
+          "desc": "[WhenUse] Rastgele 1 diğer müttefiğe sonraki turda 1 [Protection] uygula. Eğer müttefik Solgunlaştırılmış müttefikse, ek 1 [Protection] uygula.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +4 [Vibration] Miktarı Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.-. ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] Tetikle"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] Miktarını 2 azalt"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 1 [AaCePbBa] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 10 [Burst] ve +4 [Burst] Miktarı Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. .",
+          "desc": "[StartBattle] Her 2 Solgunlaştırılmış müttefik için (bu birim hariç) 1 [Protection] Kazan\nKalkan varken saldırıya uğrarsa, saldırgana 1 [Vibration] uygula",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. .",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 [DefenseDown] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. .",
+          "desc": "[WhenUse] Rastgele 1 diğer Solgunlaştırılmış müttefiğe sonraki turda 1 [AttackDmgUp] uygula",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 [Paralysis] Uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 1 [AaCePbBa] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. .-",
+          "desc": "[WhenUse] Rastgele 1 Solgunlaştırılmış müttefiğe sonraki turda 1 [AttackDmgUp] uygula",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 [DefenseDown] Uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 1 [AaCePbBa] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 [DefenseDown] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "--. . ...-",
+          "desc": "Eğer hedefte [AaCePbBa] varsa, hayatta kalan her diğer müttefik için hedefe 1 SP hasarı ver",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı Uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 3 [Laceration] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...- …",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 [AaCePbBa] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +3 [Laceration] Miktarı Uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 3 [Laceration] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. .... -",
+          "desc": "[WinDuel] 1 [AaCePbBa] Uygula",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 4 [Laceration] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 [Fragility] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.- -",
+          "desc": "Kalkan varken saldırıya uğrarsa, hedefe 1 [AaCePbBa] uygula\n[EndBattle] Eğer bu birimde Kalkan varsa, sonraki turda 3 [Breath] Kazan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. -",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 [Binding] Uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 2 [Laceration] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. - ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 1 [Paralysis] Uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 2 [Laceration] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 [AttackDmgDown] Uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 2 [Laceration] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- .... -",
+          "desc": "[WhenUse] Hayatta kalan her müttefik için 1 [Protection] Kazan. (Maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 [Protection] Kazan"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 1 [AaCePbBa] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 [Protection] Kazan"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Sonraki turda 4 [Laceration] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.- ..",
+          "desc": "[WhenUse] 2 [Protection] Kazan\nKalkan varken saldırıya uğrarsa, hedefe 1 [AaCePbBa] uygula\n[EndBattle] Kalan Kalkan HP'sinin x2'si kadar HP Yenile.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tam Solar Pleksusa",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Sonraki turda 1 [Paralysis] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hatırlıyoruz!",
+          "desc": "[DefeatDuel] Sonraki turda 1 [AttackDmgUp] Kazan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 [Binding] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Bu dalga sırasında öldürülen Orta müttefiklerin sayısı kadar ek sabit hasar ver"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kafatası Parçalama",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Sonraki turda 1 [Reduction] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 [Paralysis] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Yazmaya Hazır",
+          "desc": "[EndBattle] Eğer bu birimde Kalkan varsa, sonraki turda 1 [Enhancement] Kazan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "İntikam",
+          "desc": "[DefeatDuel] Sonraki turda 1 [AttackDmgUp] Kazan",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 [Paralysis] Uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Sersemleme Eşiğini 8 artır"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Çok Katlı Cezalandırma",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini 30 artır"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 20 sabit HP hasarı ver"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Sonraki turda 3 [Paralysis] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tam Solar Pleksusa",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Sonraki turda 1 [Paralysis] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Günahlarını Yaz!",
+          "desc": "[DefeatDuel] Sonraki turda 1 [AttackDmgUp] Kazan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 [AttackDmgDown] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Bu dalga sırasında öldürülen Orta müttefiklerin sayısı kadar ek sabit hasar ver"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kafatası Patlatma",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Sonraki turda 1 [PlusCoinValueDown] Uygula"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 1 [PlusCoinValueDown] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Yazmaya Hazır",
+          "desc": "Eğer bu birimin Kalkanı tamamen tükenirse, sonraki turda 1 [Enhancement] Kazan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "İntikam",
+          "desc": "[DefeatDuel] Sonraki turda 1 [AttackDmgUp] Kazan",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 [Paralysis] Uygula"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Sersemleme Eşiğini 8 artır"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Çok Katlı Cezalandırma",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini 30 artır"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 20 sabit HP hasarı ver"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Sonraki turda 3 [Paralysis] Uygula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
