@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressure Point Penetration",
+          "name": "Baskı Noktası Delişi",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 }
               ]
             }
@@ -24,20 +24,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressure Point Crush",
-          "desc": "[WhenUse] If target has 3+ [Laceration], Clash Power +1\n[WhenUse] If target has 4+ [Vibration], Coin Power +1",
+          "name": "Baskı Noktası Ezmesi",
+          "desc": "[WhenUse] Eğer hedefte 3+ [Laceration] varsa, Çarpışma Gücü +1\n[WhenUse] Eğer hedefte 4+ [Vibration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 }
               ]
             }
@@ -50,36 +50,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Palanquin Crush",
-          "desc": "[WhenUse] If target has 3+ [Laceration], Clash Power +1\n[WhenUse] If target has 4+ [Vibration], Coin Power +1",
+          "name": "Tahtırevan Ezmesi",
+          "desc": "[WhenUse] Eğer hedefte 3+ [Laceration] varsa, Çarpışma Gücü +1\n[WhenUse] Eğer hedefte 4+ [Vibration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -92,8 +92,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
-          "desc": "[WhenUse] Gain 3 Shield for every type of negative effect on self (max 10)"
+          "name": "Savunma",
+          "desc": "[WhenUse] Kendindeki her negatif efekt türü için 3 Kalkan kazan (maks. 10)"
         }
       ]
     },
@@ -102,13 +102,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressure Point Stab",
+          "name": "Baskı Noktası Saplaması",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -121,20 +121,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressure Point Strike",
-          "desc": "[WhenUse] If target has 3+ [Laceration], Clash Power +1\n[WhenUse] If target has 4+ [Vibration], Coin Power +1",
+          "name": "Baskı Noktası Vuruşu",
+          "desc": "[WhenUse] Eğer hedefte 3+ [Laceration] varsa, Çarpışma Gücü +1\n[WhenUse] Eğer hedefte 4+ [Vibration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -147,36 +147,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Palanquin Buster",
-          "desc": "[WhenUse] If target has 3+ [Laceration] Count, Clash Power +1\n[WhenUse] If target has 4+ [Vibration] Count, Coin Power +1",
+          "name": "Tahtırevan Kırıcı",
+          "desc": "[WhenUse] Eğer hedefte 3+ [Laceration] Miktarı varsa, Çarpışma Gücü +1\n[WhenUse] Eğer hedefte 4+ [Vibration] Miktarı varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -189,8 +189,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
-          "desc": "[WhenUse] Gain 3 Shield for every type of negative effect on self (max 10)"
+          "name": "Savunma",
+          "desc": "[WhenUse] Kendindeki her negatif efekt türü için 3 Kalkan kazan (maks. 10)"
         }
       ]
     },
@@ -199,13 +199,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pinpoint Strike",
+          "name": "Hassas Vuruş",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 1 [AttackDown] uygula"
                 }
               ]
             }
@@ -218,14 +218,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Circular Roundhouse Point-Strike",
-          "desc": "Gain Clash Power +1 for every type of negative effect on self (max 3)",
+          "name": "Dairesel Aparkat Nokta-Vuruşu",
+          "desc": "Kendindeki her negatif efekt türü için Çarpışma Gücü +1 kazan (maks. 3)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 2 [AttackDown] uygula"
                 }
               ]
             }
@@ -238,27 +238,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Circular Roundhouse Strike",
-          "desc": "Gain Clash Power +1 for every type of negative effect on self (max 3)",
+          "name": "Dairesel Aparkat Vuruşu",
+          "desc": "Kendindeki her negatif efekt türü için Çarpışma Gücü +1 kazan (maks. 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 2 [AttackDown] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 2 [AttackDown] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 2 [AttackDown] uygula"
                 }
               ]
             }
@@ -271,8 +271,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
-          "desc": "Gain Coin Power +1 for every type of negative effect on self (max 3)",
+          "name": "Karşı Saldırı",
+          "desc": "Kendindeki her negatif efekt türü için Jeton Gücü +1 kazan (maks. 3)",
           "coinlist": [
             {}
           ]
@@ -284,13 +284,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Center Strike",
+          "name": "Merkez Vuruşu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 1 [DefenseDown] uygula"
                 }
               ]
             }
@@ -303,14 +303,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Semicircular Roundhouse Point-Strike",
-          "desc": "Gain Clash Power +1 for every type of negative effect on self (max 3)",
+          "name": "Yarım Dairesel Aparkat Nokta-Vuruşu",
+          "desc": "Kendindeki her negatif efekt türü için Çarpışma Gücü +1 kazan (maks. 3)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 2 [DefenseDown] uygula"
                 }
               ]
             }
@@ -323,27 +323,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Semicircular Roundhouse Strike",
-          "desc": "Gain Clash Power +1 for every type of negative effect on self (max 3)",
+          "name": "Yarım Dairesel Aparkat Vuruşu",
+          "desc": "Kendindeki her negatif efekt türü için Çarpışma Gücü +1 kazan (maks. 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 2 [DefenseDown] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 2 [DefenseDown] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 2 [DefenseDown] uygula"
                 }
               ]
             }
@@ -356,8 +356,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
-          "desc": "Gain Coin Power +1 for every type of negative effect on self (max 3)",
+          "name": "Karşı Saldırı",
+          "desc": "Kendindeki her negatif efekt türü için Jeton Gücü +1 kazan (maks. 3)",
           "coinlist": [
             {}
           ]
@@ -369,13 +369,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clawing",
+          "name": "Pençeleme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             }
@@ -388,20 +388,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wild Clawing",
-          "desc": "[WhenUse] If target has 4+ [Burst], Base Power +1",
+          "name": "Vahşi Pençeleme",
+          "desc": "[WhenUse] Eğer hedefte 4+ [Burst] varsa, Temel Güç +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -414,21 +414,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tear Off",
-          "desc": "[WhenUse] Base Power +1 for every 20% missing HP on self (max 4)\n[WhenUse] Coin Power +1 for every 6 [Burst] (max 2)",
+          "name": "Koparma",
+          "desc": "[WhenUse] Kendindeki her %20 eksik HP için Temel Güç +1 (maks. 4)\n[WhenUse] Her 6 [Burst] için Jeton Gücü +1 (maks. 2)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             },
@@ -438,7 +438,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst] and +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 3 [Burst] ve +3 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -451,13 +451,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Karşı Saldırı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -470,8 +470,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Leaping Cracked Jar",
-          "desc": "[EndSkill] Randomly inflict 2 of the following effects next turn. Dies after dealing 10 damage\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
+          "name": "Sıçrayan Çatlak Kavanoz",
+          "desc": "[EndSkill] Bir sonraki tura rastgele aşağıdaki efektlerden 2'sini uygula. 10 hasar verdikten sonra ölür\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
           "coinlist": [
             {
               "coindescs": [
@@ -489,13 +489,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Claw Scratch",
+          "name": "Pençe Çizik",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -508,20 +508,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wild Scratching",
-          "desc": "[WhenUse] If target has 4+ [Burst], Base Power +1",
+          "name": "Vahşi Tırmalama",
+          "desc": "[WhenUse] Eğer hedefte 4+ [Burst] varsa, Temel Güç +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -534,21 +534,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Latching On",
-          "desc": "[WhenUse] Base Power +1 for every 20% missing HP on self (max 4)\n[WhenUse] Coin Power +1 for every 6 [Burst] (max 2)",
+          "name": "Yapışma",
+          "desc": "[WhenUse] Kendindeki her %20 eksik HP için Temel Güç +1 (maks. 4)\n[WhenUse] Her 6 [Burst] için Jeton Gücü +1 (maks. 2)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             },
@@ -558,7 +558,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -571,13 +571,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Karşı Saldırı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst] and +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 2 [Burst] ve +1 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -590,8 +590,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Leaping Cracked Jar",
-          "desc": "[EndSkill] Randomly inflict 2 of the following effects next turn. Dies after dealing 10 damage\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
+          "name": "Sıçrayan Çatlak Kavanoz",
+          "desc": "[EndSkill] Bir sonraki tura rastgele aşağıdaki efektlerden 2'sini uygula. 10 hasar verdikten sonra ölür\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
           "coinlist": [
             {
               "coindescs": [
@@ -609,13 +609,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wound Digging",
+          "name": "Yara Kazıma",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -628,20 +628,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wild Digging",
-          "desc": "[WhenUse] If target has 4+ [Burst], Coin Power +1",
+          "name": "Vahşi Kazıma",
+          "desc": "[WhenUse] Eğer hedefte 4+ [Burst] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -654,21 +654,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flesh Digging",
-          "desc": "[WhenUse] Base Power +1 for every 20% missing HP on self (max 4)\n[WhenUse] Coin Power +1 for every 6 [Burst] (max 2)",
+          "name": "Et Kazıma",
+          "desc": "[WhenUse] Kendindeki her %20 eksik HP için Temel Güç +1 (maks. 4)\n[WhenUse] Her 6 [Burst] için Jeton Gücü +1 (maks. 2)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula"
                 }
               ]
             },
@@ -678,7 +678,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +4 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -691,13 +691,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Karşı Saldırı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             }
@@ -710,8 +710,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Leaping Cracked Jar",
-          "desc": "[EndSkill] Randomly inflict 2 of the following effects next turn. Dies after dealing 10 damage\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
+          "name": "Sıçrayan Çatlak Kavanoz",
+          "desc": "[EndSkill] Bir sonraki tura rastgele aşağıdaki efektlerden 2'sini uygula. 10 hasar verdikten sonra ölür\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
           "coinlist": [
             {
               "coindescs": [
@@ -729,26 +729,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wound Clawing",
-          "desc": "[WhenUse] If target has 4+ [Burst], Coin Power +1",
+          "name": "Yara Pençeleme",
+          "desc": "[WhenUse] Eğer hedefte 4+ [Burst] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -761,16 +761,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flesh Tearing",
-          "desc": "[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 2)",
+          "name": "Et Yırtma",
+          "desc": "[WhenUse] Hedefteki her 4 [Burst] için Jeton Gücü +1 (maks. 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +3 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -783,8 +783,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Writhing in Loneliness",
-          "desc": "[WhenUse] Base Power +1 for every 10% missing HP on self (max 5)\n[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 3)\n\n[WhenUse] If target has 10+ ([Burst] + [Burst] Count), inflict [Burst] Count equal to [Burst] Count on target",
+          "name": "Yalnızlıkta Kıvranma",
+          "desc": "[WhenUse] Kendindeki her %10 eksik HP için Temel Güç +1 (maks. 5)\n[WhenUse] Hedefteki her 4 [Burst] için Jeton Gücü +1 (maks. 3)\n\n[WhenUse] Eğer hedefte 10+ ([Burst] + [Burst] Miktarı) varsa, hedefteki [Burst] Miktarı kadar [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
@@ -792,10 +792,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 }
               ]
             },
@@ -805,10 +805,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 }
               ]
             },
@@ -818,10 +818,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 }
               ]
             },
@@ -831,10 +831,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 15+ ([Burst] + [Burst] Count), inflict ([Burst] Potency x [Burst] Count) Gluttony damage. (max 40)"
+                  "desc": "[OnSucceedAttack] 15+ ([Burst] + [Burst] Miktarı) varsa, ([Burst] Şiddeti x [Burst] Miktarı) Oburluk hasarı ver. (maks. 40)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +5 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -847,19 +847,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Karşı Saldırı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ [Burst], reuse this Skill (2 times max)"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 5+ [Burst] varsa, bu Yeteneği tekrar kullan (maks. 2 kez)"
                 }
               ]
             }
@@ -872,8 +872,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Leaping Cracked Jar",
-          "desc": "[EndSkill] Randomly inflict 3 of the following effects next turn. Dies after dealing 30 damage\n- 4 [AttackDown]\n- 4 [DefenseDown]\n- 2 [Paralysis]\n- 2 [Binding]",
+          "name": "Sıçrayan Çatlak Kavanoz",
+          "desc": "[EndSkill] Bir sonraki tura rastgele aşağıdaki efektlerden 3'ünü uygula. 30 hasar verdikten sonra ölür\n- 4 [AttackDown]\n- 4 [DefenseDown]\n- 2 [Paralysis]\n- 2 [Binding]",
           "coinlist": [
             {
               "coindescs": [
@@ -891,13 +891,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slash",
+          "name": "Kesme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -910,20 +910,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressuring",
-          "desc": "[WhenUse] If target has 5+ [Laceration], Clash Power +1",
+          "name": "Baskılama",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Çarpışma Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -936,27 +936,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ruptured Image Execution",
-          "desc": "[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 2)",
+          "name": "Yırtık Görüntü İnfazı",
+          "desc": "[WhenUse] Hedefteki her 5 [Laceration] için Jeton Gücü +1 (maks. 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +1% damage for every ([Laceration] + [Laceration] Count) on the target (max 20%)"
+                  "desc": "Hedefteki her ([Laceration] + [Laceration] Miktarı) için +1% hasar ver (maks. 20%)"
                 }
               ]
             }
@@ -969,16 +969,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
-          "desc": "[WhenUse] If target has 6+ [Laceration], Base Power +1",
+          "name": "Karşı Saldırı",
+          "desc": "[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Temel Güç +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 3 [DefenseDown] uygula"
                 }
               ]
             }
@@ -991,13 +991,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep Away",
+          "name": "Süpürme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +3 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -1010,20 +1010,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cornering",
-          "desc": "[WhenUse] If target has 5+ [Laceration], Clash Power +1",
+          "name": "Köşeye Sıkıştırma",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Çarpışma Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -1036,27 +1036,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Execution of the Ruptured Image",
-          "desc": "[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 2)",
+          "name": "Yırtık Görüntünün İnfazı",
+          "desc": "[WhenUse] Hedefteki her 5 [Laceration] için Jeton Gücü +1 (maks. 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +1% damage for every ([Laceration] + [Laceration] Count) on the target (max 20%)"
+                  "desc": "Hedefteki her ([Laceration] + [Laceration] Miktarı) için +1% hasar ver (maks. 20%)"
                 }
               ]
             }
@@ -1069,16 +1069,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
-          "desc": "[WhenUse] If target has 6+ [Laceration], Base Power +1",
+          "name": "Karşı Saldırı",
+          "desc": "[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Temel Güç +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 3 [AttackDown] uygula"
                 }
               ]
             }
@@ -1091,13 +1091,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Parrying Slash",
-          "desc": "[WhenUse] If target has 8+ [Laceration], Clash Power +1",
+          "name": "Savurma Kesme",
+          "desc": "[WhenUse] Eğer hedefte 8+ [Laceration] varsa, Çarpışma Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                 }
               ]
             }
@@ -1110,20 +1110,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressuring Slash",
-          "desc": "[WhenUse] If target has 5+ [Laceration], Clash Power +1",
+          "name": "Baskı Kesmesi",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Çarpışma Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -1136,13 +1136,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Waveslash",
-          "desc": "[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 2)",
+          "name": "Dalga Kesmesi",
+          "desc": "[WhenUse] Hedefteki her 5 [Laceration] için Jeton Gücü +1 (maks. 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
@@ -1152,14 +1152,14 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal +1% damage for every ([Laceration] + [Laceration] Count) on the target (max 20%)"
+                  "desc": "Hedefteki her ([Laceration] + [Laceration] Miktarı) için +1% hasar ver (maks. 20%)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] uygula"
                 }
               ]
             }
@@ -1172,13 +1172,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Becalming of a Bewildered Steed",
-          "desc": "[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 3)",
+          "name": "Sersem Küheylanın Yatıştırılması",
+          "desc": "[WhenUse] Hedefteki her 5 [Laceration] için Jeton Gücü +1 (maks. 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration] and +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] ve +3 [Laceration] Miktarı uygula"
                 }
               ]
             },
@@ -1188,7 +1188,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal +2% damage for every ([Laceration] + [Laceration] Count) on the target (max 50%)"
+                  "desc": "Hedefteki her ([Laceration] + [Laceration] Miktarı) için +2% hasar ver (maks. 50%)"
                 }
               ]
             }
@@ -1201,23 +1201,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
-          "desc": "[WhenUse] If target has 6+ [Laceration], Base Power +1",
+          "name": "Karşı Saldırı",
+          "desc": "[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Temel Güç +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 2 [Binding] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [AttackDown] and [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 3 [AttackDown] ve [DefenseDown] uygula"
                 }
               ]
             }
@@ -1230,13 +1230,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Frontal Swirl",
-          "desc": "[WhenUse] If target has 5+ [Laceration], Base Power +1\n[WhenUse] Gain 1 [SipOfAlcohol]",
+          "name": "Önden Savurma",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Temel Güç +1\n[WhenUse] 1 [SipOfAlcohol] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] uygula"
                 }
               ]
             }
@@ -1249,20 +1249,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Way of the Open-throat Chugging",
-          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration] on target (max 2)\n[WhenUse] Gain 1 [SipOfAlcohol]",
+          "name": "Boğazdan İçme Yolu",
+          "desc": "[WhenUse] Hedefteki her 5 [Laceration] için Temel Güç +1 (maks. 2)\n[WhenUse] 1 [SipOfAlcohol] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -1275,30 +1275,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Waterfall",
-          "desc": "[WhenUse] If target has 5+ [Laceration], Coin Power +1\n\n[DefeatDuel] Lose 3 [SipOfAlcohol]",
+          "name": "Şelale",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Jeton Gücü +1\n\n[DefeatDuel] 3 [SipOfAlcohol] kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] uygula"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[WinDuelAttack] +3 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -1311,30 +1311,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Drunklaim",
-          "desc": "[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 2)\n[WhenUse] At 3+ [SipOfAlcohol], convert all Coins on this Skill to [SuperCoin]s",
+          "name": "Sarhoş İddiası",
+          "desc": "[WhenUse] Hedefteki her 5 [Laceration] için Jeton Gücü +1 (maks. 2)\n[WhenUse] 3+ [SipOfAlcohol] varsa, bu Yetenekteki tüm Jetonları [SuperCoin]'e çevir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +1% damage for every ([Laceration] + [Laceration] Count) on the target (max 20%)"
+                  "desc": "Hedefteki her ([Laceration] + [Laceration] Miktarı) için +1% hasar ver (maks. 20%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 3+ [SipOfAlcohol], reuse this Skill once (once per Skill)"
+                  "desc": "[OnSucceedAttack] Eğer bu birimde 3+ [SipOfAlcohol] varsa, bu Yeteneği bir kez daha kullan (Yetenek başına bir kez)"
                 }
               ]
             }
@@ -1347,23 +1347,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Drunken Returning Strike",
-          "desc": "[WhenUse] If target has 5+ [Laceration], Base Power +1",
+          "name": "Sarhoş Dönüş Vuruşu",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Laceration] varsa, Temel Güç +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 4 [Paralysis] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [AttackDown] and [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tura 5 [AttackDown] ve [DefenseDown] uygula"
                 }
               ]
             }
@@ -1376,16 +1376,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "True Decapitation Deathblow",
-          "desc": "[StartBattle] HP does not drop below 1 before this Skill ends.\n[WhenUse] Gain 10 [AttackUp]\n[WhenUse] Gain 5 [Enhancement]\n[WhenUse] Gain 10 [AttackDmgUp]",
+          "name": "Gerçek Kafa Kesme Öldürüşü",
+          "desc": "[StartBattle] Bu Yetenek bitene kadar HP 1'in altına düşmez.\n[WhenUse] 10 [AttackUp] kazan\n[WhenUse] 5 [Enhancement] kazan\n[WhenUse] 10 [AttackDmgUp] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +1% damage for every ([Laceration] + [Laceration] Count) on the target (max 100%)"
+                  "desc": "Hedefteki her ([Laceration] + [Laceration] Miktarı) için +1% hasar ver (maks. 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 5 [SipOfAlcohol]"
+                  "desc": "[OnSucceedAttack] 5 [SipOfAlcohol] kazan"
                 }
               ]
             }
@@ -1398,8 +1398,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Intoxicated Leaning",
-          "desc": "[WhenUse] Gain 5 Shield for every [SipOfAlcohol] on self (max 25)\n[WhenUse] Gain [SipOfAlcohol] equal to the number of enemies targeting this unit (max 5)",
+          "name": "Sarhoş Yalpalama",
+          "desc": "[WhenUse] Kendindeki her [SipOfAlcohol] için 5 Kalkan kazan (maks. 25)\n[WhenUse] Bu birimi hedefleyen düşman sayısı kadar [SipOfAlcohol] kazan (maks. 5)",
           "coinlist": [
             {
               "coindescs": [
