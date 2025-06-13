@@ -3,82 +3,82 @@
         {
             "id": "get_10606_1",
             "desc": "Identity Acquisition",
-            "dlg": "Those WARP trains tend to be rather cramped, don't you think?"
+            "dlg": "Bu WARP trenleri oldukça sıkışık oluyor, öyle değil mi?"
         },
         {
             "id": "lobby_morning_10606_1",
             "desc": "Morning Greeting",
-            "dlg": "I don't have much trouble getting up in the morning... But doing the same work day after day got old pretty fast."
+            "dlg": "Sabahları kalkmakta pek zorlanmıyorum... Ama her gün aynı işi yapmak çok çabuk sıkıcı olmaya başladı."
         },
         {
             "id": "lobby_noon_10606_1",
             "desc": "Afternoon Greeting",
-            "dlg": "Mmm~ It's nice out today! The shop I visited serves great drinks, too. ... I'm gonna have to go back inside and prepare to clean up more trains, though."
+            "dlg": "Mmm~ Bugün hava güzel! Ziyaret ettiğim dükkanda harika içecekler de var. ... Yine de, içeri dönüp daha fazla tren temizlemeye hazırlanmam gerekecek."
         },
         {
             "id": "lobby_night_10606_1",
             "desc": "Evening Greeting",
-            "dlg": "You know, sometimes I lose track of time working late into the night for those night trains. Train platforms always so brightly lit and all."
+            "dlg": "Bilir misin, bazen gece trenleri için gece geç saatlere kadar çalışırken zamanın nasıl geçtiğini anlayamıyorum. Tren peronları her zaman çok parlak da."
         },
         {
             "id": "smalltalk_10606_1",
             "desc": "Chatter #1",
-            "dlg": "Grandma told me to work here, but it does get a little boring doing the same things over and over~"
+            "dlg": "Büyükannem burada çalışmamı söyledi ama aynı şeyleri tekrar tekrar yapmak biraz sıkıcı oluyor~"
         },
         {
             "id": "smalltalk_10606_2",
             "desc": "Chatter #2",
-            "dlg": "I wonder if we'll ever get company sponsored trips? We're train cleaner agents, so it would be pretty appropriate. Oh, not that I want to take the WARP trains, of course~"
+            "dlg": "Merak ediyorum da acaba şirket sponsorluğunda geziler olacak mı? Biz tren temizleyicisi ajanlarıyız, bu yüzden oldukça uygun olurdu. Ah, tabii ki de WARP trenlerine binmek istediğimden değil~"
         },
         {
             "id": "smalltalk_10606_3",
             "desc": "Chatter #3",
-            "dlg": "Aw~ Everyone's been getting increasingly quiet. Their faces look gloomy, too... I wonder if there's a flu going around?"
+            "dlg": "Aw~ Herkes gittikçe daha çok sessizleşiyor. Yüzleri de epey kasvetli görünüyor... Acaba ortalıkta grip mi dolaşmakta?"
         },
         {
             "id": "smalltalk_10606_4",
             "desc": "Post-Uptie Chat 1",
-            "dlg": "Whew... Everyone's in pieces again. Apparently there was this one time when the passengers were praying in their seats, all nice and gentle. What an easy job that must've been!"
+            "dlg": "Vay canına... Herkes yine parçalanmış. Görünüşe göre yolcuların koltuklarında kalıp dua ederek durdukları bir zaman varmış, tamamen kibarca ve nazikçe. O ne kadar da kolay bir iş olmuş olmalı!" 
         },
         {
             "id": "smalltalk_10606_5",
             "desc": "Post-Uptie Chat 2",
-            "dlg": "Is the train cleaning job difficult? Well... it can be, when it comes to cleaning up the weirder passengers.\nOh, you meant like psychologically? Hm... Nah, it's just a job, right? I don't really think about it."
+            "dlg": "Tren temizleme işi zor mu? Şey... garip yolcuları temizlemeye gelince zor olabiliyor...\nOh, psikolojik olarak mı demek istiyordun? Hm... Yok ya, bu sadece bir iş, değil mi? Üzerinde pek kafa yormuyorum."
         },
         {
             "id": "neglect_10606_1",
             "desc": "Idle",
-            "dlg": "Mm, I'll be checking the letters from my family, if you won't mind~"
+            "dlg": "Mm, ailemden gelen mektupları kontrol edeceğim, eğer izin verirsen~"
         },
         {
             "id": "gacksung_10606_1",
             "desc": "Uptying",
-            "dlg": "Oh, is this a new lesson? I hope it's about something new for once~"
+            "dlg": "Ah, bu yeni bir ders mi? Umarım bir kereliğine yeni bir şey hakkındadır~"
         },
         {
             "id": "formation_10606_1",
             "desc": "Deployment",
-            "dlg": "I'm all ready to clean~"
+            "dlg": "Temizlemeye hazırım~"
         },
         {
             "id": "battleentry_10606_1",
             "desc": "Stage Entry",
-            "dlg": "Time to start cleaning."
+            "dlg": "Temizliğe başlama zamanı."
         },
         {
             "id": "battle_select_10606_1",
             "desc": "Viewed in Battle",
-            "dlg": "Oh dear~ You're not supposed to come in while we're cleaning up."
+            "dlg": "Tanrım~ Biz temizlik yaparken içeri girmemen gerekirdi."
         },
         {
             "id": "battle_endcommand_10606_1",
             "desc": "Commencing Attack",
-            "dlg": "Taking care of problem passengers."
+            "dlg": "Sorunlu yolcularla ilgileniyoruz."
         },
         {
             "id": "battle_enemy_break_10606_1",
             "desc": "Enemy Stagger",
-            "dlg": "Stay calm and stay down, now~"
+            "dlg": "Şimdi, Sakin ol ve aşağıda kal~"
         },
         {
             "id": "battle_break_10606_1",
@@ -88,37 +88,37 @@
         {
             "id": "battle_kill_10606_1",
             "desc": "Enemy Killed",
-            "dlg": "Okay, let's get their limbs and torsos over here~"
+            "dlg": "Tamam, uzuvlarını ve gövdelerini buraya alalım~"
         },
         {
             "id": "battle_dead_10606_1",
             "desc": "Death",
-            "dlg": "Ah... It was... supposed to be a simple cleanup...?"
+            "dlg": "Ah... Basit bir... temizlik mi olacaktı...?"
         },
         {
             "id": "choice_success_p_10606_2",
             "desc": "Check Passed",
-            "dlg": "Hmhmm. That was simple."
+            "dlg": "Hmhmm. Bu basitti."
         },
         {
             "id": "choice_fail_n_10606_1",
             "desc": "Check Failed",
-            "dlg": "Strange... The manuals taught me to do it this way."
+            "dlg": "Garip... Kılavuzlar bana bunu böyle yapmayı öğretmişti."
         },
         {
             "id": "battle_clear_10606_1",
             "desc": "Victory Cry",
-            "dlg": "Alright, now that that's over with, I should visit a café for a short break."
+            "dlg": "Tamam, artık bu iş bittiğine göre, kısa bir mola için bir kafeye gitmeliyim."
         },
         {
             "id": "battle_clear_ex_10606_1",
             "desc": "Extra Conditions Fulfilled",
-            "dlg": "Ohh~ We've finished today's job much faster than usual, haven't we? Maybe you have the makings of a cleanup agent~"
+            "dlg": "Ohh~ Bugünün işini her zamankinden çok daha hızlı bitirdik, değil mi? Belki de bir temizlik ajanı olmak için gereken özelliklere sahipsindir~"
         },
         {
             "id": "battle_defeat_10606_1",
             "desc": "Defeat Wail",
-            "dlg": "The passengers were a little too rowdy this time..."
+            "dlg": "Bu sefer yolcular biraz fazla gürültücüydü..."
         }
     ]
 }
