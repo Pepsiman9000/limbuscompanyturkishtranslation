@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Burst Wounds",
+          "name": "Patlama Yaraları",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] Uygula"
                 }
               ]
             }
@@ -31,20 +31,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Snag Wounds",
-          "desc": "[WhenUse] If target has 2+ [Laceration], Coin Power +1",
+          "name": "Yırtık Yaralar",
+          "desc": "[WhenUse] Eğer hedefte 2+ [Laceration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] ve +2 [Laceration] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] ve +2 [Laceration] Miktarı Uygula"
                 }
               ]
             }
@@ -57,13 +57,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flesh Melting",
-          "desc": "[WhenUse] If target has 3+ [Laceration], Clash Power +1",
+          "name": "Et Eritme",
+          "desc": "[WhenUse] Eğer hedefte 3+ [Laceration] varsa, Çarpışma Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] Uygula"
                 }
               ]
             },
@@ -77,7 +77,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda 1 [Agility] Kazan"
                 }
               ]
             }
@@ -90,8 +90,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Casting Shade",
-          "desc": "[WhenUse] Inflict 1 [Paralysis]",
+          "name": "Gölge Düşürme",
+          "desc": "[WhenUse] 1 [Paralysis] Uygula",
           "coinlist": [
             {
               "coindescs": [
@@ -109,20 +109,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tear Up Wound",
+          "name": "Yırtık Açma",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı Uygula"
                 }
               ]
             }
@@ -135,20 +135,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Skim Wounds",
-          "desc": "[WhenUse] If target has 2+ [Laceration], Coin Power +1",
+          "name": "Yüzeyel Yaralar",
+          "desc": "[WhenUse] Eğer hedefte 2+ [Laceration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] ve +2 [Laceration] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] ve +2 [Laceration] Miktarı Uygula"
                 }
               ]
             }
@@ -161,13 +161,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flesh Tearing",
-          "desc": "[WhenUse] If target has 3+ [Laceration], Clash Power +1",
+          "name": "Et Yırtma",
+          "desc": "[WhenUse] Eğer hedefte 3+ [Laceration] varsa, Çarpışma Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] Uygula"
                 }
               ]
             },
@@ -181,7 +181,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda 1 [Agility] Kazan"
                 }
               ]
             }
@@ -194,8 +194,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Casting Shade",
-          "desc": "[WhenUse] Inflict 1 [Paralysis]",
+          "name": "Gölge Düşürme",
+          "desc": "[WhenUse] 1 [Paralysis] Uygula",
           "coinlist": [
             {
               "coindescs": [
@@ -213,20 +213,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Concussive Stab",
-          "desc": "[WhenUse] Coin Power +1 for every 7 (sum of [Combustion] and [Vibration] on target) (max 2)",
+          "name": "Sarsıcı Saplama",
+          "desc": "[WhenUse] Hedefteki ([Combustion] ve [Vibration] toplamı) her 7 için Jeton Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] 3 [Vibration] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı Uygula"
                 }
               ]
             }
@@ -239,20 +239,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Burning Stab",
-          "desc": "[WhenUse] Coin Power +1 for every 7 (sum of [Combustion] and [Vibration] on target) (max 2)",
+          "name": "Yanıcı Saplama",
+          "desc": "[WhenUse] Hedefteki ([Combustion] ve [Vibration] toplamı) her 7 için Jeton Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +2 [Combustion] Miktarı Uygula"
                 }
               ]
             }
@@ -265,8 +265,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Propulsion Slice",
-          "desc": "[WhenUse] Coin Power +1 for every 7 (sum of [Combustion] and [Vibration] on target) (max 2)\n[DefeatDuel] Deal -75% damage and damage dealt by this Skill cannot Stagger the target",
+          "name": "İtici Kesme",
+          "desc": "[WhenUse] Hedefteki ([Combustion] ve [Vibration] toplamı) her 7 için Jeton Gücü +1 (maks 2)\n[DefeatDuel] %75 daha az hasar ver ve bu Yetenek tarafından verilen hasar hedefi Sersemletemez",
           "coinlist": [
             {
               "coindescs": [
@@ -274,16 +274,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BudgetBulletPropellant]"
+                  "desc": "1 [BudgetBulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] 4 [Vibration] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] Uygula"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Switch_Vibration]'ı [VibrationIgnition]'a tetikle"
                 }
               ]
             },
@@ -293,10 +293,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BudgetBulletPropellant]"
+                  "desc": "1 [BudgetBulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]'ı tetikle; ardından, hedefin [Vibration] Miktarını 1 azalt"
                 }
               ]
             }
@@ -309,8 +309,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Propellant Ammo Reload",
-          "desc": "[StartBattle] [FullReload] (once per turn)\n[WhenUse] If target has 6+ (sum of [Combustion] and [Vibration]), Coin Power +3\n[WhenUse] Gain 1 [AttackDmgUp] next turn",
+          "name": "Yanıcı Mühimmat Yenileme",
+          "desc": "[StartBattle] [FullReload] (tur başına 1 kez)\n[WhenUse] Eğer hedefte 6+ ([Combustion] ve [Vibration] toplamı) varsa, Jeton Gücü +3\n[WhenUse] Sonraki turda 1 [AttackDmgUp] Kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -328,20 +328,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Concussive Penetration",
-          "desc": "[WhenUse] Coin Power +1 for every 7 (sum of [Combustion] and [Vibration] on target) (max 2)",
+          "name": "Sarsıcı Delme",
+          "desc": "[WhenUse] Hedefteki ([Combustion] ve [Vibration] toplamı) her 7 için Jeton Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı Uygula"
                 }
               ]
             }
@@ -354,20 +354,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Burning Penetration",
-          "desc": "[WhenUse] Coin Power +1 for every 7 (sum of [Combustion] and [Vibration] on target) (max 2)",
+          "name": "Yanıcı Delme",
+          "desc": "[WhenUse] Hedefteki ([Combustion] ve [Vibration] toplamı) her 7 için Jeton Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +3 [Combustion] Miktarı Uygula"
                 }
               ]
             }
@@ -380,8 +380,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Propulsion Cleave",
-          "desc": "[WhenUse] Coin Power +1 for every 7 (sum of [Combustion] and [Vibration] on target) (max 2)\n[DefeatDuel] Deal -75% damage and damage dealt by this Skill cannot Stagger the target",
+          "name": "İtici Yarma",
+          "desc": "[WhenUse] Hedefteki ([Combustion] ve [Vibration] toplamı) her 7 için Jeton Gücü +1 (maks 2)\n[DefeatDuel] %75 daha az hasar ver ve bu Yetenek tarafından verilen hasar hedefi Sersemletemez",
           "coinlist": [
             {
               "coindescs": [
@@ -389,16 +389,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BudgetBulletPropellant]"
+                  "desc": "1 [BudgetBulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count,"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] ve +2 [Vibration] Miktarı Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] ve +2 [Combustion] Miktarı Uygula"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Switch_Vibration]'ı [VibrationIgnition]'a tetikle"
                 }
               ]
             },
@@ -408,10 +408,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BudgetBulletPropellant]"
+                  "desc": "1 [BudgetBulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]'ı tetikle; ardından, hedefin [Vibration] Miktarını 1 azalt"
                 }
               ]
             }
@@ -424,8 +424,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Propellant Ammo Reload",
-          "desc": "[StartBattle] [FullReload] (once per turn)\n[WhenUse] If target has 6+ (sum of [Combustion] and [Vibration]), Coin Power +3\n[WhenUse] Gain 1 [AttackDmgUp] next turn",
+          "name": "Yanıcı Mühimmat Yenileme",
+          "desc": "[StartBattle] [FullReload] (tur başına 1 kez)\n[WhenUse] Eğer hedefte 6+ ([Combustion] ve [Vibration] toplamı) varsa, Jeton Gücü +3\n[WhenUse] Sonraki turda 1 [AttackDmgUp] Kazan",
           "coinlist": [
             {
               "coindescs": [
