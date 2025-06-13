@@ -5,16 +5,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Axe Style - Slam",
-          "desc": "[WhenUse] Gain +2 [Charge] Count",
+          "name": "Şarj Balta Stili - Çarpma",
+          "desc": "[WhenUse] +2 [Charge] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
                 }
               ]
             }
@@ -27,26 +27,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Axe Style - Swing",
-          "desc": "[WhenUse] Gain +5 [Charge] Count",
+          "name": "Şarj Balta Stili - Savurma",
+          "desc": "[WhenUse] +5 [Charge] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
                 }
               ]
             }
@@ -59,20 +59,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Axe Style - Crush",
-          "desc": "[WhenUse] Consume 5 [Charge] Count on self to gain Coin Power +1 (max 2)\n[BeforeAttack] If this unit consumed 5+ [Charge] Count, inflict +1 more [Burst]\n[BeforeAttack] Is this unit consumed 10 [Charge] Count, inflict +3 [Burst] Count",
+          "name": "Şarj Balta Stili - Ezme",
+          "desc": "[WhenUse] Kendinde 5 [Charge] Miktarı Kullanarak Jeton Gücü +1 kazan (maks 2)\n[BeforeAttack] Eğer bu birim 5+ [Charge] Miktarı kullandıysa, +1 daha fazla [Burst] uygula\n[BeforeAttack] Eğer bu birim 10 [Charge] Miktarı kullandıysa, +3 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 4 [Burst] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst] for every 5 [Charge] Count consumed On Use"
+                  "desc": "[OnSucceedAttack] Kullanımda tüketilen her 5 [Charge] Miktarı için 3 [Burst] uygula"
                 }
               ]
             }
@@ -85,13 +85,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Axe Style - Rhythm",
-          "desc": "[WhenUse] Gain +5 [Charge] Count",
+          "name": "Şarj Balta Stili - Ritim",
+          "desc": "[WhenUse] +5 [Charge] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
                 }
               ]
             }
@@ -104,13 +104,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Axe Style - Cleave",
-          "desc": "[WhenUse] Gain +2 [Charge] Count",
+          "name": "Şarj Balta Stili - Yarma",
+          "desc": "[WhenUse] +2 [Charge] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı Uygula"
                 }
               ]
             }
@@ -123,26 +123,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Axe Style - Coil",
-          "desc": "[WhenUse] Gain +5 [Charge] Count",
+          "name": "Şarj Balta Stili - Sarma",
+          "desc": "[WhenUse] +5 [Charge] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı Uygula"
                 }
               ]
             }
@@ -155,20 +155,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Axe Style - Burst",
-          "desc": "[WhenUse] Consume 5 [Charge] Count on self to gain Coin Power +1 (max 2)\n[BeforeAttack] If this unit consumed 5+ [Charge] Count, inflict +1 more [Burst]\n[BeforeAttack] Is this unit consumed 10 [Charge] Count, inflict +3 [Burst] Count",
+          "name": "Şarj Balta Stili - Patlama",
+          "desc": "[WhenUse] Kendinde 5 [Charge] Miktarı Kullanarak Jeton Gücü +1 kazan (maks 2)\n[BeforeAttack] Eğer bu birim 5+ [Charge] Miktarı kullandıysa, +1 daha fazla [Burst] uygula\n[BeforeAttack] Eğer bu birim 10 [Charge] Miktarı kullandıysa, +3 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 4 [Burst] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst] for every 5 [Charge] Count consumed On Use"
+                  "desc": "[OnSucceedAttack] Kullanımda tüketilen her 5 [Charge] Miktarı için 3 [Burst] uygula"
                 }
               ]
             }
@@ -181,13 +181,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Axe Style - Rhythm",
-          "desc": "[WhenUse] Gain +5 [Charge] Count",
+          "name": "Şarj Balta Stili - Ritim",
+          "desc": "[WhenUse] +5 [Charge] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
                 }
               ]
             }
@@ -200,16 +200,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Axe Style - Cleave and Crush",
-          "desc": "[WhenUse] Gain +2 [Charge] Count",
+          "name": "Şarj Balta Stili - Yarma ve Ezme",
+          "desc": "[WhenUse] +2 [Charge] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 4 [Burst] Uygula"
                 }
               ]
             }
@@ -222,26 +222,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Axe Style - Windup Crush",
-          "desc": "[WhenUse] Gain +5 [Charge] Count",
+          "name": "Şarj Balta Stili - Kurma Ezmesi",
+          "desc": "[WhenUse] +5 [Charge] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +2 [Charge] Miktarı Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı Uygula"
                 }
               ]
             }
@@ -254,30 +254,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Axe Style - Shatter",
-          "desc": "[WhenUse] Consume 5 [Charge] Count on self to gain Coin Power +1 (max 2)\n[BeforeAttack] If this unit consumed 5+ [Charge] Count, inflict +2 more [Burst]\n[BeforeAttack] Is this unit consumed 10 [Charge] Count, inflict +3 [Burst] Count",
+          "name": "Şarj Balta Stili - Parçalama",
+          "desc": "[WhenUse] Kendinde 5 [Charge] Miktarı Kullanarak Jeton Gücü +1 kazan (maks 2)\n[BeforeAttack] Eğer bu birim 5+ [Charge] Miktarı kullandıysa, +2 daha fazla [Burst] uygula\n[BeforeAttack] Eğer bu birim 10 [Charge] Miktarı kullandıysa, +3 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Burst]"
+                  "desc": "[OnSucceedAttack] 6 [Burst] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gluttony damage equal to [Burst] Potency on target; then, reduce [Burst] Count by 1 (max 30)"
+                  "desc": "[OnSucceedAttack] Hedefe [Burst] Şiddeti kadar Oburluk hasarı ver; ardından, [Burst] Miktarını 1 azalt (maks 30)"
                 }
               ]
             }
@@ -290,20 +290,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Axe Style - Rhythm Matching",
-          "desc": "[WhenUse] Gain +5 [Charge] Count",
+          "name": "Şarj Balta Stili - Ritim Eşleştirme",
+          "desc": "[WhenUse] +5 [Charge] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı Uygula"
                 }
               ]
             }
@@ -316,20 +316,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Collide",
+          "name": "Çarpışma",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
                 }
               ]
             }
@@ -342,23 +342,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pandemonium",
-          "desc": "[WhenUse] If target has 4+ [Burst], Clash Power +1",
+          "name": "Kargaşa",
+          "desc": "[WhenUse] Eğer hedefte 4+ [Burst] varsa, Çarpışma Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [DefenseUp] next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki turda 2 [DefenseUp] Kazan"
                 }
               ]
             }
@@ -371,27 +371,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Frantic Pummel",
-          "desc": "[StartBattle] At 50%- HP, convert the third Coin of this Skill to [SuperCoin]\n[WhenUse] Clash Power +1 for every 4 [Burst] on target (max 2)",
+          "name": "Çılgınca Yumruklama",
+          "desc": "[StartBattle] %50- HP'deyken, bu Yeteneğin üçüncü Jetonunu [SuperCoin]'e dönüştür\n[WhenUse] Hedefteki her 4 [Burst] için Çarpışma Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst] and +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 1 [Burst] ve +3 [Burst] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] Heal ([DefenseUp] Stack on self)% HP on self (max 10%)"
+                  "desc": "[WinDuelAttack] Kendinde ([DefenseUp] Yığını)% HP Yenile (maks %10)"
                 }
               ]
             }
@@ -404,8 +404,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prone",
-          "desc": "[WhenUse] Gain Shield equal to 10% of Max HP",
+          "name": "Yüzüstü",
+          "desc": "[WhenUse] Maks HP'nin %10'u kadar Kalkan Kazan",
           "coinlist": [
             {}
           ]
@@ -417,14 +417,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Collide",
+          "name": "Çarpışma",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı Uygula"
                 }
               ]
             }
@@ -437,23 +437,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pandemonium",
-          "desc": "[WhenUse] If target has 4+ [Burst], Base Power +1",
+          "name": "Kargaşa",
+          "desc": "[WhenUse] Eğer hedefte 4+ [Burst] varsa, Temel Güç +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 other ally with the least HP percentage by 5% of this unit's Max HP"
+                  "desc": "[OnSucceedAttackHead] HP yüzdesi en düşük olan 1 diğer müttefiki bu birimin Maks HP'sinin %5'i kadar Yenile"
                 }
               ]
             }
@@ -466,27 +466,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Frantic Volley",
-          "desc": "[StartBattle] At 50%- HP, convert the third Coin of this Skill to [SuperCoin]\n[WhenUse] Base Power +1 for every 4 [Burst] on target (max 2)",
+          "name": "Çılgınca Saldırı",
+          "desc": "[StartBattle] %50- HP'deyken, bu Yeteneğin üçüncü Jetonunu [SuperCoin]'e dönüştür\n[WhenUse] Hedefteki her 4 [Burst] için Temel Güç +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst] and +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 2 [Burst] ve +2 [Burst] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] Heal 2 allies, including this unit, with the least HP percentage by 10% of this unit's Max HP"
+                  "desc": "[WinDuelAttack] HP yüzdesi en düşük olan 2 müttefiki, bu birim dahil, bu birimin Maks HP'sinin %10'u kadar Yenile"
                 }
               ]
             }
@@ -499,8 +499,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prone",
-          "desc": "[OnSucceedEvade] Inflict +2 [Burst] Count (2 times per turn)",
+          "name": "Yüzüstü",
+          "desc": "[OnSucceedEvade] +2 [Burst] Miktarı Uygula (tur başına 2 kez)",
           "coinlist": [
             {}
           ]
@@ -512,13 +512,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Collide",
+          "name": "Çarpışma",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] Uygula"
                 }
               ]
             },
@@ -532,14 +532,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pandemonium",
-          "desc": "[WhenUse] If target has 4+ [Burst], Coin Power +1",
+          "name": "Kargaşa",
+          "desc": "[WhenUse] Eğer hedefte 4+ [Burst] varsa, Jeton Gücü +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst] and +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 2 [Burst] ve +2 [Burst] Miktarı Uygula"
                 }
               ]
             }
@@ -552,30 +552,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Frantic Swinging",
-          "desc": "[StartBattle] At 50%- HP, convert the third Coin of this Skill to [SuperCoin]\n[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 2)",
+          "name": "Çılgınca Savurma",
+          "desc": "[StartBattle] %50- HP'deyken, bu Yeteneğin üçüncü Jetonunu [SuperCoin]'e dönüştür\n[WhenUse] Hedefteki her 4 [Burst] için Jeton Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +(missing HP percentage on self)% damage (max 50%)"
+                  "desc": "Kendindeki eksik HP yüzdesi kadar +% hasar ver (maks %50)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse this Skill (1 time max)"
+                  "desc": "[OnSucceedAttackHead] Bu Yeteneği yeniden kullan (maks 1 kez)"
                 }
               ]
             }
@@ -588,13 +588,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prone",
+          "name": "Yüzüstü",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı Uygula"
                 }
               ]
             }
@@ -607,16 +607,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Talisman Strike",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Burst] on target (max 2)",
+          "name": "Ruh Tılsımı - Tılsım Vuruşu",
+          "desc": "[WhenUse] Hedefteki her 4 [Burst] için Final Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [OminousTalisman]"
+                  "desc": "[OnSucceedAttack] 10 [OminousTalisman] Uygula"
                 }
               ]
             }
@@ -629,23 +629,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Trigger Effect",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Burst] on target (max 2)",
+          "name": "Ruh Tılsımı - Tetikleme Etkisi",
+          "desc": "[WhenUse] Hedefteki her 4 [Burst] için Final Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [OminousTalisman]"
+                  "desc": "[OnSucceedAttack] 10 [OminousTalisman] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Reduce [OminousTalisman] on target by 2"
+                  "desc": "[OnSucceedAttack] Hedefteki [OminousTalisman]'ı 2 azalt"
                 }
               ]
             }
@@ -658,16 +658,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Deathrite Doll",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Burst] on target (max 2)",
+          "name": "Ruh Tılsımı - Ölüm Töreni Oyuncağı",
+          "desc": "[WhenUse] Hedefteki her 4 [Burst] için Final Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst] and +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 2 [Burst] ve +2 [Burst] Miktarı Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce [OminousTalisman] on target by 5"
+                  "desc": "[OnSucceedAttack] Hedefteki [OminousTalisman]'ı 5 azalt"
                 }
               ]
             }
@@ -680,8 +680,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Defend",
-          "desc": "[StartBattle] Gain (20 - this unit's SP) Shield (min 0, max 20)",
+          "name": "Ruh Tılsımı - Savunma",
+          "desc": "[StartBattle] (20 - bu birimin SP) kadar Kalkan Kazan (min 0, maks 20)",
           "coinlist": [
             {}
           ]
@@ -693,16 +693,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Talisman Strike",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Burst] on target (max 3)",
+          "name": "Ruh Tılsımı - Tılsım Vuruşu",
+          "desc": "[WhenUse] Hedefteki her 4 [Burst] için Final Gücü +1 (maks 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [OminousTalisman]"
+                  "desc": "[OnSucceedAttack] 10 [OminousTalisman] Uygula"
                 }
               ]
             }
@@ -715,23 +715,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Trigger Effect",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Burst] on target (max 3)",
+          "name": "Ruh Tılsımı - Tetikleme Etkisi",
+          "desc": "[WhenUse] Hedefteki her 4 [Burst] için Final Gücü +1 (maks 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 4 [Burst] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [OminousTalisman]"
+                  "desc": "[OnSucceedAttack] 10 [OminousTalisman] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Reduce [OminousTalisman] on target by 3"
+                  "desc": "[OnSucceedAttack] Hedefteki [OminousTalisman]'ı 3 azalt"
                 }
               ]
             }
@@ -744,33 +744,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Execution",
-          "desc": "[StartBattle] At -30 SP or less, convert this Skill's final Coin to [SuperCoin]\n[DefeatDuel] Reduce this Skill's Base Power by 75% (rounded down)\n[WhenUse] Final Power +1 for every 4 [Burst] on target (max 3)",
+          "name": "Ruh Tılsımı - İnfaz",
+          "desc": "[StartBattle] -30 SP veya altındayken, bu Yeteneğin son Jetonunu [SuperCoin]'e dönüştür\n[DefeatDuel] Bu Yeteneğin Temel Gücünü %75 azalt (aşağı yuvarlanır)\n[WhenUse] Hedefteki her 4 [Burst] için Final Gücü +1 (maks 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [OminousTalisman]"
+                  "desc": "[OnSucceedAttack] 10 [OminousTalisman] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 10 [OminousTalisman]"
+                  "desc": "[OnSucceedAttackTail] 10 [OminousTalisman] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Reduce [OminousTalisman] on target by 5"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hedefteki [OminousTalisman]'ı 5 azalt"
                 }
               ]
             }
@@ -783,8 +783,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Vile Burst",
-          "desc": "[StartBattle] Final Power +1 for every 10 SP below 0 (max 3)\n[DefeatDuel] Reduce this Skill's Base Power by 75% (rounded down); also, this Skill's damage or effect cannot stagger the target(s)\n[EndSkill] Reset SP to 0",
+          "name": "Ruh Tılsımı - Kötücül Patlama",
+          "desc": "[StartBattle] 0'ın altındaki her 10 SP için Final Gücü +1 (maks 3)\n[DefeatDuel] Bu Yeteneğin Temel Gücünü %75 azalt (aşağı yuvarlanır); ayrıca, bu Yeteneğin hasarı veya etkisi hedefi sersemletemez\n[EndSkill] SP'yi 0'a sıfırla",
           "coinlist": [
             {
               "coindescs": [
@@ -792,10 +792,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst] and +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 3 [Burst] ve +3 [Burst] Miktarı Uygula"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 10 [OminousTalisman]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 10 [OminousTalisman] Uygula"
                 }
               ]
             },
@@ -805,7 +805,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Remove all [OminousTalisman] on target"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hedefteki tüm [OminousTalisman]'ı kaldır"
                 }
               ]
             }
@@ -818,8 +818,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Defend",
-          "desc": "[StartBattle] Gain (20 - this unit's SP) Shield (min 0, max 40)",
+          "name": "Ruh Tılsımı - Savunma",
+          "desc": "[StartBattle] (20 - bu birimin SP) kadar Kalkan Kazan (min 0, maks 40)",
           "coinlist": [
             {}
           ]
