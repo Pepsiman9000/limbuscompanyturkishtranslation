@@ -2,9 +2,9 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Pequod Town",
+            "place": "Pequod Kenti",
             "model": "이스마엘",
-            "content": "Not a lot of good men left, Ahab."
+            "content": "Pek fazla iyi adam kalmadı, Ahab."
         },
         {
             "id": 1,
@@ -13,27 +13,27 @@
         },
         {
             "id": 2,
-            "content": "Ishmael quickly leaped to the side, evading a harpoon that struck the spot she was just standing on."
+            "content": "Ishmael, üzerinde durduğu noktaya isabet eden bir zıpkından hızla kurtularak yana doğru sıçradı."
         },
         {
             "id": 3,
             "model": "이스마엘",
-            "content": "Who's this now...?"
+            "content": "Bu kim şimdi...?"
         },
         {
             "id": 4,
             "model": "에이해브",
-            "content": "My crew is nothing if not loyal. More so than anyone in the world."
+            "content": "Mürettebatım sadık değilse hiçbir şey değildir. Dünyadaki herkesten daha sadıktır."
         },
         {
             "id": 5,
             "model": "에이해브",
-            "content": "And this one here is second to none when it comes to harpooneering."
+            "content": "Ve bu, zıpkıncılık söz konusu olduğunda eşi benzeri olmayan bir şey."
         },
         {
             "id": 6,
             "model": "에이해브",
-            "content": "So... do you still fail to see that to attack me here is to court death?"
+            "content": "Yani... bana burada saldırmanın ölüme davetiye çıkarmak olduğunu hâlâ göremiyor musun?"
         },
         {
             "id": 7,
@@ -42,22 +42,22 @@
         },
         {
             "id": 8,
-            "content": "A sailor wearing an odd-looking mask joined the fray."
+            "content": "Garip görünümlü bir maske takan bir denizci de kavgaya katıldı."
         },
         {
             "id": 9,
             "model": "히스클리프",
-            "content": "Blimey... Look at the size of that harpoon."
+            "content": "Aman Tanrım... Şu zıpkının büyüklüğünede bir bak."
         },
         {
             "id": 10,
             "model": "료슈",
-            "content": "A direct hit from that will turn your bones to dust. That one... That one's a real warrior. Huhu..."
+            "content": "Ondan gelen direkt bir vuruş kemiğini toza çevirir. O... O gerçek bir savaşçı. Huhu..."
         },
         {
             "id": 11,
             "model": "히스클리프",
-            "content": "Gah! Could you stop being so bloody creepy for one second? Givin' me the shivers outta nowhere..."
+            "content": "Ah! Bir saniyeliğine bile bu kadar ürkütücü olmayı bırakabilir misin? İçimi birdenbire ürpertiyorsun..."
         }
     ]
 }
