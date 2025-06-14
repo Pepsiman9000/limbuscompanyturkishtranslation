@@ -6,24 +6,24 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Shrenne, you've got shrapnel wounds, are you sure you don't want to use an ampule?"
+            "content": "Shrenne, yaralısın, ampul kullanmak istemediğine emin misin?"
         },
         {
             "id": 1,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "I'm fine..."
+            "content": "İyiyim..."
         },
         {
             "id": 2,
             "model": "그레고르",
-            "content": "That Shrenne fella... She's looking kinda blank-faced, is she okay?"
+            "content": "Şu Shrenne hanım... Biraz ifadesiz görünüyor, iyi mi acaba?"
         },
         {
             "id": 3,
             "model": "그레고르",
-            "content": "Blank-faced... Hah, of course not. She couldn't be so carefree."
+            "content": "İfadesiz... Hah, hayır be. Bu kadar umursamaz olamaz herhalde."
         },
         {
             "id": 4,
@@ -33,17 +33,17 @@
         {
             "id": 5,
             "model": "오티스",
-            "content": "This makes it evident."
+            "content": "Bu, düşüncemi kanıtlar nitelikte."
         },
         {
             "id": 6,
             "model": "오티스",
-            "content": "The terrorists long since made their leave. All that's left were bloodthirsty murderers hellbent on killing us."
+            "content": "Teröristler çoktan buradan ayrıldı. Kalanlar ise, bizi öldürmeye ant içmiş kuduz köpeklerden ibaret."
         },
         {
             "id": 7,
             "model": "오티스",
-            "content": "I've made my judgement. Hey, what do you think?"
+            "content": "Kararımı verdim. Hey, ne düşünüyorsun bunun hakkında?"
         },
         {
             "id": 8,
@@ -52,7 +52,7 @@
         {
             "id": 9,
             "model": "뫼르소",
-            "content": "I agree with it."
+            "content": "Katılıyorum."
         },
         {
             "id": 10,
@@ -62,17 +62,17 @@
         {
             "id": 11,
             "model": "뫼르소",
-            "content": "There's a traitor in our ranks. No doubt remains in the matter."
+            "content": "Grubumuzda bir köstebek var. Bu konuda şüphem kalmamıştır."
         },
         {
             "id": 12,
             "model": "뫼르소",
-            "content": "It's thanks to this spy that our course and plans were leaked from the moment we departed."
+            "content": "Bu köstebek sayesinde, planlarımız ve yolculuk rotamız düşmana sızdırılmış olmalı."
         },
         {
             "id": 13,
             "model": "뫼르소",
-            "content": "To prevent further damage, it is right to dispose of them here and now."
+            "content": "Daha fazla sorun çıkmasını engellemek için, bu köstebeği tez zamanda saf dışı bırakmamız gerekmekte."
         },
         {
             "id": 14,
@@ -85,19 +85,19 @@
         {
             "id": 16,
             "model": "오티스",
-            "content": "As it's unlikely to be one of us, the rational course of action is to suspect your institute's lackeys."
+            "content": "Bizden birisi olmasının ihtimalinin düşüklüğünü göz önüne alırsak, kuruluşunuzun dalkavuklarından kuşkulanmamız doğru bir düşünce yapısı olacaktır."
         },
         {
             "id": 17,
             "model": "오티스",
-            "content": "This mission must be abandoned, Executive Manager. To allow ourselves to be involved in this nonsense is..."
+            "content": "Bu görevi terk etmeliyiz, İdari Müdür. Bu saçmalığa dahil olmamız..."
         },
         {
             "id": 18,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I am repulsed by your accusation. Are you seriously suspecting us? I can assure you that we trust each other better than you people who haven't even been in the same firm for a year..."
+            "content": "İftiralarınız tamamıyla asılsız. Gerçekten bizden mi şüpheleniyorsunuz? Emin olun ki, aynı şirkette bir sene bile beraber çalışmamız sizlere kıyasla, birbirimize daha çok güveniyoruz..."
         },
         {
             "id": 19,
@@ -108,7 +108,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "No, Samjo. Their hypothesis sounds plausible. I would've said the same."
+            "content": "Hayır, Samjo. Hipotezleri kulağa mantıklı geliyor. Ben olsam ben de böyle düşünürdüm."
         },
         {
             "id": 21,
@@ -122,95 +122,95 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "You have something to say, don't you?"
+            "content": "Söylemek istediğin şeyler var, değil mi?"
         },
         {
             "id": 23,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Mr. Dongrang..."
+            "content": "Bay Dongrang..."
         },
         {
             "id": 24,
             "model": "오티스",
-            "content": "That group of Fixers haven't used regeneration ampules a single time since they came in here."
+            "content": "Diğer İşçözücüler, buraya geldiklerinden beridir bir kez bile rejenerasyon ampullerini kullanmadı."
         },
         {
             "id": 25,
             "model": "오티스",
-            "content": "Any sane combatant would kill to have those."
+            "content": "Aklı başında olan herkes, ampullerden birkaç tanesi için bile hayatını riske atardı."
         },
         {
             "id": 26,
             "model": "뫼르소",
-            "content": "There is one more thing."
+            "content": "Bir gözlemim daha bulunuyor."
         },
         {
             "id": 27,
             "model": "뫼르소",
-            "content": "When we encountered Ran..."
+            "content": "Ran ile karşılaştığımızda..."
         },
         {
             "id": 28,
             "model": "뫼르소",
-            "content": "They were distancing themselves from her in advance. The only explanation is that they knew there would be an explosion."
+            "content": "Yaşananlardan önce mesafelerini açıyorlardı. Bunun tek açıklaması, bir patlama olacağını önceden bilmeleri olabilir."
         },
         {
             "id": 29,
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "Oh, bother... Why not consider the possibility that my intuition is just that keen?"
+            "content": "Ne zahmet ama... Neden sadece önsezilerimin iyi olduğu ihtimalini göz önüne almıyoruz?"
         },
         {
             "id": 30,
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "What if we weren't using the ampules because these buddies and I are built healthy?"
+            "content": "Ya dostlarım ve ben, sadece yeterince güçlü olduğumuz için bu ampulleri kullanmıyorsak?"
         },
         {
             "id": 31,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Hm... I've brought a truth tablet just in case. I'll believe you if you testify the same after taking it."
+            "content": "Hm... Her ihtimale karşılık bir doğruluk tableti getirdim. Tableti yuttuktan sonra da aynı şeyleri söylersen, sana inanacağız."
         },
         {
             "id": 32,
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "Truth tablet? That red thing? How can I take that suspicious-looking drug...?"
+            "content": "Doğruluk tableti? Şu kırmızı şey mi? O merdiven altından çıkma hapı nasıl yutmamı bekliyorsun...?"
         },
         {
             "id": 33,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Sorry, did you have a choice here? How strange, if I were you, I would take the tablet... or make more desperate excuses."
+            "content": "Pardon, ama bir seçeneğin var mı sence? Ne garip ama, senin yerinde olsam ya tableti yutardım... ya da daha fazla bahane üretirdim."
         },
         {
             "id": 34,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "You're so gladly squandering your chances to clear yourselves of suspicion, it's almost like you're asking to be killed."
+            "content": "Mutlu mesut bir şekilde, şüphelerden arınma fırsatını elinin tersiyle itiyorsun, sanki ölmek istiyormuşcasına..."
         },
         {
             "id": 35,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "...Or did you decide to kill us all and get away with it?"
+            "content": "...Ya da hepimizi öldürüp, temiz bir şekilde kaçmayı mı planlıyorsun?"
         },
         {
             "id": 36,
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "I thought a researcher's job was writing papers... and you're out here writing fiction, you deranged maniac."
+            "content": "Bir araştırmacının işinin makale yazmak olduğunu sanardım... fakat sen bir masal yazıyorsun, manyak herif."
         },
         {
             "id": 37,
@@ -219,14 +219,14 @@
         {
             "id": 38,
             "model": "히스클리프",
-            "content": "Showing your true selves now that you're cornered, eh?"
+            "content": "Köşeye sıkışınca ayıya dayı demeye geldin, eh?"
         },
         {
             "id": 39,
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "I even taught you my secret to winning at the slot machines, and this is how you return the favor?"
+            "content": "Sana slot makinelerinde kazanmanın sırrını bile anlattım, bu iyiliğimi gerçekten böyle mi geri vereceksin?"
         }
     ]
 }
