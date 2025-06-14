@@ -6,26 +6,26 @@
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "Ah... Give me a second. I think we need to call a timeout."
+            "content": "Ah... Bir saniye lütfen. Biraz mola vermemiz lazım."
         },
         {
             "id": 1,
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "Might be the sardine I ate this morning... My stomach is aching."
+            "content": "Sabah yediğim sardalyadan olsa gerek... Midem ağrıyor."
         },
         {
             "id": 2,
             "model": "장미스패너2",
             "teller": "Assistant Fixer",
             "title": "Rosespanner Workshop",
-            "content": "Boss!"
+            "content": "Patron!"
         },
         {
             "id": 3,
             "model": "료슈",
-            "content": "No such thing. SYNC is up next."
+            "content": "Yok öyle şey. Sırada BOK var."
         },
         {
             "id": 4,
@@ -37,14 +37,14 @@
         {
             "id": 5,
             "model": "료슈",
-            "content": "She what?"
+            "content": "Ona ne olmuş?"
         },
         {
             "id": 6,
             "model": "장미스패너2",
             "teller": "Assistant Fixer",
             "title": "Rosespanner Workshop",
-            "content": "Shrenne told us something. While we're in here... don't ever use regeneration ampules no matter what..."
+            "content": "Shrenne demişti. Buraya geldiğimizde... ne olursa olsun rejenerasyon ampullerini kullanma demişti..."
         },
         {
             "id": 7,
@@ -58,12 +58,12 @@
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "Haah... Saying that out loud... is breaching the contract, you dolt..."
+            "content": "Haah... Bunu bağıra bağıra demen... sözleşmeyi çiğnemek oluyor, seni mankafa..."
         },
         {
             "id": 9,
             "model": "로쟈",
-            "content": "That so... Shrenne told you that? Why?"
+            "content": "Öyle mi... Shrenne neden böyle bir şey dedi ki?"
         },
         {
             "id": 10,
@@ -77,7 +77,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Well, we have the simplest way to find out, don't we?"
+            "content": "Eh, neden dediğini bulmak çocuk oyuncağı olacak, değil mi?"
         },
         {
             "id": 12,
@@ -110,14 +110,14 @@
             "model": "장미스패너2",
             "teller": "Assistant Fixer",
             "title": "Rosespanner Workshop",
-            "content": "...Why do you look so surprised, boss? What happens if the ampule is injected...?"
+            "content": "...Neden böylesine şaşırmış görünüyorsunuz, patron? Ampul enjekte edildiğinde noluyor...?"
         },
         {
             "id": 18,
             "model": "장미스패너2",
             "teller": "Assistant Fixer",
             "title": "Rosespanner Workshop",
-            "content": "...Huh, this is weird..."
+            "content": "...Hah, bu garip işte..."
         },
         {
             "id": 19,
@@ -141,12 +141,12 @@
         {
             "id": 23,
             "model": "그레고르",
-            "content": "...Is it just me, or is this awfully familiar?"
+            "content": "...Bu çok mu tanıdık, yoksa sadece bana mı böyle geliyor?"
         },
         {
             "id": 24,
             "model": "로쟈",
-            "content": "Please. You don't really think you're the only one who remembers that bug den, do you, Greg babe?"
+            "content": "Lütfen ama. Canım ciğerim, o böcek yuvasını hatırlayan tek kişi olduğunu gerçekten de düşünmüyorsun, değil mi?"
         },
         {
             "id": 25,
@@ -157,28 +157,28 @@
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "...Oh dear."
+            "content": "...Amanım."
         },
         {
             "id": 27,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "Let's stop here. I dragged too many people into this."
+            "content": "Yeter artık. Bu işe çok fazla kişiyi dahil ettim."
         },
         {
             "id": 28,
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "Well... It was my decision to take the deal for the money."
+            "content": "Günün sonunda... Paranın kokusunu takip eden kişi bendim."
         },
         {
             "id": 29,
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "Dearie me... Should've gone on a bigger spree yesterday if I knew it would come to this."
+            "content": "Ah be... İşin buna dönüşeceğini bilseydim, dün daha fazla eğlenirdim."
         }
     ]
 }
