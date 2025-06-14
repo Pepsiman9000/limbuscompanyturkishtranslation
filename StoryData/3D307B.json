@@ -2,14 +2,14 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Middle of an Alleyway",
+      "place": "Güneşten KavrulmuŞ Sokak",
       "model": "싱클레어",
-      "content": "Kendime geldiğim zaman, kendimi öğlenleyin, güneşten kavrulmuş bir sokakta bulmuştum."
+      "content": "Kendime geldiğimde; kendimi , öğlenleyin güneşten kavrulmuş bir sokakta bulmuştum."
     },
     {
       "id": 1,
       "model": "싱클레어",
-      "content": "Orada öylece durdum, seslemlemiş ve affalamış halde."
+      "content": "Orada öylece durdum, sersemlemiş ve affalamış halde."
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "Sinclair. <color=#8b9c15>Dünyanda</color> bir çatlak açıldı."
+      "content": "Sinclair. <color=#8b9c15>Dünyan'da</color> bir çatlak açıldı."
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "<color=#427be6>Korkuyormusun</color>, <color=#427be6>Sinclair</color>?" 
+      "content": "<color=#427be6>Korkuyormusun,</color> <color=#427be6>Sinclair?</color>" 
     },
     {
       "id": 10,
@@ -63,7 +63,7 @@
     {
       "id": 11,
       "model": "싱클레어",
-      "content": "Her şeyin ardından gören birisinin gözlerine, ve tüm bu olayları önceden tahmin eden birisinin tavrına sahipti."
+      "content": "Her şeyin ardından gören birisinin gözlerine, ve tüm bu olayları önceden tahmin etmiş birisinin tavrına sahipti."
     },
     {
       "id": 12,
@@ -75,14 +75,14 @@
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "Bir gün, hepsini <ruby=uçakcaksın>hafifleyeceksin</ruby> ve anlayacaksın."
+      "content": "Bir gün, hepsini anlayacaksın ve <ruby=uçakcaksın>hafifleyeceksin</ruby>."
     },
     {
       "id": 14,
       "model": "학생데미안",
       "teller": "Demian",
       "title": "Gizemli Transfer Öğrenci",
-      "content": "Ve ben… senin bittiğini <ruby=bittiğini>çiçek</ruby> görmek istiyorum."
+      "content": "Ve ben… senin <ruby=çiçek-gibi>bittiğini</ruby> görmek istiyorum."
     },
     {
       "id": 15,
