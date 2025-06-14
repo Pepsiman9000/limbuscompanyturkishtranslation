@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Double Slash",
-          "desc": "Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on target) (max 2)",
+          "name": "Çift Kesme",
+          "desc": "Hedefteki ([Combustion] ve [Vibration] toplamı) her 4 için Final Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] 3 [Vibration] Uygula"
                 }
               ]
             }
@@ -31,27 +31,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Triple Slash",
-          "desc": "Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on target) (max 2)",
+          "name": "Üçlü Kesme",
+          "desc": "Hedefteki ([Combustion] ve [Vibration] toplamı) her 4 için Final Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] ve +2 [Vibration] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] Tetikle; ardından, hedefin [Vibration] Miktarını 1 azalt"
                 }
               ]
             }
@@ -64,26 +64,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Double Slash - Blast [爆]",
-          "desc": "Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on target) (max 4)\n[DefeatDuel] Lose 1 [BulletPropellant]",
+          "name": "Çift Kesme - Patlama [爆]",
+          "desc": "Hedefteki ([Combustion] ve [Vibration] toplamı) her 4 için Final Gücü +1 (maks 4)\n[DefeatDuel] 1 [BulletPropellant] Kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] 3 [Vibration] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] ve +2 [Combustion] Miktarı Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] 3 [Vibration] ve +2 [Vibration] Miktarı Uygula"
                 }
               ]
             }
@@ -96,39 +96,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Triple Slash - Blast [爆]",
-          "desc": "Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on target) (max 4)\n[DefeatDuel] Lose 1 [BulletPropellant]",
+          "name": "Üçlü Kesme - Patlama [爆]",
+          "desc": "Hedefteki ([Combustion] ve [Vibration] toplamı) her 4 için Final Gücü +1 (maks 4)\n[DefeatDuel] 1 [BulletPropellant] Kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] ve +2 [Combustion] Miktarı Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] ve +2 [Vibration] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] ve +2 [Combustion] Miktarı Uygula"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]'ı 2 kez tetikle; ardından, hedefin [Vibration] Miktarını 2 azalt"
                 }
               ]
             }
@@ -141,8 +141,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blasting Shatterslash [爆碎斬]",
-          "desc": "Prioritizes targets with [Prey]\nCan clash with this Skill regardless of Speed\nCoin Power +1 for every 6 (sum of [Combustion] and [Vibration] on target) (max 3)\n[DefeatDuel] Lose 10 SP",
+          "name": "Kırıp Geçiren Darbe [爆碎斬]",
+          "desc": "[Prey] olan hedeflere öncelik ver\nHızına bakılmaksızın bu Yetenekle Çarpışma yapılabilir\nHedefteki ([Combustion] ve [Vibration] toplamı) her 6 için Jeton Gücü +1 (maks 3)\n[DefeatDuel] 10 SP Kaybet",
           "coinlist": [
             {
               "coindescs": [
@@ -150,16 +150,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] 3 [Vibration] Uygula"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 4 [Vibration] and +4 [Vibration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 4 [Vibration] ve +4 [Vibration] Miktarı Uygula"
                 }
               ]
             },
@@ -169,16 +169,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +3 [Combustion] Miktarı Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı Uygula"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Switch_Vibration]'ı [VibrationIgnition]'a çevir"
                 }
               ]
             },
@@ -188,16 +188,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "If this unit spent [BulletPropellant] due to this Coin's effect, deal +50% damage"
+                  "desc": "Eğer bu birim bu Jetonun etkisiyle [BulletPropellant] harcadıysa, %50 daha fazla hasar ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +3 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] ve +3 [Combustion] Miktarı Uygula"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]'ı 2 kez tetikle; ardından, hedefin [Vibration] Miktarını 2 azalt"
                 }
               ]
             }
@@ -210,8 +210,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tanglecleaver [快刀亂麻]",
-          "desc": "Prioritizes targets with [Prey]\nCan Clash with this Skill regardless of Speed; this unit does not become Staggered before it uses this Skill\n[WhenUse] Consume all [BattleSense] Stack on self. If this unit consumed...\n- ... 10+ Stack , gain Atk Weight +1 for every 10 Stack consumed (max 2)\n- ... 25 Stack, Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 5)\n[DefeatDuel] Gain 4 [ResultReduction]\n[DefeatDuel] Gain 1 [Paralysis]\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn",
+          "name": "Dolaşık Saldırı [快刀亂麻]",
+          "desc": "[Prey] olan hedeflere öncelik ver\nHızına bakılmaksızın bu Yetenekle Çarpışma yapılabilir; bu birim bu Yeteneği kullanmadan önce Sersemlemez\n[WhenUse] Kendindeki tüm [BattleSense] Yığınını tüket. Eğer bu birim...\n- ... 10+ Yığın tükettiyse, tüketilen her 10 Yığın için Atk Ağırlığı +1 kazan (maks 2)\n- ... 25 Yığın tükettiyse, ana hedefteki ([Combustion] ve [Vibration] toplamı) her 4 için Final Gücü +1 (maks 5)\n[DefeatDuel] 4 [ResultReduction] Kazan\n[DefeatDuel] 1 [Paralysis] Kazan\n[DefeatDuel] %80 daha az hasar ver; bu Yeteneğin hasarı hedefi Sersemletemez; bu Yetenekle uygulanan [Combustion] ve [Vibration]'ın hem Şiddetini hem de Miktarını yarıya düşür (diğer etkilerle artırılmadıkça)\n[EndSkill] [FullReload] (tur başına 1 kez)\n- Eğer bu birimde [BulletPropellantSpecial] varsa, bunun yerine [ReloadKeepAmmo] (tur başına 1 kez)\n[EndSkill] Bu turu sonlandır",
           "coinlist": [
             {
               "coindescs": [
@@ -219,16 +219,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend all [BulletPropellant]"
+                  "desc": "Tüm [BulletPropellant]'ı harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion], [Combustion] Count, [Vibration], and [Vibration] Count by [BulletPropellant] spent"
+                  "desc": "[OnSucceedAttack] Harcanan [BulletPropellant] kadar [Combustion], [Combustion] Miktarı, [Vibration] ve [Vibration] Miktarı uygula"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Switch_Vibration]'ı [VibrationIgnition]'a çevir"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 3 times; then, reduce target's [Vibration] Count by 3"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]'ı 3 kez tetikle; ardından, hedefin [Vibration] Miktarını 3 azalt"
                 }
               ]
             }
@@ -241,8 +241,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]",
-          "desc": "Prioritizes targets with [Prey]\nCan Clash with this Skill regardless of Speed; this unit does not become Staggered before it uses this Skill\n[WhenUse] Consume all [BattleSense] Stack on self. If this unit consumed...\n- ... 10+ Stack , gain Atk Weight +1 for every 10 Stack consumed (max 4)\n- ... 25 Stack, Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 6)\n- ... 50 Stack, Coin Power +1 and deal +50% damage\n[DefeatDuel] Gain 2 [ResultReduction]\n[DefeatDuel] Gain 6 [Paralysis]\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn",
+          "name": "Vahşi Kaplan Avcısının Mükemmel Kılıç Saldırısı [超絕猛虎殺擊亂斬]",
+          "desc": "[Prey] olan hedeflere öncelik ver\nHızına bakılmaksızın bu Yetenekle Çarpışma yapılabilir; bu birim bu Yeteneği kullanmadan önce Sersemlemez\n[WhenUse] Kendindeki tüm [BattleSense] Yığınını tüket. Eğer bu birim...\n- ... 10+ Yığın tükettiyse, tüketilen her 10 Yığın için Atk Ağırlığı +1 kazan (maks 4)\n- ... 25 Yığın tükettiyse, ana hedefteki ([Combustion] ve [Vibration] toplamı) her 4 için Final Gücü +1 (maks 6)\n- ... 50 Yığın tükettiyse, Jeton Gücü +1 ve %50 daha fazla hasar ver\n[DefeatDuel] 2 [ResultReduction] Kazan\n[DefeatDuel] 6 [Paralysis] Kazan\n[DefeatDuel] %80 daha az hasar ver; bu Yeteneğin hasarı hedefi Sersemletemez; bu Yetenekle uygulanan [Combustion] ve [Vibration]'ın hem Şiddetini hem de Miktarını yarıya düşür (diğer etkilerle artırılmadıkça)\n[EndSkill] [FullReload] (tur başına 1 kez)\n- Eğer bu birimde [BulletPropellantSpecial] varsa, bunun yerine [ReloadKeepAmmo] (tur başına 1 kez)\n[EndSkill] Bu turu sonlandır",
           "coinlist": [
             {
               "coindescs": [
@@ -250,10 +250,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Combustion]"
+                  "desc": "[OnSucceedAttack] 6 [Combustion] Uygula"
                 }
               ]
             },
@@ -263,10 +263,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +6 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +6 [Combustion] Miktarı Uygula"
                 }
               ]
             },
@@ -276,10 +276,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Vibration]"
+                  "desc": "[OnSucceedAttack] 6 [Vibration] Uygula"
                 }
               ]
             },
@@ -289,10 +289,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +6 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +6 [Vibration] Miktarı Uygula"
                 }
               ]
             },
@@ -302,10 +302,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Switch_Vibration]'ı [VibrationIgnition]'a çevir"
                 }
               ]
             },
@@ -315,10 +315,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 5 times; then, reduce target's [Vibration] Count by 5"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]'ı 5 kez tetikle; ardından, hedefin [Vibration] Miktarını 5 azalt"
                 }
               ]
             }
@@ -331,26 +331,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Reloading Tiantui Star's Blade",
-          "desc": "[DuelCounter]\n[DefeatDuel] Lose 1 [BulletPropellant]\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)",
+          "name": "Tiantui Yıldızının Kılıcını Yeniden Doldurma",
+          "desc": "[DuelCounter]\n[DefeatDuel] 1 [BulletPropellant] Kaybet\n[EndSkill] [FullReload] (tur başına 1 kez)\n- Eğer bu birimde [BulletPropellantSpecial] varsa, bunun yerine [ReloadKeepAmmo] (tur başına 1 kez)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "1 [BulletPropellant] Kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +3 [Combustion] Miktarı Uygula"
                 }
               ]
             }
@@ -363,8 +363,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Savage Tigermark Support",
-          "desc": "[EndBattle] If this unit survives, give 6 [BulletPropellantSpecial] to Lei Heng\n[EndBattle] [DisengageCombat]",
+          "name": "Vahşi Kaplan İşareti Desteği",
+          "desc": "[EndBattle] Eğer bu birim hayatta kalırsa, Lei Heng'e 6 [BulletPropellantSpecial] ver\n[EndBattle] [DisengageCombat]",
           "coinlist": [
             {}
           ]
@@ -376,20 +376,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Contempt",
-          "desc": "If target has 3+ [GazeReplica], double the amount of negative effects inflicted with this Skill\n[WhenUse] If target has 6+ [Laceration], Coin Power +1",
+          "name": "Küçümseme",
+          "desc": "Eğer hedefte 3+ [GazeReplica] varsa, bu Yetenekle uygulanan negatif etkilerin miktarını ikiye katla\n[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] 4 [Laceration] Uygula"
                 }
               ]
             }
@@ -402,8 +402,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Awe",
-          "desc": "If target has 3+ [GazeReplica], double the amount of negative effects inflicted with this Skill\n[WhenUse] If target has 6+ [Laceration], Coin Power +1",
+          "name": "Hayranlık",
+          "desc": "Eğer hedefte 3+ [GazeReplica] varsa, bu Yetenekle uygulanan negatif etkilerin miktarını ikiye katla\n[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -411,10 +411,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki turda 3 [DefenseDown] Uygula"
                 }
               ]
             },
@@ -424,10 +424,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda 1 [AttackDmgDown] Uygula"
                 }
               ]
             }
@@ -440,20 +440,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Contempt, Awe 【Unleashed】",
+          "name": "Küçümseme, Hayranlık 【Serbest Bırakıldı】",
           "desc": "[CantChangeTarget]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] 1 [Vulnerable] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 10 SP damage"
+                  "desc": "[OnSucceedAttack] 10 SP hasarı ver"
                 }
               ]
             },
@@ -463,10 +463,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold equal to ([GazeReplica] on target x 5)"
+                  "desc": "[OnSucceedAttack] (Hedefteki [GazeReplica] x 5) kadar Sersemleme Eşiğini artır"
                 },
                 {
-                  "desc": "[EndSkill] Remove [GazeReplica] on the target"
+                  "desc": "[EndSkill] Hedefteki [GazeReplica]'yı kaldır"
                 }
               ]
             }
@@ -479,8 +479,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Contemptuous Thing",
-          "desc": "Prioritizes Hong Lu\n[WhenUse] Inflict 4 [GraspReplica]\n[WhenUse] Gain 2 [AttackDmgUp] next turn",
+          "name": "Küçümseyici Şey",
+          "desc": "Hong Lu'ya öncelik ver\n[WhenUse] 4 [GraspReplica] Uygula\n[WhenUse] Sonraki turda 2 [AttackDmgUp] Kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -498,20 +498,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Awed",
-          "desc": "Prioritizes targets with [GraspReplica]",
+          "name": "Hayran Kal",
+          "desc": "[GraspReplica] olan hedeflere öncelik ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] 6 [Laceration] Uygula"
                 }
               ]
             }
@@ -524,13 +524,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Must Confront This",
-          "desc": "[DuelCounter]\n[DefeatDuel] Reduce target's [GazeReplica] by 2\n[DefeatDuel] Reduce target's [GraspReplica] by 1",
+          "name": "Bununla Yüzleşmelisin",
+          "desc": "[DuelCounter]\n[DefeatDuel] Hedefin [GazeReplica]'sını 2 azalt\n[DefeatDuel] Hedefin [GraspReplica]'sını 1 azalt",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı Uygula"
                 }
               ]
             }
@@ -543,8 +543,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Awe, Contempt【Unleashed】",
-          "desc": "[BeforeAttack] Gain Atk Weight by the number of Sinners with 4+ [GazeReplica]",
+          "name": "Hayranlık, Küçümseme【Serbest Bırakıldı】",
+          "desc": "[BeforeAttack] 4+ [GazeReplica]'sı olan Günahkârların sayısı kadar Atk Ağırlığı Kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -552,10 +552,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda 1 [Binding] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 4+ [GazeReplica], inflict 1 [GazeReplica]"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 4+ [GazeReplica] varsa, 1 [GazeReplica] uygula"
                 }
               ]
             }
@@ -568,8 +568,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spiral Warp Field",
-          "desc": "[DuelGuard]\n[StartBattle] Jia Huan and Gubo gain 30 Shield\n[WinDuel] Jia Huan and Gubo gain 30 Shield",
+          "name": "Sarmal Warp Alanı",
+          "desc": "[DuelGuard]\n[StartBattle] Jia Huan ve Gubo 30 Kalkan Kazanır\n[WinDuel] Jia Huan ve Gubo 30 Kalkan Kazanır",
           "coinlist": [
             {
               "coindescs": [
@@ -587,16 +587,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Front Line Fire",
-          "desc": "Targets the frontmost target\n[WhenUse] Gain 1 [BoseProjektilReplica]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain +1 [Breath] Count",
+          "name": "Ön Hat Ateşi",
+          "desc": "En öndeki hedefi seçer\n[WhenUse] 1 [BoseProjektilReplica] Kazan\n[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] +1 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta %50 daha fazla hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı Uygula"
                 }
               ]
             }
@@ -609,16 +609,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rear Line Fire",
-          "desc": "Targets the rearmost target\n[WhenUse] Gain 1 [BoseProjektilReplica]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain +2 [Breath] Count",
+          "name": "Arka Hat Ateşi",
+          "desc": "En arkadaki hedefi seçer\n[WhenUse] 1 [BoseProjektilReplica] Kazan\n[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "+70% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta %70 daha fazla hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı Uygula"
                 }
               ]
             }
@@ -631,29 +631,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sigilshattered Bullet",
-          "desc": "Targets the frontmost target\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count",
+          "name": "Mühür Kırılan Mermi",
+          "desc": "En öndeki hedefi seçer\n[WhenUse] 3 [Breath] ve +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "This Coin deals damage only against the main target"
+                  "desc": "Bu Jeton sadece ana hedefe hasar verir"
                 },
                 {
-                  "desc": "[EnemyKill] The final Coin deals +100% damage"
+                  "desc": "[EnemyKill] Son Jeton %100 daha fazla hasar verir"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "This Coin deals damage only against the sub-targets"
+                  "desc": "Bu Jeton sadece yan hedeflere hasar verir"
                 },
                 {
-                  "desc": "+100% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta %100 daha fazla hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] ve +2 [Laceration] Miktarı Uygula"
                 }
               ]
             }
@@ -666,35 +666,35 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bullet Drenched with the Blood of a Comrade",
-          "desc": "[CantChangeTarget]\nPrioritizes N Corp. Employees\n- If this unit failed to attack the targeted unit, cancel this Skill\n[WhenUse] Gain 5 [Breath]\n[EndBattle] Heal 20 SP",
+          "name": "Bir Yoldaşın Kanına Bulanmış Mermi",
+          "desc": "[CantChangeTarget]\nN Corp. Çalışanlarına öncelik ver\n- Eğer bu birim hedeflenen birime saldıramazsa, bu Yeteneği iptal et\n[WhenUse] 5 [Breath] Kazan\n[EndBattle] 20 SP Yenile",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "This Coin deals damage only against the main target"
+                  "desc": "Bu Jeton sadece ana hedefe hasar verir"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict (target's HP at the \"On Hit' timing) Pride bonus damage with the final Coin"
+                  "desc": "[OnSucceedAttack] Son Jetonla (\"Vuruş\" anındaki hedefin HP'si) kadar Kibir bonus hasarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Kills the target"
+                  "desc": "[OnSucceedAttack] Hedefi öldürür"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "This Coin deals damage only against the sub-targets"
+                  "desc": "Bu Jeton sadece yan hedeflere hasar verir"
                 },
                 {
-                  "desc": "+100% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta %100 daha fazla hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] 4 [Laceration] ve +2 [Laceration] Miktarı Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking] and +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] 4 [Sinking] ve +2 [Sinking] Miktarı Uygula"
                 }
               ]
             }
@@ -707,8 +707,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Reminiscence Shattering Bullet",
-          "desc": "[WideAreaRampage]\nDeal +10% damage for every [BoseProjektilReplica] on self\n[WhenUse] Lose 10 SP\n[EndSkill] Spend all [BoseProjektilReplica] on self",
+          "name": "Hatıra Kırıcı Mermi",
+          "desc": "[WideAreaRampage]\nKendindeki her [BoseProjektilReplica] için %10 daha fazla hasar ver\n[WhenUse] 10 SP Kaybet\n[EndSkill] Kendindeki tüm [BoseProjektilReplica]'yı harca",
           "coinlist": [
             {
               "coindescs": [
@@ -716,13 +716,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] 3 [Sinking] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lose 5 SP"
+                  "desc": "[OnSucceedAttack] 5 SP Kaybet"
                 }
               ]
             },
@@ -732,13 +732,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] 3 [Sinking] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lose 5 SP"
+                  "desc": "[OnSucceedAttack] 5 SP Kaybet"
                 }
               ]
             },
@@ -748,13 +748,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] 3 [Sinking] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lose 5 SP"
+                  "desc": "[OnSucceedAttack] 5 SP Kaybet"
                 }
               ]
             },
@@ -764,13 +764,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] 3 [Sinking] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lose 5 SP"
+                  "desc": "[OnSucceedAttack] 5 SP Kaybet"
                 }
               ]
             }
@@ -783,20 +783,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Melee Combat",
+          "name": "Yakın Dövüş",
           "desc": "[DuelCounter]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +2 [Breath] Miktarı Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] Kazan"
                 }
               ]
             }
@@ -809,20 +809,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Completed Heixian Bolus - Wei [未]",
-          "desc": "[WhenUse] If target has 5+ (sum of [Laceration] and [Burst]), Clash Power +1\n[WhenUse] If target has 7+ (sum of [Laceration] and [Burst]), gain 5 [Breath] and +2 [Breath] Count",
+          "name": "Tamamlanmış Heixian Hapları - Wei [未]",
+          "desc": "[WhenUse] Eğer hedefte 5+ ([Laceration] ve [Burst] toplamı) varsa, Çarpışma Gücü +1\n[WhenUse] Eğer hedefte 7+ ([Laceration] ve [Burst] toplamı) varsa, 5 [Breath] ve +2 [Breath] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] Uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] Uygula"
                 }
               ]
             }
@@ -835,19 +835,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Completed Heixian Bolus - Yin [寅]",
-          "desc": "[WhenUse] Coin Power +1 for every 5 (sum of [Laceration] and [Burst] on target) (max 3)",
+          "name": "Tamamlanmış Heixian Hapları - Yin [寅]",
+          "desc": "[WhenUse] Hedefteki ([Laceration] ve [Burst] toplamı) her 5 için Jeton Gücü +1 (maks 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 [DefenseDown] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 5 [Breath]"
+                  "desc": "[OnSucceedAttack] 5 [Breath] Kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] Uygula"
                 }
               ]
             }
@@ -860,13 +860,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Completed Heixian Bolus - Si [巳]",
-          "desc": "[WhenUse] If the main target has 10+ (sum of [Laceration] and [Burst]), Atk Weight +1",
+          "name": "Tamamlanmış Heixian Hapları - Si [巳]",
+          "desc": "[WhenUse] Eğer ana hedefte 10+ ([Laceration] ve [Burst] toplamı) varsa, Atk Ağırlığı +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Poison]"
+                  "desc": "[OnSucceedAttack] 3 [Poison] Uygula"
                 }
               ]
             },
@@ -876,7 +876,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Poison]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 3 [Poison] Uygula"
                 }
               ]
             }
@@ -889,8 +889,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Completed Heixian Bolus - You [酉]",
-          "desc": "[WhenUse] If target has 10+ (sum of [Laceration] and [Burst]), Coin Power +1\nInflict 1 [Laceration] and [DefenseDown] with every Critical Hit",
+          "name": "Tamamlanmış Heixian Hapları - You [酉]",
+          "desc": "[WhenUse] Eğer hedefte 10+ ([Laceration] ve [Burst] toplamı) varsa, Jeton Gücü +1\nHer Kritik Vuruşta 1 [Laceration] ve [DefenseDown] uygula",
           "coinlist": [
             {
               "coindescs": [
@@ -898,10 +898,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] +2 [Burst] Miktarı Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 SP"
+                  "desc": "[OnSucceedAttack] 2 SP Yenile"
                 }
               ]
             },
@@ -911,10 +911,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 2 [Burst] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 SP"
+                  "desc": "[OnSucceedAttack] 2 SP Yenile"
                 }
               ]
             },
@@ -924,10 +924,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 2 [Burst] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 SP"
+                  "desc": "[OnSucceedAttack] 2 SP Yenile"
                 }
               ]
             }
@@ -935,624 +935,622 @@
         }
       ]
     },
+{
+  "id": 114605,
+  "levelList": [
     {
-      "id": 114605,
-      "levelList": [
+      "level": 1,
+      "name": "Tamamlanmış Heixian Hapları - Hun [混]",
+      "desc": "[WhenUse] Ana hedefteki her negatif etki türü için Jeton Gücü +1 (maks 2)\n[DefeatDuel] %50 daha az hasar ver ve bu Yeteneğin hasarı hedefi Sersemletemez\n[EndSkill] Sonraki turda 2 [Binding] ve 6 [DefenseDown] Kazan",
+      "coinlist": [
         {
-          "level": 1,
-          "name": "Completed Heixian Bolus - Hun [混]",
-          "desc": "[WhenUse] Coin Power +1 for every type of negative effect on the main target (max 2)\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Gain 2 [Binding] and 6 [DefenseDown] next turn",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Gain 5 [Breath]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration]"
-                }
-              ]
+              "desc": "[SuperCoin]"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Poison]"
-                }
-              ]
+              "desc": "[OnSucceedAttack] 5 [Breath] Kazan"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +3 [Burst] Count"
-                }
-              ]
+              "desc": "[UnBrokenCoinOnSucceedAttack] 3 [Laceration] Uygula"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 114606,
-      "levelList": [
+        },
         {
-          "level": 1,
-          "name": "Completed Heixian Bolus - You [酉] - Defense",
-          "desc": "[WhenUse] If target has 5+ (sum of [Laceration] + [Burst]), Coin Power +2\n[WhenUse] Heal 8 SP\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115201,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Precious Jade's Cradle [寶玉搖籃]",
-          "desc": "[CantChangeTarget]\nPrioritizes Hong Lu\nWhen this Skill targets Hong Lu, deal 0 damage\n[EndSkill] When this Skill targets Hong Lu, Stagger him, then turn him into [ExpensiveJade]; then, end the turn",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115202,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Supernatural, Strength, Chaos, and Spirits - Yin Si You [寅巳酉]",
-          "desc": "[WhenUse] Coin Power +1 for every 5 (sum of [Laceration] and [Burst] on target) (max 2)",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and 2 [Burst]"
-                }
-              ]
+              "desc": "[SuperCoin]"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and 2 [Burst]"
-                }
-              ]
+              "desc": "[UnBrokenCoinOnSucceedAttack] 3 [Poison] Uygula"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 115203,
-      "levelList": [
+        },
         {
-          "level": 1,
-          "name": "You do not know the fathoms of the eye's powers, its special nature",
-          "desc": "Prioritizes Hong Lu\n[WhenUse] When there is Baoyu, the Precious Jade, convert all Coins on this Skill to [SuperCoin]s\n[WhenUse] Coin Power +1 for every 5 (sum of [Laceration] and [Burst] on target) (max 2)",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count and +3 [Burst] Count"
-                }
-              ]
+              "desc": "[SuperCoin]"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration] and 1 [Burst]"
-                }
-              ]
+              "desc": "[UnBrokenCoinOnSucceedAttack] +3 [Burst] Miktarı Uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 114606,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Tamamlanmış Heixian Hapları - You [酉] - Savunma",
+      "desc": "[WhenUse] Eğer hedefte 5+ ([Laceration] + [Burst] toplamı) varsa, Jeton Gücü +2\n[WhenUse] 8 SP Yenile\n[WhenUse] 3 [Breath] ve +2 [Breath] Miktarı Kazan",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115201,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Değerli Yeşim Beşiği [寶玉搖籃]",
+      "desc": "[CantChangeTarget]\nHong Lu'ya öncelik verir\nBu Yetenek Hong Lu'yu hedef aldığında, 0 hasar verir\n[EndSkill] Bu Yetenek Hong Lu'yu hedef aldığında, onu Sersemletir, ardından [ExpensiveJade]'e dönüştürür; sonra, turu bitirir",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115202,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Doğaüstü, Güç, Kaos ve Ruhlar - Yin Si You [寅巳酉]",
+      "desc": "[WhenUse] Hedefteki her 5 ([Laceration] ve [Burst] toplamı) için Jeton Gücü +1 (maks 2)",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] 2 [Laceration] ve 2 [Burst] Uygula"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] 2 [Laceration] ve 2 [Burst] Uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115203,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Gözün güçlerinin derinliklerini, özel doğasını bilmiyorsun",
+      "desc": "Hong Lu'ya öncelik verir\n[WhenUse] Baoyu, Değerli Yeşim varsa, bu Yetenekteki tüm Jetoları [SuperCoin]'e dönüştür\n[WhenUse] Hedefteki her 5 ([Laceration] ve [Burst] toplamı) için Jeton Gücü +1 (maks 2)",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] +3 [Laceration] Miktarı ve +3 [Burst] Miktarı Uygula"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] 1 [Laceration] ve 1 [Burst] Uygula"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] 1 [Laceration] ve 1 [Burst] Uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115204,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Lütfen beni izle, Ey Xianren...!",
+      "desc": "Hong Lu'ya öncelik verir\n[WinDuel] 5 [Breath] ve +2 [Breath] Miktarı Kazan\n[DefeatDuel] Sonraki turda 2 [AttackUp] ve 2 [DefenseDown] Kazan",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] Sonraki turda 2 [Binding] ve 2 [Vulnerable] Uygula"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration] and 1 [Burst]"
-                }
-              ]
+              "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı ve +2 [Burst] Miktarı Uygula"
             }
           ]
         }
       ]
-    },
+    }
+  ]
+},
+{
+  "id": 115205,
+  "levelList": [
     {
-      "id": 115204,
-      "levelList": [
+      "level": 1,
+      "name": "Xianren'in bakımı olmadan bir Hiyerarş'in kaderini bilmiyorsun!",
+      "desc": "[WhenUse] 25 SP Yenile\n[DefeatDuel] %50 daha az hasar ver ve bu Yeteneğin verdiği hasar hedefi Sersemletemez",
+      "coinlist": [
         {
-          "level": 1,
-          "name": "Please Watch me, O Xianren...!",
-          "desc": "Prioritizes Hong Lu\n[WinDuel] Gain 5 [Breath] and +2 [Breath] Count\n[DefeatDuel] Gain 2 [AttackUp] and 2 [DefenseDown] next turn",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] and 2 [Vulnerable] next turn"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count and +2 [Burst] Count"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115205,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "You do not know the fate of a Hierarch without the Xianren's care! ",
-          "desc": "[WhenUse] Heal 25 SP\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal +2.5% damage for every (sum of [Burst] and [Laceration] on target) (max 50%)"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Poison]"
-                }
-              ]
+              "desc": "[SuperCoin]"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal +2.5% damage for every (sum of [Burst] and [Laceration] on target) (max 50%)"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
-                }
-              ]
+              "desc": "[UnBrokenCoinOnSucceedAttack] Hedefteki her ([Burst] ve [Laceration] toplamı) için %2.5 daha fazla hasar ver (maks %50)"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal +2.5% damage for every (sum of [Burst] and [Laceration] on target) (max 50%)"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst] and +2 [Burst] Count"
-                }
-              ]
+              "desc": "[OnSucceedAttack] 3 [Poison] Uygula"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 115206,
-      "levelList": [
+        },
         {
-          "level": 1,
-          "name": "Nothing But a Meaningless Struggle...!",
-          "desc": "[WhenUse] Coin Power +1 for every 5 (sum of [Laceration] and [Burst] on target) (max 3)\n[WinDuel] Inflict +1 [Burst] Count, inflict 2 [DefenseDown]",
-          "coinlist": [
-            {}
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115207,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Still, you can do nothing",
-          "desc": "[WhenUse] Gain [OutpouringAnger]\n[WhenUse] Heal 8 SP\n[WhenUse] If the main target has less than 50% HP, or if the main target has 10+ (sum of [Burst] and [Laceration]), convert this Skill's Coins to [SuperCoin]s\n[DefeatDuel] Gain 1 [Vulnerable]\n- When losing a clash against Hong Lu, gain 2 [Vulnerable] instead",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration] and 4 [Burst]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Deal 10 SP damage and raise target's Stagger Threshold by 50% of damage dealt"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Heal 8 SP"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115208,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "A Hierarch without the Xianren's blessing is a Hierarch in name only; she will die an insect's death!!!",
-          "desc": "[WhenUse] At 30% or less Core HP: Coin Power +3, deal +30% damage\n[WhenUse] At less than 50% Core HP: convert this Skill's Coins to [SuperCoin]s\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 Heaping Obedience"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Heal 5 SP"
-                }
-              ]
+              "desc": "[SuperCoin]"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [PileObedient]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Heal 5 SP"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115209,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Be honored to be in audience of such a great man",
-          "desc": "Can Clash with this Skill regardless of Speed; cannot be Staggered before using this Skill\n[WhenUse] Gain 2 [Enhancement], 2 [Endurance], and 2 [AttackDmgUp] to the Body Part next turn\n[WhenUse] Heal this unit's SP up to 30 SP\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 10 [Sinking]"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115210,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Be with this little girl, O Xianren",
-          "desc": "[StartBattle] Body and Core Parts gain Shield equal to 10% of their max HP, respectively\n[WhenUse] Body Part gains 1 [Enhancement], 1 [Endurance], and 2 [AttackDmgUp] next turn\n[WhenUse] Heal 15 SP",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking] and +2 [Sinking] Count"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115211,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "O Xianren...!",
-          "desc": "Can Clash with this Skill regardless of Speed; cannot be Staggered before using this Skill\n[StartBattle] Generate 5 Elder Trees next turn\n[DefeatDuel] Deal -50% damage and this damage dealt by this Skill cannot Stagger the target\n[EndSkill] Ends turn",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115212,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Please give me, Shi Miyin, your strength!",
-          "desc": "If target has 50%+ HP, Coin Power +1",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Among targets without [ImperfectEternalLife], choose and heal 15% HP for the ally with the least HP"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
-                }
-              ]
+              "desc": "[UnBrokenCoinOnSucceedAttack] Hedefteki her ([Burst] ve [Laceration] toplamı) için %2.5 daha fazla hasar ver (maks %50)"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Among targets without [ImperfectEternalLife], choose and heal 15% HP for the ally with the least HP"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
-                }
-              ]
+              "desc": "[OnSucceedAttack] 3 [Laceration] ve +2 [Laceration] Miktarı Uygula"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 115213,
-      "levelList": [
+        },
         {
-          "level": 1,
-          "name": "An Offering of Extreme Extracted Immortality [極仙榨滴供養]",
-          "desc": "[CantIdentify]\nThis Skill cannot deal damage to allies\n[WhenUse] Coin Power +2 and deal +20% damage for every 1 ally with [SupremeEternalLife]\n[WhenUse] If there aren't any allies with [SupremeEternalLife], apply 200 Shield to all targets\n[EndSkill] Ends turn",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] If the target is an ally, siphon their remaining HP and their [ImperfectEternalLife]. Then, apply the same amount of [ImperfectEternalLife] Stack to all of this unit's Parts next turn. Eliminate the Siphoned unit afterward."
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 8 [Laceration] and 8 [Burst]"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115301,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "I greet you now",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal 5 SP damage"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vulnerable] next turn"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115302,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "I'll be docile",
-          "desc": "[CanDuelGuard]\n[WinDuel] Jia Mu heals 15 SP. At 0 SP, heal 30 SP instead.",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115303,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "I'll be your amusement",
-          "desc": "[CantDuel]\n[EndSkill] Kills this unit and heals Jia Mu's SP up to 45 SP. Apply 2 [Enhancement] and 5 [AttackDmgUp] to Jia Mu next turn",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Deal 15 SP damage "
-                },
-                {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115401,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Give me your vitality",
-          "desc": "If target has 50%+ HP, Coin Power +1",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Heal 20% of Max HP"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
-                }
-              ]
+              "desc": "[SuperCoin]"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Heal 20% of Max HP"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115402,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Please me",
-          "desc": "If target has 50% HP, Clash Power +2\n[WhenUse] Heal 10 SP for Jia Mu",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115403,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "The Xianren's Wise Counsel",
-          "desc": "[WhenUse] Apply 1 [Enhancement] and 1 [AttackDmgUp] to Jia Mu next turn",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
-                }
-              ]
+              "desc": "[UnBrokenCoinOnSucceedAttack] Hedefteki her ([Burst] ve [Laceration] toplamı) için %2.5 daha fazla hasar ver (maks %50)"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
-                }
-              ]
+              "desc": "[OnSucceedAttack] 3 [Burst] ve +2 [Burst] Miktarı Uygula"
             }
           ]
         }
       ]
-    },
+    }
+  ]
+},
+{
+  "id": 115206,
+  "levelList": [
     {
-      "id": 115404,
-      "levelList": [
+      "level": 1,
+      "name": "Anlamsız Bir Mücadeleden Başka Bir Şey Değil...!",
+      "desc": "[WhenUse] Hedefteki her 5 ([Laceration] ve [Burst] toplamı) için Jeton Gücü +1 (maks 3)\n[WinDuel] +1 [Burst] Miktarı Uygula, 2 [DefenseDown] Uygula",
+      "coinlist": [
+        {}
+      ]
+    }
+  ]
+},
+{
+  "id": 115207,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Yine de, hiçbir şey yapamazsın",
+      "desc": "[WhenUse] [OutpouringAnger] Kazan\n[WhenUse] 8 SP Yenile\n[WhenUse] Eğer ana hedefin HP'si %50'den azsa veya ana hedefte 10+ ([Burst] ve [Laceration] toplamı) varsa, bu Yeteneğin Jetolarını [SuperCoin]'e dönüştür\n[DefeatDuel] 1 [Vulnerable] Kazan\n- Hong Lu'ya karşı bir çarpışma kaybedildiğinde, bunun yerine 2 [Vulnerable] Kazan",
+      "coinlist": [
         {
-          "level": 1,
-          "name": "The Xianren's True Counsel",
-          "desc": "[WhenUse] Apply 1 [Endurance] and 1 [Protection] to Jia Mu next turn",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 115405,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "I need more vitality...",
-          "desc": "",
-          "coinlist": [
+              "desc": "[OnSucceedAttack] 4 [Laceration] ve 4 [Burst] Uygula"
+            },
             {
-              "coindescs": [
-                {
-                  "desc": ""
-                }
-              ]
+              "desc": "[OnSucceedAttack] +2 [Burst] Miktarı Uygula"
+            },
+            {
+              "desc": "[OnSucceedAttack] 10 SP hasarı ver ve hedefin Sersemleme Eşiğini verilen hasarın %50'si kadar artır"
+            },
+            {
+              "desc": "[OnSucceedAttack] Sonraki turda 2 [Binding] Uygula"
+            },
+            {
+              "desc": "[OnSucceedAttack] 8 SP Yenile"
             }
           ]
         }
       ]
-    },
+    }
+  ]
+},
+{
+  "id": 115208,
+  "levelList": [
     {
-      "id": 115214,
-      "levelList": [
+      "level": 1,
+      "name": "Xianren'in kutsaması olmayan bir Hiyerarş, sadece ismen bir Hiyerarş'tir; o bir böcek ölümü ölecek!!!",
+      "desc": "[WhenUse] Çekirdek HP %30 veya altındayken: Jeton Gücü +3, %30 daha fazla hasar ver\n[WhenUse] Çekirdek HP %50'nin altındayken: bu Yeteneğin Jetolarını [SuperCoin]'e dönüştür\n[DefeatDuel] %50 daha az hasar ver ve bu Yeteneğin verdiği hasar hedefi Sersemletemez",
+      "coinlist": [
         {
-          "level": 1,
-          "name": "Nothing But a Meaningless Struggle...!",
-          "desc": "[WhenUse] Coin Power +1 for every 5 (sum of [Laceration] and [Burst] on target) (max 3)\n[WinDuel] Inflict +1 [Burst] Count, inflict 2 [DefenseDown]",
-          "coinlist": [
-            {}
+          "coindescs": [
+            {
+              "desc": "[UnBrokenCoinOnSucceedAttack] 1 Heaping Obedience Uygula"
+            },
+            {
+              "desc": "[OnSucceedAttack] +3 [Laceration] Miktarı Uygula"
+            },
+            {
+              "desc": "[OnSucceedAttack] +3 [Burst] Miktarı Uygula"
+            },
+            {
+              "desc": "[OnSucceedAttack] 5 SP Yenile"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[UnBrokenCoinOnSucceedAttack] 2 [PileObedient] Uygula"
+            },
+            {
+              "desc": "[OnSucceedAttack] 3 [Laceration] Uygula"
+            },
+            {
+              "desc": "[OnSucceedAttack] 3 [Burst] Uygula"
+            },
+            {
+              "desc": "[OnSucceedAttack] 5 SP Yenile"
+            }
           ]
         }
+      ]
+    }
+  ]
+},
+{
+  "id": 115209,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Böyle büyük bir adamın huzurunda olmak onurdur",
+      "desc": "Hızına bakılmaksızın bu Yetenekle Çarpışabilir; bu Yeteneği kullanmadan önce Sersemletilemez\n[WhenUse] Sonraki turda 2 [Enhancement], 2 [Endurance] ve 2 [AttackDmgUp] Kazan\n[WhenUse] Bu birimin SP'sini 30 SP'ye kadar Yenile\n[DefeatDuel] %50 daha az hasar ver ve bu Yeteneğin verdiği hasar hedefi Sersemletemez",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            },
+            {
+              "desc": "[UnBrokenCoinOnSucceedAttack] 10 [Sinking] Uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115210,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Benimle ol, Ey Xianren...",
+      "desc": "[StartBattle] Vücut ve Çekirdek Parçaları sırasıyla maksimum HP'lerinin %10'u kadar Kalkan kazanır\n[WhenUse] Vücut Parçası sonraki turda 1 [Enhancement], 1 [Endurance] ve 2 [AttackDmgUp] Kazanır\n[WhenUse] 15 SP Yenile",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            },
+            {
+              "desc": "[OnSucceedAttack] 3 [Sinking] ve +2 [Sinking] Miktarı Uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115211,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Ey Xianren...!",
+      "desc": "Hızına bakılmaksızın bu Yetenekle Çarpışabilir; bu Yeteneği kullanmadan önce Sersemletilemez\n[StartBattle] Sonraki turda 5 Elder Tree oluştur\n[DefeatDuel] %50 daha az hasar ver ve bu Yeteneğin verdiği hasar hedefi Sersemletemez\n[EndSkill] Turu bitirir",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115212,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Lütfen bana, Shi Miyin, gücünü ver!",
+      "desc": "Eğer hedefin HP'si %50+ ise, Jeton Gücü +1",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] [ImperfectEternalLife] olmayan hedefler arasında, en az HP'si olan müttefiği seç ve %15 HP Yenile"
+            },
+            {
+              "desc": "[OnSucceedAttack] 3 [Burst] Uygula"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] [ImperfectEternalLife] olmayan hedefler arasında, en az HP'si olan müttefiği seç ve %15 HP Yenile"
+            },
+            {
+              "desc": "[OnSucceedAttack] 3 [Laceration] Uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115213,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Aşırı Ekstrakte Edilmiş Ölümsüzlük Sunusu [極仙榨滴供養]",
+      "desc": "[CantIdentify]\nBu Yetenek müttefiklere hasar veremez\n[WhenUse] Her 1 [SupremeEternalLife]'a sahip müttefik için Jeton Gücü +2 ve %20 daha fazla hasar ver\n[WhenUse] Eğer [SupremeEternalLife]'a sahip müttefik yoksa, tüm hedeflere 200 Kalkan uygula\n[EndSkill] Turu bitirir",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            },
+            {
+              "desc": "[OnSucceedAttack] Eğer hedef bir müttefikse, kalan HP'lerini ve [ImperfectEternalLife]'larını em. Ardından, bir sonraki turda bu birimin tüm Parçalarına aynı miktarda [ImperfectEternalLife] Yığını uygula. Emilen birimi ortadan kaldır."
+            },
+            {
+              "desc": "[UnBrokenCoinOnSucceedAttack] 8 [Laceration] ve 8 [Burst] Uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115301,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Şimdi seni selamlıyorum",
+      "desc": "",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            },
+            {
+              "desc": "[UnBrokenCoinOnSucceedAttack] 5 SP hasarı ver"
+            },
+            {
+              "desc": "[UnBrokenCoinOnSucceedAttack] Sonraki turda 1 [Vulnerable] Uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115302,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Uysal olacağım",
+      "desc": "[CanDuelGuard]\n[WinDuel] Jia Mu 15 SP Yeniler. 0 SP'deyken, bunun yerine 30 SP Yeniler.",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115303,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Senin eğlencen olacağım",
+      "desc": "[CantDuel]\n[EndSkill] Bu birimi öldürür ve Jia Mu'nun SP'sini 45 SP'ye kadar Yeniler. Jia Mu'ya sonraki turda 2 [Enhancement] ve 5 [AttackDmgUp] uygular",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            },
+            {
+              "desc": "[OnSucceedAttack] 15 SP hasarı ver"
+            },
+            {
+              "desc": "[OnSucceedAttack] Sersemleme Eşiğini verilen hasarın %50'si kadar artır"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115401,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Bana canlılığını ver",
+      "desc": "Eğer hedefin HP'si %50+ ise, Jeton Gücü +1",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] Maksimum HP'nin %20'sini Yenile"
+            },
+            {
+              "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] Maksimum HP'nin %20'sini Yenile"
+            },
+            {
+              "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115402,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Beni memnun et",
+      "desc": "Eğer hedefin HP'si %50 ise, Çarpışma Gücü +2\n[WhenUse] Jia Mu için 10 SP Yenile",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] 3 [Sinking] Uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115403,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Xianren'in Bilge Öğüdü",
+      "desc": "[WhenUse] Jia Mu'ya sonraki turda 1 [Enhancement] ve 1 [AttackDmgUp] uygula",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] 2 [Burst] Uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115404,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Xianren'in Gerçek Öğüdü",
+      "desc": "[WhenUse] Jia Mu'ya sonraki turda 1 [Endurance] ve 1 [Protection] uygula",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] +3 [Burst] Miktarı Uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115405,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Daha fazla canlılığa ihtiyacım var...",
+      "desc": "",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 115214,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Anlamsız Bir Mücadeleden Başka Bir Şey Değil...!",
+      "desc": "[WhenUse] Hedefteki her 5 ([Laceration] ve [Burst] toplamı) için Jeton Gücü +1 (maks 3)\n[WinDuel] +1 [Burst] Miktarı Uygula, 2 [DefenseDown] Uygula",
+      "coinlist": [
+        {}
       ]
     }
   ]
