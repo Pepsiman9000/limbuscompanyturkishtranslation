@@ -3,7 +3,7 @@
     {
       "id": 0,
       "model": "싱클레어",
-      "content": "Günlerden Noel arefesiydi, tüm kasaba şen ve şakraktı."
+      "content": "Günlerden Noel arefesiydi, tüm kasaba şen şakraktı."
     },
     {
       "id": 1,
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "model": "싱클레어",
-      "content": "Bodrum anahtarını çalmak gibi alçakça bir hatada bulunduğumu, ve tekrardan iyi bir çocuk olamaya geri döneceğimi söylemek istiyordum."
+      "content": "Bodrum anahtarını çalmak gibi alçakça bir hatada bulunduğumu, ama tekrardan iyi bir çocuk olamaya geri döneceğimi söylemek istiyordum."
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
     {
       "id": 6,
       "model": "싱클레어",
-      "content": "Halbuki…"
+      "content": "Fakat…"
     },
     {
       "id": 7,
@@ -43,7 +43,7 @@
     {
       "id": 8,
       "model": "싱클레어",
-      "content": "Eve geldiğimde, kapıda robot bir köpeğin beni karşıladığını duymam gerekiyordu. Ama tüm ev büyük bir karanlığa ve sesizliğe gömülmüştü."
+      "content": "Eve geldiğimde, normalde kapıda robot bir köpeğin beni karşıladığını duymam gerekiyordu. Ama tüm ev büyük bir karanlığa ve sesizliğe gömülmüştü."
     },
     {
       "id": 9,
@@ -54,7 +54,7 @@
       "id": 10,
       "teller": "Sister",
       "title": "My Dear Family",
-      "content": "Sinclair… Koş…"
+      "content": "Sinclair… Kaç…"
     },
     {
       "id": 11,
@@ -126,7 +126,7 @@
       "model": "학생크로머",
       "teller": "Kromer",
       "title": "Student?",
-      "content": "Küçüklüğümden beridir, böylesine insanlara hakaret eden şeylerle birlikte bulunmaktan tiksinmişimdir."
+      "content": "Küçüklüğümden beridir böylesine insanlara hakaret eden şeylerle birlikte bulunmaktan tiksinmişimdir."
     },
     {
       "id": 23,
@@ -240,7 +240,7 @@
     {
       "id": 42,
       "model": "싱클레어",
-      "content": "Kulak kanatan gürültü, ağır adımların yoğunluğu, ve midemin bulantısı arasında…"
+      "content": "Kulak kanatan gürültüler, ağır adımların yoğunluğu, ve midemin bulantısı arasında…"
     },
     {
       "id": 43,
