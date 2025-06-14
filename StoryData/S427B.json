@@ -14,21 +14,21 @@
         {
             "id": 2,
             "model": "파우스트",
-            "content": "...It appears we're nearing the target location."
+            "content": "...Hedef noktasına yaklaşıyoruz gibi görünüyor."
         },
         {
             "id": 3,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That's good. The photos and awards I left should be still there."
+            "content": "Güzel, bıraktığım ödüller ve fotoğraflar hala burada olmalı."
         },
         {
             "id": 4,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Classified research documents as well, Mr. Dongrang."
+            "content": "Gizli araştırma dökümanları da cabası, Bay Dongrang."
         },
         {
             "id": 5,
@@ -44,41 +44,41 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "How kind of you. You didn't have to pick it up."
+            "content": "Ne kibarsın. Almana gerek bile yoktu."
         },
         {
             "id": 8,
             "model": "이상",
-            "content": "...It's the same."
+            "content": "...Aynısı."
         },
         {
             "id": 9,
             "model": "이상",
-            "content": "This regeneration ampule..."
+            "content": "Bu rejenerasyon ampulü..."
         },
         {
             "id": 10,
             "model": "이상",
-            "content": "Its number abides by the same rule as the 'decay ampules' that was forcibly administered to Miss Ishmael in the earlier scuffle between K Corp's brawlers and invading machines."
+            "content": "Sayısı, evvel zaman içinde K Kuruluşu'nun dalkavukları ve makinelerin sürtüşmesi esnasında Bayan Ishmael'e zorlanan 'çürüme ampulleri'nin seri numaraları ile aynı kuralı takip etmekte."
         },
         {
             "id": 11,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That's what's called a serial code. It's a unique string of numbers to categorize ampules. Ones that start with an \"O\" are original- Wait, why am I explaining this, again?"
+            "content": "Ona seri numarası diyoruz. Ampulleri kategorize etmek için kullandığımız bir tutam sayı. \"O\" ile başlayanlar orijina- Bekle, ben bunu neden anlatıyorum ki?"
         },
         {
             "id": 12,
             "model": "이상",
-            "content": "Original... Identical to the 'decay ampule' injected to Miss Ishmael... So it suggests that its essence was no different from that of the regeneration ampule."
+            "content": "Orijinal... Bayan Ishmael'e enjekte edilen 'çürüme ampulü' ile aynı... Yani özünde, bir rejenerasyon ampulünden farkı bulunmuyor."
         },
         {
             "id": 13,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "This series of regeneration ampule is, well, how do I say it... It's an undiluted solution. It's not exactly like the commercially available ones."
+            "content": "Bu rejenerasyon ampullerinin dizisi, nasıl desem... daha konsantre bir versiyonu. Halkın kullanımına açık olan versiyonlara benzemiyor."
         },
         {
             "id": 14,
@@ -90,67 +90,67 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "What are you thinking right now?"
+            "content": "Şu an aklından ne geçiyor?"
         },
         {
             "id": 16,
             "model": "이상",
-            "content": "Nothing."
+            "content": "Bir hiç."
         },
         {
             "id": 17,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "When did you first recognize me?"
+            "content": "Beni ne zaman tanıyabildin?"
         },
         {
             "id": 18,
             "model": "이상",
-            "content": "Since you showed us the chickens in captivity."
+            "content": "Esir ettiğiniz tavukları gösterdiğiniz zaman."
         },
         {
             "id": 19,
             "model": "이상",
-            "content": "It would have sufficed to give your visitors a cursory tour, yet you insisted on showing your personal laboratory..."
+            "content": "Ziyaretçilerine üstünkörü bir tur düzenlemen makul olacağı halde, kişisel laboratuvarını göstermek için ısrarcıydın..."
         },
         {
             "id": 20,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "You're right. I don't know about the others, but I wanted you to see the demonstrable proof of my success."
+            "content": "Haklısın. Diğerlerini bilmesem de, en azından senin başarımın elde tutulabilir bir göstergesini görmeni istiyordum."
         },
         {
             "id": 21,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I'm still sad, though. You probably had plenty of time to express your joy of reuniting with this old friend of yours."
+            "content": "Biraz üzüldüm ama. Bu eski dostuna tekrardan kavuşmanın sevincini göstermek için bolca zamanın vardı."
         },
         {
             "id": 22,
             "model": "이상",
-            "content": "It is my thought that I no longer have companions by my side."
+            "content": "Artık yanımda bir yoldaşın bulunmadığı kanaatindeyim."
         },
         {
             "id": 23,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "You haven't changed."
+            "content": "Hiç değişmemişsin."
         },
         {
             "id": 24,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "You've always enjoyed keeping precious things in bottles and watching them."
+            "content": "Değerli şeyleri şişelere koyup onlara izlemeye bayılırdın."
         },
         {
             "id": 25,
             "model": "이상",
-            "content": "And you were intent on releasing and showing them."
+            "content": "Sen ise onları azat edip güruhlara göstermeye niyetliydin."
         },
         {
             "id": 26,
@@ -174,21 +174,21 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Aha. So you already had a reunion to celebrate. No wonder you're being so detached with me."
+            "content": "Aha. Yani çoktan kutlayacak bir kavuşman vardı. Bana neden bu kadar kopuk davrandığın şimdi belli oldu."
         },
         {
             "id": 30,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "How troubling for you, though."
+            "content": "Senin için biraz dert olacak ama."
         },
         {
             "id": 31,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Looks like there'll be another you have to face."
+            "content": "Görünüşe bakılırsa karşılaşman gereken birisi daha var."
         },
         {
             "id": 32,
@@ -200,14 +200,14 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I thought everyone had made their escape thanks to Shrenne's snitching..."
+            "content": "Shrenne'nin mevzusu sayesinde herkesin kaçtığını düşünüyordum..."
         },
         {
             "id": 34,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "But I suppose that wasn't the case."
+            "content": "Fakat gel gör ki, bir tanesi arkada kalmış."
         },
         {
             "id": 35,
@@ -226,48 +226,48 @@
             "model": "동백",
             "teller": "???",
             "title": "???",
-            "content": "It's a fine photograph. Only one of this shot remains in this world now."
+            "content": "Harika bir fotoğraf. Bu anı kayıt altına almış olan yegane şey."
         },
         {
             "id": 39,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "So many old friends, and not one to greet me with delight."
+            "content": "O kadar eski yüzler görüyorum, ve bir tanesi bile beni hoş karşılamıyor."
         },
         {
             "id": 40,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Won't you give that picture back to me? It may not look like it, but it's a cherished treasure of mine."
+            "content": "Neden o resmi geri vermiyorsun? Görünürde öyle olmasa bile, benim için çok kıymetlidir."
         },
         {
             "id": 41,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Mr. Dongrang, you shouldn't get close to her! It's dangerous!"
+            "content": "Bay Dongrang, ona sakın yaklaşmayın! Bu çok tehlikeli!"
         },
         {
             "id": 42,
             "model": "오티스",
-            "content": "All troops, do not carelessly approach her! The Golden Bough may be destroyed..."
+            "content": "Tüm birlikler, sakın ona yaklaşmayın! Altın Dal yok olabilir..."
         },
         {
             "id": 43,
             "model": "뫼르소",
-            "content": "I agree with it."
+            "content": "Katılıyorum."
         },
         {
             "id": 44,
             "model": "파우스트",
-            "content": "Faust will come up with a way to retrieve it in no time."
+            "content": "Faust tez zamanda, Dalın geri alımı için bir plan oluşturacak."
         },
         {
             "id": 45,
             "model": "히스클리프",
-            "content": "Tch, why do we keep running into problems that a good pummeling can't solve! This is right infuriating..."
+            "content": "Tç, neden iki tokat ile halledilemeyecek şeylere giriyoruz hep! Çok sinir bozucu lan..."
         },
         {
             "id": 46,
@@ -286,7 +286,7 @@
             "model": "동백",
             "teller": "???",
             "title": "???",
-            "content": "That piquant and fragrant smell made me feel as though the ground was sinking."
+            "content": "O etkileyici ve hoş koku, senki yer yerinden oynuyormuş gibi hissettiriyordu."
         },
         {
             "id": 50,
@@ -306,7 +306,7 @@
             "model": "동백",
             "teller": "???",
             "title": "???",
-            "content": "I...didn't think you would end up choosing him before my eyes."
+            "content": "Gözlerimin önünde... onu seçeceğini kırk yıl olsa düşünemezdim."
         },
         {
             "id": 54,
@@ -318,14 +318,14 @@
             "model": "동백",
             "teller": "???",
             "title": "???",
-            "content": "You can have this back."
+            "content": "Bunu da geri alabilirsin artık."
         },
         {
             "id": 56,
             "model": "동백",
             "teller": "Dongbaek",
             "title": "???",
-            "content": "A photograph is nothing more than a taxidermied moment."
+            "content": "Fotoğralar, tahnitlenmiş bir andan ibarettir."
         },
         {
             "id": 57,
