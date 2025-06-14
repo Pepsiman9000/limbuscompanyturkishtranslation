@@ -138,11 +138,11 @@
     },
     {
       "id": "tuto_00_03_01_01",
-      "content": "Sırada, <color=#f8c200><SP><color=#ebcaa2>, yani Sakinlik Puanı.\n\n<color=#f8c200><SP><color=#ebcaa2>nin maksimum değeri 45'tir, minimum ise -45."
+      "content": "Sırada, <color=#89CFF0>SP<color=#ebcaa2>, yani Sakinlik Puanı.\n\n<color=#89CFF0>SP<color=#ebcaa2>'nin maksimum değeri <color=#008000>45<color=#ebcaa2>'tir, minimum ise <color=#FF0000>-45<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_03_01_02",
-      "content": "Günahkârların <color=#f8c200><SP><color=#ebcaa2> değeri aynı zamanda burada da gözükür."
+      "content": "Günahkârların <color=#89CFF0>SP<color=#ebcaa2> değeri aynı zamanda burada da gözükür."
     },
     {
       "id": "tuto_00_03_01_03",
@@ -150,11 +150,11 @@
     },
     {
       "id": "tuto_00_03_01_04",
-      "content": "Her birimin <color=#f8c200><SP><color=#ebcaa2> değeri belli unsurlara bağlı olarak değişir.\nÇoğunlukla avantajlı durumlarda SP yenilerler <color=#f8c200>(Çarpışma kazanmak veya düşman öldürmek),<color=#ebcaa2>\nAksi durumlarda ise <color=#f8c200>SP kaybederler.<color=#ebcaa2>"
+      "content": "Her birimin <color=#89CFF0>SP<color=#ebcaa2> değeri belli unsurlara bağlı olarak değişir.\nÇoğunlukla avantajlı durumlarda SP yenilerler <color=#f8c200>(Çarpışma kazanmak veya düşman öldürmek),<color=#ebcaa2>\nAksi durumlarda ise <color=#f8c200>SP kaybederler.<color=#ebcaa2>"
     },
     {
       "id": "tuto_00_03_01_05",
-      "content": "Bir Jetonun <color=#f8c200>Tura<color=#ebcaa2> gelme olaslığı %(50 + <color=#f8c200>SP<color=#ebcaa2>)'dir.\nBu demek oluyor ki <color=#f8c200><SP><color=#ebcaa2> ne kadar yüksekse, senin için o kadar iyi. (Çoğu zaman)"
+      "content": "Bir Jetonun <color=#f8c200>Tura<color=#ebcaa2> gelme olaslığı %(50 + <color=#89CFF0>SP<color=#ebcaa2>)'dir.\nBu demek oluyor ki <color=#89CFF0>SP<color=#ebcaa2> ne kadar yüksekse, senin için o kadar iyi. (Çoğu zaman)"
     },
     {
       "id": "tuto_00_03_02_01",
@@ -430,27 +430,27 @@
     },
     {
       "id": "tuto_01_04_01_08",
-      "content": "Minimum bilgi göstergesi.\n\nYetenekler hakkında bilgi gösterilmez.\n\nEğer kullandığınız ve karşılaşacağınız yeteneklere hakim değilseniz, bu mod önerilmez."
+      "content": "Minimum bilgi göstergesi.\n\nYetenekler hakkında bilgi gösterilmez.\n\nEğer kullandığınız ve karşılaşacağınız yeteneklere hakim değilseniz, bu modu önermiyoruz."
     },
     {
       "id": "tuto_01_08_01_01",
-      "content": "Let's learn how to use <color=#f8c200><E.G.O><color=#ebcaa2>."
+      "content": "Şimdi, <color=#f8c200><E.G.O><color=#ebcaa2> kullanmayı öğrenelim."
     },
     {
       "id": "tuto_01_08_01_02",
-      "content": "<color=#f8c200><E.G.O><color=#ebcaa2> are each Sinner's <color=#f8c200>unique Skills<color=#ebcaa2> that can be used <color=#f8c200>regardless of the Identity<color=#ebcaa2> they are wearing."
+      "content": "<color=#f8c200>E.G.O'lar<color=#ebcaa2>, kuşandıkları kişilik farketmeksizin aynı kalan ve her Günahkâra özgün, özel Yeteneklerdir."
     },
     {
       "id": "tuto_01_08_01_03",
-      "content": "Let's inspect Sinner Heathcliff's <color=#f8c200>E.G.O<color=#ebcaa2>.\n\nPress and hold Sinner Heathcliff's portrait at the bottom of the Dashboard."
+      "content": "Günahkâr Heathcliff'in <color=#f8c200>E.G.O'suna<color=#ebcaa2> bakalım.\n\nPanelde, Heathcliff'in portresine basılı tut."
     },
     {
       "id": "tuto_01_08_01_04",
-      "content": "Every <color=#f8c200><E.G.O><color=#ebcaa2> currently equipped by Sinner Heathcliff are visible here."
+      "content": "Heathcliff'in kuşanmış olduğu bütün <color=#f8c200>E.G.O'lar<color=#ebcaa2> burada gözükecektir."
     },
     {
       "id": "tuto_01_08_01_05",
-      "content": "Using <color=#f8c200><E.G.O><color=#ebcaa2> Skills consumes <color=#f8c200>E.G.O resources<color=#ebcaa2> and <color=#f8c200>SP<color=#ebcaa2>.\n\nThe amount of SP consumed by each <color=#f8c200><E.G.O><color=#ebcaa2> is listed at the top left corner of its information card.\n\nNow, select this <color=#f8c200><E.G.O><color=#ebcaa2>—'Bodysack'."
+      "content": "<color=#f8c200>E.G.O<color=#ebcaa2> Yetenekleri kullanmak, <color=#f8c200>E.G.O kaynağı<color=#ebcaa2> ve <color=#89CFF0>SP<color=#ebcaa2> harcar.\n\nBahsi geçen E.G.O'ların harcadığı SP, bilgi kartının sol üst köşesinde yazmaktadır.\n\nŞimdi, şu <color=#9e03b9>E.G.O'yu<color=#ebcaa2> seç—'Ceset Çuvalı'."
     },
     {
       "id": "tuto_01_08_01_06",
