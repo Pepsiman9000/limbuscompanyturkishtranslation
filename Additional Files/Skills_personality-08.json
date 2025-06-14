@@ -1609,7 +1609,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crimson Strike - Launcher [始]",
+          "name": "Crimson Strike - Launcher",
           "desc": "[CantDuel]\n[BeforeAttack] Consume all [WaitingXichun] on self to gain +([WaitingXichun] on self x 2) Atk Weight (max 5)\n[WhenUse] Gain 5 [Breath] and +2 [Breath] Count",
           "coinlist": [
             {},
@@ -1624,7 +1624,7 @@
         },
         {
           "level": 2,
-          "name": "Crimson Strike - Launcher [始]",
+          "name": "Crimson Strike - Launcher",
           "desc": "[CantDuel]\n[BeforeAttack] Consume all [WaitingXichun] on self to gain +([WaitingXichun] on self x 2) Atk Weight (max 5)\n[WhenUse] Gain 5 [Breath] and +2 [Breath] Count\n<style=\"highlight\">[WhenUse] At 3+ [WaitingXichun], Coin Power +1</style>",
           "coinlist": [
             {},
@@ -1639,7 +1639,7 @@
         },
         {
           "level": 4,
-          "name": "Crimson Strike - Launcher [始]",
+          "name": "Crimson Strike - Launcher",
           "desc": "[CantDuel]\n[BeforeAttack] Consume all [WaitingXichun] on self to gain +([WaitingXichun] on self x 2) Atk Weight (max 5)\n[WhenUse] Gain 5 [Breath] and +2 [Breath] Count\n[WhenUse] At 3+ [WaitingXichun], Coin Power +<style=\"highlight\">2</style>",
           "coinlist": [
             {},
