@@ -18,14 +18,14 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Harbiden, bunlar da kim, Shrenne~? Benden başka yeni arkadaşlar mı edindin?"
+            "content": "Harbiden, bunlar da kim, Shrenne~? Benim dışı yeni arkadaşlar mı edindin?"
         },
         {
             "id": 3,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "Rosepanner Atölyesinden İşçözücüler, şuanki projemizde işbirliği yaptığımız kişiler. Burayı zaten birkaç kez ziyaret ettiler, şimdiye kadar tanıdık olman gerekirdi."
+            "content": "Rosepanner Atölyesinden İşçözücüler, şu anki projemizde işbirliği yaptığımız kişiler. Burayı zaten birkaç kez ziyaret ettiler, şimdiye kadar tanıdık olman gerekirdi."
         },
         {
             "id": 4,
@@ -128,7 +128,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Mmm... Clearly, it's because they don't want the general public to know that such a thing happened in the Nest, don't you think?"
+            "content": "Mmm... Belli ki, Yuva'da böyle bir şeyin yaşandığını kamuoyunun bilmesini istemiyorlar, değil mi?"
         },
         {
             "id": 20,
@@ -140,7 +140,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It's evidence that they want it to remain discrete that much, don't you think?"
+            "content": "İşte bu kadar gizli kalmasını istemelerinin kanıtı, sence de öyle değil mi?"
         },
         {
             "id": 22,
@@ -152,7 +152,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Her neyse, I ought to bring a generous supply of regeneration ampules for you all to use. Now should be a good time to depart, right?"
+            "content": "Her neyse, hepinizin kullanması için bolca rejenerasyon ampulu getirmeliyim. Şimdi ayrılmak için iyi bir zaman, değil mi?"
         },
         {
             "id": 24,
@@ -164,7 +164,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "No problem, seeing you in battle made me all the more reassured about accompanying you."
+            "content": "Sorun yok, Sizi savaşırken görmek, içimi size eşlik etme konusunda daha da rahatlattı"
         },
         {
             "id": 26,
@@ -181,90 +181,90 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Restoration, not healing, huh..."
+            "content": "İyileştirme değil, restorasyon, huh..."
         },
         {
             "id": 29,
             "model": "로쟈",
-            "content": "No way~ Is he trying to copy Dante's ability like what that shady Bodhisattva Chicken guy tried with his rival?!"
+            "content": "Hadi canım~ Tıpkı şu sahketar Bodhisattva Tavuk adamın rakibine yapmaya çalıştığı gibi Dante'nin yeteneğini mi kopyalamaya çalışıyor?!"
         },
         {
             "id": 30,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I wouldn't do such a thing. I'm not the kind of person to cram down food that I know I can't digest."
+            "content": "Öyle bir şey yapmam. Ben yutamayacağı lokmayı yiyecek birisi değilim."
         },
         {
             "id": 31,
             "model": "오티스",
-            "content": "It has to be common practice for someone like you to send capable underlings to do the fighting for you, and yet you insist on being on the front. Are you that hungry for a medal?"
+            "content": "Sizin gibi birisinin, sizin yerine savaşmak için yetenekli astları göndermesi yaygın bir uygulama olması gerek, ancak yine de cephede bulunmakta ısrar ediyorsunuz.. Bir madalya için bu kadar aç mısınız?"
         },
         {
             "id": 32,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "No, it's that I left..."
+            "content": "Hayır, orada geride..."
         },
         {
             "id": 33,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "A number of things I couldn't take with me in time."
+            "content": "Zamanında yanımda getiremediğim birsürü şey bıraktım."
         },
         {
             "id": 34,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Like the photo commemorating my third consecutive year of winning the excellence award, the plaque of appreciation from K Corp, the photo taken to celebrate my lab's expansion, and... what else was there, Samjo?"
+            "content": "Üçüncü kez mükemmellik ödülünü kazanmamın anısına çekilen fotoğraf, K Kuruluşu'ndan gelen takdir plağı, laboratuvarımın genişlemesini kutlamak için çekilen fotoğraf ve... başka ne vardı, Samjo?"
         },
         {
             "id": 35,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "...Classified documents concerning the research, sir..."
+            "content": "...Araştırmaya ilişkin gizli belgeler, efendim..."
         },
         {
             "id": 36,
             "model": "오티스",
-            "content": "...So it's more that you wanted to gain back the medals you had."
+            "content": "...Yani daha çok kazandığın madalyaları geri almak istiyorsunuz."
         },
         {
             "id": 37,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ha doğru, o da vardı."
+            "content": "Ha doğru, onlar da vardı."
         },
         {
             "id": 38,
             "model": "그레고르",
-            "content": "You really did just barely manage to escape there, huh..."
+            "content": "Harbiden oradan daha yeni zar zor kurtuldun, ha..."
         },
         {
             "id": 39,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "I guarantee you, that nerd Dongrang has never swung a fist in his life. He's too carefree. At least bring some Fixers like me."
+            "content": "Garanti ediyorum ki, şu inek Dongrang hayatında hiç bir kere bile bir yumruk sallamamıştır. Çok gamsız birisi. En azından benim gibi İşçözücü'leri yanınızda götürün."
         },
         {
             "id": 40,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Is your department going as well, Ms. Shrenne?"
+            "content": "Sizin bölümünüzün de durumu bu kadar iyi mi, Bayan Shrenne?"
         },
         {
             "id": 41,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I don't see how you could benefit from the success of this operation."
+            "content": "Bu opreasyonun başarısından nasıl menfaat edebileceğinizi anlayamıyorum."
         },
         {
             "id": 42,
@@ -278,7 +278,7 @@
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "I've lost too much to care about interests and benefits."
+            "content": "Çıkar ve menfaatleri umursamayacak kadar çok şey kaybettim..."
         },
         {
             "id": 44,
@@ -292,21 +292,21 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "In that case, will I be correct to assume that the payment for the Fixers will be handled by your department--"
+            "content": "Öyleyse, İşçözenler için yapılacak olan ödemenin sizin bölümünüzden çıkacağını varsaymam doğru olur mu--"
         },
         {
             "id": 46,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "Ugh... You just can't stop being such an irritating bunch..."
+            "content": "Of... Bu kadar sinir bozucu bir grup olmaktan vazgeçemiyor musunuz..."
         },
         {
             "id": 47,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "The Lobotomy Corp. branch we must reclaim isn't too far from here."
+            "content": "Geri almamız gereken Lobotomi Kuruluşu şubesi buraya pek yakın."
         },
         {
             "id": 48,
@@ -327,12 +327,12 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I'll secure you an opportunity next time. Let's get moving for now."
+            "content": "Bir dahakine sana binmen için bir fırsat yakalarım. Şimdilik hadi yola koyulalım."
         },
         {
             "id": 51,
             "model": "로쟈",
-            "content": "Huh? Who do you think you are to decide that...?!"
+            "content": "Huh? Ne hakla buna sen karar veriyorsun...?!"
         },
         {
             "id": 52,
@@ -342,41 +342,41 @@
         {
             "id": 53,
             "model": "로쟈",
-            "content": "And then, you see~ I bet the chips and declared like this:"
+            "content": "Bak şimdi, sonra~ Çipleri ortaya koydum ve şöyle dedim:"
         },
         {
             "id": 54,
             "model": "로쟈",
-            "content": "\"All~ in.\""
+            "content": "\"Rest~ çekiyorum.\""
         },
         {
             "id": 55,
             "model": "그레고르",
-            "content": "Haah... I wanna stop hearing it... It's giving me nausea."
+            "content": "Haah... Artık bunu dinlemek istemiyorum... Miğdemi bulandırıyor."
         },
         {
             "id": 56,
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "There's nothing like headshake poker at J Corp's casinos. Those people who sit at the slot machines all day long, they're all morons."
+            "content": "J Kuruluşu'nun kumarhanelerinde teke tek poker oynamak gibisi yok. Tüm gün boyunca kumar makinelerinin başında oturanların hepsi gerizekalı."
         },
         {
             "id": 57,
             "model": "히스클리프",
-            "content": "What, you mean there's something up with the machines?"
+            "content": "Ne, makinelerde bir şeyler mi var diyorsun?"
         },
         {
             "id": 58,
             "model": "니코",
             "teller": "Niko",
             "title": "Rosespanner Workshop",
-            "content": "This is something I haven't told anyone else. You see..."
+            "content": "Bu daha önce başka kimseye demediğim bir şey. Görüyorsun ki..."
         },
         {
             "id": 59,
             "model": "히스클리프",
-            "content": "Hold on, you gotta explain in more detail..."
+            "content": "Bekle bi ya, daha detaylı anlatman gerek..."
         },
         {
             "id": 60,
