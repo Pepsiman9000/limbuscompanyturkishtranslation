@@ -3,15 +3,15 @@
     {
       "id": 0,
       "place": "Sonsuz Ceset Tepesi",
-      "content": "Etli tepe, Sinclair'ın bacaklarını eriten güçlü bir asit yayıyordu. Diğer bütün günahkarlar da yakıcı salgıyla eriyordu."
+      "content": "Cesetler bir anda asit terlemeye başladı, Sinclair'ın bacaklarını eriterek. Diğer Günahkârlar da çözünmeye yüz tutmuştu."
     },
     {
       "id": 1,
-      "content": "Ayağı takılıp yere düştü. Hayır, belki de ayakları yerden kesildi demeliyim."
+      "content": "Dengesini kaybederek yere düştü. Hayır, belki de ayakları yerden kesildi demeliyim."
     },
     {
       "id": 2,
-      "content": "Buna rağmen hâlâ Kromer'e doğru sürünüyordu."
+      "content": "Vaziyetine inat hâlâ Kromer'e doğru sürünüyordu."
     },
     {
       "id": 3,
@@ -37,14 +37,14 @@
     {
       "id": 6,
       "model": "싱클레어",
-      "content": "Ben… Sen…"
+      "content": "Seni… Sen cidden…"
     },
     {
       "id": 7,
       "model": "변신크로머",
       "teller": "Kromer",
       "title": "Çivi ve Çekiç",
-      "content": "Sinclair, sen hep korkmuştun, değil mi? Aileni kaybettin ve bu yabancılarla otobüse binmek zorunda kaldın, istemediğin şeyleri yapmaya zorlandın."
+      "content": "Sinclair, en başından beri hep korkmuştun, değil mi? Aileni kaybettin ve bu yabancılarla otobüse binmek zorunda kaldın, istemediğin şeyleri yapmaya zorlandın."
     },
     {
       "id": 8,
@@ -58,12 +58,12 @@
       "model": "변신크로머",
       "teller": "Kromer",
       "title": "Çivi ve Çekiç",
-      "content": "Koşmak istemedin mi? Her şeyi bırakmak istemedin mi? Yanılıyor muyum?"
+      "content": "Kaçmak istemedin mi? Her şeyi bırakmak istemedin mi? Yanılıyor muyum?"
     },
     {
       "id": 10,
       "model": "싱클레어",
-      "content": "Yemin ederim ki ben…"
+      "content": "Yemin ederim, ben…"
     },
     {
       "id": 11,
@@ -78,7 +78,7 @@
     },
     {
       "id": 13,
-      "content": "Ancak yine de Kromer'a doğru yürümeye devam ediyor."
+      "content": "Ancak yine de Kromer'a doğru yürümeye devam etti."
     },
     {
       "id": 14,
