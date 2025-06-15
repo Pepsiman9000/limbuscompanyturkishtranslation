@@ -62,63 +62,63 @@
     },
     {
       "id": "announcer_disadvatk_physical_30_1",
-      "dlg": "- ... Perhaps we must first analyze the makeup of our troops.\n- If that appears to be unfeasible, then you must first establish a strategy."
+      "dlg": "- ... Belki askerlerimizin pozisyonlarını tekrar düşünmeliyiz.\n- Eğer bu uygulanamazsa, o zaman bir strateji üretmelisin."
     },
     {
       "id": "announcer_advatk_attr_30_1",
-      "dlg": "... Effective strike."
+      "dlg": "... Efektif Darbe."
     },
     {
       "id": "announcer_disadvatk_attr_30_1",
-      "dlg": "- Futile strike.\n- Zilu. Why unnecessarily narrate them of what they can naturally tell for themselves?\n- ... Ugh."
+      "dlg": "- Faydasız Darbe.\n- Zilu. Niye herkes ne olduğunu anlayabilirken boşuna anlatıyorsun?\n- ... Uff."
     },
     {
       "id": "announcer_enemy_specialbuff_30_1",
-      "dlg": "- Now, their strategy is revealed."
+      "dlg": "- Şimdi, stratejileri ortaya çıktı."
     },
     {
       "id": "announcer_enemy_specialdebuff_30_1",
-      "dlg": "- Their actions contradict their own. This is a rare opportunity; let us leverage it to solidify the victorious winds for our war flags."
+      "dlg": "- Yaptıkları, kendi söyledikleriyle çelişiyor. Bu nadir bir şans; savaş bayraklarımızı dalgalandıran zafer rüzgarını güçlendirmek için avantajımıza kullanalım."
     },
     {
       "id": "announcer_ally_specialbuff_30_1",
-      "dlg": "- Mistake, or an intended effect?\n- If the purpose cannot be divulged, then we must first contemplate its use."
+      "dlg": "- Hata, yada planlı?\n- Eğer amacı açıklanamıyorsa, o halde önce ne işe yarayacağını düşünmeliyiz.."
     },
     {
       "id": "announcer_ally_specialdebuff_30_1",
-      "dlg": "- They've employed tricks.\n- Observe them closely. This may be a difficult move to outmaneuver."
+      "dlg": "- Hile kullanmaya başladılar.\n- Yakından izleyin onları. Bu hamleyi bertaraf etmek zor olabilir."
     },
     {
       "id": "announcer_enemy_destroy_30_1",
-      "dlg": "- Hm. You have broken their wings."
+      "dlg": "- Hm. Onun kanatlarını kırdın."
     },
     {
       "id": "announcer_enemy_destroy_30_2",
-      "dlg": "- There is a meaningful gap of strength.\n- Like a ball of snow rolling downhill, our allies' advantages will grow with exponentiality."
+      "dlg": "- Farkedilebilir bir seviye güç farkı var aramızda.\n- Tepeden düşen kartopu gibi, müttefiklerimizin avantajları çok daha büyüyecek."
     },
     {
       "id": "announcer_round_takebigdmg_30_1",
-      "dlg": "- Ngh. Have we walked right into our foes' ambush?\n- Withdraw the men. I will—\n- ... No, I can maneuver us out of this quandary."
+      "dlg": "- Ihh. Düşmanlarımızın tuzağına mı yürüdük?\n- Herkesi geri çek. Ben—\n- ... Hayır, Bizi bu işten çıkarabilirim."
     },
     {
       "id": "announcer_round_takebigdmg_30_2",
-      "dlg": "- Be not so crestfallen. Certain things cannot be learned without facing them head-on.\n- Did they have to face it head-on with their lives, however?"
+      "dlg": "- Bu kadar yılgın olma. Bazı şeyler onları kendin yüzleşmediğin sürece öğrenilemez.\n- Onunla hayatlarını ortaya koyarak yüzleşmek zorunda mı kaldılar, peki?"
     },
     {
       "id": "announcer_round_givebigdmg_30_1",
-      "dlg": "- This move claims both their cannons and chariots. Your maneuver exceeds my expectations."
+      "dlg": "- Bu hamle, hem toplarını hem de savaş arabalarını aldı. Manevraların umduğumdan daha iyi."
     },
     {
       "id": "announcer_round_givebigdmg_30_2",
-      "dlg": "- You've cut off their limbs. Now, go for the throat."
+      "dlg": "- Uzuvlarını kestin. Şimdi, boğazı hedef al."
     },
     {
       "id": "announcer_multikillenemy_30_1",
-      "dlg": "- Hmph, there are many who know how to wield a blade. What matters is if their blade follows a path.\n- Simply compliment them if you enjoyed that display, Zilu. I cannot fathom why you would stay your praise for a commendable feat."
+      "dlg": "- Hmm, kılıç tutmayı bilen çok kişi var. Önemli olan kılıçlarının yollarını izlemesdir.\n- Gösteriyi sevdiysen iltifat verebilirsin, Zilu. Övgünü böylesine takdirlik bir başarıdan neden esirgediğini aklım almıyor."
     },
     {
       "id": "announcer_equip_30_1",
-      "dlg": "- I am Zigong, the strategist and the right-hand officer of my lord. Upon his orders, I will be taking command of your unit.\n- ... I'm Zilu."
+      "dlg": "- Ben Zigong, efendimin stratejisti ve sağ-kolu. Emirleri üzerine, Bu birliğin komutanlığını devralacağım.\n- ... Ben Zilu."
     }
   ]
 }
