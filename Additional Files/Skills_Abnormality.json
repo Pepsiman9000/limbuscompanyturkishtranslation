@@ -78,7 +78,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur +3 Kanama miktarı ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +3 [Laceration] miktarı uygula"
                 }
               ]
             }
@@ -97,7 +97,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Fragility] uygula"
                 }
               ]
             }
@@ -182,7 +182,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Yavaşlama ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 [Binding] uygula"
                 }
               ]
             }
@@ -213,7 +213,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Yanma ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 [Combustion] uygula"
                 }
               ]
             }
@@ -250,12 +250,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sarsıntı",
+          "name": "[Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 }
               ]
             }
@@ -273,7 +273,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur +3 Kanama miktarı ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur +3 [Laceration] miktarı uygula"
                 }
               ]
             }
@@ -328,7 +328,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonarki tur +1 Kanama Miktarı ver"
+                  "desc": "[OnSucceedAttackHead] Sonarki tur +1 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -347,7 +347,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Kanama Miktarı ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -365,10 +365,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Kanama Miktarı ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 [Laceration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Yanma Miktarı ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 [Combustion] Miktarı uygula"
                 }
               ]
             }
@@ -387,10 +387,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Kanama Miktarı ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 [Laceration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 Yanma Miktarı ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur +1 [Combustion] Miktarı uygula"
                 }
               ]
             }
@@ -408,7 +408,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki Tur 1 Yanma ver"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Combustion] uygula"
                 }
               ]
             }
@@ -470,7 +470,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Ana Vücut 3 HP iyileşir"
+                  "desc": "[OnSucceedAttack] 3 HP iyileşir"
                 }
               ]
             },
@@ -489,10 +489,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur +3 Kanama Miktarı ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur +3 [Laceration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Fragility] uygula"
                 }
               ]
             }
@@ -514,7 +514,7 @@
                   "desc": "[OnSucceedAttack] Ana Vücut 10 HP iyileşir"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 5 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 [Laceration] uygula"
                 }
               ]
             }
@@ -622,7 +622,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Hızlanma kazan"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Agility] kazan"
                 }
               ]
             }
@@ -749,14 +749,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 İstek ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 İstek uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 İstek ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 İstek uygula"
                 }
               ]
             }
@@ -794,12 +794,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Neşeli Dnas",
+          "name": "Neşeli Dans",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 İstek ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 İstek uygula"
                 }
               ]
             }
@@ -812,7 +812,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ekmekkazanma!",
+          "name": "Ekmek kazanma!",
           "coinlist": [
             {}
           ]
@@ -829,7 +829,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki Tur 2 Hızlanma kazan"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 2 [Agility] kazan"
                 }
               ]
             }
@@ -873,7 +873,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 Dürtü ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Dürtü uygula"
                 }
               ]
             }
@@ -903,7 +903,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Batış ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 [Sinking] uygula"
                 }
               ]
             }
@@ -933,7 +933,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Kanama ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 [Laceration] uygula"
                 }
               ]
             }
@@ -963,14 +963,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Fragility] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Fragility] uygula"
                 }
               ]
             }
@@ -1013,7 +1013,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki Tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 1 [Fragility] uygula"
                 }
               ]
             }
@@ -1056,7 +1056,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki Tur 1 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Binding] uygula"
                 }
               ]
             }
@@ -1075,14 +1075,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 SP hasarı ver"
+                  "desc": "[OnSucceedAttack] 5 SP hasarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 SP hasarı ver"
+                  "desc": "[OnSucceedAttack] 5 SP hasarı uygula"
                 }
               ]
             }
@@ -1096,7 +1096,7 @@
         {
           "level": 1,
           "name": "Kusurlu Taklit",
-          "desc": "Bu karakterin vurulduğu bir yeteneği kopyalar\n[WhenUse] 10 SP hasarı ver",
+          "desc": "Bu karakterin vurulduğu bir yeteneği kopyalar\n[WhenUse] 10 SP hasarı uygula",
           "coinlist": [
             {
               "coindescs": [
@@ -1144,7 +1144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 10 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 10 [Laceration] uygula"
                 }
               ]
             }
@@ -1162,21 +1162,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kanama ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kanama ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kanama ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Laceration] uygula"
                 }
               ]
             }
@@ -1194,14 +1194,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 4 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 4 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Fragility] uygula"
                 }
               ]
             }
@@ -1219,40 +1219,40 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 4 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 4 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Fragility] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 4 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 4 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Fragility] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 4 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 4 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Fragility] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 4 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Fragility] uygula"
                 }
               ]
             }
@@ -1270,10 +1270,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur +6 Kanama Miktarı ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur +6 [Laceration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur +6 Parçalanma Miktarı ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur +6 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -1304,7 +1304,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kanama ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Laceration] uygula"
                 }
               ]
             }
@@ -1334,14 +1334,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Laceration] uygula"
                 }
               ]
             }
@@ -1360,7 +1360,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -1380,7 +1380,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20 HP İyileştir; +5 Kanama miktarı ver"
+                  "desc": "[OnSucceedAttack] 20 HP İyileştir; +5 [Laceration] miktarı uygula"
                 }
               ]
             }
@@ -1399,21 +1399,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ve 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Laceration] ve 1 [Paralysis] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ve 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Laceration] ve 1 [Paralysis] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed and 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 4 [Laceration] ve 2 [Paralysis] uygula"
                 }
               ]
             }
@@ -1427,12 +1427,12 @@
         {
           "level": 1,
           "name": "Çırpınan Kollar",
-          "desc": "[DefeatDuel] 1 İçgüdüler kaybet",
+          "desc": "[DefeatDuel] 1 İçgüdü kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini 10 arttır; Sonraki tur 5 Yavaşlama ver"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini 10 arttır; Sonraki tur 5 [Binding] uygula"
                 }
               ]
             }
@@ -1459,26 +1459,26 @@
         {
           "level": 1,
           "name": "Acılı Kıvrılmalar",
-          "desc": "[WhenUse] 12 HP Kaybet; Sonraki tur 5 Kanama kazan",
+          "desc": "[WhenUse] 12 HP Kaybet; Sonraki tur 5 [Laceration] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 Zehir ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Poison] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 Zehir ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Poison] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 Zehir ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Poison] uygula"
                 }
               ]
             }
@@ -1492,19 +1492,19 @@
         {
           "level": 1,
           "name": "Acılı Çabalama",
-          "desc": "[WhenUse] 12 HP Kaybet; Sonraki tur +3 Kanama Miktarı ver",
+          "desc": "[WhenUse] 12 HP Kaybet; Sonraki tur +3 [Laceration] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 6 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 6 [Paralysis] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 6 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 6 [Paralysis] uygula"
                 }
               ]
             }
@@ -1535,7 +1535,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 6 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 6 [Laceration] uygula"
                 }
               ]
             }
@@ -1568,12 +1568,12 @@
         {
           "level": 1,
           "name": "Kahkaha",
-          "desc": "[WhenUse] 10 SP Hasarı ver",
+          "desc": "[WhenUse] 10 SP Hasarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur Attack Gücü Yükseltmesi 1 kazan"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Enhancement] kazan"
                 }
               ]
             }
@@ -1591,21 +1591,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Corp'un Çivilerinden ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Corp'un Çivilerinden uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Corp'un Çivilerinden ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Corp'un Çivilerinden uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Corp'un Çivilerinden ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 N Corp'un Çivilerinden uygula"
                 }
               ]
             }
@@ -1624,21 +1624,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 N Corp'un çivilerinden ver"
+                  "desc": "[OnSucceedAttack] 1 N Corp'un çivilerinden uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 N Corp'un çivilerinden ver"
+                  "desc": "[OnSucceedAttack] 1 N Corp'un çivilerinden uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 N Corp'un çivilerinden ver"
+                  "desc": "[OnSucceedAttack] 1 N Corp'un çivilerinden uygula"
                 }
               ]
             },
@@ -1690,7 +1690,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefi sersemlet ve Sonraki tur 10 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Hedefi sersemlet ve Sonraki tur 10 [Fragility] uygula"
                 }
               ]
             }
@@ -1717,7 +1717,7 @@
         {
           "level": 1,
           "name": "Sen Hiçbirşeysin",
-          "desc": "[OnSucceedEvade] 5 SP hasarı ver",
+          "desc": "[OnSucceedEvade] 5 SP hasarı uygula",
           "coinlist": [
             {}
           ]
@@ -1759,40 +1759,40 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Paralysis] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Paralysis] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Paralysis] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Paralysis] uygula"
                 }
               ]
             }
@@ -1810,20 +1810,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Paralysis] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Paralysis] uygula"
                 }
               ]
             }
@@ -1841,20 +1841,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Paralysis] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Paralysis] uygula"
                 }
               ]
             }
@@ -1884,30 +1884,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Fragility] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Fragility] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Fragility] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Laceration] uygula"
                 }
               ]
             }
@@ -1926,7 +1926,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Hedefin canı 30%un altında ise, onu öldür ve 30 HP iyileş\nSonraki tur 2 Saldırı Gücü Arttırma kazan"
+                  "desc": "[OnSucceedAttackHead] Hedefin canı 30%un altında ise, onu öldür ve 30 HP iyileş\nSonraki tur 2 [Enhancement] kazan"
                 }
               ]
             }
@@ -1945,10 +1945,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 5 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 [Fragility] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 5 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 [Laceration] uygula"
                 }
               ]
             }
@@ -1985,7 +1985,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Saldırı Gücü Azaltma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Reduction] uygula"
                 }
               ]
             }
@@ -2006,7 +2006,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Saldırı Gücü Azaltma ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 [Reduction] uygula"
                 }
               ]
             }
@@ -2027,14 +2027,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Fragility] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Kırılganlık ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 [Fragility] uygula"
                 }
               ]
             }
@@ -2049,13 +2049,13 @@
           "level": 1,
           "name": "Pressleyen Kese",
           "keywords": [
-            "Yavaşlatma"
+            "[Binding]"
           ],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Binding] uygula"
                 }
               ]
             }
@@ -2070,16 +2070,16 @@
           "level": 1,
           "name": "Kan Topu",
           "keywords": [
-            "Kanama"
+            "[Laceration]"
           ],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Kanama ver"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 20 Kanama Ver"
+                  "desc": "[OnSucceedAttackHead] 20 [Laceration] uygula"
                 }
               ]
             }
@@ -2094,14 +2094,14 @@
           "level": 1,
           "name": "Pıhtılama",
           "keywords": [
-            "Kanama"
+            "[Laceration]"
           ],
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 30 Kanama Ver"
+                  "desc": "[OnSucceedAttackHead] 30 [Laceration] uygula"
                 }
               ]
             }
@@ -2119,7 +2119,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Kanama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Laceration] uygula"
                 }
               ]
             }
@@ -2137,7 +2137,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Burst] uygula"
                 }
               ]
             }
@@ -2155,14 +2155,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 4 Parçalanma ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 4 [Burst] uygula"
                 }
               ]
             }
@@ -2180,10 +2180,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 4 Defans Gücü Azaltma ver"
+                  "desc": "[OnSucceedAttackHead] 4 [Disarming] uygula"
                 }
               ]
             }
@@ -2201,7 +2201,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Parçalanma ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 [Burst] uygula"
                 }
               ]
             }
@@ -2219,10 +2219,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 5 Parçalanma ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 5 [Burst] uygula"
                 }
               ]
             },
@@ -2247,7 +2247,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 10 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 10 [Burst] uygula"
                 }
               ]
             },
@@ -2272,10 +2272,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] 2 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 4 Savunma Gücü Azaltma ver"
+                  "desc": "[OnSucceedAttackHead] 4 [Disarming] uygula"
                 }
               ]
             }
@@ -2293,7 +2293,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Paralysis] uygula"
                 }
               ]
             }
@@ -2307,19 +2307,19 @@
         {
           "level": 1,
           "name": "Tokatla",
-          "desc": "[WhenUse] Sonraki tur 1 Saldırı Gücü Arttırma kazan",
+          "desc": "[WhenUse] Sonraki tur 1 [Enhancement] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 Kanama ve 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Laceration] ve 1 [Paralysis] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 Kanama ve 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Laceration] ve 1 [Paralysis] uygula"
                 }
               ]
             }
@@ -2337,7 +2337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Binding] uygula"
                 }
               ]
             }
@@ -2368,20 +2368,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Zehir Spreyi",
-          "desc": "[WhenUse] 6 HP Kaybet; Sonraki tur 5 Kanama kazan",
+          "name": "[Poison] Spreyi",
+          "desc": "[WhenUse] 6 HP Kaybet; Sonraki tur 5 [Laceration] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 Zehir ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Poison] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 Zehir ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Poison] uygula"
                 }
               ]
             }
@@ -2400,7 +2400,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 SP Hasarı ver"
+                  "desc": "[OnSucceedAttack] 5 SP Hasarı uygula"
                 }
               ]
             }
@@ -2423,7 +2423,7 @@
                   "desc": "[OnSucceedAttack] 7 HP İyileştir"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 3 Batış ver"
+                  "desc": "[OnSucceedAttackHead] 3 [Sinking] uygula"
                 }
               ]
             }
@@ -2437,7 +2437,7 @@
         {
           "level": 1,
           "name": "Kehğğk",
-          "desc": "Eğer kişi bu tur hasar almazsa, bütün müttefiklere 2 Saldırı Gücü Arttırma ver",
+          "desc": "Eğer kişi bu tur hasar almazsa, bütün müttefiklere 2 [Enhancement] uygula",
           "coinlist": [
             {}
           ]
@@ -2455,7 +2455,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Kırılganlık Ver"
+                  "desc": "[OnSucceedAttack] 1 [Fragility] uygula"
                 }
               ]
             }
@@ -2478,7 +2478,7 @@
                   "desc": "[OnSucceedAttack] 7 HP İyileştir"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 5 Kanama Ver"
+                  "desc": "[OnSucceedAttackHead] 5 [Laceration] uygula"
                 }
               ]
             }
@@ -2510,7 +2510,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 Hızlanma kazan"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Agility] kazan"
                 }
               ]
             }
@@ -2533,7 +2533,7 @@
                   "desc": "[OnSucceedAttack] 7 HP İyileştir"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Felç ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 [Paralysis] uygula"
                 }
               ]
             }
@@ -2565,7 +2565,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Felç Ver"
+                  "desc": "[OnSucceedAttack] 2 [Paralysis] uygula"
                 }
               ]
             }
@@ -2588,7 +2588,7 @@
                   "desc": "[OnSucceedAttack] 7 HP İyileştir"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 3 Felç Ver"
+                  "desc": "[OnSucceedAttack] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -2620,14 +2620,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 3 Kanama Ver"
+                  "desc": "[OnSucceedAttackHead] 3 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Parçalanma Ver"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             }
@@ -2646,7 +2646,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 3 Batış Ver"
+                  "desc": "[OnSucceedAttackHead] 3 [Sinking] uygula"
                 }
               ]
             }
@@ -2678,14 +2678,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Kanama Ver
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 3 Sarsıntı Ver"
+                  "desc": "[OnSucceedAttackHead] 3 [Vibration] uygula"
                 }
               ]
             }
@@ -2704,28 +2704,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Kanama Ver"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 3 Sarsıntı Ver"
+                  "desc": "[OnSucceedAttackHead] 3 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 1 Felç ve 5 Sarsıntı ver"
+                  "desc": "[OnSucceedAttackHead] 1 [Paralysis] ve 5 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması Tetikle"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] Tetikle"
                 }
               ]
             }
@@ -2739,12 +2739,12 @@
         {
           "level": 1,
           "name": "Keghgh!",
-          "desc": "En az SPye sahip kişiyi hedefler\n[OnSucceedAttack] Çiğ bir Tavuk oluştur",
+          "desc": "En az SPye sahip kişiyi hedefler\n[OnSucceedAttack] bir 'Çiğ Tavuk' çağır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Batış Ver"
+                  "desc": "[OnSucceedAttack] 5 [Sinking] uygula"
                 }
               ]
             }
@@ -2763,14 +2763,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Kanama Ver
+                  "desc": "[OnSucceedAttack] 5 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sarsıntı Patlaması Tetikle"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] Tetikle"
                 }
               ]
             }
@@ -2802,14 +2802,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Yanma Ver"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Yanma Ver"
+                  "desc": "[OnSucceedAttack] 3 [Combustion] uygula"
                 }
               ]
             }
@@ -2828,7 +2828,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +3 Yanma miktarı ver"
+                  "desc": "[OnSucceedAttack] +3 [Combustion] miktarı uygula"
                 }
               ]
             }
@@ -2847,7 +2847,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Yanma Ver"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Sersemleme Eşiğini vurulan hasarın %20si kadar arttır"
@@ -2857,7 +2857,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Yanma Ver"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Sersemleme Eşiğini vurulan hasarın %20si kadar arttır"
@@ -2867,7 +2867,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Yanma Ver"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Sersemleme Eşiğini vurulan hasarın %20si kadar arttır"
@@ -2906,15 +2906,15 @@
         {
           "level": 1,
           "name": "Isınmış Ağlamalar",
-          "desc": "[WinDuel] Sonraki tur 1 Hızlanma ve 1 Saldırı gücü arttırma kazan",
+          "desc": "[WinDuel] Sonraki tur 1 [Agility] ve 1 [Enhancement] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Dalgalanan Duygular ver"
+                  "desc": "[OnSucceedAttack] 1 Dalgalanan Duygular uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +3 Batış Miktarı ver"
+                  "desc": "[OnSucceedAttack] +3 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -2928,25 +2928,25 @@
         {
           "level": 1,
           "name": "Isınmış Bağırışlar",
-          "desc": "[WinDuel] Sonraki tur 1 Hızlanma ve 1 Saldırı gücü arttırma kazan",
+          "desc": "[WinDuel] Sonraki tur 1 [Agility] ve 1 [Enhancement] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Dalgalanan Duygular ver"
+                  "desc": "[OnSucceedAttack] 1 Dalgalanan Duygular uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 Batış Ver"
+                  "desc": "[OnSucceedAttack] 2 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Dalgalanan Duygular ver"
+                  "desc": "[OnSucceedAttack] 1 Dalgalanan Duygular uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 Batış Ver"
+                  "desc": "[OnSucceedAttack] 2 [Sinking] uygula"
                 }
               ]
             }
@@ -3022,7 +3022,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Kanama ve +2 Kanama miktarı ver"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] ve +2 [Laceration] miktarı uygula"
                 }
               ]
             }
@@ -3041,14 +3041,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Kanama ve +2 Kanama miktarı ver"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] ve +2 [Laceration] miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Yavaşlama ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Binding] uygula"
                 }
               ]
             }
@@ -3067,10 +3067,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Kırılgan Ver"
+                  "desc": "[OnSucceedAttack] 2 [Fragility] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Yavaşlama ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 [Binding] uygula"
                 }
               ]
             }
@@ -3084,13 +3084,13 @@
         {
           "level": 1,
           "name": "Elektrik Yükü",
-          "desc": "[WhenUse] 1 Öz-Yük kazan\nFelç hedeflere %10 daha fazla hasar vur",
+          "desc": "[WhenUse] 1 Öz-Yük kazan\n[Paralysis] hedeflere %10 daha fazla hasar vur",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Felç Ver"
+                  "desc": "[OnSucceedAttack] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -3104,14 +3104,14 @@
         {
           "level": 1,
           "name": "Elektrik Salımı",
-          "desc": "[WhenUse] 1 Öz-Yük kazan\nFelç hedeflere %10 daha fazla hasar vur",
+          "desc": "[WhenUse] 1 Öz-Yük kazan\n[Paralysis] hedeflere %10 daha fazla hasar vur",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Felç Ver"
+                  "desc": "[OnSucceedAttack] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -3125,19 +3125,19 @@
         {
           "level": 1,
           "name": "Elektrik Salımı",
-          "desc": "[WhenUse] 1 Öz-Yük kazan\nFelç hedeflere %10 daha fazla hasar vur",
+          "desc": "[WhenUse] 1 Öz-Yük kazan\n[Paralysis] hedeflere %10 daha fazla hasar vur",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Kırılganlık Ver"
+                  "desc": "[OnSucceedAttack] 2 [Fragility] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Felç Ver"
+                  "desc": "[OnSucceedAttack] 5 [Paralysis] uygula"
                 }
               ]
             }
@@ -3156,17 +3156,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Kırılganlık Ver"
+                  "desc": "[OnSucceedAttack] 2 [Fragility] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefte Kapasitör var ise, Hasarın %40ını Sabit Hasar olarak ver"
+                  "desc": "[OnSucceedAttack] Hedefte [ElectricStorage} var ise, Hasarın %40ını Sabit Hasar olarak uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 3 Felç ve 1 Kapasitör ver"
+                  "desc": "[OnSucceedAttack] 3 [Paralysis] ve 1 [ElectricStorage} uygula"
                 }
               ]
             }
@@ -3199,7 +3199,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Felç Ver"
+                  "desc": "[OnSucceedAttack] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -3220,7 +3220,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Felç ver"
+                  "desc": "[OnSucceedAttack] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -3239,7 +3239,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Batış Ver"
+                  "desc": "[OnSucceedAttack] 3 [Sinking] uygula"
                 }
               ]
             }
@@ -3258,14 +3258,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +2 Batış Miktarı ver"
+                  "desc": "[OnSucceedAttack] +2 [Sinking] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Batış Ver"
+                  "desc": "[OnSucceedAttack] 3 [Sinking] uygula"
                 }
               ]
             }
@@ -3284,14 +3284,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -3310,17 +3310,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +2 Parçalanma Miktarı ver"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 2 Parçalanma ver"
+                  "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                 }
               ]
             }
@@ -3339,7 +3339,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Batış Ver"
+                  "desc": "[OnSucceedAttack] 5 [Sinking] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Her Eski Şemsiye için %15 hasar vur"
@@ -3369,12 +3369,12 @@
         {
           "level": 1,
           "name": "Dolanan Tılsım",
-          "desc": "[WhenUse] 2 Dolanmış Lanet Tılsımı ver",
+          "desc": "[WhenUse] 2 Dolanmış Lanet Tılsımı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Parçalanma ve +2 Parçalanma Miktarı ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Burst] ve +2 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -3388,26 +3388,26 @@
         {
           "level": 1,
           "name": "Toplanan Lanet",
-          "desc": "[WhenUse] 1 Dolanmış Lanet Tılsımı ver",
+          "desc": "[WhenUse] 1 Dolanmış Lanet Tılsımı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Dolanmış Lanet Tılsımına göre Dolanmış Lanet Tılsımı ver"
+                  "desc": "[OnSucceedAttack] Dolanmış Lanet Tılsımına göre Dolanmış Lanet Tılsımı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 5 Parçalanma ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 5 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Parçalanma ve +2 Parçalanma miktarı ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 [Burst] ve +2 [Burst] miktarı uygula"
                 }
               ]
             }
@@ -3430,10 +3430,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 5 Felç ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 [Paralysis] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 5 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 5 [Binding] uygula"
                 }
               ]
             }
@@ -3460,7 +3460,7 @@
         {
           "level": 1,
           "name": "Çoğalan Lanet",
-          "desc": "[WhenUse] Hedefin Dolanmış Lanet Tılsımına göre Dolanmış Lanet Tılsımı ver",
+          "desc": "[WhenUse] Hedefin Dolanmış Lanet Tılsımına göre Dolanmış Lanet Tılsımı uygula",
           "coinlist": [
             {}
           ]
@@ -3473,12 +3473,12 @@
         {
           "level": 1,
           "name": "Sarhoş Olmak İster misin?",
-          "desc": "Bir çarpışmada, 1 Moral Arttırma ver",
+          "desc": "Bir çarpışmada, 1 Moral Arttırma uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Sarsıntı ve +2 Sarsıntı miktarı ver"
+                  "desc": "[OnSucceedAttack] 5 [Vibration] ve +2 [Vibration] miktarı uygula"
                 }
               ]
             }
@@ -3492,12 +3492,12 @@
         {
           "level": 1,
           "name": "İçeceği Paylaşalım!",
-          "desc": "Bir çarpışmada, 1 Moral Arttırma ver\n[WhenUse] 5% HP İyileştir",
+          "desc": "Bir çarpışmada, 1 Moral Arttırma uygula\n[WhenUse] 5% HP İyileştir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki 2 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki 2 [Binding] uygula"
                 }
               ]
             }
@@ -3511,13 +3511,13 @@
         {
           "level": 1,
           "name": "Elimde Olan Herşey Bu!",
-          "desc": "Bir çarpışmada, 2 Moral Arttırma ver\nSarsınıtya sahip hedeflere öncelik ver",
+          "desc": "Bir çarpışmada, 2 Moral Arttırma uygula\nSarsınıtya sahip hedeflere öncelik uygula",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefteki Sarsıntı miktarına göre Sarsıntı Patlaması tetikle"
+                  "desc": "[OnSucceedAttack] Hedefteki [Vibration] miktarına göre [VibrationExplosion] tetikle"
                 }
               ]
             }
@@ -3531,7 +3531,7 @@
         {
           "level": 1,
           "name": "Bunu Ben Alacağım!",
-          "desc": "[CantDuel]\nYönlendirilemez\nMoral Arttırmaya sahip hedeflere öncelik ver\nHedefte içkili efekti yoksa, Çatışma Gücü +5",
+          "desc": "[CantDuel]\nYönlendirilemez\nMoral Arttırmaya sahip hedeflere öncelik uygula\nHedefte içkili efekti yoksa, Çatışma Gücü +5",
           "coinlist": [
             {
               "coindescs": [
@@ -3556,7 +3556,7 @@
         {
           "level": 1,
           "name": "Bunu Ben Alacağım!",
-          "desc": "Moral Arttırmaya sahip hedeflere öncelik ver\nHedefte içkili efekti yoksa, Çatışma Gücü +5",
+          "desc": "Moral Arttırmaya sahip hedeflere öncelik uygula\nHedefte içkili efekti yoksa, Çatışma Gücü +5",
           "coinlist": [
             {
               "coindescs": [
@@ -3581,12 +3581,12 @@
         {
           "level": 1,
           "name": "Bu Sefer Değil!",
-          "desc": "Peri Şarabına öncelik verir",
+          "desc": "Peri Şarabına öncelik uygulair",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Bu Peri Şarabına saldırırsa, sonraki tur 10% HP İyileştir, ve 2 Saldırı Gücü Arttırma, 2 Hızlandırma, and 2 Koruma kazan"
+                  "desc": "[OnSucceedAttack] Bu Peri Şarabına saldırırsa, sonraki tur 10% HP İyileştir, ve 2 [Enhancement], 2 Hızlandırma, and 2 Koruma kazan"
                 }
               ]
             }
@@ -3600,7 +3600,7 @@
         {
           "level": 1,
           "name": "Bu Demlemeyi Sevdin Mi?",
-          "desc": "[WhenUse] Sonraki tur 1 Yavaşlatma kazan",
+          "desc": "[WhenUse] Sonraki tur 1 [Binding] kazan",
           "coinlist": [
             {}
           ]
@@ -3626,7 +3626,7 @@
         {
           "level": 1,
           "name": "Saçılan Hüzüntü",
-          "desc": "[EndSkill] Bütün düşmanlara +2 Parçalanma miktarı ve +2 Batış miktarı ver",
+          "desc": "[EndSkill] Bütün düşmanlara +2 [Burst] miktarı ve +2 [Sinking] miktarı uygula",
           "coinlist": [
             {}
           ]
@@ -3644,21 +3644,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ve 2 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Sinking] ve 2 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ve 2 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Sinking] ve 2 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Batış ve 2 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Sinking] ve 2 [Burst] uygula"
                 }
               ]
             }
@@ -3677,14 +3677,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +2 Batış miktarı ver"
+                  "desc": "[OnSucceedAttack] +2 [Sinking] miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +2 Parçalanma miktarı ver"
+                  "desc": "[OnSucceedAttack] +2 [Burst] miktarı uygula"
                 }
               ]
             }
@@ -3698,12 +3698,12 @@
         {
           "level": 1,
           "name": "Kendini-savunma",
-          "desc": "[DefeatDuel] 8 SP kaybet ve 3 Batış kazan",
+          "desc": "[DefeatDuel] 8 SP kaybet ve 3 [Sinking] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 2 Yavaşlatma ve 2 Saldırı Gücü Azaltma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Binding] ve 2 [Reduction] uygula"
                 }
               ]
             }
@@ -3722,14 +3722,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +3 Parçalanma miktarı ver."
+                  "desc": "[OnSucceedAttack] +3 [Burst] miktarı uygula."
                 },
                 {
                   "desc": "[OnSucceedAttack] Sersemleme Eşiğini vurulan hasarın %50si kadar arttır"
@@ -3746,7 +3746,7 @@
         {
           "level": 1,
           "name": "Hepsini Batır",
-          "desc": "[WhenUse] 30 SP kaybet ve 5 Batış kazan; Sonraki tur Yıpranan Kalp kazan",
+          "desc": "[WhenUse] 30 SP kaybet ve 5 [Sinking] kazan; Sonraki tur Yıpranan Kalp kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -3754,7 +3754,7 @@
                   "desc": "[OnSucceedAttack] Hedef 15 SP Kaybeder."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 8 Batış ve 8 Zehir ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 8 [Sinking] ve 8 [Poison] uygula"
                 }
               ]
             }
@@ -3799,20 +3799,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme uygula"
                 }
               ]
             }
@@ -3831,14 +3831,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Çiçeklenme ver"
+                  "desc": "[OnSucceedAttack] 2 Çiçeklenme uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Çiçeklenme ver"
+                  "desc": "[OnSucceedAttack] 2 Çiçeklenme uygula"
                 }
               ]
             }
@@ -3857,10 +3857,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 3 Çiçeklenme ver"
+                  "desc": "[OnSucceedAttack] 3 Çiçeklenme uygula"
                 }
               ]
             }
@@ -3879,14 +3879,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Çiçeklenme Ver"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Çiçeklenme Ver"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme uygula"
                 }
               ]
             },
@@ -3909,7 +3909,7 @@
                   "desc": "[OnSucceedAttack] Hedef 15 SP Kaybeder"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 3 Çiçeklenme ver"
+                  "desc": "[OnSucceedAttack] 3 Çiçeklenme uygula"
                 }
               ]
             }
@@ -3923,7 +3923,7 @@
         {
           "level": 1,
           "name": "Toprak İle Örtmeliyim",
-          "desc": "[WhenUse] Sonraki tur Duello ver",
+          "desc": "[WhenUse] Sonraki tur Duello uygula",
           "coinlist": [
             {}
           ]
@@ -3974,17 +3974,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] 2 [Fragility] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] 5 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +5 Parçalanma miktarı ver"
+                  "desc": "[OnSucceedAttack] +5 [Burst] miktarı uygula"
                 }
               ]
             }
@@ -3998,7 +3998,7 @@
         {
           "level": 1,
           "name": "Cazip Koku",
-          "desc": "[OnSucceedEvade] 1 Çiçeklenme ver",
+          "desc": "[OnSucceedEvade] 1 Çiçeklenme uygula",
           "coinlist": [
             {}
           ]
@@ -4029,7 +4029,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Çiçeklenme Ver"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme uygula"
                 }
               ]
             }
@@ -4048,14 +4048,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme uygula"
                 }
               ]
             }
@@ -4074,21 +4074,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Çiçeklenme ver"
+                  "desc": "[OnSucceedAttack] 1 Çiçeklenme uygula"
                 }
               ]
             }
@@ -4141,12 +4141,12 @@
         {
           "level": 1,
           "name": "Sende Boşsun",
-          "desc": "[WhenUse] Sonraki tur Boş Damga ver",
+          "desc": "[WhenUse] Sonraki tur Boş Damga uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 10 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] 10 [Burst] uygula"
                 }
               ]
             }
@@ -4165,14 +4165,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Parçalanma Ver"
+                  "desc": "[OnSucceedAttack] 5 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -4191,7 +4191,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı uygula"
                 }
               ]
             },
@@ -4212,19 +4212,19 @@
         {
           "level": 1,
           "name": "İnceltme",
-          "desc": "Boş Damgaya sahip hedeflere %50 daha fazla hasar vur\n[DefeatDuel] Sonraki tur 1 Kırılganlık kazan",
+          "desc": "Boş Damgaya sahip hedeflere %50 daha fazla hasar vur\n[DefeatDuel] Sonraki tur 1 [Fragility] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Vurulan hasara göre iyileş\nHedefte Boş Damga var ise, sonraki tur 1 Saldırı Gücü Arttırma kazan"
+                  "desc": "[OnSucceedAttack] Vurulan hasara göre iyileş\nHedefte Boş Damga var ise, sonraki tur 1 [Enhancement] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Vurulan hasara göre iyileş\nHedefte Boş Damga var ise, sonraki tur 1 Saldırı Gücü Arttırma kazan"
+                  "desc": "[OnSucceedAttack] Vurulan hasara göre iyileş\nHedefte Boş Damga var ise, sonraki tur 1 [Enhancement] kazan"
                 }
               ]
             }
@@ -4243,7 +4243,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 10 Kanama Ver"
+                  "desc": "[OnSucceedAttack] 10 [Laceration] uygula"
                 }
               ]
             }
@@ -4262,14 +4262,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Kanama Ver; Vurulan hasarın 25% kadar iyileş"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula; Vurulan hasarın 25% kadar iyileş"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Kanama Ver; Vurulan hasarın 25% kadar iyileş"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula; Vurulan hasarın 25% kadar iyileş"
                 }
               ]
             },
@@ -4302,7 +4302,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +5 Kanama Miktarı ver"
+                  "desc": "[OnSucceedAttack] +5 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -4316,7 +4316,7 @@
         {
           "level": 1,
           "name": "Hepsi Boş",
-          "desc": "[DefeatDuel] 10 Parçalanma Kazan",
+          "desc": "[DefeatDuel] 10 [Burst] Kazan",
           "coinlist": [
             {}
           ]
@@ -4334,7 +4334,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 5 Kırılganlık Ver"
+                  "desc": "[OnSucceedAttack] 5 [Fragility] uygula"
                 }
               ]
             }
@@ -4353,7 +4353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Kırılganlık, 5 Parçalanma, and 5 Kanama ver; Vurulan hasarın 10%u kadar iyileş"
+                  "desc": "[OnSucceedAttack] 2 [Fragility], 5 [Burst], and 5 [Laceration] uygula; Vurulan hasarın 10%u kadar iyileş"
                 }
               ]
             }
@@ -4385,14 +4385,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Yavaşlatma ve 1 Felç ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Binding] ve 1 [Paralysis] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Yavaşlatma ve 1 Felç ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Binding] ve 1 [Paralysis] uygula"
                 }
               ]
             }
@@ -4411,21 +4411,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Fragility] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki tur 3 Tohumlar ver"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Tohumlar uygula"
                 }
               ]
             }
@@ -4444,21 +4444,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Tohumlar ver; hedefte zaten Tohumlar var ise, 1 kere daha ver"
+                  "desc": "[OnSucceedAttack] 1 Tohumlar uygula; hedefte zaten Tohumlar var ise, 1 kere daha uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Tohumlar ver; hedefte zaten Tohumlar var ise, 1 kere daha ver
+                  "desc": "[OnSucceedAttack] 1 Tohumlar uygula; hedefte zaten Tohumlar var ise, 1 kere daha uygula
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Tohumlar ver; hedefte zaten Tohumlar var ise, 1 kere daha ver"
+                  "desc": "[OnSucceedAttack] 1 Tohumlar uygula; hedefte zaten Tohumlar var ise, 1 kere daha uygula"
                 }
               ]
             }
@@ -4477,7 +4477,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Tohumlar ver ve Aşırı İyileş; Hedefi 15 HP iyileştirir"
+                  "desc": "[OnSucceedAttack] 3 Tohumlar uygula ve Aşırı İyileş; Hedefi 15 HP iyileştirir"
                 }
               ]
             }
@@ -4496,7 +4496,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Kırılganlık ve 10 Kanama ver\nHedefte Besin Drenajı var ise, 20 HP iyileş, ve sonraki tur 2 Saldırı Gücü Arttırma kazan"
+                  "desc": "[OnSucceedAttack] 3 [Fragility] ve 10 [Laceration] uygula\nHedefte Besin Drenajı var ise, 20 HP iyileş, ve sonraki tur 2 [Enhancement] kazan"
                 }
               ]
             }
@@ -4515,7 +4515,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 10 HP iyileş; 3 Tohumlar ver"
+                  "desc": "[OnSucceedAttack] 10 HP iyileş; 3 Tohumlar uygula"
                 }
               ]
             }
@@ -4534,14 +4534,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Tohumlar ver"
+                  "desc": "[OnSucceedAttack] 1 Tohumlar uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 Tohumlar ver"
+                  "desc": "[OnSucceedAttack] 1 Tohumlar uygula"
                 }
               ]
             }
@@ -4573,10 +4573,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +3 Parçalanma Miktarı ver"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] +2 Sarsıntı Miktarı ver"
+                  "desc": "[OnSucceedAttackHead] +2 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -4595,10 +4595,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] +2 Sarsıntı Miktarı ver"
+                  "desc": "[OnSucceedAttackHead] +2 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -4617,17 +4617,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +3 Sarsıntı Miktarı ver"
+                  "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 3 Sarsıntı ver"
+                  "desc": "[OnSucceedAttackHead] 3 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Defans Gücü Azaltma ver"
+                  "desc": "[OnSucceedAttack] 2 [Disarming] uygula"
                 }
               ]
             }
@@ -4641,12 +4641,12 @@
         {
           "level": 1,
           "name": "Yaklaşan Kökler",
-          "desc": "[WinDuel] Hedefte Parçalanma var ise, +2 Parçalanma Miktarı ver",
+          "desc": "[WinDuel] Hedefte [Burst] var ise, +2 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             }
@@ -4665,7 +4665,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefin Parçalanma Miktarına göre Sarsıntı ver"
+                  "desc": "[OnSucceedAttack] Hedefin [Burst] Miktarına göre [Vibration] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack]  [VibrationExplosion] Tetikle"
@@ -4700,13 +4700,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefte Kanama var ise, 1 Felç ver"
+                  "desc": "[OnSucceedAttack] Hedefte [Laceration] var ise, 1 [Paralysis] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +3 Kanama Miktarı ver"
+                  "desc": "[OnSucceedAttack] +3 [Laceration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefte +2 Kanama Miktarı var ise, 5 Kanama ver"
+                  "desc": "[OnSucceedAttack] Hedefte +2 [Laceration] Miktarı var ise, 5 [Laceration] uygula"
                 }
               ]
             }
@@ -4725,10 +4725,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefte Kanama var ise, 1 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttack] Hedefte [Laceration] var ise, 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 3 Kanama ver"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 }
               ]
             }
@@ -4747,17 +4747,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 Kanama ver"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Hedefte Kanama var ise, 20 HP iyileş"
+                  "desc": "[OnSucceedAttack] Hedefte [Laceration] var ise, 20 HP iyileş"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedefte +2 Kanama Miktarı var ise, 5 Kanama ver"
+                  "desc": "[OnSucceedAttack] Hedefte +2 [Laceration] Miktarı var ise, 5 [Laceration] uygula"
                 }
               ]
             }
@@ -4771,12 +4771,12 @@
         {
           "level": 1,
           "name": "Gölgelendirme",
-          "desc": "[WhenUse] Sonraki tur Devasa Yonca oluştur\n[WhenUse] Her Kanama Miktarı için 5% fazladan hasar vur\n[DefeatDuel] Dev Yonca 70% Can ile oluşur",
+          "desc": "[WhenUse] Sonraki tur Devasa Yonca oluştur\n[WhenUse] Her [Laceration] Miktarı için 5% fazladan hasar vur\n[DefeatDuel] Dev Yonca 70% Can ile oluşur",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Bütün Kanama Miktarını kaldır"
+                  "desc": "[OnSucceedAttack] Bütün [Laceration] Miktarını kaldır"
                 }
               ]
             }
@@ -4795,7 +4795,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedfteki her [Laceration] başına 1% HP iyileş\nBütün Kanama Miktarını kaldır"
+                  "desc": "[OnSucceedAttack] Hedfteki her [Laceration] başına 1% HP iyileş\nBütün [Laceration] Miktarını kaldır"
                 }
               ]
             }
@@ -4870,7 +4870,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Yavaşlatma ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 [Binding] uygula"
                 }
               ]
             }
@@ -4901,7 +4901,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Yanma ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 [Combustion] uygula"
                 }
               ]
             }
@@ -4931,7 +4931,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 Batış ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 3 [Sinking] uygula"
                 }
               ]
             }
@@ -4961,7 +4961,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Kanama ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 [Laceration] uygula"
                 }
               ]
             }
@@ -4991,14 +4991,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Fragility] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kırılganlık ver"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Fragility] uygula"
                 }
               ]
             }
@@ -5012,7 +5012,7 @@
         {
           "level": 1,
           "name": "Kraliçe'nin Fermanı",
-          "desc": "[StartBattle]  [PreparedMeat] olmayan bir müttefiğe 1 [PreparedMeat] ver",
+          "desc": "[StartBattle]  [PreparedMeat] olmayan bir müttefiğe 1 [PreparedMeat] uygula",
           "coinlist": [
             {}
           ]
@@ -5029,7 +5029,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı ver"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
@@ -5050,7 +5050,7 @@
         {
           "level": 1,
           "name": "Predation",
-          "desc": "If the target has 5+ [Laceration], Coin Power +1",
+          "desc": "Eğer hedefte 5+ [Laceration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5074,21 +5074,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 [Laceration] ver"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 [Laceration] ver"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 3 [Laceration] ver"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 }
               ]
             }
@@ -5102,7 +5102,7 @@
         {
           "level": 1,
           "name": "Çılgın Açlık",
-          "desc": "[CantIdentify]\n[PreparedMeat] e sahip olan hedeflere öncelik verir\nHedefte 5+ [Laceration] var ise, Jeton Gücü +1\nHedefte [PreparedMeat] var ise, Jeton Gücü +10\nHer Kırık Kol parçası için Jeton Gücü -5\n[TargetKill] Bütün parçalar bütün karşılaşma boyunca 2 [Enhancement] kazanır (stackable)",
+          "desc": "[CantIdentify]\n[PreparedMeat] e sahip olan hedeflere öncelik uygulair\nHedefte 5+ [Laceration] var ise, Jeton Gücü +1\nHedefte [PreparedMeat] var ise, Jeton Gücü +10\nHer Kırık Kol parçası için Jeton Gücü -5\n[TargetKill] Bütün parçalar bütün karşılaşma boyunca 2 [Enhancement] kazanır (stackable)",
           "coinlist": [
             {
               "coindescs": [
@@ -5110,7 +5110,7 @@
                   "desc": "[OnSucceedAttackHead] Jetonu Tek Seferlik yeniden kullan (Yetenek başı 3 kere)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Çekirdek 10 HP iyileşir"
+                  "desc": "[OnSucceedAttack] 10 HP iyileşir"
                 }
               ]
             }
@@ -5136,7 +5136,7 @@
         {
           "level": 1,
           "name": "Bakımım için Ödeme Vakti",
-          "desc": "[StartBattle]  [PreparedMeat] e sahip olmayan bütün müttefiklere 1 [PreparedMeat] ver",
+          "desc": "[StartBattle]  [PreparedMeat] e sahip olmayan bütün müttefiklere 1 [PreparedMeat] uygula",
           "coinlist": [
             {}
           ]
@@ -5182,7 +5182,7 @@
                   "desc": "[OnSucceedAttack] Çekirdek 10 HP iyileşir"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı ver"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -5201,21 +5201,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 [Laceration] ver"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 [Laceration] ver"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 [Laceration] ver"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 }
               ]
             }
