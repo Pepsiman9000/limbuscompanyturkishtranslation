@@ -522,7 +522,7 @@
     },
     {
       "id": "babayaga_alert",
-      "content": "{0} şansın kaldı."
+      "content": "{0} adet şansın kaldı."
     },
     {
       "id": "battle_operation_offset",
@@ -534,11 +534,11 @@
     },
     {
       "id": "cantIdentify",
-      "content": "<color=#ff0000>[Ayrım Gözetmeyez]</color>"
+      "content": "<color=#ff0000>[Ayrım Gözetmez]</color>"
     },
     {
       "id": "popup_message_ego_irrevocable",
-      "content": "E.G.O Skills generated on previous turns cannot be canceled."
+      "content": "Önceki turlarda oluşturulan E.G.O Yetenekleri iptal edilemez."
     },
     {
       "id": "stock",
@@ -570,19 +570,19 @@
     },
     {
       "id": "EGOSelectUI_resources_lack",
-      "content": "You lack sufficient resources.\nPlease check the symbols."
+      "content": "Yeterli kaynağınız yok.\nLütfen sembolleri kontrol edin."
     },
     {
       "id": "EGOSelectUI_DetailInfo",
-      "content": "Details"
+      "content": "Detaylar"
     },
     {
       "id": "ab_part_destroyable",
-      "content": "Destructible"
+      "content": "Yıkılabilir"
     },
     {
       "id": "ab_part_destroyable_and_can_vanish",
-      "content": "Destr. & Severable"
+      "content": "Yıkılabilir & Kopartıralabilir"
     },
     {
       "id": "ab_guidebook_view",
@@ -590,43 +590,43 @@
     },
     {
       "id": "show_BattleAblityUI",
-      "content": "Display detailed info UI in Combat Phase"
+      "content": "Savaş Aşamasında detaylı bilgi arayüzünü göster"
     },
     {
       "id": "Ahab_NotTarget_Onece",
-      "content": "Where my Harpoon must strike..."
+      "content": "Zıpkınımın hedef alması gereken yer..."
     },
     {
       "id": "Ahab_NotTarget_Twice",
-      "content": "... Sometimes, the answer isn't right before me."
+      "content": "... Bazen cevap tam önümde değildir."
     },
     {
       "id": "Ahab_NotTarget_Thrice",
-      "content": "Sometimes, to move forward...\n... I have to turn and look beside me."
+      "content": "Bazen ilerlemek için...\n... arkamı dönüp yanımadakine bakmalıyım."
     },
     {
       "id": "show_BattleUnitAblityUI",
-      "content": "Show active effects UI in Combat Phase"
+      "content": "Savaş Aşamasında aktif efektler arayüzünü göster"
     },
     {
       "id": "LobotomyStartTypo_Title_1",
-      "content": "The Dawn of Green"
+      "content": "Yeşilin Şafağı"
     },
     {
       "id": "LobotomyStartTypo_Name_1",
-      "content": "Doubt"
+      "content": "Şüphe"
     },
     {
       "id": "LobotomyStartTypo_Desc_1",
-      "content": "One day, a question crossed through my mind. Where do we come from? We were given life and left in this world against our own volition."
+      "content": "Bir gün aklıma bir soru takıldı. Biz nereden geliyoruz? İrademiz dışında bu dünyaya bırakıldık ve hayat verildi."
     },
     {
       "id": "LobotomyStartTypo_KillCountTitle_1",
-      "content": "Suppression Status"
+      "content": "Bastırma Durumu"
     },
     {
       "id": "LobotomyClearTypo_Title_1",
-      "content": "The Dawn of Green"
+      "content": "Yeşilin Şafağı"
     },
     {
       "id": "LobotomyClearTypo_Name_1",
@@ -642,19 +642,19 @@
     },
     {
       "id": "LobotomyEndTypo_Desc",
-      "content": "Şuanki 'Olay' Varlıkları: {0}"
+      "content": "Mevcut 'Olay' Varlıkları: {0}"
     },
     {
       "id": "abnormality_all_part",
-      "content": "Bütün Uzuvlar"
+      "content": "Tüm Uzuvlar"
     },
     {
       "id": "applying_buff_format",
-      "content": "{0} Aktifleştirilmiş"
+      "content": "{0} Aktifleştirildi"
     },
     {
       "id": "level_number_UNDEF",
-      "content": "Bilinmeyen"
+      "content": "Bilinmiyor"
     },
     {
       "id": "level_number_HYPHEN",
@@ -666,7 +666,7 @@
     },
     {
       "id": "vibration_fusion",
-      "content": "Amplitude Entanglement!"
+      "content": "Genlik Dönüşümü"
     },
     {
       "id": "BatonPassUIText",
@@ -698,7 +698,7 @@
     },
     {
       "id": "no_break_section",
-      "content": "Sersemleme EŞİĞİ yOK"
+      "content": "Sersemleme EŞİĞİ YOK"
     },
     {
       "id": "correction_based_on_unit_keyword",
@@ -726,7 +726,7 @@
     },
     {
       "id": "LobotomyOrdealTypo_QliphothLevel",
-      "content": "Klipoth Erimesi - Seviye {0}"
+      "content": "Klipot Erimesi - Seviye {0}"
     },
     {
       "id": "SinkingWhite_stack",
@@ -750,7 +750,7 @@
     },
     {
       "id": "Retreat_TextPassive",
-      "content": "Geri Çekliyior"
+      "content": "Geri Çekiliyor"
     },
     {
       "id": "battle_operation_defense",
@@ -762,11 +762,11 @@
     },
     {
       "id": "battle_StageBuffUI_Stackdesc",
-      "content": "(Şuanki Değer: {0})"
+      "content": "(Mevcut Değer: {0})"
     },
     {
       "id": "EGOSelectUI_not_allow",
-      "content": "Bu E.G.O şuanda kullanılamıyor"
+      "content": "Bu E.G.O şu anda kullanılamıyor"
     },
     {
       "id": "laceration_surge",
@@ -778,11 +778,12 @@
     },
     {
       "id": "septempeccata_classification",
-      "content": "Class {0}"
+      "content": "{0}. Sınıf "
     },
     {
       "id": "run_forBattlePortraitStateText",
       "content": "KAÇTI"
+    }
     }
   ]
 }
