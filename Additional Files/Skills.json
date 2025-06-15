@@ -1045,7 +1045,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 2 Kanama uygula"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -1074,21 +1074,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 1 kanama uygula"
+                  "desc": "[OnSucceedAttackHead] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 1 kanama uygula"
+                  "desc": "[OnSucceedAttackHead] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Kanama +2 sayısı"
+                  "desc": "[OnSucceedAttack] [Laceration] +2 sayısı"
                 }
               ]
             }
@@ -1114,13 +1114,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rip",
+          "name": "Yırt",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             }
@@ -1128,16 +1128,16 @@
         },
         {
           "level": 2,
-          "name": "Rip",
+          "name": "Yırt",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] +2 [[Charge]] Sayısı kazan."
+                  "desc": "[OnSucceedAttackHead] +2 [Charge] Miktarı kazan."
                 }
               ]
             }
@@ -1145,16 +1145,16 @@
         },
         {
           "level": 4,
-          "name": "Rip",
-          "desc": "At 5+ [Charge] Count, Coin Power +2",
+          "name": "Yırt",
+          "desc": "5+ [Charge] Miktarında, Jeton Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +4 [Charge] Count"
+                  "desc": "[OnSucceedAttackHead] +4 [Charge] Miktarı kazan"
                 }
               ]
             }
@@ -1167,7 +1167,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Atılma",
+          "name": "Atılım",
           "desc": "",
           "coinlist": [
             {},
@@ -1175,7 +1175,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Vulnerable]"
+                  "desc": "[OnSucceedAttackHead] 1 [Vulnerable] uygula"
                 }
               ]
             }
@@ -1183,27 +1183,27 @@
         },
         {
           "level": 2,
-          "name": "Atılma",
+          "name": "Atılım",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Vulnerable]"
+                  "desc": "[OnSucceedAttackHead] 2 [Vulnerable] uygula"
                 }
               ]
             }
@@ -1211,27 +1211,27 @@
         },
         {
           "level": 4,
-          "name": "Atılma",
-          "desc": "At 7+ [Charge] Count, Coin Power +1",
+          "name": "Atılım",
+          "desc": "7+ [Charge] Miktarında, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Vulnerable]"
+                  "desc": "[OnSucceedAttackHead] 2 [Vulnerable] uygula"
                 }
               ]
             }
@@ -1244,8 +1244,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Rip Space",
-          "desc": "[WhenUse] Spend 10 [Charge] Count to gain +4 Coin Power\nAt less than 10 [Charge] Count, lose 20% HP",
+          "name": "Boşluğu Yırt",
+          "desc": "[WhenUse] +4 Jeton Gücü kazanmak için 10 [Charge] Miktarı harca\n10 [Charge] Miktarının altında, Jeton Gücü kazanma ve 20% HP kaybet",
           "coinlist": [
             {
               "coindescs": [
@@ -1272,7 +1272,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 5 [Burst] uygula"
                 }
               ]
             }
@@ -2194,7 +2194,7 @@
         {
           "level": 4,
           "name": "Perfected Death Fist",
-          "desc": "If target has 5+ Burn, Coin Power +1",
+          "desc": "If target has 5+ Burn, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2242,7 +2242,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rip",
+          "name": "Yırt",
           "desc": "[WhenUse] Gain 1 Slash Protection",
           "coinlist": [
             {
@@ -2256,7 +2256,7 @@
         },
         {
           "level": 2,
-          "name": "Rip",
+          "name": "Yırt",
           "desc": "[WhenUse] Gain 2 Slash Protection",
           "coinlist": [
             {
@@ -2270,7 +2270,7 @@
         },
         {
           "level": 4,
-          "name": "Rip",
+          "name": "Yırt",
           "desc": "[WhenUse] Gain 2 Slash Protection\nGain +3 [Charge] Count",
           "coinlist": [
             {
@@ -2349,7 +2349,7 @@
         {
           "level": 4,
           "name": "Energy Cycle",
-          "desc": "If at 5+ [Charge] Count, Coin Power +1",
+          "desc": "If at 5+ [Charge] Count, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2420,7 +2420,7 @@
         {
           "level": 4,
           "name": "Energy Current",
-          "desc": "If at 5+ [Charge] Count, Coin Power +1",
+          "desc": "If at 5+ [Charge] Count, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2535,7 +2535,7 @@
         {
           "level": 2,
           "name": "Dual Strike",
-          "desc": "If user took no damage last turn, Coin Power +1",
+          "desc": "If user took no damage last turn, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2556,7 +2556,7 @@
         {
           "level": 4,
           "name": "Dual Strike",
-          "desc": "If user took no damage last turn, Coin Power +1",
+          "desc": "If user took no damage last turn, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -3365,14 +3365,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 2 [Vulnerable]"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] 2 [Vulnerable] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 2 [Vulnerable]"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] 2 [Vulnerable] uygula"
                 }
               ]
             },
@@ -4139,7 +4139,7 @@
         {
           "level": 4,
           "name": "Suppress",
-          "desc": "If target has 5+ Tremor Count, Coin Power +1",
+          "desc": "If target has 5+ Tremor Count, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -4901,7 +4901,7 @@
         {
           "level": 4,
           "name": "Slice then Stab",
-          "desc": "If at 3+ [Breath] Count, Coin Power +1",
+          "desc": "If at 3+ [Breath] Count, Jeton Gücü +1",
           "coinlist": [
             {},
             {
@@ -5269,7 +5269,7 @@
         {
           "level": 4,
           "name": "Muta Madre Muchacho",
-          "desc": "If target has 4+  [Sinking], Coin Power +1",
+          "desc": "If target has 4+  [Sinking], Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5618,7 +5618,7 @@
         {
           "level": 4,
           "name": "Draw of the Sword",
-          "desc": "At 5+ [Breath], Coin Power +1",
+          "desc": "At 5+ [Breath], Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6065,7 +6065,7 @@
         {
           "level": 4,
           "name": "Single-point Stab",
-          "desc": "If target has 6+ [Combustion], Coin Power +1",
+          "desc": "If target has 6+ [Combustion], Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6144,7 +6144,7 @@
         {
           "level": 4,
           "name": "Rush Down",
-          "desc": "If target has 6+ [Combustion], Coin Power +1",
+          "desc": "If target has 6+ [Combustion], Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6298,7 +6298,7 @@
         {
           "level": 4,
           "name": "Hack",
-          "desc": "[WinDuel] Damage +40%\nIf target has 5+ [Burst], Coin Power +1",
+          "desc": "[WinDuel] Damage +40%\nIf target has 5+ [Burst], Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6406,7 +6406,7 @@
         {
           "level": 4,
           "name": "Eviscerate",
-          "desc": "If target has 5+ [Burst], Coin Power +1",
+          "desc": "If target has 5+ [Burst], Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -7595,7 +7595,7 @@
         {
           "level": 4,
           "name": "Crimson Blaze Fist",
-          "desc": "If target has 6+ [Combustion] Count, Coin Power +1",
+          "desc": "If target has 6+ [Combustion] Count, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -7991,7 +7991,7 @@
         {
           "level": 4,
           "name": "Butcher Viand",
-          "desc": "If target has 10+ Bleed Count, Coin Power +1",
+          "desc": "If target has 10+ Bleed Count, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -8470,7 +8470,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
                 }
               ]
             },
@@ -8494,7 +8494,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
                 }
               ]
             },
@@ -8518,7 +8518,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
                 }
               ]
             },
@@ -8583,7 +8583,7 @@
         {
           "level": 4,
           "name": "Vibration Compression",
-          "desc": "If target has 10+ Tremor Count, Coin Power +1",
+          "desc": "If target has 10+ Tremor Count, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -8834,7 +8834,7 @@
         {
           "level": 4,
           "name": "Finishing Runup",
-          "desc": "If target has 10+ Tremor Count, Coin Power +1",
+          "desc": "If target has 10+ Tremor Count, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -9040,7 +9040,7 @@
         {
           "level": 4,
           "name": "Let's Grind 'Em",
-          "desc": "If target has 5+ Tremor Count, Coin Power +1",
+          "desc": "If target has 5+ Tremor Count, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -9756,7 +9756,7 @@
         {
           "level": 1,
           "name": "Impede the Intruder",
-          "desc": "If target has 5+ [Burst], Coin Power +1",
+          "desc": "If target has 5+ [Burst], Jeton Gücü +1",
           "coinlist": [
             {}
           ]
@@ -9853,7 +9853,7 @@
         {
           "level": 3,
           "name": "Excise Target",
-          "desc": "At 80% or more HP, Coin Power +1",
+          "desc": "At 80% or more HP, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -10156,7 +10156,7 @@
         {
           "level": 2,
           "name": "Red Kick",
-          "desc": "If target has 3+ [Combustion], Coin Power +1",
+          "desc": "If target has 3+ [Combustion], Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -10231,7 +10231,7 @@
         {
           "level": 2,
           "name": "Frontal Assault",
-          "desc": "If target has 6+ [Combustion], Coin Power +1",
+          "desc": "If target has 6+ [Combustion], Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -10438,7 +10438,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
                 }
               ]
             },
@@ -10466,7 +10466,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
                 }
               ]
             },
@@ -10489,12 +10489,12 @@
         {
           "level": 4,
           "name": "Demolish",
-          "desc": "At 7+ Speed, inflict +1 Bleed Count with this Skill\n[WhenUse] Gain +4 [Charge] Count",
+          "desc": "At 7+ Speed, inflict +1 Bleed Count with this Skill\n[WhenUse] +4 [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
                 }
               ]
             },
@@ -10522,7 +10522,7 @@
         {
           "level": 1,
           "name": "Rhino Ram",
-          "desc": "[WhenUse] At 10+ [Charge] Count, Coin Power +1",
+          "desc": "[WhenUse] At 10+ [Charge] Count, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -10727,7 +10727,7 @@
         {
           "level": 1,
           "name": "Subdue Threat",
-          "desc": "At 15+ shield, Coin Power +1",
+          "desc": "At 15+ shield, Jeton Gücü +1",
           "coinlist": [
             {},
             {},
@@ -10797,7 +10797,7 @@
         {
           "level": 1,
           "name": "Remise",
-          "desc": "At 7+ Speed, Coin Power +1",
+          "desc": "At 7+ Speed, Jeton Gücü +1",
           "coinlist": [
             {},
             {
@@ -10812,7 +10812,7 @@
         {
           "level": 2,
           "name": "Remise",
-          "desc": "At 7+ Speed, Coin Power +1\n[WinDuel] Gain 1 Haste next turn",
+          "desc": "At 7+ Speed, Jeton Gücü +1\n[WinDuel] Gain 1 Haste next turn",
           "coinlist": [
             {},
             {
@@ -11001,7 +11001,7 @@
         {
           "level": 4,
           "name": "Intuition",
-          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">[Burst]</color></link></u>, Coin Power +1",
+          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">[Burst]</color></link></u>, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -11124,7 +11124,7 @@
         {
           "level": 4,
           "name": "Forensics",
-          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">[Burst]</color></link></u>, Coin Power +1",
+          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">[Burst]</color></link></u>, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -11207,7 +11207,7 @@
         {
           "level": 2,
           "name": "Predictive Analysis",
-          "desc": "If target has 3+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">[Burst]</color></link></u>, Coin Power +1",
+          "desc": "If target has 3+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">[Burst]</color></link></u>, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -11276,7 +11276,7 @@
         {
           "level": 2,
           "name": "Dissect Target",
-          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">[Burst]</color></link></u>, Coin Power +1\n[WinDuel] Inflict +3 [Burst] Count",
+          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">[Burst]</color></link></u>, Jeton Gücü +1\n[WinDuel] Inflict +3 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [
