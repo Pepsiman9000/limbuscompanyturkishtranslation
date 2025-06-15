@@ -4,22 +4,22 @@
             "id": 0,
             "place": "Ruined K Corp. Laboratory Hallway",
             "model": "뫼르소",
-            "content": "I've returned."
+            "content": "Geri geldim."
         },
         {
             "id": 1,
             "model": "뫼르소",
-            "content": "There was one message in Shrenne's mailbox that was deemed worth reading."
+            "content": "Shrenne'nin posta kutusunda okumaya değer olan tek bir mesaj var."
         },
         {
             "id": 2,
             "model": "뫼르소",
-            "content": "The environment did not permit me to print it out, so I memorized the mail's content."
+            "content": "Ortam yazdırmama izin vermedi, o yüzden içeriğini ezberledim."
         },
         {
             "id": 3,
             "model": "뫼르소",
-            "content": "'I hope you're doing well, Miss Ran. Open parenthesis, star, tear, tear, swung dash, caret, caret... closed parenthesis.'"
+            "content": "'Umarım iyisindir, Bayan Ran. Parantez aç, kalp, gözyaşı, gözyaşı, yaklaşıklık İşareti, düzeltme işareti, düzeltme işareti... parantezi kapat.'"
         },
         {
             "id": 4,
@@ -29,19 +29,19 @@
         {
             "id": 5,
             "model": "뫼르소",
-            "content": "Understood. I will then dispense with punctuation marks that do not appear important."
+            "content": "Anlaşıldı. Önemli durmayan noktalama işaretlerini unutuyorum."
         },
         {
             "id": 6,
             "model": "뫼르소",
-            "content": "'I've been trying to figure out if what you said was really true, but that sucker is making it hard.'"
+            "content": "'Dediğin şeyin gerçekten doğru olup olmadığını anlamaya çalışıyordum, ama şu salak işleri zorlaştırıyor.'"
         },
         {
             "id": 7,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "'I've been promoted to team manager too, but I wasn't let in... just because I didn't win that silly \"best\" award.'"
+            "content": "'Takım menejeri konumuna da yükseltildim, ama girmeme izin verilmedi... sırf şu aptal \"en iyi\" ödülünü kazanamadım diye.'"
         },
         {
             "id": 8,
