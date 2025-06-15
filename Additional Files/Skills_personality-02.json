@@ -1534,53 +1534,6 @@
                     ]
                 },
                 {
-                    "id": 1021204,
-                    "levelList": [
-                        {
-                            "level": 1,
-                            "name": "Emredersiniz",
-                            "desc": "[DuelCounter]\n[StartBattle] 1 [SupportProtect] kazan (tur başına bir kez)\n[WhenUse] Bu Yetenek, bu birimin bu Karşılaşmada kümülatif olarak kaybettiği her %10 Can için +1 Saldırı Seviyesi kazanır (maksimum 6; etkinleştirme anındaki maksimum Can’a göre)\n[WhenUse] 3 [LegStrength] kazan",
-                            "coinlist": [
-                                {
-                                    "coindescs": [
-                                        {
-                                            "desc": "[OnSucceedAttack] 1 [Burst] uygular"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "coindescs": [
-                                        {
-                                            "desc": "[OnSucceedAttack] 1 [Burst] uygular"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "level": 4,
-                            "name": "Emredersiniz",
-                            "desc": "[DuelCounter]\n[StartBattle] 1 [SupportProtect] kazan (tur başına bir kez)\n[WhenUse] Bu Yetenek, bu birimin bu Karşılaşmada kümülatif olarak kaybettiği her %10 Can için +1 Saldırı Seviyesi kazanır (maksimum 6; etkinleştirme anındaki maksimum Can’a göre)\n[WhenUse] 3 [LegStrength] kazan\n<style=\"highlight\">[WhenUse] Bu birimin Hızı hedefinkinden 2 veya daha fazlaysa, Hız farkına bağlı olarak Temel Güç kazan (her 2 Hız farkına +1 Temel Güç; maksimum 2)</style>",
-                            "coinlist": [
-                                {
-                                    "coindescs": [
-                                        {
-                                            "desc": "[OnSucceedAttack] 1 [Burst] uygular<style=\"highlight\"></style>"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "coindescs": [
-                                        {
-                                            "desc": "[OnSucceedAttack] 1 [Burst] uygular<style=\"highlight\"></style>"
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "level": 4,
                     "name": "Ne Görülebilir Ne Duyulabilir.",
                     "desc": "Bu birimin Hızı hedefinkinden fazlaysa, (Hız farkı x hedefteki [Burst] şiddeti)% kadar ek hasar ver (maksimum %50)\n<style=\"highlight\">Bu birimin Hızı hedefinkinden fazlaysa, Hız farkına bağlı olarak Jeton Gücü kazan (her 2 Hız farkına +1 Jeton Gücü; maksimum 2)</style>\n[StartBattle] 1 [SupportProtect] kazan (tur başına bir kez)\n[BeforeUse] 10+ [EnhanceZilu] varsa, bunun yerine 'Yükselen Heishou - Mao Tekniği: Bulutyarıcı Tezahür' etkinleşir\n<style=\"highlight\">[WhenUse] Hedefin 15+ [Burst] varsa, Jeton Gücü +1</style>\n[WhenUse] 3 [LegStrength] kazan\n[WinDuel] +2 [Burst] Miktarı uygular",
@@ -1615,6 +1568,53 @@
                                 },
                                 {
                                     "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] [BurstAgility] uygular</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1021204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Emredersiniz",
+                    "desc": "[DuelCounter]\n[StartBattle] 1 [SupportProtect] kazan (tur başına bir kez)\n[WhenUse] Bu Yetenek, bu birimin bu Karşılaşmada kümülatif olarak kaybettiği her %10 Can için +1 Saldırı Seviyesi kazanır (maksimum 6; etkinleştirme anındaki maksimum Can'a göre)\n[WhenUse] 3 [LegStrength] kazan",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 1 [Burst] uygular"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 1 [Burst] uygular"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Emredersiniz",
+                    "desc": "[DuelCounter]\n[StartBattle] 1 [SupportProtect] kazan (tur başına bir kez)\n[WhenUse] Bu Yetenek, bu birimin bu Karşılaşmada kümülatif olarak kaybettiği her %10 Can için +1 Saldırı Seviyesi kazanır (maksimum 6; etkinleştirme anındaki maksimum Can'a göre)\n[WhenUse] 3 [LegStrength] kazan\n<style=\"highlight\">[WhenUse] Bu birimin Hızı hedefinkinden 2 veya daha fazlaysa, Hız farkına bağlı olarak Temel Güç kazan (her 2 Hız farkına +1 Temel Güç; maksimum 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 1 [Burst] uygular<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 1 [Burst] uygular<style=\"highlight\"></style>"
                                 }
                             ]
                         }
