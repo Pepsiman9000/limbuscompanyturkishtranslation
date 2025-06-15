@@ -451,6 +451,8 @@
             },
             {
               "desc": "[WinDuelAttack] Verilen HP hasarının %50'si kadar iyileşir (maksimum 10)"
+                }
+              ]
             }
           ]
         }
@@ -632,6 +634,4 @@
       ]
     }
   ]
-}
-]
 }
