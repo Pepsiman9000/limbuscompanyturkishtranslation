@@ -3,7 +3,7 @@
     {
       "id": 0,
       "place": "Sonsuz Ceset Tepesi",
-      "content": "Cesetler bir anda asit terlemeye başladı, Sinclair'ın bacaklarını eriterek. Diğer Günahkârlar da çözünmeye yüz tutmuştu."
+      "content": "Cesetler bir anda asit terlemeye başladı, Sinclair'ın bacaklarını eriterek. \nDiğer Günahkârlar da çözünmeye yüz tutmuştu."
     },
     {
       "id": 1,
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "content": "Vaziyetine inat hâlâ Kromer'e doğru sürünüyordu."
+      "content": "Fakat nikbet vaziyetine inat, hâlâ Kromer'e doğru sürünüyordu."
     },
     {
       "id": 3,
@@ -74,32 +74,32 @@
     },
     {
       "id": 12,
-      "content": "Sinclair'in silahını tutmak için kullandığı kolu her geçen saniye gevşiyordu."
+      "content": "Sinclair'in baltasını tutmak için kullandığı kolu her geçen saniye gevşiyordu."
     },
     {
       "id": 13,
-      "content": "Ancak yine de Kromer'a doğru yürümeye devam etti."
+      "content": "Ancak yine de Kromer'a karşı azimle duruyordu."
     },
     {
       "id": 14,
       "model": "변신크로머",
       "teller": "Kromer",
       "title": "Çivi ve Çekiç",
-      "content": "Acıyı kabul etmelisin! Sadece acının kendisini aştığımızda yeniden doğabiliriz!"
+      "content": "Acıyı kabul etmelisin! Sadece acının kendisini aştığımız zaman yeniden doğabiliriz!"
     },
     {
       "id": 15,
       "model": "변신크로머",
       "teller": "Kromer",
       "title": "Çivi ve Çekiç",
-      "content": "Eti şişir, kanı dök! Her saniye en insani şeyleri ekle!"
+      "content": "Eti şişir, kanı dök! Her saniye en insani şeyler eklenerek!"
     },
     {
       "id": 16,
       "model": "변신크로머",
       "teller": "Kromer",
       "title": "Çivi ve Çekiç",
-      "content": "Tüm şehri kirleten pislik insanların süzülüp atıldığı en saf dünyaya!"
+      "content": "Tüm şehri kirleten pisliklerin süzülüp atıldığı en saf dünya için!"
     },
     {
       "id": 17,
@@ -108,11 +108,11 @@
     },
     {
       "id": 18,
-      "content": "Sinclair, artık ölmüş olan Günahkar arkadaşlarının yüzlerine bakarak boş boş mırıldanıyordu."
+      "content": "Sinclair, çoktan ölmüş olan Günahkârların yüzlerine bakarak kendince mırıldanıyordu."
     },
     {
       "id": 19,
-      "content": "Onu böyle bırakamazdım."
+      "content": "Onu bu halde bırakamazdım."
     },
     {
       "id": 20,
@@ -121,24 +121,24 @@
     },
     {
       "id": 21,
-      "content": "Harekete geçmem bu kadar uzun sürdüğü için utanıyorum ama geç olsun güç olmasın."
+      "content": "Harekete geçmem bu kadar uzun sürdüğü için kendimden utanıyorum ama hiç harakete geçmemekten iyidir."
     },
     {
       "id": 22,
-      "content": "Benim gibi bir müdür gibi davran."
+      "content": "Artık gerçektende Müdür gibi davranma zamanım gelmişti."
     },
     {
       "id": 23,
       "model": "단테",
-      "content": "<Çok düşündüğünü biliyorum! Kafanın içinde başkalarıyla paylaşamadığın çok şey olduğunu biliyorum!>"
+      "content": "<Zihninin düşüncelerle dolu olduğunu biliyorum! Kafanın içinde başkalarıyla paylaşamadığın çok şey olduğunu biliyorum!>"
     },
     {
       "id": 24,
-      "content": "İşte öyleydi."
+      "content": "O öyle biriydi."
     },
     {
       "id": 25,
-      "content": "Worried that he might be a burden, he constantly put his mind through doubts and ruminations, most of which he never let on about."
+      "content": "Bir yük olacağından korkup, sürekli kendini sogular, ."
     },
     {
       "id": 26,
