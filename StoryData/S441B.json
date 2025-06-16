@@ -12,7 +12,7 @@
         {
             "id": 2,
             "model": "그레고르",
-            "content": "Ah, you must be K Corp. staff. Hey! I saw some researchers that haven't evacuated over there..."
+            "content": "Ah, K Kuruluşu çalışanları olmalısınız. Hey! Şurada henüz tahliye edilmemiş araştırmacılar olduğunu görmüştümn..."
         },
         {
             "id": 3,
@@ -30,7 +30,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "They aren't here to rescue anyone. Their role is eliminating intruders and keeping classified technologies secure."
+            "content": "Buraya birilerini kurtarmaya gelmediler. Görevleri, davetsiz misafirleri öldürmek ve gizli bilgileri güvende tutmak."
         },
         {
             "id": 6,
@@ -41,7 +41,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Rescuing is left to Class 1 staff."
+            "content": "Kurtarma işini 1.Sınıf personellerimiz yürütmekte."
         },
         {
             "id": 8,
@@ -53,7 +53,7 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Sorry? In this Nest, Class 1 is the lowest level, and higher numbers indicate better ranks..."
+            "content": "Pardon? Bu Yuvada 1.Sınıf en alçak kademe anlamına geliyor, sayı ne kadar yüksekse statün daha yüksektir..."
         },
         {
             "id": 10,
@@ -70,14 +70,14 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Haha, bigger is better for numbers and riches alike, isn't that right?"
+            "content": "Sayılar ve değerli şeyler ne kadar büyükse o kadar iyidir, haksız mıyım?"
         },
         {
             "id": 13,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, the conversation dragged on for a bit... But there's nothing to worry about, I've acquired the permission."
+            "content": "Ah, konuşma gereğinden biraz uzun sürdü... Fakat endişelenecek bir şey yok, gerekli izni aldım."
         },
         {
             "id": 14,
@@ -87,78 +87,78 @@
         {
             "id": 15,
             "model": "히스클리프",
-            "content": "What? Permission? For what?"
+            "content": "Ne? Ne için izin aldın lan?"
         },
         {
             "id": 16,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Normally, it seems to require a bunch of paperwork as well, but since we're in an emergency, let's skip the procedures that we can. Should be fine, right, Samjo?"
+            "content": "Normalde pek ağır bir evrak işi yapmam gerekiyormuş, fakat acil bir durumda olduğumuzdan, prosedürleri olabildiğince es geçebiliriz. Bir sorun çıkmaz, değil mi Samjo?"
         },
         {
             "id": 17,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Well... I believe it could be managed with three days and a half of working on the report overtime."
+            "content": "Yani... Rapora fazladan üç buçuk gün çalışma eklersek, bir sorun çıkacağını sanmıyorum."
         },
         {
             "id": 18,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "And strictly speaking, the problem already began when you brought them to your lab without any report."
+            "content": "Ki işin özünde, bir bildiride bulunmadan onları laboratuvara getirdiğinde, sorun çoktan başlamıştı."
         },
         {
             "id": 19,
             "model": "히스클리프",
-            "content": "Just tell us what that permission is about first!"
+            "content": "Ne için izin aldığını söylesene be adam!"
         },
         {
             "id": 20,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It would seem that Dongbaek has headed that way."
+            "content": "Görünüşe bakılırsa, Dongbaek...."
         },
         {
             "id": 21,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "The screening room."
+            "content": "Gösterim odasına gitti."
         },
         {
             "id": 22,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "The security procedures for entering that place can be... extremely convoluted."
+            "content": "O yere girmek için gereken güvenlik prosedürleri... çokça karmaşık olabiliyor."
         },
         {
             "id": 23,
             "model": "로쟈",
-            "content": "Screening room? The name doesn't give a very clear idea of what it's about~"
+            "content": "Gösterim odası mı? İsmi, ne amaçla kullanıldığını hiç açıklamıyor ha~"
         },
         {
             "id": 24,
             "model": "홍루",
-            "content": "Wonder why the security is so tight about it~"
+            "content": "Acaba neden bu kadar sıkı bir şekilde korunuyor~"
         },
         {
             "id": 25,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It's at the very top of the building."
+            "content": "Binanın hemen tepesinde bulunuyor."
         },
         {
             "id": 26,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "There are two ways to make something inaccessible: put it underground, or at the highest point."
+            "content": "Bir şeyi erişilemez kılmak için iki yol vardır: ya yeraltına, ya da en yükseğe koymak."
         }
     ]
 }
