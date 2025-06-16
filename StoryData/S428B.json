@@ -3,60 +3,60 @@
         {
             "id": 0,
             "model": "이상",
-            "content": "<color=#d4e1e8>Thinking back to those days, I felt as though I had been afloat all the time then.</color>"
+            "content": "<color=#d4e1e8>Maziye baktığımızda, o zamanlar her zaman bir karış havada gibi hissediyordum.</color>"
         },
         {
             "id": 1,
             "model": "이상",
-            "content": "<color=#d4e1e8>Yes, I was enduring life with the feeling of flying in the sky.</color>"
+            "content": "<color=#d4e1e8>Evet, Hayata uçuyormuşum hissine kapılaraktan göğüs geriyordum.</color>"
         },
         {
             "id": 2,
             "model": "이상",
-            "content": "<color=#d4e1e8>Thus, I had been living without knowing for certain if I truly had wings or if I was a mere half-wit.</color>"
+            "content": "<color=#d4e1e8>Yani, gerçekten kanatlarım olup olmadığını, veya sadece aptalın teki olup olmadığımı bilmiyordum.</color>"
         },
         {
             "id": 3,
             "model": "과거동랑",
             "teller": "Dongrang",
             "title": "???",
-            "content": "Yi Sang, did you stay up all night working on your research again? I keep telling you, skipping sleep will get you killed."
+            "content": "Yi Sang, yine mi uykunu almayıp tüm gece araştırmalarına döküldün? Demiyor muyum hiç, uykunu atlamaya devam edersen öleceksin diye."
         },
         {
             "id": 4,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "???",
-            "content": "He's something else. Remember how he'd forget to eat or sleep when he got into something?"
+            "content": "Çok alem birisi. Bir şeye fazla taktığında yemeyi ve içmeyi bile unutuyor ya?"
         },
         {
             "id": 5,
             "model": "과거동랑",
             "teller": "Dongrang",
             "title": "???",
-            "content": "He can't be helped, Dongbaek. So... what do you plan to show us at this illuminators' conference?"
+            "content": "Elimizden bir şey gelmez, Dongbaek. Yi Sang, sıradaki konferansta ne göstermeyi düşünüyorsun bu?"
         },
         {
             "id": 6,
             "model": "과거동랑",
             "teller": "Dongrang",
             "title": "???",
-            "content": "I can't help but look forward to something you've been working on tirelessly in your room."
+            "content": "Odanda dur durak bilmeden çalıştığın bu şeyi görmek için sabırsızlanıyorum."
         },
         {
             "id": 7,
             "model": "과거이상",
             "teller": "Yi Sang",
             "title": "???",
-            "content": "This time... I have made something I call the 'mirror'."
+            "content": "Bu sefer... 'ayna' dediğim bir icatta bulundum."
         },
         {
             "id": 8,
-            "content": "<color=#d4e1e8>Thus, it has always remained unclear.</color>"
+            "content": "<color=#d4e1e8>Yani, zihnim her zaman pusluydu.</color>"
         },
         {
             "id": 9,
-            "content": "<color=#d4e1e8>Unsure if I regret that day, or reminisce it fondly.</color>"
+            "content": "<color=#d4e1e8>Maziden pişmanlık mı duysam, yoksa sevgiyle hatırlasam mı bilemiyordum.</color>"
         },
         {
             "id": 10,
@@ -80,7 +80,7 @@
         {
             "id": 14,
             "model": "이상",
-            "content": "I see... You have reversed my death as you always do."
+            "content": "Anlıyorum... Her zamanki gibi, beni cehennemin kapılarından çekiverdin."
         },
         {
             "id": 15,
@@ -108,67 +108,67 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "...I'm sure Dongbaek's plan was to stab me."
+            "content": "...Dongbaek'in asıl planının, dalı bana saplamak olduğuna eminim."
         },
         {
             "id": 21,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Shrenne and Ran probably told her that I brought help from the outside..."
+            "content": "Shrenne ve Ran muhtemelen dışarıdan yardım getirdiğimi ona iletmiştir..."
         },
         {
             "id": 22,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "But she couldn't have known that Yi Sang would be one of them."
+            "content": "Fakat Yi Sang'ın da onlardan birisi olduğunu asla bilemezlerdi."
         },
         {
             "id": 23,
             "model": "홍루",
-            "content": "Ah~ So you've brought Yi Sang here on purpose?"
+            "content": "Ah~ Yani buraya Yi Sang'ı bilerek mi getirdin?"
         },
         {
             "id": 24,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Mm... Are you asking if I invited him as a meat shield knowing that I'd be ambushed? As excellent as my ability to predict courses of events is, I am no prophet."
+            "content": "Mm... Pusulacağımı bildiğimden onu bir etten kalkan olarak kullanmak için mi çağırdığımı ima ediyorsun? Önsezilerim ne kadar gelişmiş olsa da, ben bir peygamber değilim."
         },
         {
             "id": 25,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Either way, things went in our favor. The assault was clearly made with intent to kill."
+            "content": "Her şekilde, işler bizim lehimize gitti. Bu saldırı kesinlikle öldürme dürtüsüyle yapılmıştı."
         },
         {
             "id": 26,
             "model": "그레고르",
-            "content": "What did you just...? You can't be serious... A colleague of ours got stabbed to death for your boss, and you're talking like everything went well..."
+            "content": "Ne diyorsun be...? Ciddi olamazsın... Bir arkadaşımız patronun için canını feda etti, ama her şey harika gitmiş gibi konuşuyorsun..."
         },
         {
             "id": 27,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It's not our responsibility to compensate for any injuries, is it? If this has left psychological scars, you are free to demand compensation, but please know that the procedures will be rather complex..."
+            "content": "Herhangi bir kazayı üstlenmek bizim görevimiz değil ya? Eğer bunun psikolojik bir hasar bıraktığını düşünüyorsanız bize tazminat davası açmakta serbestsiniz, ama bilin ki prosedür oldukça karmaşıktır bu konuda..."
         },
         {
             "id": 28,
             "model": "그레고르",
-            "content": "No, my problem is with how you're describing this whole--"
+            "content": "Hayır, benim sorunum tüm bu olayı h--"
         },
         {
             "id": 29,
             "model": "이상",
-            "content": "Leave the matter there."
+            "content": "Tartışmayı kesiniz."
         },
         {
             "id": 30,
             "model": "이상",
-            "content": "I do not feel an ounce of pain. So you have no need to pursue this matter further."
+            "content": "En ufak bir acı hissetmiyorum. Bu konuyu daha fazla tartışmanız gereksiz."
         },
         {
             "id": 31,
@@ -202,7 +202,7 @@
         {
             "id": 38,
             "model": "이상",
-            "content": "I see, you must have been rather curious."
+            "content": "Görüyorum ki, pek bir meraklısınız."
         },
         {
             "id": 39,
@@ -211,37 +211,37 @@
         {
             "id": 40,
             "model": "이상",
-            "content": "I was once part of an organization named the League of Nine. Gubo, Dongrang, and Dongbaek, the one who stabbed my chest. Those faces you have seen were members of it as well, manager."
+            "content": "Mazide, Dokuzlar Birliği denen bir organizasyona üyeydim. Gubo, Dongrang, ve beni öldüren Dongbaek ile beraber. O gördüğünüz güruhlar da bu grubun bir parçasıydı, müdür."
         },
         {
             "id": 41,
             "model": "이상",
-            "content": "However, it disbanded and scattered one day. Each of us was flown away into our own path."
+            "content": "Lakin, günün birinde kapatıldık ve dağıldık. Her birimiz, kendi yollarımıza göçüverdik."
         },
         {
             "id": 42,
             "model": "이상",
-            "content": "That was all there was to it."
+            "content": "Her şey bu kadar."
         },
         {
             "id": 43,
             "model": "로쟈",
-            "content": "Aw, what~ Feels like your story's missing a ton of details, y'know?"
+            "content": "Ah, şaka mısın~ Hikayen çok fazla detayı es geçmiş gibi, değil mi?"
         },
         {
             "id": 44,
             "model": "로쟈",
-            "content": "You broke up 'cause things happened and now you're pointing knives at each other~ Like, is that it?"
+            "content": "Bir şeyler yaşandı diye dağıldınız ve şimdi herkes herkesin kellesinin peşinde~ Hani, bu kadar mı sahiden?"
         },
         {
             "id": 45,
             "model": "싱클레어",
-            "content": "Or maybe they were never friends after all."
+            "content": "Belki de en başından arkadaş değillerdir?"
         },
         {
             "id": 46,
             "model": "이상",
-            "content": "It was no more than a moment. I believe my testimony to be apt for a time as transient as that."
+            "content": "Bir anlık bir olaydı sadece. Savunmamın, böylesine bir zaman için makul derecede olduğu kanaatindeyim."
         },
         {
             "id": 47,
@@ -259,7 +259,7 @@
         {
             "id": 50,
             "model": "이상",
-            "content": "I have always been okay."
+            "content": "Her zaman iyidim."
         },
         {
             "id": 51,
@@ -277,37 +277,37 @@
         {
             "id": 54,
             "model": "이상",
-            "content": "...You are devoting an unusual degree of attention to me today. While it does not please me... I will give you an answer since your demeanor is quite unlike the usual."
+            "content": "...Bugün bana farklı bir düzeyde ilgilisiniz. Bu beni hoşnut etmese de... Jestlerinizin sıradışılığından, size bir cevapta bulunacağım."
         },
         {
             "id": 55,
             "model": "이상",
-            "content": "If I were to choose one, the happiest occasion in recent memory would be... when we held an illuminators' conference."
+            "content": "Eğer seçmem gerekseydi, tez zamandaki en neşeli anım... konferanslar düzenlediğimiz zamanlar olacaktır."
         },
         {
             "id": 56,
             "model": "이상",
-            "content": "And the most hopeless one would be..."
+            "content": "Ve en umutsuzu ise..."
         },
         {
             "id": 57,
             "model": "이상",
-            "content": "At the forest where I first met you."
+            "content": "Ormanda sizinle ilk tanıştığım an olacaktır."
         },
         {
             "id": 58,
             "model": "이상",
-            "content": "The very moment my life resumed when I was certain that it had ended there."
+            "content": "Her şeyin bittiğinden emin olduğum halde, kalbimin atmaya devam ettiği o yegane an."
         },
         {
             "id": 59,
             "model": "이상",
-            "content": "Another such moment is now. I am once again realizing that this regeneration is ever so flawless, unchanging."
+            "content": "Benzer bir an da şu andır. Bu rejenerasyonun mükemmel, ve değişkenlikten yoksun olduğunu tekrar farkediyorum."
         },
         {
             "id": 60,
             "model": "이상",
-            "content": "I hope that sates your curiosity."
+            "content": "Umarım merakınızı giderebilmişimdir."
         },
         {
             "id": 61,
@@ -317,7 +317,7 @@
         {
             "id": 62,
             "model": "이상",
-            "content": "Now, should we not be on our way? I see a long road ahead of us."
+            "content": "Şimdi, yola düşmemiz gerekmez mi? Önümüzde uzun bir yol görüyorum."
         },
         {
             "id": 63,
