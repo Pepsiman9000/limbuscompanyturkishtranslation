@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Unending Hill of Corpses",
+      "place": "Sonsuz Cesed Tepesi",
       "model": "싱클레어",
       "content": "D… Demian…"
     },
@@ -11,7 +11,7 @@
       "model": "데미안",
       "teller": "Demian",
       "title": "???",
-      "content": "Kendi kaderini kendin değiştirdin, Sinclair."
+      "content": "Kendi kaderini değiştirdin, Sinclair."
     },
     {
       "id": 2,
@@ -48,14 +48,14 @@
     },
     {
       "id": 7,
-      "content": "Demian denilen adam yürümeye başlamıştı. Küçük bir gezintiye çıkmış edasıyla hafifçe adımlar atarak."
+      "content": "Demian denilen adam yürümeye başladı. Küçük bir gezintiye çıkmış edasıyla hafif adımlar atarak."
     },
     {
       "id": 8,
       "model": "데미안",
       "teller": "Demian",
       "title": "???",
-      "content": "Dünya yeni bir doğum aşamasına girmek üzere. Ve, oraya sadece birkaç kişi girebilecek."
+      "content": "<color=#427be6>Dünya yeni bir doğum aşamasına girmek üzere. Ve, oraya sadece birkaç kişi girebilecek.</color>"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
     },
     {
       "id": 11,
-      "content": "Demian ise yavaşça bana doğruldu."
+      "content": "Demian ise yavaşça bana doğru döndü."
     },
     {
       "id": 12,
@@ -91,7 +91,7 @@
       "model": "데미안",
       "teller": "Demian",
       "title": "???",
-      "content": "Kromer ise baya bir çalıştı, Sinclair'ın ilk parasını kaybetiği ana döndürebilmek için her şeyi yaptı."
+      "content": "Kromer baya bir çalıştı, Sinclair'ın ilk jetonunu kaybetiği ana döndürebilmek için her şeyi yaptı."
     },
     {
       "id": 15,
@@ -124,14 +124,14 @@
       "model": "데미안",
       "teller": "Demian",
       "title": "???",
-      "content": "Sen ise Sinclair'a şu an bakıcak kişisin."
+      "content": "Sen ise Sinclair'a şu an bakacak olan “Yetişkinsin”."
     },
     {
       "id": 20,
       "model": "데미안",
       "teller": "Demian",
       "title": "???",
-      "content": "Benim ise kim olduğuma…"
+      "content": "Benim kim olduğuma…"
     },
     {
       "id": 21,
@@ -150,7 +150,7 @@
       "model": "데미안",
       "teller": "Demian",
       "title": "???",
-      "content": "Sinclair yüreğinin gücünde sarsılmaz inançla mücadele ettiğinde…"
+      "content": "Sinclair yüreğinin içindeki sarsılmaz <ruby=güçle>inançla</ruby> mücadele ettiğinde…"
     },
     {
       "id": 24,
@@ -183,7 +183,7 @@
       "model": "데미안",
       "teller": "Demian",
       "title": "???",
-      "content": "Her türlü inlemeleri ve mırıldamaları duyabiliyorum, Dante. Senin sesini de duymam cabası."
+      "content": "Her türlü takırtıları ve mırıldamaları duyabiliyorum, Dante. Senin sesini de duymam cabası."
     },
     {
       "id": 29,
@@ -197,27 +197,27 @@
       "model": "데미안",
       "teller": "Demian",
       "title": "???",
-      "content": "En önemli olan duyamadığın yahut göremediğindir."
+      "content": "Daha önemli olan duyamadığın yahut göremediğindir."
     },
     {
       "id": 31,
-      "content": "Mavi atkılı çocuk habersizce gitmişti…"
+      "content": "Mavi atkılı çocuk habersizce gitti…"
     },
     {
       "id": 32,
-      "content": "Ondan sonra, yığınlar erimeye başladılar."
+      "content": "Ondan sonra, yığınlar erimeye başladı."
     },
     {
       "id": 33,
-      "content": "Et ve çamur kalıntılarına çözünmeye başladılar."
+      "content": "Et ve çamur kalıntıları çözündü."
     },
     {
       "id": 34,
-      "content": "Onlarda gittiğinde, önümde tek bir Altın Dal kalmıştı, sıcak ışığını yayarak."
+      "content": "Onlarda gittiğinde, önümde bir tek Altın Dal kalmıştı, sıcak ışığını yayarak."
     },
     {
       "id": 35,
-      "content": "Sinclair’ın dünyası tepelerle birlikte yavaş yavaş eriyordu."
+      "content": "Sinclair’ın E.G.O. derinlikleri tepelerle birlikte yavaş yavaş eriyordu."
     },
     {
       "id": 36,
@@ -238,7 +238,7 @@
     },
     {
       "id": 40,
-      "content": "Ayrıyeten, bu hala onların müdürü olduğumu gösteriyor, o zaman öyle davranmalıyım."
+      "content": "Böylelikle, buda benim hala onların müdürü olduğumu gösteriyor, o zaman öyle davranmalıyım."
     },
     {
       "id": 41,
@@ -246,11 +246,11 @@
     },
     {
       "id": 42,
-      "content": "Daha anlaşılır bir müdür olmak için çabalamalıyım."
+      "content": "Münasip bir müdür olmak için çabalamalıyım."
     },
     {
       "id": 43,
-      "content": "Bütün bunlarla birlikte, ona söylemeliyim…"
+      "content": "Bütün bunlarla birlikte, ona söylemem gerekiyordu…"
     },
     {
       "id": 44,
@@ -277,7 +277,7 @@
     },
     {
       "id": 49,
-      "content": "Eğri oturup doğru konuşmak gerekirse, bütün olanlar için suçlayacak birisini bulmak bitmez bir çaba olurdu."
+      "content": "Eğri oturup doğru konuşmak gerekirse, bütün bu olanlar için suçlayacak birisini bulmak bitmez bir çaba olurdu."
     },
     {
       "id": 50,
@@ -312,13 +312,13 @@
     {
       "id": 57,
       "teller": "???",
-      "title": "LCCA",
+      "title": "LŞTS",
       "content": "Bu aradığımız kişiye benziyor. Şimdi mi enjekte ediyorum?"
     },
     {
       "id": 58,
       "teller": "???",
-      "title": "LCCA",
+      "title": "LŞTS",
       "content": "O yaşadığı sürece diğerleri kurtarılabilir. Bütün kaynakları o bedeni yenilemeye odaklayın."
     },
     {
@@ -328,30 +328,30 @@
     },
     {
       "id": 60,
-      "content": "Dirseğimde bir aşı hisstetim, sonrasında erimiş bedenimin erimiş kısımlarını garip bir his sardı."
+      "content": "Dirseğimde bir aşı hisstetim, sonrasında erimiş bedenimin artık olmayan kısımlarını garip bir his sardı."
     },
     {
       "id": 61,
       "teller": "???",
-      "title": "LCCA",
+      "title": "LŞTS",
       "content": "Biz üç tane HP ampulü ile donatıldık. Üçünü de onun üstünde mi kullanıyorum?"
     },
     {
       "id": 62,
       "teller": "???",
-      "title": "LCCA",
-      "content": "Yenilenme sürecini gözden geçir ve kendi takdirin ile kullanımı yetkilendir."
+      "title": "LŞTS",
+      "content": "Yenilenme sürecini gözden geçir ve kendi takdirince kullanımı yetkilendir."
     },
     {
       "id": 63,
       "teller": "???",
-      "title": "LCCA",
+      "title": "LŞTS",
       "content": "Şanslı toplu taşımacılar… Sırf departmanlarında bir Renk var diye lüks içinde yüzüyorlar, birde K Kuruluşunda arkadaşı olanı da utukmamk lazım…"
     },
     {
       "id": 64,
       "teller": "???",
-      "title": "LCCA",
+      "title": "LŞTS",
       "content": "…arma …landı. Ekle…"
     },
     {
@@ -371,7 +371,7 @@
     },
     {
       "id": 69,
-      "place": "Aboard Mephistopheles",
+      "place": "Mephistopheles'in İçersi",
       "content": "Altın Dalı ele geçirmemize rağmen kaybettik."
     },
     {
@@ -424,7 +424,7 @@
     {
       "id": 80,
       "model": "그레고르",
-      "content": "A— Hadi be, adınla seslendim ya sana  !"
+      "content": "A— Hadi be, adınla seslendim ya sana!"
     },
     {
       "id": 81,
@@ -489,7 +489,7 @@
     {
       "id": 94,
       "model": "오티스",
-      "content": "Söz bile etmeden bizi mükemmel bir şekilde komuta edebildiği için müdürümüzün bir ağza ihtiyacı bulunmuyor. Bunu aklınızda tutun."
+      "content": "Söz bile etmeden bizi mükemmel bir şekilde komuta edebildiği için idari müdürümüzün bir ağza ihtiyacı bulunmuyor. Bunu aklınızda tutun."
     },
     {
       "id": 95,
@@ -504,7 +504,7 @@
     {
       "id": 97,
       "model": "료슈",
-      "content": "Heyo, BA. Bi' ışık yak bakalım."
+      "content": "Heyo BA, bi' ışık yak bakalım."
     },
     {
       "id": 98,
@@ -521,7 +521,7 @@
     },
     {
       "id": 101,
-      "content": "En sonunda, Sinclair'a şu an ki yenilginin onu yavaşlatmamasını tembihledim."
+      "content": "En sonunda, Sinclair'a şu an ki yenilginin onu yavaşlatmamasını tembihlemeye kara verdim."
     },
     {
       "id": 102,
@@ -535,7 +535,7 @@
     {
       "id": 104,
       "model": "베르길리우스",
-      "content": "Ne."
+      "content": "Noldu."
     },
     {
       "id": 105,
@@ -558,11 +558,11 @@
     },
     {
       "id": 109,
-      "content": "Direk sözlü olarak iletemedğim ama öyle ya da böyle alındığına emin olduğum şiirsel mesajım sabahın gelmesiyle."
+      "content": "Direk sözlü olarak iletemedğim ama öyle ya da böyle alındığına emin olduğum şiirsel mesajım anlam kazanıyor."
     },
     {
       "id": 110,
-      "content": "…Anlam kazanıyor."
+      "content": "…Ve sonunda sabah oldu."
     },
     {
       "id": 111
