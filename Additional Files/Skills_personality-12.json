@@ -678,7 +678,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sabre Slash",
+          "name": "Kılıç Darbesi",
           "desc": "",
           "coinlist": [
             {
@@ -692,7 +692,7 @@
         },
         {
           "level": 2,
-          "name": "Sabre Slash",
+          "name": "Kılıç Darbesi",
           "desc": "[WhenUse] If target has 6+ [Sinking], Coin Power +2",
           "coinlist": [
             {
@@ -706,7 +706,7 @@
         },
         {
           "level": 4,
-          "name": "Sabre Slash",
+          "name": "Kılıç Darbesi",
           "desc": "[WhenUse] Coin Power +1 for every 3 [Sinking] on target (max 2)\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)",
           "coinlist": [
             {
@@ -725,7 +725,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Remise",
+          "name": "Feragat",
           "desc": "[WinDuel] Inflict +1 [Sinking] Count",
           "coinlist": [
             {
@@ -746,7 +746,7 @@
         },
         {
           "level": 2,
-          "name": "Remise",
+          "name": "Feragat",
           "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[WinDuel] Inflict +1 [Sinking] Count",
           "coinlist": [
             {
@@ -767,7 +767,7 @@
         },
         {
           "level": 4,
-          "name": "Remise",
+          "name": "Feragat",
           "desc": "[WhenUse] If target has 6+ [Sinking], Coin Power +1\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[WinDuel] Inflict +2 [Sinking] Count",
           "coinlist": [
             {
@@ -793,7 +793,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Nightmare Hunt",
+          "name": "Kâbus Avı",
           "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[EndSkill] If target is Staggered, inflict +3 [Sinking] Count\n[EndSkill] If target is defeated, inflict +3 [Sinking] Count on 1 random enemy",
           "coinlist": [
             {
@@ -828,7 +828,7 @@
         },
         {
           "level": 4,
-          "name": "Nightmare Hunt",
+          "name": "Kâbus Avı",
           "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 3)\n[EndSkill] If target is Staggered, inflict +3 [Sinking] Count\n[EndSkill] If target is defeated, inflict +3 [Sinking] Count on 2 random enemies",
           "coinlist": [
             {
