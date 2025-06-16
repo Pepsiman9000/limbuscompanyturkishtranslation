@@ -10,14 +10,14 @@
             "model": "K사연구원3",
             "teller": "Hurrying Researcher",
             "title": "K Corp. Laboratory",
-            "content": "Mr. Dongrang... A moment, please...!"
+            "content": "Bay Dongrang... Bir dakikanızı rica edeceğim...!"
         },
         {
             "id": 2,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Haha, you've all turned pale. Ah, pardon me for a moment."
+            "content": "Haha, solup gitmişsin. Ah, bir saniye dostlar."
         },
         {
             "id": 3,
@@ -128,22 +128,22 @@
         {
             "id": 29,
             "model": "이스마엘",
-            "content": "That explains it. I read that Nest K has a custom of walking outside without an umbrella to stand in the rain on the night of a certain month every year..."
+            "content": "Yeterince açıklıyor gibi. Her sene, belirli bir ayın gecesinde şemsiye almadan dışarı çıkıp yağmurun üstünde durmanın K Yuvası'nda bir gelenek olduğunu duymuştum..."
         },
         {
             "id": 30,
             "model": "이스마엘",
-            "content": "...Don't tell me, am I alone in this again? Have none of you checked out the pamphlet guide to K Corp's Nest and Backstreets until now? No one?"
+            "content": "...Bunda da tek başıma kaldığımı söylemeyin ya? Hiç biriniz mi K Yuvası ve Arka Sokakları için verilen broşürleri okumuyor? Söylesenize?"
         },
         {
             "id": 31,
             "model": "로쟈",
-            "content": "Oh, that thing... I used mine to whack some bugs... So I gotta get a... new one..."
+            "content": "Oh, o şey mi... Benimkini iki sinek pataklamak için harcamıştım... Yani... yenisini almam gerek..."
         },
         {
             "id": 32,
             "model": "이스마엘",
-            "content": "Does this look like the time to be joking around, Rodya?!"
+            "content": "Şaka yapılacak bir anda gibi mi görünüyoruz, Rodya?!"
         },
         {
             "id": 33,
@@ -152,22 +152,22 @@
         {
             "id": 34,
             "model": "싱클레어",
-            "content": "By the way, that story... It feels similar to what the regeneration ampule does, doesn't it?"
+            "content": "Bu arada, bu hikaye... Rejenerasyon ampullerinin yaptıklarına çok benziyor, değil mi?"
         },
         {
             "id": 35,
             "model": "싱클레어",
-            "content": "That rain that restores you to health..."
+            "content": "İyileştirici yağmurlar..."
         },
         {
             "id": 36,
             "model": "그레고르",
-            "content": "Yeah, so... You trying to say it was made from rains dropped by stars?"
+            "content": "Yani diyorsun ki... Yıldızlardan düşen yağmurlar ile mi yapılmışlar?"
         },
         {
             "id": 37,
             "model": "로쟈",
-            "content": "Wait, wasn't it nanobots and not watery stuff in the first place?"
+            "content": "Bekle ya, nanobotlarla yapmıyorlar mıydı?"
         },
         {
             "id": 38,
@@ -177,17 +177,17 @@
         {
             "id": 39,
             "model": "파우스트",
-            "content": "I am a woman of science. I prefer judgement based on facts over metaphors."
+            "content": "Ben bir bilim kadınıyım. Metaforlar yerine, gerçekler üzerine yargı taşımayı yeğlerim."
         },
         {
             "id": 40,
             "model": "파우스트",
-            "content": "This... so-called analysis and interpretation of stars and clouds might be an area Yi Sang is more familiar with."
+            "content": "Bu... yıldız ve bulutların analiz ve yorumu, Yi Sang'ın daha uygun olduğu bir alan olabilir."
         },
         {
             "id": 41,
             "model": "파우스트",
-            "content": "He's a researcher like me, but we're not quite the same."
+            "content": "O da benim gibi bir araştırmacı, ama bana tamamen benzer birisi değil."
         },
         {
             "id": 42,
@@ -199,14 +199,14 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "We'd better hurry. The situation seems pretty serious."
+            "content": "Acele etsek iyi olur, mesele ciddi görünüyor."
         },
         {
             "id": 44,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I hear they managed to storm all the way into rooms where experiments are conducted this time."
+            "content": "Bu defa, bizzat deneylerin gerçekleştirildiği odalara sızmayı başardıkları duyumunu aldım."
         },
         {
             "id": 45,
@@ -218,7 +218,7 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It does appear that there's been an evacuation order. However, as you witnessed last time, this is not the first emergency that occurred this week. They might be worried that evacuating again could disrupt the 70-hour workweek policy."
+            "content": "Bir tahliye emri çıktığını görüyoruz. Fakat gördüğünüz üzere, bu haftanın tek acil uyarısı değildi bu. Tekrardan bir tahliye emri çıkmasının, haftada 70 saat çalışma politikasını bozacağından endişe duyuyorlar."
         },
         {
             "id": 47,
@@ -228,53 +228,53 @@
         {
             "id": 48,
             "model": "오티스",
-            "content": "I don't get it. How was this attack possible? It didn't seem like a structure that allowed intruders to sneak into the room undetected."
+            "content": "Anlamıyorum, böyle bir saldırı nasıl mümkün olabiliyor? Düşmanların tespit edilmeden odalara girebileceği bir kat yapısı göremiyorum bu binada."
         },
         {
             "id": 49,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "We're running short of time, so I'll explain as we go up."
+            "content": "Zamanımız kısıtlı, bunu yukarı çıktığımız sırada anlatacağım."
         },
         {
             "id": 50,
             "model": "료슈",
-            "content": "Object."
+            "content": "İtirazım var."
         },
         {
             "id": 51,
             "model": "료슈",
-            "content": "Give one reason we should go with you."
+            "content": "Seninle gitmemiz için bir neden söyle."
         },
         {
             "id": 52,
             "model": "뫼르소",
-            "content": "Indeed. The contract has been fulfilled."
+            "content": "Doğru, sözleşme çoktan tamamlandı."
         },
         {
             "id": 53,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That's true. But, as much as I want to give the Bough to you, it's been taken before our eyes."
+            "content": "Haklısınız. Fakat size Dal'ı ne kadar vermek istesem de, gördüğünüz üzere direkt olarak elimizden çalındı."
         },
         {
             "id": 54,
             "model": "료슈",
-            "content": "Hmgh... TRASHES..."
+            "content": "Hmgh... ÇÖPLÜK..."
         },
         {
             "id": 55,
             "model": "로쟈",
-            "content": "Is this... really right? Hey... What does the contract exactly say?"
+            "content": "Bu... gerçekten doğru mu ki? Hey... Sözleşme tam olarak ne diyor bu konuda?"
         },
         {
             "id": 56,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Hm... I couldn't say, I'm not all too knowledgeable when it comes to legal matters..."
+            "content": "Hm... Bilemiyorum, Mesele evrak olunca benim de bilgim kısıtlı..."
         },
         {
             "id": 57,
@@ -283,12 +283,12 @@
         {
             "id": 58,
             "model": "료슈",
-            "content": "S.A."
+            "content": "C.Ç."
         },
         {
             "id": 59,
             "model": "싱클레어",
-            "content": "Mister Samjo... She wants answers..."
+            "content": "Bay Samjo... Cevap istiyor..."
         },
         {
             "id": 60,
@@ -300,24 +300,24 @@
         {
             "id": 61,
             "model": "료슈",
-            "content": "S.A...!"
+            "content": "C.Ç...!"
         },
         {
             "id": 62,
             "model": "싱클레어",
-            "content": "S-Samjo... She says she'll assail you this time...!"
+            "content": "S-Samjo bey... Bu sefer cıvkınızı çıkartacak gibi görünüyor...!"
         },
         {
             "id": 63,
             "model": "료슈",
-            "content": "Wrong. I said I'll assail him right now."
+            "content": "Yanlış, tam olarak şimdi çıkartacağım."
         },
         {
             "id": 64,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "T-This is an emergency, an emergency!!! You should go upstairs, quickly!"
+            "content": "B-bu bir acil durum, acil durum!!! Hemen üst katlara çıkmamız gerek!"
         },
         {
             "id": 65,
@@ -327,7 +327,7 @@
         {
             "id": 66,
             "model": "료슈",
-            "content": "I'll show SANGRIA... I swear it."
+            "content": "SANGRIA'yı göstereceğim sana... Yeminle."
         },
         {
             "id": 67,
@@ -351,120 +351,120 @@
             "model": "K사연구원2",
             "teller": "Dying Researcher",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Help me... Mr. Dongrang... Please, save me..."
+            "content": "Yardım... Mr. Dongrang... Lütfen, kurtarın beni..."
         },
         {
             "id": 72,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "My staff member... is begging for help, wouldn't you consider letting them go?"
+            "content": "Çalışanım... benim için yalvarıyor, serbest bırakmayı düşünür müydünüz?"
         },
         {
             "id": 73,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "If it's intelligence you want, I'll give it to you. We were planning to go out for a staff dinner tomorrow, and the restaurant we booked serves such delicious meat."
+            "content": "Eğer istediğiniz şey istihbaratsa, buyrun sizin olsun. Yarın çalışanlarımla akşam yemeğine çıkmayı düşünüyordum, ve rezerasyon aldığımız restoranın etleri muazzam."
         },
         {
             "id": 74,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It'd be rather unfortunate if the smell awaiting us tomorrow came from incense sticks at a funeral instead of meat on a grill. Wouldn't you agree?"
+            "content": "Yarın bizi bekleyen koku, ızgaradaki etler yerine cenazedeki tütsülerden geliyor olsaydı çok üzücü olurdu, haksız mıyım?"
         },
         {
             "id": 75,
             "model": "기술해방연합1",
             "teller": "Alliance Member",
             "title": "Technology Liberation Alliance",
-            "content": "Intelligence? We have no need for it."
+            "content": "İstihbarat mı? İhtiyacımız yok."
         },
         {
             "id": 76,
             "model": "히스클리프",
-            "content": "Huh, you're walking in unarmed now? What happened to your robots that did the fighting for you wimps?"
+            "content": "Hah, artık eliniz boş mu geliyorsunuz? Siz ezikler için savaşan biricik robotlarınıza ne oldu lan?"
         },
         {
             "id": 77,
             "model": "기술해방연합1",
             "teller": "Alliance Member",
             "title": "Technology Liberation Alliance",
-            "content": "We have no need to bring our robots, either."
+            "content": "Robotlarımızı getirmemize de ihtiyacımız yok."
         },
         {
             "id": 78,
             "model": "기술해방연합1",
             "teller": "Alliance Member",
             "title": "Technology Liberation Alliance",
-            "content": "I see plenty of useful-looking ones here."
+            "content": "Burada pek çok kullanışlı robot duruyor."
         },
         {
             "id": 79,
             "model": "오티스",
-            "content": "...Are you trying to...?"
+            "content": "...Ne yapmaya...?"
         },
         {
             "id": 80,
             "model": "검문소경비2",
             "teller": "Class 2 Excision Staff",
             "title": "K Corp.",
-            "content": "We were ordered to excise terrorists. Target: all parts."
+            "content": "Teröristleri kesmek için görevlendirildik. Hedef, tüm parçalar."
         },
         {
             "id": 81,
             "model": "이스마엘",
-            "content": "Huff. We outnumber them by a wide margin. It might be a little unfair, but... it seems like we won't have any trouble beating them."
+            "content": "Huff. Sayı üstünlüğü bizde. Hiç adil olmayabilir, fakat... görünüşe bakılırsa bunları yenmek pek de zor olmayacak."
         },
         {
             "id": 82,
             "model": "기술해방연합1",
             "teller": "Alliance Member",
             "title": "Technology Liberation Alliance",
-            "content": "Ms. Ran's expertise was hijacking machines."
+            "content": "Bayan Ran'ın yeteneği, makineleri sabote etmekti."
         },
         {
             "id": 83,
             "model": "기술해방연합1",
             "teller": "Alliance Member",
             "title": "Technology Liberation Alliance",
-            "content": "She was more experienced in hacking than fighting."
+            "content": "Hacklemekte, savaşmaktan daha iyidi."
         },
         {
             "id": 84,
             "model": "K사앰플기계",
             "teller": "Ampule Helper",
             "title": "K Corp.",
-            "content": "Welcome. Here at K Corp, we value your safety above all else."
+            "content": "Hoşgeldiniz. K Kuruluşu'nda, güvenliğiniz bir numaralı önceliğimizdir."
         },
         {
             "id": 85,
             "model": "검문소경비",
             "teller": "Class 2 Excision Staff",
             "title": "K Corp.",
-            "content": "Huh, wait... What's..."
+            "content": "Hah, bekle... Ne oluyor..."
         },
         {
             "id": 86,
             "model": "K사앰플기계",
             "teller": "Ampule Helper",
             "title": "K Corp.",
-            "content": "For everyone's safety, deserters attempting to flee from battle will be injected with a decay ampule according to regulatory rules. The ampule will be launched if you leave the 120-meter radius of the combat area; you are 49 meters away from the perimeter."
+            "content": "Herkesin güvenliği için, savaştan kaçan kişiler, kurallar gereği çürüme ampullerine maruz kalacak. Ampul, savaş alanının 120 metre çevresinden uzaklaştırsanız enjekte edilecek; anlık olarak çemberden 49 metre uzaktasınız."
         },
         {
             "id": 87,
             "model": "검문소경비",
             "teller": "Class 2 Excision Staff",
             "title": "K Corp.",
-            "content": "...Shoot..."
+            "content": "...Vur..."
         },
         {
             "id": 88,
             "model": "해킹당한K사앰플기계",
             "teller": "Ampule Helper",
             "title": "K Corp.",
-            "content": "If you do not attack the enemy within the next 5 seconds, the decay ampule will be administered according to regulatory rules. You have 4 seconds remaining."
+            "content": "Eğer düşmana 5 saniye içinde saldırmazsanız, çürüme ampulü kurallar gereğince enjekte edilecek. 4 saniyeniz kaldı."
         },
         {
             "id": 89,
@@ -476,7 +476,7 @@
             "model": "검문소경비",
             "teller": "Class 2 Excision Staff",
             "title": "K Corp.",
-            "content": "Damn it... I've got no choice..."
+            "content": "Lanet olsun... Başka seçeneğim yok..."
         },
         {
             "id": 91,
@@ -486,31 +486,31 @@
         {
             "id": 92,
             "model": "돈키호테",
-            "content": "Why...!"
+            "content": "Nede...!"
         },
         {
             "id": 93,
             "model": "검문소경비",
             "teller": "Class 2 Excision Staff",
             "title": "K Corp.",
-            "content": "I... don't wanna get hit by the decay ampule. I want to live..."
+            "content": "Çürüme... çürüme ampulünü yemek istemiyorum. Yaşamak istiyorum ben..."
         },
         {
             "id": 94,
             "model": "해킹당한K사앰플기계",
             "teller": "Ampule Helper",
             "title": "K Corp.",
-            "content": "Current status: no deserters detected, all status green. Please stand in line for regeneration ampules."
+            "content": "Güncel durum: kaçak tespit edilemedi, her ışık yeşil. Lütfen rejenerasyon ampulü için sıraya geçip."
         },
         {
             "id": 95,
             "model": "뫼르소",
-            "content": "…I see."
+            "content": "…Görüyorum."
         },
         {
             "id": 96,
             "model": "오티스",
-            "content": "They're weighing their lives with ours, not unlike what we do. Please permit us to engage."
+            "content": "Bizim yaptığımız gibi, kendi hayatlarını bizim hayatlarımız ile ölçüyorlar. Lütfen saldırmamıza izin verin."
         },
         {
             "id": 97,
