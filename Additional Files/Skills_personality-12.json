@@ -868,7 +868,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Do You Wish to Weep?",
+          "name": "Ağlamak İster Misin?",
           "desc": "[WhenUse] If target has 5+ [Sinking], Coin Power +1",
           "coinlist": [
             {}
@@ -876,7 +876,7 @@
         },
         {
           "level": 4,
-          "name": "Do You Wish to Weep?",
+          "name": "Ağlamak İster Misin?",
           "desc": "[WhenUse] Coin Power +1 for every 3 [Sinking] on target (max 3)",
           "coinlist": [
             {}
