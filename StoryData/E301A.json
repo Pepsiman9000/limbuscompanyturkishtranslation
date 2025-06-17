@@ -4,24 +4,24 @@
             "id": 0,
             "place": "Bodhisattva Tavukçusu",
             "model": "그레고르",
-            "content": "Tamam, şimdi her şey yoluna girdiğine göre, konuya dönelim, dost canlısı dört gözlü yabancı?"
+            "content": "Tamam, şimdi her şey yoluna girdiğine göre, konuya dönelim, birden bire bizden oluveren dört göz ahbap?"
         },
         {
             "id": 1,
             "model": "삼조",
             "teller": "???",
             "title": "???",
-            "content": "Böyle bir lakap kullanılmasına itiraz etmeliyim; özellikle de bu lakap bir başka kadeh sahibinden geliyorsa."
+            "content": "Böyle bir lakap kullanılmasına itiraz etmeliyim; özellikle de bu lakap başka bir gözlüklüden geliyorsa."
         },
         {
             "id": 2,
             "model": "그레고르",
-            "content": "A—Ah, peki öyleyse… Bunun hakkında üzgünüm, sanırım."
+            "content": "A—Ah, peki öyleyse… Bunun hakkında özür dilerim."
         },
         {
             "id": 3,
             "model": "뫼르소",
-            "content": "Kişinin kimliği gibi temel kişisel bilgiler, kişinin ölümünün kaydedilmesinden kolayca elde edilebilir."
+            "content": "Kişinin kimliği gibi temel bilgiler, kişinin ölümünün kaydedilmesiyle kolaylıkla öğrenilebilir."
         },
         {
             "id": 4,
@@ -32,12 +32,12 @@
         },
         {
             "id": 5,
-            "content": "Adam etrafında giderek artan düşmanlığa aldırmadan hemen kartını bize uzattı."
+            "content": "Adam etrafında giderek artan düşmanlığa aldırmadan kartını bize uzatmıştı."
         },
         {
             "id": 6,
             "model": "히스클리프",
-            "content": "Bir K Kurulu… Gıda Kaynakları Geliştirme Departmanı Araştırma Merkezi’nin iştiraki…"
+            "content": "Bir K Kuruluşu… Gıda Kaynakları Geliştirme Dairesi'ne bağlı Araştırma Merkezi'nin bir yan kuruluşu…"
         },
         {
             "id": 7,
@@ -47,56 +47,56 @@
         {
             "id": 8,
             "model": "히스클리프",
-            "content": "Hah! Bir sürü büyük süslü sözle kandırılacağımızı mı sandın?"
+            "content": "He yarrağım! Birkaç süslü lafla bizi kandırabileceğini mi sandın?"
         },
         {
             "id": 9,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Elbette. İkna ve açıklama konusunda uzmanım, bu yüzden lütfen sakin olun ve dinleyin."
         },
         {
             "id": 10,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Az önce gösterdiğiniz mücadele beni çok etkiledi."
         },
         {
             "id": 11,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Özellikle, yakınlarda ölmekte olan bir meslektaşınıza karşı açıkça umursamaz bir şekilde düşmanlarınıza saldırmaya devam etmeniz birkaç kişiyi bile güldürdü."
         },
         {
             "id": 12,
             "model": "오티스",
-            "content": "Heh… Dost olsun düşman olsun, engel olmaya kalkanları derhal uzaklaştırmak gerek."
+            "content": "Heh… Dost ya da düşman, engel olmaya kalkanları derhal zevale erdirmek gerek."
         },
         {
             "id": 13,
-            "content": "Outis, bu sözlere iltifat gibi gelmese de gurur dolu bir ifadeyle karşılık verdi."
+            "content": "Outis guru dolu bir şekilde karşılık vermişti, her ne kadar bunlar iltifat olmaktan uzak olsalarda."
         },
         {
             "id": 14,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Gördüğünüz gibi, restoranın önünü işgal eden, nereden geldiği bilinmeyen tavuk kafaları büyük hasara yol açıyor."
         },
         {
             "id": 15,
             "model": "히스클리프",
-            "content": "…Ne olmuş yani?"
+            "content": "…Eeee nolmuş yarrağam?"
         },
         {
             "id": 16,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
-            "content": "Mekanın yöneticisi de az önceye kadar yatağa bağımlıydı."
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
+            "content": "Mekanın yöneticisi de az önceye kadar yatak döşekti."
         },
         {
             "id": 17,
@@ -106,7 +106,7 @@
             "id": 18,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Artık konuşabilirsin."
         },
         {
@@ -121,7 +121,7 @@
             "model": "보살치킨",
             "teller": "Bodhisattva Tavukçusu'nun Yöneticisi",
             "title": "Bodhisattva Tavukçusu",
-            "content": "İmtiyazımız, üstün kaliteli kümes hayvanlarını kullanarak cömert porsiyonlarda lezzetli yemekler sunuyor, bu nedenle tüm müşterilerin Eunbong'dan gelmesi doğaldı."
+            "content": "Restoran zincirimiz, üstün kaliteli kümes hayvanlarını kullanarak cömert porsiyonlarda lezzetli yemekler sunuyor, bu nedenle tüm müşterilerin Eunbong'dan gelmesi doğaldı."
         },
         {
             "id": 21,
@@ -137,7 +137,7 @@
         },
         {
             "id": 23,
-            "content": "Sanki restoran sahibinin sıkıntısına tanıklık edercesine, sokağın diğer tarafından çığlıklar yankılanıyordu."
+            "content": "Sanki restoran sahibinin dertlerini tasfir edercesine, sokağın diğer tarafından çığlıklar duyuldu."
         },
         {
             "id": 24,
@@ -154,7 +154,7 @@
         },
         {
             "id": 26,
-            "content": "Eunbong'un sözde sahibi bir şeyler mırıldanırken kolunu sallayınca tavuklar hep bir ağızdan cevap verdi."
+            "content": "Eunbong'un sahibi olması gereken kişi bir şeyler mırıldanarak kolunu sallayınca tavuklar hep bir ağızdan harakete geçti."
         },
         {
             "id": 27,
@@ -168,14 +168,14 @@
         {
             "id": 29,
             "model": "그레고르",
-            "content": "Bu kesinlikle garip bir davranış. Birisi bu tür şeylere başvurmak için ne kadar kinci olmalı…?"
+            "content": "Bu kesinlikle garip bir sataşma şekli. Birisi bu tür şeylere başvurmak için ne kadar kinci olmalı…?"
         },
         {
             "id": 30,
             "model": "보살치킨",
             "teller": "Eunbong’un Barı ve Kızarmacısı Sahibi",
             "title": "Bodhisattva Tavukçusu",
-            "content": "Bunların büyütülüp büyütülmediğini bilmiyorum ama tüyleri yolunmuş ve hazırlanmış tavuklar restorana girip her şeyi mahvediyor.…"
+            "content": "Bunların çoğaltılıp çoğaltılmadığını bilmiyorum ama tüyleri yolunmuş ve terbiye edilmiş tavuklar restorana girip her şeyi mahvediyor.…"
         },
         {
             "id": 31,
@@ -189,7 +189,7 @@
             "id": 32,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "İşte onun tüylü şarkısı."
         },
         {
@@ -201,7 +201,7 @@
             "id": 34,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Bu onun gözyaşartıcı yansımasıydı. Bu davayla ilgilenmeye gönüllü olur muydunuz?"
         },
         {
@@ -223,14 +223,14 @@
             "id": 38,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Ömür boyu geçerli bir çek."
         },
         {
             "id": 39,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Bu isteğimi yerine getirin, size çığır açan bir avantaj sunayım: Hayatınızın geri kalanında bu restorandan ücretsiz sipariş alma hakkı kazanın."
         },
         {
@@ -244,8 +244,8 @@
             "id": 41,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
-            "content": "Hatta sizin için birkaç tane ücretsiz numune bile hazırladım."
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
+            "content": "Hatta sizin için birkaç tane tadımlık numune bile hazırladım."
         },
         {
             "id": 42,
@@ -262,8 +262,8 @@
             "id": 44,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
-            "content": "Hadi, hadi, sıraya girin ve her şeyi düzenli tutun. Farklı soyağaçları için numuneler getirdim, bu yüzden seçip almakta özgürsünüz. Her biri, farklı et kesimlerinde güçlü yönlerini gösteren benzersiz bir lezzet damgasıyla gelir."
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
+            "content": "Hadi, hadi, sıraya girin ve her şeyi düzenli tutun. Farklı cinslerden numuneler getirdim, bu yüzden seçip almakta özgürsünüz. Her biri, farklı et kesimlerinde güçlü yönlerini gösteren benzersiz bir lezzet damgasıyla gelir."
         },
         {
             "id": 45,
@@ -274,7 +274,7 @@
             "id": 46,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "O zaman şunu önereyim: Diğer tatları gelecekteki yemekleriniz için beklemeye bırakın. Ömür boyu kupon elinize geçtiğinde sorun olmayacaktır."
         },
         {
@@ -290,7 +290,7 @@
             "id": 49,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Öyleyse ne diyorsunuz?"
         },
         {
@@ -473,7 +473,7 @@
             "id": 86,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Kurulu Gıda Kaynak Geliştirme Departmanı",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Bunu bir evet olarak kabul ediyorum ve sizinle iletişime geçmenizi bekliyor olacağım."
         }
     ]
