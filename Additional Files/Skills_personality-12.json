@@ -5,14 +5,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Standoff",
-          "desc": "[WhenUse] Gain 2 Defense Level Up",
+          "name": "Karşılaşma",
+          "desc": "[WhenUse] 2 Defans Seviyesi Kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 Haste next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki turda 1 Hızlanma kazan"
                 }
               ]
             }
@@ -20,14 +20,14 @@
         },
         {
           "level": 2,
-          "name": "Standoff",
-          "desc": "[WhenUse] Gain 2 Defense Level Up\n[DefeatDuel] Gain Shield by (3 * Defense Level Up on self); Gain 1 Defense Level Up next turn",
+          "name": "Karşılaşma",
+          "desc": "[WhenUse] 2 Defans Seviyesi Kazan\n[DefeatDuel] Kendinde (3 * Defans Seviyesi) kadar Kalkan kazan; Sonraki turda 1 Defans Seviyesi Kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Haste next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda 1 Hızlanma kazan"
                 }
               ]
             }
@@ -35,14 +35,14 @@
         },
         {
           "level": 4,
-          "name": "Standoff",
-          "desc": "[WhenUse] Gain 2 Defense Level Up\n[DefeatDuel] Gain Shield by (5 * Defense Level Up on self); Gain 2 Defense Level Up next turn",
+          "name": "Karşılaşma",
+          "desc": "[WhenUse] 2 Defans Seviyesi Kazan\n[DefeatDuel] Kendinde (5 * Defans Seviyesi) kadar Kalkan kazan; Sonraki turda 2 Defans Seviyesi Kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Haste next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda 2 Hızlanma kazan"
                 }
               ]
             }
@@ -55,20 +55,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flexible Suppression",
-          "desc": "[WhenUse] Gain 2 Defense Level Up",
+          "name": "Esnek Baskılama",
+          "desc": "[WhenUse] 2 Defans Seviyesi Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 Defense Level Up next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki turda 1 Defans Seviyesi Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 Defense Level Up next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki turda 1 Defans Seviyesi Kazan"
                 }
               ]
             },
@@ -76,7 +76,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "At 6+ Defense Level Up, deal +20% damage"
+                  "desc": "6+ Defans Seviyesi varsa, %20 daha fazla Hasar ver"
                 }
               ]
             }
@@ -84,20 +84,20 @@
         },
         {
           "level": 2,
-          "name": "Flexible Suppression",
-          "desc": "[WhenUse] Gain 3 Defense Level Up\n[WhenUse] Gain +2 Aggro to this Skill Slot next turn",
+          "name": "Esnek Baskılama",
+          "desc": "[WhenUse] 3 Defans Seviyesi Kazan\n[WhenUse] Sonraki turda bu Yetenek Yuvasına +2 Aggro kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda 1 Defans Seviyesi Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda 1 Defans Seviyesi Kazan"
                 }
               ]
             },
@@ -105,7 +105,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "At 6+ Defense Level Up, deal +30% damage"
+                  "desc": "6+ Defans Seviyesi varsa, %30 daha fazla Hasar ver"
                 }
               ]
             }
@@ -113,20 +113,20 @@
         },
         {
           "level": 4,
-          "name": "Flexible Suppression",
-          "desc": "[WhenUse] Gain 3 Defense Level Up\n[WhenUse] Gain +3 Aggro to this Skill Slot next turn\nAt 6+ Defense Level Up, Clash Power +1",
+          "name": "Esnek Baskılama",
+          "desc": "[WhenUse] 3 Defans Seviyesi Kazan\n[WhenUse] Sonraki turda bu Yetenek Yuvasına +3 Aggro kazan\n6+ Defans Seviyesi varsa, Çarpışma Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda 1 Defans Seviyesi Kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda 1 Defans Seviyesi Kazan"
                 }
               ]
             },
@@ -134,7 +134,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "At 6+ Defense Level Up, deal +40% damage"
+                  "desc": "6+ Defans Seviyesi varsa, %40 daha fazla Hasar ver"
                 }
               ]
             }
@@ -147,15 +147,15 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Guardian",
-          "desc": "[WhenUse] Apply 2 Defense Power Up and 3 Defense Level Up to all allies\nAt 6+ Defense Level Up, Coin Power +1\nAt 10+ Defense Level Up, deal +30% damage",
+          "name": "Muhafız",
+          "desc": "[WhenUse] Tüm müttefiklere 2 Defans Gücü ve 3 Defans Seviyesi uygula\n6+ Defans Seviyesi varsa, Jeton Gücü +1\n10+ Defans Seviyesi varsa, %30 daha fazla Hasar ver",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply 3 Defense Level Up to all allies next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda tüm müttefiklere 3 Defans Seviyesi uygula"
                 }
               ]
             }
@@ -163,15 +163,15 @@
         },
         {
           "level": 4,
-          "name": "Guardian",
-          "desc": "[WhenUse] Apply 2 Defense Power Up and 3 Defense Level Up to all allies\nCoin Power +1 per 6 Defense Level Up (Max 3)\nAt 10+ Defense Level Up, deal +50% damage",
+          "name": "Muhafız",
+          "desc": "[WhenUse] Tüm müttefiklere 2 Defans Gücü ve 3 Defans Seviyesi uygula\nHer 6 Defans Seviyesi için Jeton Gücü +1 (Maks 3)\n10+ Defans Seviyesi varsa, %50 daha fazla Hasar ver",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply 3 Defense Level Up to all allies next turn"
+                  "desc": "[OnSucceedAttack] Sonraki turda tüm müttefiklere 3 Defans Seviyesi uygula"
                 }
               ]
             }
@@ -184,16 +184,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Best Defense",
-          "desc": "[StartBattle] Gain Shield by (2 * Defense Level Up on self)",
+          "name": "En iyi Savunma",
+          "desc": "[StartBattle] Kendindeki (2 * Defans Seviyesi) kadar Kalkan kazan",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "The Best Defense",
-          "desc": "[StartBattle] Gain Shield by (2 * Defense Level Up on self)\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn",
+          "name": "En iyi Savunma",
+          "desc": "[StartBattle] Kendindeki (2 * Defans Seviyesi) kadar Kalkan kazan\n[WhenUse] Sonraki turda bu Yetenek Yuvasına +5 Aggro kazan",
           "coinlist": [
             {}
           ]
@@ -205,8 +205,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Negotiation Start",
-          "desc": "[WhenUse] Gain 2 Poise",
+          "name": "Pazarlık",
+          "desc": "[WhenUse] 3 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -216,7 +216,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                 }
               ]
             }
@@ -224,23 +224,23 @@
         },
         {
           "level": 2,
-          "name": "Negotiation Start",
-          "desc": "[WhenUse] Gain 3 Poise",
+          "name": "Pazarlık",
+          "desc": "[WhenUse] 3 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -248,23 +248,23 @@
         },
         {
           "level": 4,
-          "name": "Negotiation Start",
-          "desc": "[WhenUse] Gain 3 Poise\nIf target has 7+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, Coin Power +1",
+          "name": "Pazarlık",
+          "desc": "[WhenUse] 3 [Breath] kazan\nHedefte 7+ [Laceration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -277,23 +277,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Unilateral Business",
-          "desc": "[WhenUse] Gain +2 Poise Count",
+          "name": "Dayatılmış Ticaret",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 3 Poise"
+                  "desc": "[OnSucceedAttackHead] 3 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -301,29 +301,29 @@
         },
         {
           "level": 2,
-          "name": "Unilateral Business",
-          "desc": "[WhenUse] Gain +3 Poise Count",
+          "name": "Dayatılmış Ticaret",
+          "desc": "[WhenUse] +3 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 4 Poise"
+                  "desc": "[OnSucceedAttackHead] 4 [Breath] kazan"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 2 [Laceration] uygula"
                 },
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta %30 daha fazla Hasar"
                 }
               ]
             }
@@ -331,29 +331,29 @@
         },
         {
           "level": 4,
-          "name": "Unilateral Business",
-          "desc": "Coin Power +1 for every 7 Bleed on target (Max 2)\n[WhenUse] Gain +3 Poise Count",
+          "name": "Dayatılmış Ticaret",
+          "desc": "Hedefteki her 7 [Laceration] için Jeton Gücü +1 (Maks 2)\n[WhenUse] +3 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 Poise"
+                  "desc": "[OnSucceedAttack] 4 [Breath] kazan"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 2 [Laceration] uygula"
                 },
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta %50 daha fazla Hasar"
                 }
               ]
             }
@@ -366,23 +366,23 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Foregone Conclusion",
-          "desc": "[WhenUse] Gain 1 Poise per 3 Bleed on target (Max 5)\nAt 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></color></link></u>, Coin Power +1",
+          "name": "Kaçınılmaz Sonuç",
+          "desc": "[WhenUse] Hedefteki her 3 [Laceration] için 1 [Breath] kazan (Maks 5)\n7+ [Breath] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +2 Bleed Count"
+                  "desc": "[CriticalOnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo"
+                  "desc": "1 [Ammo] harca"
                 },
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta %50 daha fazla Hasar"
                 }
               ]
             }
@@ -390,26 +390,26 @@
         },
         {
           "level": 4,
-          "name": "Foregone Conclusion",
-          "desc": "[WhenUse] Gain 1 Poise for every 3 Bleed on target (Max 10)\nGain Coin Power +1 for every 7 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></color></link></u> on self (Max +3)",
+          "name": "Kaçınılmaz Sonuç",
+          "desc": "[WhenUse] Hedefteki her 3 [Laceration] için 1 [Breath] kazan (Maks 10)\nKendindeki her 7 [Breath] için Jeton Gücü +1 kazan (Maks +3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +2 Bleed Count"
+                  "desc": "[CriticalOnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo"
+                  "desc": "1 [Ammo] harca"
                 },
                 {
-                  "desc": "+100% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta %100 daha fazla Hasar"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 1 Plus Coin Boost next turn"
+                  "desc": "[EnemyKill] Sonraki turda 1 Pozitif Jeton Güçlendirme kazan"
                 }
               ]
             }
@@ -422,16 +422,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Take a Breather",
-          "desc": "[OnSucceedEvade] Gain 1 Poise (Max 3 per turn)",
+          "name": "Ufak bir Mola",
+          "desc": "[OnSucceedEvade] 1 [Breath] kazan (Tur başına maks 3)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Take a Breather",
-          "desc": "[OnSucceedEvade] Gain 1 Poise (Max 5 per turn)",
+          "name": "Ufak bir Mola",
+          "desc": "[OnSucceedEvade] 1 [Breath] kazan (Tur başına maks 5)",
           "coinlist": [
             {}
           ]
@@ -443,13 +443,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lenticular Rend",
-          "desc": "[WinDuel] Inflict 1 [Laceration]",
+          "name": "Mercekli yırtılma",
+          "desc": "[WinDuel] 1 [Laceration] uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -457,13 +457,13 @@
         },
         {
           "level": 2,
-          "name": "Lenticular Rend",
-          "desc": "<style=\"highlight\">[WhenUse] If target has 7+ [Laceration], Clash Power +1</style>\n[WinDuel] Inflict 1 [Laceration]",
+          "name": "Mercekli yırtılma",
+          "desc": "[WhenUse] Hedefte 7+ [Laceration] varsa, Çarpışma Gücü +1\n[WinDuel] 1 [Laceration] uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -471,13 +471,13 @@
         },
         {
           "level": 3,
-          "name": "Lenticular Rend",
-          "desc": "[WhenUse_Force] <color=#EBCAA2>If target has 7+ [Laceration], Clash Power +1</color>\n[WinDuel] Inflict 1 [Laceration]",
+          "name": "Mercekli yırtılma",
+          "desc": "[WhenUse_Force] Hedefte 7+ [Laceration] varsa, Çarpışma Gücü +1\n[WinDuel] 1 [Laceration] uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -485,13 +485,13 @@
         },
         {
           "level": 4,
-          "name": "Lenticular Rend",
-          "desc": "[WhenUse] If target has 7+ [Laceration], Clash Power +<style=\"highlight\">2</style>\n[WinDuel] Inflict 1 [Laceration]",
+          "name": "Mercekli yırtılma",
+          "desc": "[WhenUse] Hedefte 7+ [Laceration] varsa, Çarpışma Gücü +2\n[WinDuel] 1 [Laceration] uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -504,23 +504,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shadow Cloud",
+          "name": "Gölge Bulut",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 1 Saldırı Seviyesi Düşür"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ [Laceration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Hedefte 10+ [Laceration] varsa, sonraki turda 1 Saldırı Gücü Düşür"
                 }
               ]
             }
@@ -528,23 +528,23 @@
         },
         {
           "level": 2,
-          "name": "Shadow Cloud",
+          "name": "Gölge Bulut",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 1 Saldırı Seviyesi Düşür"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ [Laceration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Hedefte 10+ [Laceration] varsa, sonraki turda 1 Saldırı Gücü Düşür"
                 }
               ]
             }
@@ -552,23 +552,23 @@
         },
         {
           "level": 4,
-          "name": "Shadow Cloud",
-          "desc": "[WhenUse] If target has 7+ [Laceration], Clash Power +2",
+          "name": "Gölge Bulut",
+          "desc": "[WhenUse] Hedefte 7+ [Laceration] varsa, Çarpışma Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 1 Saldırı Seviyesi Düşür"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 7+ [Laceration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Hedefte 7+ [Laceration] varsa, sonraki turda 1 Saldırı Gücü Düşür"
                 }
               ]
             }
@@ -581,33 +581,33 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Shadowcloud Shattercleave",
-          "desc": "[WhenUse] If target has 7+ [Laceration], Clash Power +1",
+          "name": "Gölge bulutu Parçalanan Kesiş",
+          "desc": "[WhenUse] Hedefte 7+ [Laceration] varsa, Çarpışma Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 1 Saldırı Seviyesi Düşür"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
+                  "desc": "[OnSucceedAttack] Hedefte 7+ [Laceration] varsa, sonraki turda 1 Saldırı Seviyesi Düşür"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 1 Saldırı Seviyesi Düşür"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
+                  "desc": "[OnSucceedAttack] Hedefte 7+ [Laceration] varsa, sonraki turda 1 Saldırı Seviyesi Düşür"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ [Laceration], inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Hedefte 10+ [Laceration] varsa, sonraki turda 1 Pozitif Jeton Düşür"
                 }
               ]
             }
@@ -615,36 +615,36 @@
         },
         {
           "level": 4,
-          "name": "Shadowcloud Shattercleave",
-          "desc": "[WhenUse] If target has 7+ [Laceration], Clash Power +1\n[WhenUse] If target has 10+ [Laceration], Coin Power +1",
+          "name": "Gölge bulutu Parçalanan Kesiş",
+          "desc": "[WhenUse] Hedefte 7+ [Laceration] varsa, Çarpışma Gücü +1\n[WhenUse] Hedefte 10+ [Laceration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 1 Saldırı Seviyesi Düşür"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
+                  "desc": "[OnSucceedAttack] Hedefte 7+ [Laceration] varsa, sonraki turda 1 Saldırı Seviyesi Düşür"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 1 Saldırı Seviyesi Düşür"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 7+ [Laceration], inflict 1 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Hedefte 7+ [Laceration] varsa, sonraki turda 1 Saldırı Seviyesi Düşür"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] 3 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has <style=\"highlight\">7</style>+ [Laceration], inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Hedefte 7+ [Laceration] varsa, sonraki turda 1 Pozitif Jeton Düşür"
                 }
               ]
             }
@@ -657,7 +657,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Savunma",
           "desc": "",
           "coinlist": [
             {}
@@ -665,7 +665,7 @@
         },
         {
           "level": 4,
-          "name": "Guard",
+          "name": "Savunma",
           "desc": "",
           "coinlist": [
             {}
@@ -684,7 +684,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] 3 [Sinking] uygula"
                 }
               ]
             }
@@ -693,12 +693,12 @@
         {
           "level": 2,
           "name": "Kılıç Darbesi",
-          "desc": "[WhenUse] If target has 6+ [Sinking], Coin Power +2",
+          "desc": "[WhenUse] Hedefte 6+ [Sinking] varsa, Jeton Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] 3 [Sinking] uygula"
                 }
               ]
             }
@@ -707,12 +707,12 @@
         {
           "level": 4,
           "name": "Kılıç Darbesi",
-          "desc": "[WhenUse] Coin Power +1 for every 3 [Sinking] on target (max 2)\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)",
+          "desc": "[WhenUse] Hedefteki her 3 [Sinking] için Jeton Gücü +1 (maks 2)\n[WhenUse] Hedefteki her 3 [Sinking] Miktarı için Çarpışma Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] 3 [Sinking] uygula"
                 }
               ]
             }
@@ -726,19 +726,19 @@
         {
           "level": 1,
           "name": "Feragat",
-          "desc": "[WinDuel] Inflict +1 [Sinking] Count",
+          "desc": "[WinDuel] +1 [Sinking] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ [Sinking], gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Hedefte 5+ [Sinking] varsa, sonraki turda 1 [Agility] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +3 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -747,19 +747,19 @@
         {
           "level": 2,
           "name": "Feragat",
-          "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[WinDuel] Inflict +1 [Sinking] Count",
+          "desc": "[WhenUse] Hedefteki her 3 [Sinking] Miktarı için Çarpışma Gücü +1 (maks 2)\n[WinDuel] +1 [Sinking] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ [Sinking], gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Hedefte 5+ [Sinking] varsa, sonraki turda 1 [Agility] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +3 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -768,19 +768,19 @@
         {
           "level": 4,
           "name": "Feragat",
-          "desc": "[WhenUse] If target has 6+ [Sinking], Coin Power +1\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[WinDuel] Inflict +2 [Sinking] Count",
+          "desc": "[WhenUse] Hedefte 6+ [Sinking] varsa, Jeton Gücü +1\n[WhenUse] Hedefteki her 3 [Sinking] Miktarı için Çarpışma Gücü +1 (maks 2)\n[WinDuel] +2 [Sinking] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ [Sinking], gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Hedefte 5+ [Sinking] varsa, sonraki turda 1 [Agility] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +3 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -794,33 +794,33 @@
         {
           "level": 3,
           "name": "Kâbus Avı",
-          "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[EndSkill] If target is Staggered, inflict +3 [Sinking] Count\n[EndSkill] If target is defeated, inflict +3 [Sinking] Count on 1 random enemy",
+          "desc": "[WhenUse] Hedefteki her 3 [Sinking] Miktarı için Çarpışma Gücü +1 (maks 2)\n[EndSkill] Hedef Sersemlemişse, +3 [Sinking] Miktarı uygula\n[EndSkill] Hedef yenilmişse, 1 rastgele düşmana +3 [Sinking] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb 10 [Sinking] from the target and gain 1 [PlusCoinValueUp] and 1 [AttackDmgUp] next turn. 50% chance to gain the above effects without absorbing [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedeften 10 [Sinking] em ve sonraki turda 1 [PlusCoinValueUp] ve 1 [AttackDmgUp] kazan. [Sinking] emmeden yukarıdaki efektleri kazanma şansı %50"
                 }
               ]
             }
@@ -829,33 +829,33 @@
         {
           "level": 4,
           "name": "Kâbus Avı",
-          "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 3)\n[EndSkill] If target is Staggered, inflict +3 [Sinking] Count\n[EndSkill] If target is defeated, inflict +3 [Sinking] Count on 2 random enemies",
+          "desc": "[WhenUse] Hedefteki her 3 [Sinking] Miktarı için Çarpışma Gücü +1 (maks 3)\n[EndSkill] Hedef Sersemlemişse, +3 [Sinking] Miktarı uygula\n[EndSkill] Hedef yenilmişse, 2 rastgele düşmana +3 [Sinking] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb 10 [Sinking] from the target and gain 1 [PlusCoinValueUp] and 3 [AttackDmgUp] next turn. 50% chance to gain the above effects without absorbing [Sinking]"
+                  "desc": "[OnSucceedAttack] Hedeften 10 [Sinking] em ve sonraki turda 1 [PlusCoinValueUp] ve 3 [AttackDmgUp] kazan. [Sinking] emmeden yukarıdaki efektleri kazanma şansı %50"
                 }
               ]
             }
@@ -869,7 +869,7 @@
         {
           "level": 1,
           "name": "Ağlamak İster Misin?",
-          "desc": "[WhenUse] If target has 5+ [Sinking], Coin Power +1",
+          "desc": "[WhenUse] Hedefte 5+ [Sinking] varsa, Jeton Gücü +1",
           "coinlist": [
             {}
           ]
@@ -877,7 +877,7 @@
         {
           "level": 4,
           "name": "Ağlamak İster Misin?",
-          "desc": "[WhenUse] Coin Power +1 for every 3 [Sinking] on target (max 3)",
+          "desc": "[WhenUse] Hedefteki her 3 [Sinking] için Jeton Gücü +1 (maks 3)",
           "coinlist": [
             {}
           ]
@@ -890,22 +890,22 @@
         {
           "level": 1,
           "name": "Aile İçin Fedakarlık",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain +15 additional [Laceration]",
+          "desc": "[WhenUse] Sonraki turda bu Yetenek Yuvasına +3 [Aggro] kazan\n[WhenUse] 10 [Laceration] kazan\n- %50+ HP varsa, ek 15 [Laceration] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] 1 [BloodyHandGregFirst] kazan"
                 }
               ]
             }
@@ -914,22 +914,22 @@
         {
           "level": 2,
           "name": "Aile İçin Fedakarlık",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
+          "desc": "[WhenUse] Sonraki turda bu Yetenek Yuvasına +3 [Aggro] kazan\n[WhenUse] Hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] 10 [Laceration] kazan\n- %50+ HP varsa, ek 15 [Laceration] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">2</style> [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] 2 [BloodyHandGregFirst] kazan"
                 }
               ]
             }
@@ -938,22 +938,22 @@
         {
           "level": 4,
           "name": "Aile İçin Fedakarlık",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
+          "desc": "[WhenUse] Sonraki turda bu Yetenek Yuvasına +3 [Aggro] kazan\n[WhenUse] Hedefteki her 6 [Laceration] için Jeton Gücü +1 (maks 2)\n[WhenUse] 10 [Laceration] kazan\n- %50+ HP varsa, ek 15 [Laceration] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] 3 [BloodyHandGregFirst] kazan"
                 }
               ]
             }
@@ -966,23 +966,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nefes Kesen Vicdan Azabı",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]",
+          "name": "[Breath] Kesen Vicdan Azabı",
+          "desc": "[WhenUse] Sonraki turda bu Yetenek Yuvasına +3 [Aggro] kazan\n[WhenUse] 10 [Laceration] kazan\n[WhenUse] 5+ [WornHeartGreg] varsa, 60 [BloodDinner] tüket ve tüketilen her 6 [BloodDinner] için 1 [BloodyHandGregFirst] kazan\n- 5'ten az [WornHeartGreg] varsa, 10 [Laceration] ve 2 [BloodyHandGregFirst] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] 1 [BloodyHandGregFirst] kazan"
                 }
               ]
             }
@@ -990,23 +990,23 @@
         },
         {
           "level": 2,
-          "name": "Nefes Kesen Vicdan Azabı",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]",
+          "name": "[Breath] Kesen Vicdan Azabı",
+          "desc": "[WhenUse] Sonraki turda bu Yetenek Yuvasına +3 [Aggro] kazan\n[WhenUse] Hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] 10 [Laceration] kazan\n[WhenUse] 5+ [WornHeartGreg] varsa, 60 [BloodDinner] tüket ve tüketilen her 6 [BloodDinner] için 1 [BloodyHandGregFirst] kazan\n- 5'ten az [WornHeartGreg] varsa, 10 [Laceration] ve 2 [BloodyHandGregFirst] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">2</style> [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] 2 [BloodyHandGregFirst] kazan"
                 }
               ]
             }
@@ -1014,23 +1014,23 @@
         },
         {
           "level": 4,
-          "name": "Nefes Kesen Vicdan Azabı",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and <style=\"highlight\">3</style> [BloodyHandGregFirst]",
+          "name": "[Breath] Kesen Vicdan Azabı",
+          "desc": "[WhenUse] Sonraki turda bu Yetenek Yuvasına +3 [Aggro] kazan\n[WhenUse] Hedefteki her 6 [Laceration] için Jeton Gücü +1 (maks 2)\n[WhenUse] 10 [Laceration] kazan\n[WhenUse] 5+ [WornHeartGreg] varsa, 60 [BloodDinner] tüket ve tüketilen her 6 [BloodDinner] için 1 [BloodyHandGregFirst] kazan\n- 5'ten az [WornHeartGreg] varsa, 10 [Laceration] ve 3 [BloodyHandGregFirst] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] 3 [BloodyHandGregFirst] kazan"
                 }
               ]
             }
@@ -1044,32 +1044,32 @@
         {
           "level": 3,
           "name": "Bağışlanmaz Günah",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal +1% more damage for every 1% missing HP on self (max 60%)\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self",
+          "desc": "Bu Yetenekle Vuruş: verilen HP Hasarının %50'sini iyileştir (Yetenek başına maks 100)\n[WhenUse] Kendindeki her %1 eksik HP için %1 daha fazla Hasar ver (maks %60)\n[WhenUse] Hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] 10 Stack'ten fazla olan her [BloodyHandGregFirst] Stack'ini tüketerek aşağıdaki efektleri kazan:\n- Kendinde (Tüketilen Stack x 3) HP iyileştir\n- 10+ Stack tüketilirse, Jeton Gücü +1\n[WhenUse] 10 [Laceration] kazan\n[EndSkill] Kendinde %10 HP iyileştir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] 2 [BloodyHandGregFirst] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             }
@@ -1078,32 +1078,32 @@
         {
           "level": 4,
           "name": "Bağışlanmaz Günah",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal <style=\"highlight\">+1.5%</style> more damage for every 1% missing HP on self <style=\"highlight\">(max 90%)</style>\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n<style=\"highlight\">- If this unit consumed 20 Stack, Reuse the final Coin</style>\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self",
+          "desc": "Bu Yetenekle Vuruş: verilen HP Hasarının %50'sini iyileştir (Yetenek başına maks 100)\n[WhenUse] Kendindeki her %1 eksik HP için %1.5 daha fazla Hasar ver (maks %90)\n[WhenUse] Hedefte 6+ [Laceration] varsa, Jeton Gücü +1\n[WhenUse] 10 Stack'ten fazla olan her [BloodyHandGregFirst] Stack'ini tüketerek aşağıdaki efektleri kazan:\n- Kendinde (Tüketilen Stack x 3) HP iyileştir\n- 10+ Stack tüketilirse, Jeton Gücü +1\n- 20 Stack tüketilirse, Son Jetonu Tekrar Kullan\n[WhenUse] 10 [Laceration] kazan\n[EndSkill] Kendinde %10 HP iyileştir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] 3 [BloodyHandGregFirst] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Laceration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -1117,7 +1117,7 @@
         {
           "level": 1,
           "name": "Biten Sabır",
-          "desc": "[StartBattle] Gain 3 [WornHeartGreg] (once per turn)",
+          "desc": "[StartBattle] 3 [WornHeartGreg] kazan (tur başına bir kez)",
           "coinlist": [
             {
               "coindescs": [
@@ -1131,7 +1131,7 @@
         {
           "level": 4,
           "name": "Biten Sabır",
-          "desc": "<style=\"highlight\">[StartBattle] At 40%+ HP, gain 5 [Laceration] and activate [Laceration] up to 3 times on self (once per turn; lose [Laceration] Count equal to the number of times it was activated)\n[StartBattle] At less than 40% HP, consume up to 20 [BloodDinner] and heal the same value as HP (once per turn)</style>\n[StartBattle] Gain 3 [WornHeartGreg] (once per turn)",
+          "desc": "[StartBattle] %40+ HP varsa, 5 [Laceration] kazan ve kendinde [Laceration]'ı en fazla 3 kez aktifleştir (tur başına bir kez; aktifleştirilen [Laceration] Miktarı kadar [Laceration] Miktarı kaybet)\n[StartBattle] %40'tan az HP varsa, 20 [BloodDinner] tüket ve aynı değerde HP iyileştir (tur başına bir kez)\n[StartBattle] 3 [WornHeartGreg] kazan (tur başına bir kez)",
           "coinlist": [
             {
               "coindescs": [
@@ -1150,19 +1150,19 @@
         {
           "level": 1,
           "name": "Alev püskürt",
-          "desc": "If target has 6+ [Combustion], Coin Power +1",
+          "desc": "Hedefte 6+ [Combustion] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 15 [FirePunchFuel] and inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] 15 [FirePunchFuel] tüket ve +1 [Combustion] Miktarı uygula"
                 }
               ]
             }
@@ -1171,19 +1171,19 @@
         {
           "level": 2,
           "name": "Alev püskürt",
-          "desc": "If target has <style=\"highlight\">3</style>+ [Combustion], Coin Power +1",
+          "desc": "Hedefte 3+ [Combustion] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 15 [FirePunchFuel] and inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] 15 [FirePunchFuel] tüket ve +1 [Combustion] Miktarı uygula"
                 }
               ]
             }
@@ -1192,19 +1192,19 @@
         {
           "level": 4,
           "name": "Alev püskürt",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 3 Burn on target (max 2)</style>",
+          "desc": "Hedefteki her 3 Yanma için Jeton Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 15 [FirePunchFuel] and inflict +<style=\"highlight\">2</style> [Combustion] Count"
+                  "desc": "[OnSucceedAttack] 15 [FirePunchFuel] tüket ve +2 [Combustion] Miktarı uygula"
                 }
               ]
             }
@@ -1218,25 +1218,25 @@
         {
           "level": 1,
           "name": "Pis kanının son damlasına kadar yakıp kül edeceğim",
-          "desc": "If target has 6+ [Combustion], Coin Power +1\nWhen in [FirePunchFuelOverheated] state, deal +10% more damage with Coins that consumed [FirePunchFuel]",
+          "desc": "Hedefte 6+ [Combustion] varsa, Jeton Gücü +1\n[FirePunchFuelOverheated] durumundayken, [FirePunchFuel] tüketen Jetonlarla %10 daha fazla Hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies with the least [Combustion] Potency"
+                  "desc": "[OnSucceedAttack] 10 [FirePunchFuel] tüket ve en az [Combustion] Şiddeti olan 2 düşmana 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 1 enemy with the least [Combustion] Count"
+                  "desc": "[OnSucceedAttack] 10 [FirePunchFuel] tüket ve en az [Combustion] Miktarı olan 1 düşmana +1 [Combustion] Miktarı uygula"
                 }
               ]
             }
@@ -1245,25 +1245,25 @@
         {
           "level": 2,
           "name": "Pis kanının son damlasına kadar yakıp kül edeceğim",
-          "desc": "If target has 6+ [Combustion], Coin Power +1\nCoins that consumed [FirePunchFuel] deal +10% more damage\n<style=\"highlight\">- When in [FirePunchFuelOverheated] state, deal +20% more damage instead</style>",
+          "desc": "Hedefte 6+ [Combustion] varsa, Jeton Gücü +1\n[FirePunchFuel] tüketen Jetonlarla %10 daha fazla Hasar ver\n- [FirePunchFuelOverheated] durumundayken, bunun yerine %20 daha fazla Hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies with the least [Combustion] Potency<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 10 [FirePunchFuel] tüket ve en az [Combustion] Şiddeti olan 2 düşmana 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against <style=\"highlight\">2 enemies</style> with the least [Combustion] Count"
+                  "desc": "[OnSucceedAttack] 10 [FirePunchFuel] tüket ve en az [Combustion] Miktarı olan 2 düşmana +1 [Combustion] Miktarı uygula"
                 }
               ]
             }
@@ -1272,25 +1272,25 @@
         {
           "level": 4,
           "name": "Pis kanının son damlasına kadar yakıp kül edeceğim",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on target (max 2)</style>\nCoins that consumed [FirePunchFuel] deal +<style=\"highlight\">15</style>% more damage\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">30</style>% more damage instead",
+          "desc": "Hedefteki her 6 [Combustion] için Jeton Gücü +1 (maks 2)\n[FirePunchFuel] tüketen Jetonlarla %15 daha fazla Hasar ver\n- [FirePunchFuelOverheated] durumundayken, bunun yerine %30 daha fazla Hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict <style=\"highlight\">2</style> [Combustion] against 2 enemies with the least [Combustion] Potency"
+                  "desc": "[OnSucceedAttack] 10 [FirePunchFuel] tüket ve en az [Combustion] Şiddeti olan 2 düşmana 2 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +2 [Combustion] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 2 enemies with the least [Combustion] Count"
+                  "desc": "[OnSucceedAttack] 10 [FirePunchFuel] tüket ve en az [Combustion] Miktarı olan 2 düşmana +1 [Combustion] Miktarı uygula"
                 }
               ]
             }
@@ -1304,26 +1304,26 @@
         {
           "level": 3,
           "name": "Ateş Yumruğu",
-          "desc": "If target has 3+ [Combustion] Count, Coin Power +1\n[WhenUse] Base Power +1 for every 6 [Combustion] on target (max 2)\n[WhenUse] Consume up to 25 [FirePunchFuel] and deal +1% more damage for every [FirePunchFuel] consumed (max 25%)\n- When in [FirePunchFuelOverheated] state, deal +3% more damage for every [FirePunchFuel] consumed instead (max 75%)\n[EndSkill] If target is defeated, or if this Skill consumed [FirePunchFuel], gain 1 [HitDamageUp] next turn",
+          "desc": "Hedefte 3+ [Combustion] Miktarı varsa, Jeton Gücü +1\n[WhenUse] Hedefteki her 6 [Combustion] için Temel Güç +1 (maks 2)\n[WhenUse] 25 [FirePunchFuel] tüket ve tüketilen her [FirePunchFuel] için %1 daha fazla Hasar ver (maks %25)\n- [FirePunchFuelOverheated] durumundayken, bunun yerine tüketilen her [FirePunchFuel] için %3 daha fazla Hasar ver (maks %75)\n[EndSkill] Hedef yenilmişse veya bu Yetenek [FirePunchFuel] tüketmişse, sonraki turda 1 [HitDamageUp] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit consumed [FirePunchFuel], inflict 1 [Combustion] and +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Eğer [FirePunchFuel] tüketildiyse, 1 [Combustion] ve +1 [Combustion] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit consumed [FirePunchFuel], inflict 1 [Combustion] and +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Eğer [FirePunchFuel] tüketildiyse, 1 [Combustion] ve +1 [Combustion] Miktarı uygular"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +1% more damage for every [FirePunchFuel] consumed by this Skill (max 25%)\n- When in [FirePunchFuelOverheated] state, deal +3% more damage for every [FirePunchFuel] consumed instead (max 75%)"
+                  "desc": "[OnSucceedAttack] Bu Beceri tarafından tüketilen her bir [FirePunchFuel] için %1 daha fazla Hasar verir (maksimum %25)\n- [FirePunchFuelOverheated] durumundayken, tüketilen her bir [FirePunchFuel] için bunun yerine %3 daha fazla Hasar verir (maksimum %75)"
                 }
               ]
             }
@@ -1332,26 +1332,26 @@
         {
           "level": 4,
           "name": "Ateş Yumruğu",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 3 [Combustion] Count on target (max 2)</style>\n[WhenUse] Base Power +1 for every 6 [Combustion] on target (max <style=\"highlight\">3</style>)\n[WhenUse] Consume up to 25 [FirePunchFuel] and deal +<style=\"highlight\">2</style>% more damage for every [FirePunchFuel] consumed (max <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">4</style>% more damage for every [FirePunchFuel] consumed (max <style=\"highlight\">100</style>%)\n[EndSkill] If target is defeated, or if this Skill consumed [FirePunchFuel], gain <style=\"highlight\">2</style> [HitDamageUp] next turn",
+          "desc": "Hedefteki her 3 [Combustion] Miktarı için Jeton Gücü +1 (maks 2)\n[WhenUse] Hedefteki her 6 [Combustion] için Temel Güç +1 (maks 3)\n[WhenUse] 25 [FirePunchFuel] tüket ve tüketilen her [FirePunchFuel] için %2 daha fazla Hasar ver (maks %50)\n- [FirePunchFuelOverheated] durumundayken, tüketilen her [FirePunchFuel] için %4 daha fazla Hasar ver (maks %100)\n[EndSkill] Hedef yenilmişse veya bu Yetenek [FirePunchFuel] tüketmişse, sonraki turda 2 [HitDamageUp] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Eğer [FirePunchFuel] tüketildiyse, <style=\"highlight\">2</style> [Combustion] ve +1 [Combustion] miktarı uygula"
+                  "desc": "[OnSucceedAttack] Eğer [FirePunchFuel] tüketildiyse, 2 [Combustion] ve +1 [Combustion] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Eğer [FirePunchFuel] tüketildiyse, <style=\"highlight\">2</style> [Combustion] ve +1 [Combustion] miktarı uygular"
+                  "desc": "[OnSucceedAttack] Eğer [FirePunchFuel] tüketildiyse, 2 [Combustion] ve +1 [Combustion] Miktarı uygular"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Bu Beceri tarafından tüketilen her bir [FirePunchFuel] için %<style=\"highlight\">2</style> daha fazla Hasar verir (maksimum %<style=\"highlight\">50</style>)\n- [FirePunchFuelOverheated] durumundayken, tüketilen her bir [FirePunchFuel] için bunun yerine %<style=\"highlight\">4</style> daha fazla Hasar verir (maksimum %<style=\"highlight\">100</style>)"
+                  "desc": "[OnSucceedAttack] Bu Beceri tarafından tüketilen her bir [FirePunchFuel] için %2 daha fazla Hasar verir (maksimum %50)\n- [FirePunchFuelOverheated] durumundayken, tüketilen her bir [FirePunchFuel] için bunun yerine %4 daha fazla Hasar verir (maksimum %100)"
                 }
               ]
             }
@@ -1391,26 +1391,26 @@
           ]
         }
       ]
-        },
+    },
     {
       "id": 1121201,
       "levelList": [
         {
           "level": 1,
-          "name": "Snake Fang",
-          "desc": "[WhenUse] Gain +1 [Breath] Count",
+          "name": "Yılan Diş",
+          "desc": "[WhenUse] +1 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             }
@@ -1418,23 +1418,23 @@
         },
         {
           "level": 2,
-          "name": "Snake Fang",
-          "desc": "<style=\"highlight\">[WhenUse] If the sum of [Breath] Potency on self and target's [Burst] Potency is 10 or higher, Coin Power +1</style>\n[WhenUse] Gain +<style=\"highlight\">2</style> [Breath] Count",
+          "name": "Yılan Diş",
+          "desc": "[WhenUse] Kendindeki [Breath] Şiddeti ve hedefin [Burst] Şiddetinin toplamı 10 veya daha fazlaysa, Jeton Gücü +1\n[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] If this unit has [SnakeStance], inflict +1 [Burst] Count</style>"
+                  "desc": "[CriticalOnSucceedAttack] Bu birimde [SnakeStance] varsa, +1 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -1442,23 +1442,23 @@
         },
         {
           "level": 4,
-          "name": "Snake Fang",
-          "desc": "<style=\"highlight\">[WhenUse] Coin Power +1 for every 10 (sum of this unit's [Breath] Potency and target's [Burst] Potency) (max 2)</style>\n[WhenUse] Gain +2 [Breath] Count",
+          "name": "Yılan Diş",
+          "desc": "[WhenUse] Kendindeki [Breath] Şiddeti ve hedefin [Burst] Şiddetinin toplamındaki her 10 için Jeton Gücü +1 (maks 2)\n[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] If this unit has [SnakeStance], inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Bu birimde [SnakeStance] varsa, +1 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -1471,30 +1471,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blindsiding Cleave",
-          "desc": "[WinDuel] Inflict +1 [Burst] Count\n[WinDuel] Gain +1 [Breath] Count",
+          "name": "Gafil Yarma",
+          "desc": "[WinDuel] +1 [Burst] Miktarı uygula\n[WinDuel] +1 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstPoison]"
+                  "desc": "[OnSucceedAttack] [BurstPoison] uygula"
                 }
               ]
             }
@@ -1502,33 +1502,33 @@
         },
         {
           "level": 2,
-          "name": "Blindsiding Cleave",
-          "desc": "<style=\"highlight\">[WhenUse] If the sum of [Breath] Potency on self and target's [Burst] Potency is 10 or higher, Coin Power +1</style>\n[WinDuel] Inflict +1 [Burst] Count\n[WinDuel] Gain +<style=\"highlight\">2</style> [Breath] Count",
+          "name": "Gafil Yarma",
+          "desc": "[WhenUse] Kendindeki [Breath] Şiddeti ve hedefin [Burst] Şiddetinin toplamı 10 veya daha fazlaysa, Jeton Gücü +1\n[WinDuel] +1 [Burst] Miktarı uygula\n[WinDuel] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 30+ [Breath], consume 10 [Breath] on self to Reuse Coin once (1 time max)</style>"
+                  "desc": "[OnSucceedAttack] 30+ [Breath] varsa, kendinden 10 [Breath] tüket ve Jetonu bir kez tekrar kullan (maks 1 kez)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstPoison]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [BurstPoison] uygula"
                 }
               ]
             }
@@ -1536,36 +1536,36 @@
         },
         {
           "level": 4,
-          "name": "Blindsiding Cleave",
-          "desc": "<style=\"highlight\">[WhenUse] Coin Power +1 for every 10 (sum of this unit's [Breath] Potency and target's [Burst] Potency) (max 2)</style>\n[WinDuel] Inflict +<style=\"highlight\">2</style> [Burst] Count\n[WinDuel] Gain +2 [Breath] Count",
+          "name": "Gafil Yarma",
+          "desc": "[WhenUse] Kendindeki [Breath] Şiddeti ve hedefin [Burst] Şiddetinin toplamındaki her 10 için Jeton Gücü +1 (maks 2)\n[WinDuel] +2 [Burst] Miktarı uygula\n[WinDuel] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 30+ [Breath], consume 10 [Breath] on self to Reuse Coin once (1 time max)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 30+ [Breath] varsa, kendinden 10 [Breath] tüket ve Jetonu bir kez tekrar kullan (maks 1 kez)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstPoison]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [BurstPoison] uygula"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Gain 1 [SnakeStance]</style>"
+                  "desc": "[CriticalOnSucceedAttack] 1 [SnakeStance] kazan"
                 }
               ]
             }
@@ -1578,25 +1578,25 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Serpentshear Puncturing Arm",
-          "desc": "[WhenUse] Coin Power +1 for every 8 (sum of this unit's [Breath] Potency and target's [Burst] Potency) (max 4)\n- If this unit has [SnakeStance], Coin Power +1 for every 5 (sum of this unit's [Breath] Potency and target's [Burst] Potency) instead (max 6)\n[WhenUse] Gain 3 [SnakeStance]\n[WinDuel] If target has 5+ [Burst], gain 5 [Breath]",
+          "name": "Yılanmakas Delici Kol",
+          "desc": "[WhenUse] Kendindeki [Breath] Şiddeti ve hedefin [Burst] Şiddetinin toplamındaki her 8 için Jeton Gücü +1 (maks 4)\n- Bu birimde [SnakeStance] varsa, bunun yerine her 5 için Jeton Gücü +1 (maks 6)\n[WhenUse] 3 [SnakeStance] kazan\n[WinDuel] Hedefte 5+ [Burst] varsa, 5 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +5% damage for every ([Breath] Potency on self + [Burst] Potency on target) (max 150%)"
+                  "desc": "Kendindeki [Breath] Şiddeti + hedefin [Burst] Şiddeti başına %5 Hasar ver (maks %150)"
                 },
                 {
-                  "desc": "If this unit has [SnakeStance], deal +75% Damage on Critical Hit"
+                  "desc": "Bu birimde [SnakeStance] varsa, Kritik Vuruşta %75 daha fazla Hasar ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce [BurstPoison] on target by 2"
+                  "desc": "[OnSucceedAttack] Hedefteki [BurstPoison]'ı 2 azalt"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Reduce [BurstPoison] on target by 3"
+                  "desc": "[CriticalOnSucceedAttack] Hedefteki [BurstPoison]'ı 3 azalt"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstPoison]"
+                  "desc": "[OnSucceedAttack] [BurstPoison] uygula"
                 }
               ]
             }
@@ -1604,28 +1604,28 @@
         },
         {
           "level": 4,
-          "name": "Serpentshear Puncturing Arm",
-          "desc": "[WhenUse] Coin Power +1 for every 8 (sum of this unit's [Breath] Potency and target's [Burst] Potency) (max 4)\n- If this unit has [SnakeStance], Coin Power +1 for every 5 (sum of this unit's [Breath] Potency and target's [Burst] Potency) instead (max 6)\n[WhenUse] Gain 3 [SnakeStance]\n[WinDuel] If target has 5+ [Burst], gain 5 [Breath]",
+          "name": "Yılanmakas Delici Kol",
+          "desc": "[WhenUse] Kendindeki [Breath] Şiddeti ve hedefin [Burst] Şiddetinin toplamındaki her 8 için Jeton Gücü +1 (maks 4)\n- Bu birimde [SnakeStance] varsa, bunun yerine her 5 için Jeton Gücü +1 (maks 6)\n[WhenUse] 3 [SnakeStance] kazan\n[WinDuel] Hedefte 5+ [Burst] varsa, 5 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal <style=\"highlight\">+10%</style> damage for every ([Breath] Potency on self + [Burst] Potency on target) <style=\"highlight\">(max 200%)</style>"
+                  "desc": "Kendindeki [Breath] Şiddeti + hedefin [Burst] Şiddeti başına %10 Hasar ver (maks %200)"
                 },
                 {
-                  "desc": "If this unit has [SnakeStance], deal <style=\"highlight\">+100%</style> Damage on Critical Hit"
+                  "desc": "Bu birimde [SnakeStance] varsa, Kritik Vuruşta %100 daha fazla Hasar ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce [BurstPoison] on target by 2<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Hedefteki [BurstPoison]'ı 2 azalt"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Reduce [BurstPoison] on target by 3<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Hedefteki [BurstPoison]'ı 3 azalt"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflict +2 [Burst] Count</style>"
+                  "desc": "[CriticalOnSucceedAttack] +2 [Burst] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstPoison]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [BurstPoison] uygula"
                 }
               ]
             }
@@ -1638,8 +1638,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Reversal Kick",
-          "desc": "[CanDuelGuard] \n[StartBattle] Gain 3 [SnakeStance] next turn",
+          "name": "Ters Tekme",
+          "desc": "[CanDuelSavunma]\n[StartBattle] Sonraki turda 3 [SnakeStance] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -1652,13 +1652,13 @@
         },
         {
           "level": 4,
-          "name": "Reversal Kick",
-          "desc": "[CanDuelGuard]\n[StartBattle] Gain 3 [SnakeStance] next turn\n<style=\"highlight\">[WhenUse] At 10+ [Breath] Count, Coin Power +1</style>",
+          "name": "Ters Tekme",
+          "desc": "[CanDuelSavunma]\n[StartBattle] Sonraki turda 3 [SnakeStance] kazan\n[WhenUse] 10+ [Breath] Miktarı varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 }
               ]
             }
