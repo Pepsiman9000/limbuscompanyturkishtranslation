@@ -386,7 +386,7 @@
     },
     {
       "id": "tuto_01_03_01_12",
-      "content": "<color=#00bfff>Oluşmuş <Defansif Yeteneği> iptal etmek için<color=#ebcaa2>, Günahkârın portresine bir kez daha dokun."
+      "content": "Oluşmuş <color=#00bfff>Defansif Yeteneği<color=#ebcaa2> iptal etmek için, Günahkârın portresine bir kez daha dokunabilirsin."
     },
     {
       "id": "tuto_01_03_01_13",
@@ -398,7 +398,7 @@
     },
     {
       "id": "tuto_01_03_02_02",
-      "content": "Bir de, aklının bir kenarına yaz ki Günahkârlar sen onlara direkt olarak emri vermediğin sürece <color=#00bfff>Defansif Yeteneklerini<color=#ebcaa2> kullanmazlar.<color=#f8c200>Otomatik Yetenek zincirleme<color=#ebcaa2> özelliklerini kullanırken bunu unutma."
+      "content": "Bir de, aklının bir kenarına yaz ki Günahkârlar sen onlara direkt olarak emri vermediğin sürece <color=#00bfff>Defansif Yeteneklerini<color=#ebcaa2> kullanmazlar. <color=#f8c200>Otomatik Yetenek zincirleme<color=#ebcaa2> özelliklerini kullanırken bunu unutma."
     },
     {
       "id": "tuto_01_04_01_01_title",
@@ -414,7 +414,7 @@
     },
     {
       "id": "tuto_01_04_01_04",
-      "content": "Maksimum bilgi göstergesi.\n\nOyuna ilk başlandığında otomatik olarak bu mod seçilir.\n\nDiğer iki seçeneğe göre daha fazla bilgi gösterilir.\n\n Yeteneklerde kullanılan anahtar kelimeler, açıklamalı olarak gösterilir (<color=#FF0000>Kanama<color=#ebcaa2>,<color=#0000FF>Batış<color=#ebcaa2> vb...)"
+      "content": "Maksimum bilgi göstergesi.\n\nOyuna ilk başlandığında otomatik olarak bu mod seçilir.\n\nDiğer iki seçeneğe göre daha fazla bilgi gösterilir.\n\n Yeteneklerde kullanılan anahtar kelimeler, açıklamalı olarak gösterilir (<color=#FF0000>Kanama<color=#ebcaa2>, <color=#0000FF>Batış<color=#ebcaa2> vb...)"
     },
     {
       "id": "tuto_01_04_01_05_title",
@@ -434,7 +434,7 @@
     },
     {
       "id": "tuto_01_08_01_01",
-      "content": "Şimdi, <color=#f8c200><E.G.O><color=#ebcaa2> kullanmayı öğrenelim."
+      "content": "Şimdi, <color=#f8c200>E.G.O<color=#ebcaa2> kullanmayı öğrenelim."
     },
     {
       "id": "tuto_01_08_01_02",
@@ -478,27 +478,27 @@
     },
     {
       "id": "tuto_01_08_02_03",
-      "content": "When a unit is about to <color=#f8c200><Clash><color=#ebcaa2> with a difficult enemy Skill, you can use an <color=#f8c200><E.G.O><color=#ebcaa2> Skill to turn the situation around.\nTheir high Power makes them especially effective against strong enemy Skills."
+      "content": "When a unit is about to <color=#f8c200><Clash><color=#ebcaa2> with a difficult enemy Skill, you can use an <color=#f8c200>E.G.O<color=#ebcaa2> Skill to turn the situation around.\nTheir high Power makes them especially effective against strong enemy Skills."
     },
     {
       "id": "tuto_01_08_02_04",
-      "content": "If there are any usable <color=#f8c200><E.G.O><color=#ebcaa2> Skills for which you have enough resources, it will be indicated in the shape surrounding the Sinner, as shown here."
+      "content": "If there are any usable <color=#f8c200>E.G.O<color=#ebcaa2> Skills for which you have enough resources, it will be indicated in the shape surrounding the Sinner, as shown here."
     },
     {
       "id": "tuto_01_08_02_05",
-      "content": "Press and hold Sinner Heathcliff's portrait again to enter the <color=#f8c200><E.G.O><color=#ebcaa2> selection menu."
+      "content": "Press and hold Sinner Heathcliff's portrait again to enter the <color=#f8c200>E.G.O<color=#ebcaa2> selection menu."
     },
     {
       "id": "tuto_01_08_02_06",
-      "content": "You now have enough resources to use this <color=#f8c200><E.G.O><color=#ebcaa2> Skill.\n\nDouble-tap to select his <color=#f8c200>Bodysack<color=#ebcaa2> E.G.O Skill again and equip it in Heathcliff's Skill Slot."
+      "content": "You now have enough resources to use this <color=#f8c200>E.G.O<color=#ebcaa2> Skill.\n\nDouble-tap to select his <color=#f8c200>Bodysack<color=#ebcaa2> E.G.O Skill again and equip it in Heathcliff's Skill Slot."
     },
     {
       "id": "tuto_01_08_02_07",
-      "content": "Once selected, the <color=#f8c200><E.G.O><color=#ebcaa2> Skill will automatically be equipped in the bottom Skill Slot of the respective Sinner."
+      "content": "Once selected, the <color=#f8c200>E.G.O<color=#ebcaa2> Skill will automatically be equipped in the bottom Skill Slot of the respective Sinner."
     },
     {
       "id": "tuto_01_08_02_08",
-      "content": "<color=#f8c200>Equipping a different <E.G.O> Skill<color=#ebcaa2> in the same Slot, or swapping it for a <color=#f8c200>Defense Skill<color=#ebcaa2>, will unequip the current <E.G.O> Skill and refund the E.G.O resources spent to equip it."
+      "content": "<color=#f8c200>Equipping a different E.G.O Skill<color=#ebcaa2> in the same Slot, or swapping it for a <color=#f8c200>Defense Skill<color=#ebcaa2>, will unequip the current E.G.O Skill and refund the E.G.O resources spent to equip it."
     },
     {
       "id": "tuto_01_08_02_09",
@@ -506,15 +506,15 @@
     },
     {
       "id": "tuto_01_08_02_10",
-      "content": "The <color=#f8c200>SP cost is consumed<color=#ebcaa2> the moment the <color=#f8c200><E.G.O><color=#ebcaa2> Skill begins its attack.\n\nBe warned: letting a Sinner's <color=#89CFF0>SP<color=#ebcaa2> drop too low may cause them to <color=#f8c200>Panic<color=#ebcaa2> or become <color=#f8c200>Corroded<color=#ebcaa2> by their <color=#f8c200><E.G.O><color=#ebcaa2>."
+      "content": "The <color=#f8c200>SP cost is consumed<color=#ebcaa2> the moment the <color=#f8c200>E.G.O<color=#ebcaa2> Skill begins its attack.\n\nBe warned: letting a Sinner's <color=#89CFF0>SP<color=#ebcaa2> drop too low may cause them to <color=#f8c200>Panic<color=#ebcaa2> or become <color=#f8c200>Corroded<color=#ebcaa2> by their <color=#f8c200>E.G.O<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_08_03_01",
-      "content": "Raising an <E.G.O> Skill's Threadspinning Tier unlocks its <color=#f8c200><E.G.O> Passive<color=#ebcaa2>.\nOnce the turn in which this unit used the <E.G.O> Skill ends and the battle moves to the <color=#f8c200>next turn<color=#ebcaa2>, the Skill's unique <color=#f8c200><E.G.O> Passive<color=#ebcaa2> will activate.\n\nYou can view detailed information about <E.G.O> Passives in each Sinner's detailed info menu."
+      "content": "Raising an E.G.O Skill's Threadspinning Tier unlocks its <color=#f8c200>E.G.O Passive<color=#ebcaa2>.\nOnce the turn in which this unit used the E.G.O Skill ends and the battle moves to the <color=#f8c200>next turn<color=#ebcaa2>, the Skill's unique <color=#f8c200>E.G.O Passive<color=#ebcaa2> will activate.\n\nYou can view detailed information about E.G.O Passives in each Sinner's detailed info menu."
     },
     {
       "id": "tuto_01_09_01_01",
-      "content": "In this Encounter, we will learn about more advanced usage of <E.G.O>.\nSinner Ryōshū will begin with a higher <color=#89CFF0>SP<color=#ebcaa2> value for demonstration purposes."
+      "content": "In this Encounter, we will learn about more advanced usage of E.G.O.\nSinner Ryōshū will begin with a higher <color=#89CFF0>SP<color=#ebcaa2> value for demonstration purposes."
     },
     {
       "id": "tuto_01_09_01_02",
@@ -550,7 +550,7 @@
     },
     {
       "id": "tuto_01_09_01_10",
-      "content": "Press and hold the E.G.O Skill card to <color=#f8c200><E.G.O Overclock><color=#ebcaa2> it.\nUsing <E.G.O Overclock> <color=#f8c200>forces the Sinner to use the Corrosion Skill<color=#ebcaa2> of the <E.G.O>."
+      "content": "Press and hold the E.G.O Skill card to <color=#f8c200><E.G.O Overclock><color=#ebcaa2> it.\nUsing <E.G.O Overclock> <color=#f8c200>forces the Sinner to use the Corrosion Skill<color=#ebcaa2> of the E.G.O."
     },
     {
       "id": "tuto_01_09_01_11",
