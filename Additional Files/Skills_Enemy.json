@@ -1044,14 +1044,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [ResultReduction] uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Reduction] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [ResultReduction] uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Reduction] uygula"
                 }
               ]
             }
@@ -1233,7 +1233,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki Tur 2 [ResultReduction] uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 2 [Reduction] uygula"
                 }
               ]
             }
@@ -1331,7 +1331,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [ResultReduction] ve [Paralysis] uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [Reduction] ve [Paralysis] uygula"
                 }
               ]
             }
@@ -1778,7 +1778,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Paralysis] ve Defans [ResultReduction] uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 1 [Paralysis] ve Defans [Reduction] uygula"
                 }
               ]
             }
@@ -1958,12 +1958,12 @@
         {
           "level": 1,
           "name": "Baskıcı Vaaz",
-          "desc": "[DefeatDuel] Sonraki Tur 2 [ResultReduction] kazan",
+          "desc": "[DefeatDuel] Sonraki Tur 2 [Reduction] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki Tur 2 [ResultReduction] uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 2 [Reduction] uygula"
                 }
               ]
             }
@@ -2074,7 +2074,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki Tur 3 [Binding] ve 2 [ResultReduction] uygula"
+                  "desc": "[OnSucceedAttackHead] Sonraki Tur 3 [Binding] ve 2 [Reduction] uygula"
                 }
               ]
             }
@@ -2140,7 +2140,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Eğer Hedefte 5+ [Nail] varsa, Sonraki Tur 10 [ResultReduction] ve [Paralysis] uygula"
+                  "desc": "[OnSucceedAttack] Eğer Hedefte 5+ [Nail] varsa, Sonraki Tur 10 [Reduction] ve [Paralysis] uygula"
                 }
               ]
             }
@@ -2839,7 +2839,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki Tur 2 [ResultReduction] uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 2 [Reduction] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] [VibrationExplosion]nı tetikle"
@@ -2978,7 +2978,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sonraki Tur 2 [ResultReduction] uygula"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 2 [Reduction] uygula"
                 }
               ]
             }
