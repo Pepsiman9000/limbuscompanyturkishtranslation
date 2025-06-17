@@ -78,11 +78,11 @@
     },
     {
       "id": "tuto_00_02_02_01",
-      "content": "İki Saldırı Yeteneği birbirini hedeflediğinde, bir <color=#f8c200><Çarpışma><color=#ebcaa2> yaşanır."
+      "content": "İki Saldırı Yeteneği birbirini hedeflediğinde, bir <color=#f8c200>Çarpışma<color=#ebcaa2> yaşanır."
     },
     {
       "id": "tuto_00_02_02_02",
-      "content": "<color=#f8c200><Çarpışmadaki><color=#ebcaa2> <color=#f8c200>Gücü<color=#ebcaa2>, Çarpışmak için kullanılan Yetenekler belirler."
+      "content": "<color=#f8c200>Çarpışmadaki<color=#ebcaa2> <color=#f8c200>Gücü<color=#ebcaa2>, Çarpışmak için kullanılan Yetenekler belirler."
     },
     {
       "id": "tuto_00_02_02_03",
@@ -94,15 +94,15 @@
     },
     {
       "id": "tuto_00_02_02_05",
-      "content": "Bir Yetenek bir Çarpışma kaybetse bile, hala daha <color=#f8c200>Yetenek Jetonlarına<color=#ebcaa2> sahip olduğu sürece, iki Yetenek de Jetonlarını atmaya devam eder ve <color=#f8c200>birisi tüm Jetonlarını kaybedene kadar<color=#ebcaa2> <color=#f8c200><Çarpışırlar><color=#ebcaa2>."
+      "content": "Bir Yetenek bir Çarpışma kaybetse bile, hala daha <color=#f8c200>Yetenek Jetonlarına<color=#ebcaa2> sahip olduğu sürece, iki Yetenek de Jetonlarını atmaya devam eder ve <color=#f8c200>birisi tüm Jetonlarını kaybedene kadar<color=#ebcaa2> <color=#f8c200>Çarpışırlar<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_02_02_06",
-      "content": "<color=#f8c200><Çarpışmada><color=#ebcaa2> tüm Jetonlarını kaybeden kişi, <color=#f8c200><Çarpışmayı><color=#ebcaa2> kaybeder.\nBu demek oluyor ki <color=#f8c200>Çarpışmayı kazanan kişi<color=#ebcaa2> saldırma hakkı kazanır, kaybeden ise saldıramaz."
+      "content": "<color=#f8c200>Çarpışmada<color=#ebcaa2> tüm Jetonlarını kaybeden kişi, <color=#f8c200>Çarpışmayı<color=#ebcaa2> kaybeder.\nBu demek oluyor ki <color=#f8c200>Çarpışmayı kazanan kişi<color=#ebcaa2> saldırma hakkı kazanır, kaybeden ise saldıramaz."
     },
     {
       "id": "tuto_00_02_03_01",
-      "content": "Şimdi bakalım <color=#f8c200><Çarpışmaların><color=#ebcaa2> sonucuna karar veren şey, yani <color=#f8c200>Güç<color=#ebcaa2> nasıl çalışıyormuş.\n\nLütfen emirleri ver."
+      "content": "Şimdi bakalım <color=#f8c200>Çarpışmaların<color=#ebcaa2> sonucuna karar veren şey, yani <color=#f8c200>Güç<color=#ebcaa2> nasıl çalışıyormuş.\n\nLütfen emirleri ver."
     },
     {
       "id": "tuto_00_02_03_02",
@@ -114,7 +114,7 @@
     },
     {
       "id": "tuto_00_02_03_04",
-      "content": "Burada, Yeteneklerin <color=#f8c200>ne kadar Jetonu olduğunu<color=#ebcaa2> görebilirsin.\n\nJeton sayısı iki şeyi belirler:\n<color=#f8c200>1) Tüm Jetonlarını kaybetmeden önce kaç kere <Çarpışma> kaybedebileceğini\n2) Saldırırken, kaç vuruş yapacağını<color=#ebcaa2>."
+      "content": "Burada, Yeteneklerin <color=#f8c200>ne kadar Jetonu olduğunu<color=#ebcaa2> görebilirsin.\n\nJeton sayısı iki şeyi belirler:\n<color=#f8c200>1) Tüm Jetonlarını kaybetmeden önce kaç kere Çarpışma kaybedebileceğini\n2) Saldırırken, kaç vuruş yapacağını<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_02_03_05",
@@ -134,7 +134,7 @@
     },
     {
       "id": "tuto_00_02_03_07",
-      "content": "Bu örnekte de görebileceğin gibi, ikisinden birinin hiçbir Jetonu kalmayana kadar çarpışmaya devam ediyorlar. <color=#f8c200>Jetonları kalan taraf, Çarpışmayı kazanıyor<color=#ebcaa2>.\n\nUnutma: <color=#f8c200><Çarpışma><color=#ebcaa2> kazanmak savaşmanın en temel unsurlarından biridir."
+      "content": "Bu örnekte de görebileceğin gibi, ikisinden birinin hiçbir Jetonu kalmayana kadar çarpışmaya devam ediyorlar. <color=#f8c200>Jetonları kalan taraf, Çarpışmayı kazanıyor<color=#ebcaa2>.\n\nUnutma: <color=#f8c200>Çarpışma<color=#ebcaa2> kazanmak savaşmanın en temel unsurlarından biridir."
     },
     {
       "id": "tuto_00_03_01_01",
@@ -150,7 +150,7 @@
     },
     {
       "id": "tuto_00_03_01_04",
-      "content": "Her birimin <color=#89CFF0>SP<color=#ebcaa2> değeri belli unsurlara bağlı olarak değişir.\nÇoğunlukla avantajlı durumlarda SP yenilerler <color=#f8c200>(Çarpışma kazanmak veya düşman öldürmek),<color=#ebcaa2>\nAksi durumlarda ise <color=#f8c200>SP kaybederler.<color=#ebcaa2>"
+      "content": "Her birimin <color=#89CFF0>SP<color=#ebcaa2> değeri belli unsurlara bağlı olarak değişir.\nÇoğunlukla avantajlı durumlarda <color=#89CFF0>SP<color=#ebcaa2> yenilerler <color=#f8c200>(Çarpışma kazanmak veya düşman öldürmek),<color=#ebcaa2>\nAksi durumlarda ise <color=#f8c200>SP kaybederler.<color=#ebcaa2>"
     },
     {
       "id": "tuto_00_03_01_05",
@@ -158,35 +158,35 @@
     },
     {
       "id": "tuto_00_03_02_01",
-      "content": "Müttefik birimlerin hepsi önceki tur Çarpışmalarını kazandılar, bu da onların SP'sini yeniledi.\nBu bizi avantajlı bir duruma getiriyor. Lütfen bir emir daha ver."
+      "content": "Müttefik birimlerin hepsi önceki tur Çarpışmalarını kazandılar, bu da onların <color=#89CFF0>SP<color=#ebcaa2>'sini yeniledi.\nBu bizi avantajlı bir duruma getiriyor. Lütfen bir emir daha ver."
     },
     {
       "id": "tuto_00_03_02_02",
-      "content": "Lütfen dikkatini bu birimin HP'sine ver. Buradaki ince çizgiye, <color=#f8c200><Sersemleme Eşiği><color=#ebcaa2> denir."
+      "content": "Lütfen dikkatini bu birimin HP'sine ver. Buradaki ince çizgiye, <color=#f8c200>Sersemleme Eşiği<color=#ebcaa2> denir."
     },
     {
       "id": "tuto_00_03_02_03",
-      "content": "Eğer bir birimin HP'si <color=#f8c200><Sersemleme Eşiği><color=#ebcaa2> çizgilerinden birinin altına düşerse, <color=#f8c200><Sersemleme><color=#ebcaa2> geçirirler."
+      "content": "Eğer bir birimin HP'si <color=#f8c200>Sersemleme Eşiği<color=#ebcaa2> çizgilerinden birinin altına düşerse, <color=#f8c200>Sersemleme<color=#ebcaa2> geçirir."
     },
     {
       "id": "tuto_00_03_03_01",
-      "content": "<color=#f8c200><Sersemlemiş><color=#ebcaa2> birimler herhangi bir eylem yapamazlar ve iki kat daha fazla hasar alırlar, yani savaş esnasında manidar bir dezavantaja girerler."
+      "content": "<color=#f8c200>Sersemlemiş<color=#ebcaa2> birimler herhangi bir eylem yapamazlar ve iki kat daha fazla hasar alırlar, yani savaş esnasında manidar bir dezavantaja girerler."
     },
     {
       "id": "tuto_00_03_04_01",
-      "content": "Bir önceki tur düşmanların dostlarını öldürerek, onların SP'sini düşürdün. SP'si <color=#f8c200>-45<color=#ebcaa2>'in altına düşmüş düşmanlar da şu anda <color=#f8c200><Panik><color=#ebcaa2> geçiriyorlar."
+      "content": "Bir önceki tur düşmanların dostlarını öldürerek, onların <color=#89CFF0>SP<color=#ebcaa2>'sini düşürdün. <color=#89CFF0>SP<color=#ebcaa2>'si <color=#FF0000>-45<color=#ebcaa2>'in altına düşmüş düşmanlar da şu anda <color=#FF0000>Panik<color=#ebcaa2> geçiriyorlar."
     },
     {
       "id": "tuto_00_03_04_02",
-      "content": "SP'si belli bir miktarın altına düşen düşmanlar, <color=#f8c200><Düşük Moral><color=#ebcaa2> veya <color=#f8c200><Panik><color=#ebcaa2> durumları yaşayabilirler, bu da onlara negatif etkiler uygular."
+      "content": "SP'si belli bir miktarın altına düşen düşmanlar, <color=#FF0000>Düşük Moral<color=#ebcaa2> veya <color=#FF0000>Panik<color=#ebcaa2> durumları yaşayabilirler, bu da onlara negatif etkiler uygular."
     },
     {
       "id": "tuto_00_03_04_03",
-      "content": "<color=#f8c200><Düşük Moral><color=#ebcaa2> veya <color=#f8c200><Panik><color=#ebcaa2> geçiren birimler bu şekilde belirtilir."
+      "content": "<color=#FF0000>Düşük Moral<color=#ebcaa2> veya <color=#FF0000>Panik<color=#ebcaa2> geçiren birimler bu şekilde belirtilir."
     },
     {
       "id": "tuto_00_03_04_04",
-      "content": "Birimler <color=#f8c200><Düşük Moral><color=#ebcaa2> ve <color=#f8c200><Panik><color=#ebcaa2> durumlarından farklı etkilenebilir.\nBirimin üzerinde nasıl efektler uygulandığını görmek için bu ikona dokunabilirsin."
+      "content": "Birimler <color=#FF0000>Düşük Moral<color=#ebcaa2> ve <color=#FF0000>Panik<color=#ebcaa2> durumlarından farklı etkilenebilir.\nBirimin üzerinde nasıl efektler uygulandığını görmek için bu ikona dokunabilirsin."
     },
     {
       "id": "tuto_00_04_01_01",
@@ -246,19 +246,19 @@
     },
     {
       "id": "tuto_01_02_01_01",
-      "content": "Aynı <color=#f8c200>Günah Türünden(Renk)<color=#ebcaa2> birkaç Yeteneği zincirlemek, <color=#f8c200><Rezonans><color=#ebcaa2> adı verilen şeyi tetikler."
+      "content": "Aynı <color=#f8c200>Günah Türünden(Renk)<color=#ebcaa2> birkaç Yeteneği zincirlemek, <color=#ffcbdb>Rezonans<color=#ebcaa2> adı verilen şeyi tetikler."
     },
     {
       "id": "tuto_01_02_01_02",
-      "content": "Aynı Günah Türüne sahip Yetenekleri zincirle ve <color=#f8c200><Rezonans><color=#ebcaa2> tetikle."
+      "content": "Aynı Günah Türüne sahip Yetenekleri zincirle ve <color=#ffcbdb>Rezonans<color=#ebcaa2> tetikle."
     },
     {
       "id": "tuto_01_02_01_03",
-      "content": "<color=#f8c200>Yan yana 3 ya da daha fazla <color=#ebcaa2> aynı Günah Türüne sahip Yetenek zincirlemek, <color=#f8c200><Mutlak Rezonans><color=#ebcaa2> tetikler.\n\nHadi bu Yetenekleri kullanarak bir <color=#f8c200><Mutlak Rezonans><color=#ebcaa2> tetikle."
+      "content": "<color=#f8c200>Yan yana 3 ya da daha fazla <color=#ebcaa2> aynı Günah Türüne sahip Yetenek zincirlemek, <color=#f17ea1>Mutlak Rezonans<color=#ebcaa2> tetikler.\n\nHadi bu Yetenekleri kullanarak bir <color=#f17ea1>Mutlak Rezonans<color=#ebcaa2> tetikle."
     },
     {
       "id": "tuto_01_02_01_04",
-      "content": "<color=#f8c200><Rezonans><color=#ebcaa2> veya <color=#f8c200><Mutlak Rezonans><color=#ebcaa2>, Rezonans için kullan Yeteneklere daha yüksek Çarpışma Gücü gibi küçük geliştirmeler sağlar. "
+      "content": "<color=#ffcbdb>Rezonans<color=#ebcaa2> veya <color=#f17ea1>Mutlak Rezonans<color=#ebcaa2>, Rezonans için kullan Yeteneklere daha yüksek Çarpışma Gücü gibi küçük geliştirmeler sağlar. "
     },
     {
       "id": "tuto_01_02_01_05_title",
@@ -266,7 +266,7 @@
     },
     {
       "id": "tuto_01_02_01_06",
-      "content": "Aynı Günah Türüne sahip 2 veya daha fazla Yetenek zincirlemek <color=#f8c200><Rezonans><color=#ebcaa2> tetikler."
+      "content": "Aynı Günah Türüne sahip 2 veya daha fazla Yetenek zincirlemek <color=#ffcbdb>Rezonans<color=#ebcaa2> tetikler."
     },
     {
       "id": "tuto_01_02_02_01_title",
@@ -274,7 +274,7 @@
     },
     {
       "id": "tuto_01_02_02_02",
-      "content": "Aynı Günah Türüne sahip yan yana 3 veya daha fazla yetenek zincirlemek <color=#f8c200><Mutlak Rezonans><color=#ebcaa2> tetikler."
+      "content": "Aynı Günah Türüne sahip yan yana 3 veya daha fazla yetenek zincirlemek <color=#f17ea1>Mutlak Rezonans<color=#ebcaa2> tetikler."
     },
     {
       "id": "tuto_01_02_02_03_title",
@@ -282,7 +282,7 @@
     },
     {
       "id": "tuto_01_02_02_04",
-      "content": "<color=#f8c200><Rezonans><color=#ebcaa2> tetiklemek, <color=#f8c200>Rezonans altında zincirlenmiş yetenek sayısı kadar<color=#ebcaa2> bonuslar verir. Rezonans altındaki her Yetenek, kendinden önceki Yetenek sayısı kadar bonus kazanır (Yani Panelde ne kadar sağda ise, o kadar fazla).\n\n<color=#f8c200><Mutlak Rezonans><color=#ebcaa2> tetiklediğinde ise, zincirdeki her Yetenek bu bonusu alır."
+      "content": "<color=#ffcbdb>Rezonans<color=#ebcaa2> tetiklemek, <color=#f8c200>Rezonans altında zincirlenmiş yetenek sayısı kadar<color=#ebcaa2> bonuslar verir. Rezonans altındaki her Yetenek, kendinden önceki Yetenek sayısı kadar bonus kazanır (Yani Panelde ne kadar sağda ise, o kadar fazla).\n\n<color=#f17ea1>Mutlak Rezonans<color=#ebcaa2> tetiklediğinde ise, zincirdeki her Yetenek bu bonusu alır."
     },
     {
       "id": "tuto_01_02_03_01",
@@ -302,7 +302,7 @@
     },
     {
       "id": "tuto_01_02_03_05",
-      "content": "Faust'un Pasifi, bir <color=#f8c200><Rezonans><color=#ebcaa2> Pasifi.\nBu tür Pasifleri etkinleştirmek için gerekli <color=#f8c200><Rezonansı><color=#ebcaa2> yapmalısın."
+      "content": "Faust'un Pasifi, bir <color=#ffcbdb>Rezonans<color=#ebcaa2> Pasifi.\nBu tür Pasifleri etkinleştirmek için gerekli <color=#f8c200><Rezonansı><color=#ebcaa2> yapmalısın."
     },
     {
       "id": "tuto_01_02_03_06",
@@ -322,7 +322,7 @@
     },
     {
       "id": "tuto_01_02_04_04",
-      "content": "<color=#f8c200>Bir Yetenek kullan<color=#ebcaa2> ve <color=#f8c200>o Yeteneğin Günah Türüne karşılık gelen E.G.O kaynağını kazan<color=#ebcaa2>, burada kaynaklarını görebilirsin.\n\nBir önceki tur yeterince <color=#fbc82b>Tembellik (Sarı)<color=#ebcaa2> E.G.O kaynağı topladığımız için, bu <color=#f8c200><Sahiplik Pasifi><color=#ebcaa2> çoktan aktive olmuş durumda."
+      "content": "<color=#f8c200>Bir Yetenek kullan<color=#ebcaa2> ve <color=#f8c200>o Yeteneğin Günah Türüne karşılık gelen E.G.O kaynağını kazan<color=#ebcaa2>, burada kaynaklarını görebilirsin.\n\nBir önceki tur yeterince <color=#fbc82b>Tembellik (Sarı)<color=#ebcaa2> E.G.O kaynağı topladığımız için, bu <color=#f8c200>Sahiplik Pasifi<color=#ebcaa2> çoktan aktive olmuş durumda."
     },
     {
       "id": "tuto_01_02_04_05",
@@ -330,7 +330,7 @@
     },
     {
       "id": "tuto_01_02_04_06",
-      "content": "Karşılaşmada yer almayan Günahkârlar, yardım etmek için <Destek Pasifleri> kullanırlar.\n\n<color=#f8c200><Destek Pasiflerine><color=#ebcaa2> buradan bakabilirsin."
+      "content": "Karşılaşmada yer almayan Günahkârlar, yardım etmek için Destek Pasifleri kullanırlar.\n\n<color=#f8c200>Destek Pasiflerine<color=#ebcaa2> buradan bakabilirsin."
     },
     {
       "id": "tuto_01_02_04_07_title",
@@ -338,27 +338,27 @@
     },
     {
       "id": "tuto_01_02_04_08",
-      "content": "Yeterli yükseltmeyi almış Günahkârlar, <Destek Pasiflerine> sahiplerdir.\n<Destek Pasifleri>, aynı normal Pasifler gibi,<color=#f8c200><Rezonans><color=#ebcaa2> ve <color=#f8c200><Sahiplik><color=#ebcaa2> koşullarına sahiplerdir."
+      "content": "Yeterli yükseltmeyi almış Günahkârlar, Destek Pasiflerine sahiplerdir.\nDestek Pasifleri, aynı normal Pasifler gibi,<color=#ffcbdb>Rezonans<color=#ebcaa2> ve <color=#f8c200><Sahiplik><color=#ebcaa2> koşullarına sahiplerdir."
     },
     {
       "id": "tuto_01_03_01_01",
-      "content": "Saldırı Yeteneklerinin yanı sıra, her birimin bir <color=#f8c200><Defans Yeteneği><color=#ebcaa2> de vardır."
+      "content": "Saldırı Yeteneklerinin yanı sıra, her birimin bir <color=#f8c200>Defans Yeteneği<color=#ebcaa2> de vardır."
     },
     {
       "id": "tuto_01_03_01_02",
-      "content": "Bir <color=#00bfff><Defansif Yetenek><color=#ebcaa2> oluşturmak için Panelde bir Günahkârın portresine dokun.\nDefansif Yetenek, Günahkârın alttaki Yeteneğinin yerine geçer."
+      "content": "Bir <color=#00bfff>Defansif Yetenek<color=#ebcaa2> oluşturmak için Panelde bir Günahkârın portresine dokun.\nDefansif Yetenek, Günahkârın alttaki Yeteneğinin yerine geçer."
     },
     {
       "id": "tuto_01_03_01_03",
-      "content": "İlk olarak, bir <color=#00bfff><Korunma><color=#ebcaa2> Yeteneği oluşturmak için Günahkâr Meursault'un portresine dokun."
+      "content": "İlk olarak, bir <color=#00bfff>Korunma<color=#ebcaa2> Yeteneği oluşturmak için Günahkâr Meursault'un portresine dokun."
     },
     {
       "id": "tuto_01_03_01_04",
-      "content": "Ardından, bir <color=#00bfff><Kaçınma><color=#ebcaa2> Yeteneği oluşturmak için en zeki Günahkârın portresine dokun."
+      "content": "Ardından, bir <color=#00bfff>Kaçınma<color=#ebcaa2> Yeteneği oluşturmak için en zeki Günahkârın portresine dokun."
     },
     {
       "id": "tuto_01_03_01_05",
-      "content": "Son olarak, bir <color=#00bfff><Karşı Saldırı><color=#ebcaa2> Yeteneği oluşturmak için Günahkâr Heathcliff'in portresine dokun."
+      "content": "Son olarak, bir <color=#00bfff>Karşı Saldırı<color=#ebcaa2> Yeteneği oluşturmak için Günahkâr Heathcliff'in portresine dokun."
     },
     {
       "id": "tuto_01_03_01_06_title",
@@ -366,7 +366,7 @@
     },
     {
       "id": "tuto_01_03_01_07",
-      "content": "Bir <color=#00bfff><Korunma><color=#ebcaa2> Yeteneği kullandığında, Gücüne eşit miktarda <color=#00bfff>Kalkan<color=#ebcaa2> kazanırsın.\nBu kalkan gelen hasarın HP'ye işlemeden önce emilmesini sağlar."
+      "content": "Bir <color=#00bfff>Korunma<color=#ebcaa2> Yeteneği kullandığında, Gücüne eşit miktarda <color=#00bfff>Kalkan<color=#ebcaa2> kazanırsın.\nBu kalkan gelen hasarın HP'ye işlemeden önce emilmesini sağlar."
     },
     {
       "id": "tuto_01_03_01_08_title",
@@ -374,7 +374,7 @@
     },
     {
       "id": "tuto_01_03_01_09",
-      "content": "Bir <color=#00bfff><Kaçınma><color=#ebcaa2> Yeteneği kullandığında, eğer Final Gücü rakibin saldırısına eşit veya daha fazla ise, rakibin saldırısından hiçbir hasar almayarak <color=#f8c200>tamamen kaçınırsın<color=#ebcaa2>.\nKaçınma Yetenekleri rakibin her Jetonu için bir kez daha kendi Jetonunu atar, kaçınmaya devam ettiği sürece Yetenek bozulmaz.\nDikkat: Eğer bir Kaçınma Yeteneğinin Final Gücü rakibin saldırısından az kalırsa, kaybeder. Rakibin saldırısı karşılıksızmış gibi tüm gücüyle vurur ve Kaçınma Yeteneği bozulur."
+      "content": "Bir <color=#00bfff>Kaçınma<color=#ebcaa2> Yeteneği kullandığında, eğer Final Gücü rakibin saldırısına eşit veya daha fazla ise, rakibin saldırısından hiçbir hasar almayarak <color=#f8c200>tamamen kaçınırsın<color=#ebcaa2>.\nKaçınma Yetenekleri rakibin her Jetonu için bir kez daha kendi Jetonunu atar, kaçınmaya devam ettiği sürece Yetenek bozulmaz.\nDikkat: Eğer bir Kaçınma Yeteneğinin Final Gücü rakibin saldırısından az kalırsa, kaybeder. Rakibin saldırısı karşılıksızmış gibi tüm gücüyle vurur ve Kaçınma Yeteneği bozulur."
     },
     {
       "id": "tuto_01_03_01_10_title",
@@ -382,7 +382,7 @@
     },
     {
       "id": "tuto_01_03_01_11",
-      "content": "<color=#00bfff><Karşı Saldırı><color=#ebcaa2> Yeteneği rakibin vurmasına izin verir, fakat ardından ona karşı <color=#f8c200>karşılıksız bir saldırı yapar<color=#ebcaa2>.\nDikkat: Eğer birlik rakibin saldırısı tarafından Sersemleme geçirirse, Karşı Saldırı etkinleşmez."
+      "content": "<color=#00bfff>Karşı Saldırı<color=#ebcaa2> Yeteneği rakibin vurmasına izin verir, fakat ardından ona karşı <color=#f8c200>karşılıksız bir saldırı yapar<color=#ebcaa2>.\nDikkat: Eğer birlik rakibin saldırısı tarafından Sersemleme geçirirse, Karşı Saldırı etkinleşmez."
     },
     {
       "id": "tuto_01_03_01_12",
@@ -394,7 +394,7 @@
     },
     {
       "id": "tuto_01_03_02_01",
-      "content": "Doğru şartlar altında kullanıldığında, <color=#00bfff><Defansif Yetenekler><color=#ebcaa2> rakibe saldırmak veya Çarpışmaktan bile daha efektif olabilir. Amma velâkin, bu Yeteneklerin yanlış kullanılışı Günahkârları büyük bir riske sokabilir."
+      "content": "Doğru şartlar altında kullanıldığında, <color=#00bfff>Defansif Yetenekler<color=#ebcaa2> rakibe saldırmak veya Çarpışmaktan bile daha efektif olabilir. Amma velâkin, bu Yeteneklerin yanlış kullanılışı Günahkârları büyük bir riske sokabilir."
     },
     {
       "id": "tuto_01_03_02_02",
@@ -450,7 +450,7 @@
     },
     {
       "id": "tuto_01_08_01_05",
-      "content": "<color=#f8c200>E.G.O<color=#ebcaa2> Yetenekleri kullanmak, <color=#f8c200>E.G.O kaynağı<color=#ebcaa2> ve <color=#89CFF0>SP<color=#ebcaa2> harcar.\n\nE.G.O'ların harcadığı SP, bilgi kartının sol üst köşesinde yazmaktadır.\n\nŞimdi, şu E.G.O'yu seç—<color=#9500de>“Ceset Çuvalı”"
+      "content": "<color=#f8c200>E.G.O<color=#ebcaa2> Yetenekleri kullanmak, <color=#f8c200>E.G.O kaynağı<color=#ebcaa2> ve <color=#89CFF0>SP<color=#ebcaa2> harcar.\n\nE.G.O'ların harcadığı <color=#89CFF0>SP<color=#ebcaa2>, bilgi kartının sol üst köşesinde yazmaktadır.\n\nŞimdi, şu E.G.O'yu seç—<color=#9500de>“Ceset Çuvalı”"
     },
     {
       "id": "tuto_01_08_01_06",
@@ -506,7 +506,7 @@
     },
     {
       "id": "tuto_01_08_02_10",
-      "content": "The <color=#f8c200>SP cost is consumed<color=#ebcaa2> the moment the <color=#f8c200><E.G.O><color=#ebcaa2> Skill begins its attack.\n\nBe warned: letting a Sinner's SP drop too low may cause them to <color=#f8c200>Panic<color=#ebcaa2> or become <color=#f8c200>Corroded<color=#ebcaa2> by their <color=#f8c200><E.G.O><color=#ebcaa2>."
+      "content": "The <color=#f8c200>SP cost is consumed<color=#ebcaa2> the moment the <color=#f8c200><E.G.O><color=#ebcaa2> Skill begins its attack.\n\nBe warned: letting a Sinner's <color=#89CFF0>SP<color=#ebcaa2> drop too low may cause them to <color=#f8c200>Panic<color=#ebcaa2> or become <color=#f8c200>Corroded<color=#ebcaa2> by their <color=#f8c200><E.G.O><color=#ebcaa2>."
     },
     {
       "id": "tuto_01_08_03_01",
@@ -514,7 +514,7 @@
     },
     {
       "id": "tuto_01_09_01_01",
-      "content": "In this Encounter, we will learn about more advanced usage of <E.G.O>.\nSinner Ryōshū will begin with a higher SP value for demonstration purposes."
+      "content": "In this Encounter, we will learn about more advanced usage of <E.G.O>.\nSinner Ryōshū will begin with a higher <color=#89CFF0>SP<color=#ebcaa2> value for demonstration purposes."
     },
     {
       "id": "tuto_01_09_01_02",
@@ -538,11 +538,11 @@
     },
     {
       "id": "tuto_01_09_01_07",
-      "content": "Reaching <color=#f8c200>-45 SP<color=#ebcaa2> will guarantee that the Sinner enters <color=#f8c200><E.G.O Corrosion><color=#ebcaa2> state.\nIn an <color=#f8c200><E.G.O Corrosion><color=#ebcaa2> state, the Sinner will indiscriminately attack both allies and enemies."
+      "content": "Reaching <color=#f8c200>-45 <color=#89CFF0>SP<color=#ebcaa2><color=#ebcaa2> will guarantee that the Sinner enters <color=#f8c200><E.G.O Corrosion><color=#ebcaa2> state.\nIn an <color=#f8c200><E.G.O Corrosion><color=#ebcaa2> state, the Sinner will indiscriminately attack both allies and enemies."
     },
     {
       "id": "tuto_01_09_01_08",
-      "content": "The Sinner will recover from the <color=#f8c200><E.G.O Corrosion><color=#ebcaa2> state next turn, and their SP will reset to 0."
+      "content": "The Sinner will recover from the <color=#f8c200><E.G.O Corrosion><color=#ebcaa2> state next turn, and their <color=#89CFF0>SP<color=#ebcaa2> will reset to 0."
     },
     {
       "id": "tuto_01_09_01_09",
@@ -562,7 +562,7 @@
     },
     {
       "id": "tuto_01_09_01_12",
-      "content": "Activating <color=#f8c200><Stable Overclock><color=#ebcaa2> consumes <color=#f8c200>1.5 times the resources (including SP)<color=#ebcaa2> compared to a non-Overclocked E.G.O, but it does <color=#f8c200>not target allies<color=#ebcaa2>.\nWarning: Even a Stable Overclock can <color=#f8c200>Corrode<color=#ebcaa2> your Sinners if their <color=#f8c200>SP value is low<color=#ebcaa2>."
+      "content": "Activating <color=#f8c200><Stable Overclock><color=#ebcaa2> consumes <color=#f8c200>1.5 times the resources (including <color=#89CFF0>SP<color=#ebcaa2>)<color=#ebcaa2> compared to a non-Overclocked E.G.O, but it does <color=#f8c200>not target allies<color=#ebcaa2>.\nWarning: Even a Stable Overclock can <color=#f8c200>Corrode<color=#ebcaa2> your Sinners if their <color=#f8c200>SP value is low<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_09_01_13_title",
