@@ -4,22 +4,22 @@
             "id": 0,
             "place": "K Yuvası Şehir Merkezi Sokağı",
             "model": "파우스트",
-            "content": "Herkes otobüsden insin. Bir sonraki görevimiz için müşteriyle burada buluşmamız gerekiyor."
+            "content": "Herkes otobüsden insin. Bir sonraki görevimiz için müşterimizle burada buluşmamız gerekiyor."
         },
         {
             "id": 1,
             "model": "히스클리프",
-            "content": "Bana bir mola ver. Şimdi sanki süslü püslü uşakmışız gibi istek mi alıyoruz?"
+            "content": "Taşşak mı geçiyorsun? Şimdi de züppe paçozlar gibi ayak işine mi koşuyoruz?"
         },
         {
             "id": 2,
             "model": "그레고르",
-            "content": "Hm? Söyle bakalım, oradaki ne? Önünde uzun bir kuyruk var."
+            "content": "Hm? Söylesene, oradaki de ne öyle? Önünde uzun bir kuyruk var."
         },
         {
             "id": 3,
             "model": "로쟈",
-            "content": "Ahh~ Bu heyecan verici kokuyu tanıyamadın mı? Kızarmış tavuk, Greg!! Pahalı yağda çıtır çıtır kızartılmış tavuklar!"
+            "content": "Ahh~ Bu iştah kabartıcı kokuyu tanıyamadın mı? Kızarmış tavuk, Greg!! Pahalı yağda çıtır çıtır kızartılmış tavuklar!"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
         },
         {
             "id": 5,
-            "content": "Günahkarların konuşmasına, sanki bizim gruptanmış gibi, titiz bir tavır takınan bir adam ansızın daldı."
+            "content": "Sanki bizden biriymiş gibi bir adam, aniden Günahkârların kendi arasındaki konuşmasına daldı."
         },
         {
             "id": 6,
@@ -42,7 +42,7 @@
             "model": "삼조",
             "teller": "???",
             "title": "???",
-            "content": "İzin ver açıklayayım…"
+            "content": "Müsadenizle… Açıklayayım."
         },
         {
             "id": 8,
@@ -61,27 +61,27 @@
         {
             "id": 10,
             "model": "이상",
-            "content": "…Bunu ilk defa duymuş olabilirim."
+            "content": "…Evvelce bunu işitmiş olabilirim."
         },
         {
             "id": 11,
             "model": "로쟈",
-            "content": "Bu bir sürpriz değil mi~ Bizim Yi Sang, kayanın altından modayı takip ediyor, değil mi?"
+            "content": "Vay vay bak sen~ Bizim Yi Sang, kayanın altından modayı da mıtakip ediyormuş, ha?"
         },
         {
             "id": 12,
             "model": "히스클리프",
-            "content": "…Peki sen kim olmaktasın?"
+            "content": "…Sen kendini ne sanıyorsun?"
         },
         {
             "id": 13,
             "model": "히스클리프",
-            "content": "Sanırım sen de bizim kim olduğumuzu bilmiyorsun, konuşurken kendini araya sıkıştırdın."
+            "content": "Biz konuşurken utanmadan kendini aramıza sokuşturduğuna göre senin de bizim kim olduğumuzu bilmediğine bahse girebilirim."
         },
         {
             "id": 14,
             "model": "이스마엘",
-            "content": "…Bize kim olduğumuzu anlatabilir misiniz?"
+            "content": "…Peki sen bizim kim olduğumuzu biliyormusun ki?"
         },
         {
             "id": 15,
@@ -92,12 +92,12 @@
         },
         {
             "id": 16,
-            "content": "Etrafıma baktığımda, aynı şekilde garip davranışlar sergileyen, oldukça garip görünümlü insanlar gördüm."
+            "content": "Etrafıma baktığımda, oldukça garip gözüken ve gene oldukça garip davranan insanlar gördüm."
         },
         {
             "id": 17,
             "model": "단테",
-            "content": "<B–Bu K Kurulu'nun personeli değil mi…? Ne yapıyorlar?>"
+            "content": "<B–Bunlar K Kurulu'nun personeli değiler mi…? Ne yapıyorlar?>"
         },
         {
             "id": 18,
@@ -112,7 +112,7 @@
         {
             "id": 20,
             "model": "이스마엘",
-            "content": "Peki bu “maskotlar” insanları kovalar ve çığlık attırır mı?"
+            "content": "Peki bu “maskotlar” insanları kovalayarak çığlık attırırlar mı?"
         },
         {
             "id": 21,
@@ -124,12 +124,12 @@
             "model": "삼조",
             "teller": "???",
             "title": "???",
-            "content": "Haklısın. Bize kesinlikle yaklaşmıyorlar."
+            "content": "Haklısın. Özellikle bize yaklaşmıyorlar."
         },
         {
             "id": 23,
             "model": "그레고르",
-            "content": "Peki, yol kenarındaki o taşla ne yapmaya çalışıyorsun, gizemli adam?"
+            "content": "Peki, yol kenarındaki o taşı eline alıp ne yapmaya çalışıyorsun, birden bire bizden oluveren ahbap?"
         },
         {
             "id": 24,
@@ -141,15 +141,15 @@
         {
             "id": 25,
             "model": "단테",
-            "content": "<Ne yaptın sen yahu?!>"
+            "content": "<Neden kafasına taş attın, ve o şey de ne?!>"
         },
         {
             "id": 26,
-            "content": "Taş tarafından vurulan yaratık, etrafa bakınmaya başladı…"
+            "content": "Taş tarafından uyarılmış, <i>Half Life oyunundan fırlama yaratık</i>, etrafa bakınmaya başladı…"
         },
         {
             "id": 27,
-            "content": "Sonra yavaş yavaş bize doğru gelmeye başladı."
+            "content": "Sonra yavaş yavaş bize doğru ilerdi."
         },
         {
             "id": 28,
@@ -163,40 +163,40 @@
             "model": "삼조",
             "teller": "???",
             "title": "???",
-            "content": "Vay canına, çok beceriksiz bir hata yaptım. Şimdi ne yapacağız?"
+            "content": "Vay canına, ne kadar da sakarca bir hata yaptım. Şimdi ne yapacağız?"
         },
         {
             "id": 30,
             "model": "로쟈",
-            "content": "Doğru haber kozyol… Tam kafasına nişan aldın…"
+            "content": "Aynen ne demezsin… Tam kafasına nişan alan da ninemdi zaten…"
         },
         {
             "id": 31,
             "model": "홍루",
-            "content": "Vay canına~ Formunuz etkileyici derecede istikrarlıydı."
+            "content": "Vooov~ Formunuz etkileyici derecede stabildi."
         },
         {
             "id": 32,
             "model": "삼조",
             "teller": "???",
             "title": "???",
-            "content": "Teşekkür ederim. Bir zamanlar büyük şehirde beyzbol oyuncusu olmayı bile istiyordum."
+            "content": "Teşekkür ederim. Bir zamanlar Eyaletrler Arası beyzbol turnuvalarına katılmak istiyordum da."
         },
         {
             "id": 33,
             "model": "료슈",
-            "content": "Seninle top oynayacağım tamam. Tam orada kal ki kafanı parkın dışına atabileyim."
+            "content": "Sana top oynamasını gösteririm ben. Tam orada kal ki kafanı parkın dışına atabileyim."
         },
         {
             "id": 34,
             "model": "삼조",
             "teller": "???",
             "title": "???",
-            "content": "Şimdi daha hızlı yaklaşıyorlar. Kafama bir yumruk atmadan önce onlarla ilgilenmen gerekmez mi?"
+            "content": "Şimdi daha hızlı ilerliyorlar. Kafama bir yumruk atmadan önce onlarla ilgilenmeniz gerekmez mi?"
         },
         {
             "id": 35,
-            "content": "Ryōshū öfkeyle kınına uzandığında, o yaratıklar tam bize geldi…"
+            "content": "Tamda Ryōshū öfkeyle elini kınına uzatırken, yaratıkalr bize yetişmişti…"
         },
         {
             "id": 36,
@@ -221,28 +221,28 @@
         {
             "id": 40,
             "model": "그레고르",
-            "content": "Yani, şey... Siz bunun sebebinin Sinclair'ın bir keresinde etini çıkarmak zahmetli olduğu için bir tavuk kanadını yememiş olması olduğunu mu düşünüyorsunuz? Tavukları çağırmak için başka bir şey yapabileceğimizi düşünemiyorum…"
+            "content": "Yani, şey... Siz bunun sebebinin Sinclair'ın bir keresinde etini çıkarmak zahmetli olduğu için bir tavuk kanadını yemeden bıraktığındanmıdır dersiniz? Tavukları çağırmak için başka bir şey yapabileceğimizi düşünemiyorum…"
         },
         {
             "id": 41,
             "model": "싱클레어",
-            "content": "Böyle alaylar bir daha beni etkilemiyor, biliyorsun… Ayrıca, Rodya zaten bunu temiz bir şekilde yaladı…"
+            "content": "Artık dalga geçmeniz beni etkilemiyor, az önce yaşadıklarıma kıyasla… Hem zaten, sonrasında Rodya onu yalayıp yutmuştu ki…"
         },
         {
             "id": 42,
             "model": "삼조",
             "teller": "???",
             "title": "???",
-            "content": "Hımm, anlaşılan tek çaremiz dövüşmek olacak."
+            "content": "Hımm, anlaşılan savaşa girmek kaçınılmaz."
         },
         {
             "id": 43,
             "model": "단테",
-            "content": "<Peki bu adam neden arkama saklanıyor o zaman?>"
+            "content": "<O zaman bu adam neden arkamda saklanıyor?>"
         },
         {
             "id": 44,
-            "content": "Daha fazla şikayet edemeden, tavuk kafalı kalabalık bize saldırdı."
+            "content": "Daha fazla siteme yer bırakmadan, tavuk kafalı kalabalık üzerimize çullandı."
         }
     ]
 }
