@@ -217,7 +217,7 @@
     {
       "id": 45,
       "model": "로쟈",
-      "content": "Sizce neden az önce saldırıya uğradık? Akıllarınca vizamızı alıp Yuva'ya gireceklerdi."
+      "content": "Sizce neden az önce saldırıya uğradık? Akıllarınca vizemizi alıp Yuva'ya gireceklerdi."
     },
     {
       "id": 46,
@@ -230,11 +230,11 @@
     },
     {
       "id": 48,
-      "content": "Nedeni duvar'ın ardındaki kasvetli ve bastırıcı armosfer miydi…"
+      "content": "Nedeni duvarın ardındaki kasvetli ve bastırıcı armosfer miydi…"
     },
     {
       "id": 49,
-      "content": "yahut orada yaşanan bir karmaşıklık mı söyleyemem ama."
+      "content": "yahut orada yaşanan bir karmaşıklık mı söyleyemem ama..."
     },
     {
       "id": 50,
@@ -258,7 +258,7 @@
     {
       "id": 54,
       "model": "료슈",
-      "content": "…Bana bir kez daha hatırlat ve senle o memuru ŞERBET yaparım!"
+      "content": "…Bana bir kez daha hatırlat ve senle o memuru Ş.E.R.B.E.T yaparım."
     },
     {
       "id": 55,
@@ -267,20 +267,20 @@
     {
       "id": 56,
       "model": "검문소경비",
-      "teller": "Checkpoint Official",
-      "title": "K Corp.",
+      "teller": "Sınır Güvenliği",
+      "title": "K Kuruluşu",
       "content": "Lütfen ziyaret nedenizi belirtin."
     },
     {
       "id": 57,
       "model": "그레고르",
-      "content": "Ah, Ben Limbus Şirketinden iş için geldim. Bu da benim çalışan kardım."
+      "content": "Ah, Ben Limbus Şirketinden iş için geldim. Bu da benim çalışan kartım."
     },
     {
       "id": 58,
       "model": "검문소경비",
-      "teller": "Checkpoint Official",
-      "title": "K Corp.",
+      "teller": "Sınır Güvenliği",
+      "title": "K Kuruluşu",
       "content": "…Hmm her şey yerinde. Sıradaki."
     },
     {
@@ -291,8 +291,8 @@
     {
       "id": 60,
       "model": "검문소경비",
-      "teller": "Checkpoint Official",
-      "title": "K Corp.",
+      "teller": "Sınır Güvenliği",
+      "title": "K Kuruluşu",
       "content": "…Her şey yerinde. Sıradaki."
     },
     {
@@ -301,7 +301,7 @@
     },
     {
       "id": 62,
-      "content": "Görevli aynı monoton soruyu aynı monoton tonla sorup durdu, Yüzlerimize ve çalışan kartlarımıza göz attı- ama hızlarından yola çıkarak, bu davranışı gelenek haline gelmiş bir mimik gibiydi detaylı bir teftişten ziyade― sonra geçmemize izin verdi."
+      "content": "Görevli aynı monoton soruyu aynı monoton tonla sorup durdu, Yüzlerimize ve çalışan kartlarımıza göz attı -hızlarından yola çıkarak, bu davranışı gelenek haline gelmiş bir mimik gibiydi detaylı bir teftişten ziyade- sonra geçmemize izin verdi."
     },
     {
       "id": 63,
@@ -317,7 +317,7 @@
     },
     {
       "id": 65,
-      "content": "Aramızdaki Camekan engel sesin geçmesini engelleyecek kadar kalındı."
+      "content": "Aramızdaki cam engel sesin geçmesini engelleyecek kadar kalındı."
     },
     {
       "id": 66,
@@ -353,7 +353,7 @@
     },
     {
       "id": 73,
-      "content": "Heathcliff'in Ishmeal'e karşı ilk başarılı kışkırtma girişimini kutlması tarafından dikkatim dağılmışken…"
+      "content": "Heathcliff'in Ishmeal'e karşı ilk başarılı kışkırtma girişimini kutlaması tarafından dikkatim dağılmışken…"
     },
     {
       "id": 74,
@@ -362,9 +362,9 @@
     {
       "id": 75,
       "model": "검문소경비",
-      "teller": "Checkpoint Official",
-      "title": "K Corp.",
-      "content": "Lütfen ziyaret nedenizi belirtin."
+      "teller": "Sınır Güvenliği",
+      "title": "K Kuruluşu",
+      "content": "Lütfen ziyaret nedeninizi belirtin."
     },
     {
       "id": 76,
@@ -374,7 +374,7 @@
     {
       "id": 77,
       "model": "돈키호테",
-      "content": "Bendeniz buraya mazlum ve acizlere istahkam sağlamaya geldim!"
+      "content": "Bendeniz buraya mazlum ve acizlere istihkam sağlamaya geldim!"
     },
     {
       "id": 78,
@@ -396,8 +396,8 @@
     {
       "id": 82,
       "model": "검문소경비",
-      "teller": "Checkpoint Official",
-      "title": "K Corp.",
+      "teller": "Sınır Güvenliği",
+      "title": "K Kuruluşu",
       "content": "Lütfen ziyaret nedenizi belirtin."
     },
     {
@@ -440,22 +440,22 @@
     {
       "id": 91,
       "model": "검문소경비",
-      "teller": "Checkpoint Official",
-      "title": "K Corp.",
+      "teller": "Sınır Güvenliği",
+      "title": "K Kuruluşu",
       "content": "…Ohh."
     },
     {
       "id": 92,
       "model": "검문소경비",
-      "teller": "Checkpoint Official",
-      "title": "K Corp.",
+      "teller": "Sınır Güvenliği",
+      "title": "K Kuruluşu",
       "content": "Kod mor. Kod mor. Tabu ihlali K185."
     },
     {
       "id": 93,
       "model": "검문소경비",
-      "teller": "Checkpoint Official",
-      "title": "K Corp.",
+      "teller": "Sınır Güvenliği",
+      "title": "K Kuruluşu",
       "content": "Trombosit Birliği Talep ediyorum. Tekrar ediyorum, Trombosit Birliği…"
     },
     {
@@ -476,7 +476,7 @@
       "id": 95,
       "model": "더미2",
       "teller": "Announcement",
-      "title": "K Corp.",
+      "title": "K Kuruluşu",
       "content": "Dikkat Dikkat bütün personel: Kod mor. Kod mor. Göçmen kabul salon 2, Sıra No 14. Trombosit, Lökosit."
     },
     {
@@ -501,7 +501,7 @@
     {
       "id": 100,
       "model": "파우스트",
-      "content": "Evet öyle olmalı. K kuruluşu'na yakışacak biçimde, itiraf etmeliyim."
+      "content": "Evet öyle olmalı. K Kuruluşu'na yakışacak biçimde, itiraf etmeliyim."
     },
     {
       "id": 101,
