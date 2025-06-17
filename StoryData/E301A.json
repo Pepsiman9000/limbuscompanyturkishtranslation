@@ -217,7 +217,7 @@
         {
             "id": 37,
             "model": "히스클리프",
-            "content": "Gözyaşlarına boğulacak bir şey olsa da, hala bir tavuk satıcısından istek almıyoruz…"
+            "content": "Yürek burkan mı ne amına koduğum neyse artık, biz yine de senin gibi tavuk kafalardan emir almayı…"
         },
         {
             "id": 38,
@@ -268,7 +268,7 @@
         {
             "id": 45,
             "model": "돈키호테",
-            "content": "Mmmmh… Sadece bir lezzeti mi seçmeliyim? Hepsi lezzet açısından eşit görünüyor…"
+            "content": "AAaaa… Hakk-ı armağanım safi bir tanecik mi? Gastronomik zanaatlerde hepsi eşit derecede mükemmelikte…"
         },
         {
             "id": 46,
@@ -280,11 +280,11 @@
         {
             "id": 47,
             "model": "돈키호테",
-            "content": "Oho… Gerçekten de bu geri çevrilemez bir teklif…"
+            "content": "Oho… Bu teklif hakiki kâr değildir de nedir…"
         },
         {
             "id": 48,
-            "content": "Samjo'nun etkileyici sözleri ve kaliteli yemek örnekleriyle çoğu günahkarın kalbini kazandığı anlaşılıyor."
+            "content": "Samjo'nun kaliteli yememk vaatleri çoğu Günahkârın kalbini kazandı."
         },
         {
             "id": 49,
@@ -300,7 +300,7 @@
         },
         {
             "id": 51,
-            "content": "Heathcliff'in birinin sözleri karşısında ilk kez sessiz kaldığını görüyorum."
+            "content": "Heathcliff'in birine karşı hiç böyle sessiz kaldığını hatırlamıyorum."
         },
         {
             "id": 52,
@@ -310,7 +310,7 @@
         {
             "id": 53,
             "model": "이스마엘",
-            "content": "Merhaba…? Altın tavuk çubukları değil, Altın Dallar aramamız gerekmiyor muydu? Ne zamandan beri—"
+            "content": "Alooo…? Altın tavuk çubukları değil, Altın Dallar aramamız gerekmiyor muydu? Ne zamandan beri—"
         },
         {
             "id": 54,
@@ -320,12 +320,12 @@
         {
             "id": 55,
             "model": "로쟈",
-            "content": "Sınırlı bir kullanımı yok, değil mi?Sonsuza dek bedava tavuk, değil mi? Evet? Paket servis de sayılır mı?"
+            "content": "Sınırlı bir kullanımı yok, değil mi? Sonsuza dek bedava tavuk, değil mi? Ha? Paket servis de sayılır mı?"
         },
         {
             "id": 56,
             "model": "로쟈",
-            "content": "Hah, bu beni eski günlere götürüyor. Acaba hatırlayan var mıdır~ Hatırlıyor musun, HamHamPangPang'ın taze kızarmış tavuğu çok lezzetliydi."
+            "content": "Hah, bu beni eski günlere götürüyor. Acaba hatırlayan var mıdır~ Bilirsin ya, HamHamPangPang'ın taze kızarmış tavuğu çok lezzetliydi."
         },
         {
             "id": 57,
@@ -335,11 +335,11 @@
         {
             "id": 58,
             "model": "이스마엘",
-            "content": "Uhhh, Bayan Faust, artık saçmalıkları kesebilirler mi? Kızarmış tavuk isteklerine karşı bir şirket maddesi olmamalı mı?"
+            "content": "Uhhh, Bayan Faust, artık şunlara saçmalamayı kesmelerini söyleyemezmisiniz? Kızarmış tavuk siparişlerine karşı bir şirket maddesi olmamalı mı?"
         },
         {
             "id": 59,
-            "content": "Faust, yalnız başına derin düşüncelere dalmıştı."
+            "content": "Faust, bir köşede efkara daldıktan sonra."
         },
         {
             "id": 60,
@@ -353,22 +353,22 @@
         },
         {
             "id": 62,
-            "content": "Ayrıca Ishmael'in bu kadar şaşırdığını ilk kez görüyorum."
+            "content": "Aynı şekilde Ishmael'in de daha önce hiç bu kadar şaşırdığını hatırlamıyorum."
         },
         {
             "id": 63,
             "model": "이스마엘",
-            "content": "Üzgünüm Faust… ama bir anlığına aklını mı kaybettin?"
+            "content": "Üzgünüm Bayan Faust… ama bir anlığına aklınızı mı kaybettiniz acaba?"
         },
         {
             "id": 64,
             "model": "그레고르",
-            "content": "Aman, Ishmael, bu kadar ısrarcı olmana gerek yok…"
+            "content": "Aman, Ishmael, bu kadar hırçın…"
         },
         {
             "id": 65,
             "model": "파우스트",
-            "content": "Söylemesi zor. Faust'un aklı çoğunlukla dışarıda olma eğilimindedir."
+            "content": "Söylemesi zor. Faust'un efkarı çoğunlukla derinlerdedir."
         },
         {
             "id": 66,
@@ -378,12 +378,12 @@
         {
             "id": 67,
             "model": "단테",
-            "content": "<Faust… Ciddi misin? Ücretsiz tavuk yerine bir isteği mi kabul ediyorsun?>"
+            "content": "<Faust… Ciddi misin? Ücretsiz tavuk için bir görevi mi kabul ediyorsun?>"
         },
         {
             "id": 68,
             "model": "파우스트",
-            "content": "Daha doğrusu… bu, ‘Bozukluk Fenomeni’nin bir örneğini çözmektir, Dante."
+            "content": "Daha doğrusu… ‘Bozukluk Fenomeni’nin bir örneğini çözmek için kabul ediyorum, Dante."
         },
         {
             "id": 69,
@@ -398,7 +398,7 @@
         {
             "id": 71,
             "model": "파우스트",
-            "content": "Çoğu kişi için belirsiz olduğundan emin olduğum bir terim. Şehrin her yerinde meydana gelmesine rağmen, fenomen hakkında genel kamuoyuna resmi bir duyuru yapılmadı."
+            "content": "Çoğu kişi için belirsiz olduğuna emin olduğum bir terim. Şehir'in her yerinde meydana gelmesine rağmen, fenomenler hakkında genel kamuoyuna resmi bir duyuru yapılmadı."
         },
         {
             "id": 72,
@@ -408,12 +408,12 @@
         {
             "id": 73,
             "model": "뫼르소",
-            "content": "Bildiğim kadarıyla, bir bireyin sıklıkla “insan” olarak kabul edilmeye uygun olmayan bir forma dönüştüğü bir fenomendir. Bilinen bir nedeni yoktur ve görünümler birbirinden farklıydı."
+            "content": "Bildiğim kadarıyla, bir bireyin “insan” olarak kabul edilmeye uygun olmayan bir forma dönüştüğü bir fenomendir. Bilinen bir nedeni yoktur ve kayıtların hepsi alakasız görünüşlerde olmakta."
         },
         {
             "id": 74,
             "model": "홍루",
-            "content": "Hmm… Bu yeterince açıklayıcı değil. Anomali gibi mi?"
+            "content": "Hmm… Bu yeterince açıklayıcı değil. Anomali gibiler mi?"
         },
         {
             "id": 75,
@@ -428,7 +428,7 @@
         {
             "id": 77,
             "model": "파우스트",
-            "content": "Şirketimizin, bozukluklar ile ilgili konulara adanmış bir danışmanlık birimi olan LŞB'si var. Boyutu küçük olsa da, şirketin fenomene olan ilgisini gösteriyor."
+            "content": "Şirketimizin, bozukluklar ile ilgili konulara adanmış bir danışmanlık birimi olan LŞB'si (Limbus Şirketi Bozukluk Departmanı) var. Her ne kadar şu anlık bütçesi küçük olsa da, şirketin fenomene olan ilgisini gösteriyor."
         },
         {
             "id": 78,
@@ -438,7 +438,7 @@
         {
             "id": 79,
             "model": "파우스트",
-            "content": "Doğru. İnsan aklını kaybederek çiğ tavuklardan oluşan bir orduyu yönetme yeteneğini kazanamaz."
+            "content": "Doğru. İnsanlar genellikle aklını kaybederek çiğ tavuklardan oluşan bir orduyu yönetme yeteneğini kazanamazlar."
         },
         {
             "id": 80,
@@ -448,17 +448,17 @@
         {
             "id": 81,
             "model": "이스마엘",
-            "content": "Yani konu bu mu? Vay canına… Neredeyse sana biraz akıl vermem gerekeceğinden endişeleniyordum, Faust."
+            "content": "Kabul etme sebebimiz bu muydu? Ahh… Neredeyse size biraz akıl vermem gerekeceğinden endişeleniyordum, Bayan Faust."
         },
         {
             "id": 82,
             "model": "그레고르",
-            "content": "Bu yüzden mi topuzunu bu kadar sıkı tutuyordun, Ishmael?…?"
+            "content": "Bu yüzden mi topuzunu bu kadar sıkı kavrıyordun, Ishmael?…?"
         },
         {
             "id": 83,
             "model": "돈키호테",
-            "content": "Haklısınız! Bu kargaşa herhangi bir can kaybına yol açmadan önce harekete geçmeliyiz. Ham-Ham…"
+            "content": "Filvaki! Bu vaziyett-i bedbin hiçbir mazlum zarar vermeden, zimmet altına alınmalı. Nam-nam…"
         },
         {
             "id": 84,
@@ -467,14 +467,14 @@
         },
         {
             "id": 85,
-            "content": "Rodya'nın Don Quixote'nin ağzını temizlemesini izledim."
+            "content": "Rodya parmağını ıslatıp Don Quixote'nin yanağını temizledi."
         },
         {
             "id": 86,
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
-            "content": "Bunu bir evet olarak kabul ediyorum ve sizinle iletişime geçmenizi bekliyor olacağım."
+            "content": "Bunu bir evet olarak kabul ediyorum ve sizinl iletişime geçmemizi bekliyor olacağım."
         }
     ]
 }
