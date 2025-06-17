@@ -6,7 +6,7 @@
     },
     {
       "id": "season_title_1_EVENT",
-      "content": "ORYANTASYON ETKİNLİK "
+      "content": "ORYANTASYON ETKINLIK"
     },
     {
       "id": "season_title_2",
@@ -14,11 +14,11 @@
     },
     {
       "id": "season_title_2_EVENT",
-      "content": "ANIMSAMA ETKİNLİK "
+      "content": "ANIMSAMA ETKINLIK"
     },
     {
       "id": "season_9101_walpurgisnacht",
-      "content": "Walpurgis Gecesi"
+      "content": "WALPURGIS GECESI"
     },
     {
       "id": "season_title_3",
@@ -26,11 +26,11 @@
     },
     {
       "id": "season_title_3_EVENT",
-      "content": "BON VOYAGE ETKİNLİK "
+      "content": "BON VOYAGE ETKINLIK"
     },
     {
       "id": "season_filter_3",
-      "content": "Sezon 3"
+      "content": "SEZON 3"
     },
     {
       "id": "season_title_4",
@@ -38,11 +38,11 @@
     },
     {
       "id": "season_title_4_EVENT",
-      "content": "BÜTÜN CATHY'LERİ TEMİZLE ETKİNLİK "
+      "content": "BÜTÜN CATHY'LERİ TEMİZLE ETKINLIK"
     },
     {
       "id": "season_filter_4",
-      "content": "Sezon 4"
+      "content": "SEZON 4"
     },
     {
       "id": "season_title_5",
@@ -50,11 +50,24 @@
     },
     {
       "id": "season_title_5_EVENT",
-      "content": "YOK OLUŞ ETKİNLİK "
+      "content": "YOK OLUŞ ETKINLIK"
     },
     {
       "id": "season_filter_5",
-      "content": "Sezon 5"
+      "content": "SEZON 5"
+    },
+    {
+      "id": "season_title_6",
+      "content": "BING CHILLING"
+    },
+    {
+      "id": "season_title_6_EVENT",
+      "content": "BING CHILLING ETKINLIK"
+    },
+    {
+      "id": "season_filter_5",
+      "content": "SEZON 6"
     }
+    
   ]
 }
