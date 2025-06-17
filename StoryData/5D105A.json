@@ -2,17 +2,17 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Pequod Kenti",
+            "place": "Pequod Kasabası",
             "model": "퀴케그가면",
             "teller": "???",
-            "title": "Pequod Kenti",
+            "title": "Pequod Kasabası",
             "content": "Hepiniz. Güçlüsünüz."
         },
         {
             "id": 1,
             "model": "퀴케그가면",
             "teller": "???",
-            "title": "Pequod Kenti",
+            "title": "Pequod Kasabası",
             "content": "Ama levent değilsiniz."
         },
         {
@@ -38,7 +38,7 @@
             "id": 6,
             "model": "퀴케그",
             "teller": "???",
-            "title": "Pequod Kenti",
+            "title": "Pequod Kasabası",
             "content": "Ama sen. Sen bir leventsin."
         },
         {
@@ -79,21 +79,21 @@
             "id": 14,
             "model": "퀴케그",
             "teller": "Queequeg",
-            "title": "Pequod Kenti",
+            "title": "Pequod Kasabası",
             "content": "Saç rengin. Unutulamaz."
         },
         {
             "id": 15,
             "model": "퀴케그",
             "teller": "Queequeg",
-            "title": "Pequod Kenti",
+            "title": "Pequod Kasabası",
             "content": "İsmini. Biliyorum."
         },
         {
             "id": 16,
             "model": "퀴케그",
             "teller": "Queequeg",
-            "title": "Pequod Kenti",
+            "title": "Pequod Kasabası",
             "content": "Ama Kaptan'a saldırmak yok."
         },
         {
@@ -105,14 +105,14 @@
             "id": 18,
             "model": "퀴케그",
             "teller": "Queequeg",
-            "title": "Pequod Kenti",
+            "title": "Pequod Kasabası",
             "content": "Kaptan'a bir daha saldır, Ben sana saldır."
         },
         {
             "id": 19,
             "model": "퀴케그",
             "teller": "Queequeg",
-            "title": "Pequod Kenti",
+            "title": "Pequod Kasabası",
             "content": "Öl veya öldür. İkimizden biri."
         },
         {
@@ -123,7 +123,7 @@
         {
             "id": 21,
             "model": "에이해브",
-            "content": "Peki şimdi, ne yapmalısınız? Starbuck sizi, kalbindeki nezaket ile, ölümün köşesinden kurtardı. Sizi BENİM köyüme davet etti!"
+            "content": "Peki şimdi, ne yapmalısınız? Starbuck sizi, kalbindeki tüm nezaket ile, ölümün köşesinden kurtardı. Sizi BENİM köyüme davet etti!"
         },
         {
             "id": 22,
@@ -133,100 +133,100 @@
         {
             "id": 23,
             "model": "에이해브",
-            "content": "Were we sailing the Great Lake, I would have had all of you tied and thrown overboard to be crushed underneath the keel of our ship, your lungs bloating with the Lake's waters."
+            "content": "Eğer şu anda Büyük Göl'de olsaydık, hepinizi bağlayıp geminin omurgasının altında ezilmeniz, ciğerlerinizin Göl'ün suları ile şişmesi için denize atardım."
         },
         {
             "id": 24,
-            "content": "There were at least 40 people living in Pequod Kenti. And that was a conservative estimate."
+            "content": "Pequod Kasabası içerisinde yaşayan en az 40 kişi var. Ve bu hızlı bir tahmindi."
         },
         {
             "id": 25,
-            "content": "From their vicious glares, I could tell that every single one of them was a fiercely loyal follower of Ahab."
+            "content": "Kötü bakışlarından, hepsinin Ahab'ın sadık takipçileri olduğu seziliyordu."
         },
         {
             "id": 26,
-            "content": "Here we were in this unfamiliar environment, trapped and lost..."
+            "content": "Bu bilmediğimiz alanda, tuzağa düşürülmüş ve kaybolmuş biçimde..."
         },
         {
             "id": 27,
             "model": "단테",
-            "content": "<Things aren't looking so good...>"
+            "content": "<İşler hiç de iyi gitmiyor...>"
         },
         {
             "id": 28,
-            "content": "A single word from Ahab, and they'll all be upon us..."
+            "content": "Ahab'dan tek bir kelime ile, hepsi bize saldırmaya başlayabilir ..."
         },
         {
             "id": 29,
-            "content": "If we were to retreat... behind us is the river of stomach acid. Ahead of us is an unknown territory."
+            "content": "Geri çekilmek istesek bile... arkamızda mide asidinden oluşan bir göl var. İleride ise bilmediğimiz bir alan daha."
         },
         {
             "id": 30,
             "model": "에이해브",
-            "content": "Haha!! Lads, lasses! Cast fear from your hearts."
+            "content": "Haha!! Beyler, bayanlar! Kalplerinizi korkudan boşaltın."
         },
         {
             "id": 31,
             "model": "에이해브",
-            "content": "It is lucky for you, that..."
+            "content": "Şanslısınız, çünkü..."
         },
         {
             "id": 32,
             "model": "에이해브",
-            "content": "... I am nothing if not merciful. I shall forgive your transgressions thus far."
+            "content": "... Ben merhametliyimdir. Şu ana kadar işlediğiniz suçları görmezden gelmeliyim."
         },
         {
             "id": 33,
             "model": "에이해브",
-            "content": "I have questions I would like to ask you, and I am certain that you have a few for me as well."
+            "content": "Sana sormak istediğim birkaç soru var, ve eminim ki seninde benim için soruların vardır."
         },
         {
             "id": 34,
             "model": "에이해브",
-            "content": "If you are willing to talk, then enter the Captain's quarters."
+            "content": "Konuşmak istiyorsan, Kaptan'ın kabinine gel."
         },
         {
             "id": 35,
             "model": "에이해브",
-            "content": "In peace, mind."
+            "content": "Barış içerisinde, düşün."
         },
         {
             "id": 36,
-            "content": "Ahab casually turned around and marched into one of the buildings. She carried herself with utmost confidence."
+            "content": "Ahab gayet rahat bir şekilde döndü ve binalardan birinin içerisine girdi. Son derece gururlu ve özgüvenli bir şekilde yürüyordu."
         },
         {
             "id": 37,
-            "content": "It was almost like she knew that we would follow. That we had no choice but to follow."
+            "content": "Sanki bizim takip edeceğimizi biliyormuş gibi. Sanki takip etmekten başka şansımız yokmuş gibi."
         },
         {
             "id": 38,
             "model": "히스클리프",
-            "content": "... Oi, them blokes that were glarin' at us... They're gone, like nothing happened."
+            "content": "... Hop, bize bakan şu köylü herifler varya... Sanki hiç birşey olmamış gibi hepsi gitti ya la."
         },
         {
             "id": 39,
             "model": "퀴케그",
-            "content": "Captain forgave. Then everyone also forgives. I forgive, too."
+            "content": "Kaptan affetti. O zaman herkes affeder. Ben de affediyorum."
         },
         {
             "id": 40,
             "model": "히스클리프",
-            "content": "Huh... To turn her back on someone who was charging at her with murderous intent just moments ago... It's..."
+            "content": "Ha... Arkanı az önce sana öldürme arzusuyla koşan birine dönmek... Bu..."
         },
         {
             "id": 41,
             "model": "오티스",
-            "content": "Yes. She is confident."
+            "content": "Evet. Özgüvenli."
         },
         {
             "id": 42,
             "model": "오티스",
-            "content": "Confident that she's got the numerical advantage, even if we were to press the offensive. Confident that we know there's more for us to lose by attacking her than by going along with her."
+            "content": "Bunun nedeni, saldırgan olmak istesek bile her zaman sayısal avantaja sahip olacakları. Onlara saldırırsak bizim kaybedeceğimiz şeyin daha fazla olduğunu biliyor."
         },
         {
             "id": 43,
             "model": "오티스",
-            "content": "With what just happened... she's made it clear as day that, at least while we're in here, she has absolute control of the situation."
+            "content": "Olan şeyler ile birlikte... burda olduğumuz süre boyunca ne olursa olsun mutlak kontrolün onlarda olduğunu apaçık belli etti."
         },
         {
             "id": 44,
@@ -236,16 +236,16 @@
         {
             "id": 45,
             "model": "이스마엘",
-            "content": "Talk with her? In peace...? Nonsense..."
+            "content": "Onunla konuş? Barış içerisinde...? Saçmalık..."
         },
         {
             "id": 46,
             "model": "단테",
-            "content": "<It's not like we have a way out of here...>"
+            "content": "<Burdan başka bir çıkış yolumuz yok...>"
         },
         {
             "id": 47,
-            "content": "Ishmael's gaze followed Queequeg, who walked wordlessly behind the Captain."
+            "content": "Ishmael'in bakışları, Kaptan'ın arkasında tek kelime etmeden yürüyen Queequeg'e takıldı."
         },
         {
             "id": 48,
@@ -255,22 +255,22 @@
         {
             "id": 49,
             "model": "이스마엘",
-            "content": "... Let's go."
+            "content": "... Hadi gidelim."
         },
         {
             "id": 50,
             "model": "이스마엘",
-            "content": "Let's listen to what that bastard's got to say."
+            "content": "Hadi o piçin ne demek istediğini duyalım."
         },
         {
             "id": 51,
             "model": "이스마엘",
-            "content": "There's nowhere to run, after all."
+            "content": "Zaten kaçacak başka yerimiz kalmadı."
         },
         {
             "id": 52,
             "model": "이스마엘",
-            "content": "For her, or for us."
+            "content": "Onun için, ya da bizim için."
         },
         {
             "id": 53,
