@@ -214,7 +214,7 @@
     },
     {
       "id": "mainui_mirror_entrance_warning",
-      "content": "※ Spent Enkephalin Modules will not be refunded."
+      "content": "※ Tüketilen Enkefalin Modülleri iade edilemez."
     },
     {
       "id": "mainui_proress",
@@ -342,7 +342,7 @@
     },
     {
       "id": "mainui_networkingerror_content",
-      "content": "Ağ Balantısı doğrunalamadı\nLütfen İnternet bağlantınızı düzeltin."
+      "content": "Ağ Balantısı doğrunalamadı\nLütfen İnternet bağlantınızı kontrol edinn."
     },
     {
       "id": "mainui_networkingerror_close",
@@ -398,7 +398,7 @@
     },
     {
       "id": "mainui_manaUsage",
-      "content": "Akıl Sağlılı maliyeti"
+      "content": "SP maliyeti"
     },
     {
       "id": "mainui_abnormality_analysis_level",
@@ -634,7 +634,7 @@
     },
     {
       "id": "mainui_battle_passsive_addition",
-      "content": "Kombat Pasifi Açıldı"
+      "content": "Savaş Pasifi Açıldı"
     },
     {
       "id": "mainui_support_passsive_addition",
@@ -686,7 +686,7 @@
     },
     {
       "id": "mainui_user_exp",
-      "content": "Manager EXP"
+      "content": "Müdür TP"
     },
     {
       "id": "mainui_chapter_progress",
@@ -694,7 +694,7 @@
     },
     {
       "id": "mainui_ex_clear_progress",
-      "content": "EX Cleared"
+      "content": "EX Tamamlandı"
     },
     {
       "id": "mainui_notice_spend_free_lunacy_first",
@@ -834,7 +834,7 @@
     },
     {
       "id": "gacha_history_notice",
-      "content": "※ Son {0} gün içinde en fazla {1} vaka görüntülenir."
+      "content": "※ Son {0} gün içinde en fazla {1} kayıt görüntülenir."
     },
     {
       "id": "gacha_history_empty",
@@ -1046,7 +1046,7 @@
     },
     {
       "id": "basis",
-      "content": "Basic"
+      "content": "Basit"
     },
     {
       "id": "skip_tutorial",
@@ -1054,7 +1054,7 @@
     },
     {
       "id": "skip_tutorial_description",
-      "content": "Emin misiniz, Eğitimi geçmek istiyor musunuz?"
+      "content": "Emin misiniz, Eğitimi geçmek istiyor musunuz?\n(Tavsiye Edilmez)"
     },
     {
       "id": "min_speed_upgrade",
@@ -1430,7 +1430,7 @@
     },
     {
       "id": "attack_level",
-      "content": "Saldırı Level"
+      "content": "Saldırı Seviyesi"
     },
     {
       "id": "defense_level",
@@ -1694,7 +1694,7 @@
     },
     {
       "id": "unlink_account_linked_account",
-      "content": "Linked Accounts"
+      "content": "Bağlı Hesaplar"
     },
     {
       "id": "unlink_account_desc",
@@ -1706,7 +1706,7 @@
     },
     {
       "id": "unlink_account_complete_title",
-      "content": "Account Unlinked"
+      "content": "Hesap Bağlantısı Kaldırıldı"
     },
     {
       "id": "unlink_account_complete_desc",
@@ -1874,43 +1874,43 @@
     },
     {
       "id": "exp_dungeon_opened_desc",
-      "content": "EXP Luxcavation has been unlocked."
+      "content": "TP Kazısı has been unlocked."
     },
     {
       "id": "abnormality_tutorial_battle_participate_desc",
-      "content": "Select five Sinners to participate in this Encounter."
+      "content": "Bu Karşılaşmaya katılacak beş Günahkar seçin."
     },
     {
       "id": "thread_dungeon_opened_desc",
-      "content": "Thread Luxcavation has been unlocked."
+      "content": "Ampül Kazısı açıldı."
     },
     {
       "id": "mirror_dungeon_opened_desc",
-      "content": "Mirror Dungeon has been unlocked."
+      "content": "Ayna Zindanı açıldı."
     },
     {
       "id": "ego_gift_combine_explain_title",
-      "content": "Fusion Recipes"
+      "content": "Füzyon Tarifi"
     },
     {
       "id": "ego_gift_combine_explain_label_keyword",
-      "content": "Keywords"
+      "content": "Anahtar Kelime"
     },
     {
       "id": "ego_gift_combine_explain_label_attack_type",
-      "content": "Attack Type"
+      "content": "Saldırı Türü"
     },
     {
       "id": "ego_gift_combine_explain_label_etc",
-      "content": "Other"
+      "content": "Diğerleri"
     },
     {
       "id": "ego_gift_combine_explain_button_label",
-      "content": "Recipes"
+      "content": "Tarifler"
     },
     {
       "id": "ego_gift_combine_explain_no_item_list",
-      "content": "No E.G.O Gift Fusion Recipe search result."
+      "content": "E.G.O Hediye Füzyon Tarifi arama sonucu bulunamadı."
     },
     {
       "id": "ego_gift_combine_explain_required_label",
@@ -1922,35 +1922,35 @@
     },
     {
       "id": "formation_none_selected_desc",
-      "content": "You haven't Deployed any Sinners.\n\nSelect the Sinners to set the Deployment order."
+      "content": "Hiçbir Günahkâr Konuşlandırılmadı.\nKonuşlandırma sırasını belirlemek için Günahkârları seçin."
     },
     {
       "id": "ego_gift_category_current_theme",
-      "content": "Theme Pack Exclusive Fusion Gift"
+      "content": "Tema Paketine Özel Füzyon Hediyesi"
     },
     {
       "id": "mainui_exp_dungeon_10_title",
-      "content": "EXP Luxcavation #8 (Slash)"
+      "content": "TP Kazısı #8 (Kesme)"
     },
     {
       "id": "mainui_exp_dungeon_10_open_day",
-      "content": "EXP Luxcavation #8 (Slash) opens on MON, TUE, and SUN."
+      "content": "TP Kazısı #8 (Kesme) opens on MON, TUE, and SUN."
     },
     {
       "id": "mainui_exp_dungeon_11_title",
-      "content": "EXP Luxcavation #8 (Pierce)"
+      "content": "TP Kazısı #8 (Delme)"
     },
     {
       "id": "mainui_exp_dungeon_11_open_day",
-      "content": "EXP Luxcavation #8 (Pierce) opens on WED, THU, and SUN."
+      "content": "TP Kazısı #8 (Delme) opens on WED, THU, and SUN."
     },
     {
       "id": "mainui_exp_dungeon_12_title",
-      "content": "EXP Luxcavation #8 (Blunt)"
+      "content": "TP Kazısı #8 (Darbe)"
     },
     {
       "id": "mainui_exp_dungeon_12_open_day",
-      "content": "EXP Luxcavation #8 (Blunt) opens on FRI, SAT, and SUN."
+      "content": "TP Kazısı #8 (Darbe) opens on FRI, SAT, and SUN."
     }
   ]
 }
