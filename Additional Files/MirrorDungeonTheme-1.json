@@ -1,316 +1,316 @@
 {
-  "dataList": [
-    {
-      "id": 1001,
-      "name": "The Forgotten"
-    },
-    {
-      "id": 1002,
-      "name": "The Outcast"
-    },
-    {
-      "id": 1003,
-      "name": "Flat-broke Gamblers"
-    },
-    {
-      "id": 1004,
-      "name": "Automated Factory"
-    },
-    {
-      "id": 1005,
-      "name": "The Unloving"
-    },
-    {
-      "id": 1006,
-      "name": "Nagel und Hammer"
-    },
-    {
-      "id": 1007,
-      "name": "Faith & Erosion"
-    },
-    {
-      "id": 1008,
-      "name": "The Unconfronting"
-    },
-    {
-      "id": 1009,
-      "name": "Nest, Workshop, and Technology"
-    },
-    {
-      "id": 1010,
-      "name": "Falling Flowers"
-    },
-    {
-      "id": 1011,
-      "name": "Tearful Things"
-    },
-    {
-      "id": 1012,
-      "name": "The Unchanging"
-    },
-    {
-      "id": 1013,
-      "name": "Lake World"
-    },
-    {
-      "id": 1014,
-      "name": "Crawling Abyss"
-    },
-    {
-      "id": 1015,
-      "name": "The Evil Defining"
-    },
-    {
-      "id": 1016,
-      "name": "Dregs of the Manor"
-    },
-    {
-      "id": 1017,
-      "name": "A Certain World"
-    },
-    {
-      "id": 1101,
-      "name": "Hell's Chicken"
-    },
-    {
-      "id": 1102,
-      "name": "S.E.A."
-    },
-    {
-      "id": 1103,
-      "name": "Miracle in District 20"
-    },
-    {
-      "id": 1104,
-      "name": "Yield My Flesh to Claim Their Bones"
-    },
-    {
-      "id": 1201,
-      "name": "Slicers & Dicers"
-    },
-    {
-      "id": 1202,
-      "name": "To be Cleaved"
-    },
-    {
-      "id": 1203,
-      "name": "Piercers & Penetrators"
-    },
-    {
-      "id": 1204,
-      "name": "To be Pierced"
-    },
-    {
-      "id": 1205,
-      "name": "Crushers & Breakers"
-    },
-    {
-      "id": 1206,
-      "name": "To be Crushed"
-    },
-    {
-      "id": 1301,
-      "name": "Repressed Wrath"
-    },
-    {
-      "id": 1302,
-      "name": "Unbound Wrath"
-    },
-    {
-      "id": 1303,
-      "name": "Emotional Repression"
-    },
-    {
-      "id": 1304,
-      "name": "Addicting Lust"
-    },
-    {
-      "id": 1305,
-      "name": "Tangling Lust"
-    },
-    {
-      "id": 1306,
-      "name": "Emotional Seduction"
-    },
-    {
-      "id": 1307,
-      "name": "Treadwheel Sloth"
-    },
-    {
-      "id": 1308,
-      "name": "Inert Sloth"
-    },
-    {
-      "id": 1309,
-      "name": "Emotional Indolence"
-    },
-    {
-      "id": 1310,
-      "name": "Devoured Gluttony"
-    },
-    {
-      "id": 1311,
-      "name": "Excessive Gluttony"
-    },
-    {
-      "id": 1312,
-      "name": "Emotional Craving"
-    },
-    {
-      "id": 1313,
-      "name": "Degraded Gloom"
-    },
-    {
-      "id": 1314,
-      "name": "Sunk Gloom"
-    },
-    {
-      "id": 1315,
-      "name": "Emotional Flood"
-    },
-    {
-      "id": 1316,
-      "name": "Vain Pride"
-    },
-    {
-      "id": 1317,
-      "name": "Tyrannical Pride"
-    },
-    {
-      "id": 1318,
-      "name": "Emotional Subservience"
-    },
-    {
-      "id": 1319,
-      "name": "Insignificant Envy"
-    },
-    {
-      "id": 1320,
-      "name": "Pitiful Envy"
-    },
-    {
-      "id": 1321,
-      "name": "Emotional Judgment"
-    },
-    {
-      "id": 1401,
-      "name": "Burning Haze"
-    },
-    {
-      "id": 1402,
-      "name": "Season of the Flame"
-    },
-    {
-      "id": 1403,
-      "name": "Trickled Sanguine Blood"
-    },
-    {
-      "id": 1404,
-      "name": "Mountain of Corpses, Sea of Blood"
-    },
-    {
-      "id": 1405,
-      "name": "Dizzying Waves"
-    },
-    {
-      "id": 1406,
-      "name": "Abnormal Seismic Zone"
-    },
-    {
-      "id": 1407,
-      "name": "Crushing External Force"
-    },
-    {
-      "id": 1408,
-      "name": "Unrelenting Might"
-    },
-    {
-      "id": 1409,
-      "name": "Sinking Pang"
-    },
-    {
-      "id": 1410,
-      "name": "Sinking Deluge"
-    },
-    {
-      "id": 1411,
-      "name": "Deep Sigh"
-    },
-    {
-      "id": 1412,
-      "name": "Poised Breathing"
-    },
-    {
-      "id": 1413,
-      "name": "Rising Power Supply"
-    },
-    {
-      "id": 1414,
-      "name": "Thunder and Lightning"
-    },
-    {
-      "id": 1105,
-      "name": "Timekilling Time"
-    },
-    {
-      "id": 1106,
-      "name": "Murder on the WARP Express"
-    },
-    {
-      "id": 1107,
-      "name": "The Noon of Violet"
-    },
-    {
-      "id": 1018,
-      "name": "The Heartbreaking"
-    },
-    {
-      "id": 1019,
-      "name": "La Manchaland Re-opening"
-    },
-    {
-      "id": 1020,
-      "name": "The Infinite Procession"
-    },
-    {
-      "id": 1108,
-      "name": "Line 1"
-    },
-    {
-      "id": 1109,
-      "name": "Line 2"
-    },
-    {
-      "id": 1110,
-      "name": "Line 3"
-    },
-    {
-      "id": 1111,
-      "name": "Line 4 - Section #3"
-    },
-    {
-      "id": 1112,
-      "name": "Line 4 - Section #4"
-    },
-    {
-      "id": 1113,
-      "name": "Miracle in District 20 BokGak"
-    },
-    {
-      "id": 1114,
-      "name": "Full-Stopped by a Bullet"
-    },
-    {
-      "id": 1115,
-      "name": "LCB Regular Check-up"
-    },
-    {
-      "id": 1116,
-      "name": "Yield My Flesh to Claim Their Bones BokGak"
-    },
-    {
-      "id": 1117,
-      "name": "Nocturnal Sweeping"
-    }
-  ]
+    "dataList": [
+        {
+            "id": 1001,
+            "name": "Unutulmuş"
+        },
+        {
+            "id": 1002,
+            "name": "Dışlanmış"
+        },
+        {
+            "id": 1003,
+            "name": "Beş Parasız Kumarbaz"
+        },
+        {
+            "id": 1004,
+            "name": "Otomatik Fabrika"
+        },
+        {
+            "id": 1005,
+            "name": "Sevgisiz"
+        },
+        {
+            "id": 1006,
+            "name": "Çivi ve Çekiç"
+        },
+        {
+            "id": 1007,
+            "name": "İnanç ve Erozyon"
+        },
+        {
+            "id": 1008,
+            "name": "Yüzleşmeyen"
+        },
+        {
+            "id": 1009,
+            "name": "Yuva, Atölye ve Teknoloji"
+        },
+        {
+            "id": 1010,
+            "name": "Solan Çiçekler"
+        },
+        {
+            "id": 1011,
+            "name": "Hüzgün Şeyler"
+        },
+        {
+            "id": 1012,
+            "name": "Değişmeyem"
+        },
+        {
+            "id": 1013,
+            "name": "Göl Diyarı"
+        },
+        {
+            "id": 1014,
+            "name": "Sürünen Uçurum"
+        },
+        {
+            "id": 1015,
+            "name": "Kötülüğün Tanımı"
+        },
+        {
+            "id": 1016,
+            "name": "Malikanenin Kalıntıları"
+        },
+        {
+            "id": 1017,
+            "name": "Belirli bir Diyar"
+        },
+        {
+            "id": 1101,
+            "name": "Cenabet Tavuk"
+        },
+        {
+            "id": 1102,
+            "name": "D.E.N.İ.Z"
+        },
+        {
+            "id": 1103,
+            "name": "20. Eyaletteki Mucize"
+        },
+        {
+            "id": 1104,
+            "name": "Derini Teslim Et, Kemiklerini Topla"
+        },
+        {
+            "id": 1201,
+            "name": "Kesiciler & Deliciler"
+        },
+        {
+            "id": 1202,
+            "name": "Kesilmek, yada Kesilmemek"
+        },
+        {
+            "id": 1203,
+            "name": "Delici ve Daha çok Deliciler"
+        },
+        {
+            "id": 1204,
+            "name": "Delinmek"
+        },
+        {
+            "id": 1205,
+            "name": "Kırıcılar & Darbeciler"
+        },
+        {
+            "id": 1206,
+            "name": "Parçalanmak"
+        },
+        {
+            "id": 1301,
+            "name": "Bastırılmış Öfke"
+        },
+        {
+            "id": 1302,
+            "name": "Sınırsız Öfke"
+        },
+        {
+            "id": 1303,
+            "name": "Bastırılmış Duygular"
+        },
+        {
+            "id": 1304,
+            "name": "Kontrolsüz Şehvet"
+        },
+        {
+            "id": 1305,
+            "name": "Karmaşık Şehvet"
+        },
+        {
+            "id": 1306,
+            "name": "Duygusal Ayartma"
+        },
+        {
+            "id": 1307,
+            "name": "Tekrarlayan Tembellik"
+        },
+        {
+            "id": 1308,
+            "name": "Eylemsiz Tembellik"
+        },
+        {
+            "id": 1309,
+            "name": "Duygusal Tembellik"
+        },
+        {
+            "id": 1310,
+            "name": "Yutulmuş Oburluk"
+        },
+        {
+            "id": 1311,
+            "name": "Aşırı Oburluk"
+        },
+        {
+            "id": 1312,
+            "name": "Duygusal Açlık"
+        },
+        {
+            "id": 1313,
+            "name": "Çökmüş Keder"
+        },
+        {
+            "id": 1314,
+            "name": "Batmış Keder"
+        },
+        {
+            "id": 1315,
+            "name": "Duygusal Taşkın"
+        },
+        {
+            "id": 1316,
+            "name": "Beyhude Gurur"
+        },
+        {
+            "id": 1317,
+            "name": "Zorba Gurur"
+        },
+        {
+            "id": 1318,
+            "name": "Duygusal Boyun Eğiş"
+        },
+        {
+            "id": 1319,
+            "name": "Önemsiz Kıskançlık"
+        },
+        {
+            "id": 1320,
+            "name": "Zavallı Kıskançlık"
+        },
+        {
+            "id": 1321,
+            "name": "Duygusal Yargı"
+        },
+        {
+            "id": 1401,
+            "name": "Yanan Pus"
+        },
+        {
+            "id": 1402,
+            "name": "Alev Mevsimi"
+        },
+        {
+            "id": 1403,
+            "name": "Süzülen Kanlı Sıvı"
+        },
+        {
+            "id": 1404,
+            "name": "Cesetler Dağı, Kan Denizi"
+        },
+        {
+            "id": 1405,
+            "name": "Baş Döndüren Dalgalar"
+        },
+        {
+            "id": 1406,
+            "name": "Anormal Sismik Bölge"
+        },
+        {
+            "id": 1407,
+            "name": "Ezici Dış Güç"
+        },
+        {
+            "id": 1408,
+            "name": "Amansız Kudret"
+        },
+        {
+            "id": 1409,
+            "name": "Batan Sızı"
+        },
+        {
+            "id": 1410,
+            "name": "Batan Sağanak"
+        },
+        {
+            "id": 1411,
+            "name": "Derin İç Çekiş"
+        },
+        {
+            "id": 1412,
+            "name": "Sakin Nefes"
+        },
+        {
+            "id": 1413,
+            "name": "Yükselen Güç Kaynağı"
+        },
+        {
+            "id": 1414,
+            "name": "Gök Gürültüsü ve Şimşek"
+        },
+        {
+            "id": 1105,
+            "name": "Zaman Öldüren Zaman"
+        },
+        {
+            "id": 1106,
+            "name": "WARP Ekspresinde Cinayet"
+        },
+        {
+            "id": 1107,
+            "name": "Menekşenin Öğle Vakti"
+        },
+        {
+            "id": 1018,
+            "name": "Yürek Burkan"
+        },
+        {
+            "id": 1019,
+            "name": "La Mancha Diyarı Yeniden Açılışı"
+        },
+        {
+            "id": 1020,
+            "name": "Sonsuz Şenlik"
+        },
+        {
+            "id": 1108,
+            "name": "Hat 1"
+        },
+        {
+            "id": 1109,
+            "name": "Hat 2"
+        },
+        {
+            "id": 1110,
+            "name": "Hat 3"
+        },
+        {
+            "id": 1111,
+            "name": "Hat 4 - 3. Bölüm"
+        },
+        {
+            "id": 1112,
+            "name": "Hat 4 - 4. Bölüm"
+        },
+        {
+            "id": 1113,
+            "name": "20. Eyalette Mucize"
+        },
+        {
+            "id": 1114,
+            "name": "Kurşunla Durduruldu"
+        },
+        {
+            "id": 1115,
+            "name": "LŞO Rutin Kontrol"
+        },
+        {
+            "id": 1116,
+            "name": "Etimi Sunup Kemiklerini Al BokGak"
+        },
+        {
+            "id": 1117,
+            "name": "Gece Temizliği"
+        }
+    ]
 }
