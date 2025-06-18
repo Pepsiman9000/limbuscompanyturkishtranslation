@@ -3,12 +3,12 @@
         {
             "id": "get_10506_1",
             "desc": "Identity Acquisition",
-            "dlg": "I'm ready. Let me take the vanguard."
+            "dlg": "Hazırım. Öncülük etmeme izin verin."
         },
         {
             "id": "lobby_morning_10506_1",
             "desc": "Morning Greeting",
-            "dlg": "Every morning, I feel as though I am newly hatched."
+            "dlg": "Her sabah, sanki yeniden yumurtadan çıkmış gibi hissediyorum."
         },
         {
             "id": "lobby_noon_10506_1",
@@ -68,7 +68,7 @@
         {
             "id": "battle_select_10506_1",
             "desc": "Viewed in Battle",
-            "dlg": "It's not safe here."
+            "dlg": "Burası güvenli değil."
         },
         {
             "id": "battle_endcommand_10506_1",
@@ -98,7 +98,7 @@
         {
             "id": "choice_success_p_10506_2",
             "desc": "Check Passed",
-            "dlg": "Selecting me brings success."
+            "dlg": "Beni seçmek zafer getirir."
         },
         {
             "id": "choice_fail_n_10506_1",
