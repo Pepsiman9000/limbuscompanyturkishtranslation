@@ -2,53 +2,53 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Backstreets of District 21",
+            "place": "21. Eyaletin Arka Sokakları",
             "model": "히스클리프",
-            "content": "Haah… So what are these bug-crab-things?!"
+            "content": "Haah... Peki bu böceksi-yengeç-şeyler ne?!"
         },
         {
             "id": 1,
             "model": "그레고르",
-            "content": "Hey now… What are you looking at me for? What makes you think I’d know?"
+            "content": "Hey… Bana ne için bakıyorsun? Benim bildiğimi düşündüren şey de ne?"
         },
         {
             "id": 2,
             "model": "히스클리프",
-            "content": "I wasn’t even gawking at you! You’re paranoid, that’s what! Can't even talk about bugs around this guy..."
+            "content": "Sana bakmıyordum bile! Paranoyaksın o kadar! Bu adamın etrafında böceklerden bile bahsedemiyorsun..."
         },
         {
             "id": 3,
             "model": "그레고르",
-            "content": "Ugh…"
+            "content": "Uuh…"
         },
         {
             "id": 4,
             "model": "이스마엘",
-            "content": "...They're trash crabs."
+            "content": "...Onlar çöp yengeçleri."
         },
         {
             "id": 5,
             "model": "단테2",
-            "content": "<They're what?>"
+            "content": "<Onlar ne?>"
         },
         {
             "id": 6,
-            "content": "Ishmael interjected all of a sudden."
+            "content": "Ishmael birdenbire söze karıştı."
         },
         {
             "id": 7,
             "model": "이스마엘",
-            "content": "Trash crabs. They collect trash or scrap like that on their shells, and use them as their homes and weapons."
+            "content": "Çöp yengeçleri. Kabuklarının üzerine bu tür çöpleri veya hurdaları toplayıp, bunları ev ve silah olarak kullanıyorlar."
         },
         {
             "id": 8,
             "model": "이스마엘",
-            "content": "They’re a tiresome lot… They ambush people working by the waters, attack those wandering in the area, and their numbers grow by the day…"
+            "content": "Bunlar çok yorucu yaratıklar... Su kenarlarında duranlara pusu kuruyorlar, civarda dolaşanlara saldırıyorlar ve sayıları her geçen gün artıyor..."
         },
         {
             "id": 9,
             "model": "이스마엘",
-            "content": "But they're just one of the innumerable small fries of the Great Lake. What's more important, and more treacherous, is..."
+            "content": "Ama onlar Büyük Göl'ün sayısız küçük balığından sadece biri. Daha da önemlisi ve daha tehlikeli olanı ise..."
         },
         {
             "id": 10,
@@ -57,32 +57,32 @@
         },
         {
             "id": 11,
-            "content": "I was about to check in with Ishmael, as I probably shouldn't let this go on for any longer, but…"
+            "content": "Tam Ishmael'e soracaktım ki vazgeçtim, sanırım bu konuyu daha fazla uzatmamalıyım ama...""
         },
         {
             "id": 12,
             "model": "미카",
             "teller": "???",
             "title": "???",
-            "content": "Hey guys~ Already hard at work, huh?"
+            "content": "Merhaba millet~ işiniz zor, değil mi?"
         },
         {
             "id": 13,
-            "content": "A couple of people in work overalls seemed to be approaching from a distance."
+            "content": "İş tulumu giymiş birkaç kişi uzaktan yaklaşıyor gibiydi."
         },
         {
             "id": 14,
             "model": "무기레인",
             "teller": "???",
             "title": "???",
-            "content": "Mika, Mika! They’re our valued customers. Watch your manners…"
+            "content": "Mika, Mika! Onlar bizim değerli müşterilerimiz. Davranışlarınıza dikkat edin…"
         },
         {
             "id": 15,
             "model": "미카",
             "teller": "Mika",
             "title": "???",
-            "content": "Oh… Okay, I guess?"
+            "content": "Oh… Tamam, peki öyleyse?"
         },
         {
             "id": 16,
@@ -111,127 +111,127 @@
         {
             "id": 20,
             "model": "오티스",
-            "content": "They could be enemies. You two! Identify yourselves!"
+            "content": "Düşman olabilirler. Siz ikiniz! Kendinizi tanıtın!"
         },
         {
             "id": 21,
             "model": "무기레인",
             "teller": "Rain",
             "title": "???",
-            "content": "Have you not been informed about us at all…?"
+            "content": "Bizden hiç mi haberiniz olmadı…?"
         },
         {
             "id": 22,
             "model": "오티스",
-            "content": "No, not at all. That's why I'm suspicious of you two—coming up with seemingly plausible yet unverifiable identities... Like spies."
+            "content": "Hayır, hiç de değil. Bu yüzden ikinizden şüpheleniyorum - görünürde makul ama doğrulanamayan kimlikler uyduruyorsunuz... Casuslar gibi."
         },
         {
             "id": 23,
             "model": "미카",
             "teller": "Mika",
             "title": "???",
-            "content": "I’m sorry, wouldn’t real spies come up with a more structured approach…?"
+            "content": "Özür dilerim, gerçek casuslar daha yapılandırılmış bir yaklaşımla ortaya çıkmazmıydı...?"
         },
         {
             "id": 24,
             "model": "파우스트",
-            "content": "Indeed. Outis, they are our cooperators who will be assisting us this time."
+            "content": "Gerçekten. Outis, bu sefer bize yardımcı olacak yardımcılarımız."
         },
         {
             "id": 25,
             "model": "오티스",
-            "content": "Khm… Then speak sooner next time."
+            "content": "Khm… Bir daha ki sefere daha erken konuş."
         },
         {
             "id": 26,
             "model": "파우스트",
-            "content": "Pleased to meet you, Mika, Rain. We are LCB, also known as the Limbus Company Bus Department."
+            "content": "Tanıştığımıza memnun oldum, Mika, Rain. Biz LŞO'yuz, Limbus Şirketi Otobüs Departmanı olarak da biliniriz."
         },
         {
             "id": 27,
             "model": "미카",
             "teller": "Mika",
             "title": "???",
-            "content": "Bus… Right. That’s what that person said, too—you guys are the bus blokes."
+            "content": "Otobüs... Doğru. O kişi de aynısını söyledi—sizler otobüs insanlarısınız."
         },
         {
             "id": 28,
             "model": "파우스트",
-            "content": "I was informed that the LCC Before Team was here first. By \"that person\", do you mean…"
+            "content": "Bana LŞT Arka Takımı'nın ilk önce burada olduğu söylendi. \"O kişi\" ile şunu mu demek istiyorsunuz?…"
         },
         {
             "id": 29,
             "model": "무기레인",
             "teller": "Rain",
             "title": "???",
-            "content": "Sorry, let me check the business card again… LCC…B. Right, all accounted for."
+            "content": "Pardon, kartvizite tekrar bakayım... LŞT...A. Tamam, her şey tamam."
         },
         {
             "id": 30,
             "model": "미카",
             "teller": "Mika",
             "title": "???",
-            "content": "Now that we’re clear, why don’t we continue this conversation back at the shop? Let’s take a look at that bus, too."
+            "content": "Şimdi açıklığa kavuştuğumuza göre, bu sohbete dükkanda devam edelim mi? Hadi o otobüse de bir bakalım."
         },
         {
             "id": 31,
             "model": "미카",
             "teller": "Mika",
             "title": "???",
-            "content": "This is an awkward place to talk, you know?"
+            "content": "Burası sohbet etmek için garip bir yer, anlarsın ya?"
         },
         {
             "id": 32,
             "model": "단테2",
-            "content": "<We're... their customers?>"
+            "content": "<Biz... Onların müşterileri miyiz?>"
         },
         {
             "id": 33,
             "model": "그레고르",
-            "content": "Okay... Care to tell us what we're doing here?"
+            "content": "Peki... Bize ne yaptığınızı söyleyebilir misiniz?"
         },
         {
             "id": 34,
             "model": "파우스트",
-            "content": "Our destination, U Corp, is a Nest composed of various nautical structures. Therefore, Mephistopheles in its current form cannot reach there."
+            "content": "Hedefimiz U Kurulu, çeşitli deniz yapılarından oluşan bir yuva. Bu nedenle, Mephistopheles şu anki haliyle oraya ulaşamaz."
         },
         {
             "id": 35,
             "model": "이스마엘",
-            "content": "And… the Great Lake’s environs are unpredictable."
+            "content": "Ve… Büyük Göl’ün çevresinin öngürülme ihtimali yok."
         },
         {
             "id": 36,
             "model": "이스마엘",
-            "content": "You’re going to need a ship… that can withstand such capriciousness."
+            "content": "Böyle durumlara dayanabilecek bir gemiye ihtiyacınız olacak."
         },
         {
             "id": 37,
             "model": "베르길리우스",
-            "content": "That's right. Which is why we sought out a contract with an adequate shop to modify the bus."
+            "content": "Bu doğru. Bu yüzden otobüsü modifiye etmek için uygun bir mağazayla sözleşme aradık."
         },
         {
             "id": 38,
             "model": "그레고르",
-            "content": "Huh… Adequate, you say...?"
+            "content": "Hah... Yeterli diyorsun...?"
         },
         {
             "id": 39,
             "model": "베르길리우스",
-            "content": "…Hmph. Let’s go in."
+            "content": "…Hmph. Hadi içine girelim."
         },
         {
             "id": 40,
             "model": "로쟈",
-            "content": "Umm… Did our last staff dinner really hit the budget that hard? I thought we were allowed to eat as much as we wanted."
+            "content": "Umm... Son personel yemeğimiz gerçekten bütçeyi bu kadar zorladı mı? İstediğimiz kadar yiyebileceğimizi düşünüyordum."
         },
         {
             "id": 41,
-            "content": "Like Rodya said, looking at the somewhat dilapidated shop made me curious about the company’s finances…"
+            "content": "Rodya'nın da dediği gibi, harap haldeki dükkana bakmak beni şirketin mali durumu hakkında meraklandırdı…"
         },
         {
             "id": 42,
-            "content": "But nothing good could ever come out of this conversation, so I decided to table the thought."
+            "content": "Ama bu konuşmadan hiçbir zaman iyi bir şey çıkmayacağı için bu düşünceyi rafa kaldırmaya karar verdim."
         }
     ]
 }
