@@ -7,43 +7,43 @@
         },
         {
             "id": "lobby_morning_11210_1",
-            "desc": "Morning Greeting",
+            "desc": "Günaydın",
             "dlg": "La Mancha Diyarı yakında açılacak. Aileden... kaç kişi beni ziyaret edecek, merak ediyorum. Kaç kere onlara 'Her şey düzelecek' demem gerekecek, merak ediyorum."
         },
         {
             "id": "lobby_noon_11210_1",
-            "desc": "Afternoon Greeting",
+            "desc": "Tünaydın",
             "dlg": "Hemobarların yüceliğine inandığım zamanlar vardı.\nBu tuğlaya olan her dişimin gıcırdaması bana o inancımdaki aptallığı hatırlatıyor."
         },
         {
             "id": "lobby_night_11210_1",
-            "desc": "Evening Greeting",
-            "dlg": "Did you ever get a good look at the hands of the Brothers who visit me? Their hands, their fingernails are all torn and pulled from digging through the dirt...\nBut I only have one thing to tell them. That they have to just live on, no matter what. That we have to endure this hardship."
+            "desc": "İyi akşamlar",
+            "dlg": "Hiç bana uğrayan Kardeşler'in ellerine bakmış mıydınız? Elleri, tırnakları toprağı kazmaktan ötürü yıpranmış ve kalkmış...\nAma onlara diyebileceğim tek bir şey var. Ne olursa olsun, yaşamaya devam etmeleri gerektiği. Bu zorluğa katlanmamız gerektiği."
         },
         {
             "id": "smalltalk_11210_1",
             "desc": "Chatter #1",
-            "dlg": "Our only sustenance is blood given to us by humans. Ah, how sweet it is.\nYet the happiness of the Family remains buried forever in these grounds..."
+            "dlg": "Tek besin kaynağımız insanların verdiği kanlar. Ah, ne hoş.\nYine de Aile'nin mutluluğu bu topraklarda gömülü..."
         },
         {
             "id": "smalltalk_11210_2",
             "desc": "Chatter #2",
-            "dlg": "Here's something I learned while giving consultations to humans in my attraction.\nMy Family has but one desperate, endlessly repeating question—a wish, even—how can we withstand this thirst? But human concerns are so... varied."
+            "dlg": "Kendi bölümümdeki insanlara danışmanlık yaparken fark ettiğim bir şey şu.\nMy Ailenin çaresiz olduğu tek bir problemi, sonsuza kadar tekrar eden bir soruları, bu sussuzlukla nasıl baş edebiliriz? Ama insanların dertleri çok... çeşitli."
         },
         {
             "id": "smalltalk_11210_3",
             "desc": "Chatter #3",
-            "dlg": "Bu da, katlanılmalı... This is a discipline for myself. The retribution Father would have given me... had he not left on his adventure."
+            "dlg": "Bu da, katlanılmalı... Bu kendime bir cezalandırma. Peder'in bana vereceği ceza... eğer macerası için gitmeseydi."
         },
         {
             "id": "smalltalk_11210_4",
             "desc": "Post-Uptie Chat 1",
-            "dlg": "I know. Any attempts to try to suppress this thirst, to forget it for even a second... it's all pointless. I've tried them all myself.\nBut... what else can I do but feed them these... stock phrases? If you know anything else I can tell them, please... I...! I want to know, too."
+            "dlg": "Biliyorum. Bu sussuzluğu bastırmak için her uğraş, bir saniye bile olsun unutma çabası... tamamen boş. Hepsini kendim denedim.\nAma... onları ne ile doyurabilirim ki... bu basmakalıp sözler hariç? Eğer diyebileceğim başka bir şey biliyorsanız, lütfen... Ben...! Ben de bilmek istiyorum."
         },
         {
             "id": "smalltalk_11210_5",
             "desc": "Post-Uptie Chat 2",
-            "dlg": "Kan... istiyorum... hayır. Düşünme bile. Ah... Peder şuan nerede, acaba? Miğferi buldu mu, the Relic?"
+            "dlg": "Kan... istiyorum... hayır. Düşünme bile. Ah... Peder şuan nerede, acaba? Miğferi buldu mu, Kalıntı'yı?"
         },
         {
             "id": "neglect_11210_1",
@@ -63,7 +63,7 @@
         {
             "id": "battleentry_11210_1",
             "desc": "Stage Entry",
-            "dlg": "Let reason be with me today."
+            "dlg": "Umarım aklım bugün yerimde kalır."
         },
         {
             "id": "battle_select_11210_1",
@@ -108,7 +108,7 @@
         {
             "id": "battle_clear_11210_1",
             "desc": "Victory Cry",
-            "dlg": "This is just... a fleeting thirst. I shouldn't let this victory high compel me into quenching it. Of course not."
+            "dlg": "Bu sadece... geçici bir sussuzluk. Bu zaferin onu gidermek için beni zorlamasına izin vermemeliyim. Hayır tabii ki."
         },
         {
             "id": "battle_clear_ex_11210_1",
