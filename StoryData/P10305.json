@@ -5,11 +5,11 @@
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Ah! Lütfen, gelin cem eyleyin!"
+            "content": "Ah! Lütfen, gelin peyrev eyleyin!"
         },
         {
             "id": 1,
-            "content": "Çocuk pasaj boyunca ilerliyordu, gözleri çoşkuyla dolup taşarken. Hemen ardından ise onu takiben bir kadın, ellerinde küçük bir defterle."
+            "content": "Çocuk pasaj boyunca ilerliyordu, gözleri çoşkuyla dolup taşmakta. Hemen ardından ise onu takiben bir kadın, ellerinde küçük bir defterle."
         },
         {
             "id": 2,
@@ -38,18 +38,18 @@
         },
         {
             "id": 6,
-            "content": "Bu röportajı kabul ederken Cinq Birliğinin çalışma koşulları hakkında bilgi sahibi olacağı için heyecanlanmıştı. Bir husus ki, şu ana kadar değinememişti..."
+            "content": "Bu röportajı kabul ederken Cinq Birliğinin çalışma koşulları hakkında bilgi sahibi olacağı için heyecanlanmıştı. Bir husus ki, şu ana kadar değinilememiş..."
         },
         {
             "id": 7,
-            "content": "İşte şimdiki vaziyeti, bu fazlaca gösteriş meraklısı yöneticinin peşinde Yuva meydanında sabah yürüyüşü yapıyor."
+            "content": "İşte şimdiyse, bu fazlaca gösteriş meraklısı yöneticinin peşinde Yuva meydanında sabah yürüyüşü yapıyordu."
         },
         {
             "id": 8,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Cık cık, kemâle hemencecik erilmez!"
+            "content": "Cık cık, hamfendi bu kadar sabırsız olunamaz, kemâle hemencecik erilmez!"
         },
         {
             "id": 9,
@@ -60,7 +60,7 @@
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Sualim olur şahsınıza! Zat-ı suhtenizin Cinq Birliğinin amacı hakkındaki efkarı nedir?"
+            "content": "Sualim olur şahsınıza! Zat-ı suhtenizin Cinq Birliğinin amacı hakkındaki efkarı nedir acaba?"
         },
         {
             "id": 11,
@@ -91,13 +91,13 @@
             "id": 15,
             "teller": "Interviewer",
             "title": "???",
-            "content": "'Adaletin Ulvi Koruyucusu' gibi saçma bir rol kendinize biçmiş değilsiniz ya. Yani birilerinin <i>Deschaux Manastırında</i> düello ettiklerini duymuştum ama, ne kadar abes."
+            "content": "'Adaletin Ulvi Koruyucusu' gibi saçma bir rol kendinize biçmiş değilsiniz ya. Birilerinin <i>Deschaux Manastırında Kardinal'in adamlarıyla düello ettiklerini duymuştum ama</i> , ne kadar abes."
         },
         {
             "id": 16,
             "teller": "Interviewer",
             "title": "???",
-            "content": "Yani, bu kadar çocuksu bir felsefeyle sektörde bu kadar ilerleyemezdiniz, değil mi?"
+            "content": "Yani, bu kadar çocuksu bir felsefeyle sektörde bu kadar ilerleyemezdiniz zaten, haksızmıyım?"
         },
         {
             "id": 17,
@@ -108,7 +108,7 @@
         },
         {
             "id": 18,
-            "content": "Muhbir , but responded confidently."
+            "content": "Muhbir'in alaylı varsayımları turnayı gözünden vurmuş olsa gerek ki çocuk afallamıştı, ama bozuntuya vermeden yantıladı."
         },
         {
             "id": 19,
@@ -288,6 +288,10 @@
         {
             "id": 48,
             "content": "With that, she smiled radiantly."
+        },
+        {
+            "id": 49,
+            "content": "<i>Bu kişilik çevirisinde ünlü tiyatro eseri Cyarno de Belgerac'tan yararlanılmıştır</i>."
         }
     ]
 }
