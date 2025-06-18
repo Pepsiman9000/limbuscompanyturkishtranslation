@@ -16,14 +16,14 @@
             "model": "인터뷰어",
             "teller": "Muhbir",
             "title": "???",
-            "content": "B-Bekleyin... Bu röportajın asıl amacı Cinq Birliğinin aldığı şözleşmeleri öğrenmek değil miydi?"
+            "content": "B-Bekleyin... Bu röportajın asıl amacının Cinq Birliğinin gündelik olarak karşılaştığı zorlukları öğrenmek olduğunu unuttunuz mu?"
         },
         {
             "id": 3,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Zaten bilfiil öğrenmektesiniz, nitekim!"
+            "content": "Nitekim, zaten bilfiil öğrenmekteyiz!"
         },
         {
             "id": 4,
@@ -53,7 +53,7 @@
         },
         {
             "id": 9,
-            "content": "Fakat çocuğun soğukkanlığı caydırıcıydı, sırıtarak işaret parmağını salladığı sırada."
+            "content": "Fakat çocuğun soğukkanlığı oldukça caydırıcıydı, sırıtırken işaret parmağını salladığı sırada."
         },
         {
             "id": 10,
@@ -72,14 +72,14 @@
             "id": 12,
             "teller": "Interviewer",
             "title": "???",
-            "content": "Müvekkilerinizin yerine siz düellolara çıkıyorsunuz... gibi gibi, right?"
+            "content": "Müvekkilerinizin yerine siz düellolara çıkıyorsunuz... yanılmıyorsam?"
         },
         {
             "id": 13,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Ha ha! Filvaki, Zat-i suhteniz filhakika kırk fırın ekmeğe muhtazırlar!"
+            "content": "Ha ha! Filvaki, Zat-ı suhteniz filhakika kırk fırın ekmeğe muhtazır!"
         },
         {
             "id": 14,
@@ -97,7 +97,7 @@
             "id": 16,
             "teller": "Interviewer",
             "title": "???",
-            "content": "Yani, bu kadar çocuksu bir felsefeyle sektörde bu kadar ilerleyemezdiniz zaten, haksızmıyım?"
+            "content": "Gerçi, bu kadar çocuksu bir felsefeyle sektörde bu kadar ilerleyemezdiniz zaten, haksızmıyım?"
         },
         {
             "id": 17,
@@ -108,73 +108,73 @@
         },
         {
             "id": 18,
-            "content": "Muhbir'in alaylı varsayımları turnayı gözünden vurmuş olsa gerek ki çocuk afallamıştı, ama bozuntuya vermeden yantıladı."
+            "content": "Muhbir'in alaylı varsayımları turnayı gözünden vurmuş olsa gerek ki çocuk afallamıştı, ama bozuntuya vermeden devam etti."
         },
         {
             "id": 19,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Patently not... of course. I must say, mine motivation was something of a more practical nature."
+            "content": "...O derecede muhayyile ehli olmadığım aşikar... Demem o ki, benim teşvik kaynağım daha pratik timsallerle alakadar."
         },
         {
             "id": 20,
-            "content": "As they walked out of the alleyway..."
+            "content": "Onlar Yuva meydanında yürüyedursun..."
         },
         {
             "id": 21,
-            "content": "Two people, surrounded by a large crowd and appearing ready to throw down, came into view."
+            "content": "Büyük bir kalabalıkla cevrelenmiş iki kişi, kavgaya tutuştular."
         },
         {
             "id": 22,
             "teller": "Interviewer",
             "title": "???",
-            "content": "What is this...? Was there a request?"
+            "content": "Noluyor orada...? Birileri düello talebinde mi bulunmuş?"
         },
         {
             "id": 23,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Nay! I have relayed what request there was to other members of the Association."
+            "content": "Zannolunmaz! Birliğe itafen gönderilmiş bütün talepleri şürekalarıma ilettim."
         },
         {
             "id": 24,
             "teller": "Interviewer",
             "title": "???",
-            "content": "Then what is..."
+            "content": "O zaman noluyor..."
         },
         {
             "id": 25,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Dost thou see now? 'Tis too commonplace an occurrence, kerfuffles such as this, in these alleys."
+            "content": "Zat-ı suhteniz şimdi idrak eyledi mi? Nedir Cinq Birliğinin müşehadat meşguliyetleri."
         },
         {
             "id": 26,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Thus~"
+            "content": "Filvaki~"
         },
         {
             "id": 27,
-            "teller": "Fight Spectator",
+            "teller": "Kavga İzleyicisi",
             "title": "???",
-            "content": "I-it's the Cinq Association!"
+            "content": "C-Cinq Birliği geldi!"
         },
         {
             "id": 28,
-            "teller": "Bullied Citizen",
+            "teller": "Mazlum Kavgacı",
             "title": "???",
-            "content": "O-oh boy, am I glad to have one of you here! Lemme request you to duel in my stead!"
+            "content": "Oh, Allahıma şükürler olsun, geldiğinize ne kadar sevindim bir bilseniz! Lütfen düelloda benim yerime siz geçin!"
         },
         {
             "id": 29,
-            "teller": "Agitated Citizen",
+            "teller": "Telaşlı Kavgacı",
             "title": "???",
-            "content": "Wha- Oh, you cheeky little... M-me, too!"
+            "content": "N- Ne, seni gidi kurnaz şey... Benimkinin yerine de!"
         },
         {
             "id": 30,
@@ -291,7 +291,7 @@
         },
         {
             "id": 49,
-            "content": "<i>Bu kişilik çevirisinde ünlü tiyatro eseri Cyarno de Belgerac'tan yararlanılmıştır</i> Cinq Güney Bölüğü Kişilikleri Alexander <ruby=pere>Dumas</ruby>'nin <i>Üç Silahşörler</i> Romanından esinlenmiştir, Günahkârın romandaki karaterle eşleşmesi zannımıca söyledir: \nDon Quixote=D'artagnan."
+            "content": "<i>Bu kişilik çevirisinde ünlü tiyatro eseri Cyarno de Belgerac'tan yararlanılmıştır</i> Cinq Güney Bölüğü Kişilikleri Alexander <ruby=pere>Dumas</ruby>'nin <i>Üç Silahşörler</i> Romanından esinlenmiştir. Deschaux Manastırı romanın ana karateri ve meşur 3 silahşörün ilk düellolarını gerçekleştirdikleri yerdir. Günahkârın romandaki karaterle eşleşmesi zannımıca söyledir: \nDon Quixote=D'artagnan."
         }
     ]
 }
