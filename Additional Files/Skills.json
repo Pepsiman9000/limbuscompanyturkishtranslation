@@ -1447,13 +1447,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Paint",
+          "name": "Boya",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath] next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Breath] kazan"
                 }
               ]
             }
@@ -1461,13 +1461,13 @@
         },
         {
           "level": 2,
-          "name": "Paint",
+          "name": "Boya",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Breath] kazan"
                 }
               ]
             }
@@ -1480,20 +1480,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Splatter",
+          "name": "Saçıl",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "If target previously took damage this turn, deal +10% damage"
+                  "desc": "Eğer hedef bu tur zaten hasar aldıysa, +10% hasar vur"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target previously took damage this turn, deal +10% damage"
+                  "desc": "Eğer hedef bu tur zaten hasar aldıysa, +10% hasar vur"
                 }
               ]
             }
@@ -1501,20 +1501,20 @@
         },
         {
           "level": 2,
-          "name": "Splatter",
+          "name": "Saçıl",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "If target previously took damage this turn, deal +30% damage"
+                  "desc": "Eğer hedef bu tur zaten hasar aldıysa, +30% hasar vur"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target previously took damage this turn, deal +30% damage"
+                  "desc": "Eğer hedef bu tur zaten hasar aldıysa, +30% hasar vur"
                 }
               ]
             }
@@ -1527,8 +1527,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Brushstroke",
-          "desc": "[StartBattle] Gain 2 Slash DMG Up",
+          "name": "Fırça Darbesi",
+          "desc": "[StartBattle] 2 [SlashDamageUp] kazan",
           "coinlist": [
             {},
             {},
@@ -1537,14 +1537,14 @@
         },
         {
           "level": 4,
-          "name": "Brushstroke",
-          "desc": "[StartBattle] Gain 2 Slash DMG Up",
+          "name": "Fırça Darbesi",
+          "desc": "[StartBattle] 2 [SlashDamageUp] kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Breath] kazan"
                 }
               ]
             },
