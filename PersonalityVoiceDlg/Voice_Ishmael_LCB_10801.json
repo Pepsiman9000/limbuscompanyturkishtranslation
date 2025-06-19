@@ -38,42 +38,42 @@
     {
       "id": "smalltalk_10801_4",
       "desc": "Chatter #4",
-      "dlg": "Just to be clear, the remarks I say to you are meant to assist you to ensure the success of our mission. I’m not just saying them with any hard feelings towards you."
+      "dlg": "Emin olmak için söylüyorum, size bildiriğim görüşler sadece görevimizin en optimal şekilde yürtülmesini sağlamak için. İçimde size karşı gücenmece yok."
     },
     {
       "id": "smalltalk_10801_5",
       "desc": "Chatter #5",
-      "dlg": "In my previous occupation, a tiny mistake could compromise all of our safety. My sensitive tendencies come from that experience. Oh… No, I’m not trying to ask for your understanding."
+      "dlg": "Eski çalıştığım yerde, en ufak bile güvenliğimizi riske atabilirdi. Hassas eğilimlerim o tecrübeden kalma. Oh… Yok hayır, anlayış filan gösterin diye demiyorum."
     },
     {
       "id": "neglect_10801_1",
       "desc": "Idle",
-      "dlg": "Manager? Sigh… I’ll be off then."
+      "dlg": "Müdür bey? Ahhh… İyi bende gittim o zaman."
     },
     {
       "id": "formation_10801_1",
       "desc": "Deployment",
-      "dlg": "Sure, no problem."
+      "dlg": "Olur, sıkıntı yok."
     },
     {
       "id": "battleentry_10801_1",
       "desc": "Stage Entry",
-      "dlg": "I’ll follow your orders, as long as they’re efficient."
+      "dlg": "Yeterli ve efektif oldukları müddetçe emirlerinize amadeyim."
     },
     {
       "id": "battle_select_10801_1",
       "desc": "Viewed in Battle",
-      "dlg": "I’m busy at the moment, so please keep it brief."
+      "dlg": "Şu an meşgulüz, o yüzden kısa tutsanız iyi eder."
     },
     {
       "id": "battle_endcommand_10801_1",
       "desc": "Commencing Attack",
-      "dlg": "Sounds like a plan. Let’s go."
+      "dlg": "İyi bir plan gibi görünüyor. Hadi gidelim."
     },
     {
       "id": "battle_enemy_break_10801_1",
       "desc": "Enemy Stagger",
-      "dlg": "The enemy has been stranded."
+      "dlg": "Düşman sürüden ayrıldı."
     },
     {
       "id": "battle_break_10801_1",
@@ -83,37 +83,37 @@
     {
       "id": "battle_kill_10801_1",
       "desc": "Enemy Killed",
-      "dlg": "Down they sink."
+      "dlg": "Amiral battı."
     },
     {
       "id": "battle_allydead_10801_1",
       "desc": "Ally Death",
-      "dlg": "Looks like you’ve got work to do, Manager."
+      "dlg": "Anlaşılan gene size iş çıktı, Müdürüm."
     },
     {
       "id": "choice_success_p_10801_1",
       "desc": "Check Passed",
-      "dlg": "Despite it all… I managed somehow."
+      "dlg": "Bütün bunlara rağmen… Gene de bir şekilde başardım."
     },
     {
       "id": "choice_fail_n_10801_1",
       "desc": "Check Failed",
-      "dlg": "You should’ve had someone else deal with it. Don’t blame me for this."
+      "dlg": "Daha kabiliyetli birini seçmeliydiniz. Beni suçlamayın."
     },
     {
       "id": "battle_clear_10801_1",
       "desc": "Victory Cry",
-      "dlg": "I tend not to make a big deal out of such things."
+      "dlg": "Ben olsam, Bu tarz küçük şeyleri gözümde büyütmezdim."
     },
     {
       "id": "battle_clear_ex_10801_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "Hmm… If I can be honest here, we did a pretty good job, right?"
+      "dlg": "Hmm… Dürüst olmak gerekirse, sanırım iyi bir iş çıkardık, değil mi?"
     },
     {
       "id": "battle_defeat_10801_1",
       "desc": "Defeat Wail",
-      "dlg": "…Who’s the one that ignored my words and bolted headfirst into the fray?"
+      "dlg": "…Ahh, benim sözümü dinlemeyip çatışmaya bodazlama dalacaksan, neden nefesimi boşa harcayım ki?"
     }
   ]
 }
