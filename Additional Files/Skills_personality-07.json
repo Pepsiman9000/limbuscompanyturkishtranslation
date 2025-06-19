@@ -222,7 +222,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Execution Advised",
+          "name": "İnfaz Önerildi",
           "desc": "",
           "coinlist": [
             {},
@@ -237,7 +237,7 @@
         },
         {
           "level": 2,
-          "name": "Execution Advised",
+          "name": "İnfaz Önerildi",
           "desc": "If target has 3+ [Vibration], Coin Power +1",
           "coinlist": [
             {},
@@ -252,7 +252,7 @@
         },
         {
           "level": 4,
-          "name": "Execution Advised",
+          "name": "İnfaz Önerildi",
           "desc": "Coin Power +1 for every 3 [Vibration] on target (Max 2)",
           "coinlist": [
             {},
@@ -272,7 +272,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Final Warning",
+          "name": "Son Uyarı",
           "desc": "",
           "coinlist": [
             {
@@ -293,7 +293,7 @@
         },
         {
           "level": 2,
-          "name": "Final Warning",
+          "name": "Son Uyarı",
           "desc": "If target has 6+ [Vibration], Coin Power +1",
           "coinlist": [
             {
@@ -314,7 +314,7 @@
         },
         {
           "level": 4,
-          "name": "Final Warning",
+          "name": "Son Uyarı",
           "desc": "Coin Power +1 for every 6 [Vibration] on target (Max 2)",
           "coinlist": [
             {
@@ -340,7 +340,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Execution Sentencing",
+          "name": "İdam Hükmü",
           "desc": "If target has 6+ [Vibration], Coin Power +1",
           "coinlist": [
             {
@@ -368,7 +368,7 @@
         },
         {
           "level": 4,
-          "name": "Execution Sentencing",
+          "name": "İdam Hükmü",
           "desc": "Coin Power +1 for every 6 [Vibration] on target (Max 2)",
           "coinlist": [
             {
@@ -401,7 +401,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Do Not Obstruct",
+          "name": "Müdahale Etmeyin",
           "desc": "When attacked while this unit has Shield, inflict +1 [Vibration] Count on the attacker (this Skill's effect does not stack with multiple uses)",
           "coinlist": [
             {
@@ -415,7 +415,7 @@
         },
         {
           "level": 4,
-          "name": "Do Not Obstruct",
+          "name": "Müdahale Etmeyin",
           "desc": "When attacked while this unit has Shield, inflict +1 [Vibration] Count on the attacker (this Skill's effect does not stack with multiple uses)",
           "coinlist": [
             {
@@ -1124,7 +1124,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tam Kafaya İsabet",
+          "name": "Kafadan Vuruş",
           "desc": "[WhenUse] 3 [Breath] ve +1 [Breath] Miktarı kazan",
           "coinlist": [
             {
@@ -1141,7 +1141,7 @@
         },
         {
           "level": 2,
-          "name": "Tam Kafaya İsabet",
+          "name": "Kafadan Vuruş",
           "desc": "<style=\"highlight\">Eğer Günahkarın hızı hedeften hızlıysa, her 1 Hız farkı için +10% daha fazla hasar uygula (En fazla 30%)</style>\n[WhenUse]  3 [Breath] ve +1 [Breath] Miktarı kazan\n<style=\"highlight\">[WhenUse] Sonraki tur 2 [Agility] kazan (Turda bir kere)</style>",
           "coinlist": [
             {
@@ -1164,7 +1164,7 @@
         },
         {
           "level": 4,
-          "name": "Tam Kafaya İsabet.",
+          "name": "Kafadan Vuruş",
           "desc": "Eğer Günahkarın hızı hedeften hızlıysa, her 1 Hız farkı için +10% daha fazla hasar uygula (En fazla 50%)</style>\n[WhenUse] 3 [Breath] ve <style=\"highlight\">2</style> [Breath] Miktarı kazan\n[WhenUse] Sonraki tur 2 [Agility] kazan (Turda bir kere)",
           "coinlist": [
             {
@@ -1192,7 +1192,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Tam Onikiden!",
+          "name": "Hedefin Tam Ortasına",
           "desc": "[BeforeUse] Eğer Günahkarda [Bullet_LogicAtelier] varsa, 'AL-YH Parçalayıcı Mermi!' yeteneğini kullan\nEğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] ı harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 12.5)% daha fazla hasar uygula",
           "coinlist": [
             {
@@ -1212,7 +1212,7 @@
         },
         {
           "level": 4,
-          "name": "Tam Onikiden!",
+          "name": "Hedefin Tam Ortasına",
           "desc": "[BeforeUse] Eğer Günahkarda [Bullet_LogicAtelier] varsa, 'AL-YH Parçalıyıcı Mermi!' yetemeğini kullan\nEğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] ı harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 12.5)% daha fazla hasar uygula\n<style=\"highlight\">[EndSkill] +2 [Breath] Miktarı kazan</style>",
           "coinlist": [
             {
