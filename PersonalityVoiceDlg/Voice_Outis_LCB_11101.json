@@ -3,42 +3,42 @@
     {
       "id": "get_11101_1",
       "desc": "Identity Acquisition",
-      "dlg": "Adım Outis. Umarım hatırlarsınız, Müdür Paşa."
+      "dlg": "Adım Outis. Umarım iyi hatırlarsınız, İdari Müdürüm."
     },
     {
       "id": "lobby_morning_11101_1",
       "desc": "Morning Greeting",
-      "dlg": "Günaydınlar, Müdür Paşa! Kahvaltı ettiniz mi? Endişeli derecede zayıf görünüyorsun, size dengeli beslenmenin!"
+      "dlg": "Günaydınlar, İdari Müdürüm! Kahvaltı ettiniz mi? Endişeli verici düzeyde tâkatsiz görünüyorsun, size dengeli beslenmenin önemini vurgulamak isterim!"
     },
     {
       "id": "lobby_noon_11101_1",
       "desc": "Afternoon Greeting",
-      "dlg": "Sizin gibi büyüleyici bir lider tek başınıza yemek yemek gibi rezil bir durumla baş etmemeli! Masanıza, size katılmalıyım!"
+      "dlg": "Sizin gibi öne çıkan bir liderin tek başına yemek yemek gibi küçük düşürücü bir duruma maruz kalmamalı! Masanızda size katılmalıyım!"
     },
     {
       "id": "lobby_night_11101_1",
       "desc": "Evening Greeting",
-      "dlg": "Yarınki görevlerinizi sağlıklı bir şekilde yerine getirmek için size erkenden uyumayı öneririm."
+      "dlg": "Yarınki görevlerinizi dinç bir formda yerine getirmek için size erkenden uyumayı öneririm."
     },
     {
       "id": "smalltalk_11101_1",
       "desc": "Chatter #1",
-      "dlg": "Meşgulken beni çağırırsanız yaptığım her şeyi durdurmaya razıyım."
+      "dlg": "Meşgulken beni çağırırsanız üstlendiğim bütün işlerimi durdurmaya razıyım."
     },
     {
       "id": "smalltalk_11101_2",
       "desc": "Chatter #2",
-      "dlg": "Zafer için ne kadar fedakarlık yapmaya hazırsın, Müdür Paşa? Eğer kazanacağın anlamına geliyorsa kendinin ne kadarını bırakmaya razısın?...?"
+      "dlg": "İdari Müdürüm, zafer için ne kadar fedakarlık yapmaya hazırsınız? Eğer kazanacağın anlamına geliyorsa kendinden ne kadarını kaybetmeye razısın?"
     },
     {
       "id": "smalltalk_11101_3",
       "desc": "Chatter #3",
-      "dlg": "Daha savaş alanına ayak basmamış çaylaklarla görev yapmak… Ah, kesinlikle sizden bahsetmiyorum, Müdür Paşa."
+      "dlg": "Daha savaş alanına ayak basmamış çaylaklarla görev yapmanın absürtlüğü… Ah, kesinlikle sizden bahsetmiyordum, İdari Müdürüm."
     },
     {
       "id": "neglect_11101_1",
       "desc": "Idle",
-      "dlg": "Müdür Paşa? Tek başınıza dışarı çıkmak, özellikle sizin gibi deneyimsiz bireyler için, çok tehlikeli bir şey!"
+      "dlg": "İdari Müdürüm? Tek başınıza dışarı çıkmak, özellikle sizin gibi savaşamayan bir birey için, çok tehlikeli!"
     },
     {
       "id": "formation_11101_1",
@@ -48,12 +48,12 @@
     {
       "id": "battleentry_11101_1",
       "desc": "Stage Entry",
-      "dlg": "Outis, çatışmaya katılıyorum."
+      "dlg": "Outis, çatışmaya katılıyor."
     },
     {
       "id": "battle_select_11101_1",
       "desc": "Viewed in Battle",
-      "dlg": "Benimle bir işiniz mi var, Müdür Paşa?"
+      "dlg": "Benimle bir işiniz mi vardı, İdari Müdürüm?"
     },
     {
       "id": "battle_endcommand_11101_1",
@@ -63,7 +63,7 @@
     {
       "id": "battle_enemy_break_11101_1",
       "desc": "Enemy Stagger",
-      "dlg": "Plan akıcı işliyor."
+      "dlg": "Plan tıkırında."
     },
     {
       "id": "battle_break_11101_1",
@@ -88,22 +88,22 @@
     {
       "id": "choice_fail_n_11101_1",
       "desc": "Check Failed",
-      "dlg": "Hata bende…"
+      "dlg": "Hatayu üstleniyorum…"
     },
     {
       "id": "battle_clear_11101_1",
       "desc": "Victory Cry",
-      "dlg": "Her zamanki gibi muhteşem, Müdür Paşa!"
+      "dlg": "Her zamanki gibi muhteşem, İdari Müdürüm!"
     },
     {
       "id": "battle_clear_ex_11101_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "Bu, %99 sizin büyüleyici lideliğiniz ve benim %1 becerimdi!"
+      "dlg": "Bu, %99 sizin mahir lideliğiniz ve benim %1 becerimdi!"
     },
     {
       "id": "battle_defeat_11101_1",
       "desc": "Defeat Wail",
-      "dlg": "Her neyse, bu bizim hatamız değildi, Müdür Paşa ."
+      "dlg": "Her durumda, bu ikimizin de hatası değil, İdari Müdürüm."
     }
   ]
 }
