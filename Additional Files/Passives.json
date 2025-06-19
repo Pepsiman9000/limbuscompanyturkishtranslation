@@ -2140,17 +2140,71 @@
           "desc": "When killing the target with this unit's Attack Skills, gain [Breath] equal to [Burst] on target (3 per 1 enemy; once per turn)\n- If this unit gained 3 [Breath] with the above effect, gain [Breath] Count equal to [Burst] Count on target (2 per 1 enemy; once per turn)\n\nIn a Clash, if this unit's Offense Level is higher than the target's, Clash Power +1\n\nIn a Clash, if this unit's Offense Level is higher than the target's, inflict +1 more [Burst] Potency or [Burst] Count with this unit's Base Attack Skills (2 times per turn)",
           "summary": "In a Clash, if this unit's Offense Level is higher than the target's, Clash Power +1\nInflict +1 more [Burst] Potency and [Burst] Count with this unit's Base Attack Skills"
         },
-        {
-          "id": 1081202,
-          "name": "Launching Maneuver",
-          "desc": "Upon Retreat: apply 1 Offense Level Up next turn to allies in their Deployment order\n- Number of affected allies = [StartXichun] Stack on self\n- If the affected ally is a \"Jia Family\" unit, apply 2 Offense Level Up next turn instead\n- Does not affect allies that either Return or Substitute next turn\n\nOn the turn this unit Substituted or Returned to the field, gain [WaitingXichun]; then, at Combat Start, as the very first Skill in the Skill order, use 'Crimson Strike - Launcher【始】' against a random target.",
-          "summary": "In the turn this unit entered the battle via Substitution or Return: at Combat Start, as the very first Skill in the Skill order, use 'Crimson Strike - Launcher (始)' against a random target"
-        },
-        {
-          "id": 1081221,
-          "name": "Lingering Resolve",
-          "desc": "If this unit is defeated in an Encounter, apply [CheerUpXichun] to the subsequently Substituting Identity (the fastest Backup Unit in the Deployment Order) next turn\n\nIn Chain Battles, if this unit is a Backup unit or has Retreated, activate the following:\n- Combat Start: Among the Identities who 1) are at 50% HP or lower, and 2) used a Defense Skill, choose the Identity with the fastest Deployment order. At Turn End, that Identity recovers from Stagger caused by damage and performs a [RetreatForCommon] (2 times per Encounter)",
-          "summary": "Turn End: Retreat the Identity that, at Combat Start, has 50% or less HP and has used a Defense Skill this turn"
-        }
+{
+      "id": 1081202,
+      "name": "Başlatma Manevrası [始動]",
+      "desc": "Çekilme Durumunda: Müttefiklere bir sonraki turda 1 Saldırı Seviyesi Yükseltme uygula (Konuşlandırma sırasına göre)\n- Etkilenen müttefik sayısı = [StartXichun] Stack miktarı\n- Etkilenen müttefik \"Jia Ailesi\" üyesiyse, bir sonraki turda 2 Saldırı Seviyesi Yükseltme uygula\n- Bir sonraki turda Dönen veya Yer Değiştiren müttefikleri etkilemez\n\nBu birim sahneye Yer Değiştirme veya Dönüş yaptığı turda [WaitingXichun] kazanır; ardından Savaş Başlangıcında, Yetenek sırasındaki ilk Yetenek olarak rastgele bir hedefe 'Kızıl Darbe - Fırlatıcı【始】' kullanır.",
+      "summary": "Bu birim Yer Değiştirme veya Dönüş yoluyla savaşa katıldığı turda: Savaş Başlangıcında, ilk Yetenek olarak rastgele hedefe 'Kızıl Darbe - Fırlatıcı (始)' kullanır"
+    },
+    {
+      "id": 1081221,
+      "name": "Kalıcı Azim [餘桓]",
+      "desc": "Bu birim bir Çatışmada yenilirse, bir sonraki turda yerine geçen Kişiliğe [CheerUpXichun] uygula (Konuşlandırma sırasındaki en hızlı Yedek Birim)\n\nZincir Savaşlarında, bu birim Yedek üniteyse veya Çekildiyse şunu etkinleştir:\n- Savaş Başlangıcı: 1) %50 HP veya altında olan ve 2) Savunma Yeteneği kullanan Kişilikler arasından en hızlı konuşlandırma sırasına sahip olanı seç. Tur Sonunda, o Kişilik hasardan kaynaklanan Sersemlemeden kurtulur ve [RetreatForCommon] gerçekleştirir (Çatışma başına 2 kez)",
+      "summary": "Tur Sonu: Savaş Başlangıcında %50 veya altında HP'ye sahip ve bu turda Savunma Yeteneği kullanan Kişiliği Çekilme durumuna geçirir"
+    },
+    {
+      "id": 1101301,
+      "name": "Mühimmat Takviyesi",
+      "desc": "[Bullet] kullanan müttefikler arasında en hızlı konuşlandırma sırasına sahip 1 Kişilik saldırısını bitirdiğinde, mevcut [Bullet] sayısı yarısından azsa (yukarı yuvarlanır), harcanan toplam [Bullet] miktarı kadar [FireBulletPropellant] harca ve etkilenen birime harcadığın kadar [Bullet] sağla (en fazla 3 mermi harcanabilir) (Çatışma başına 1 kez)\n\n- [Bullet] alan Kişilik daha yüksek rütbeli bir Thumb Kişiliğiyse, kullandıkları 1 ek [Bullet] sağla\n- [Bullet] alan Kişiliğin Şiddet ve Miktar için ayrı değerleri varsa, rastgele sağlanır\n- Şiddet veya Miktar maksimumsa, maksimum olmayan sağlanır",
+      "summary": ""
+    },
+    {
+      "id": 1101311,
+      "name": "Mühimmat Takviyesi",
+      "desc": "[Bullet] kullanan müttefikler arasında en hızlı konuşlandırma sırasına sahip 1 Kişilik saldırısını bitirdiğinde, mevcut [Bullet] sayısı yarısından azsa (yukarı yuvarlanır), harcanan toplam [Bullet] miktarı kadar [FireBulletPropellant] harca ve etkilenen birime harcadığın kadar [Bullet] sağla. <style=\"highlight\">(en fazla 5 mermi harcanabilir)</style> (Çatışma başına 1 kez)\n\n- [Bullet] alan Kişilik daha yüksek rütbeli bir Thumb Kişiliğiyse, kullandıkları 1 ek [Bullet] sağla\n- [Bullet] alan Kişiliğin Şiddet ve Miktar için ayrı değerleri varsa, rastgele sağlanır\n- Şiddet veya Miktar maksimumsa, maksimum olmayan sağlanır",
+      "summary": ""
+    },
+    {
+      "id": 1101312,
+      "name": "Süngüler",
+      "desc": "Daima Etkin: Çatışmalara 15 [FireBulletPropellant] ile başla\n\nBu birim Yetenekleri veya Pasifleri ile [FireBulletPropellant] harcarsa, bir sonraki turda harcanan miktar kadar [AttackDmgUp] kazan (maks 3)\n\n[FireBulletPropellant] harcayan bir Jetonu çevirirken: [FireBulletPropellant] olmaması bu birimin saldırılarını iptal etmez, ancak Jetonun Vuruşta \"[Combustion] uygula\" ve \"[Combustion] Miktarı uygula\" etkileri aktifleşmez",
+      "summary": ""
+    },
+    {
+      "id": 1101321,
+      "name": "Yeniden Doldurucu",
+      "desc": "[Bullet] kullanan müttefikler arasında en hızlı konuşlandırma sırasına sahip 1 Kişilik saldırısını bitirdiğinde, mevcut [Bullet] sayısı yarısından azsa (yukarı yuvarlanır), maksimum [Bullet] kapasitesinin yarısını yeniden kazan (yukarı yuvarlanır; Çatışma başına 1 kez; maks kazanılan [Bullet]: 5)\n\n- [Bullet] alan Kişiliğin Şiddet ve Miktar için ayrı değerleri varsa, rastgele kazanır\n- [Bullet]'in Şiddeti veya Miktarı maksimumsa, maksimum olmayan kazanılır\n- [Bullet] kullanan Kişilik yoksa bu etki aktifleşmez",
+      "summary": ""
+    },
+    {
+      "id": 1051202,
+      "name": "Chachihu [揷翅虎]",
+      "desc": "Daima Etkin: Çatışmalara 12 [BulletPropellantAlly] ile başla\n\n[BulletPropellantAlly] veya [BulletPropellantSpecialAlly] tüketen Jeton çevirirken: bu 'Benzersiz Mermi'lere sahip olmamak saldırıları iptal etmez, ancak Jetonun Vuruşta \"[Combustion] uygula\" ve \"[Combustion] Miktarı uygula\" etkileri aktifleşmez\n\nBu birim bu Çatışmada ilk kez Savunma Yetenekleri donattıysa veya tüm [BulletPropellantAlly]'sini harcadıysa veya Sersemlemişse: o turun sonunda 8 [BulletPropellantSpecialAlly] yeniden doldur ve 1 [IrritationAlly] kazan (Çatışma başına 1 kez)\n- Bu etki Sersemleme durumunda aktifleşirse, Sersemlemeden kurtul (zorunlu Sersemleme hariç)\n- Kalan [BulletPropellantAlly] varsa tamamını kaldır\n- 8+ ([BulletPropellantAlly] ve [BulletPropellantSpecialAlly] harcanan toplam) olduğunda, [IrritationAlly]'yi [HugeIrritationAlly]'ye dönüştür\n\nBu birim son [BulletPropellantSpecialAlly] Mermisini harcayan bir Temel Saldırı Yeteneği kullandığında...\n- Saldırıdan önce Atk Ağırlığı +2 kazan\n- Bir sonraki turda 1 [BeastEyesAlly] kazan",
+      "summary": ""
+    },
+    {
+      "id": 1051201,
+      "name": "Tiantui Yıldızının Kılıcı [天退星刀]",
+      "desc": "Bu birim [BulletPropellantAlly]'ye sahipken:\n- 1+ [BulletPropellantAlly] varsa, 'Dolaşık Saldırı'nın tüm Jetonlarını [SuperCoin]'e dönüştür\n- [BulletPropellantAlly] harcayan Yetenek Jetonları +1 Güç kazanır (Jetonun harcayacak Mermisi olduğu sürece aktif)\n\nBu birim [BulletPropellantSpecialAlly]'ye sahipken:\n- 1+ [BulletPropellantSpecialAlly] varsa, bu birimin Temel Saldırı Yeteneklerinin tüm Jetonlarını [SuperCoin]'e dönüştür\n- 0 [BulletPropellantSpecialAlly] varsa, bu birimin 'Benzersiz Mermi' harcayan Temel Saldırı Yeteneklerinin tüm Jetonlarını [SuperCoin]'e dönüştür\n- [BulletPropellantSpecialAlly] harcayan Yetenek Jetonları +2 Güç kazanır (Jetonun harcayacak Mermisi olduğu sürece aktif)",
+      "summary": ""
+    },
+    {
+      "id": 1051211,
+      "name": "Tiantui Yıldızının Kılıcı [天退星刀]",
+      "desc": "Bu birim [BulletPropellantAlly]'ye sahipken:\n- 1+ [BulletPropellantAlly] varsa, 'Dolaşık Saldırı'nın tüm Jetonlarını [SuperCoin]'e dönüştür\n- [BulletPropellantAlly] harcayan Yetenek Jetonları +1 Güç <style=\"highlight\">ve %10 daha fazla hasar verir</style> (Jetonun harcayacak Mermisi olduğu sürece aktif)\n\nBu birim [BulletPropellantSpecialAlly]'ye sahipken:\n- 1+ [BulletPropellantSpecialAlly] varsa, bu birimin Temel Saldırı Yeteneklerinin tüm Jetonlarını [SuperCoin]'e dönüştür\n- 0 [BulletPropellantSpecialAlly] varsa, bu birimin 'Benzersiz Mermi' harcayan Temel Saldırı Yeteneklerinin tüm Jetonlarını [SuperCoin]'e dönüştür\n- [BulletPropellantAlly] harcayan Yetenek Jetonları +2 Güç, <style=\"highlight\">%30 daha fazla hasar verir ve bu Jetonlarla Vuruşta +2 daha fazla [Combustion] Şiddeti ve [Combustion] Miktarı uygular</style> (Jetonun harcayacak Mermisi olduğu sürece aktif)",
+      "summary": ""
+    },
+    {
+      "id": 1051221,
+      "name": "Vahşi Kaplanın Hamlesi",
+      "desc": "En hızlı Hıza sahip 1 müttefik [Bullet] harcayan bir Yetenek kullandığında, Hızı hedefin Hızından 3 veya daha fazla ise, +(Hız farkı × 2)% daha fazla hasar ver (maks %10).\n(Bu etki, etkilenen birimin [Bullet] buff'ı tamamen yoksa aktifleşmez. Ancak [Bullet] buff'ı varsa (0 mermi kalmış olsa bile) aktifleşir)",
+      "summary": ""
+    },
+    {
+      "id": 1051231,
+      "name": "Vahşi Kaplanın Hamlesi",
+      "desc": "En hızlı Hıza sahip 1 müttefik [Bullet] harcayan bir Yetenek kullandığında, Hızı hedefin Hızından 3 veya daha fazla ise, +(Hız farkı × <style=\"highlight\">3</style>)% daha fazla hasar ver (maks <style=\"highlight\">%15</style>).\n(Bu etki, etkilenen birimin [Bullet] buff'ı tamamen yoksa aktifleşmez. Ancak [Bullet] buff'ı varsa (0 mermi kalmış olsa bile) aktifleşir)",
+      "summary": ""
+    }
   ]
 }
