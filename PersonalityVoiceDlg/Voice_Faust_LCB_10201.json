@@ -3,32 +3,32 @@
     {
       "id": "get_10201_1",
       "desc": "Identity Acquisition",
-      "dlg": "It’s Faust. A genius with whom you’re lucky to cross paths even once in your life."
+      "dlg": "İsim, Faust. Yollarınızın kesiştiği için bile kendinizi şanslı hissetmeniz gereken bir dahi."
     },
     {
       "id": "lobby_morning_10201_1",
       "desc": "Morning Greeting",
-      "dlg": "I would always get up after three hours of sleep. I thought it was a natural phenomenon, but I later learned it wasn’t the case for every individual."
+      "dlg": "Üç saatlik uyku sonrası vücudum isteğim dahilinde olmadan kendi kendine kalkar. İnsan doğasının işleyişinin böyle olduğunu sanmıştım, ama sonrasında bunun her birey için geçerli olmadığını fark ettim."
     },
     {
       "id": "lobby_noon_10201_1",
       "desc": "Afternoon Greeting",
-      "dlg": "Faust considers short periods of exposure to sunlight to be a useful activity."
+      "dlg": "Faust, güneş ışığına kısa süreli maruz kalınmayı elverişli bir aktivite olarak bulur."
     },
     {
       "id": "lobby_night_10201_1",
       "desc": "Evening Greeting",
-      "dlg": "Though I don’t bother myself much with hobbies, I once enjoyed stargazing."
+      "dlg": "Her ne kadar şu an hobbiler ilgim dahilinde olmasa da, bir zamanlar yıldız seyretmekten hoşlanırdım."
     },
     {
       "id": "smalltalk_10201_1",
       "desc": "Chatter #1",
-      "dlg": "…If you’re the type of person who likes to summon others before considering what to say, I would suggest using documents to communicate."
+      "dlg": "…Eğer siz de söleyeceklerini kararlaştırmadan insanları çağıranlardansanız, iletişim kurmak için resmi evrak kullanımını öneririm."
     },
     {
       "id": "smalltalk_10201_2",
       "desc": "Chatter #2",
-      "dlg": "I’m considering adjusting my level of speech for different Sinners. Repeating myself twice or more can be rather inefficient."
+      "dlg": "Her Günahkâr için farklı bir iletişim tarzı kullanmayı düşünüyorum. Kendimi iki yahut mütecavız kez tekrar etmek görece inefektif oluyor."
     },
     {
       "id": "smalltalk_10201_3",
@@ -38,32 +38,32 @@
     {
       "id": "neglect_10201_1",
       "desc": "Idle",
-      "dlg": "Brief deviations are within permitted ranges."
+      "dlg": "Kısa dağınıklıklar izin verilen müddet dahilinde."
     },
     {
       "id": "formation_10201_1",
       "desc": "Deployment",
-      "dlg": "I’ll tag along."
+      "dlg": "Bende eşik edeceğim."
     },
     {
       "id": "battleentry_10201_1",
       "desc": "Stage Entry",
-      "dlg": "I’m ready to accompany you."
+      "dlg": "Size refaket etmeye hazırım."
     },
     {
       "id": "battle_select_10201_1",
       "desc": "Viewed in Battle",
-      "dlg": "What is it, Manager?"
+      "dlg": "Ne istemiştiniz, Müdürüm?"
     },
     {
       "id": "battle_endcommand_10201_1",
       "desc": "Commencing Attack",
-      "dlg": "Commencing action."
+      "dlg": "Harekete geçiliyor."
     },
     {
       "id": "battle_enemy_break_10201_1",
       "desc": "Enemy Stagger",
-      "dlg": "An opportunity has arrived."
+      "dlg": "Bir fırsat belirdi."
     },
     {
       "id": "battle_break_10201_1",
@@ -73,37 +73,37 @@
     {
       "id": "battle_kill_10201_1",
       "desc": "Enemy Killed",
-      "dlg": "An obvious outcome."
+      "dlg": "Bariz bir sonuç."
     },
     {
       "id": "battle_allydead_10201_1",
       "desc": "Ally Death",
-      "dlg": "That wasn’t the most efficient."
+      "dlg": "En efektif sonuç sayılmaz."
     },
     {
       "id": "choice_success_p_10201_1",
       "desc": "Check Passed",
-      "dlg": "Try not to cling to this success."
+      "dlg": "Başarının süreğenliğine aldanma."
     },
     {
       "id": "choice_fail_n_10201_1",
       "desc": "Check Failed",
-      "dlg": "Try not to dwell on this failure."
+      "dlg": "Bu başarısızlığa takılmamaya çalış."
     },
     {
       "id": "battle_clear_10201_1",
       "desc": "Victory Cry",
-      "dlg": "Is there a reason to be excited over this?"
+      "dlg": "Heyecan duymak için bir neden var mı?"
     },
     {
       "id": "battle_clear_ex_10201_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "You’ve become more competent than once expected."
+      "dlg": "Beklenenden daha yetkin çıktınız."
     },
     {
       "id": "battle_defeat_10201_1",
       "desc": "Defeat Wail",
-      "dlg": "Much wasn’t expected out of you."
+      "dlg": "Size olan beklenti fazla değildi."
     }
   ]
 }
