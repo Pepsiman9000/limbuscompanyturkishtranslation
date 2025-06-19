@@ -2601,6 +2601,56 @@
           "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self save for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)",
           "summary": "",
           "undefined": "-"
-        }
+        },
+        {
+      "id": "FireBulletPropellant",
+      "name": "Kavurucu Barut Mermisi",
+      "desc": "- Maksimum Kapasite: 15\n- Benzersiz Mermi\n- Belirli Yetenekler tarafından harcanır\n- \"Mermi\" olarak sayılır",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SingBulletSupport",
+      "name": "(엄지 싱클 탄환 보급 받는 대상 이펙트)",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BulletPropellantAlly",
+      "name": "Kaplan İşaretli Mermi",
+      "desc": "- Benzersiz Mermi\n- 8+ (Kaplan İşaretli Mermi ve Vahşi Kaplan İşaretli Mermi harcanan toplam) olduğunda, bu birimin Pasifinden Azimli Ruh [剛氣] yerine Azimli Ruh - Shin [剛氣-心] kazanır\n- Harcanan Toplam Mermi: {0}\n- Maksimum Kapasite: 12",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BulletPropellantSpecialAlly",
+      "name": "Vahşi Kaplan İşaretli Mermi",
+      "desc": "- Benzersiz Mermi\n- 8+ (Kaplan İşaretli Mermi ve Vahşi Kaplan İşaretli Mermi harcanan toplam) olduğunda, bu birimin Pasifinden Azimli Ruh [剛氣] yerine Azimli Ruh - Shin [剛氣-心] kazanır\n- Harcanan Toplam Mermi: {0}\n- Kaplan İşaretli Mermi ile aynı şekilde aktifleşir\n- Maksimum Kapasite: 8",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IrritationAlly",
+      "name": "Azimli Ruh [剛氣]",
+      "desc": "- Min & Max Hız +1\n- Bu birimin Hızı hedefin Hızından 3 veya daha fazla ise, +(Hız farkı x 2.5)% hasar ver (maks %20)\n- Bu birimin Yetenekleri ile +1 daha fazla Sarsıntı Şiddeti ve Sarsıntı Miktarı uygula\n- Bu birim 8+ (Kaplan İşaretli Mermi ve Vahşi Kaplan İşaretli Mermi toplamı) harcadıysa: Tur Sonunda, bu buffı bir sonraki tura Azimli Ruh - Shin [剛氣-心] olarak dönüştür\n- Maks Stack: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HugeIrritationAlly",
+      "name": "Azimli Ruh - Shin [剛氣-心]",
+      "desc": "- Min & Max Hız +3\n- Bu birimin Hızı hedefin Hızından 3 veya daha fazla ise, +(Hız farkı x 5)% hasar ver (maks %40)\n- Bu birimin Yetenekleri ile +2 daha fazla Sarsıntı Şiddeti ve Sarsıntı Miktarı uygula\n- Maks Stack: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BeastEyesAlly",
+      "name": "Aşırı Isınma",
+      "desc": "- Bu birim Vahşi Kaplan İşaretli Mermi kazandığında bu etkiyi kaybeder\n- Min & Max Hız +2\n- Temel Saldırı Yetenekleri (Kaplan İşaretli & Vahşi Kaplan İşaretli Mermi harcanan kümülatif sayı / 2) Çarpışma Gücü kaybeder (maks 10); ancak şu etkileri kazanır (kümülatif):\n· Harcanan Toplam Mermi: {0}\n· 8+ Mermi harcandı: Tur Başında kendindeki eksik HP'nin her %10'u için 1 Korunma kazan (maks 5)\n· 14+ Mermi harcandı: Çarpışma Kaybında, bu birimin Temel Saldırı Yeteneklerinin Kırılmaz Jetonları +(75 + kendindeki eksik HP yüzdesi)% hasar verir (maks %150)\n· 20+ Mermi Harcandı: Kendinden daha yüksek kalan HP yüzdesine sahip hedeflere +(HP yüzdesi farkı)% hasar ver (maks %50; E.G.O Yetenekleri hariç)",
+      "summary": "",
+      "undefined": "-"
+    }
+
   ]
 }
