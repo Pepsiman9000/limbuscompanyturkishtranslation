@@ -229,7 +229,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Hedefe +2 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -238,13 +238,13 @@
         {
           "level": 2,
           "name": "İnfaz Önerildi",
-          "desc": "If target has 3+ [Vibration], Coin Power +1",
+          "desc": "Eğer hedefte 3+ [Vibration] varsa, Jeton Gücü +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Hedefe +2 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -253,13 +253,13 @@
         {
           "level": 4,
           "name": "İnfaz Önerildi",
-          "desc": "Coin Power +1 for every 3 [Vibration] on target (Max 2)",
+          "desc": "Hedefteki her 3 [Vibration] için +1 Jeton Gücü (En fazla 2)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Hedefe +2 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -278,14 +278,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Vibration] uygula"
                 }
               ]
             }
@@ -294,19 +294,19 @@
         {
           "level": 2,
           "name": "Son Uyarı",
-          "desc": "If target has 6+ [Vibration], Coin Power +1",
+          "desc": "Eğer hedefte 6+ [Vibration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Vibration] uygula"
                 }
               ]
             }
@@ -315,19 +315,19 @@
         {
           "level": 4,
           "name": "Son Uyarı",
-          "desc": "Coin Power +1 for every 6 [Vibration] on target (Max 2)",
+          "desc": "Hedefteki her 6 [Vibration] için +1 Jeton Gücü (En fazla 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 2 [Vibration] uygula"
                 }
               ]
             }
@@ -341,26 +341,26 @@
         {
           "level": 3,
           "name": "İdam Hükmü",
-          "desc": "If target has 6+ [Vibration], Coin Power +1",
+          "desc": "Eğer hedefte 6+ [Vibration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the sum of the target's [Vibration] Potency + Count is 20 or higher, trigger [Switch_Vibration] on target, converting [Vibration] to [VibrationCollapse]"
+                  "desc": "[OnSucceedAttack] Eğer hedefin [Vibration] Şiddeti + Miktarı'nın toplamı 20 veya daha yüksekse, hedefte [Switch_Vibration] tetikle ve [Vibration]'yi [VibrationCollapse] yap"
                 }
               ]
             }
@@ -369,26 +369,26 @@
         {
           "level": 4,
           "name": "İdam Hükmü",
-          "desc": "Coin Power +1 for every 6 [Vibration] on target (Max 2)",
+          "desc": "Hedefteki her 6 [Vibration] için +1 Jeton Gücü (En fazla 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Hedefe 1 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the sum of the target's [Vibration] Potency + Count is 20 or higher, trigger [Switch_Vibration] on target, converting [Vibration] to [VibrationCollapse]"
+                  "desc": "[OnSucceedAttack] Eğer hedefin [Vibration] Şiddeti + Miktarı'nın toplamı 20 veya daha yüksekse, hedefte [Switch_Vibration] tetikle ve [Vibration]'yi [VibrationCollapse] yap"
                 }
               ]
             }
@@ -402,7 +402,7 @@
         {
           "level": 1,
           "name": "Müdahale Etmeyin",
-          "desc": "When attacked while this unit has Shield, inflict +1 [Vibration] Count on the attacker (this Skill's effect does not stack with multiple uses)",
+          "desc": "Bu birimde Kalkan varken saldırılsa, saldırana +1 [Vibration] Miktarı uygula (bu yeteneğin etkisi birden fazla kullanımla birikmez)",
           "coinlist": [
             {
               "coindescs": [
@@ -416,7 +416,7 @@
         {
           "level": 4,
           "name": "Müdahale Etmeyin",
-          "desc": "When attacked while this unit has Shield, inflict +1 [Vibration] Count on the attacker (this Skill's effect does not stack with multiple uses)",
+          "desc": "Bu birimde Kalkan varken saldırılsa, saldırana +1 [Vibration] Miktarı uygula (bu yeteneğin etkisi birden fazla kullanımla birikmez)",
           "coinlist": [
             {
               "coindescs": [
