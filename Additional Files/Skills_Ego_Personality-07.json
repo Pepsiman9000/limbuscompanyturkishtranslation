@@ -262,24 +262,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fell Bullet",
+          "name": "Lanetli Mühimmat",
           "abName": "Der Fluchschütze",
-          "desc": "[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. +2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 3)\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "[BeforeAttack] (En yüksek Rez. + 1) [BoseProjektil] kazan (En fazla 7)\n- Eğer Rez., M-Rez. ise, (En yüksek Rez. +2) [BoseProjektil] kazan\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazan (En fazla 3)\n[EndSkill] Bütün [BoseProjektil]'leri kaybet",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "+5% Damage on Critical Hit for every [BoseProjektil] (max 35%)"
+                  "desc": "Her [BoseProjektil] için Kritikal Vuruşta +5% daha fazla hasar ver (En fazla 35%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Hedefe 3 [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[CriticalOnSucceedAttack] Hedefe 3 [Sinking] uygula"
                 },
                 {
-                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (2 times per Encounter)"
+                  "desc": "[CriticalTargetKill] Eğer bu birimde [Bullet] efekti varsa, 1 [Bullet] kazan (Karşılaşmada 2 kere)"
                 }
               ]
             }
@@ -287,24 +287,24 @@
         },
         {
           "level": 3,
-          "name": "Fell Bullet",
+          "name": "Lanetli Mühimmat",
           "abName": "Der Fluchschütze",
-          "desc": "[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max <style=\"highlight\">4</style>)\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "[BeforeAttack] (En yüksek Rez. + 1) [BoseProjektil] kazan (En fazla 7)\n- Eğer Rez., M-Rez. ise, (En yüksek Rez. +2) [BoseProjektil] kazan\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazan (En fazla 3)\n[EndSkill] Bütün [BoseProjektil]'leri kaybet",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "+<style=\"highlight\">10</style>% Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">70</style>%)"
+                  "desc": "Her [BoseProjektil] için Kritikal Vuruşta +<style=\"highlight\">10</style>% daha fazla hasar ver (En fazla <style=\"highlight\">70</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Hedefe 4 [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[CriticalOnSucceedAttack] Hedefe 3 [Sinking]uygula"
                 },
                 {
-                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (2 times per Encounter)"
+                  "desc": "[CriticalTargetKill] Eğer bu birimde [Bullet] efekti varsa, 1 [Bullet] kazan (Karşılaşmada 2 kere)"
                 }
               ]
             }
@@ -312,9 +312,9 @@
         },
         {
           "level": 4,
-          "name": "Fell Bullet",
+          "name": "Lanetli Mühimmat",
           "abName": "Der Fluchschütze",
-          "desc": "[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max <style=\"highlight\">7</style>)\n[BeforeAttack] Gain +1 [Breath] Count\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "[BeforeAttack] (En yüksek Rez. + 1) [BoseProjektil] kazan (En fazla 7)\n- Eğer Rez., M-Rez. ise, (En yüksek Rez. +2) [BoseProjektil] kazan\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazan (En fazla <style=\"highlight\">7</style>)\n[BeforeAttack] +1 [Breath] Miktarı kazan\n[EndSkill] Bütün [BoseProjektil]'leri kaybet",
           "coinlist": [
             {},
             {
@@ -323,13 +323,13 @@
                   "desc": "+<style=\"highlight\">15</style>% Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">105</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Hedefe 5 [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[CriticalOnSucceedAttack] Hedefe 3 [Sinking] uygula"
                 },
                 {
-                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (3 times per Encounter)"
+                  "desc": "[CriticalTargetKill] Eğer bu birimde [Bullet] efekti varsa, 1 [Bullet] kazan (Karşılaşmada 3 kere)"
                 }
               ]
             }
