@@ -13,12 +13,12 @@
     {
       "id": "battle_speechbubble_10408_1",
       "desc": "말풍선 특수 대사_에드가 가문 치프 버틀러 료슈",
-      "dlg": "Ü.Z.Ü.C.Ü\nBaş Hizmetçi Olarak tam bir fiyaskosun."
+      "dlg": "Ü.Z.Ü.C.Ü\nBaş Hizmetçi olarak tam bir fiyaskosun."
     },
     {
       "id": "battle_react_10710_1",
       "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "Ne Kadarda Acınası bir resepsiyon!"
+      "dlg": "Ne kadar da acınası bir resepsiyon!"
     },
     {
       "id": "battle_react_10710_2",
@@ -38,7 +38,7 @@
     {
       "id": "battle_react_10710_5",
       "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "Siz, kendini bir bok sanan bulaşıkçılar, bana bıçak çekmeye nasıl cüret edersiniz?"
+      "dlg": "Sizi bulaşık makineleri, bana bıçak çekmeye nasıl cüret edersiniz?"
     },
     {
       "id": "battle_react_10710_6",
@@ -263,7 +263,7 @@
     {
       "id": "8SV-061",
       "desc": "가모사용 시 : 강한 광역기",
-      "dlg": "Bize itaat ediceksin!"
+      "dlg": "Bize itaat edeceksin!"
     }
   ]
 }
