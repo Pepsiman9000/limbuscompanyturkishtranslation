@@ -86,22 +86,22 @@
         {
             "id": "EgoErode",
             "name": "E.G.O Korozyonu",
-            "desc": "Won’t listen to orders and will only use Corrosion Skills.",
-            "summary": "Out of control; uses Corrosion Skills",
+            "desc": "Komutlarımızı dinlemyicek ve sadece Korozyon Yetenekleri kullanıcak.",
+            "summary": "Kontrol Dışı; Korozyon Yetenekleri kullanır",
             "undefined": "-"
         },
         {
             "id": "Charge",
             "name": "Yük",
-            "desc": "Resource used by certain skills for additional effects. Its Count can go up to 20. Count lowers by 1 at the end of each turn.\n\n<color=#1aece7>Total Count consumed: {2}</color>",
-            "summary": "Specific Skill Resource",
+            "desc": "Belli yeteneklere ilave etki kazandırmak için kullanılan kaynak. Miktarı 20'ye kadar çıkabilir. Her turun sonunda Miktarı 1 azalır.\n\n<color=#1aece7>Tüketilen toplam Miktar: {2}</color>",
+            "summary": "Belirli Yetenek Kaynağı",
             "undefined": "-"
         },
         {
             "id": "DamageOverTime",
-            "name": "Giden Hasar",
-            "desc": "Turn Start: Take {0} fixed HP damage.",
-            "summary": "{0} fixed HP damage"
+            "name": "Zamanla Giden Hasar"
+            "desc": "Tur Başı: Sabit {0} HP hasarı al.",
+            "summary": "{0} sabit HP hasarı"
         },
         {
             "id": "ResultEnhancement",
@@ -154,7 +154,7 @@
         {
             "id": "ResultReduction",
             "name": "Güç Düşüşü",
-            "desc": "bu tur boyunca Yetenek Final Gücü -{0}.",
+            "desc": "Bu tur boyunca Yetenek Final Gücü -{0}.",
             "summary": "Yetenek Final Gücü -{0}"
         },
         {
@@ -2053,8 +2053,8 @@
         },
         {
             "id": "Coffin",
-            "name": "Mezar",
-            "desc": "- Max Value: 10\n- At Turn End:\n  - Gain 2 Damage Up next turn for every 3 Value (max 6)\n  - Raise minimum Speed by 1 next turn for every 4 Value (max 2)\n  - Gain 1 Clash Power Up next turn for every 5 Value (max 2)",
+            "name": "Tabut",
+            "desc": "- Maksimum Değer: 10\n- Tur Sonunda:\n  - Her 3 değer başına 2 Hasar Artışı kazan. (maksimum 6)\n  - Her 4 değer başına minimum Hızı 1 arttır. (maksimum 2)\n  - Her 5 değer başına 1 Çarpışma Gücü Artışı kazan. (maksimum 2)",
             "summary": ""
         },
         {
