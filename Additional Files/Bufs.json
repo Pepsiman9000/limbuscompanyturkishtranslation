@@ -86,7 +86,7 @@
         {
             "id": "EgoErode",
             "name": "E.G.O Korozyonu",
-            "desc": "Komutlarımızı dinlemyicek ve sadece Korozyon Yetenekleri kullanıcak.",
+            "desc": "Komutlarımızı dinlemiyecek ve sadece Korozyon Yetenekleri kullanıcak.",
             "summary": "Kontrol Dışı; Korozyon Yetenekleri kullanır",
             "undefined": "-"
         },
