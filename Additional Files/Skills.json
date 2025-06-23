@@ -9523,7 +9523,7 @@
                   "desc": "[OnSucceedAttack] Eğer hedef 6+  [Sinking]'a sahipse, Batış Tufanı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Eğer kullanıcı 10+ Sarsıntı Miktarı'na sahipse, uygulailen hasarın %30'unu bonus hasar olarak uygula"
+                  "desc": "[OnSucceedAttack] Eğer kullanıcı 10+ Sarsıntı Miktarı'na sahipse, uygulanan hasarın %30'unu bonus hasar olarak uygula"
                 }
               ]
             }
@@ -9554,7 +9554,7 @@
                   "desc": "[OnSucceedAttack] Eğer hedef 6+  [Sinking]'a sahipse, Batış Tufanı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Eğer kullanıcı 10+ Sarsıntı Miktarı'na sahipse, uygulailen hasarın %40'ını bonus hasar olarak uygula"
+                  "desc": "[OnSucceedAttack] Eğer kullanıcı 10+ Sarsıntı Miktarı'na sahipse, uygulanan hasarın %40'ını bonus hasar olarak uygula"
                 }
               ]
             }
