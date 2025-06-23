@@ -11,14 +11,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +3 Sarsıntı Miktarı kazan"
+                                    "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] +2 Batış Miktarı uygula"
+                                    "desc": "[OnSucceedAttackHead] +2 [Sinking] Miktarı uygula"
                                 }
                             ]
                         }
@@ -27,19 +27,19 @@
                 {
                     "level": 2,
                     "name": "Ezilmeye Hazır",
-                    "desc": "[WhenUse] +3 Sarsıntı Miktarı kazan",
+                    "desc": "[WhenUse] +3 [Vibration] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +3 Sarsıntı Miktarı kazan"
+                                    "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] +2 Batış Miktarı uygula"
+                                    "desc": "[OnSucceedAttackHead] +2 [Sinking] Miktarı uygula"
                                 }
                             ]
                         }
@@ -48,19 +48,19 @@
                 {
                     "level": 4,
                     "name": "Ezilmeye Hazır",
-                    "desc": "[WhenUse] +3 Sarsıntı Miktarı kazan",
+                    "desc": "[WhenUse] +3 [Vibration] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +3 Sarsıntı Miktarı kazan"
+                                    "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +2 Batış Miktarı uygula"
+                                    "desc": "[OnSucceedAttack] +2 [Sinking] Miktarı uygula"
                                 }
                             ]
                         }
@@ -79,14 +79,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı uygula"
+                                    "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 6 Batış uygula"
+                                    "desc": "[OnSucceedAttack] 6 [Sinking] uygula"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] Sonraki turda 2 Defans Seviyesi Düşür uygula"
@@ -98,22 +98,22 @@
                 {
                     "level": 2,
                     "name": "Patlayıcı Darbe",
-                    "desc": "5+ Sarsıntı Miktarında, Jeton Gücü +1",
+                    "desc": "5+ [Vibration] Miktarında, Jeton Gücü +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +3 Sarsıntı Miktarı uygula"
+                                    "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı kazan"
+                                    "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 6 Batış uygula"
+                                    "desc": "[OnSucceedAttack] 6 [Sinking] uygula"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Sonraki turda 3 Defans Seviyesi Düşür uygula"
@@ -125,22 +125,22 @@
                 {
                     "level": 4,
                     "name": "Patlayıcı Darbe",
-                    "desc": "5+ Sarsıntı Miktarında, Jeton Gücü +1",
+                    "desc": "5+ [Vibration] Miktarında, Jeton Gücü +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +3 Sarsıntı Miktarı uygula"
+                                    "desc": "[OnSucceedAttack] +3 [Vibration] Miktarı uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı kazan"
+                                    "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 6 Batış uygula"
+                                    "desc": "[OnSucceedAttack] 6 [Sinking] uygula"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Sonraki turda 4 Defans Seviyesi Düşür uygula"
@@ -157,32 +157,32 @@
                 {
                     "level": 3,
                     "name": "Riskli Yargı",
-                    "desc": "5+ Sarsıntı Miktarında, Jeton Gücü +1\nEğer hedefte 6+ Batış varsa, %20 daha fazla hasar uygula",
+                    "desc": "5+ [Vibration] Miktarında, Jeton Gücü +1\nEğer hedefte 6+ [Sinking] varsa, %20 daha fazla hasar uygula",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +5 Batış Miktarı uygula"
+                                    "desc": "[OnSucceedAttack] +5 [Sinking] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 3 Batış uygula"
+                                    "desc": "[OnSucceedAttack] 3 [Sinking] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] 5 Sarsıntı Miktarı harcayarak sonraki turda 1 Kırılganlık uygula"
+                                    "desc": "[OnSucceedAttack] 5 [Vibration] Miktarı harcayarak sonraki turda 1 [Fragility] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 3 Batış uygula"
+                                    "desc": "[OnSucceedAttack] 3 [Sinking] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] 5 Sarsıntı Miktarı harcayarak sonraki turda 2 Kırılganlık uygula"
+                                    "desc": "[OnSucceedAttack] 5 [Vibration] Miktarı harcayarak sonraki turda 2 [Fragility] uygula"
                                 }
                             ]
                         }
@@ -191,32 +191,32 @@
                 {
                     "level": 4,
                     "name": "Riskli Yargı",
-                    "desc": "Kendindeki her 5 Sarsıntı Miktarı için Jeton Gücü +1 (Maks 2)\nEğer hedefte 6+ Batış varsa, %40 daha fazla hasar uygula",
+                    "desc": "Kendindeki her 5 [Vibration] Miktarı için Jeton Gücü +1 (Maks 2)\nEğer hedefte 6+ [Sinking] varsa, %40 daha fazla hasar uygula",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +5 Batış Miktarı uygula"
+                                    "desc": "[OnSucceedAttack] +5 [Sinking] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 3 Batış uygula"
+                                    "desc": "[OnSucceedAttack] 3 [Sinking] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] 5 Sarsıntı Miktarı harcayarak sonraki turda 1 Kırılganlık uygula"
+                                    "desc": "[OnSucceedAttack] 5 [Vibration] Miktarı harcayarak sonraki turda 1 [Fragility] uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 3 Batış uygula"
+                                    "desc": "[OnSucceedAttack] 3 [Sinking] uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] 5 Sarsıntı Miktarı harcayarak sonraki turda 2 Kırılganlık uygula"
+                                    "desc": "[OnSucceedAttack] 5 [Vibration] Miktarı harcayarak sonraki turda 2 [Fragility] uygula"
                                 }
                             ]
                         }
@@ -255,7 +255,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] 2 Kanama uygula"
+                                    "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                                 }
                             ]
                         }
@@ -270,7 +270,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 2 Kanama uygula"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 }
                             ]
                         }
@@ -285,7 +285,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 2 Kanama uygula"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 }
                             ]
                         }
@@ -298,14 +298,14 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Sonuna Kadar Takip Et!",
+                    "name": "Sonuna Kadar Takip Edin!",
                     "desc": "[WhenUse] En yüksek Rezon. değerinin her bir rezonansı için, bu birimin Dashboard'da hemen sağındaki müttefiğe bu turda [CoverAttack] kullanmasını emretme şansına %10 ekler.",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] 1 Kanama uygula"
+                                    "desc": "[OnSucceedAttackHead] 1 [Laceration] uygula"
                                 }
                             ]
                         },
@@ -320,14 +320,14 @@
                 },
                 {
                     "level": 2,
-                    "name": "Sonuna Kadar Takip Et!",
+                    "name": "Sonuna Kadar Takip Edin!",
                     "desc": "[WhenUse] En yüksek Rezon. değerinin her bir rezonansı için, bu birimin Dashboard'da hemen sağındaki müttefiğe bu turda [CoverAttack] kullanmasını emretme şansına %15 ekler.\n- 4+ en yüksek A-Rezon. varsa, müttefiğe 1 Hasar Yükselt uygula\n- 4+ Kibir A-Rezon. varsa, ek olarak 1 Kibir Güç Yükselt uygula",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 1 Kanama uygula"
+                                    "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                                 }
                             ]
                         },
@@ -342,14 +342,14 @@
                 },
                 {
                     "level": 4,
-                    "name": "Sonuna Kadar Takip Et!",
+                    "name": "Sonuna Kadar Takip Edin!",
                     "desc": "[StartBattle] Dashboard'da bu birime bitişik 2 müttefiğe 3 Saldırı Seviyesi Yükselt uygula\n[WhenUse] En yüksek Rezon. değerinin her bir rezonansı için, bu birimin Dashboard'da hemen sağındaki müttefiğe bu turda [CoverAttack] kullanmasını emretme şansına %20 ekler.\n- 4+ en yüksek A-Rezon. varsa, müttefiğe 2 Hasar Yükselt uygula\n- 4+ Kibir A-Rezon. varsa, ek olarak 2 Kibir Güç Yükselt uygula",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 2 Kanama uygula"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 }
                             ]
                         },
@@ -376,14 +376,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +1 Kanama Miktarı uygula"
+                                    "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 2 Kanama uygula"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 }
                             ]
                         },
@@ -405,14 +405,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +1 Kanama Miktarı uygula"
+                                    "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 2 Kanama uygula"
+                                    "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                                 }
                             ]
                         },
