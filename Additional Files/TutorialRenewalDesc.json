@@ -150,7 +150,7 @@
     },
     {
       "id": "tuto_00_03_01_04",
-      "content": "Her birimin <color=#89CFF0>SP<color=#ebcaa2> değeri belli unsurlara bağlı olarak değişir.\nÇoğunlukla avantajlı durumlarda <color=#89CFF0>SP<color=#ebcaa2> yenilerler <color=#f8c200>(Çarpışma kazanmak veya düşman öldürmek),<color=#ebcaa2>\nAksi durumlarda ise <color=#f8c200>SP kaybederler.<color=#ebcaa2>"
+      "content": "Her birimin <color=#89CFF0>SP<color=#ebcaa2> değeri belli unsurlara bağlı olarak değişir.\nÇoğunlukla avantajlı durumlarda <color=#89CFF0>SP<color=#ebcaa2> yenilerler <color=#008000>(Çarpışma kazanmak veya düşman öldürmek),<color=#ebcaa2>\nAksi durumlarda ise <color=#FF0000>SP kaybederler.<color=#ebcaa2>"
     },
     {
       "id": "tuto_00_03_01_05",
@@ -314,7 +314,7 @@
     },
     {
       "id": "tuto_01_02_04_02",
-      "content": "Meursault'un Pasifi, bir <color=#008000>Sahiplik<color=#ebcaa2> Pasifi.\n\n<color=#f8c200><Sahiplik Pasifleri><color=#ebcaa2> gerekli <color=#f8c200>E.G.O kaynaklarına<color=#ebcaa2> sahip olduğun sürece her tur otomatik olarak aktive olurlar."
+      "content": "Meursault'un Pasifi, bir <color=#008000>Sahiplik<color=#ebcaa2> Pasifi.\n\n<color=#008000>Sahiplik Pasifleri<color=#ebcaa2> gerekli <color=#f8c200>E.G.O kaynaklarına<color=#ebcaa2> sahip olduğun sürece her tur otomatik olarak aktive olurlar."
     },
     {
       "id": "tuto_01_02_04_03",
@@ -534,35 +534,35 @@
     },
     {
       "id": "tuto_01_09_01_06",
-      "content": "-Başlangıç harici- E.G.O Yetenekleri, düşük <color=#89CFF0>SP<color=#ebcaa2> değerlerine sahipsen <color=#FF0000>Korozyon<color=#ebcaa2> geçirme şansına sahiplerdir.\nDikkat: <color=#FF0000>Korozyon<color=#ebcaa2>, Günahkârın E.G.O tarafından ele geçirilmesine ve düşman yahut müttefik farketmeksizin bir <color=#FF0000>Korozyon<color=#ebcaa2> Yeteneği kullanmasına yol açar.\n<color=#FF0000>Korozyon<color=#ebcaa2> geçirme şansını burada görebilirsin."
+      "content": "-Başlangıç harici- E.G.O Yetenekleri, düşük <color=#89CFF0>SP<color=#ebcaa2> değerlerine sahipsen <color=#FF4500>Korozyon<color=#ebcaa2> geçirme şansına sahiplerdir.\nDikkat: <color=#FF4500>Korozyon<color=#ebcaa2>, Günahkârın E.G.O tarafından ele geçirilmesine ve düşman yahut müttefik farketmeksizin bir <color=#FF4500>Korozyon<color=#ebcaa2> Yeteneği kullanmasına yol açar.\n<color=#FF4500>Korozyon<color=#ebcaa2> geçirme şansını burada görebilirsin."
     },
     {
       "id": "tuto_01_09_01_07",
-      "content": "Reaching <color=#FF0000>-45 <color=#89CFF0>SP<color=#ebcaa2> will guarantee that the Sinner enters <color=#FF0000>E.G.O Korozyonu<color=#ebcaa2> state.\nIn an <color=#FF0000>E.G.O Korozyonu<color=#ebcaa2> state, the Sinner will indiscriminately attack both allies and enemies."
+      "content": "<color=#FF0000>-45 <color=#89CFF0>SP<color=#ebcaa2>'ye ulaşmak, Günahkârın <color=#FF4500>E.G.O Korozyonu<color=#ebcaa2> durumuna girmesini garantiler.\n<color=#FF4500>E.G.O Korozyonu<color=#ebcaa2> durumunda, Günahkâr düşman veya müttefiklere ayırt etmeden saldıracaktır."
     },
     {
       "id": "tuto_01_09_01_08",
-      "content": "The Sinner will recover from the <color=#FF0000>E.G.O Korozyonu<color=#ebcaa2> state next turn, and their <color=#89CFF0>SP<color=#ebcaa2> will reset to 0."
+      "content": "<color=#FF4500>E.G.O Korozyonu<color=#ebcaa2> durumu yalnızca bir tur sürer ve Günahkâr bir sonraki tur kurtulur.<color=#89CFF0>SP<color=#ebcaa2>'si, 0'a çekilir."
     },
     {
       "id": "tuto_01_09_01_09",
-      "content": "Let's try the <color=#f8c200><E.G.O Overclock><color=#ebcaa2> this time. Press and hold Ryōshū's portrait."
+      "content": "Şimdi, <color=#FFA500>E.G.O Aşırtmasını<color=#ebcaa2> deneyelim. Ryōshū'nun portresine basılı tut."
     },
     {
       "id": "tuto_01_09_01_10",
-      "content": "Press and hold the E.G.O Skill card to <color=#f8c200><E.G.O Overclock><color=#ebcaa2> it.\nUsing <E.G.O Overclock> <color=#f8c200>forces the Sinner to use the <color=#FF0000>Korozyon<color=#ebcaa2> Skill<color=#ebcaa2> of the E.G.O."
+      "content": "<color=#FFA500>Aşırtmak<color=#ebcaa2> için E.G.O Kartına basılı tut.\n<color=#FFA500>E.G.O Aşırtması<color=#ebcaa2>, Günahkârın güvenli bir şekilde <color=#FF4500>Korozyon<color=#ebcaa2> Yeteneğini kullanmasını sağlar."
     },
     {
       "id": "tuto_01_09_01_11",
-      "content": "If you have enough resources to use the Overclocked E.G.O Skill, it will activate as <color=#f8c200>Stable Overclock<color=#ebcaa2>. If not, it will activate as <color=#f8c200>Unstable Overclock<color=#ebcaa2>."
+      "content": "Eğer Aşırtmak için yeterince Günah Kaynağına sahipsen, bir <color=#a5c90f>Stabil Aşırtma<color=#ebcaa2> gerçekleşir. Lakin yeterince kaynağa sahip değilsen, onun yerini <color=#FF4500>Dengesiz Aşırtma<color=#ebcaa2> alacaktır."
     },
     {
       "id": "tuto_01_09_01_12_title",
-      "content": "Stable Overclock"
+      "content": "Stabil Aşırtma"
     },
     {
       "id": "tuto_01_09_01_12",
-      "content": "Activating <color=#f8c200><Stable Overclock><color=#ebcaa2> consumes <color=#f8c200>1.5 times the resources (including <color=#89CFF0>SP<color=#ebcaa2>)<color=#ebcaa2> compared to a non-Overclocked E.G.O, but it does <color=#f8c200>not target allies<color=#ebcaa2>.\nWarning: Even a Stable Overclock can <color=#f8c200>Corrode<color=#ebcaa2> your Sinners if their <color=#f8c200>SP value is low<color=#ebcaa2>."
+      "content": "<color=#a5c90f>Stabil Aşırtma<color=#ebcaa2>, Aşırtılmamış E.G.O'ya kıyasla bütün kaynakların 1.5 katını ister (<color=#89CFF0>SP<color=#ebcaa2> dahil), lakin <color=#FF4500>Korozyon<color=#ebcaa2> Yeteneğini kullanmasına rağmen <color=#FF4500>Korozyon<color=#ebcaa2> aksine <color=#008000>müttefikleri hedeflemez<color=#ebcaa2>.\nDikkat: Bir <color=#a5c90f>Stabil Aşırtma<color=#ebcaa2> bile eğer Günahkârın <color=#89CFF0>SP<color=#ebcaa2> değeri yeterince düşükse <color=#FF4500>Korozyon<color=#ebcaa2> geçirmesine yol açabilir."
     },
     {
       "id": "tuto_01_09_01_13_title",
