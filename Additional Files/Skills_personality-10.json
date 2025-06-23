@@ -1443,54 +1443,9 @@
                             ]
                         }
                     ]
-                },
-                {
-                    "id": 1101204,
-                    "levelList": [
-                        {
-                            "level": 1,
-                            "name": "Warmup in the East",
-                            "desc": "[StartBattle] Gain 20% of missing HP as Shield (once per turn)",
-                            "coinlist": [
-                                {
-                                    "coindescs": [
-                                        {
-                                            "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "coindescs": [
-                                        {
-                                            "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "level": 4,
-                            "name": "Warmup in the East",
-                            "desc": "<style=\"highlight\">[StartBattle] Skill behavior changes based on the sum of Envy A-Reson.:\n- At 4+ sum of A-Reson., use 'Payback with Interest' as Counter\n- At 6+ sum of A-Reson., use 'Write 'em all down' as Counter\n(Activates from the leftmost Skill Slot. Activates 2 times per turn)</style>\n[StartBattle] Gain <style=\"highlight\">30%</style> of missing HP as Shield (once per turn)",
-                            "coinlist": [
-                                {
-                                    "coindescs": [
-                                        {
-                                            "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "coindescs": [
-                                        {
-                                            "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
+                }
+            ]
+        },
                 {
                     "id": 1101301,
                     "levelList": [
@@ -1795,11 +1750,9 @@
                             "desc": "Inflict <style=\"highlight\">2</style> [Vibration] against the Attacker when hit as long as this unit has remaining Shield (<style=\"highlight\">4</style> times per turn)",
                             "coinlist": [
                                 {}
-                            ]
-                        }
-                    ]
-                }
-            ]
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }
