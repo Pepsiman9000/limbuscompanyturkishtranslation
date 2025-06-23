@@ -1149,20 +1149,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Double Slash - Blast [爆]",
+          "name": "İkili Kesiş - Patlama [爆]",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]"
+                  "desc": "1 [BulletPropellantAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] ver"
                 }
               ]
             }
@@ -1170,26 +1170,26 @@
         },
         {
           "level": 2,
-          "name": "Double Slash - Blast [爆]",
-          "desc": "<style=\"highlight\">Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 2)</style>",
+          "name": "İkili Kesiş - Patlama [爆]",
+          "desc": "<style=\"highlight\">Ana hedefin üzerindeki toplam her 4 [Combustion] ve [Vibration] için Final Gücü +1 (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Vibration]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 1 [Vibration] ver</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] ver<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1197,26 +1197,26 @@
         },
         {
           "level": 4,
-          "name": "Double Slash - Blast [爆]",
-          "desc": "Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max <style=\"highlight\">3</style>)",
+          "name": "İkili Kesiş - Patlama [爆]",
+          "desc": "Ana hedefin üzerindeki toplam her 4 [Combustion] ve [Vibration] için Final Gücü +1 (maks <style=\"highlight\">3</style>)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] ver<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Vibration] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Vibration] ver"
                 }
               ]
             }
@@ -1229,33 +1229,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Triple Slash - Blast [爆]",
+          "name": "Üçlü Kesiş - Patlama [爆]",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]"
+                  "desc": "1 [BulletPropellantAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]"
+                  "desc": "1 [BulletPropellantAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı ver"
                 }
               ]
             }
@@ -1263,42 +1263,42 @@
         },
         {
           "level": 2,
-          "name": "Triple Slash - Blast [爆]",
-          "desc": "<style=\"highlight\">Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 2)</style>",
+          "name": "Üçlü Kesiş - Patlama [爆]",
+          "desc": "<style=\"highlight\">Ana hedefin üzerindeki toplam her 4 [Combustion] ve [Vibration] için Final Gücü +1 (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Vibration]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 1 [Vibration] ver</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] ver<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Eğer hedefte +3 [Vibration] Miktarı varsa, [VibrationExplosion]ı tetikle; sonra, hedefin [Vibration] Miktarını 1 azalt</style>"
                 }
               ]
             }
@@ -1306,42 +1306,42 @@
         },
         {
           "level": 4,
-          "name": "Triple Slash - Blast [爆]",
-          "desc": "Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max <style=\"highlight\">4</style>)",
+          "name": "Üçlü Kesiş - Patlama [爆]",
+          "desc": "Ana hedefin üzerindeki toplam her 4 [Combustion] ve [Vibration] için Final Gücü +1 (maks <style=\"highlight\">4</style>)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] ver<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Vibration] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Combustion] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "1 [BulletPropellantAlly] ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +<style=\"highlight\">2</style> [Vibration] Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Combustion] Count"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">+2</style> [Combustion] Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Eğer hedefte +3 [Vibration] Miktarı varsa, [VibrationExplosion]ı tetikle; sonra, hedefin [Vibration] Miktarını 1 azalt<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1354,48 +1354,48 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Tanglecleaver [快刀亂麻]",
-          "desc": "If this unit has [BulletPropellantSpecialAlly], activate 'Savage Tigerslayer's Perfected Flurry of Blades' instead\n- [BeforeUse] If this unit does not have [BulletPropellantSpecialAlly], cancel activation\nIf the main target has 8+ (sum of [Combustion] and [Vibration]), Coin Power +1",
+          "name": "Sorun Çözücü [快刀亂麻]",
+          "desc": "Eğer bu karakter [BulletPropellantSpecialAlly]a sahipse, bunun yerine 'Vahşi Kaplan Avcısı'nın Mükemmel Kılıç Darbeleri' ni etkinleşir\n- [BeforeUse] Eğer bu karakterde [BulletPropellantSpecialAlly] yoksa, etkinleştirmeyi iptal et\nEğer ana hedefte toplam 8+ [Combustion] ve [Vibration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]"
+                  "desc": "1 [BulletPropellantAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]"
+                  "desc": "1 [BulletPropellantAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +2 [Combustion] Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]"
+                  "desc": "1 [BulletPropellantAlly] harca"
                 },
                 {
-                  "desc": "If this unit spent [BulletPropellantAlly] due to this Coin's effect, deal +20% damage"
+                  "desc": "Eğer bu karakter bu Jeton yüzünden [BulletPropellantAlly] harcadıysa, +20% daha fazla hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[OnSucceedAttack] [Switch_Vibration]ı tetikleyerek [VibrationIgnition]a çevir"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When spending [BulletPropellantAlly], activate the above effect once more"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]ı tetikle; sonra, hedefin [Vibration] Miktarını 1 azalt\n- [BulletPropellantAlly] harcarken, yukarıdaki efekti bir defa daha kullan"
                 }
               ]
             }
@@ -1403,48 +1403,48 @@
         },
         {
           "level": 4,
-          "name": "Tanglecleaver [快刀亂麻]",
-          "desc": "If this unit has [BulletPropellantSpecialAlly], activate 'Savage Tigerslayer's Perfected Flurry of Blades' instead\n- [BeforeUse] If this unit does not have [BulletPropellantSpecialAlly], cancel activation\n<style=\"highlight\">Coin Power +1 for every 8 (sum of [Combustion] and [Vibration] on the main target), (max 2)</style>",
+          "name": "Sorun Çözücü [快刀亂麻]",
+          "desc": "Eğer bu karakter [BulletPropellantSpecialAlly]a sahipse, bunun yerine 'Vahşi Kaplan Avcısı'nın Mükemmel Kılıç Darbeleri' ni etkinleşir\n- [BeforeUse] Eğer bu karakterde [BulletPropellantSpecialAlly] yoksa, etkinleştirmeyi iptal et\n Ana hedefteki her 8 [Combustion] ve [Vibration] için, Jeton Gücü +1, (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Vibration] ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Combustion] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+3</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">+3</style> [Vibration] Miktarı ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+3</style> [Combustion] Count"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">+3</style> [Combustion] Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "If this unit spent [BulletPropellantAlly] due to this Coin's effect, deal <style=\"highlight\">+50%</style> damage"
+                  "desc": "Eğer bu karakter bu Jeton yüzünden [BulletPropellantAlly] harcadıysa, <style=\"highlight\">+50%</style> daha fazla hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [Switch_Vibration]ı tetikleyerek [VibrationIgnition]a çevir<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When spending [BulletPropellantAlly], activate the above effect <style=\"highlight\">2</style> more times"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]ı tetikle; sonra, hedefin [Vibration] Miktarını 1 azalt\n- [BulletPropellantAlly] harcarken, yukarıdaki efekti <style=\"highlight\">2</style> defa daha kullan"
                 }
               ]
             }
@@ -1457,14 +1457,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'm Burning Up.",
-          "desc": "[DuelCounter]\nIf the main target has 4+ (sum of [Combustion] and [Vibration]), Final Power +1\nIf [BulletPropellantAlly] (or [BulletPropellantSpecialAlly]) is at 0, Clash Power +1",
+          "name": "Yanıyorum.",
+          "desc": "[DuelCounter]\nEğer hedefte toplam 4+ [Combustion] ve [Vibration] varsa, Final Gücü +1\nEğer [BulletPropellantAlly] (ya da [BulletPropellantSpecialAlly]) 0 ise, Çarpışma Gücü +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count (2 times per turn)"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı ver (tur başına 2 defa)"
                 }
               ]
             }
@@ -1472,20 +1472,20 @@
         },
         {
           "level": 4,
-          "name": "I'm Burning Up.",
-          "desc": "[DuelCounter]\n<style=\"highlight\">Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 2)</style>\nIf [BulletPropellantAlly] (or [BulletPropellantSpecialAlly]) is at 0, Clash Power <style=\"highlight\">+2</style>",
+          "name": "Yanıyorum.",
+          "desc": "[DuelCounter]\n<style=\"highlight\">Ana hedefin üzerindeki toplam her 4 [Combustion] ve [Vibration] için Final Gücü +1 (maks 2)</style>\nEğer [BulletPropellantAlly] (ya da [BulletPropellantSpecialAlly]) 0 ise, Çarpışma Gücü <style=\"highlight\">+2</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Vibration] (2 times per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 1 [Vibration] ver(tur başına 2 defa)</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count (2 times per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı ver (tur başına 2 defa)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1498,53 +1498,53 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]",
-          "desc": "If the main target has 8+ (sum of [Combustion] and [Vibration]), Coin Power +1",
+          "name": "Vahşi Kaplan Avcısı'nın Mükemmel Kılıç Darbeleri [超絕猛虎殺擊亂斬]",
+          "desc": "Eğer ana hedefte toplam 8+ [Combustion] ve [Vibration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantSpecialAlly]"
+                  "desc": "1 [BulletPropellantSpecialAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantSpecialAlly]"
+                  "desc": "1[BulletPropellantSpecialAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +2 [Combustion] Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantSpecialAlly]"
+                  "desc": "1 [BulletPropellantSpecialAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[OnSucceedAttack] [Switch_Vibration]ı tetikleyerek [VibrationIgnition]a çevir"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When spending [BulletPropellantSpecialAlly], activate the above effect once more"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]ı tetikle; sonra, hedefin [Vibration] Miktarını 1 azalt\n- [BulletPropellantSpecialAlly] harcarken, yukarıdaki efekti bir kere daha kullan"
                 }
               ]
             }
@@ -1552,53 +1552,53 @@
         },
         {
           "level": 4,
-          "name": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 8 (sum of [Combustion] and [Vibration] on the main target) (max 2)</style>",
+          "name": "Vahşi Kaplan Avcısı'nın Mükemmel Kılıç Darbeleri [超絕猛虎殺擊亂斬]",
+          "desc": "<style=\"highlight\">Ana hedefteki her 8 [Combustion] ve [Vibration] için, Jeton Gücü +1, (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Vibration] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+3</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">+3</style> [Vibration] Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                  "desc": "1 [BulletPropellantSpecialAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Combustion] ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                  "desc": "1[BulletPropellantSpecialAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+3</style> [Combustion] Count"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">+3</style> [Combustion] Miktarı ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                  "desc": "1 [BulletPropellantSpecialAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [Switch_Vibration]ı tetikleyerek [VibrationIgnition]a çevir<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When spending [BulletPropellantSpecialAlly], activate the above effect <style=\"highlight\">2</style> more times"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]ı tetikle; sonra, hedefin [Vibration] Miktarını 1 azalt\n- [BulletPropellantSpecialAlly] harcarken, yukarıdaki efekti <style=\"highlight\">2</style> defa daha kullan"
                 }
               ]
             }
