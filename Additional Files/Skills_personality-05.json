@@ -147,7 +147,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Hedef İntikam Damgası'na sahipse, Sonraki tur 1 Pozitif Jeton DÜşüşü ver"
+                  "desc": "[OnSucceedAttack] Hedef İntikam Damgası'na sahipse, Sonraki tur 1 Pozitif Jeton Düşüşü ver"
                 }
               ]
             },
@@ -1159,10 +1159,10 @@
                   "desc": "1 [BulletPropellantAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 [Vibration] ver"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 [Combustion] ver"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             }
@@ -1176,7 +1176,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 1 [Vibration] ver</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 1 [Vibration] uygula</style>"
                 }
               ]
             },
@@ -1186,10 +1186,10 @@
                   "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 [Vibration] ver<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 [Combustion] ver<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1203,7 +1203,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 [Vibration] ver<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] uygula<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1213,10 +1213,10 @@
                   "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Vibration] ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Vibration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Vibration] ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Vibration] uygula"
                 }
               ]
             }
@@ -1239,10 +1239,10 @@
                   "desc": "1 [BulletPropellantAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 [Vibration] ver"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 [Combustion] ver"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
@@ -1252,10 +1252,10 @@
                   "desc": "1 [BulletPropellantAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı ver"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı ver"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı uygula"
                 }
               ]
             }
@@ -1269,7 +1269,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 1 [Vibration] ver</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 1 [Vibration] uygula</style>"
                 }
               ]
             },
@@ -1279,10 +1279,10 @@
                   "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 [Vibration] ver<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 1 [Combustion] ver<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1292,10 +1292,10 @@
                   "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı ver<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı ver<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı uygula<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Eğer hedefte +3 [Vibration] Miktarı varsa, [VibrationExplosion]ı tetikle; sonra, hedefin [Vibration] Miktarını 1 azalt</style>"
@@ -1312,7 +1312,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 [Vibration] ver<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] uygula<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1322,10 +1322,10 @@
                   "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Vibration] ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Vibration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Combustion] ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Combustion] uygula"
                 }
               ]
             },
@@ -1335,10 +1335,10 @@
                   "desc": "1 [BulletPropellantAlly] ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +<style=\"highlight\">2</style> [Vibration] Miktarı ver"
+                  "desc": "[OnSucceedAttack] +<style=\"highlight\">2</style> [Vibration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">+2</style> [Combustion] Miktarı ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">+2</style> [Combustion] Miktarı uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Eğer hedefte +3 [Vibration] Miktarı varsa, [VibrationExplosion]ı tetikle; sonra, hedefin [Vibration] Miktarını 1 azalt<style=\"highlight\"></style>"
@@ -1363,10 +1363,10 @@
                   "desc": "1 [BulletPropellantAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 [Vibration] ver"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 [Combustion] ver"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] uygula"
                 }
               ]
             },
@@ -1376,10 +1376,10 @@
                   "desc": "1 [BulletPropellantAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı ver"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +2 [Combustion] Miktarı ver"
+                  "desc": "[OnSucceedAttack] +2 [Combustion] Miktarı uygula"
                 }
               ]
             },
@@ -1412,10 +1412,10 @@
                   "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Vibration] ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Vibration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Combustion] ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Combustion] uygula"
                 }
               ]
             },
@@ -1425,10 +1425,10 @@
                   "desc": "1 [BulletPropellantAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">+3</style> [Vibration] Miktarı ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">+3</style> [Vibration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">+3</style> [Combustion] Miktarı ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">+3</style> [Combustion] Miktarı uygula"
                 }
               ]
             },
@@ -1464,7 +1464,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı ver (tur başına 2 defa)"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı uygula (tur başına 2 defa)"
                 }
               ]
             }
@@ -1478,14 +1478,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 1 [Vibration] ver(tur başına 2 defa)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 1 [Vibration] uygula(tur başına 2 defa)</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı ver (tur başına 2 defa)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı uygula (tur başına 2 defa)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1504,14 +1504,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Vibration] ver"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı ver"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı uygula"
                 }
               ]
             },
@@ -1521,7 +1521,7 @@
                   "desc": "1 [BulletPropellantSpecialAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 [Combustion] ver"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] uygula"
                 }
               ]
             },
@@ -1531,7 +1531,7 @@
                   "desc": "1[BulletPropellantSpecialAlly] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +2 [Combustion] Miktarı ver"
+                  "desc": "[OnSucceedAttack] +2 [Combustion] Miktarı uygula"
                 }
               ]
             },
@@ -1558,14 +1558,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Vibration] ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">+3</style> [Vibration] Miktarı ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">+3</style> [Vibration] Miktarı uygula"
                 }
               ]
             },
@@ -1575,7 +1575,7 @@
                   "desc": "1 [BulletPropellantSpecialAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Combustion] ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Combustion] uygula"
                 }
               ]
             },
@@ -1585,7 +1585,7 @@
                   "desc": "1[BulletPropellantSpecialAlly] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">+3</style> [Combustion] Miktarı ver"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">+3</style> [Combustion] Miktarı uygula"
                 }
               ]
             },
