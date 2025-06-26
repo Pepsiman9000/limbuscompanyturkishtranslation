@@ -8,12 +8,12 @@
         {
             "id": "lobby_morning_10712_1",
             "desc": "Morning Greeting",
-            "dlg": "Sun's up, time to get off your arses. Think I'll go on a patrol to see if there's anyone stupid enough to loiter around 'our' businesses. Might as well collect some protection money, too."
+            "dlg": "Gün doğdu, time to get off your arse. Think I'll go on a patrol to see if there's anyone stupid enough to loiter around 'our' businesses. Might as well collect some protection money, too."
         },
         {
             "id": "lobby_noon_10712_1",
             "desc": "Afternoon Greeting",
-            "dlg": "Oi, you there. Yeah, you. You've got to be one mad or stupid lad to saunter into our area in the middle of the—\nOh, hang on a minute. Were you eyin' my tats? Well, why didn't you say so from the beginning? Fine, take a gander. Just a little bit, though. Now fuck off kindly."
+            "dlg": "Pşt, ordaki. Aynen, sen. You've got to be one mad or stupid lad to saunter into our area in the middle of the—\nOh, hang on a minute. Were you eyin' my tats? Well, why didn't you say so from the beginning? Fine, take a gander. Just a little bit, though. Now fuck off kindly."
         },
         {
             "id": "lobby_night_10712_1",
@@ -23,12 +23,12 @@
         {
             "id": "smalltalk_10712_1",
             "desc": "Chatter #1",
-            "dlg": "Didya hear? Apparently three of the Ten Blades of the East'll be showin' up to the meeting.\nTsk, our Patriarch would've been one of 'em too if those Thumb fuckers hadn't cut off his wrist."
+            "dlg": "Duydun mu? Apparently three of the Ten Blades of the East'll be showin' up to the meeting.\nTsk, our Patriarch would've been one of 'em too if those Thumb fuckers hadn't cut off his wrist."
         },
         {
             "id": "smalltalk_10712_2",
             "desc": "Chatter #2",
-            "dlg": "Why do I keep one hand in a pocket? Oi, haven't you heard the old Syndicate wisdom? Always keep a trick up your britches, yeah?\nWha? It's sleeve, not britches? ... Well, it's all the same to me, ya little nit-pickin' bag of shite."
+            "dlg": "Niye mi tek elim cebimde takılıyorum? Oi, haven't you heard the old Syndicate wisdom? Always keep a trick up your britches, yeah?\nWha? It's sleeve, not britches? ... Well, it's all the same to me, ya little nit-pickin' bag of shite."
         },
         {
             "id": "smalltalk_10712_3",
@@ -93,7 +93,7 @@
         {
             "id": "battle_dead_10712_1",
             "desc": "Death",
-            "dlg": "I've cut though enough of 'em... I'll leave the rest to you..."
+            "dlg": "Yeterli kadarını kestim... Kalanı sizde..."
         },
         {
             "id": "choice_success_p_10712_2",
