@@ -574,39 +574,39 @@
     },
     {
       "id": "tuto_01_11_abbattle_01_01",
-      "content": "Entities known as <color=#f8c200>Abnormalities<color=#ebcaa2> may be found in Dungeons."
+      "content": "Zindanların içerisinde, <color=#FF3333>Anomali<color=#ebcaa2> denilen yaratıklarla karşılaşacaksın."
     },
     {
       "id": "tuto_01_11_abbattle_01_02",
-      "content": "A different kind of approach is needed in Encounters against Abnormalities."
+      "content": "Bu <color=#FF3333>Anomaliler<color=#ebcaa2> ile yapılan savaşlarda, alıştığımız usulun dışında bir yaklaşım gerekir."
     },
     {
       "id": "tuto_01_11_abbattle_01_03",
-      "content": "Battles that employ this different approach are called <color=#f8c200>Focused Encounters<color=#ebcaa2>. Let's explore its mechanics."
+      "content": "Bu özgün yaklaşımı gerektiren karşılaşmalara <color=#f8c200>Odaklı Karşılaşma<color=#ebcaa2> denir. Bakalım nasıl çalışıyorlarmış."
     },
     {
       "id": "tuto_01_11_abbattle_01_04",
-      "content": "All abnormalities have one or more <color=#f8c200>Parts<color=#ebcaa2>."
+      "content": "Her <color=#FF3333>Anomalinin<color=#ebcaa2> bir veya daha fazla <color=#FFE5CC>Uzuvu<color=#ebcaa2> vardır."
     },
     {
       "id": "tuto_01_11_abbattle_01_05",
-      "content": "Each Part has their own set of Skill Slots and Speed values."
+      "content": "Her <color=#FFE5CC>Uzuvun<color=#ebcaa2> ise kendine özgü Yetenekleri ve Hız değerleri vardır."
     },
     {
       "id": "tuto_01_11_abbattle_01_06_title",
-      "content": "Abnormality Parts"
+      "content": "Anomalilerin Uzuvları"
     },
     {
       "id": "tuto_01_11_abbattle_01_06",
-      "content": "Abnormalities often have multiple Parts that can be targeted.\n\nEach Part uses Skills from its assigned Skill Slots, and its Speed values can change from turn to turn."
+      "content": "<color=#FF3333>Anomalilerin<color=#ebcaa2> çoğu zaman sersemleyebilen birden çok <color=#FFE5CC>Uzuvu<color=#ebcaa2> vardır.\n\nHer <color=#FFE5CC>Uzuv<color=#ebcaa2> kendi Yetenek Yuvalarını kullanır ve kendi Hız değerine sahiptir."
     },
     {
       "id": "tuto_01_11_abbattle_01_07",
-      "content": "In Focused Encounters, you must select the Sinners' Skill icons and chain them <color=#f8c200>directly<color=#ebcaa2> to the Abnormalities' Skill Slots."
+      "content": "Odaklı Karşılaşmalarda, soldan sağa doğru Yetenek seçmek yerine Günahkârın kullanmak istediğin Yeteneğini <color=#f8c200>direkt olarak<color=#ebcaa2> seçip, sürükleyerek <color=#FF3333>Anomalinin<color=#ebcaa2> Yetenek Yuvasına götürürsün."
     },
     {
       "id": "tuto_01_11_abbattle_01_08",
-      "content": "Select a Skill from the leftmost column of the Dashboard."
+      "content": "Panelin en solundaki sütundan bir Yetenek seç."
     },
     {
       "id": "tuto_01_11_abbattle_01_09",
@@ -726,7 +726,7 @@
     },
     {
       "id": "tuto_01_11_snow_white_01_03",
-      "content": "You may encounter Abnormalities with <color=#f8c200>multiple Parts<color=#ebcaa2> in the dungeons you explore.\nIn such cases, each Part may have different Resistances, Passives, and Skills."
+      "content": "You may encounter <color=#FF3333>Anomali<color=#ebcaa2> with <color=#f8c200>multiple <color=#FFE5CC>Uzuv<color=#ebcaa2><color=#ebcaa2> in the dungeons you explore.\nIn such cases, each <color=#FFE5CC>Uzuvu<color=#ebcaa2> may have different Resistances, Passives, and Skills."
     },
     {
       "id": "tuto_01_11_snow_white_01_04",
@@ -734,7 +734,7 @@
     },
     {
       "id": "tuto_01_11_snow_white_02_01",
-      "content": "You destroyed a Part of the Abnormality. Let us consult the Abnormality Guide to see if anything has been updated."
+      "content": "You destroyed a <color=#FFE5CC>Uzuvu<color=#ebcaa2> of the Abnormality. Let us consult the Abnormality Guide to see if anything has been updated."
     },
     {
       "id": "tuto_01_11_snow_white_02_02",
@@ -742,7 +742,7 @@
     },
     {
       "id": "tuto_01_11_snow_white_02_03",
-      "content": "Physical Resistance values for <color=#f8c200>Destroyed<color=#ebcaa2> Parts become <color=#f8c200>Fatal<color=#ebcaa2>.\nPlease note that Parts marked as <color=#f8c200>Severable<color=#ebcaa2> cannot be attacked again once Destroyed, unless they regenerate."
+      "content": "Physical Resistance values for <color=#f8c200>Destroyed<color=#ebcaa2> <color=#FFE5CC>Uzuv<color=#ebcaa2> become <color=#f8c200>Fatal<color=#ebcaa2>.\nPlease note that <color=#FFE5CC>Uzuv<color=#ebcaa2> marked as <color=#f8c200>Severable<color=#ebcaa2> cannot be attacked again once Destroyed, unless they regenerate."
     },
     {
       "id": "tuto_01_11_snow_white_02_04",
