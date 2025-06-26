@@ -4,7 +4,7 @@
             "id": 0,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Ah! Lütfen, gelin peyrev eyleyin!"
         },
         {
@@ -22,7 +22,7 @@
             "id": 3,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Nitekim, zaten bilfiil öğrenmektesiniz!"
         },
         {
@@ -48,7 +48,7 @@
             "id": 8,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Cık cık, hamfendi bu kadar sabırsız olunamaz, kemâle hemencecik erilemez!"
         },
         {
@@ -59,18 +59,18 @@
             "id": 10,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Sualim olur şahsınıza! Zat-ı suhtenizin Cinq Birliğinin amacı hakkındaki efkarı nedir acaba?"
         },
         {
             "id": 11,
-            "teller": "Interviewer",
+            "teller": "Muhbir",
             "title": "???",
             "content": "Şey... düello yapılan bir Birlik, değil mi?"
         },
         {
             "id": 12,
-            "teller": "Interviewer",
+            "teller": "Muhbir",
             "title": "???",
             "content": "Müvekkilerinizin yerine siz düellolara çıkıyorsunuz... yanılmıyorsam?"
         },
@@ -78,24 +78,24 @@
             "id": 13,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Ha ha! Filvaki, Zat-ı suhteniz filhakika kırk fırın ekmeğe muhtazır!"
         },
         {
             "id": 14,
-            "teller": "Interviewer",
+            "teller": "Muhbir",
             "title": "???",
             "content": "...Adalet adına düelloya tâbi tutmak için despot filan arıyorum demeyeceksiniz, değil mi?"
         },
         {
             "id": 15,
-            "teller": "Interviewer",
+            "teller": "Muhbir",
             "title": "???",
             "content": "'Adaletin Ulvi Koruyucusu' gibi saçma bir rol kendinize biçmiş değilsiniz ya. Birilerinin <i>Deschaux Manastırında Kardinal'in adamlarıyla düello ettiklerini duymuştum</i> , ne kadar abes."
         },
         {
             "id": 16,
-            "teller": "Interviewer",
+            "teller": "Muhbir",
             "title": "???",
             "content": "Gerçi, bu kadar çocuksu bir felsefeyle sektörde bu kadar ilerleyemezdiniz zaten, haksızmıyım?"
         },
@@ -103,7 +103,7 @@
             "id": 17,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Ahem! Eee..."
         },
         {
@@ -114,7 +114,7 @@
             "id": 19,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "...O derecede muhayyile ehli olmadığım aşikar... Demem o ki, benim teşvik kaynağım daha pratik timsallerle alakadar."
         },
         {
@@ -127,7 +127,7 @@
         },
         {
             "id": 22,
-            "teller": "Interviewer",
+            "teller": "Muhbir",
             "title": "???",
             "content": "Noluyor orada...? Birileri düello talebinde mi bulunmuş?"
         },
@@ -135,12 +135,12 @@
             "id": 23,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Zannolunmaz! Birliğe itafen gönderilmiş olan bütün talepleri evvelce şürekalarıma iletmiştim."
         },
         {
             "id": 24,
-            "teller": "Interviewer",
+            "teller": "Muhbir",
             "title": "???",
             "content": "O zaman noluyor..."
         },
@@ -148,14 +148,14 @@
             "id": 25,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Zat-ı suhteniz şimdi idrak eyledi mi? Nedir Cinq Birliğinin müşehadat meşguliyetleri."
         },
         {
             "id": 26,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Filvaki <i>Vukuat Var</i>~"
         },
         {
@@ -174,13 +174,13 @@
             "id": 29,
             "teller": "Hırslı Kavgacı",
             "title": "???",
-            "content": "N- Ne, seni gidi kurnaz şey... Benimkinin yerine de!"
+            "content": "N- Ne, seni gidi kurnaz şey... Benim yerime de!"
         },
         {
             "id": 30,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Sakin olalım, huşunetin alemi yok! hakikat-i hadiseyi anlatın, musterih olalım."
         },
         {
@@ -191,25 +191,25 @@
             "id": 32,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Ahem. O zaman <ruby=bu-vak'ada>zelil</ruby> müvvekilim belli oldu!"
         },
         {
             "id": 33,
-            "content": "Ve arıdından da düelloyu ilan ederek eldiveni zalimlere fırlatmak."
+            "content": "Ve ardından da düelloyu ilan ederek eldiveni zalimlere fırlatmak."
         },
         {
             "id": 34,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Not alın! Uygun bir düello teklifinin adabı vardır"
         },
         {
             "id": 35,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Affedilemez, kim ki hoyratça bağırır, aldırış <ruby=adabına>eylemez</ruby>; edepsiz!"
         },
         {
@@ -222,25 +222,25 @@
             "id": 37,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Maalesef, ne müşküllük vardır şu zerrecik haysiyetli olmakta anlamam doğrusu, olasın esef."
         },
         {
             "id": 38,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Şimdi izin verirseniz, Zat-ı suhteniz!"
         },
         {
             "id": 39,
-            "content": "Çocuk fransız meçini kınından çıkardı ve kendinsini mevkilendirdi."
+            "content": "Çocuk Fransız Meçini kınından çıkardı ve kendisini mevkilendirdi."
         },
         {
             "id": 40,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Allez!"
         },
         {
@@ -249,15 +249,15 @@
         },
         {
             "id": 42,
-            "teller": "Interviewer",
+            "teller": "Muhbir",
             "title": "???",
-            "content": "İnanılmaz... Ne kadar hızlı!.. Keşke birde allez in sonunda z ile okunmadığını bilse"
+            "content": "İnanılmaz... Ne kadar hızlı!.. Keşke bir de allez in sonunda z ile okunmadığını bilse."
         },
         {
             "id": 43,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Şaşkınlığa hacet yok, asayiş berkemal! Ah, ödemeyi bu adrese yapabilirsiniz."
         },
         {
@@ -268,21 +268,21 @@
             "id": 45,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
-            "content": "Adaletin Ulvi Koruyucusu... Filhakika, tebaa-yı Şehir için abes gelebilcek bir ilke."
+            "title": "Cinq Yöneticisi Bölük 5",
+            "content": "Adaletin Ulvi Koruyucusu... Filhakika, tebaa-yı Şehir için abes gelebilecek bir ilke."
         },
         {
             "id": 46,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Lâkin “Zanaat” haline getirdiğiniz zaman, sonuçlarını takdire şayan bulurlar."
         },
         {
             "id": 47,
             "model": "돈키호테",
             "teller": "Don Quixote",
-            "title": "Cinq Section 5 Director",
+            "title": "Cinq Yöneticisi Bölük 5",
             "content": "Bu da bir nevi benim tavizim. Ne dersiniz, hala saçma bir rol müdür?"
         },
         {
@@ -291,7 +291,7 @@
         },
         {
             "id": 49,
-            "content": "<i>Bu Kişilik çevirisinde ünlü tiyatro eseri Cyarno de Belgerac'tan ve oyuncu Rüştü Asyalının performansından yararlanılmıştır.</i> Cinq Güney Bölüğü Kişilikleri Alexander <ruby=pere>Dumas</ruby>'nin <i>Üç Silahşörler</i> Romanından esinlenmiştir. Deschaux Manastırı romanın ana karateri ve meşur 3 silahşörlerin ilk düellolarını gerçekleştirdikleri yerdir. Günahkârın romandaki karaterle eşleşmesi zannımıca söyledir: \nDon Quixote=D'artagnan, Benzetme Nedeni=Güruhun başı olmasından"
+            "content": "<i>Bu Kişilik çevirisinde ünlü tiyatro eseri Cyarno de Belgerac'tan ve oyuncu Rüştü Asyalının performansından yararlanılmıştır.</i> Cinq Güney Bölüğü Kişilikleri Alexander <ruby=pere>Dumas</ruby>'nin <i>Üç Silahşörler</i> Romanından esinlenmiştir. Deschaux Manastırı romanın ana karateri ve meşur 3 silahşörlerin ilk düellolarını gerçekleştirdikleri yerdir. Günahkârın romandaki karaterle eşleşmesi zannımızca söyledir: \nDon Quixote=D'artagnan, Benzetme Nedeni=Güruhun başı olmasından"
         }
     ]
 }
