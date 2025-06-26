@@ -9,7 +9,7 @@
         },
         {
             "id": 1,
-            "content": "Çocuk pasaj boyunca ilerliyordu, gözleri çoşkuyla dolup taşarken. Hemen ardından ise onu takiben bir kadın, ellerinde küçük bir defterle."
+            "content": "Çocuk pasaj boyunca ilerlemekteydi, gözleri çoşkuyla dolup taşarken. Hemen ardından ise onu takiben bir kadın, ellerinde küçük bir defterle."
         },
         {
             "id": 2,
@@ -23,7 +23,7 @@
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Nitekim, zaten bilfiil öğrenmekteyiz!"
+            "content": "Nitekim, zaten bilfiil öğrenmektesiniz!"
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
         },
         {
             "id": 5,
-            "content": "Kadın, namüsterih, belirgin bir şekilde giderek huzursuzlanıyor."
+            "content": "Kadın, namüsterih, defterine bakıp katedemediği ilerlemeyi düşününce belirgin bir şekilde giderek huzursuzlanıyor."
         },
         {
             "id": 6,
@@ -136,7 +136,7 @@
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Zannolunmaz! Birliğe itafen gönderilmiş bütün talepleri şürekalarıma ilettim."
+            "content": "Zannolunmaz! Birliğe itafen gönderilmiş olan bütün talepleri evvelce şürekalarıma iletmiştim."
         },
         {
             "id": 24,
@@ -156,7 +156,7 @@
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Filvaki~"
+            "content": "Filvaki <i>Vukuat Var</i>~"
         },
         {
             "id": 27,
@@ -181,60 +181,60 @@
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Sakin olalım, huşunetin alemi yok! evvelcesini anlatın, musterih olalım."
+            "content": "Sakin olalım, huşunetin alemi yok! hakikat-i hadiseyi anlatın, musterih olalım."
         },
         {
             "id": 31,
-            "content": "Kavgaya tutuşanları ilk önce dinlemek, çocuğun adaletin hükmünü eldivenlerini çıkararak vermeden önce yapması gereken bir incelik."
+            "content": "Kavgaya tutuşanları ilk önce dinlemek, çocuğun adaletin hükmünü eldivenlerini çıkararak vermeden önce yapması gereken bir izzet."
         },
         {
             "id": 32,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Ahem. O zaman !"
+            "content": "Ahem. O zaman <ruby=bu-vak'ada>zelil</ruby> müvvekilim belli oldu!"
         },
         {
             "id": 33,
-            "content": "And hurled it at the one standing opposite of her."
+            "content": "Ve arıdından da düelloyu ilan ederek eldiveni zalimlere fırlatmak."
         },
         {
             "id": 34,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "There are rules and etiquette to proposing a proper duel!"
+            "content": "Not alın! Uygun bir düello teklifinin adabı vardır"
         },
         {
             "id": 35,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "I cannot forgive thee, knave, thou who holler with nary a care for such things!"
+            "content": "Affedilemez, kim ki hoyratça bağırır, aldırış <ruby=adabına>eylemez</ruby>; edepsiz!"
         },
         {
             "id": 36,
-            "teller": "Agitated Citizen",
+            "teller": "Hırslı Kavgacı",
             "title": "???",
-            "content": "Agh... You son of a..."
+            "content": "Agh... Seni gidi..."
         },
         {
             "id": 37,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Alas, I must wonder what part of this noble duel request irks thee so."
+            "content": "Maalesef, ne vardır şu zerrecik haysiyetli olmakta anlamam doğrusu, olasın esef."
         },
         {
             "id": 38,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "Cinq Section 5 Director",
-            "content": "Now step aside, dear interviewer!"
+            "content": "Kusuruma bakmayın, Zat-ı suhteniz!"
         },
         {
             "id": 39,
-            "content": "The child drew her sword from the waist and readied herself."
+            "content": "Çocuk fransız meçini kınından çıkardı ve kendinsini mevkilendirdi."
         },
         {
             "id": 40,
@@ -245,7 +245,7 @@
         },
         {
             "id": 41,
-            "content": "The duel ended swiftly, with the defeat of the one that had been slapped by the glove."
+            "content": "Göz açıp kapayıncaya kadar düello sona erdi, eldiven tarafından tartaklananın mağlubiyeti ile."
         },
         {
             "id": 42,
@@ -291,7 +291,7 @@
         },
         {
             "id": 49,
-            "content": "<i>Bu kişilik çevirisinde ünlü tiyatro eseri Cyarno de Belgerac'tan yararlanılmıştır</i> Cinq Güney Bölüğü Kişilikleri Alexander <ruby=pere>Dumas</ruby>'nin <i>Üç Silahşörler</i> Romanından esinlenmiştir. Deschaux Manastırı romanın ana karateri ve meşur 3 silahşörün ilk düellolarını gerçekleştirdikleri yerdir. Günahkârın romandaki karaterle eşleşmesi zannımıca söyledir: \nDon Quixote=D'artagnan."
+            "content": "<i>Bu Kişilik çevirisinde ünlü tiyatro eseri Cyarno de Belgerac'tan ve oyuncu Rüştü Asyalının performansından yararlanılmıştır.</i> Cinq Güney Bölüğü Kişilikleri Alexander <ruby=pere>Dumas</ruby>'nin <i>Üç Silahşörler</i> Romanından esinlenmiştir. Deschaux Manastırı romanın ana karateri ve meşur 3 silahşörlerin ilk düellolarını gerçekleştirdikleri yerdir. Günahkârın romandaki karaterle eşleşmesi zannımıca söyledir: \nDon Quixote=D'artagnan, Benzetme Nedeni=Güruhun başı olmasından"
         }
     ]
 }
