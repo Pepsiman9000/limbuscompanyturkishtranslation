@@ -2,98 +2,98 @@
   "dataList": [
     {
       "id": "MDcFaBa",
-      "name": "Inflict additional Burn",
-      "desc": "Inflict +1 more Burn with Skills"
+      "name": "İlave Yanma Uygula", 
+      "desc": "Yeteneklerle +1 ilave Yanma uygula"
     },
     {
       "id": "MDcFaBb",
-      "name": "Inflict additional Bleed",
-      "desc": "Inflict +1 more Bleed with Skills"
+      "name": "İlave Kanama Uygula",
+      "desc": "Yeteneklerle +1 ilave Kanama uygula"
     },
     {
       "id": "MDcFaBc",
-      "name": "Inflict additional Tremor",
-      "desc": "Inflict +1 more Tremor with Skills"
+      "name": "İlave Sarsıntı Uygula",
+      "desc": "Yeteneklerle +1 ilave Sarsıntı uygula"
     },
     {
       "id": "MDcFaBd",
-      "name": "Inflict additional Rupture",
-      "desc": "Inflict +1 more Rupture with Skills"
+      "name": "İlave Parçalanma Uygula",
+      "desc": "Yeteneklerle +1 ilave Parçalanma uygula"
     },
     {
       "id": "MDcFaBe",
-      "name": "Inflict additional Sinking",
-      "desc": "Inflict +1 more Sinking with Skills"
+      "name": "İlave Batuş Uygula",
+      "desc": "Yeteneklerle +1 ilave Batış uygula"
     },
     {
       "id": "MDcFaBf",
-      "name": "Slash Boost",
-      "desc": "Slash damage +15%"
+      "name": "Kesme Güçlendirmesi",
+      "desc": "Kesme hasarı +%15"
     },
     {
       "id": "MDcFaBg",
-      "name": "Pierce Boost",
-      "desc": "Pierce damage +15%"
+      "name": "Delme Güçlendirmesi",
+      "desc": "Delme hasarı +%15"
     },
     {
       "id": "MDcFaBh",
-      "name": "Blunt Boost",
-      "desc": "Blunt damage +15%"
+      "name": "Darbe Güçlendirmesi",
+      "desc": "Darbe hasarı +%15"
     },
     {
       "id": "MDcFbBa",
-      "name": "Affinity Res Up (Exc. Wrath)",
-      "desc": "Resistance against all Affinities -0.1 (Except Wrath)"
+      "name": "Tür Dirnc Artışı (Öfke Hrç)", 
+      "desc": "Tüm Türlere karşı Direnç -0.1 (Öfke Hariç)" 
     },
     {
       "id": "MDcFbBb",
-      "name": "Affinity Res Up (Exc. Lust)",
-      "desc": "Resistance against all Affinities -0.1 (Except Lust)"
+      "name": "Tür Dirnc Artışı (Şehvet Hrç)",
+      "desc": "Tüm Türlere karşı Direnç -0.1 (Şehvet Hariç)"
     },
     {
       "id": "MDcFbBc",
-      "name": "Affinity Res Up (Exc. Sloth)",
-      "desc": "Resistance against all Affinities -0.1 (Except Sloth)"
+      "name": "Tür Dirnc Artışı (Tembellik Hrç)",
+      "desc": "Tüm Türlere karşı Direnç -0.1 (Tembellik Hariç)"
     },
     {
       "id": "MDcFbBd",
-      "name": "Affinity Res Up (Exc. Glut.)",
-      "desc": "Resistance against all Affinities -0.1 (Except Gluttony)"
+      "name": "Tür Dirnc Artışı (Oburluk Hrç)",
+      "desc": "Tüm Türlere karşı Direnç -0.1 (Oburluk Hariç)"
     },
     {
       "id": "MDcFbBe",
-      "name": "Affinity Res Up (Exc. Gloom)",
-      "desc": "Resistance against all Affinities -0.1 (Except Gloom)"
+      "name": "Tür Dirnc Artışı (Hüzün Hrç)",
+      "desc": "Tüm Türlere karşı Direnç -0.1 (Hüzün Hariç)"
     },
     {
       "id": "MDcFbBf",
-      "name": "Affinity Res Up (Exc. Pride)",
-      "desc": "Resistance against all Affinities -0.1 (Except Pride)"
+      "name": "Tür Dirnc Artışı (Kibir Hrç)",
+      "desc": "Tüm Türlere karşı Direnç -0.1 (Kibir Hariç)"
     },
     {
       "id": "MDcFbBg",
-      "name": "Affinity Res Up (Exc. Envy)",
-      "desc": "Resistance against all Affinities -0.1 (Except Envy)"
+      "name": "Tür Dirnc Artışı (Haset Hrç)",
+      "desc": "Tüm Türlere karşı Direnç -0.1 (Haset Hariç)"
     },
     {
       "id": "MDcFbBh",
-      "name": "Max HP +",
-      "desc": "Max HP +15%"
+      "name": "Maks HP +",
+      "desc": "Maks HP +15%"
     },
     {
       "id": "MDcFcBa",
-      "name": "Slot Weight +",
-      "desc": "Slot Weight +1"
+      "name": "Yuva Ağırlığı +",
+      "desc": "Yuva Ağırlığı +1"
     },
     {
       "id": "MDcFcBb",
-      "name": "Siphon Damage",
-      "desc": "On Hit, heal 5% of damage dealt as HP"
+      "name": "Hasarı Sifonla",
+      "desc": "Vuruşta, verilen hasarın %5'ini HP olarak iyileştirir" 
     },
     {
       "id": "MDcFcBc",
-      "name": "Boost Speed",
-      "desc": "Max Speed +1"
+      "name": "Hız Güçlendirmesi",
+      "desc": "Maks Hız +1"
     },
     {
       "id": "MDcFcBd",
