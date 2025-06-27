@@ -1078,14 +1078,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pursuance",
-          "abName": "Heavenly Executor’s Scribe",
-          "desc": "[EndSkill] Heal 2 other allies with the least HP for 15% of Max HP",
+          "name": "Yerine Getirme",
+          "abName": "Semavi İnfazcının Yazmanı",
+          "desc": "[EndSkill] En az HP'ye sahip 2 Müttefiğin HP'sini, Maksimum HP'lerinin 15%'i kadar yenile",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackHead] [VibrationExplosion] tetikle"
                 }
               ]
             }
@@ -1093,14 +1093,14 @@
         },
         {
           "level": 3,
-          "name": "Pursuance",
-          "abName": "Heavenly Executor’s Scribe",
-          "desc": "[EndSkill] Heal 2 other allies with the least HP for 30% of Max HP; Apply 2 Protection next Turn",
+          "name": "Yerine Getirme",
+          "abName": "Semavi İnfazcının Yazmanı",
+          "desc": "[EndSkill] En az HP'ye sahip 2 Müttefiğin HP'sini, Maksimum HP'lerinin 30%'u kadar yenile; Sonraki Tur 2 [Protection] uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle"
                 }
               ]
             }
@@ -1113,14 +1113,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pursuance",
-          "abName": "Heavenly Executor’s Scribe",
-          "desc": "[CantIdentify] Rastgele Hedef Alır\n[EndSkill] Apply 1 Fragile and 2 Damage Up next Turn to 2 other allies with the least HP",
+          "name": "Yerine Getirme",
+          "abName": "Semavi İnfazcının Yazmanı",
+          "desc": "[CantIdentify] Rastgele Hedef Alır\n[EndSkill] Sonraki Tur, en az HP'ye sahip 2 Müttefiğe 1 [Vulnerable] and 2 [AttackDmgUp] uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackHead] [VibrationExplosion] tetikle"
                 }
               ]
             }
@@ -1128,14 +1128,14 @@
         },
         {
           "level": 3,
-          "name": "Pursuance",
-          "abName": "Heavenly Executor’s Scribe",
-          "desc": "[CantIdentify] Rastgele Hedef Alır\n[EndSkill] Apply 2 Fragile and 3 Damage Up next Turn to 2 other allies with the least HP",
+          "name": "Yerine Getirme",
+          "abName": "Semavi İnfazcının Yazmanı",
+          "desc": "[CantIdentify] Rastgele Hedef Alır\n[EndSkill] Sonraki Tur, en az HP'ye sahip 2 Müttefiğe 2 [Vulnerable] and 3 [AttackDmgUp] uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle"
                 }
               ]
             }
