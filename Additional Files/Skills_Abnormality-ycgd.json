@@ -161,8 +161,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
-          "desc": "[OnSucceedEvade] Inflict 2 [Sinking]",
+          "name": "Kaçınma",
+          "desc": "[OnSucceedEvade] 2 [Sinking] uygula",
           "coinlist": [
             {
               "coindescs": [
@@ -180,20 +180,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Draw of the Sword",
-          "desc": "[WhenUse] Gain 2 [Breath]",
+          "name": "Kılıcın Çekilişi",
+          "desc": "[WhenUse] 2 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +3 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +3 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -206,36 +206,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Paralyzer",
-          "desc": "[WhenUse] Gain 2 [Breath]",
+          "name": "Felçedici",
+          "desc": "[WhenUse] 2 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +3 [Laceration] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [AttackDmgUp] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Paralysis] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Paralysis] uygula"
                 }
               ]
             }
@@ -248,26 +248,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slay",
-          "desc": "[WinDuel] Gain +1 [Breath] Count",
+          "name": "Katlet",
+          "desc": "[WinDuel] +1 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath] and +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] 1 [Breath] ve +1 [Breath] Miktarı kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] 3 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [SlashDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [SlashDamageUp] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [SlashResistDown] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [SlashResistDown] uygula"
                 }
               ]
             }
@@ -280,39 +280,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Overthrow",
-          "desc": "[WinDuel] Gain +3 [Breath] Count",
+          "name": "Devirme",
+          "desc": "[WinDuel] +3 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath] and +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] 3 [Breath] ve +1 [Breath] Miktarı kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [SlashDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [SlashDamageUp] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [SlashResistDown]"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [SlashResistDown] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Paralysis] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttackHead] +3 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -325,30 +325,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "To Claim Their Bones",
-          "desc": "[StartBattle] Gain 50 Shield\n[WhenUse] If the Shield isn't fully depleted, Clash Power +5",
+          "name": "Onların Kemiklerini Almak İçin",
+          "desc": "[StartBattle] 50 Kalkan kazan\n[WhenUse] +3 [Breath] Miktarı kazan\n[WhenUse] Eğer kazanılan Kalkan bitmemişse, Çarpışma Gücü +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [SlashResistDown]"
+                  "desc": "[OnSucceedAttack] 3 [SlashResistDown] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "+100% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta +100% Hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] 10 [Laceration] ve +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage."
+                  "desc": "[OnSucceedAttack] Eğer kazanılan Kalkan bitmemişse, ([Grudge]/Atk Weight) Sabit Hasar ver."
                 }
               ]
             }
@@ -361,8 +361,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
-          "desc": "[OnSucceedEvade] Gain 4 [Breath]",
+          "name": "Kaçınma",
+          "desc": "[OnSucceedEvade] 4 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -380,8 +380,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Yield My Flesh",
-          "desc": "Gain X [Grudge] next turn (X = Damage dealt by the Skill that activated the Counter Skill)",
+          "name": "Etimden Feragat Ederim",
+          "desc": "Sonraki tur X [Grudge] kazan (X = Karşı Saldırıyı aktive eden Yetenek tarafından verilen Hasar)",
           "coinlist": [
             {
               "coindescs": [
@@ -399,33 +399,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "To Claim Their Bones",
-          "desc": "[StartBattle] Gain 200 Shield\n[WhenUse] Gain +3 [Breath] Count\n[WhenUse] If the Shield isn't fully depleted, Clash Power +10",
+          "name": "Onların Kemiklerini Almak İçin",
+          "desc": "[StartBattle] 200 Kalkan kazan\n[WhenUse] +3 [Breath] Miktarı kazan\n[WhenUse] Eğer kazanılan Kalkan bitmemişse, Çarpışma Gücü +10",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [SlashResistDown]"
+                  "desc": "[OnSucceedAttack] 3 [SlashResistDown] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "+100% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta +100% Hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 5 [Paralysis] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] 10 [Laceration] ve +2 [Laceration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage."
+                  "desc": "[OnSucceedAttack] Eğer kazanılan Kalkan bitmemişse, ([Grudge]/Atk Weight) Sabit Hasar vur."
                 }
               ]
             }
@@ -438,8 +438,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blade Dance",
-          "desc": "[EnemyKill] Gain 3 [AttackUp] and 3 [DefenseUp] next turn",
+          "name": "Kılıç Dansı",
+          "desc": "[EnemyKill] Sonraki Tur 3 [AttackUp] ve 3 [DefenseUp] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -457,15 +457,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "To Claim Their Bones",
-          "desc": "[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] Heal HP equal to [Grudge] value",
+          "name": "Onların Kemiklerini Almak İçin",
+          "desc": "[CantChangeTarget]\nEn düşük cana sahip düşmanı hedef alır\n[EnemyKill] [Grudge] değerini ikiye katla.\n[EnemyKill] [Grudge] değeri kadar HP yenile",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal fixed damage equal to [Grudge] value."
+                  "desc": "[OnSucceedAttack] [Grudge] değeri kadar Sabit Hasar vur."
                 }
               ]
             }
