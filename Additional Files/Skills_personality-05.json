@@ -427,7 +427,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Etimi Kopartsınlar ki...",
+          "name": "Etimden Feragat Ederim",
           "desc": "[WhenUse] Sıradaki tur bu Yetenek Yuvasına +3 [Aggro] kazan\n[WhenUse] Bu Yetenek sona erene kadar,bu birim sersemleyemez\n[WinDuel] 5 [Breath] Kazan\n[DefeatDuel] Hasar aldıktan sonra, 'Onların Kemiklerini Alabileyim' Yeteneğini kullan\n[CriticalActivated] Kendindeki her bir [Breath] Şiddeti için Kritik Vuruşta +2% daha fazla hasar ver (Maks %50))\nKritik Vurduğunda +15% Hasar\nKendindeki her %1 eksik Can için +0.5% daha fazla hasar vur (Maks %25)",
           "coinlist": [
             {}
@@ -435,7 +435,7 @@
         },
         {
           "level": 4,
-          "name": "Etimi Kopartsınlar ki...",
+          "name": "Etimden Feragat Ederim",
           "desc": "[WhenUse] Sıradaki tur bu Yetenek Yuvasına +3 [Aggro] kazan\n[WhenUse] Bu Yetenek sona erene kadar, bu birim sersemleyemez\n[WinDuel] 5 [Breath] Kazan\n[DefeatDuel] Hasar aldıktan sonra, 'Onların Kemiklerini Alabileyim' Yeteneğini kullan\n[CriticalActivated] Kendindeki her bir [Breath] Şiddeti için Kritik Vuruşta +3% daha fazla hasar ver (Maks %75))\nKritik Vurduğunda +30% Hasar\nKendindeki her %1 eksik Can için +0.5% daha fazla hasar vur (Maks %25)",
           "coinlist": [
             {}
@@ -481,7 +481,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Onların Kemiklerini Alabileyim",
+          "name": "Onların Kemiklerini Almak İçin",
           "desc": "[BeforeAttack] Kendindeki 10+ [Breath] için, Saldırı Ağırlı +1\n[WhenUse] Bu Yetenek sona erene kadar,bu birim sersemleyemez\n[WhenUse] Kendindeki her bir Nefes Şiddeti için Kritik Vurduğunda +%2 daha fazla hasar ver (Maks 50%)\nKritik Vurduğunda +20% Hasar\nKendindeki her %1 eksik Can için +%0.5 daha fazla hasar ver (Maks %25)",
           "coinlist": [
             {},
@@ -501,7 +501,7 @@
         },
         {
           "level": 4,
-          "name": "Onların Kemiklerini Alabileyim",
+          "name": "Onların Kemiklerini Almak İçin",
           "desc": "<style=\"highlight\">[BeforeAttack] Kendindeki her 7+ [Breath] için, Sadlırı Ağırlığı +1 (Maks +2)</style>\n[WhenUse] Bu Yetenek sona erene kadar, bu birim sersemleyemez\n[WhenUse] Kendindeki her bir [Breath] Şiddeti için Kritik Vurduğunda +%2 daha fazla hasar ver (Maks 50%)\n+<style=\"highlight\">30</style>% Kritik Vurduğunda\nKendindeki her %1 eksik Can için +%0.5 daha fazla hasar ver (Maks %25)\n<style=\"highlight\">Eğer bu Yetenek yalnızca tek bir düşmanı hedef alıyorsa, +100% daha fazla hasar verir (Odaklı Karşılaşmalarda tek bir Uzuv).</style>",
           "coinlist": [
             {},
