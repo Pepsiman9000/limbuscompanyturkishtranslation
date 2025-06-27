@@ -3,49 +3,49 @@
     {
       "id": "RedEyeFirst",
       "name": "Kızıl Gözler",
-      "desc": "- Temel Beceri Jetonu etkileri +1 Fazla Kanama verir\n- Maksimum Değer: 20\n- Benzersiz Şarj (sabit Şiddet)\n- Bazı Yetenekler tarafından ek efekt için kullanılan kaynak\n- Değer bazında güçlendirme sağlar\n· Aşama 1 (1~7) : Kızıl Gözler\n· Aşama 2 (8~15) : Kızıl Gözler - Uyarı\n· Aşama 3 (16~20) : Kızıl Gözler - Yiyici\n- Bu buffın ilk satırının verdiği ek kanama miktarı, buff güçlendirme aşamasına eşittir (maksimum 3)",
+      "desc": "- Temel Beceri Jetonu etkileri +1 Fazla Kanama uygula\n- Maksimum Değer: 20\n- Benzersiz Yük (sabit Şiddet)\n- Bazı Yetenekler tarafından ek efekt için kullanılan kaynak\n- Değer bazında güçlendirme sağlar\n· Aşama 1 (1~7) : Kızıl Gözler\n· Aşama 2 (8~15) : Kızıl Gözler - Uyarı\n· Aşama 3 (16~20) : Kızıl Gözler - Yiyici\n- Bu buffın ilk satırının verdiği ek kanama miktarı, buff güçlendirme aşamasına eşittir (maksimum 3)",
       "summary": ""
     },
     {
       "id": "RedEyeSecond",
       "name": "Kızıl Gözler - Uyarı",
-      "desc": "- Temel Beceri Jetonu etkileri +2 Fazla Kanama verir\n- Maksimum Değer: 20\n- Benzersiz Şarj (sabit Şiddet)\n- Bazı Yetenekler tarafından ek efekt için kullanılan kaynak\n- Değer bazında güçlendirme sağlar\n· Aşama 1 (1~7) : Kızıl Gözler\n· Aşama 2 (8~15) : Kızıl Gözler - Uyarı\n· Aşama 3 (16~20) : Kızıl Gözler - Yiyici\n- Bu buffın ilk satırının verdiği ek kanama miktarı, buff güçlendirme aşamasına eşittir (maksimum 3)",
+      "desc": "- Temel Beceri Jetonu etkileri +2 Fazla Kanama uygula\n- Maksimum Değer: 20\n- Benzersiz Yük (sabit Şiddet)\n- Bazı Yetenekler tarafından ek efekt için kullanılan kaynak\n- Değer bazında güçlendirme sağlar\n· Aşama 1 (1~7) : Kızıl Gözler\n· Aşama 2 (8~15) : Kızıl Gözler - Uyarı\n· Aşama 3 (16~20) : Kızıl Gözler - Yiyici\n- Bu buffın ilk satırının verdiği ek kanama miktarı, buff güçlendirme aşamasına eşittir (maksimum 3)",
       "summary": ""
     },
     {
       "id": "RedEyeThird",
       "name": "Kızıl Gözler - Yiyici",
-      "desc": "- Temel Beceri Jetonu etkileri +3 Fazla Kanama verir\n- Maksimum Değer: 20\n- Benzersiz Şarj (sabit Şiddet)\n- Bazı Yetenekler tarafından ek efekt için kullanılan kaynak\n- Değer bazında güçlendirme sağlar\n· Aşama 1 (1~7) : Kızıl Gözler\n· Aşama 2 (8~15) : Kızıl Gözler - Uyarı\n· Aşama 3 (16~20) : Kızıl Gözler - Yiyici\n- Bu buffın ilk satırının verdiği ek kanama miktarı, buff güçlendirme aşamasına eşittir (maksimum 3)",
+      "desc": "- Temel Beceri Jetonu etkileri +3 Fazla Kanama uygula\n- Maksimum Değer: 20\n- Benzersiz Yük (sabit Şiddet)\n- Bazı Yetenekler tarafından ek efekt için kullanılan kaynak\n- Değer bazında güçlendirme sağlar\n· Aşama 1 (1~7) : Kızıl Gözler\n· Aşama 2 (8~15) : Kızıl Gözler - Uyarı\n· Aşama 3 (16~20) : Kızıl Gözler - Yiyici\n- Bu buffın ilk satırının verdiği ek kanama miktarı, buff güçlendirme aşamasına eşittir (maksimum 3)",
       "summary": ""
     },
     {
       "id": "PenanceFirst",
       "name": "Kefaret",
-      "desc": "- Kefaret kazanan Temel Beceri Jetonları ile Vuruş Başına 2 SP iyileştir\n- Maksimum Değer: 20\n- Benzersiz Şarj (sabit Şiddet)\n- Tur Başında: maksimum HP'nin (Kefaret)%'si kadar Kalkan kazan\n- Bazı Yetenekler tarafından ek efekt için kullanılan kaynak\n- Değer bazında buff aşaması güçlendirilir\n· Aşama 1 (1~7) : Kefaret\n· Aşama 2 (8~15) : Kefaret - Çevre\n· Aşama 3 (16~20) : Kefaret - İtiraf\n- Bu buffın ilk satırının iyileştirdiği SP miktarı, güçlendirme aşamasına (aşama x 2) bağlıdır",
+      "desc": "- Kefaret kazanan Temel Beceri Jetonları ile Vuruş Başına 2 SP iyileştir\n- Maksimum Değer: 20\n- Benzersiz Yük (sabit Şiddet)\n- Tur Başında: maksimum HP'nin (Kefaret)%'si kadar Kalkan kazan\n- Bazı Yetenekler tarafından ek efekt için kullanılan kaynak\n- Değer bazında buff aşaması güçlendirilir\n· Aşama 1 (1~7) : Kefaret\n· Aşama 2 (8~15) : Kefaret - Çevre\n· Aşama 3 (16~20) : Kefaret - İtiraf\n- Bu buffın ilk satırının iyileştirdiği SP miktarı, güçlendirme aşamasına (aşama x 2) bağlıdır",
       "summary": ""
     },
     {
       "id": "PenanceSecond",
       "name": "Kefaret - Çevre",
-      "desc": "- Kefaret kazanan Temel Beceri Jetonları ile Vuruş Başına 4 SP iyileştir\n- Maksimum Değer: 20\n- Benzersiz Şarj (sabit Şiddet)\n- Tur Başında: maksimum HP'nin (Kefaret)%'si kadar Kalkan kazan\n- Bazı Yetenekler tarafından ek efekt için kullanılan kaynak\n- Değer bazında buff aşaması güçlendirilir\n· Aşama 1 (1~7) : Kefaret\n· Aşama 2 (8~15) : Kefaret - Çevre\n· Aşama 3 (16~20) : Kefaret - İtiraf\n- Bu buffın ilk satırının iyileştirdiği SP miktarı, güçlendirme aşamasına (aşama x 2) bağlıdır",
+      "desc": "- Kefaret kazanan Temel Beceri Jetonları ile Vuruş Başına 4 SP iyileştir\n- Maksimum Değer: 20\n- Benzersiz Yük (sabit Şiddet)\n- Tur Başında: maksimum HP'nin (Kefaret)%'si kadar Kalkan kazan\n- Bazı Yetenekler tarafından ek efekt için kullanılan kaynak\n- Değer bazında buff aşaması güçlendirilir\n· Aşama 1 (1~7) : Kefaret\n· Aşama 2 (8~15) : Kefaret - Çevre\n· Aşama 3 (16~20) : Kefaret - İtiraf\n- Bu buffın ilk satırının iyileştirdiği SP miktarı, güçlendirme aşamasına (aşama x 2) bağlıdır",
       "summary": ""
     },
     {
       "id": "PenanceThird",
       "name": "Kefaret - İtiraf",
-      "desc": "- Kefaret kazanan Temel Beceri Jetonları ile Vuruş Başına 6 SP iyileştir\n- Maksimum Değer: 20\n- Benzersiz Şarj (sabit Şiddet)\n- Tur Başında: maksimum HP'nin (Kefaret)%'si kadar Kalkan kazan\n- Bazı Yetenekler tarafından ek efekt için kullanılan kaynak\n- Değer bazında buff aşaması güçlendirilir\n· Aşama 1 (1~7) : Kefaret\n· Aşama 2 (8~15) : Kefaret - Çevre\n· Aşama 3 (16~20) : Kefaret - İtiraf\n- Bu buffın ilk satırının iyileştirdiği SP miktarı, güçlendirme aşamasına (aşama x 2) bağlıdır",
+      "desc": "- Kefaret kazanan Temel Beceri Jetonları ile Vuruş Başına 6 SP iyileştir\n- Maksimum Değer: 20\n- Benzersiz Yük (sabit Şiddet)\n- Tur Başında: maksimum HP'nin (Kefaret)%'si kadar Kalkan kazan\n- Bazı Yetenekler tarafından ek efekt için kullanılan kaynak\n- Değer bazında buff aşaması güçlendirilir\n· Aşama 1 (1~7) : Kefaret\n· Aşama 2 (8~15) : Kefaret - Çevre\n· Aşama 3 (16~20) : Kefaret - İtiraf\n- Bu buffın ilk satırının iyileştirdiği SP miktarı, güçlendirme aşamasına (aşama x 2) bağlıdır",
       "summary": ""
     },
     {
       "id": "Emptiness",
-      "name": "Sadece Külleri Kaldı",
-      "desc": "- Kızıl Gözler ve Kefaret aynı anda koruyamaz\n- Temel Beceri etkileriyle Kızıl Gözler kazanıldığında, kendini ve en düşük HP yüzdesine sahip 1 müttefiki, kazanılan Kızıl Gözlerin %'si kadar bu birimin maksimum HP'sinin (2 kez) iyileştir\n- Temel Beceri etkileriyle Kefaret kazanıldığında, kendini ve en az SP'ye sahip 1 müttefiki, kazanılan Kefaret'in yarısı kadar SP iyileştir (2 kez)\n- Tur Sonu: bu etki sona erer",
+      "name": "Sadece Küller Kaldı",
+      "desc": "- Kızıl Gözler & Kefareti koruyamaz\n- Temel Beceri etkileriyle Kızıl Gözler kazanıldığında, kendini ve en düşük HP yüzdesine sahip 1 müttefiki, kazanılan Kızıl Gözlerin %'si kadar bu birimin maksimum HP'sinin (2 kez) iyileştir\n- Temel Beceri etkileriyle Kefaret kazanıldığında, kendini ve en az SP'ye sahip 1 müttefiki, kazanılan Kefaret'in yarısı kadar SP iyileştir (2 kez)\n- Tur Sonu: bu etki sona erer",
       "summary": ""
     },
     {
       "id": "SinkingWhite",
       "name": "Kelebek",
-      "desc": "- Benzersiz Batış\n- Temel Değer: 0, Maksimum Değer: 15\n- Bu etkinin Şiddeti ve Miktarı sırasıyla \"Yaşayan\" ve \"Giden\" olarak adlandırılır.\n- Vurulduğunda, saldıran (Yaşayan/4) SP iyileştirir. (min 1; aşağı yuvarlanır)\n- Vurulduğunda ve bu birimin SP'si 0'dan az ise, Giden miktarı başına (Batış Şiddeti/5) Karartı hasarı alır. (maksimum Karartı hasarı 30; aşağı yuvarlanır; SP'siz hedeflere yarı hasar verir.)\n- Tur Sonu: Bu etkinin Giden miktarını 0'a sıfırla; ardından, Yaşayan kadar Batış kazan ve Yaşayan'ı Giden'e dönüştür.\n- Dış etkiler Kelebek miktarını artırmaz. \"Ek Batış Ver\" etkileri Kelebek yerine ek Batış verir.\n- Yaşayan ve Giden miktarları 0 olduğunda bu etki sona erer.",
+      "desc": "- Benzersiz Batış\n- Temel Değer: 0, Maksimum Değer: 15\n- Bu etkinin Şiddeti ve Miktarı sırasıyla \"Yaşayan\" ve \"Giden\" olarak adlandırılır.\n- Vurulduğunda, saldıran (Yaşayan/4) SP iyileştirir. (min 1; aşağı yuvarlanır)\n- Vurulduğunda ve bu birimin SP'si 0'dan az ise, Giden miktarı başına (Batış Şiddeti/5) Karartı hasarı alır. (maksimum Karartı hasarı 30; aşağı yuvarlanır; SP'siz hedeflere yarı hasar verir.)\n- Tur Sonu: Bu etkinin Giden miktarını 0'a sıfırla; ardından, Yaşayan kadar Batış kazan ve Yaşayan'ı Giden'e dönüştür.\n- Dış etkiler Kelebek miktarını artırmaz. \"Ek Batış Ver\" etkileri Kelebek yerine ek Batış uygula.\n- Yaşayan ve Giden miktarları 0 olduğunda bu etki sona erer.",
       "summary": ""
     },
     {
@@ -63,7 +63,7 @@
     {
       "id": "TrainTeamCaptain",
       "name": "Antrenman Takımı Kaptanı",
-      "desc": "Yetenek Yuvası +1\nYetenek havuzunu değiştir: Yetenek 3 kullanım sayısını 1 artır, Yetenek 1 kullanım sayısını 1 azalt\nTur Başında: 15 SP iyileştir\nYanma, Kanama, Yırtılma, Batış veya Sarsıntı miktarını +1 artır (\"Benzersiz Durum Etkileri\" dahil)\nPozisyon veya Şarj miktarını +1 artır (\"Benzersiz Şarj\" dahil)\nÖldürme anında, düşmanı yok eden Yeteneğin Afinitesine +2 E.G.O kaynağı; diğer Afinitelere +1 E.G.O kaynağı kazan",
+      "desc": "Yetenek Yuvası +1\nYetenek havuzunu değiştir: Yetenek 3 kullanım sayısını 1 artır, Yetenek 1 kullanım sayısını 1 azalt\nTur Başında: 15 SP iyileştir\nYanma, Kanama, Yırtılma, Batış veya Sarsıntı miktarını +1 artır (\"Benzersiz Durum Etkileri\" dahil)\nPozisyon veya Yük miktarını +1 artır (\"Benzersiz Yük\" dahil)\nÖldürme anında, düşmanı yok eden Yeteneğin Afinitesine +2 E.G.O kaynağı; diğer Afinitelere +1 E.G.O kaynağı kazan",
       "summary": ""
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "id": "ReloadLament",
-      "name": "Şarjör Yenileme",
+      "name": "Yükör Yenileme",
       "desc": "- Yaşayan & Giden (Benzersiz Mermi) üzerine uygulanır\n- (30 - (Yaşayan + Giden))/2 SP tüketir (aşağı yuvarlanır)\n- Kendi üzerindeki Yaşayan ve Giden miktarlarını 0'a sıfırlar ve Pasif 'ISeeTheDyingButterfly' de listelenen olasılıklara göre maksimum toplam değerini kazanır\n- Yeniden yüklemede, en az bir kez Yaşayan veya Giden kazanır",
       "summary": ""
     }
