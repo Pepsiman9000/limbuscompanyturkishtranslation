@@ -3,12 +3,12 @@
         {
             "id": "get_11206_1",
             "desc": "Identity Acquisition",
-            "dlg": "Ah! Hey, our client buddy, pal... Any chance I could borrow a light?"
+            "dlg": "Ah! Hey, müşteri dostumuz, kanka... Bi' çakmak alma şansım var mı acaba?"
         },
         {
             "id": "lobby_morning_11206_1",
             "desc": "Morning Greeting",
-            "dlg": "Whew, you're an early riser. Don't stray too far, eh? Make it a little easier for your bodyguard to tag along."
+            "dlg": "Fiyuv, erkencisin. Don't stray too far, eh? Korumanın sana eşlik etmesini kolaylaştır."
         },
         {
             "id": "lobby_noon_11206_1",
@@ -58,7 +58,7 @@
         {
             "id": "formation_11206_1",
             "desc": "Deployment",
-            "dlg": "Uh huh. On my way."
+            "dlg": "Hı-hı. On my way."
         },
         {
             "id": "battleentry_11206_1",
@@ -68,12 +68,12 @@
         {
             "id": "battle_select_11206_1",
             "desc": "Viewed in Battle",
-            "dlg": "Yeah, what's up?"
+            "dlg": "Buyur, n'aber?"
         },
         {
             "id": "battle_endcommand_11206_1",
             "desc": "Commencing Attack",
-            "dlg": "Get behind me!"
+            "dlg": "Arkama geçin!"
         },
         {
             "id": "battle_enemy_break_11206_1",
@@ -83,7 +83,7 @@
         {
             "id": "battle_break_11206_1",
             "desc": "Staggered",
-            "dlg": "Ugh..."
+            "dlg": "Ih..."
         },
         {
             "id": "battle_kill_11206_1",
@@ -94,7 +94,7 @@
             "id": "battle_dead_11206_1",
             "desc": "Death",
             "dlg": "Haah... Sorry about that... Client fella..."
-        },
+        },d
         {
             "id": "choice_success_p_11206_2",
             "desc": "Check Passed",
