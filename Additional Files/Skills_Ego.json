@@ -824,12 +824,12 @@
           "level": 1,
           "name": "4. Kibrit Ateşi",
           "abName": "Kavrulmuş Kız",
-          "desc": "Skill Power +2 against units with [Combustion]\n[EnemyKill] Gain 1 Attack Power Up next Turn",
+          "desc": "[Combustion]'ya sahip birimlere karşı Yetenek Gücü +2\n[EnemyKill] Sonraki Tur 1 [Enhancement] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 }
               ]
             }
@@ -839,12 +839,12 @@
           "level": 3,
           "name": "4. Kibrit Ateşi",
           "abName": "Kavrulmuş Kız",
-          "desc": "Skill Power +2 against units with [Combustion]\n[EnemyKill] Gain 2 Attack Power Up next Turn",
+          "desc": "[Combustion]'ya sahip birimlere karşı Yetenek Gücü +2\n[EnemyKill] Sonraki Tur 2 [Enhancement] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 }
               ]
             }
@@ -854,12 +854,12 @@
           "level": 4,
           "name": "4. Kibrit Ateşi",
           "abName": "Kavrulmuş Kız",
-          "desc": "Skill Power +2 against units with [Combustion]\nDeal +5% damage per 1 Burn on target (Max 100%)\n[EnemyKill] Gain +2 Attack Power Up next Turn",
+          "desc": "[Combustion]'ya sahip birimlere karşı Yetenek Gücü +2\nHedefteki her 1 [Combustion] için +5% daha fazla hasar (En fazla 100%)\n[EnemyKill] Sonraki Tur 2 [Enhancement] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 }
               ]
             }
@@ -874,12 +874,12 @@
           "level": 1,
           "name": "4. Kibrit Ateşi",
           "abName": "Kavrulmuş Kız",
-          "desc": "[CantIdentify]\nRastgele Hedef Alır\nSkill Power +2 against units with [Combustion]\n[EnemyKill] Gain 2 Attack Power Up next Turn\n[EnemyKillFail] Gain 10 Burn next Turn",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[Combustion]'ya sahip birimlere karşı Yetenek Gücü +2\n[EnemyKill] Sonraki Tur 2 [Enhancement] kazan\n[EnemyKillFail] Sonraki Tur 10 [Combustion] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 }
               ]
             }
@@ -889,12 +889,12 @@
           "level": 3,
           "name": "4. Kibrit Ateşi",
           "abName": "Kavrulmuş Kız",
-          "desc": "[CantIdentify]\nRastgele Hedef Alır\nSkill Power +4 against units with [Combustion]\n[EnemyKill] Gain 3 Attack Power Up next Turn\n[EnemyKillFail] Gain 3 Attack Power Up and 10 Burn next Turn",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[Combustion]'ya sahip birimlere karşı Yetenek Gücü +4\n[EnemyKill] Sonraki Tur 3 [Enhancement] kazan\n[EnemyKillFail] Sonraki Tur 3 [Enhancement] ve 10 [Combustion] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 }
               ]
             }
@@ -904,12 +904,12 @@
           "level": 4,
           "name": "4. Kibrit Ateşi",
           "abName": "Kavrulmuş Kız",
-          "desc": "[CantIdentify]\nRastgele Hedef Alır\nSkill Power +4 against units with [Combustion]\nDeal +5% damage per 1 Burn on target (Max 100%)\n[EnemyKill] Gain 3 Attack Power Up next Turn\n[EnemyKillFail] Gain 3 Attack Power Up and 10 Burn next Turn",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[Combustion]'ya sahip birimlere karşı Yetenek Gücü +4\nHedefteki her 1 [Combustion] için +5% daha fazla hasar (En fazla 100%)\n[EnemyKill] Sonraki Tur 3 [Enhancement] kazan\n[EnemyKillFail]Sonraki Tur 3 [Enhancement] ve 10 [Combustion] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 }
               ]
             }
@@ -1005,14 +1005,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Screwloose Wallop",
-          "abName": "You Want To Get Beat? Hurtily?",
-          "desc": "[EndSkill] Gain 3 Protection",
+          "name": "Gevşek Darbe",
+          "abName": " Dayak Yemek mi İstiyorsun? Ağırından?",
+          "desc": "[EndSkill] 3 [Protection] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -1020,14 +1020,14 @@
         },
         {
           "level": 3,
-          "name": "Screwloose Wallop",
-          "abName": "You Want To Get Beat? Hurtily?",
-          "desc": "[EndSkill] Gain 3 Protection\n[EndSkill] Gain 1 Surgery next Turn",
+          "name": "Gevşek Darbe",
+          "abName": " Dayak Yemek mi İstiyorsun? Ağırından?",
+          "desc": "[EndSkill] 3 [Protection] kazan\n[EndSkill] Sonraki Tur 1 [Operation] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -1040,14 +1040,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Screwloose Wallop",
-          "abName": "You Want To Get Beat? Hurtily?",
-          "desc": "[EndSkill] Gain 2 Surgery next Turn",
+          "name": "Gevşek Darbe",
+          "abName": " Dayak Yemek mi İstiyorsun? Ağırından?",
+          "desc": "[EndSkill] Sonraki Tur 2 [Operation] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -1055,17 +1055,17 @@
         },
         {
           "level": 3,
-          "name": "Screwloose Wallop",
-          "abName": "You Want To Get Beat? Hurtily?",
-          "desc": "[EndSkill] Gain 2 Surgery next Turn",
+          "name": "Gevşek Darbe",
+          "abName": " Dayak Yemek mi İstiyorsun? Ağırından?",
+          "desc": "[EndSkill] Sonraki Tur 2 [Operation] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] 3 [Paralysis] uygula"
                 },
                 {
-                  "desc": "Raise Stagger Threshold by 30% of damage dealt"
+                  "desc": "Sersemleme Eşiği'ni verilen hasarın 30%'u kadar yükselt"
                 }
               ]
             }
