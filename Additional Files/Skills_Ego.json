@@ -1005,14 +1005,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Screwloose Wallop",
-          "abName": "You Want To Get Beat? Hurtily?",
-          "desc": "[EndSkill] Gain 3 Protection",
+          "name": "Gevşek Darbe",
+          "abName": " Dayak Yemek mi İstiyorsun? Ağırından?",
+          "desc": "[EndSkill] 3 [Protection] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -1020,14 +1020,14 @@
         },
         {
           "level": 3,
-          "name": "Screwloose Wallop",
-          "abName": "You Want To Get Beat? Hurtily?",
-          "desc": "[EndSkill] Gain 3 Protection\n[EndSkill] Gain 1 Surgery next Turn",
+          "name": "Gevşek Darbe",
+          "abName": " Dayak Yemek mi İstiyorsun? Ağırından?",
+          "desc": "[EndSkill] 3 [Protection] kazan\n[EndSkill] Sonraki Tur 1 [Operation] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -1040,14 +1040,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Screwloose Wallop",
-          "abName": "You Want To Get Beat? Hurtily?",
-          "desc": "[EndSkill] Gain 2 Surgery next Turn",
+          "name": "Gevşek Darbe",
+          "abName": " Dayak Yemek mi İstiyorsun? Ağırından?",
+          "desc": "[EndSkill] Sonraki Tur 2 [Operation] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -1055,17 +1055,17 @@
         },
         {
           "level": 3,
-          "name": "Screwloose Wallop",
-          "abName": "You Want To Get Beat? Hurtily?",
-          "desc": "[EndSkill] Gain 2 Surgery next Turn",
+          "name": "Gevşek Darbe",
+          "abName": " Dayak Yemek mi İstiyorsun? Ağırından?",
+          "desc": "[EndSkill] Sonraki Tur 2 [Operation] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] 3 [Paralysis] uygula"
                 },
                 {
-                  "desc": "Raise Stagger Threshold by 30% of damage dealt"
+                  "desc": "Sersemleme Eşiği'ni verilen hasarın 30%'u kadar yükselt"
                 }
               ]
             }
