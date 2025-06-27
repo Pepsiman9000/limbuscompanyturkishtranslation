@@ -1354,7 +1354,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Sorun Çözücü [快刀亂麻]",
+          "name": "Sorunkesici [快刀亂麻]",
           "desc": "Eğer bu karakter [BulletPropellantSpecialAlly]a sahipse, bunun yerine 'Vahşi Kaplan Avcısı'nın Mükemmel Kılıç Darbeleri' ni etkinleşir\n- [BeforeUse] Eğer bu karakterde [BulletPropellantSpecialAlly] yoksa, etkinleştirmeyi iptal et\nEğer ana hedefte toplam 8+ [Combustion] ve [Vibration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
@@ -1403,7 +1403,7 @@
         },
         {
           "level": 4,
-          "name": "Sorun Çözücü [快刀亂麻]",
+          "name": "Sorunkesici [快刀亂麻]",
           "desc": "Eğer bu karakter [BulletPropellantSpecialAlly]a sahipse, bunun yerine 'Vahşi Kaplan Avcısı'nın Mükemmel Kılıç Darbeleri' ni etkinleşir\n- [BeforeUse] Eğer bu karakterde [BulletPropellantSpecialAlly] yoksa, etkinleştirmeyi iptal et\n Ana hedefteki her 8 [Combustion] ve [Vibration] için, Jeton Gücü +1, (maks 2)</style>",
           "coinlist": [
             {
