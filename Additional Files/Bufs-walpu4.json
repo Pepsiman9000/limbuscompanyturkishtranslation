@@ -45,7 +45,7 @@
     {
       "id": "SinkingWhite",
       "name": "Kelebek",
-      "desc": "- Unique Sinking\n- Base Value: 0, Max Value: 15\n- When hit, the attacker heals {2} SP.\n- When hit, and if this unit's SP is at less than 0, take {3} Gloom damage.\n- Turn End: Reset The Departed of this effect to 0; gain Sinking equal to The Living(Potency) and convert The Living into The Departed(Count).\n- This effect expires when both The Living and The Departed reach 0.",
+      "desc": "- Benzersiz Batış\n- Temel Değer: 0, Maksimum Değer: 15\n- Vurulduğunda saldıran {2} SP yeniler.\n- Vurulduğunda ve bu birimin SP'si 0'dan az ise, {3} Hüzün hasarı al.\n- Tur Sonu: bu etkinin Göçen miktarını 0'a sıfırla; ardından, Yaşayan(Şiddet) kadar Batış kazan ve Yaşayan(Şiddet)'i Göçen(Miktar)'e dönüştür.\n- Bu etki, Yaşayan(Şiddet) ve Göçen(Miktar) değerleri 0 olduğunda sona erer.",
       "summary": ""
     },
     {
@@ -56,38 +56,38 @@
     },
     {
       "id": "BulletLament",
-      "name": "The Living & The Departed",
-      "desc": "- Unique Ammo\n- Potency + Count = Max 20\n- Consumed for certain Skills.\n- When consumed, randomly selected between The Living(Potency) or The Departed(Count).\n- Some attacks cancel if lacking Ammo.",
+      "name": "Yaşayanlar & Göçenler",
+      "desc": "- Benzersiz Mermi\n- Şiddet + Miktar = Maks 20\n- Belirli yeteneklerle tüketilir.\n- Tüketildiğinde Yaşayanlar(Şiddet) veya Göçenler(Miktar) arasından rastgele seçilir.\n- Mermi bitmesi durumunda bazı saldırılar iptal edilir.",
       "summary": ""
     },
     {
       "id": "TrainTeamCaptain",
-      "name": "Training Team Captain",
-      "desc": "Skill Slot +1\nModify Skill pool: Gain 1 use of Skill 3, but lose 1 use of Skill 1\nTurn Start: heal 15 SP\nIncrease the amount of Burn, Bleed, Rupture, Sinking, or Tremor inflicted by +1 (including 'Unique Status Effects')\nIncrease the amount of Poise or Charge(including 'Unique Charge') gained by +1\nOn Kill, Gain +2 E.G.O resource to the Affinity of the Skill that defeated the enemy; gain +1 E.G.O resource to rest of the Affinities",
+      "name": "Eğitim Takımı Kaptanı",
+      "desc": "Yetenek Yuvası +1\nYetenek havuzunu değiştir: Yetenek 3 kullanımı sayısını 1 artır, ama Yetenek 1 kullanımı sayısını 1 azalt\nTur Başında: 15 SP iyileştir\nUygulanan Yanma, Kanama, Yırtılma, Batış veya Sarsıntı şiddetini +1 artır ('Benzersiz Durum Etkileri' dahil)\nNefes veya Yük miktarını +1 artır ('Benzersiz Yük' dahil)\nBirim öldürdüğünde, düimanı mağlup eden Yeteneğin Türünden +2 E.G.O kaynağı; diğer Türler için +1 E.G.O kaynağı kazan",
       "summary": ""
     },
     {
       "id": "VioletUnderstand",
-      "name": "Understanding",
-      "desc": "- Deal +5% more damage per Stack\n- Take +5% more damage per Stack\n(max value : 5)",
+      "name": "Anlayış",
+      "desc": "-Her yığın başına +%5 daha fazla hasar ver\n- Her yığın başına +%5 daha fazla hasar al\n(Maksimum değer: 5)",
       "summary": ""
     },
     {
       "id": "MentalCrack",
-      "name": "Mental Fracture",
-      "desc": "SP Loss Efficiency +1 per Stack (max 5)\nExpires when it reaches 5 Stack, and take 10 SP damage\nLose 1 Stack per turn",
+      "name": "Zihinsel Çatlak",
+      "desc": "Yığın başına SP Kaybı Verimliliği +1 (Maks 5)\n 5 Yığına ulaştığında sona erer ve 10 SP hasar alır\nHer tur 1 Yığın kaybeder",
       "summary": ""
     },
     {
       "id": "ImpendingCollapse",
-      "name": "Imminent Decay",
-      "desc": "Turn End: Lose 1 Stack\nTurn Start: At 1- Stack, use a special Skill",
+      "name": "Yaklaşan Çöküş",
+      "desc": "Tur Sonu: 1 yığın kaybeder\nTur Başında: 1 yığını kaldığında özel Yetenek kullanır",
       "summary": ""
     },
     {
       "id": "ReloadLament",
       "name": "Reload",
-      "desc": "- Consume (30 - (The Living + The Departed))/2 SP. (rounded down)\n- Reset both The Living and The Departed values on self to 0, and gain the max value of their sum based on the probabilities listed in the Passive 'ISeeTheDyingButterfly.'\n- On Reload, gain at least 1 of The Living and The Departed.",
+      "desc": "- (30 - (Yaşayanlar + Göçenler))/2 SP tüketir. (aşağı yuvarlanır)\n- Kendi üzerindeki Yaşayanlar ve Göçenler değerlerini 0'a sıfırlar ve Pasif 'ÖlüKelebekleriGörüyorum.' de listelenen olasılıklara göre toplamlarının maksimum değerini kazanır\n- Şarjör Doldurmada, en az adet Yaşayanlar veya Göçenler kazan.",
       "summary": ""
     }
   ]

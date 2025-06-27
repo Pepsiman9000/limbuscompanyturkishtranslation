@@ -45,7 +45,7 @@
     {
       "id": "SinkingWhite",
       "name": "Kelebek",
-      "desc": "- Benzersiz Batış\n- Temel Değer: 0, Maksimum Değer: 15\n- Bu etkinin Şiddeti ve Miktarı sırasıyla \"Yaşayan\" ve \"Giden\" olarak adlandırılır.\n- Vurulduğunda, saldıran (Yaşayan/4) SP iyileştirir. (min 1; aşağı yuvarlanır)\n- Vurulduğunda ve bu birimin SP'si 0'dan az ise, Giden miktarı başına (Batış Şiddeti/5) Karartı hasarı alır. (maksimum Karartı hasarı 30; aşağı yuvarlanır; SP'siz hedeflere yarı hasar verir.)\n- Tur Sonu: Bu etkinin Giden miktarını 0'a sıfırla; ardından, Yaşayan kadar Batış kazan ve Yaşayan'ı Giden'e dönüştür.\n- Dış etkiler Kelebek miktarını artırmaz. \"Ek Batış Ver\" etkileri Kelebek yerine ek Batış uygula.\n- Yaşayan ve Giden miktarları 0 olduğunda bu etki sona erer.",
+      "desc": "- Benzersiz Batış\n- Temel Değer: 0, Maksimum Değer: 15\n- Bu etkinin Şiddeti ve Miktarı sırasıyla \"Yaşayan\" ve \"Göçen\" olarak adlandırılır.\n- Vurulduğunda, saldıran (Yaşayan/4) SP iyileştirir. (min 1; aşağı yuvarlanır)\n- Vurulduğunda ve bu birimin SP'si 0'dan az ise, Göçen miktarı başına (Batış Şiddeti/5) Karartı hasarı alır. (maksimum Karartı hasarı 30; aşağı yuvarlanır; SP'siz hedeflere yarı hasar verir.)\n- Tur Sonu: Bu etkinin Göçen miktarını 0'a sıfırla; ardından, Yaşayan kadar Batış kazan ve Yaşayan'ı Göçen'e dönüştür.\n- Dış etkiler Kelebek miktarını artırmaz. \"Ek Batış Ver\" etkileri Kelebek yerine ek Batış uygula.\n- Yaşayan ve Göçen miktarları 0 olduğunda bu etki sona erer.",
       "summary": ""
     },
     {
@@ -56,13 +56,13 @@
     },
     {
       "id": "BulletLament",
-      "name": "Yaşayan & Giden",
-      "desc": "- Benzersiz Mermi\n- Şiddet ve Miktar toplamı 20'ye kadar çıkar.\n- Bazı Yeteneklerde tüketilir.\n- Hangi merminin (Yaşayan (Şiddet) ya da Giden (Miktar)) tüketileceği rastgele belirlenir\n- Mermi bittiğinde bazı saldırılar iptal olur.",
+      "name": "Yaşayanlar & Göçenler",
+      "desc": "- Benzersiz Mermi\n- Şiddet ve Miktar toplamı 20'ye kadar çıkar.\n- Bazı Yeteneklerde tüketilir.\n- Hangi merminin (Yaşayan (Şiddet) ya da Göçen (Miktar)) tüketileceği rastgele belirlenir\n- Mermi bittiğinde bazı saldırılar iptal olur.",
       "summary": ""
     },
     {
       "id": "TrainTeamCaptain",
-      "name": "Antrenman Takımı Kaptanı",
+      "name": "Eğitim Takımı Kaptanı",
       "desc": "Yetenek Yuvası +1\nYetenek havuzunu değiştir: Yetenek 3 kullanım sayısını 1 artır, Yetenek 1 kullanım sayısını 1 azalt\nTur Başında: 15 SP iyileştir\nYanma, Kanama, Yırtılma, Batış veya Sarsıntı miktarını +1 artır (\"Benzersiz Durum Etkileri\" dahil)\nPozisyon veya Yük miktarını +1 artır (\"Benzersiz Yük\" dahil)\nÖldürme anında, düşmanı yok eden Yeteneğin Afinitesine +2 E.G.O kaynağı; diğer Afinitelere +1 E.G.O kaynağı kazan",
       "summary": ""
     },
@@ -76,7 +76,7 @@
       "id": "MentalCrack",
       "name": "Zihinsel Çatlak",
       "desc": "SP kaybı verimliliği yığın başına +1 (maksimum 5)\n5 yığına ulaştığında sona erer ve 10 SP hasar alır\nHer tur 1 yığın kaybeder",
-      "summary": ""
+      "summary": "" 
     },
     {
       "id": "ImpendingCollapse",
@@ -86,8 +86,8 @@
     },
     {
       "id": "ReloadLament",
-      "name": "Yükör Yenileme",
-      "desc": "- Yaşayan & Giden (Benzersiz Mermi) üzerine uygulanır\n- (30 - (Yaşayan + Giden))/2 SP tüketir (aşağı yuvarlanır)\n- Kendi üzerindeki Yaşayan ve Giden miktarlarını 0'a sıfırlar ve Pasif 'ISeeTheDyingButterfly' de listelenen olasılıklara göre maksimum toplam değerini kazanır\n- Yeniden yüklemede, en az bir kez Yaşayan veya Giden kazanır",
+      "name": "Şarjör Doldur",
+      "desc": "- Yaşayanlar & Göçenler (Benzersiz Mermi) üzerine uygulanır\n- (30 - (Yaşayanlar + Göçenler))/2 SP tüketir (aşağı yuvarlanır)\n- Kendi üzerindeki Yaşayan ve Göçen miktarlarını 0'a sıfırlar ve Pasif 'ÖlüKelebekleriGörüyorum.' de listelenen olasılıklara göre maksimum toplam değerini kazanır\n- Yeniden yüklemede, en az bir kez Yaşayan veya Göçen kazanır",
       "summary": ""
     }
   ]

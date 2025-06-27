@@ -1635,7 +1635,7 @@
         },
         {
             "id": 1011002,
-            "name": "Ölü Kelebekleri Görüyorum.",
+            "name": "ÖlüKelebekleriGörüyorum.",
             "desc": "Başlangıçta her bir [BulletLament]ten 10 adet kazan\n\n[BulletLament] tükettikçe, her bir [BulletLament] değeri için Yaşayan(Şiddet) ve Vefat Eden(Miktar arasında rastgele seçim yap.\n\n[SinkingWhite] uyguladığında, tüketilen Yaşayan ve Vehat Etmiş miktarını aynı şekilde uygula. Örnek aşağıda:\n- Eğer bu birim X Yaşayan tükettikse, X Yaşayan uygula\n- Eğer bu birim Y Vefat eden tükettikse, Y Vefat eden uygula\n\nEğer bu birim [BulletLament] tükenirse, sonraki Coin ve [ReloadLament] tümünü iptal et.\n\n[ReloadLament] yaparken veya [BulletLament] kazandığında, bu birimin mevcut SP'sine göre ya Yaşayan ya da Vehat Etmiş kazan\n- 0 veya daha yüksek SP'de: Yaşayan kazanma şansı %30; Vehat Etmiş kazanma şansı %70.\n- 0'dan düşük SP'de: Yaşayan kazanma şansı %70; Vehat Etmiş kazanma şansı %30.\n- Her tükenen mermi için ayrı ayrı hesaplanır.",
             "summary": "Bu birim, Mermi tüketildikçe Yeniden Yükler"
         },
