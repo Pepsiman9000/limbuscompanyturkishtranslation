@@ -346,7 +346,7 @@
     },
     {
       "id": "tuto_01_03_01_02",
-      "content": "Bir <color=#00bfff>Savunma Yetenek<color=#ebcaa2> oluşturmak için Panelde bir Günahkârın portresine dokun.\nSavunma Yetenek, Günahkârın alttaki Yeteneğinin yerine geçer."
+      "content": "Bir <color=#00bfff>Savunma Yeteneği<color=#ebcaa2> oluşturmak için Panelde bir Günahkârın portresine dokun.\nSavunma Yeteneği, Günahkârın alttaki Yeteneğinin yerine geçer."
     },
     {
       "id": "tuto_01_03_01_03",
@@ -362,7 +362,7 @@
     },
     {
       "id": "tuto_01_03_01_06_title",
-      "content": "Savunma Yetenekler: Korunma"
+      "content": "Savunma Yetenekleri: Korunma"
     },
     {
       "id": "tuto_01_03_01_07",
@@ -370,7 +370,7 @@
     },
     {
       "id": "tuto_01_03_01_08_title",
-      "content": "Savunma Yetenekler: Kaçınma"
+      "content": "Savunma Yetenekleri: Kaçınma"
     },
     {
       "id": "tuto_01_03_01_09",
@@ -378,7 +378,7 @@
     },
     {
       "id": "tuto_01_03_01_10_title",
-      "content": "Savunma Yetenekler: Karşı Saldırı"
+      "content": "Savunma Yetenekleri: Karşı Saldırı"
     },
     {
       "id": "tuto_01_03_01_11",
@@ -498,7 +498,7 @@
     },
     {
       "id": "tuto_01_08_02_08",
-      "content": "Aynı Yetenek Yuvasına farklı bir <color=#f8c200>E.G.O Yeteneği<color=#ebcaa2> kuşanmak, veya bir <color=#00bfff>Savunma Yetenek<color=#ebcaa2> oluşturmak, E.G.O Yeteneğini geri çeker ve kaynakları iade eder."
+      "content": "Aynı Yetenek Yuvasına farklı bir <color=#f8c200>E.G.O Yeteneği<color=#ebcaa2> kuşanmak, veya bir <color=#00bfff>Savunma Yeteneği<color=#ebcaa2> oluşturmak, E.G.O Yeteneğini geri çeker ve kaynakları iade eder."
     },
     {
       "id": "tuto_01_08_02_09",
@@ -750,47 +750,47 @@
     },
     {
       "id": "tuto_01_11_snow_white_02_05",
-      "content": "Continue suppressing this Abnormality."
+      "content": "Anomaliyi bastırmaya devam et."
     },
     {
       "id": "tuto_01_11_snow_white_03_01",
-      "content": "During Focused Encounters, you, the manager, may occasionally be tasked with making key decisions in <color=#f8c200><Choice Events><color=#ebcaa2>.\n<color=#f8c200>The tide of battle may drastically shift<color=#ebcaa2> depending on your choices, so choose wisely."
+      "content": "Odaklı Karşılaşmalarda, sen, Müdürümüz, birtakım şıklar içeren hayati seçimler yapma durumunda kalabilirsin.\nSeçimlerine göre <color=#f8c200>savaşın yönü büyük oranda değişebilir<color=#ebcaa2>, dikkatli karar ver."
     },
     {
       "id": "tuto_01_11_snow_white_03_02_title",
-      "content": "Choice Events"
+      "content": "Şıklı Seçimler"
     },
     {
       "id": "tuto_01_11_snow_white_03_02",
-      "content": "These Choice Events function like Skill checks—they have a required Sin Affinity and a threshold to pass.\nEach Choice Event presents an Affinity advantage—select a Sinner with a matching Skill Affinity to increase your chances of success.\nPassing or failing the check will determine the outcome."
+      "content": "Bu seçimler, bir Günah Kontrolü içermeleri açısından Kontrollerle benzerlerdir.\nKazanma şansını artırmak için uygun Günah tipine sahip Günahkârları seç.\nKontrolü geçip geçmemek, sonucu değiştirecektir."
     },
     {
       "id": "tuto_02_12_01_01_start",
-      "content": "Now, we will explore how an Identity's <color=#f8c200>Level<color=#ebcaa2> affects combat and Skills. Try chaining a Skill."
+      "content": "Şimdi, bakalım bir Kişiliğin <color=#f8c200>Seviyesi<color=#ebcaa2> savaşı ve Yetenekleri nasıl etkiliyormuş. Bir Yetenek zincirle."
     },
     {
       "id": "tuto_02_12_01_01",
-      "content": "Every Skill has these two values: <color=#f8c200>Offense Level<color=#ebcaa2> and <color=#f8c200>Defense Level<color=#ebcaa2>."
+      "content": "Her karakterin bir <color=#00bfff>Savunma Seviyesi<color=#ebcaa2> vardır, ve karakterin Saldırı Yeteneklerinin de bir <color=#f8c200>Saldırı Seviyesi<color=#ebcaa2> vardır ."
     },
     {
       "id": "tuto_02_12_01_02",
-      "content": "<color=#f8c200>Offense Level<color=#ebcaa2> affects the following Skills: <color=#f8c200>Attack Skills<color=#ebcaa2> and <color=#f8c200>Counter Skills<color=#ebcaa2>."
+      "content": "<color=#f8c200>Saldırı Seviyesi<color=#ebcaa2> şunları etkiler: <color=#f8c200>Saldırı Yetenekleri<color=#ebcaa2> ve <color=#f8c200>Karşı Saldırılar<color=#ebcaa2>."
     },
     {
       "id": "tuto_02_12_01_03",
-      "content": "<color=#f8c200>Damage dealt<color=#ebcaa2> increases in proportion to how much the attacker's Offense Level exceeds the target's Defense Level. This increased damage is shown here."
+      "content": "Saldıranın <color=#f8c200>Saldırı Seviyesi<color=#ebcaa2> hedefin <color=#00bfff>Savunma Seviyesinden<color=#ebcaa2> ne kadar yüksekse, verilen hasar o kadar artar. Bu hasar artışını burada görebilirsin (Her 1 seviye farkı başına +%3 hasar verilir.)."
     },
     {
       "id": "tuto_02_12_01_04",
-      "content": "Also, in a Clash, every 3 points of Offense Level advantage over the target's Offense Level translates to 1 point of Clash Power advantage."
+      "content": "Aynı zamanda, bir Çarpışma esnasında, her 3 <color=#f8c200>Saldırı Seviyesi<color=#ebcaa2> farkı başına 1 Çarpışma Gücü kazanılır."
     },
     {
       "id": "tuto_02_12_01_05",
-      "content": "All Identities have their Defense Levels, affecting the <color=#f8c200>amount of damage they take<color=#ebcaa2>."
+      "content": "Her Kişiliğin kendince bir <color=#00bfff>Savunma Seviyesi<color=#ebcaa2> vardır, ne kadar hasar aldıklarını etkiler."
     },
     {
       "id": "tuto_02_12_01_06",
-      "content": "<color=#f8c200>Offense Level<color=#ebcaa2> and <color=#f8c200>Defense Level<color=#ebcaa2> are stats that <color=#f8c200>grow in proportion to an Identity’s Level<color=#ebcaa2>.\nThe Level difference between allies and enemies can greatly affect combat difficulty—make sure your <color=#f8c200>Identities are leveled up<color=#ebcaa2> enough if an encounter feels too challenging."
+      "content": "<color=#f8c200>Saldırı Seviyesi<color=#ebcaa2> ve <color=#00bfff>Savunma Seviyesi<color=#ebcaa2> Kişiliğin seviyesi ile orantılı bir şekilde artar.\nGünahkârlar ve düşmanlar arasındaki seviye farkı savaşın gidişatını büyük ölçüde etkileyebilir. Eğer zorlanmaya başlarsan, Kişiliklerin seviyelerinin geride kalmadığından emin ol."
     }
   ]
 }
