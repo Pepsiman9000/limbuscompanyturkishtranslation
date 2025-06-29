@@ -16,9 +16,9 @@
         },
         {
             "id": "Endurance",
-            "name": "Defans Gücü Artışı",
-            "desc": "Bu tur boyunca Defans Yeteneklerinin Final Gücü +{0}.",
-            "summary": "Defans Yeteneği Final Gücü +{0}",
+            "name": "Savunma Gücü Artışı",
+            "desc": "Bu tur boyunca Savunma Yeteneklerinin Final Gücü +{0}.",
+            "summary": "Savunma Yeteneği Final Gücü +{0}",
             "undefined": "-"
         },
         {
@@ -123,9 +123,9 @@
         },
         {
             "id": "DefenseUp",
-            "name": "Defans Seviyesi Artışı",
-            "desc": "Bu tur boyunca Defans Seviyesi +{0}.",
-            "summary": "Defans Seviyesi +{0}"
+            "name": "Savunma Seviyesi Artışı",
+            "desc": "Bu tur boyunca Savunma Seviyesi +{0}.",
+            "summary": "Savunma Seviyesi +{0}"
         },
         {
             "id": "PlusCoinValueUp",
@@ -147,9 +147,9 @@
         },
         {
             "id": "Disarming",
-            "name": "Defans Gücü Düşüşü",
-            "desc": "Bu tur boyunca Defans Yeteneklerinin Final Gücü -{0}.",
-            "summary": "Defans Yeteneği Final Gücü -{0}"
+            "name": "Savunma Gücü Düşüşü",
+            "desc": "Bu tur boyunca Savunma Yeteneklerinin Final Gücü -{0}.",
+            "summary": "Savunma Yeteneği Final Gücü -{0}"
         },
         {
             "id": "ResultReduction",
@@ -165,9 +165,9 @@
         },
         {
             "id": "DefenseDown",
-            "name": "Defans Seviyesi Düşüşü",
-            "desc": "Bu tur boyunca Defans Seviyesi -{0}.",
-            "summary": "Defans Seviyesi -{0}"
+            "name": "Savunma Seviyesi Düşüşü",
+            "desc": "Bu tur boyunca Savunma Seviyesi -{0}.",
+            "summary": "Savunma Seviyesi -{0}"
         },
         {
             "id": "Paralysis",
@@ -2124,7 +2124,7 @@
         },
         {
             "id": "DefensiveStance",
-            "name": "Defansif Duruş",
+            "name": "Savunmaif Duruş",
             "desc": "- Max Value: 2\n- This effect does not compound in potency; stacking it only extends its duration.\n- Reduced by 1 at Turn End\n- When a unit gains this effect, gain the following effects next turn:\n  · Fix this unit's Speed to its minimum value\n  · Gain 5 Defense Level Up\n  · Each of this unit's Slots gain +(10 / this unit's # of Slots) Aggro\n  · When chaining Skills, this unit can draw enemies' attack toward this unit regardless of Speed (Focused Encounters only)\n  · Upon Clash Win, trigger Tremor Burst\n  · Cannot be Staggered by damage",
             "summary": ""
         },
@@ -2499,7 +2499,7 @@
         },
         {
             "id": "SupportProtect",
-            "name": "Asist Defans",
+            "name": "Asist Savunma",
             "desc": "- Max Stack: 3\n- When an ally is about take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self; then, use the exclusive Skill that activates for Assist Defense\n- When there are multiple allies with Assist Defense Stacks, the ally with the highest Stack has the highest activation priority\n- Does not activate for allies who equipped Defense Skills\n- Expires at Turn End",
             "summary": "",
             "undefined": "-"
@@ -2520,7 +2520,7 @@
         },
         {
             "id": "SupportProtectTypo",
-            "name": "Asist Defans",
+            "name": "Asist Savunma",
             "desc": "",
             "summary": "",
             "undefined": "-"
