@@ -678,15 +678,15 @@
         },
         {
             "id": "ab_part_destroyed",
-            "content": "Parçalanan"
+            "content": "Parçalanmış"
         },
         {
             "id": "ab_part_vanished",
-            "content": "Kırılan & Kopartılan"
+            "content": "Parçalanmış & Kopmuş"
         },
         {
             "id": "ab_part_cannot_destroy_and_vanish",
-            "content": "Kırılamaz & Kopartılamaz"
+            "content": "Parçalanmaz & Kopmaz"
         },
         {
             "id": "current_hp",
