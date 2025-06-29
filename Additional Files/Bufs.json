@@ -1694,8 +1694,8 @@
         },
         {
             "id": "FreischutzShotCount",
-            "name": "Sihirli Mühimmat",
-            "desc": "- Max Value: 7\n- Value changes depending on certain Skill effects.\n- [Lobotomy E.G.O::Sihirli Mühimmat Outis Only]\n· Skill 3 Base Power +{0}\n· Skill 3 Coin Power +{1}"
+            "name": "Sihirli Mermi",
+            "desc": "- Max Value: 7\n- Value changes depending on certain Skill effects.\n- [Lobotomy E.G.O::Sihirli Mermi Outis Only]\n· Skill 3 Base Power +{0}\n· Skill 3 Coin Power +{1}"
         },
         {
             "id": "DarkFlame",
@@ -2283,37 +2283,37 @@
         },
         {
             "id": "FreishutzOutisEgoBullet_1st",
-            "name": "Birinci Sihirli Mühimmat",
+            "name": "Birinci Sihirli Mermi",
             "desc": "- Deals +20% damage\n- Raise the target's Stagger Threshold by damage dealt (max 30)"
         },
         {
             "id": "FreishutzOutisEgoBullet_2nd",
-            "name": "İkinci Sihirli Mühimmat",
+            "name": "İkinci Sihirli Mermi",
             "desc": "- Deal +10% damage\n- Deal damage to targets other than the main target (max targets: 4); the main target takes 0 damage\n- On Hit, inflict 3 Paralyze"
         },
         {
             "id": "FreishutzOutisEgoBullet_3rd",
-            "name": "Üçüncü Sihirli Mühimmat",
+            "name": "Üçüncü Sihirli Mermi",
             "desc": "- Deal +20% damage\n- Before Attack: gain +2 Atk Weight\n- On Hit, inflict 2 Attack Power Down and 10 Burn"
         },
         {
             "id": "FreishutzOutisEgoBullet_4th",
-            "name": "Dördüncü Sihirli Mühimmat",
+            "name": "Dördüncü Sihirli Mermi",
             "desc": "- Deal +30% damage\n- Before Attack: gain +3 Atk Weight\n- On Hit, raise the target's Stagger Threshold by damage dealt (max 20); then, inflict 3 Fragility next turn"
         },
         {
             "id": "FreishutzOutisEgoBullet_5th",
-            "name": "Beşinci Sihirli Mühimmat",
+            "name": "Beşinci Sihirli Mermi",
             "desc": "- Deal +30% damage\n- Before Attack: gain +4 Atk Weight\n- On Hit, inflict 10 Burn; then, inflict 4 Offense Level down and 4 Defense Level Down next turn"
         },
         {
             "id": "FreishutzOutisEgoBullet_6th",
-            "name": "Altıncı Sihirli Mühimmat",
+            "name": "Altıncı Sihirli Mermi",
             "desc": "- Before Attack: gain +6 Atk Weight\n- On Hit, raise the target's Stagger Threshold by damage dealt (max 30)\n- Reuse the Coin for every 7 Burn on the main target (2 times max)\n- Plus Coin Skill Base Power -16\n- Minus Coin Skill Base Power -22\n - Plus Coin Power -8\n - Minus Coin Power -12"
         },
         {
             "id": "FreishutzOutisEgoBullet_7th",
-            "name": "Yedinci Sihirli Mühimmat",
+            "name": "Yedinci Sihirli Mermi",
             "desc": "- Deal +200% damage\n- Deal +2.5% damage for every 1% missing HP on target (max 200%)\n- Before Attack: for this attack, if the Pierce Damage Res. on target or on self are less than 2.0, change them to Fatal(x2.0)\n- After Attack: kills this unit"
         },
         {
