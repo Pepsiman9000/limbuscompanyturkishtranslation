@@ -638,39 +638,39 @@
     },
     {
       "id": "tuto_01_11_abbattle_02_02",
-      "content": "The Speed assigned to each unit for this turn can be viewed here, <color=#f8c200>next to their Skill Slots<color=#ebcaa2>."
+      "content": "Her birimin o Tur sahip olduğu <color=#f8c200>Hız<color=#ebcaa2>, Yetenek Yuvalarının yanında gözükür."
     },
     {
       "id": "tuto_01_11_abbattle_02_03",
-      "content": "Speed of allied units can be viewed here <color=#f8c200>on the Dashboard<color=#ebcaa2> as well."
+      "content": "Günahkârların sahip oldukları hız aynı zamanda Panelde de görülebilir."
     },
     {
       "id": "tuto_01_11_abbattle_02_04",
-      "content": "As you have just seen, Focused Encounters are conducted by chaining your units' Skills <color=#f8c200>directly<color=#ebcaa2> to enemy Skill Slots."
+      "content": "Az önce de anlattığım üzere, Odaklı Karşılaşmalarda Günahkârların Yeteneklerini direkt olarak düşmanın Yetenek Yuvasına zincirlersin."
     },
     {
       "id": "tuto_01_11_abbattle_02_05",
-      "content": "Now, let's learn how to handle situations where several enemies are focusing on a single allied unit.\nHover over then select this unit's Slot here."
+      "content": "Şimdi, birkaç saldırının tek bir Günahkârı hedeflediği durumlara bir göz atalım.\nBirimin Yetenek Yuvasını seç."
     },
     {
       "id": "tuto_01_11_abbattle_02_06",
-      "content": "<color=#f8c200>Allies with faster Speeds<color=#ebcaa2> can force enemies with slower Speeds to <color=#f8c200>redirect their attacks and <Clash> with them<color=#ebcaa2> instead by chaining their own Skill against the enemy's."
+      "content": "Yüksek Hıza sahip Müttefikler, daha düşük Hıza sahip düşmanların saldırılarını saptırabilir ve onlar ile <color=#f8c200>Çarpışabilirler<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_11_abbattle_02_07",
-      "content": "Select a faster Sinner and chain their Skill against the enemy's."
+      "content": "Düşmandan daha yüksek Hıza sahip bir Günahkârın Yeteneğini düşmanın Yeteneğine zincirle."
     },
     {
       "id": "tuto_01_11_abbattle_02_08",
-      "content": "Select a faster Sinner and chain their Skill against the enemy's."
+      "content": "Daha yüksek hıza sahip Günahkârlar, bu şekilde saldırıların yönünü değiştirebilirler"
     },
     {
       "id": "tuto_01_11_abbattle_02_09",
-      "content": "As demonstrated here, allies with faster Speeds than the enemy can <color=#f8c200>strategically draw attacks targeting other allies to themselves<color=#ebcaa2> depending on the flow of battle."
+      "content": "Bir Günahkâr birkaç saldırı altında kaldığında, başka Günahkârları kullanarak o saldırılarla çarpışabilirsin."
     },
     {
       "id": "tuto_01_11_abbattle_02_10_title",
-      "content": "When Ally's Speed > Enemy's Speed"
+      "content": "Müttefiğin Hızı > Düşmanın Hızı"
     },
     {
       "id": "tuto_01_11_abbattle_02_10",
