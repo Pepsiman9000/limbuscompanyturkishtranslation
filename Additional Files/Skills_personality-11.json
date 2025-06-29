@@ -513,7 +513,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sihirli Mühimmatı Tetikle",
+          "name": "Sihirli Mermiyi Tetikle",
           "desc": "Hedefte 6+ [Combustion] varsa, Jeton Gücü +1",
           "coinlist": [
             {
@@ -534,7 +534,7 @@
         },
         {
           "level": 2,
-          "name": "Sihirli Mühimmatı Tetikle",
+          "name": "Sihirli Mermiyi Tetikle",
           "desc": "Hedefteki her 6 [Combustion] için Jeton Gücü +1 (Maks 2)",
           "coinlist": [
             {
@@ -555,7 +555,7 @@
         },
         {
           "level": 4,
-          "name": "Sihirli Mühimmatı Tetikle",
+          "name": "Sihirli Mermiyi Tetikle",
           "desc": "Hedefteki her 6 [Combustion] için Jeton Gücü +1 (Maks 3)",
           "coinlist": [
             {
@@ -581,7 +581,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Sihirli Mühimmat Atışı",
+          "name": "Sihirli Mermi Ateş",
           "desc": "Hedefteki her [Combustion] için %0.5 daha fazla Hasar ver (Maks %15)\n\n[BeforeAttack] 1 [FreischutzShotCount] kazan\n- (([FreischutzShotCount] -1)x5) SP kaybet\n- Atk Ağırlığı [FreischutzShotCount] değerine eşit olur\n- 10 veya daha az SP varsa, %50 şansla rastgele saldır\n\n[EndSkill] Eğer 7 [FreischutzShotCount] varsa, 0'a sıfırla (Son Mühimmat harcanmış sayılır)",
           "coinlist": [
             {
@@ -595,7 +595,7 @@
         },
         {
           "level": 4,
-          "name": "Sihirli Mühimmat Atışı",
+          "name": "Sihirli Mermi Ateş",
           "desc": "Hedefteki her [Combustion] için %1 daha fazla Hasar ver (Maks %30)\n\n[BeforeAttack] 1 [FreischutzShotCount] kazan\n- (([FreischutzShotCount] -1)x5) SP kaybet\n- Atk Ağırlığı [FreischutzShotCount] değerine eşit olur\n- 10 veya daha az SP varsa, %50 şansla rastgele saldır\n\n[EndSkill] Eğer 7 [FreischutzShotCount] varsa, 0'a sıfırla (Son Mühimmat harcanmış sayılır)",
           "coinlist": [
             {
