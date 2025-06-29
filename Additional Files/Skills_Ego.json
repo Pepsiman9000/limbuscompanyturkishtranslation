@@ -1440,8 +1440,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "name": "Telepol",
+          "abName": "Garip Kont",
           "desc": "[CantIdentify] Rastgele Hedef Alır\n+6 Yetenek Gücü kazanmak için bütün [Charge] Miktarı'nı harca",
           "coinlist": [
             {
@@ -1455,8 +1455,8 @@
         },
         {
           "level": 3,
-          "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "name": "Telepol",
+          "abName": "Garip Kont",
           "desc": "[CantIdentify] Rastgele Hedef Alır\n[WhenUse] Haset Rezonansına göre [Charge] Miktarı kazan\n+10 Yetenek Gücü kazanmak için bütün [Charge] Miktarı'nı harca",
           "coinlist": [
             {
@@ -1470,8 +1470,8 @@
         },
         {
           "level": 4,
-          "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "name": "Telepol",
+          "abName": "Garip Kont",
           "desc": "[CantIdentify] Rastgele Hedef Alır\n[WhenUse] Haset Rezonansına göre [Charge] Miktarı kazan\n+15 Yetenek Gücü kazanmak için bütün [Charge] Miktarı'nı harca",
           "coinlist": [
             {
@@ -1492,7 +1492,7 @@
           "level": 1,
           "name": "Çıkıkzıpkın",
           "abName": "Ishmael",
-          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
+          "desc": "En arkadaki Düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
@@ -1510,7 +1510,7 @@
           "level": 3,
           "name": "Çıkıkzıpkın",
           "abName": "Ishmael",
-          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
+          "desc": "En arkadaki Düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
@@ -1528,7 +1528,7 @@
           "level": 4,
           "name": "Çıkıkzıpkın",
           "abName": "Ishmael",
-          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
+          "desc": "En arkadaki Düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
@@ -1554,15 +1554,15 @@
           "level": 1,
           "name": "Pembe Arzu",
           "abName": "Pembe Ayakkabılar",
-          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
+          "desc": "En arkadaki Düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 4 [AttackDown] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Paralyze"
+                  "desc": "[OnSucceedAttack] 2 [Paralysis] uygula"
                 }
               ]
             }
@@ -1572,15 +1572,15 @@
           "level": 3,
           "name": "Pembe Arzu",
           "abName": "Pembe Ayakkabılar",
-          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
+          "desc": "En arkadaki Düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 7 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 7 [AttackDown] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -1590,18 +1590,18 @@
           "level": 4,
           "name": "Pembe Arzu",
           "abName": "Pembe Ayakkabılar",
-          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
+          "desc": "En arkadaki Düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 10 [AttackDown] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] 3 [Paralysis] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next Turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [Binding] uygula"
                 }
               ]
             }
@@ -1616,15 +1616,15 @@
           "level": 1,
           "name": "Pembe Arzu",
           "abName": "Pembe Ayakkabılar",
-          "desc": "[CantIdentify]\nTargets the unit with the highest Speed",
+          "desc": "[CantIdentify]\nEn hızlı Birimi hedefler",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 4 [AttackDown] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Paralyze"
+                  "desc": "[OnSucceedAttack] 2 [Paralysis] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Sonraki Tur 4 [Binding] uygula"
@@ -1637,15 +1637,15 @@
           "level": 3,
           "name": "Pembe Arzu",
           "abName": "Pembe Ayakkabılar",
-          "desc": "[CantIdentify]\nTargets the unit with the highest Speed",
+          "desc": "[CantIdentify]\nEn hızlı Birimi hedefler",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 7 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 7 [AttackDown] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] 3 [Paralysis] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Sonraki Tur 4 [Binding] uygula"
@@ -1658,18 +1658,18 @@
           "level": 4,
           "name": "Pembe Arzu",
           "abName": "Pembe Ayakkabılar",
-          "desc": "[CantIdentify]\nTargets the unit with the highest Speed",
+          "desc": "[CantIdentify]\nEn hızlı Birimi hedefler",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Offense Level Down"
+                  "desc": "[OnSucceedAttack] 10 [AttackDown] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze"
+                  "desc": "[OnSucceedAttack] 5 [Paralysis] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bind next Turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 5 [Binding] uygula"
                 }
               ]
             }
@@ -1682,17 +1682,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ardor Blossom Star",
-          "abName": "Ardor Blossom Moth",
-          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
+          "name": "Alev Çiçeği Yıldızı",
+          "abName": "Alev Çiçeği Güvesi",
+          "desc": "En arkadaki Düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Inflict Burn by half of Wrath Reson."
+                  "desc": "Öfke Rezonansının yarısı kadar [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Burn on 3 random enemies"
+                  "desc": "[OnSucceedAttackHead] 3 Rastgele Düşmana 3 [Combustion] uygula"
                 }
               ]
             }
@@ -1700,20 +1700,20 @@
         },
         {
           "level": 3,
-          "name": "Ardor Blossom Star",
-          "abName": "Ardor Blossom Moth",
-          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
+          "name": "Alev Çiçeği Yıldızı",
+          "abName": "Alev Çiçeği Güvesi",
+          "desc": "En arkadaki Düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Raise Stagger Threshold by 40% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] Sersemleme Eşiği'ni verilen hasarın 40%'ı kadar artır"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Burn by Wrath Reson."
+                  "desc": "[OnSucceedAttack] Öfke Rezonansı kadar [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Burn on 3 random enemies"
+                  "desc": "[OnSucceedAttackHead] 3 Rastgele Düşmana 3 [Combustion] uygula"
                 }
               ]
             }
@@ -1721,20 +1721,20 @@
         },
         {
           "level": 4,
-          "name": "Ardor Blossom Star",
-          "abName": "Ardor Blossom Moth",
-          "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
+          "name": "Alev Çiçeği Yıldızı",
+          "abName": "Alev Çiçeği Güvesi",
+          "desc": "En arkadaki Düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Raise Stagger Threshold by 40% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] Sersemleme Eşiği'ni verilen hasarın 40%'ı kadar artır"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Burn by Wrath Reson."
+                  "desc": "[OnSucceedAttack] Öfke Rezonansı kadar [Combustion] uygula"
                 },
                 {
-                  "desc": "[EndSkillHead] Inflict 5 Burn on 3 random enemies"
+                  "desc": "[EndSkillHead] 3 Rastgele Düşmana 5 [Combustion] uygula"
                 }
               ]
             }
@@ -1747,14 +1747,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ardor Blossom Star",
-          "abName": "Ardor Blossom Moth",
-          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[WhenUse] Lose HP by 10% of Max HP",
+          "name": "Alev Çiçeği Yıldızı",
+          "abName": "Alev Çiçeği Güvesi",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[WhenUse] Max HP'nin 10%'unu kaybet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Burn by Wrath Reson. on all units"
+                  "desc": "[OnSucceedAttack] Bütün Birimlere Öfke Rezonansı kadar [Combustion] uygula"
                 }
               ]
             }
@@ -1762,17 +1762,17 @@
         },
         {
           "level": 3,
-          "name": "Ardor Blossom Star",
-          "abName": "Ardor Blossom Moth",
+          "name": "Alev Çiçeği Yıldızı",
+          "abName": "Alev Çiçeği Güvesi",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[WhenUse] Lose HP by 10% of Max HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Burn by (2x) Wrath Reson. on all units"
+                  "desc": "[OnSucceedAttack] Bütün Birimlere (2x) Öfke Rezonansı kadar [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 60% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiği'ni verilen hasarın 60%'ı kadar artır"
                 }
               ]
             }
@@ -1780,17 +1780,17 @@
         },
         {
           "level": 4,
-          "name": "Ardor Blossom Star",
-          "abName": "Ardor Blossom Moth",
+          "name": "Alev Çiçeği Yıldızı",
+          "abName": "Alev Çiçeği Güvesi",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[WhenUse] Lose HP by 10% of Max HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Inflict Burn by (2 * Wrath Reson.) on all units"
+                  "desc": "[EndSkill] Bütün Birimlere (2 * Öfke Rezonansı kadar) [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 60% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiği'ni verilen hasarın 60%'ı kadar artır"
                 }
               ]
             }
@@ -1866,7 +1866,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 }
               ]
             }
@@ -1881,10 +1881,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] 6 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Wrath Fragility next Turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [CrimsonTakeDamageUp] uygula"
                 }
               ]
             }
@@ -1904,7 +1904,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] 4 [Combustion] uygula"
                 }
               ]
             }
@@ -1919,10 +1919,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] 6 [Combustion] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Wrath Fragility next Turn"
+                  "desc": "[OnSucceedAttack] Sonraki Tur 3 [CrimsonTakeDamageUp] uygula"
                 }
               ]
             }
@@ -1935,17 +1935,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rime Shank",
+          "name": "Kırağı Baldırı",
           "abName": "Baba Yaga",
-          "desc": "Hedefin HP'si 50%den fazla ise, deal +10% damage",
+          "desc": "Hedefin HP'si 50%den fazla ise, +10% hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackHead] [VibrationExplosion]'nı tetikle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] +2 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -1953,17 +1953,17 @@
         },
         {
           "level": 3,
-          "name": "Rime Shank",
+          "name": "Kırağı Baldırı",
           "abName": "Baba Yaga",
-          "desc": "Hedefin HP'si 50%den fazla ise, deal +30% damage",
+          "desc": "Hedefin HP'si 50%den fazla ise, +30% hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]'nı tetikle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] +3 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -1971,17 +1971,17 @@
         },
         {
           "level": 4,
-          "name": "Rime Shank",
+          "name": "Kırağı Baldırı",
           "abName": "Baba Yaga",
-          "desc": "Hedefin HP'si 50%den fazla ise, deal +30% damage",
+          "desc": "Hedefin HP'si 50%den fazla ise, +30% hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]'nı tetikle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking\n[OnSucceedAttack] Inflict +5 Sinking Count"
+                  "desc": "[OnSucceedAttack] 5 [Sinking] uygula\n[OnSucceedAttack] +5 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -1994,17 +1994,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rime Shank",
+          "name": "Kırağı Baldırı",
           "abName": "Baba Yaga",
-          "desc": "[CantIdentify]\nTargets the unit with the most HP\nHedefin HP'si 50%den fazla ise, +10% Damage",
+          "desc": "[CantIdentify]\nEn yüksek HP'ye sahip Birimi hedefler\nHedefin HP'si 50%den fazla ise, +10% hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackHead] [VibrationExplosion]'nı tetikle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 Sinking Count"
+                  "desc": "[OnSucceedAttack] +4 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -2012,17 +2012,17 @@
         },
         {
           "level": 3,
-          "name": "Rime Shank",
+          "name": "Kırağı Baldırı",
           "abName": "Baba Yaga",
-          "desc": "[CantIdentify]\nTargets the unit with the most HP\nHedefin HP'si 50%den fazla ise, +30% Damage",
+          "desc": "[CantIdentify]\nEn yüksek HP'ye sahip Birimi hedefler\nHedefin HP'si 50%den fazla ise, +30% hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]'nı tetikle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +6 Sinking Count"
+                  "desc": "[OnSucceedAttack] +6 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -2030,17 +2030,17 @@
         },
         {
           "level": 4,
-          "name": "Rime Shank",
+          "name": "Kırağı Baldırı",
           "abName": "Baba Yaga",
-          "desc": "[CantIdentify]\nTargets the unit with the most HP\nHedefin HP'si 50%den fazla ise, +30% Damage",
+          "desc": "[CantIdentify]\nEn yüksek HP'ye sahip Birimi hedefler\nHedefin HP'si 50%den fazla ise, +30% hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]'nı tetikle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Sinking\n[OnSucceedAttack] Inflict +8 Sinking Count"
+                  "desc": "[OnSucceedAttack] 10 [Sinking] uygula\n[OnSucceedAttack] +8 [Sinking] uygula"
                 }
               ]
             }
@@ -2530,7 +2530,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]'nı tetikle"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 Tremor"
@@ -2551,7 +2551,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]'nı tetikle"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 6 Tremor"
@@ -3551,7 +3551,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Bind next Turn"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion]'nı tetikle"
                 }
               ]
             }
@@ -3572,7 +3572,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Bind next Turn"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger Tremor Burst; Inflict +2 Sinking Count"
+                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion]'nı tetikle; Inflict +2 Sinking Count"
                 }
               ]
             }
@@ -3593,7 +3593,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Bind next Turn"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger Tremor Burst; Inflict +3 Sinking Count"
+                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion]'nı tetikle; Inflict +3 Sinking Count"
                 }
               ]
             }
@@ -3616,7 +3616,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Bind next Turn"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion]'nı tetikle"
                 }
               ]
             }
@@ -3640,7 +3640,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Bind next Turn"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger Tremor Burst; Inflict +2 Sinking Count and RupTure Count"
+                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion]'nı tetikle; Inflict +2 Sinking Count and RupTure Count"
                 }
               ]
             }
@@ -3664,7 +3664,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Bind next Turn"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger Tremor Burst; Inflict +3 Sinking Count and RupTure Count"
+                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion]'nı tetikle; Inflict +3 Sinking Count and RupTure Count"
                 }
               ]
             }
