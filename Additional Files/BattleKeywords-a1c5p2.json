@@ -10,27 +10,27 @@
         {
             "id": "AaCePbBb",
             "name": "Gürültü Paniği",
-            "desc": "Bu birimin yazı-tura attığı her Jeton tura gelir.\nEtkisi bir sonraki tur sona erer",
-            "summary": "Tüm Jetonlar tura gelir",
+            "desc": "Bu birimin attığı her Jeton yazı gelir.\nEtkisi bir sonraki tur sona erer",
+            "summary": "Tüm Jetonlar yazı gelir",
             "undefined": "-"
         },
         {
             "id": "AaCePbBc",
-            "name": "Kirlilik",
+            "name": "Safsızlık",
             "desc": "- Düşük Moral\n- 1 Kırılganlık kazanır. Bu birim bir Çarpışmayı kaybederse, hedef 2 SP kaybeder",
             "summary": "Bu birim Çarpışmayı kaybederse hedef 2 SP kaybeder",
             "undefined": "-"
         },
         {
             "id": "AaCePbBd",
-            "name": "Kirlilik",
+            "name": "Safsızlık",
             "desc": "- Panik\n- 2 Kırılganlık kazanır. Bu birim bir Çarpışmayı kaybederse, hedef 5 SP kaybeder",
             "summary": "Bu birim Çarpışmayı kaybederse hedef 5 SP kaybeder",
             "undefined": "-"
         },
         {
             "id": "AaCePbBi",
-            "name": "Oe'nın Sınavı",
+            "name": "Büyük Biraderin Testi",
             "desc": "Tur Sonu: Değer 1 azalır\nBu etki aktifken, Yeteneklerden alınan Hasar iki katına çıkar. Sarsıntı Patlaması'nın yükselttiği Sersemleme eşiği miktarı iki katına çıkar.\nBu etki bu birim Sersemlediğinde sona erer.\nEğer bu etki sona erdiğinde birim Sersemlemediyse, bir sonraki turun başında 5 Hasar Gücü kazanır",
             "summary": "",
             "undefined": "-"

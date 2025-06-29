@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": "AaCePaBa",
-      "name": "Compulsion",
-      "desc": "Starts encounter with -25 SP. At less than 0 SP at Turn Start, gain 3 Attack Power Up.",
-      "summary": "At less than 0 SP, gain 3 Attack Power Up",
+      "name": "Baskı",
+      "desc": "Karşılaşmaya -25 SP ile başlar. Tur Başlangıcında 0 SP'den az olduğunda 3 Saldırı Gücü Artışı kazan.",
+      "summary": "0 SP'nin altına, 3 Saldırı Gücü Artışı kazan",
       "undefined": "-"
     }
   ]
