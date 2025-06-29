@@ -2120,14 +2120,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Impending Day",
-          "abName": "Doomsday Calendar",
-          "desc": "If target’s HP is below 25%, deal +10% damage",
+          "name": "Yaklaşan Gün",
+          "abName": "Kıyamet Takvimi",
+          "desc": "Eğer Hedefin HP'si 25%'in altındaysa, +10% hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Heal all allies for 10% of their Max HP"
+                  "desc": "[EnemyKill] Bütün Müttefiklerin HP'lerini, Max HP'lerinin 10%'u kadar yenile"
                 }
               ]
             }
@@ -2135,17 +2135,17 @@
         },
         {
           "level": 3,
-          "name": "Impending Day",
-          "abName": "Doomsday Calendar",
-          "desc": "If target’s HP is below 25%, deal +20% damage",
+          "name": "Yaklaşan Gün",
+          "abName": "Kıyamet Takvimi",
+          "desc": "Eğer Hedefin HP'si 25%'in altındaysa, +20% hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Gain 1 Attack Power Up next Turn"
+                  "desc": "[EnemyKill] Sonraki Tur 1 [Enhancement] kazan"
                 },
                 {
-                  "desc": "[EnemyKill] Heal all allies for 15% of their Max HP"
+                  "desc": "[EnemyKill] Bütün Müttefiklerin HP'lerini, Max HP'lerinin 15%'i kadar yenile"
                 }
               ]
             }
@@ -2153,17 +2153,17 @@
         },
         {
           "level": 4,
-          "name": "Impending Day",
-          "abName": "Doomsday Calendar",
-          "desc": "If target’s HP is below 25%, +40% Damage",
+          "name": "Yaklaşan Gün",
+          "abName": "Kıyamet Takvimi",
+          "desc": "Eğer Hedefin HP'si 25%'in altındaysa, +40% hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Gain 1 Attack Power Up next Turn"
+                  "desc": "[EnemyKill] Sonraki Tur 1 [Enhancement] kazan"
                 },
                 {
-                  "desc": "[EnemyKill] Heal all allies for 15% of their Max HP"
+                  "desc": "[EnemyKill] Bütün Müttefiklerin HP'lerini, Max HP'lerinin 15%'i kadar yenile"
                 }
               ]
             }
@@ -2176,14 +2176,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Impending Day",
-          "abName": "Doomsday Calendar",
-          "desc": "[CantIdentify]\nRastgele Hedef Alır\nIf target’s HP is below 25%, +15% Damage",
+          "name": "Yaklaşan Gün",
+          "abName": "Kıyamet Takvimi",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\nEğer Hedefin HP'si 25%'in altındaysa, +15% hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKillFail] Gain 10 Bleed next Turn"
+                  "desc": "[EnemyKillFail] Sonraki Tur 10 [Laceration] kazan"
                 }
               ]
             }
@@ -2191,17 +2191,17 @@
         },
         {
           "level": 3,
-          "name": "Impending Day",
-          "abName": "Doomsday Calendar",
-          "desc": "[CantIdentify]\nRastgele Hedef Alır\nIf target’s HP is below 25%, +25% Damage",
+          "name": "Yaklaşan Gün",
+          "abName": "Kıyamet Takvimi",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\nEğer Hedefin HP'si 25%'in altındaysa, +25% hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKillFail] Gain 10 Bleed next Turn"
+                  "desc": "[EnemyKillFail] Sonraki Tur 10 [Laceration] kazan"
                 },
                 {
-                  "desc": "[EnemyKillFail] Gain 3 Attack Power Up next Turn"
+                  "desc": "[EnemyKillFail] Sonraki Tur 3 [Enhancement] kazan"
                 }
               ]
             }
@@ -2209,17 +2209,17 @@
         },
         {
           "level": 4,
-          "name": "Impending Day",
-          "abName": "Doomsday Calendar",
-          "desc": "[CantIdentify]\nRastgele Hedef Alır\nIf target’s HP is below 25%, +50% Damage",
+          "name": "Yaklaşan Gün",
+          "abName": "Kıyamet Takvimi",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\nEğer Hedefin HP'si 25%'in altındaysa, +50% hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKillFail] Gain 10 Bleed next Turn"
+                  "desc": "[EnemyKillFail] Sonraki Tur 10 [Laceration] kazan"
                 },
                 {
-                  "desc": "[EnemyKillFail] Gain 3 Attack Power Up next Turn"
+                  "desc": "[EnemyKillFail] Sonraki Tur 3 [Enhancement] kazan"
                 }
               ]
             }
@@ -2390,7 +2390,7 @@
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "My Form Empties",
-          "desc": "[EndSkill] Heal 18 SP\n[EndSkill] Apply 1 Attack Power Up to 2 random other allies",
+          "desc": "[EndSkill] Heal 18 SP\n[EndSkill] Apply 1 [Enhancement] to 2 random other allies",
           "coinlist": [
             {
               "coindescs": [
@@ -2431,7 +2431,7 @@
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "My Form Empties",
-          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Apply 1 Attack Power Up to 2 random other allies",
+          "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Apply 1 [Enhancement] to 2 random other allies",
           "coinlist": [
             {
               "coindescs": [
