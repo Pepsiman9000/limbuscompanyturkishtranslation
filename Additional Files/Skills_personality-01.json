@@ -191,12 +191,12 @@
         {
           "level": 1,
           "name": "Boyutsal Kesik",
-          "desc": "[WhenUse] Gain +2 Charge Count",
+          "desc": "[WhenUse] +2 Yük miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] +2 Yük miktarı kazan"
                 }
               ]
             }
@@ -205,15 +205,15 @@
         {
           "level": 2,
           "name": "Boyutsal Kesit",
-          "desc": "[WhenUse] Gain +2 Charge Count",
+          "desc": "[WhenUse] +2 Yük miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] +2 Yük miktarı kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] 2 Parçalanma ver"
                 }
               ]
             }
@@ -222,15 +222,15 @@
         {
           "level": 4,
           "name": "Boyutsal Kesit",
-          "desc": "[WhenUse] Gain +2 Charge Count\nAt 10+ Charge Count, Coin Power +2",
+          "desc": "[WhenUse] +2 Yük miktarı kazan\n10+ Yük miktarında, Jeton Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] +2 Yük miktarı kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] 2 Parçalanma ver"
                 }
               ]
             }
@@ -244,19 +244,19 @@
         {
           "level": 1,
           "name": "Enerji Döngüsü",
-          "desc": "[WhenUse] Gain +5 Charge Count",
+          "desc": "[WhenUse] +5 Yük miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 yavaşlatma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
                 }
               ]
             }
@@ -265,22 +265,22 @@
         {
           "level": 2,
           "name": "Enerji Döngüsü",
-          "desc": "[WhenUse] Gain +6 Charge Count\nAt 10+ Charge Count, Coin Power +1",
+          "desc": "[WhenUse] +6 Yük miktarı kazan\n10+ Yük miktarında, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 yavaşlatma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Charge Count, inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 10+ Yük miktarında, 3 parçalanma ver"
                 }
               ]
             }
@@ -289,22 +289,22 @@
         {
           "level": 4,
           "name": "Enerji Döngüsü",
-          "desc": "[WhenUse] Gain +7 Charge Count\nAt 10+ Charge Count, Coin Power +1",
+          "desc": "[WhenUse] +7 Yük miktarı kazan\n10+ Yük miktarında, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 yavaşlatma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 3 Parçalanma ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Charge Count, inflict 3 Rupture and +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] 10+ Yük miktarında, 3 parçalanma ve +2 parçalanma miktarı ver"
                 }
               ]
             }
