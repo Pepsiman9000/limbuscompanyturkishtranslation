@@ -714,39 +714,39 @@
     },
     {
       "id": "tuto_01_11_snow_white_01_01",
-      "content": "You have encountered a new Abnormality. Please view its Abnormality Guide."
+      "content": "Yeni bir <color=#FF3333>Anomali<color=#ebcaa2> keşfettin, hadi <color=#FF3333>Anomali<color=#ebcaa2> Rehberine bir bakalım."
     },
     {
       "id": "tuto_01_11_snow_white_01_02_title",
-      "content": "The Abnormality Guide"
+      "content": "Anomali Rehberi"
     },
     {
       "id": "tuto_01_11_snow_white_01_02",
-      "content": "The Abnormality Guide lists information about the Abnormality.\n<color=#f8c200>The guide will gradually fill up as you battle the Abnormality.<color=#ebcaa2>\n\nRaise the <color=#f8c200>Observation Level<color=#ebcaa2> by repeatedly encountering and battling the Abnormality.\nHigher Observation Levels slightly increases the damage you deal against the Abnormality."
+      "content": "Anomali Rehberi, <color=#FF3333>Anomali<color=#ebcaa2> hakkında çeşitli bilgier sunar.\n<color=#f8c200>Rehber az bilgiyle başlar ve <color=#FF3333>Anomali<color=#ebcaa2> ile savaşlar yaptıkça Rehber dolacaktır.<color=#ebcaa2>\n\n<color=#FF3333>Anomali<color=#ebcaa2> ile karşılaşmalar yaparak ve onunla savaşarak <color=#f8c200>Farkındalık Seviyesini<color=#ebcaa2> artırabilirsin (Arcade benzeri oyun modlarında aynı <color=#FF3333>Anomaliler<color=#ebcaa2> ile yeniden karşılaşacaksın).\nYüksek Farkındalık Seviyeleri, <color=#FF3333>Anomaliye<color=#ebcaa2> verdiğin hasarı da artırır. "
     },
     {
       "id": "tuto_01_11_snow_white_01_03",
-      "content": "You may encounter <color=#FF3333>Anomali<color=#ebcaa2> with <color=#f8c200>multiple <color=#FFE5CC>Uzuv<color=#ebcaa2><color=#ebcaa2> in the dungeons you explore.\nIn such cases, each <color=#FFE5CC>Uzuvu<color=#ebcaa2> may have different Resistances, Passives, and Skills."
+      "content": "Keşfettiğin zindanlarda birden çok <color=#FFE5CC>Uzuva<color=#ebcaa2> sahip <color=#FF3333>Anomaliler<color=#ebcaa2> ile karşılaşabilirsin.\nBu durumda, her <color=#FFE5CC>Uzuv<color=#ebcaa2> farklı Zayıflıklara, Pasiflere ve Yeteneklere sahip olur."
     },
     {
       "id": "tuto_01_11_snow_white_01_04",
-      "content": "This Abnormality's weak point is its <color=#f8c200>Fruit<color=#ebcaa2> Part.\nTarget the Fruit."
+      "content": "Görünen o ki bu <color=#FF3333>Anomalinin<color=#ebcaa2> zayıflığı <color=#f8c200>Meyve<color=#ebcaa2> parçası.\nMeyvesini hedefle."
     },
     {
       "id": "tuto_01_11_snow_white_02_01",
-      "content": "You destroyed a <color=#FFE5CC>Uzuvu<color=#ebcaa2> of the Abnormality. Let us consult the Abnormality Guide to see if anything has been updated."
+      "content": "<color=#FF3333>Anomalinin<color=#ebcaa2> bir <color=#FFE5CC>Uzuvunu<color=#ebcaa2> parçaladın. Herhangi bir güncelleme yaşanmış mı görmek için Anomali Rehberine danışalım."
     },
     {
       "id": "tuto_01_11_snow_white_02_02",
-      "content": "You destroyed the Fruit Part."
+      "content": "Meyveyi Parçaladın."
     },
     {
       "id": "tuto_01_11_snow_white_02_03",
-      "content": "Physical Resistance values for <color=#f8c200>Destroyed<color=#ebcaa2> <color=#FFE5CC>Uzuv<color=#ebcaa2> become <color=#f8c200>Fatal<color=#ebcaa2>.\nPlease note that <color=#FFE5CC>Uzuv<color=#ebcaa2> marked as <color=#f8c200>Severable<color=#ebcaa2> cannot be attacked again once Destroyed, unless they regenerate."
+      "content": "<color=#FF0000>Parçalanmış<color=#ebcaa2> <color=#FFE5CC>Uzuvların<color=#ebcaa2> Fiziksel Zayıflık Değerleri <color=#FF0000>Ölümcül<color=#ebcaa2> olur.\nAklında tut ki, <color=#f8c200>Koparılabilir<color=#ebcaa2> olarak etiketlenmiş <color=#FFE5CC>Uzuvlar<color=#ebcaa2> Parçalandıktan sonra -Rejenere olmadıkları takdirde- bir daha saldırılamaz."
     },
     {
       "id": "tuto_01_11_snow_white_02_04",
-      "content": "Progressing through the Encounter will unlock the enemy's Passive information.\n<color=#f8c200>Reading the details and clues in the enemy's information window<color=#ebcaa2> is crucial to winning certain battles."
+      "content": "Karşılaşma ilerledikçe düşmanın Pasif bilgileri açılacaktır.\n<color=#f8c200>Bu penceredeki bilgileri okumak<color=#ebcaa2> belirli savaşları kazanmak için hayati önem taşır.\nÇEVİRMEN NOTU: Oku! Her şeyi oku! Allah'ın adıyla oku!"
     },
     {
       "id": "tuto_01_11_snow_white_02_05",
