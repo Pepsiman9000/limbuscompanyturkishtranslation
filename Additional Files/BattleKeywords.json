@@ -17,8 +17,8 @@
     },
     {
       "id": "Endurance",
-      "name": "Defans Gücü Artışı",
-      "desc": "Bu tur boyunca Defans Yeteneklerinin Final Gücü Miktarı kadar artar."
+      "name": "Savunma Gücü Artışı",
+      "desc": "Bu tur boyunca Savunma Yeteneklerinin Final Gücü Miktarı kadar artar."
     },
     {
       "id": "Reduction",
@@ -116,7 +116,7 @@
     },
     {
       "id": "DefenseUp",
-      "name": "Defans Seviyesi Artışı",
+      "name": "Savunma Seviyesi Artışı",
       "desc": "Bir tur boyunca etkisinin şiddetine bağlı olarak Savunma Seviyesi artar.",
       "summary": "Defense Level +{0}"
     },
@@ -137,8 +137,8 @@
     },
     {
       "id": "Disarming",
-      "name": "Defans Gücü Düşüşü",
-      "desc": "Bu tur boyunca Defans Yeteneklerinin Final Gücü Miktarına göre azalır."
+      "name": "Savunma Gücü Düşüşü",
+      "desc": "Bu tur boyunca Savunma Yeteneklerinin Final Gücü Miktarına göre azalır."
     },
     {
       "id": "ResultReduction",
@@ -154,8 +154,8 @@
     },
     {
       "id": "DefenseDown",
-      "name": "Defans Seviyesi Düşüşü",
-      "desc": "Defans Seviyesi, etkinin Miktarına bağlı olarak bir tur boyunca azalır.",
+      "name": "Savunma Seviyesi Düşüşü",
+      "desc": "Savunma Seviyesi, etkinin Miktarına bağlı olarak bir tur boyunca azalır.",
       "summary": "Defens Seviyesi -{0}"
     },
     {
@@ -1954,7 +1954,7 @@
     },
     {
       "id": "SupportProtect",
-      "name": "Asist Defans",
+      "name": "Asist Savunma",
       "desc": "- Max Stack: 3\n- When an ally is about to take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self; then, use the unique Skill that activates for Assist Defense\n- When there are multiple allies with Assist Defense Stacks, the ally with the highest Stack has the highest activation priority\n- Does not activate for allies who equipped Defense Skills\n- Expires at Turn End",
       "summary": "",
       "undefined": "-"
