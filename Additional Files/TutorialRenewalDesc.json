@@ -342,11 +342,11 @@
     },
     {
       "id": "tuto_01_03_01_01",
-      "content": "Saldırı Yeteneklerinin yanı sıra, her birimin bir <color=#00bfff>Defans Yeteneği<color=#ebcaa2> de vardır."
+      "content": "Saldırı Yeteneklerinin yanı sıra, her birimin bir <color=#00bfff>Savunma Yeteneği<color=#ebcaa2> de vardır."
     },
     {
       "id": "tuto_01_03_01_02",
-      "content": "Bir <color=#00bfff>Defansif Yetenek<color=#ebcaa2> oluşturmak için Panelde bir Günahkârın portresine dokun.\nDefansif Yetenek, Günahkârın alttaki Yeteneğinin yerine geçer."
+      "content": "Bir <color=#00bfff>Savunma Yetenek<color=#ebcaa2> oluşturmak için Panelde bir Günahkârın portresine dokun.\nSavunma Yetenek, Günahkârın alttaki Yeteneğinin yerine geçer."
     },
     {
       "id": "tuto_01_03_01_03",
@@ -362,7 +362,7 @@
     },
     {
       "id": "tuto_01_03_01_06_title",
-      "content": "Defansif Yetenekler: Korunma"
+      "content": "Savunma Yetenekler: Korunma"
     },
     {
       "id": "tuto_01_03_01_07",
@@ -370,7 +370,7 @@
     },
     {
       "id": "tuto_01_03_01_08_title",
-      "content": "Defansif Yetenekler: Kaçınma"
+      "content": "Savunma Yetenekler: Kaçınma"
     },
     {
       "id": "tuto_01_03_01_09",
@@ -378,7 +378,7 @@
     },
     {
       "id": "tuto_01_03_01_10_title",
-      "content": "Defansif Yetenekler: Karşı Saldırı"
+      "content": "Savunma Yetenekler: Karşı Saldırı"
     },
     {
       "id": "tuto_01_03_01_11",
@@ -386,19 +386,19 @@
     },
     {
       "id": "tuto_01_03_01_12",
-      "content": "Oluşmuş <color=#00bfff>Defansif Yeteneği<color=#ebcaa2> iptal etmek için, Günahkârın portresine bir kez daha dokunabilirsin."
+      "content": "Oluşmuş <color=#00bfff>Savunma Yeteneği<color=#ebcaa2> iptal etmek için, Günahkârın portresine bir kez daha dokunabilirsin."
     },
     {
       "id": "tuto_01_03_01_13",
-      "content": "Hadi Defansif Yeteneklerin nasıl çalıştıklarını gösterimli bir şekilde görelim.\n\nDefansif Yetenekleri zincirle ve savaş fazını başlat."
+      "content": "Hadi Savunma Yeteneklerin nasıl çalıştıklarını gösterimli bir şekilde görelim.\n\nSavunma Yetenekleri zincirle ve savaş fazını başlat."
     },
     {
       "id": "tuto_01_03_02_01",
-      "content": "Doğru şartlar altında kullanıldığında, <color=#00bfff>Defansif Yetenekler<color=#ebcaa2> rakibe saldırmak veya Çarpışmaktan bile daha efektif olabilir. Amma velâkin, bu Yeteneklerin yanlış kullanılışı Günahkârları büyük bir riske sokabilir."
+      "content": "Doğru şartlar altında kullanıldığında, <color=#00bfff>Savunma Yetenekler<color=#ebcaa2> rakibe saldırmak veya Çarpışmaktan bile daha efektif olabilir. Amma velâkin, bu Yeteneklerin yanlış kullanılışı Günahkârları büyük bir riske sokabilir."
     },
     {
       "id": "tuto_01_03_02_02",
-      "content": "Bir de, aklının bir kenarına yaz ki Günahkârlar sen onlara direkt olarak emri vermediğin sürece <color=#00bfff>Defansif Yeteneklerini<color=#ebcaa2> kullanmazlar. <color=#f8c200>Otomatik Yetenek zincirleme<color=#ebcaa2> özelliklerini kullanırken bunu unutma."
+      "content": "Bir de, aklının bir kenarına yaz ki Günahkârlar sen onlara direkt olarak emri vermediğin sürece <color=#00bfff>Savunma Yeteneklerini<color=#ebcaa2> kullanmazlar. <color=#f8c200>Otomatik Yetenek zincirleme<color=#ebcaa2> özelliklerini kullanırken bunu unutma."
     },
     {
       "id": "tuto_01_04_01_01_title",
@@ -498,7 +498,7 @@
     },
     {
       "id": "tuto_01_08_02_08",
-      "content": "Aynı Yetenek Yuvasına farklı bir <color=#f8c200>E.G.O Yeteneği<color=#ebcaa2> kuşanmak, veya bir <color=#00bfff>Defansif Yetenek<color=#ebcaa2> oluşturmak, E.G.O Yeteneğini geri çeker ve kaynakları iade eder."
+      "content": "Aynı Yetenek Yuvasına farklı bir <color=#f8c200>E.G.O Yeteneği<color=#ebcaa2> kuşanmak, veya bir <color=#00bfff>Savunma Yetenek<color=#ebcaa2> oluşturmak, E.G.O Yeteneğini geri çeker ve kaynakları iade eder."
     },
     {
       "id": "tuto_01_08_02_09",
