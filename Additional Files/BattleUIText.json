@@ -146,7 +146,7 @@
         },
         {
             "id": "status_abnormal",
-            "content": "Efektler"
+            "content": "Etkiler"
         },
         {
             "id": "immunity_information",
@@ -578,11 +578,11 @@
         },
         {
             "id": "ab_part_destroyable",
-            "content": "Yıkılabilir"
+            "content": "Parçalanabilir"
         },
         {
             "id": "ab_part_destroyable_and_can_vanish",
-            "content": "Yıkılabilir & Kopartıralabilir"
+            "content": "Parçalanabilir & Koparılabilir"
         },
         {
             "id": "ab_guidebook_view",
@@ -606,7 +606,7 @@
         },
         {
             "id": "show_BattleUnitAblityUI",
-            "content": "Savaş Aşamasında aktif efektler arayüzünü göster"
+            "content": "Savaş Aşamasında aktif etkiler arayüzünü göster"
         },
         {
             "id": "LobotomyStartTypo_Title_1",
@@ -682,11 +682,11 @@
         },
         {
             "id": "ab_part_vanished",
-            "content": "Parçalanmış & Kopmuş"
+            "content": "Parçalanmış & Koparılmış"
         },
         {
             "id": "ab_part_cannot_destroy_and_vanish",
-            "content": "Parçalanmaz & Kopmaz"
+            "content": "Parçalanamaz & Koparılamaz"
         },
         {
             "id": "current_hp",
