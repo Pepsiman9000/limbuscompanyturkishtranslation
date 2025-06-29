@@ -203,7 +203,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Sözleşmeli Dar Gömlek",
+                    "name": "Büzülmüş Dar Ceket",
                     "desc": "[WhenUse] +3 [Vibration] Miktarı Kazan",
                     "coinlist": [
                         {
@@ -220,7 +220,7 @@
                 },
                 {
                     "level": 2,
-                    "name": "Sözleşmeli Dar Gömlek",
+                    "name": "Büzülmüş Dar Ceket",
                     "desc": "[WhenUse] +3 [Vibration] Miktarı Kazan",
                     "coinlist": [
                         {
@@ -237,7 +237,7 @@
                 },
                 {
                     "level": 4,
-                    "name": "Sözleşmeli Dar Gömlek",
+                    "name": "Büzülmüş Dar Ceket",
                     "desc": "[WhenUse] +3 [Vibration] Miktarı Kazan\n[DefeatDuel] +3 [Vibration] Miktarı Kazan",
                     "coinlist": [
                         {
@@ -273,7 +273,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 4 [Vİbration] uygula"
+                                    "desc": "[OnSucceedAttack] 4 [Vibration] uygula"
                                 }
                             ]
                         }
