@@ -674,39 +674,39 @@
     },
     {
       "id": "tuto_01_11_abbattle_02_10",
-      "content": "<color=#f8c200>If an allied unit's Speed is faster than the enemy unit's<color=#ebcaa2>, the allied unit can <color=#f8c200>redirect<color=#ebcaa2> the <color=#f8c200>targeting<color=#ebcaa2> of the enemy's Skill to themselves.\n\nOnce redirected, the allied unit and the enemy unit will <color=#f8c200>Clash<color=#ebcaa2>."
+      "content": "Eğer bir Günahkârın Hızı, düşmanın Hızından fazla ise, düşmanın saldırısını kendisine yönlendirebilir.\nArdından, Günahkâr ve düşman çarpışırlar."
     },
     {
       "id": "tuto_01_11_abbattle_02_11",
-      "content": "Another thing to note regarding targeting and redirecting: an <color=#f8c200>allied unit targeted by an enemy Skill<color=#ebcaa2> can still <color=#f8c200>Clash<color=#ebcaa2> against that Skill, <color=#f8c200>regardless of their own Speed<color=#ebcaa2>."
+      "content": "Unutma: Saldırı yönlendirmeden bağımsız bir şekilde, hız farketmeksizin, bir Günahkâr kendisine yapılan saldırılar ile Çarpışabilir."
     },
     {
       "id": "tuto_01_11_abbattle_02_12",
-      "content": "Chain your Skills against the enemy's."
+      "content": "Oyna."
     },
     {
       "id": "tuto_01_11_abbattle_02_13",
-      "content": "Chain your Skills against the enemy's."
+      "content": "Oyna."
     },
     {
       "id": "tuto_01_11_abbattle_02_14_title",
-      "content": "When targeted by enemy Skills"
+      "content": "Düşman Saldırıları Tarafından Hedeflendiğinde"
     },
     {
       "id": "tuto_01_11_abbattle_02_14",
-      "content": "Allies targeted by enemy Skills can Clash against Skills targeting themselves <color=#f8c200>regardless of Speed<color=#ebcaa2>."
+      "content": "Hız farketmeksizin, bir Günahkâr kendisine yapılan saldırılar ile Çarpışabilir."
     },
     {
       "id": "tuto_01_11_abbattle_02_15",
-      "content": "If an allied unit's Speed is equal to or slower than the enemy's, they cannot redirect the enemy Skill and may instead perform an <color=#05DBF2>Unopposed Attack<color=#ebcaa2>."
+      "content": "Eğer başka bir birimin Hızı, düşmana eşit veya düşmandan daha az ise, onu saldırılarını saptıramaz. Saptırmayı denediğinde, onun yerine bir <color=#05DBF2>Karşılıksız Saldırı<color=#ebcaa2> gerçekleşir."
     },
     {
       "id": "tuto_01_11_abbattle_02_16_title",
-      "content": "When Ally's Speed ≤ Enemy's Speed"
+      "content": "Müttefiğin Hızı ≤ Düşmanın Hızı"
     },
     {
       "id": "tuto_01_11_abbattle_02_16",
-      "content": "Allies with lower or equal Speed values cannot force enemies with faster Speed to target them.\nIn such cases, both units will perform an <color=#05DBF2>Unopposed Attack (marked by blue arrows)<color=#ebcaa2> instead of engaging in a Clash first. Faster unit will attack first.\n\n<color=#05DBF2>Unopposed Attacks<color=#ebcaa2> skip Clashes and strike directly."
+      "content": "Daha düşük Hıza sahip olan Günahkârlar, düşmanların saldırılarını yönlendiremez.\nYine de o şekilde zincirlersen, Çarpışmak yerine düşman orijinal hedefine, Günahkâr ise düşmana bir <color=#05DBF2>Karşılıksız Saldırı (mavi oklarla gösterilir)<color=#ebcaa2> gerçekleştirir. Düşman daha Hızlı olduğu için daha önce saldırır.\n\n<color=#05DBF2>Karşılıksız Saldırılar<color=#ebcaa2> Çarpışmak yerine direkt olarak saldırırlar."
     },
     {
       "id": "tuto_01_11_abbattle_02_17",
