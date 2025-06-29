@@ -1149,7 +1149,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "İkili Kesiş - Patlama [爆]",
+          "name": "İkili Kesiş - Patlama",
           "desc": "",
           "coinlist": [
             {},
@@ -1170,7 +1170,7 @@
         },
         {
           "level": 2,
-          "name": "İkili Kesiş - Patlama [爆]",
+          "name": "İkili Kesiş - Patlama",
           "desc": "<style=\"highlight\">Ana hedefin üzerindeki toplam her 4 [Combustion] ve [Vibration] için Final Gücü +1 (maks 2)</style>",
           "coinlist": [
             {
@@ -1197,7 +1197,7 @@
         },
         {
           "level": 4,
-          "name": "İkili Kesiş - Patlama [爆]",
+          "name": "İkili Kesiş - Patlama",
           "desc": "Ana hedefin üzerindeki toplam her 4 [Combustion] ve [Vibration] için Final Gücü +1 (maks <style=\"highlight\">3</style>)",
           "coinlist": [
             {
@@ -1229,7 +1229,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Üçlü Kesiş - Patlama [爆]",
+          "name": "Üçlü Kesiş - Patlama",
           "desc": "",
           "coinlist": [
             {},
@@ -1263,7 +1263,7 @@
         },
         {
           "level": 2,
-          "name": "Üçlü Kesiş - Patlama [爆]",
+          "name": "Üçlü Kesiş - Patlama",
           "desc": "<style=\"highlight\">Ana hedefin üzerindeki toplam her 4 [Combustion] ve [Vibration] için Final Gücü +1 (maks 2)</style>",
           "coinlist": [
             {
@@ -1306,7 +1306,7 @@
         },
         {
           "level": 4,
-          "name": "Üçlü Kesiş - Patlama [爆]",
+          "name": "Üçlü Kesiş - Patlama",
           "desc": "Ana hedefin üzerindeki toplam her 4 [Combustion] ve [Vibration] için Final Gücü +1 (maks <style=\"highlight\">4</style>)",
           "coinlist": [
             {
@@ -1354,7 +1354,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Sorunkesici [快刀亂麻]",
+          "name": "Sorunkesici",
           "desc": "Eğer bu karakter [BulletPropellantSpecialAlly]a sahipse, bunun yerine 'Vahşi Kaplan Avcısı'nın Mükemmel Kılıç Darbeleri' ni etkinleşir\n- [BeforeUse] Eğer bu karakterde [BulletPropellantSpecialAlly] yoksa, etkinleştirmeyi iptal et\nEğer ana hedefte toplam 8+ [Combustion] ve [Vibration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
@@ -1403,7 +1403,7 @@
         },
         {
           "level": 4,
-          "name": "Sorunkesici [快刀亂麻]",
+          "name": "Sorunkesici",
           "desc": "Eğer bu karakter [BulletPropellantSpecialAlly]a sahipse, bunun yerine 'Vahşi Kaplan Avcısı'nın Mükemmel Kılıç Darbeleri' ni etkinleşir\n- [BeforeUse] Eğer bu karakterde [BulletPropellantSpecialAlly] yoksa, etkinleştirmeyi iptal et\n Ana hedefteki her 8 [Combustion] ve [Vibration] için, Jeton Gücü +1, (maks 2)</style>",
           "coinlist": [
             {
@@ -1498,7 +1498,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Vahşi Kaplan Avcısı'nın Mükemmel Kılıç Darbeleri [超絕猛虎殺擊亂斬]",
+          "name": "Vahşi Kaplan Avcısı'nın Mükemmel Kılıç Darbeleri",
           "desc": "Eğer ana hedefte toplam 8+ [Combustion] ve [Vibration] varsa, Jeton Gücü +1",
           "coinlist": [
             {
@@ -1552,7 +1552,7 @@
         },
         {
           "level": 4,
-          "name": "Vahşi Kaplan Avcısı'nın Mükemmel Kılıç Darbeleri [超絕猛虎殺擊亂斬]",
+          "name": "Vahşi Kaplan Avcısı'nın Mükemmel Kılıç Darbeleri",
           "desc": "<style=\"highlight\">Ana hedefteki her 8 [Combustion] ve [Vibration] için, Jeton Gücü +1, (maks 2)</style>",
           "coinlist": [
             {
