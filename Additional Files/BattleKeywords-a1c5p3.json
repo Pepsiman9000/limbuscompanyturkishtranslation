@@ -10,13 +10,13 @@
         {
             "id": "AaCePcBb",
             "name": "Floresan Parça",
-            "desc": "Tur Başında: 3 Nefes kazan ve +2 Nefes Miktarı",
+            "desc": "Tur Başında: 3 Nefes ve +2 Nefes Miktarı kazan.",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "AaCePcBc",
-            "name": "Kör Tutku",
+            "name": "Kör Takıntı",
             "desc": "3 veya daha fazla değerde, bu birim sersemler.",
             "summary": "",
             "undefined": "-"
@@ -30,8 +30,8 @@
         },
         {
             "id": "AaCePcBh",
-            "name": "Yeşil Salya",
-            "desc": "Bu değer küçüldüğünde, gelecek turda Yeşil Salya üretir.",
+            "name": "Yeşil Balçık",
+            "desc": "Bu değer azaldığında, gelecek turda Yeşil Balçık üretir.",
             "summary": "",
             "undefined": "-"
         },
@@ -51,7 +51,7 @@
         },
         {
             "id": "AaCePcBk",
-            "name": "Karışıklık",
+            "name": "Bağla",
             "desc": "Hedeflerde Yakalama etkisi varken verildiğinde, hedefi sersemletir. Zaten Sersemlemiş hedeflerde işe yaramaz.",
             "summary": "",
             "undefined": "-"
@@ -59,13 +59,13 @@
         {
             "id": "AaCePcBl",
             "name": "Yakalama",
-            "desc": "Hedeflerde Karışıklık etkisi varken verildiğinde, hedefi sersemletir. Zaten Sersemlemiş hedeflerde işe yaramaz.",
+            "desc": "Hedeflerde Bağla etkisi varken verildiğinde, hedefi sersemletir. Zaten Sersemlemiş hedeflerde işe yaramaz.",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "AaCePcBn",
-            "name": "Yenilmez Emir",
+            "name": "Tartışmasız Emir",
             "desc": "Yetenek kullanırken mevcut HP'nin %10'unu kaybet.\nYetenek Final Gücü +1\nVurulduğunda Ahab 8 SP yeniler; kendine ve Ahaba 2 Nefes uygula.",
             "summary": "Yetenek kullanırken HP kaybı; Final Gücü +1",
             "undefined": "-"

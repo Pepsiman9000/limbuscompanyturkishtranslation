@@ -2,79 +2,79 @@
   "dataList": [
     {
       "id": "AaCePcBa",
-      "name": "Marked",
-      "desc": "Will be primarily targeted.",
+      "name": "İşaretli",
+      "desc": "Öncelikli olarak hedef alınacak.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCePcBb",
-      "name": "Fluorescence Shard",
-      "desc": "Turn Start: Gain 3 Poise and +2 Poise Count",
+      "name": "Floresan Parça",
+      "desc": "Tur Başında: 3 Nefes ve +2 Nefes Miktarı kazan.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCePcBc",
-      "name": "Blind Obsession",
-      "desc": "At 3+ value, this unit becomes staggered.",
+      "name": "Kör Takıntı",
+      "desc": "3 veya daha fazla değerde, bu birim sersemler.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCePcBg",
       "name": "Larva",
-      "desc": "Turn End: Move Larva to the ally with the highest HP.\nTurn Start: Lose SP equal to the value of Larva on self.",
+      "desc": "Tur Sonu: Larva'yı en yüksek HP'ye sahip müttefike taşı.\nTur Başında: Kendi üzerindeki Larva değeri kadar SP kaybet.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCePcBh",
-      "name": "Green Slime",
-      "desc": "Generates Green Slime next turn every time this value shrinks",
+      "name": "Yeşil Balçık",
+      "desc": "Bu değer azaldığında, gelecek turda Yeşil Balçık üretir.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCePcBi",
-      "name": "Uneven Breathing",
-      "desc": "Turn End: Lose 5 Poise.\nDeal +50% more damage and receive +50% more damage",
-      "summary": "Deal +50% more damage and receive +50% more damage",
+      "name": "Düzensiz Nefes",
+      "desc": "Tur Sonu: 5 Nefes kaybet.\nVerdiği ve aldığı hasar %50 artar.", 
+      "summary": "%50 daha fazla hasar ver ve al", 
       "undefined": "-"
     },
     {
       "id": "AaCePcBj",
-      "name": "Prey Mark",
-      "desc": "All Pequod crew targets this unit\nTake +50% more damage from Pequod crew",
-      "summary": "Take +50% more damage from Pequod crew",
+      "name": "Av İşareti",
+      "desc": "Tüm Pequod mürettebatı bu birimi hedefler.\nPequod mürettebatından gelen hasar %50 artar.",
+      "summary": "Pequod mürettebatından +%50 daha fazla hasar al",
       "undefined": "-"
     },
     {
       "id": "AaCePcBk",
-      "name": "Tangle",
-      "desc": "If inflicted against a target with Capture, Stagger target",
-      "summary": "Stagger target under certain conditions",
+      "name": "Bağla",
+      "desc": "Yakala etkisi altındaki bir hedefe karşı uygulandıysa, hedefi sersemlet", 
+      "summary": "Belirli koşullarda hedefi sersemlet",
       "undefined": "-"
     },
     {
       "id": "AaCePcBl",
-      "name": "Capture",
-      "desc": "If inflicted against a target with Tangle, Stagger target",
+      "name": "Yakala",
+      "desc": "Bağla etkisi altındaki bir hedefe karşı uygulandıysa, hedefi sersemlet",
       "summary": "Stagger target under certain conditions",
       "undefined": "-"
     },
     {
       "id": "AaCePcBn",
-      "name": "Undefiable Command",
-      "desc": "Lose 10% of current HP when using a Skill. Skill Final Power +1\nOn Hit, Ahab heals 8 SP; apply 2 Poise to self and Ahab",
-      "summary": "Lose HP when using a Skill; Final Power +1",
+      "name": "Tartışmasız Emir",
+      "desc": "Yetenek kullanırken mevcut HP'nin %10'unu kaybet.\nYetenek Son Gücü +1\nVurduğunda, Ahab 8 SP yeniler; kendine ve Ahaba 2 Nefes uygula.",
+      "summary": "Yetenek kullanırken HP kaybet; Son Güç +1", 
       "undefined": "-"
     },
     {
       "id": "AaCePcBo",
-      "name": "Pip's Ego",
-      "desc": "Turn Start: Heal 3 SP per value.\nDecreases when using Weight of Guilt after failing Evade.\nTurn End: If at 0, get Staggered.",
-      "summary": "Heal SP by value. Reduce value when failing Evade or after using certain Skills.",
+      "name": "Pip'in Kişiliği",
+      "desc": "Tur Başında: Değer başına 3 SP yenile.\nBaşarısız kaçınmadan sonra Suçun Ağırlığını kullanırken azalır.*\nTur Sonu: Değer 0 ise Sersemle.", 
+      "summary": "Değere göre SP yenile. Kaçınmayı başaramazsa veya belirli yetenekleri kullanırsa azalır.",
       "undefined": "-"
     },
     {
