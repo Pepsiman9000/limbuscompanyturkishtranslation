@@ -1201,17 +1201,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Roseate Desire",
-          "abName": "Pink Shoes",
+          "name": "Pembe Arzu",
+          "abName": "Pembe Ayakkabılar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Power Down"
+                  "desc": "[OnSucceedAttack] 2 [Disarming] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] 2 [DefenseDown] uygula"
                 }
               ]
             }
@@ -1219,17 +1219,17 @@
         },
         {
           "level": 3,
-          "name": "Roseate Desire",
-          "abName": "Pink Shoes",
+          "name": "Pembe Arzu",
+          "abName": "Pembe Ayakkabılar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Power Down"
+                  "desc": "[OnSucceedAttack] 2 [Disarming] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Level Down"
+                  "desc": "[OnSucceedAttack] 4 [DefenseDown] uygula"
                 }
               ]
             }
@@ -1237,17 +1237,17 @@
         },
         {
           "level": 4,
-          "name": "Roseate Desire",
-          "abName": "Pink Shoes",
+          "name": "Pembe Arzu",
+          "abName": "Pembe Ayakkabılar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Power Down"
+                  "desc": "[OnSucceedAttack] 2 [Disarming] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Defense Level Down"
+                  "desc": "[OnSucceedAttack] 5 [DefenseDown] uygula"
                 }
               ]
             }
@@ -1260,17 +1260,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Roseate Desire",
-          "abName": "Pink Shoes",
-          "desc": "[CantIdentify]\nTargets the unit with the highest Speed",
+          "name": "Pembe Arzu",
+          "abName": "Pembe Ayakkabılar",
+          "desc": "[CantIdentify]\nEn hızlı Birimi hedefler",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Power Down"
+                  "desc": "[OnSucceedAttack] 2 [Disarming] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] 5 [DefenseDown] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Sonraki Tur 4 [Binding] uygula"
@@ -1281,17 +1281,17 @@
         },
         {
           "level": 3,
-          "name": "Roseate Desire",
-          "abName": "Pink Shoes",
-          "desc": "[CantIdentify]\nTargets the unit with the highest Speed",
+          "name": "Pembe Arzu",
+          "abName": "Pembe Ayakkabılar",
+          "desc": "[CantIdentify]\nEn hızlı Birimi hedefler",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Power Down"
+                  "desc": "[OnSucceedAttack] 2 [Disarming] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Level Down"
+                  "desc": "[OnSucceedAttack] 5 [DefenseDown] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Sonraki Tur 4 [Binding] uygula"
@@ -1302,17 +1302,17 @@
         },
         {
           "level": 4,
-          "name": "Roseate Desire",
-          "abName": "Pink Shoes",
-          "desc": "[CantIdentify]\nTargets the unit with the highest Speed",
+          "name": "Pembe Arzu",
+          "abName": "Pembe Ayakkabılar",
+          "desc": "[CantIdentify]\nEn hızlı Birimi hedefler",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Power Down"
+                  "desc": "[OnSucceedAttack] 2 [Disarming] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Defense Level Down"
+                  "desc": "[OnSucceedAttack] 5 [DefenseDown] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Sonraki Tur 4 [Binding] uygula"
@@ -1552,8 +1552,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Roseate Desire",
-          "abName": "Pink Shoes",
+          "name": "Pembe Arzu",
+          "abName": "Pembe Ayakkabılar",
           "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
@@ -1570,8 +1570,8 @@
         },
         {
           "level": 3,
-          "name": "Roseate Desire",
-          "abName": "Pink Shoes",
+          "name": "Pembe Arzu",
+          "abName": "Pembe Ayakkabılar",
           "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
@@ -1588,8 +1588,8 @@
         },
         {
           "level": 4,
-          "name": "Roseate Desire",
-          "abName": "Pink Shoes",
+          "name": "Pembe Arzu",
+          "abName": "Pembe Ayakkabılar",
           "desc": "En arkadaki düşmanı hedefler (Sıradan Karşılaşmalarda)",
           "coinlist": [
             {
@@ -1614,8 +1614,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Roseate Desire",
-          "abName": "Pink Shoes",
+          "name": "Pembe Arzu",
+          "abName": "Pembe Ayakkabılar",
           "desc": "[CantIdentify]\nTargets the unit with the highest Speed",
           "coinlist": [
             {
@@ -1635,8 +1635,8 @@
         },
         {
           "level": 3,
-          "name": "Roseate Desire",
-          "abName": "Pink Shoes",
+          "name": "Pembe Arzu",
+          "abName": "Pembe Ayakkabılar",
           "desc": "[CantIdentify]\nTargets the unit with the highest Speed",
           "coinlist": [
             {
@@ -1656,8 +1656,8 @@
         },
         {
           "level": 4,
-          "name": "Roseate Desire",
-          "abName": "Pink Shoes",
+          "name": "Pembe Arzu",
+          "abName": "Pembe Ayakkabılar",
           "desc": "[CantIdentify]\nTargets the unit with the highest Speed",
           "coinlist": [
             {
