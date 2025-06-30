@@ -114,7 +114,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Lanetli Mühimmat",
+                    "name": "Lanetli Mermi",
                     "abName": "Der Fluchschütze",
                     "desc": "En az HP'ye sahip hedefleri önceliklendirir (DIKKAT müttefikleri önceliklendirir)\n[BeforeAttack] (en yüksek Rezonans + 1) kadar [BoseProjektil] kazanır (maksimum 7)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazanır (maksimum 7)\n[EndSkill] Tüm [BoseProjektil]leri kaybeder",
                     "coinlist": [
@@ -151,7 +151,7 @@
                 },
                 {
                     "level": 3,
-                    "name": "Lanetli Mühimmat",
+                    "name": "Lanetli Mermi",
                     "abName": "Der Fluchschütze",
                     "desc": "En az HP'ye sahip hedefleri önceliklendirir (DIKKAT müttefikleri önceliklendirir)\n[BeforeAttack] (en yüksek Rezonans + 1) kadar [BoseProjektil] kazanır (maksimum 7)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazanır (maksimum 7)\n[EndSkill] Tüm [BoseProjektil]leri kaybeder<style=\"highlight\"></style>",
                     "coinlist": [
@@ -191,7 +191,7 @@
                 },
                 {
                     "level": 4,
-                    "name": "Lanetli Mühimmat",
+                    "name": "Lanetli Mermi",
                     "abName": "Der Fluchschütze",
                     "desc": "En az HP'ye sahip hedefleri önceliklendirir (DIKKAT müttefikleri önceliklendirir)\n[BeforeAttack] (en yüksek Rezonans + 1) kadar [BoseProjektil] kazanır (maksimum 7)\n<style=\"highlight\">- Eğer bu Rezonans bir Pride Rezonansı ise, (en yüksek Rezonans x 2) kadar [BoseProjektil] kazanır (maksimum 7)</style>\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazanır (maksimum 7)\n[EndSkill] Tüm [BoseProjektil]leri kaybeder",
                     "coinlist": [
@@ -236,7 +236,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Lanetli Mühimmat",
+                    "name": "Lanetli Mermi",
                     "abName": "Der Fluchschütze",
                     "desc": "[CantIdentify]\nEn az HP'ye sahip hedefleri önceliklendirir (DIKKAT müttefikleri önceliklendirir)\n[BeforeAttack] (en yüksek Rezonans + 1) kadar [BoseProjektil] kazanır (maksimum 7)\n[BeforeAttack] Her [BoseProjektil] için +%2 daha fazla hasar (maksimum %14)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazanır (maksimum 7)\n[EndSkill] Tüm [BoseProjektil]leri kaybeder",
                     "coinlist": [
@@ -282,7 +282,7 @@
                 },
                 {
                     "level": 3,
-                    "name": "Lanetli Mühimmat",
+                    "name": "Lanetli Mermi",
                     "abName": "Der Fluchschütze",
                     "desc": "[CantIdentify]\nEn az HP'ye sahip hedefleri önceliklendirir (DIKKAT müttefikleri önceliklendirir)\n[BeforeAttack] (en yüksek Rezonans + 1) kadar [BoseProjektil] kazanır (maksimum 7)\n[BeforeAttack] Her [BoseProjektil] için <style=\"highlight\">+%3</style> daha fazla hasar (maksimum <style=\"highlight\">%21</style>)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazanır (maksimum 7)\n[EndSkill] Tüm [BoseProjektil]leri kaybeder",
                     "coinlist": [
@@ -328,7 +328,7 @@
                 },
                 {
                     "level": 4,
-                    "name": "Lanetli Mühimmat",
+                    "name": "Lanetli Mermi",
                     "abName": "Der Fluchschütze",
                     "desc": "[CantIdentify]\nEn az HP'ye sahip hedefleri önceliklendirir (DIKKAT müttefikleri önceliklendirir)\n[BeforeAttack] (en yüksek Rezonans + 1) kadar [BoseProjektil] kazanır (maksimum 7)\n<style=\"highlight\">- Eğer bu Rezonans bir Pride Rezonansı ise, (en yüksek Rezonans x 2) kadar [BoseProjektil] kazanır (maksimum 7)</style>\n[BeforeAttack] Her [BoseProjektil] için <style=\"highlight\">+%4</style> daha fazla hasar (maksimum <style=\"highlight\">%28</style>)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazanır (maksimum 7)\n[EndSkill] Tüm [BoseProjektil]leri kaybeder",
                     "coinlist": [
