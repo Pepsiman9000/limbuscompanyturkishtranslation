@@ -262,7 +262,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lanetli Mühimmat",
+          "name": "Lanetli Mermi",
           "abName": "Der Fluchschütze",
           "desc": "[BeforeAttack] (En yüksek Rez. + 1) [BoseProjektil] kazan (En fazla 7)\n- Eğer Rez., M-Rez. ise, (En yüksek Rez. +2) [BoseProjektil] kazan\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazan (En fazla 3)\n[EndSkill] Bütün [BoseProjektil]'leri kaybet",
           "coinlist": [
@@ -287,7 +287,7 @@
         },
         {
           "level": 3,
-          "name": "Lanetli Mühimmat",
+          "name": "Lanetli Mermi",
           "abName": "Der Fluchschütze",
           "desc": "[BeforeAttack] (En yüksek Rez. + 1) [BoseProjektil] kazan (En fazla 7)\n- Eğer Rez., M-Rez. ise, (En yüksek Rez. +2) [BoseProjektil] kazan\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazan (En fazla 3)\n[EndSkill] Bütün [BoseProjektil]'leri kaybet",
           "coinlist": [
@@ -312,7 +312,7 @@
         },
         {
           "level": 4,
-          "name": "Lanetli Mühimmat",
+          "name": "Lanetli Mermi",
           "abName": "Der Fluchschütze",
           "desc": "[BeforeAttack] (En yüksek Rez. + 1) [BoseProjektil] kazan (En fazla 7)\n- Eğer Rez., M-Rez. ise, (En yüksek Rez. +2) [BoseProjektil] kazan\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazan (En fazla <style=\"highlight\">7</style>)\n[BeforeAttack] +1 [Breath] Miktarı kazan\n[EndSkill] Bütün [BoseProjektil]'leri kaybet",
           "coinlist": [
@@ -342,7 +342,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lanetli Mühimmat",
+          "name": "Lanetli Mermi",
           "abName": "Der Fluchschütze",
           "desc": "[CantIdentify]\nRastgele hedefler\n[BeforeAttack] (En yüksek Rez. + 1) [BoseProjektil] kazan (En fazla 7)\n- Eğer Rez., M-Rez. ise, (En yüksek Rez. +2) [BoseProjektil] kazan\n[BeforeAttack] Her [BoseProjektil] için +2% daha fazla hasar ver (En fazla 14%)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazan (En fazla 3)\n[BeforeAttack] Kendindeki her 5 [Breath] için +3% daha fazla hasar ver (En fazla 15%)\n[BeforeAttack] Kendindeki 5 [Breath]'i harca\n[EndSkill] Bütün [BoseProjektil]'leri kaybet",
           "coinlist": [
@@ -357,7 +357,7 @@
         },
         {
           "level": 3,
-          "name": "Lanetli Mühimmat",
+          "name": "Lanetli Mermi",
           "abName": "Der Fluchschütze",
           "desc": "[CantIdentify]\nRastgele hedefler\n[BeforeAttack] (En yüksek Rez. + 1) [BoseProjektil] kazan (En fazla 7)\n- Eğer Rez., M-Rez. ise, (En yüksek Rez. +2) [BoseProjektil] kazan\n<style=\"highlight\">[BeforeAttack] 3+ [BoseProjektil] var iken, 1 Saldırı Ağırlığı kazan</style>\n[BeforeAttack] Her [BoseProjektil] için +2% daha fazla hasar ver (En fazla 14%)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazan (En fazla <style=\"highlight\">4</style>)\n[BeforeAttack] Kendindeki her 5 [Breath] için +<style=\"highlight\">4</style>% daha fazla hasar ver (En fazla <style=\"highlight\">20</style>%)\n[BeforeAttack] Kendindeki 5 [Breath]'i harca\n[EndSkill] Bütün [BoseProjektil]'leri kaybet",
           "coinlist": [
@@ -372,7 +372,7 @@
         },
         {
           "level": 4,
-          "name": "Lanetli Mühimmat",
+          "name": "Lanetli Mermi",
           "abName": "Der Fluchschütze",
           "desc": "[CantIdentify]\nRastgele hedefler\n[BeforeAttack] (En yüksek Rez. + 1) [BoseProjektil] kazan (En fazla 7)\n- Eğer Rez., M-Rez. ise, (En yüksek Rez. +2) [BoseProjektil] kazan\n[BeforeAttack] <style=\"highlight\">Her 3 [BoseProjektil] için 1 Saldırı Ağırlığı kazan (En fazla 2)</style>\n[BeforeAttack] Her [BoseProjektil] için +<style=\"highlight\">3</style>% daha fazla hasar ver (En fazla <style=\"highlight\">21</style>%)\n[BeforeAttack] Her [BoseProjektil] için 1 [Breath] kazan (En fazla <style=\"highlight\">7</style>)\n[BeforeAttack] Kendindeki her 5 [Breath] için +<style=\"highlight\">5</style>% daha fazla hasar ver (En fazla <style=\"highlight\">25</style>%)\n[BeforeAttack] Kendindeki 5 [Breath]'i harca\n[EndSkill] Bütün [BoseProjektil]'leri kaybet",
           "coinlist": [
