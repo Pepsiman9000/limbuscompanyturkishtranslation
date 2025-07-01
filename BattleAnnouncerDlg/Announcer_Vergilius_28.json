@@ -42,7 +42,7 @@
     },
     {
       "id": "announcer_danger_28_1",
-      "dlg": "Zaman insanlığa sınırlı verilmiş bir kaynak, Dante. Bitir şunu. Remember these two truths—nothing is infinite, nothing is free... hah."
+      "dlg": "Zaman insanlığa sınırlı verilmiş bir kaynak, Dante. Bitir şunu. Ve bu iki gerçeği aklından çıkarma: \n Hiçbirşey sınırsız değildir... hah."
     },
     {
       "id": "announcer_enemy_specialskill_28_1",
@@ -74,7 +74,7 @@
     },
     {
       "id": "announcer_enemy_specialdebuff_28_1",
-      "dlg": "Paranoya, korku, and anxiety... this is their moment of weakness. Do you understand? Press the offensive now."
+      "dlg": "Paranoya, korku, ve ... this is their moment of weakness. Do you understand? Press the offensive now."
     },
     {
       "id": "announcer_ally_specialbuff_28_1",
@@ -119,7 +119,7 @@
     },
     {
       "id": "announcer_equip_28_1",
-      "dlg": "Cidden bu kadar manasız bir şeyi bana yaptıracaklar mı...? Angarya üstüne angarya... haah."
+      "dlg": "Cidden bu kadar manasız bir şeyi bana yaptıracaklar mı...? Angarya üzerine angarya... haah."
     },
     {
       "id": "announcer_special_sinner_28_1",
@@ -128,12 +128,12 @@
     },
     {
       "id": "announcer_special_sinner_28_2",
-      "dlg": "Ms. Faust... You knew that enemy part would eventually cause trouble, didn't you?",
+      "dlg": "Bayan Faust... Bu uzuvun eninde sonunda sıkıntı çıkaracağını biliyordun, değil mi?",
       "isHide": true
     },
     {
       "id": "announcer_special_sinner_28_3",
-      "dlg": "... What did Sinner #3 do this time? Haah...",
+      "dlg": "... Günakâr #3 gene neyi eline yüzüne bulaştırdı? Haah...",
       "isHide": true
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "id": "announcer_special_sinner_28_11",
-      "dlg": "What's this, miss lieutenant? How come you've let yourself be sliced to pieces like this? You're going to be the biggest burden to your Executive Manager dearest.",
+      "dlg": "Noldu, Teğmen hanım? ya da daha çok bayan Yağcı Çavuş mu demeliyim? Nasıl olur da kendinizin kevgire çevrilmenize göz yumabilirsiniz? O çok sevdiğiniz “İdari Müdürünüz” bu başarısızlıktan dolayı nasibine düşeni alacak.",
       "isHide": true
     },
     {
