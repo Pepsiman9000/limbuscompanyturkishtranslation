@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "announcer_cheer_28_1",
-      "dlg": "Bu, yönetme yeteneklerini kendi gözlerimle görmem için iyi\n bir fırsat gibi görünüyor, Dante. Skecini oynat bakalım."
+      "dlg": "Bu, yönetme yeteneklerini kendi gözlerimle görmem için iyi bir fırsat gibi görünüyor, Dante. Skecini oyna bakalım."
     },
     {
       "id": "announcer_cheer_28_2",
@@ -18,7 +18,7 @@
     },
     {
       "id": "announcer_enemy_break_28_1",
-      "dlg": "Oh. Zar zor hayata tutunuyorlar... işlerini bitirirken sıkıntı çekmemelisin. oynat bakalım, müdür Dante. Günahkârlar ellerinden geleni yapsınlar."
+      "dlg": "Oh. Zar zor hayata tutunuyorlar... işlerini bitirirken sıkıntı çekmemelisin. oynat bakalım, müdür Dante. Günahkârların ellerinden geleni yapsınlar."
     },
     {
       "id": "announcer_ally_break_28_1",
@@ -66,23 +66,23 @@
     },
     {
       "id": "announcer_disadvatk_attr_28_1",
-      "dlg": "Perhaps the manager's lack of any real combat experience is the cause of their ineffective command. Hm... I might suggest that the manager be assigned some combat training sessions as well."
+      "dlg": "Görünüşe göre müdürün gerçek çatışmada tecrübesizliği, yönetimdeki elverişsizliğinden kaynaklanıyor. Hm... Belki de müdürün de çatışma talimlerinde yer almasını arz etmeliyim."
     },
     {
       "id": "announcer_enemy_specialbuff_28_1",
-      "dlg": "Look at those idiots enjoying themselves. Though, it is most likely for a good reason. Now, identify and eliminate that reason."
+      "dlg": "Kendince eğlenen şu Hödüklere de bir bak. Gerçi, iyi bir nedenleri olsa gerek. Şimdi, o nedeni bul ve yok et."
     },
     {
       "id": "announcer_enemy_specialdebuff_28_1",
-      "dlg": "Paranoia, fear, and anxiety... this is their moment of weakness. Do you understand? Press the offensive now."
+      "dlg": "Paranoya, korku, and anxiety... this is their moment of weakness. Do you understand? Press the offensive now."
     },
     {
       "id": "announcer_ally_specialbuff_28_1",
-      "dlg": "I buy Sinners snacks for a reason, Dante. I hoped they would have positive effects like this."
+      "dlg": "Günakâra boşuna atıştırmalık almıyorum, Dante. Umarım böyle pozitif etkileri daimi olur."
     },
     {
       "id": "announcer_ally_specialdebuff_28_1",
-      "dlg": "What's with the long face? See something you don't like? Hm..."
+      "dlg": "Bu asık surat da ne? Hoşuna gitmeyen bir şey mi gördün? Hm..."
     },
     {
       "id": "announcer_enemy_destroy_28_1",
@@ -102,7 +102,7 @@
     },
     {
       "id": "announcer_round_givebigdmg_28_1",
-      "dlg": "Very good. Now this is something worth a watch. I very much prefer to preside over those who know what they're doing."
+      "dlg": "Güzel. İşte bu izlemeye değer bir perde. Ne yaptığını bilenlere rehberlik etmeyi tercih ederim."
     },
     {
       "id": "announcer_round_givebigdmg_28_2",
@@ -114,7 +114,7 @@
     },
     {
       "id": "announcer_wait_28_1",
-      "dlg": "... Ha. Noldu birden. Takıldı mı bu. Beni duymuyorum, deme. \n *Cihazı ters çevirir \n, Sakın bana, savaşın ortasında şekerleme yapayım dedim deme. Dante...",
+      "dlg": "... Ha. Noldu buna. Hareket etmiyor. Kırıldım deme bana. \n *Cihazı ters çevirir ve kontrol eder \n, Sakın bana; savaşın ortasında şekerleme yapıyım dedim, deme. Dante...",
       "isHide": true
     },
     {
