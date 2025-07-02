@@ -98,15 +98,15 @@
       "id": 10510,
       "name": "Bamboo Hat & Dopo Robe Choice",
       "subDesc": "",
-      "desc": "Shimmering blue letters float before you.\n\nThe way that these similar words are ordered makes it difficult to understand what it's trying to say.\n\nTo say what is right is right and what is wrong is wrong is not right,\n\nbut that is not to say that to say what is wrong is right and right is wrong is wrong.\n\nTo say that what is wrong is right and right is wrong is not wrong,\n\nand to say that what is right is right and what is wrong is wrong is, in turn, to say that this wrong is right.\n\n... Does it want my impression of these words?\n\nWhat is it talking about?",
+      "desc": "Havada sallanan mavi harfler titreyen bir parıltı yayıyor..\n\nKelimelerin tenasüp tekriri ne anlatmaya çalıştıklarını anlamayı zorlaştırıyor:\n\nDoğru olan doğrudur demek ve yanlış olan yanlıştır demek doğru değildir,\n\nfakat bu demek değildir ki yanlış olan doğrudur demek ve doğru olan yanlıştır demek yanlıştır.\n\nYanlış olan doğrudur demek ve doğru olan yanlıştır demek yanlış değildir;\n\nbinaenaleyh doğru olan doğrudur demek ve yanlış olan yanlıştır demek,  bu yanlış doğrudur demektir.\n\n...... Bu kelimelerden çıkarımımı mı merak ediyor?\n\nBurda neyden bahsediyor?",
       "options": [
         {
-          "message": "What is 'right' and what is 'wrong'... is it really that important to tell which is which? Say that what really matters is something else.",
-          "messageDesc": "Lust & Pride Advantage check. Pass to gain a Poise E.G.O Gift."
+          "message": "'Doğru olan' nedir ve 'Yanlış olan' nedir... neyin ne olduğunu söylemek cidden o kadar önemlimidir ki? Önemli olanın başka bir şey olduğunu söyle.",
+          "messageDesc": "Şehvet & Kibir kontrolu yap. Nefes E.G.O hediyesi kazan."
         },
         {
-          "message": "Still, it must be said that what is right, is right.",
-          "messageDesc": "Gloom & Pride Advantage check. Pass to gain a Slash E.G.O Gift."
+          "message": "Fakat, doğru olanın doğru olduğu söylenmeli.",
+          "messageDesc": " Hüzün & Kibir kontrolu yap. Kesme E.G.O hediyesi kazan."
         }
       ]
     },
