@@ -352,32 +352,32 @@
         {
           "level": 4,
           "name": "Boyutsal Yarık",
-          "desc": "[WhenUse] At less than 15 Charge Count, consume 10 Charge Count to gain +1 Coin Power\n[WhenUse] Consume 15 Charge Count to gain +2 Coin Power\n[BeforeAttack] If 15 Charge Count has been consumed, inflict +3 Rupture Count",
+          "desc": "[WhenUse] 15den az yük varken, +1 Jeton Gücü için 10 yük harca\n[WhenUse] +2 Jeton Gücü almak için 15 Yük harca\n[BeforeAttack] 15 Yük harcandıysa, +3 Parçalanma Miktarı ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] 1 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] 1 Parçalanma ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture for every 5 Charge Count consumed by the Skill (Max 9)"
+                  "desc": "[OnSucceedAttack] Yetenek tarafından her 5 Yük için 1 Jeton Gücü kazan (Maks 9)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the Skill consumed 15 Charge Count upon use, inflict 2 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] Yetenek kullanıldığında 15 Yük harcamışsa, 2 Boyutsal Yarık ver"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 5 Charge Barrier"
+                  "desc": "[EnemyKill] 5 Yük Bariyeri kazan"
                 }
               ]
             }
@@ -399,7 +399,7 @@
         {
           "level": 4,
           "name": "İçi Boş Boyut",
-          "desc": "Base Power +1 per 5 Charge Count (Max 2)\n[OnSucceedEvade] +1 Potency when applying Rupture for the first time with a Skill effect next turn (Max +3 per turn)",
+          "desc": "Her 5 Şarj Miktarı için 1 Baz Kuvvet (Maks 2)\n[OnSucceedEvade] yeniden paraçalanma verince +1 güç (Tur başına maks +3)",
           "coinlist": [
             {}
           ]
