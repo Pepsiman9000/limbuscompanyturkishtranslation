@@ -3,17 +3,17 @@
     {
       "id": "get_11201_1",
       "desc": "Identity Acquisition",
-      "dlg": "Mm… It’s Gregor. Well, feel free to talk to me unless I’m asleep."
+      "dlg": "Mm… İsim Gregor. Well, feel free to talk to me unless I’m asleep."
     },
     {
       "id": "lobby_morning_11201_1",
       "desc": "Morning Greeting",
-      "dlg": "Not a bad morning, is it?"
+      "dlg": "Kötü bir sabah değil, de' mi?"
     },
     {
       "id": "lobby_noon_11201_1",
       "desc": "Afternoon Greeting",
-      "dlg": "C’mon, I know you’re busy, but you gotta eat sometime."
+      "dlg": "Haydi, biliyorum meşgulsün, ama yemek yemen de lazım."
     },
     {
       "id": "lobby_night_11201_1",
@@ -48,22 +48,22 @@
     {
       "id": "neglect_11201_1",
       "desc": "Idle",
-      "dlg": "Hm? Manager Bud? Where’d you scuttle off to?"
+      "dlg": "Hm? Müdür ahbap? Nereye tüydün?"
     },
     {
       "id": "formation_11201_1",
       "desc": "Deployment",
-      "dlg": "Aight, I’ll do what I can."
+      "dlg": "Ta'am, yapabildiğimi yapacağım."
     },
     {
       "id": "battleentry_11201_1",
       "desc": "Stage Entry",
-      "dlg": "Go? You want me to…? Gah… Well, I guess I’ll give it my all."
+      "dlg": "Git mi? Benim mi…? Gah… Peki, elimden geleni yapacağım o zaman."
     },
     {
       "id": "battle_select_11201_1",
       "desc": "Viewed in Battle",
-      "dlg": "What’s up? You got something to say?"
+      "dlg": "N'oldu? Diyeceğin bi' şey mi var?"
     },
     {
       "id": "battle_endcommand_11201_1",
@@ -73,12 +73,12 @@
     {
       "id": "battle_enemy_break_11201_1",
       "desc": "Enemy Stagger",
-      "dlg": "Whoa, that was a pretty clean hit."
+      "dlg": "Vov, çok temiz bi' vuruştu."
     },
     {
       "id": "battle_break_11201_1",
       "desc": "Staggered",
-      "dlg": "Ah, shoot…"
+      "dlg": "Ah, hay aksi…"
     },
     {
       "id": "battle_allydead_11201_1",
@@ -98,17 +98,17 @@
     {
       "id": "battle_clear_11201_1",
       "desc": "Victory Cry",
-      "dlg": "Phew~ We beat ‘em somehow. Nice work, Manager Bud."
+      "dlg": "Fiuv~ Bi' şekilde yendik. İyi iş, Müdür Ahbap."
     },
     {
       "id": "battle_clear_ex_11201_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "Won’t take any medals. Cigarettes, on the other hand, are completely welcome."
+      "dlg": "Madalya falan istemez. Sigaraları ise, onun aksine, çok iyi karşılarım."
     },
     {
       "id": "battle_defeat_11201_1",
       "desc": "Defeat Wail",
-      "dlg": "Sorry ‘bout that. Couldn’t really keep my head in the game. Just one of those days, I guess."
+      "dlg": "Özür dilerim ya. Odağımı çok koruyamadım. Bu da o günlerden birisi, galiba."
     }
   ]
 }
