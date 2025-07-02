@@ -68,8 +68,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Onların Kemiklerini Alabileyim",
-                    "desc": "[StartBattle] 100 Kalkan kazan\n[WhenUse] Kalkan tamamiyle bitmemişse, Çarpışma Gücü +5",
+                    "name": "Onların Kemiklerini Almak İçin",
+                    "desc": "[StartBattle] 100 Kalkan kazan\n[WhenUse] Kalkan tamamiyle harcanmamışsa, Çarpışma Gücü +5",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -109,7 +109,7 @@
                                     "desc": "Bu Jeton kırılırsa, 20 Final Gücü kaybet"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage."
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Eğer kalkan tamamıyla harcanmadıysa, [Grudge] değerini Saldırı Ağırlığı değerine böl ve sabit hasar olarak uygula."
                                 }
                             ]
                         }
@@ -122,8 +122,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Onların Kemiklerini Alabileyim",
-                    "desc": "[StartBattle] Gain 250 Shield\n[WhenUse] Gain +3 [Breath] Count\n[WhenUse] If the Shield isn't fully depleted, Clash Power +10",
+                    "name": "Onların Kemiklerini Almak İçin",
+                    "desc": "[StartBattle] 250 Kalkan kazan\n[WhenUse] +3 [Breath] Miktarı kazan\n[WhenUse] Kalkan tamamıyla harcanmamışsa, Çarpışma Gücü +10",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -134,7 +134,7 @@
                                     "desc": "Bu Jeton kırılırsa, 23 Final Gücü kaybet"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [SlashResistDown]"
+                                    "desc": "[OnSucceedAttack] 3 [SlashResistDown] uygula"
                                 }
                             ]
                         },
@@ -147,13 +147,13 @@
                                     "desc": "Bu Jeton kırılırsa, 23 Final Gücü kaybet"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% Damage on Critical Hit"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Kritik vuruşta +100% daha fazla hasar ver"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Paralysis] next turn"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Sonraki tur 5 [Paralysis] uygula"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] 10 [Laceration] ve +2 [Laceration] Miktarı uygula"
                                 }
                             ]
                         },
@@ -166,7 +166,7 @@
                                     "desc": "Bu Jeton kırılırsa, 23 Final Gücü kaybet"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage."
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Eğer kalkan tamamıyla harcanmadıysa, [Grudge] değerini Saldırı Ağırlığı değerine böl ve sabit hasar olarak uygula."
                                 }
                             ]
                         }
@@ -179,8 +179,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "To Claim Their Bones",
-                    "desc": "[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] Heal HP equal to [Grudge] value",
+                    "name": "Onların Kemiklerini Almak İçin",
+                    "desc": "[CantChangeTarget]\nEn az canı olan karaktere saldırı önceliği verir\n[EnemyKill] [Grudge] değerini ikiye katla.\n[EnemyKill] [Grudge] değeri kadar can iyileştir",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -211,7 +211,7 @@
                                     "desc": "Bu Jeton kırılırsa, 25 Final Gücü kaybet"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Deal fixed damage equal to [Grudge] value."
+                                    "desc": "[OnSucceedAttack] [Grudge] değeri kadar sabit hasar ver."
                                 }
                             ]
                         }
