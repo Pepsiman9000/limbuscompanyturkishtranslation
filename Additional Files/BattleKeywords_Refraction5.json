@@ -33,7 +33,7 @@
     {
       "id": "MRR506",
       "name": "Kırılmış Patlama",
-      "desc": "Tur sonu: Tüm düşman Parçalarına, her Parçadaki Yanma Şiddeti kadar Gazap hasarı ver → Yanma Miktarını 1 azalt → 1 Sarsıntı Patlaması tetikle → Sarsıntı Miktarını 1 azalt (2+ Miktarda aktif)"
+      "desc": "Tur sonu: Tüm düşman Parçalarına, her Parçadaki Yanma Şiddeti kadar Öfke hasarı ver → Yanma Miktarını 1 azalt → 1 Sarsıntı Patlaması tetikle → Sarsıntı Miktarını 1 azalt (2+ Miktarda aktif)"
     },
     {
       "id": "MRR507",
@@ -53,7 +53,7 @@
     {
       "id": "MRR510",
       "name": "Sisletici",
-      "desc": "Dalganın ilk Tur başlangıcında: Tüm müttefikler 5 Nefes Şiddeti ve +5 Nefes Miktarı kazanır. Gurur Rezonansı aktifse +3 kazanır"
+      "desc": "Dalganın ilk Tur başlangıcında: Tüm müttefikler 5 Nefes Şiddeti ve +5 Nefes Miktarı kazanır. Kibir Rezonansı aktifse +3 kazanır"
     },
     {
       "id": "MRR511",
@@ -302,8 +302,8 @@
     },
     {
       "id": "MRR558",
-      "name": "Kırılmış Gazap",
-      "desc": "Gazap Yetenekleri %30 daha fazla hasar verir\n3. Bölüm Son Boss'unun Gazap Direnci Zayıf(x1.25) olur"
+      "name": "Kırılmış Öfke",
+      "desc": "Öfke Yetenekleri %30 daha fazla hasar verir\n3. Bölüm Son Boss'unun Öfke Direnci Zayıf(x1.25) olur"
     },
     {
       "id": "MRR559",
