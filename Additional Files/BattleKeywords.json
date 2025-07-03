@@ -2105,6 +2105,20 @@
       "desc": "- Bu birim Vahşi Kaplan İşaretli Mermi kazandığında bu etkiyi kaybeder\n- Min & Max Hız +2\n- Temel Saldırı Yetenekleri (Kaplan İşaretli & Vahşi Kaplan İşaretli Mermi harcanan kümülatif sayı / 2) Çarpışma Gücü kaybeder (maks 10); ancak, şu etkileri kazanır (kümülatif):\n· 8+ Mermi harcandı: Tur Başında kendindeki eksik HP'nin her %10'u için 1 Korunma kazan (maks 5)\n· 14+ Mermi harcandı: Çarpışma Kaybında, bu birimin Temel Saldırı Yeteneklerinin Kırılmaz Jetonları +(75 + kendindeki eksik HP yüzdesi)% hasar verir (maks 150%)\n· 20+ Mermi Harcandı: Kendinden daha yüksek kalan HP yüzdesine sahip hedeflere +(HP yüzdesi farkı)% hasar ver (maks 50%; E.G.O Yetenekleri hariç)",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "RoseThorn",
+      "name": "Obur Diken (貪食棘)",
+      "desc": "Max Stack: 9\n\nTurn End: gain Bleed Count equal to Lust Reson., then lose 1 Gluttonous Thorn (貪食棘). (max Bleed Count gain: 5)\n\nWhile this unit has this effect, if it gains Bleed Potency beyond 99, increase Bloodfeast equal to the excess Bleed Potency; then, gain Defense Level Down next turn equal to Bloodfeast increased (max Defense Level Down gain: 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FellBulletPersonality",
+      "name": "Lanetli Mermi",
+      "desc": "Maks Değer: 1\nKritik Vuruşta her Yırtık Hatıra için +3% Hasar ver (maks 18%)\nVuruşta, 1 Kanama uygula (Tur başına 3 kere)\nÖldürünce, 3 Nefes ve 2 Nefes Miktarı kazan (Tur başına 2 kere)\nTur sonu tükenir",
+      "summary": "",
+      "undefined": "-"
     }
   ]
 }
