@@ -337,7 +337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture for every 5 Charge Count consumed by the Skill (Max 6)"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture for every 5 Charge Count consumed by the Skill (maks 6)"
                 },
                 {
                   "desc": "[OnSucceedAttack] If the Skill consumed 15 Charge Count upon use, inflict 2 Dimensional Rift"
@@ -391,7 +391,7 @@
         {
           "level": 1,
           "name": "İçi Boş Boyut",
-          "desc": "Base Power +1 per 5 Charge Count (Max 2)",
+          "desc": "Base Power +1 per 5 Charge Count (maks 2)",
           "coinlist": [
             {}
           ]
@@ -504,7 +504,7 @@
                   "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Bu Jetonu yeniden kullan (max 1)"
+                  "desc": "[CriticalOnSucceedAttack] Bu Jetonu yeniden kullan (maks 1)"
                 }
               ]
             }
@@ -528,7 +528,7 @@
                   "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Bu Jetonu yeniden kullan (max 3)"
+                  "desc": "[CriticalOnSucceedAttack] Bu Jetonu yeniden kullan (maks 3)"
                 }
               ]
             }
@@ -852,7 +852,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -874,7 +874,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -896,7 +896,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -950,7 +950,7 @@
         {
           "level": 4,
           "name": "Kanlı Noktacılık",
-          "desc": "Clash Power +1 for every 3 [Laceration] on target (max 2)\nCoin Power +1 for every 3 [Laceration] Count on target (max 2)",
+          "desc": "Clash Power +1 for every 3 [Laceration] on target (maks 2)\nCoin Power +1 for every 3 [Laceration] Count on target (maks 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -991,7 +991,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]. If target has 4+ types of negative effects, inflict 2 additional [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula. If target has 4+ types of negative effects, inflict 2 additional [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
@@ -1001,7 +1001,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +15% more damage for every type of negative effect on target (max 75%)"
+                  "desc": "Deal +15% more damage for every type of negative effect on target (maks 75%)"
                 },
                 {
                   "desc": "[EndSkill] If target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 1 enemy with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
@@ -1013,7 +1013,7 @@
         {
           "level": 4,
           "name": "Hematik Renklendirme",
-          "desc": "Clash Power +1 for every 3 [Laceration] on target (max 2)\nCoin Power +1 for every 3 [Laceration] Count on target (max 2)",
+          "desc": "Clash Power +1 for every 3 [Laceration] on target (maks 2)\nCoin Power +1 for every 3 [Laceration] Count on target (maks 2)",
           "coinlist": [
             {},
             {
@@ -1029,7 +1029,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]. If target has 3+ types of negative effects, inflict 2 additional [Laceration]"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula. If target has 3+ types of negative effects, inflict 2 additional [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
@@ -1039,7 +1039,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +25% more damage for every type of negative effect on target (max 125%)"
+                  "desc": "Deal +25% more damage for every type of negative effect on target (maks 125%)"
                 },
                 {
                   "desc": "[EndSkill] If target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 2 enemies with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
@@ -1070,7 +1070,7 @@
         {
           "level": 4,
           "name": "Fırçayı Temizle",
-          "desc": "Base Power +1 for every 1 [Laceration] on target (Max 10)",
+          "desc": "Base Power +1 for every 1 [Laceration] on target (maks 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -1202,7 +1202,7 @@
         {
           "level": 2,
           "name": "Yaşayanlar Adına Kutsal Ağıt",
-          "desc": "If the sum of the target's [Sinking] and both [SinkingWhite] is 6 or higher, Coin Power +1\n[WinDuel] Inflict +1 [Sinking] Count\n[EndSkill] Gain (highest Reson.) of [BulletLament] (max 6)\n- If the said Reson. was an A-Reson., gain (highest Reson. x 2) of [BulletLament] (max 12)",
+          "desc": "If the sum of the target's [Sinking] and both [SinkingWhite] is 6 or higher, Coin Power +1\n[WinDuel] Inflict +1 [Sinking] Count\n[EndSkill] Gain (highest Reson.) of [BulletLament] (maks 6)\n- If the said Reson. was an A-Reson., gain (highest Reson. x 2) of [BulletLament] (maks 12)",
           "coinlist": [
             {
               "coindescs": [
@@ -1229,7 +1229,7 @@
         {
           "level": 4,
           "name": "Yaşayanlar Adına Kutsal Ağıt",
-          "desc": "At 10+ [BulletLament], Clash Power +1\n<style=\"highlight\">Coin Power +1 for every 6 value</style> of the sum of the target's [Sinking] and both [SinkingWhite] <style=\"highlight\">(max 2)</style>\n[WinDuel] Inflict +1 [Sinking] Count\n[EndSkill] Gain (highest Reson.) of [BulletLament] (max 6)\n- If the said Reson. was an A-Reson., gain (highest Reson. x 2) of [BulletLament] (max 12)\n- If the said Reson. was at 4+ A-Reson., [ReloadLament] instead",
+          "desc": "At 10+ [BulletLament], Clash Power +1\n<style=\"highlight\">Coin Power +1 for every 6 value</style> of the sum of the target's [Sinking] and both [SinkingWhite] <style=\"highlight\">(maks 2)</style>\n[WinDuel] Inflict +1 [Sinking] Count\n[EndSkill] Gain (highest Reson.) of [BulletLament] (maks 6)\n- If the said Reson. was an A-Reson., gain (highest Reson. x 2) of [BulletLament] (maks 12)\n- If the said Reson. was at 4+ A-Reson., [ReloadLament] instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1261,7 +1261,7 @@
         {
           "level": 3,
           "name": "Ebediyen Görüşürüz, İçindeki Keder",
-          "desc": "Base Power +1 for every 10 value of [BulletLament] (max 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[EndSkill] [ReloadLament]",
+          "desc": "Base Power +1 for every 10 value of [BulletLament] (maks 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[EndSkill] [ReloadLament]",
           "coinlist": [
             {
               "coindescs": [
@@ -1308,7 +1308,7 @@
         {
           "level": 4,
           "name": "Ebediyen Görüşürüz, İçindeki Keder",
-          "desc": "Base Power +1 for every <style=\"highlight\">5</style> value of [BulletLament] <style=\"highlight\">(max 4)</style>\nCoin Power +1 for every 6 value of the sum of the target's [Sinking] and both [SinkingWhite] (max 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[EndSkill] [ReloadLament]",
+          "desc": "Base Power +1 for every <style=\"highlight\">5</style> value of [BulletLament] <style=\"highlight\">(maks 4)</style>\nCoin Power +1 for every 6 value of the sum of the target's [Sinking] and both [SinkingWhite] (maks 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[EndSkill] [ReloadLament]",
           "coinlist": [
             {
               "coindescs": [
@@ -1374,7 +1374,7 @@
         {
           "level": 4,
           "name": "TabutunİçindenBirKelebekUçuveriyor",
-          "desc": "[StartBattle] [ReloadLament] (once per turn)\n[StartBattle] Gain Shield equal to (the sum of both [SinkingWhite] on the selected target)% HP. (max 20% per turn)",
+          "desc": "[StartBattle] [ReloadLament] (once per turn)\n[StartBattle] Gain Shield equal to (the sum of both [SinkingWhite] on the selected target)% HP. (maks 20% per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1420,7 +1420,7 @@
         {
           "level": 2,
           "name": "E.G.O Ekipmanlarının standart prosedür olduğu göz önüne alınsa bile,",
-          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 2)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +1",
+          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (maks 2)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1447,7 +1447,7 @@
         {
           "level": 4,
           "name": "E.G.O Ekipmanlarının standart prosedür olduğu göz önüne alınsa bile,",
-          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +2",
+          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (maks 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1496,7 +1496,7 @@
         {
           "level": 2,
           "name": "L Corp'un E.G.O ekipmanları ile karşılaştırıldıkları durumda., Anomali'ye uyum seviyesinin faktöre alınmasıyla,",
-          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +1",
+          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (maks 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1513,7 +1513,7 @@
         {
           "level": 4,
           "name": "L Corp'un E.G.O ekipmanları ile karşılaştırıldıkları durumda., Anomali'ye uyum seviyesinin faktöre alınmasıyla,",
-          "desc": "[StartBattle] <style=\"highlight\">On Clash Lose, gain (# of Skills targeting this unit x 2) Final Power (max 6)</style>\n[WhenUse] Gain +4 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +2",
+          "desc": "[StartBattle] <style=\"highlight\">On Clash Lose, gain (# of Skills targeting this unit x 2) Final Power (maks 6)</style>\n[WhenUse] Gain +4 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1535,7 +1535,7 @@
         {
           "level": 3,
           "name": "kaynağın yapısal özellikleri daha esnek bir şekilde kullanılabilir",
-          "desc": "Deal +0.5% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 2)\n[WhenUse] Gain 2 [GlowingLantern] (once per turn)\n[WhenUse] Gain +6 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
+          "desc": "Deal +0.5% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (maks 2)\n[WhenUse] Gain 2 [GlowingLantern] (once per turn)\n[WhenUse] Gain +6 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1566,7 +1566,7 @@
         {
           "level": 4,
           "name": "kaynağın yapısal özellikleri daha esnek bir şekilde kullanılabilir",
-          "desc": "Deal +0.8% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 3)\n[WhenUse] Gain 3 [GlowingLantern] (once per turn)\n[WhenUse] Gain +8 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
+          "desc": "Deal +0.8% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (maks 3)\n[WhenUse] Gain 3 [GlowingLantern] (once per turn)\n[WhenUse] Gain +8 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1677,7 +1677,7 @@
         {
           "level": 4,
           "name": "Alev Baltası",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 3 [Combustion] on target (max 2)</style>\n<style=\"highlight\">Deal +10% more damage for every 10 [Combustion] on target (max 30%)</style>",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 3 [Combustion] on target (maks 2)</style>\n<style=\"highlight\">Deal +10% more damage for every 10 [Combustion] on target (maks 30%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1737,7 +1737,7 @@
         {
           "level": 2,
           "name": "Cephe Taarruzu",
-          "desc": "Coin Power +1 for every 6 [Combustion] on target (max 2)",
+          "desc": "Coin Power +1 for every 6 [Combustion] on target (maks 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1756,7 +1756,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2.5% more damage for every [Combustion] on target (max 30%)"
+                  "desc": "Deal +2.5% more damage for every [Combustion] on target (maks 30%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Count on target<style=\"highlight\"></style>"
@@ -1768,7 +1768,7 @@
         {
           "level": 4,
           "name": "Cephe Taarruzu",
-          "desc": "Coin Power +1 for every 6 [Combustion] on target (max 2)",
+          "desc": "Coin Power +1 for every 6 [Combustion] on target (maks 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1787,7 +1787,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +<style=\"highlight\">5</style>% more damage for every [Combustion] on target (max <style=\"highlight\">60</style>%)"
+                  "desc": "Deal +<style=\"highlight\">5</style>% more damage for every [Combustion] on target (maks <style=\"highlight\">60</style>%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Count on target<style=\"highlight\"></style>"
@@ -1804,7 +1804,7 @@
         {
           "level": 3,
           "name": "Kılıcın Akışı",
-          "desc": "If target has 6+ [Combustion], Coin Power +1\nDeal +10% more damage for every 6 [Combustion] on target (max 30%)\n[EndSkill] Heal 10 SP for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], heal 1 more ally",
+          "desc": "If target has 6+ [Combustion], Coin Power +1\nDeal +10% more damage for every 6 [Combustion] on target (maks 30%)\n[EndSkill] Heal 10 SP for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], heal 1 more ally",
           "coinlist": [
             {
               "coindescs": [
@@ -1830,10 +1830,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2% more damage for every [Combustion] on target (max 60%)"
+                  "desc": "Deal +2% more damage for every [Combustion] on target (maks 60%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potency on target. (max 30) Reduce Target's [Combustion] Count by 2"
+                  "desc": "[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potency on target. (maks 30) Reduce Target's [Combustion] Count by 2"
                 }
               ]
             }
@@ -1842,7 +1842,7 @@
         {
           "level": 4,
           "name": "Kılıcın Akışı",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on target (max 2)</style>\nDeal +10% more damage for every 6 [Combustion] on target (max 30%)\n[EndSkill] Heal <style=\"highlight\">15</style> SP for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], heal 1 more ally",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on target (maks 2)</style>\nDeal +10% more damage for every 6 [Combustion] on target (maks 30%)\n[EndSkill] Heal <style=\"highlight\">15</style> SP for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], heal 1 more ally",
           "coinlist": [
             {
               "coindescs": [
@@ -1868,10 +1868,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2% more damage for every [Combustion] on target (max 60%)"
+                  "desc": "Deal +2% more damage for every [Combustion] on target (maks 60%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potency on target. (max 30) Reduce Target's [Combustion] Count by 2"
+                  "desc": "[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potency on target. (maks 30) Reduce Target's [Combustion] Count by 2"
                 }
               ]
             }
@@ -1885,7 +1885,7 @@
         {
           "level": 1,
           "name": "Ateş Karşılaması",
-          "desc": "[BeforeHit] Gain Shield equal to [Combustion] on target (max 10, once per turn)",
+          "desc": "[BeforeHit] Gain Shield equal to [Combustion] on target (maks 10, once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1906,7 +1906,7 @@
         {
           "level": 4,
           "name": "Ateş Karşılaması",
-          "desc": "[BeforeHit] Gain Shield equal to [Combustion] on target (max 15, once per turn)\n[WhenUse] If target has 10+ [Combustion], deal +10% more damage",
+          "desc": "[BeforeHit] Gain Shield equal to [Combustion] on target (maks 15, once per turn)\n[WhenUse] If target has 10+ [Combustion], deal +10% more damage",
           "coinlist": [
             {
               "coindescs": [
@@ -1966,7 +1966,7 @@
         {
           "level": 4,
           "name": "Savunmaların Ardını Gör",
-          "desc": "[WhenUse] Kendi üzerindeki her [BoseProjektil] için +<style=\"highlight\">15</style>% Hasar ver (maks <style=\"highlight\">105</style>%)\n[WhenUse] <style=\"highlight\">Kendi üzerindeki her 5 [Breath] için Jeton Gücü +1 (max 2)</style>\n[WhenUse] <style=\"highlight\">Kendi üzerindeki her 3 [Breath] Miktarı için Taban Gücü +1 (max 2)</style>\n[WhenUse] +<style=\"highlight\">2</style> [Breath] Miktarı ve 1 [BoseProjektil] kazan",
+          "desc": "[WhenUse] Kendi üzerindeki her [BoseProjektil] için +<style=\"highlight\">15</style>% Hasar ver (maks <style=\"highlight\">105</style>%)\n[WhenUse] <style=\"highlight\">Kendi üzerindeki her 5 [Breath] için Jeton Gücü +1 (maks 2)</style>\n[WhenUse] <style=\"highlight\">Kendi üzerindeki her 3 [Breath] Miktarı için Taban Gücü +1 (maks 2)</style>\n[WhenUse] +<style=\"highlight\">2</style> [Breath] Miktarı ve 1 [BoseProjektil] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -1990,13 +1990,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Punch Through",
-          "desc": "[WhenUse] Deal +10% damage for every [BoseProjektil] on self (max 70%)\n[WhenUse] Gain 2 [Breath]",
+          "name": "Del ve Geç",
+          "desc": "[WhenUse] Kendi üzerindeki her [BoseProjektil] için +10% Hasar ver (maks 70%) (maks 70%)\n[WhenUse] 2 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 }
               ]
             },
@@ -2006,13 +2006,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 },
                 {
                   "desc": "[OnSucceedAttack] 1 [BoseProjektil] kazan"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 2 [BoseProjektil]"
+                  "desc": "[CriticalOnSucceedAttack] 2 [BoseProjektil] kazan"
                 }
               ]
             }
@@ -2020,16 +2020,16 @@
         },
         {
           "level": 2,
-          "name": "Punch Through",
-          "desc": "[WhenUse] Deal +10% damage for every [BoseProjektil] on self (max 70%)\n<style=\"highlight\">[WhenUse] At 5+ [Breath], Coin Power +1</style>\n[WhenUse] Gain 2 [Breath]",
+          "name": "Del ve Geç",
+          "desc": "[WhenUse] Kendi üzerindeki her [BoseProjektil] için +10% Hasar ver (maks 70%)\n<style=\"highlight\">[WhenUse] 5+ [Breath] varsa, Jeton Gücü +1</style>\n[WhenUse] 2 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttackHead] Inflict 2 [Laceration]</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttackHead] 2 [Laceration] uygula</style>"
                 }
               ]
             },
@@ -2039,16 +2039,16 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] 1 [BoseProjektil] kazan<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflict 1 [Laceration]</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 1 [Laceration] uygula</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 2 [BoseProjektil]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] 2 [BoseProjektil] kazan<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2056,16 +2056,16 @@
         },
         {
           "level": 4,
-          "name": "Punch Through",
-          "desc": "[WhenUse] Deal +<style=\"highlight\">15</style>% damage for every [BoseProjektil] on self (max <style=\"highlight\">105</style>%)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Breath] on self (max 2)</style>\n[WhenUse] Gain 2 [Breath]",
+          "name": "Del ve Geç",
+          "desc": "[WhenUse] Kendi üzerindeki her [BoseProjektil] için +<style=\"highlight\">15</style>% Hasar ver (maks <style=\"highlight\">105</style>%)\n[WhenUse] <style=\"highlight\">Kendi üzerindeki her 5 [Breath] için Jeton Gücü +1 (maks 2)</style>\n[WhenUse] 2 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> 2 [Laceration] uygula<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -2075,16 +2075,16 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] 1 [BoseProjektil] kazan<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] <style=\"highlight\">2</style> [Laceration] uygula"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 2 [BoseProjektil]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] 2 [BoseProjektil] kazan<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2098,7 +2098,7 @@
         {
           "level": 3,
           "name": "Target Readjustment Fire",
-          "desc": "[StartBattle] Targets the unit with the least HP\n- At 7 [BoseProjektil], primarily targets among allies as the main target\n[StartBattle] Gain +1 Atk Weight for every 3 [BoseProjektil] on self (max 2)\n[WhenUse] At 5+ [Breath], Coin Power +1\n[WhenUse] At 3+ [Breath] Count, Base Power +1\n[WhenUse] Gain 1 [Breath] for every [BoseProjektil] on self (max 7)\n[EndSkill] Lose ([BoseProjektil] on self x 2) SP (max 14)\n[EndSkill] If this unit has 7 [BoseProjektil] at Combat Start, lose them all\n- If this unit lost all [BoseProjektil], and if an ally is killed, heal 20 SP on self",
+          "desc": "[StartBattle] Targets the unit with the least HP\n- At 7 [BoseProjektil], primarily targets among allies as the main target\n[StartBattle] Gain +1 Atk Weight for every 3 [BoseProjektil] on self (maks 2)\n[WhenUse] At 5+ [Breath], Coin Power +1\n[WhenUse] At 3+ [Breath] Count, Base Power +1\n[WhenUse] Gain 1 [Breath] for every [BoseProjektil] on self (maks 7)\n[EndSkill] Lose ([BoseProjektil] on self x 2) SP (maks 14)\n[EndSkill] If this unit has 7 [BoseProjektil] at Combat Start, lose them all\n- If this unit lost all [BoseProjektil], and if an ally is killed, heal 20 SP on self",
           "coinlist": [
             {
               "coindescs": [
@@ -2112,10 +2112,10 @@
                   "desc": "If the main target is an ally, activate the following effects:\n- The main target's Pierce Resistance becomes Fatal against this attack"
                 },
                 {
-                  "desc": "- Deal +5% damage for every [BoseProjektil] on self (max 35%)"
+                  "desc": "- Deal +5% damage for every [BoseProjektil] on self (maks 35%)"
                 },
                 {
-                  "desc": "- +2% Damage on Critical Hit for every [Breath] on self (max 40%)"
+                  "desc": "- +2% Damage on Critical Hit for every [Breath] on self (maks 40%)"
                 }
               ]
             },
@@ -2134,22 +2134,22 @@
                   "desc": "- If the first Coin failed to kill an ally, 1 random sub-target takes damage\n"
                 },
                 {
-                  "desc": "Deal +15% damage for every [BoseProjektil] on self (max 105%)"
+                  "desc": "Deal +15% damage for every [BoseProjektil] on self (maks 105%)"
                 },
                 {
-                  "desc": "- If the first Coin killed an ally, deal +30% damage for every [BoseProjektil] on self instead (max 210%)\n"
+                  "desc": "- If the first Coin killed an ally, deal +30% damage for every [BoseProjektil] on self instead (maks 210%)\n"
                 },
                 {
-                  "desc": "+2.5% Damage on Critical Hit for every [Breath] Potency (max <style=\"highlight\">25%</style>)"
+                  "desc": "+2.5% Damage on Critical Hit for every [Breath] Potency (maks <style=\"highlight\">25%</style>)"
                 },
                 {
-                  "desc": "+7% Damage on Critical Hit for every [BoseProjektil] on self (max 49%)"
+                  "desc": "+7% Damage on Critical Hit for every [BoseProjektil] on self (maks 49%)"
                 },
                 {
-                  "desc": "Deal +(HP percentage the first Coin removed from the main target)% damage (max 100%)"
+                  "desc": "Deal +(HP percentage the first Coin removed from the main target)% damage (maks 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 },
                 {
                   "desc": "- If the first Coin killed an ally, inflict 3 [Laceration] and +1 [Laceration] Count instead"
@@ -2161,7 +2161,7 @@
         {
           "level": 4,
           "name": "Target Readjustment Fire",
-          "desc": "[StartBattle] Targets the unit with the least HP\n- At 7 [BoseProjektil], primarily targets among allies as the main target\n[StartBattle] Gain +1 Atk Weight for every 3 [BoseProjektil] on self (max 2)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Breath] on self (max 2)</style>\n[WhenUse] <style=\"highlight\">Base Power +1 for every 3 [Breath] Count on self (max 2)</style>\n[WhenUse] Gain 1 [Breath] for every [BoseProjektil] on self (max 7)\n[EndSkill] Lose ([BoseProjektil] on self x 2) SP (max 14)\n[EndSkill] If this unit has 7 [BoseProjektil] at Combat Start, lose them all\n- If this unit lost all [BoseProjektil], and if an ally is killed, heal 20 SP on self",
+          "desc": "[StartBattle] Targets the unit with the least HP\n- At 7 [BoseProjektil], primarily targets among allies as the main target\n[StartBattle] Gain +1 Atk Weight for every 3 [BoseProjektil] on self (maks 2)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Breath] on self (maks 2)</style>\n[WhenUse] <style=\"highlight\">Base Power +1 for every 3 [Breath] Count on self (maks 2)</style>\n[WhenUse] Gain 1 [Breath] for every [BoseProjektil] on self (maks 7)\n[EndSkill] Lose ([BoseProjektil] on self x 2) SP (maks 14)\n[EndSkill] If this unit has 7 [BoseProjektil] at Combat Start, lose them all\n- If this unit lost all [BoseProjektil], and if an ally is killed, heal 20 SP on self",
           "coinlist": [
             {
               "coindescs": [
@@ -2175,10 +2175,10 @@
                   "desc": "If the main target is an ally, activate the following effects:\n- The main target's Pierce Resistance becomes Fatal against this attack"
                 },
                 {
-                  "desc": "- Deal +7% damage for every [BoseProjektil] on self (max 49%)"
+                  "desc": "- Deal +7% damage for every [BoseProjektil] on self (maks 49%)"
                 },
                 {
-                  "desc": "- +3% Damage on Critical Hit for every [Breath] on self (max 60%)"
+                  "desc": "- +3% Damage on Critical Hit for every [Breath] on self (maks 60%)"
                 }
               ]
             },
@@ -2197,19 +2197,19 @@
                   "desc": "- If the first Coin failed to kill an ally, 1 random sub-target takes damage\n"
                 },
                 {
-                  "desc": "Deal +<style=\"highlight\">20</style>% damage for every [BoseProjektil] on self (max <style=\"highlight\">140</style>%)"
+                  "desc": "Deal +<style=\"highlight\">20</style>% damage for every [BoseProjektil] on self (maks <style=\"highlight\">140</style>%)"
                 },
                 {
-                  "desc": "- If the first Coin killed an ally, deal +<style=\"highlight\">40</style>% damage for every [BoseProjektil] on self instead (max <style=\"highlight\">280</style>%)\n"
+                  "desc": "- If the first Coin killed an ally, deal +<style=\"highlight\">40</style>% damage for every [BoseProjektil] on self instead (maks <style=\"highlight\">280</style>%)\n"
                 },
                 {
-                  "desc": "+<style=\"highlight\">5</style>% Damage on Critical Hit for every [Breath] Potency (max <style=\"highlight\">50</style>%)"
+                  "desc": "+<style=\"highlight\">5</style>% Damage on Critical Hit for every [Breath] Potency (maks <style=\"highlight\">50</style>%)"
                 },
                 {
-                  "desc": "+<style=\"highlight\">10</style>% Damage on Critical Hit for every [BoseProjektil] on self (max <style=\"highlight\">70</style>%)"
+                  "desc": "+<style=\"highlight\">10</style>% Damage on Critical Hit for every [BoseProjektil] on self (maks <style=\"highlight\">70</style>%)"
                 },
                 {
-                  "desc": "Deal +(HP percentage the first Coin removed from the main target)% damage (max 100%)"
+                  "desc": "Deal +(HP percentage the first Coin removed from the main target)% damage (maks 100%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]"
@@ -2229,12 +2229,12 @@
         {
           "level": 1,
           "name": "Front Line Support",
-          "desc": "[DuelCounter]\n[WhenUse] Coin Power +1 for every 2 [Breath] on self (max 2)\n[WhenUse] Gain 2 [BoseProjektil]",
+          "desc": "[DuelCounter]\n[WhenUse] Coin Power +1 for every 2 [Breath] on self (maks 2)\n[WhenUse] 2 [BoseProjektil] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
@@ -2246,12 +2246,12 @@
         {
           "level": 4,
           "name": "Front Line Support",
-          "desc": "[DuelCounter]\n[WhenUse] Coin Power +1 for every 2 [Breath] on self (max 3)\n[WhenUse] Gain 2 [BoseProjektil]",
+          "desc": "[DuelCounter]\n[WhenUse] Coin Power +1 for every 2 [Breath] on self (maks 3)\n[WhenUse] 2 [BoseProjektil] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
