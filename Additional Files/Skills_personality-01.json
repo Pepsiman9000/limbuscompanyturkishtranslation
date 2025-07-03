@@ -2161,7 +2161,7 @@
         {
           "level": 4,
           "name": "Hedef Düzenleme Ateşi",
-          "desc": "[StartBattle] En az HP'ye sahip birimi hedefler\n- At 7 [BoseProjektil], primarily targets among allies as the main target\n[StartBattle] Gain +1 Atk Weight for every 3 [BoseProjektil] on self (maks 2)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Breath] on self (maks 2)</style>\n[WhenUse] <style=\"highlight\">Base Power +1 for every 3 [Breath] Count on self (maks 2)</style>\n[WhenUse] Gain 1 [Breath] for every [BoseProjektil] on self (maks 7)\n[EndSkill] Lose ([BoseProjektil] on self x 2) SP (maks 14)\n[EndSkill] If this unit has 7 [BoseProjektil] at Combat Start, lose them all\n- If this unit lost all [BoseProjektil], and if an ally is killed, heal 20 SP on self",
+          "desc": "[StartBattle] En az HP'ye sahip birimi hedefler\n- 7 [BoseProjektil] varsa, ana hedef olarak Müttefiklere öncelik verir\n[StartBattle] Kendi üzerindeki her 3 [BoseProjektil] için +1 Saldırı Ağırlığı kazan (maks 2)\n[WhenUse] <style=\"highlight\">Kendi üzerindeki her 5 [Breath] için Jeton Gücü +1 (maks 2)</style>\n[WhenUse] <style=\"highlight\">Kendi üzerindeki her 3 [Breath] Miktarı için Taban Gücü +1 (maks 2)</style>\n[WhenUse] Kendi üzerindeki her [BoseProjektil] için 1 [Breath] kazan (maks 7)\n[EndSkill] (Kendi üzerindeki [BoseProjektil] x 2) SP kaybet (maks 14)\n[EndSkill] Eğer Çatışma Başlangıcında 7 [BoseProjektil] vardıysa, hepsini kaybet\n- Eğer bütün [BoseProjektil] bittiyse, ve bir Müttefik öldüyse, 20 SP yenile",
           "coinlist": [
             {
               "coindescs": [
@@ -2169,16 +2169,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This Coin deals damage only against the main target"
+                  "desc": "Bu Jeton, yalnızca Ana Hedefe hasar verir"
                 },
                 {
-                  "desc": "If the main target is an ally, activate the following effects:\n- The main target's Pierce Resistance becomes Fatal against this attack"
+                  "desc": "Eğer ana Hedef bir Müttefikse:\n- Ana Hedefin Delme Zayıflığı, bu saldırıya karşı Ölümcül olacaktır"
                 },
                 {
-                  "desc": "- Deal +7% damage for every [BoseProjektil] on self (maks 49%)"
+                  "desc": "- Kendi üzerindeki her [BoseProjektil] için +7% Hasar ver (maks 49%)"
                 },
                 {
-                  "desc": "- +3% Damage on Critical Hit for every [Breath] on self (maks 60%)"
+                  "desc": "- Kritik Vuruşta, üzerindeki her [Breath] için +3% Hasar ver (maks 60%)"
                 }
               ]
             },
@@ -2188,34 +2188,34 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This Coin deals damage only against the sub-targets"
+                  "desc": "Bu Jeton yalnızca Yan Hedeflere hasar verir"
                 },
                 {
-                  "desc": "- However, if the main target was an enemy, deal damage against the main target"
+                  "desc": "- Fakat, eğer ana Hedef bir Düşmansa, yalnızca ana Hedefe hasar ver"
                 },
                 {
-                  "desc": "- If the first Coin failed to kill an ally, 1 random sub-target takes damage\n"
+                  "desc": "- Eğer ilk Jeton Müttefiği öldürmeyi başaramadıysa, hasarı rastgele bir Yan Hedefe vur\n"
                 },
                 {
-                  "desc": "Deal +<style=\"highlight\">20</style>% damage for every [BoseProjektil] on self (maks <style=\"highlight\">140</style>%)"
+                  "desc": "Kendi üzerindeki her [BoseProjektil] için +<style=\"highlight\">20</style>% Hasar ver (maks <style=\"highlight\">140</style>%)"
                 },
                 {
-                  "desc": "- If the first Coin killed an ally, deal +<style=\"highlight\">40</style>% damage for every [BoseProjektil] on self instead (maks <style=\"highlight\">280</style>%)\n"
+                  "desc": "- Eğer ilk Jeton bir Müttefik öldürdüyse, bunun yerine kendi üzerindeki her [BoseProjektil] için +<style=\"highlight\">40</style>% Hasar ver (maks <style=\"highlight\">280</style>%)\n"
                 },
                 {
-                  "desc": "+<style=\"highlight\">5</style>% Damage on Critical Hit for every [Breath] Potency (maks <style=\"highlight\">50</style>%)"
+                  "desc": "Kritik Vuruşta, her [Breath] için +<style=\"highlight\">5</style>% Hasar ver (maks <style=\"highlight\">50</style>%)"
                 },
                 {
-                  "desc": "+<style=\"highlight\">10</style>% Damage on Critical Hit for every [BoseProjektil] on self (maks <style=\"highlight\">70</style>%)"
+                  "desc": "Kritik Vuruşta, her [BoseProjektil] için +<style=\"highlight\">10</style>% Hasar ver (maks <style=\"highlight\">70</style>%)"
                 },
                 {
-                  "desc": "Deal +(HP percentage the first Coin removed from the main target)% damage (maks 100%)"
+                  "desc": "+(İlk Jetonun Ana Hedefe vurduğu HP yüzdesi)% Hasar ver (maks 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Laceration] uygula"
                 },
                 {
-                  "desc": "- If the first Coin killed an ally, inflict <style=\"highlight\">5</style> [Laceration] and +<style=\"highlight\">2</style> [Laceration] Count instead"
+                  "desc": "- Eğer ilk Jeton bir Müttefik öldürdüyse, Bunun yerine <style=\"highlight\">5</style> [Laceration] ve +<style=\"highlight\">2</style> [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -2229,7 +2229,7 @@
         {
           "level": 1,
           "name": "Ön Cephe Desteği",
-          "desc": "[DuelCounter]\n[WhenUse] Coin Power +1 for every 2 [Breath] on self (maks 2)\n[WhenUse] 2 [BoseProjektil] kazan",
+          "desc": "[DuelCounter]\n[WhenUse] Kendi üzerindeki her 2 [Breath] için Jeton Gücü +1 (maks 2)\n[WhenUse] 2 [BoseProjektil] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -2237,7 +2237,7 @@
                   "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +2 [Breath] Miktarı kazan"
                 }
               ]
             }
@@ -2246,7 +2246,7 @@
         {
           "level": 4,
           "name": "Ön Cephe Desteği",
-          "desc": "[DuelCounter]\n[WhenUse] Coin Power +1 for every 2 [Breath] on self (maks 3)\n[WhenUse] 2 [BoseProjektil] kazan",
+          "desc": "[DuelCounter]\n[WhenUse] Kendi üzerindeki her 2 [Breath] için Jeton Gücü +1 (maks 3)\n[WhenUse] 2 [BoseProjektil] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -2254,7 +2254,7 @@
                   "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +2 [Breath] Miktarı kazan"
                 }
               ]
             }
