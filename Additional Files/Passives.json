@@ -2205,6 +2205,21 @@
       "name": "Vahşi Kaplanın Hamlesi",
       "desc": "En hızlı Hıza sahip 1 müttefik [Bullet] harcayan bir Yetenek kullandığında, Hızı hedefin Hızından 3 veya daha fazla ise, +(Hız farkı × <style=\"highlight\">3</style>)% daha fazla hasar ver (maks <style=\"highlight\">%15</style>).\n(Bu etki, etkilenen birimin [Bullet] buff'ı tamamen yoksa aktifleşmez. Ancak [Bullet] buff'ı varsa (0 mermi kalmış olsa bile) aktifleşir)",
       "summary": ""
+    },
+    {
+      "id": 1011301,
+      "name": "Lanetli Mermi",
+      "desc": "Eğer bu birim bir Müttefik öldürdüyse, sonraki tur [FellBulletPersonality] kazan (Müttefiklere karşı yapılan her saldırı sayılır)\nEğer bu birim “Lanetli Mermi” E.G.O'sunu kullanıp tüm [BoseProjektil]'sını kaybederse: sonraki tur, önceki tur kaybedilen kadar [BoseProjektil] kazan."
+    },
+    {
+      "id": 1011302,
+      "name": "Solan Hatıra",
+      "desc": "Turn End: Tüm [BoseProjektil]'yı kaybet. Sonraki tur, kaybedilen kadar [BoseProjektil] kazan."
+    },
+    {
+      "id": 1011321,
+      "name": "Hedef Belirle",
+      "desc": "En düşük Hıza sahip Müttefik, başka bir Müttefiğe saldırırsa: Saldırıdan sonra, sonraki tur 1 [AttackDmgUp] kazan (tur başına 2 kez)\n- Eğer saldırılan Müttefik bu saldırı tarafından öldürülürse, bunun yerine bütün Karşılaşma boyunca 1 [AttackDmgUp] kazan (Kişilik başına 2 kere)\n- Yukarıdaki etki ile 2 [AttackDmgUp]'ndan fazla kazanılamaz."
     }
   ]
 }
