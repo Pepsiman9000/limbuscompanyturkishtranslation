@@ -4,7 +4,7 @@
             "id": 0,
             "place": "Bodhisattva Tavukçusu",
             "model": "그레고르",
-            "content": "Tamam, şimdi her şey yoluna girdiğine göre, konuya dönelim, birden bire bizden oluveren dört göz ahbap?"
+            "content": "Tamam, şimdi her şey yoluna girdiğine göre, konuya dönelim, birden bire bizden oluveren dört göz ahbap!"
         },
         {
             "id": 1,
@@ -100,7 +100,7 @@
         },
         {
             "id": 17,
-            "content": "Yorgun yüzlü bir başka adam sendeleyerek yanımıza geldi; Samjo'nun restoran sahibinin endişeden hastalandığına dair yalan söylemediğini biraz olsun belli ediyordu."
+            "content": "Yorgun yüzlü bir başka adam sendeleyerek yanımıza geldi. Samjo'nun restoran sahibinin endişeden hastalandığına dair yalan söylemediğini belli ediyordu."
         },
         {
             "id": 18,
@@ -284,7 +284,7 @@
         },
         {
             "id": 48,
-            "content": "Samjo'nun kaliteli yememk vaatleri çoğu Günahkârın kalbini kazandı."
+            "content": "Samjo'nun kaliteli yememk vaatleri, çoğu Günahkârın kalbini kazanmıştı."
         },
         {
             "id": 49,
@@ -310,7 +310,7 @@
         {
             "id": 53,
             "model": "이스마엘",
-            "content": "Alooo…? Altın tavuk çubukları değil, Altın Dallar aramamız gerekmiyor muydu? Ne zamandan beri—"
+            "content": "Alooo…? Altın tavuk butları değil, Altın Dallar aramamız gerekmiyor muydu? Ne zamandan beri—"
         },
         {
             "id": 54,
@@ -320,7 +320,7 @@
         {
             "id": 55,
             "model": "로쟈",
-            "content": "Sınırlı bir kullanımı yok, değil mi? Sonsuza dek bedava tavuk, değil mi? Ha? Paket servis de sayılır mı?"
+            "content": "Sınırlı bir kullanımı yok, değil mi? Sonsuza dek bedava tavuk, değil mi? Ha? Paket servis de sayılır, değil mi?"
         },
         {
             "id": 56,
@@ -339,7 +339,7 @@
         },
         {
             "id": 59,
-            "content": "Faust, bir köşede efkara daldıktan sonra."
+            "content": "Faust, bir köşede biraz efkara daldıktan sonra."
         },
         {
             "id": 60,
@@ -349,7 +349,7 @@
         {
             "id": 61,
             "model": "이스마엘",
-            "content": "Af edersiniz?!"
+            "content": "Affedersiniz?!"
         },
         {
             "id": 62,
@@ -408,7 +408,7 @@
         {
             "id": 73,
             "model": "뫼르소",
-            "content": "Bildiğim kadarıyla, bir bireyin “insan” olarak kabul edilmeye uygun olmayan bir forma dönüştüğü bir fenomendir. Bilinen bir nedeni yoktur ve kayıtların hepsi alakasız görünüşlerde olmakta."
+            "content": "Bildiğim kadarıyla, bir bireyin “insan” olarak kabul edilmeye uygun olmayan bir forma dönüştüğü bir fenomendir. Bilinen bir nedeni yoktur ve kayıtların hepsi alakasız görünüşlerde olmaktadır."
         },
         {
             "id": 74,
@@ -428,7 +428,7 @@
         {
             "id": 77,
             "model": "파우스트",
-            "content": "Şirketimizin, bozukluklar ile ilgili konulara adanmış bir danışmanlık birimi olan LŞB'si (Limbus Şirketi Bozukluk Departmanı) var. Her ne kadar şu anlık bütçesi küçük olsa da, şirketin fenomene olan ilgisini gösteriyor."
+            "content": "Şirketimizin, bozukluklar ile ilgili konulara adanmış bir danışmanlık birimi olan LŞB'si (Limbus Şirketi Bozukluk Departmanı) var. Her ne kadar şu anlık bütçesi kısıtlı tutulsa da şirketin fenomene olan ilgisini gösteriyor."
         },
         {
             "id": 78,
@@ -463,7 +463,7 @@
         {
             "id": 84,
             "model": "로쟈",
-            "content": "Aa? Suratına sos bulaşmış, çikita!"
+            "content": "Aa? Suratına sos bulaşmış, <i>çikita</i>~!"
         },
         {
             "id": 85,
@@ -474,7 +474,7 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
-            "content": "Bunu bir evet olarak kabul ediyorum ve sizinl iletişime geçmemizi bekliyor olacağım."
+            "content": "Bunu bir evet olarak kabul ediyorum ve sizinle iletişime geçişimizi bekliyor olacağım."
         }
     ]
 }
