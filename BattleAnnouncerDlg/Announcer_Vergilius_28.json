@@ -22,7 +22,7 @@
     },
     {
       "id": "announcer_ally_break_28_1",
-      "dlg": "Onların acı çekmelerinden zevk almıyoru… Odaklan, müdür. Günahkârlarına mukayyet ol."
+      "dlg": "Onların acı çekmelerinden zevk almıyoru,… Odaklan, müdür. Günahkârlarına mukayyet ol."
     },
     {
       "id": "announcer_killenemy_28_1",
@@ -34,7 +34,7 @@
     },
     {
       "id": "announcer_enemy_adv_28_1",
-      "dlg": "Ahh... Böyle olmaz. Bildiğin üzere orada bulup sana yardım edemem. Dinlediğin şey sadece bir ses kaydı neticede. Geri çekil ve daha iyi bir strateji belirle... yahut belirleme, seçim senin."
+      "dlg": "Ahh... Bu böyle gitmez. Bildiğin üzere orada bulup sana yardım edemem. Dinlediğin şey sadece bir ses kaydı neticede. Geri çekil ve daha iyi bir strateji belirle... yahut belirleme, seçim senin."
     },
     {
       "id": "announcer_ally_advex_28_1",
@@ -94,7 +94,7 @@
     },
     {
       "id": "announcer_round_takebigdmg_28_1",
-      "dlg": "... Peki. Bu hezimet için seni suçlamayacağım, o saldırının yoktan var olduğunu göz önünde bulundurursak. Sonuçta göz göre göre o Günahkârı saldırının ortasına terk etmemişsindir, değil mi?"
+      "dlg": "... Peki. Bu hezimet için seni suçlamayacağım, o saldırının yoktan var olduğunu düşünürsek. Sonuçta göz göre göre o Günahkârı saldırının ortasına terk etmemişsindir, değil mi?"
     },
     {
       "id": "announcer_round_takebigdmg_28_2",
@@ -106,15 +106,15 @@
     },
     {
       "id": "announcer_round_givebigdmg_28_2",
-      "dlg": "A powerful attack does more than simply obliterate the enemy it targets. It immobilizes the surviving foes, paralyzing them with the fear that the same attack might target them next..."
+      "dlg": "Güçlü bir saldırı hedefini savaş alanından silmekle kalmaz, geriye kalan düşmanların iflahını keser. Onları akıllarında aynı hamleye maruz kalmak korkusuyla kaplayıp deliliğin eşiğine iter..."
     },
     {
       "id": "announcer_multikillenemy_28_1",
-      "dlg": "Bu Günahkârın dirayietini unutmayacağım, Dante. Üstekiler bana toplantılar sırasında methiyeler konusunda daha bonkör olmamı tembihlediler."
+      "dlg": "Bu Günahkârın dirayietini unutmayacağım, Dante. Üstekiler bana toplantılar sırasında methiyeler söylemek konusunda daha bonkör olmamı tembihlediler."
     },
     {
       "id": "announcer_wait_28_1",
-      "dlg": "... Ha. Noldu buna. Hareket etmiyor. Kırıldım deme bana. \n *Cihazı ters çevirir ve kontrol eder \n, Sakın bana; savaşın ortasında şekerleme yapıyım dedim, deme. Dante...",
+      "dlg": "...Ha. Noldu buna. Hareket etmiyor. Kırıldım deme bana. \n *Cihazı ters çevirir ve kontrol eder \n, Sakın bana; savaşın ortasında şekerleme yapıyım dedim, deme. Dante...",
       "isHide": true
     },
     {
@@ -133,32 +133,32 @@
     },
     {
       "id": "announcer_special_sinner_28_3",
-      "dlg": "... Günakâr #3 gene neyi eline yüzüne bulaştırdı? Haah...",
+      "dlg": "...Günakâr #3 gene neyi eline yüzüne bulaştırdı? Haah...",
       "isHide": true
     },
     {
       "id": "announcer_special_sinner_28_4",
-      "dlg": "Hm, your battle sense is just as excellent, even as a Sinner. Now, is there something you can do about your incomprehensible speech quirk, Sinner #4?",
+      "dlg": "Hm, Savaş alanındaki marifetin hala ilk günkü gibi, bir Günahkâr olsan bile. Peki.. Şu huşunetli, anlaşılmaz kısaltmaların hakkında bir şey yapsan; Günahkâr #4?",
       "isHide": true
     },
     {
       "id": "announcer_special_sinner_28_5",
-      "dlg": "Excellent, Sinner #5. I hear that your quick actions have prevented many a disaster.",
+      "dlg": "İyi iş çıkardın, Günahkâr #5. Duyduğum kadarıyla dakik reflekslerin sayısız felaketi önlemiş.",
       "isHide": true
     },
     {
       "id": "announcer_special_sinner_28_6",
-      "dlg": "... Don't think you can smooth over your terribly ineffective attack with an innocent smile, Sinner #6.",
+      "dlg": "... Sakın göz kanatıcı derecede rezil olan saldırını, o müsterih gülüşünle bertaraf edebileceğini sanma! Günahkâr #6.",
       "isHide": true
     },
     {
       "id": "announcer_special_sinner_28_7",
-      "dlg": "Sinner #7. I thought you'd finally learned how to use that head of yours... It has been a while since our last consultation, hasn't it?",
+      "dlg": "Artık sonunda o kafanı nasıl çalıştırcağını kavradın sanmıştım... Anlaşılan Son danışmanlık fastımızın üzerinden sular geçmiş, değil mi Günahkâr #7?",
       "isHide": true
     },
     {
       "id": "announcer_special_sinner_28_8",
-      "dlg": "So I hear that you're the class president now, Sinner #8? Then it's time you took to the helm.",
+      "dlg": "Müdür beyden duyduğum kadarıyla sınıf başkanı olmuşsun, Günahkâr #8. Halatları eline alman için daha iyi bir zamanlama olabilir mi?",
       "isHide": true
     },
     {
