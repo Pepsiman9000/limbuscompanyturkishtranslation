@@ -5,16 +5,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "■■ew",
-          "desc": "[WhenUse] If the target does not have [Burst], Clash Power +1",
+          "name": "■■ne",
+          "desc": "[WhenUse] Eğer hedefte [Burst] yoksa, Çarpışma Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 2 SP damage"
+                  "desc": "[OnSucceedAttack] 2 SP hasarı uygula"
                 }
               ]
             }
@@ -27,29 +27,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Le■'■ ■■t",
-          "desc": "[WhenUse] If the target has 5+ [Burst], Coin Power +1",
+          "name": "Ha■■ ■■m",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Burst] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 3 SP damage"
+                  "desc": "[OnSucceedAttack] 3 SP hasarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Verilen hasar kadar can yenile (Maks 20)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] 5 SP hasarı uygula"
                 }
               ]
             }
@@ -62,39 +62,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I■'s Y■■r ■■rn N■■!!",
-          "desc": "[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)",
+          "name": "Ş■■■i S■■■n S■■■n!!",
+          "desc": "[WhenUse] Hedefteki her 3 [Burst] için Jeton Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Verilen hasar kadar can yenile (Maks 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At less than 50% HP, Reuse Coin once"
+                  "desc": "[OnSucceedAttack] Can %50'den azsa, Jetonu bir defa daha kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 10 SP damage"
+                  "desc": "[OnSucceedAttack] 10 Sp hasarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Verilen hasar kadar can yenile (Maks 20)"
                 }
               ]
             }
@@ -107,8 +107,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gua■■",
-          "desc": "[WhenUse] Gain Shield HP for every 5 [Burst] on the target\n[EndBattle] Heal HP equal to the remaining Shield HP",
+          "name": "Kor■■■■",
+          "desc": "[WhenUse] Hedefteki her 5 [Burst] için kalkan kazan\n[EndBattle] Kalan kalkan kadar can yenile",
           "coinlist": [
             {
               "coindescs": [
@@ -126,16 +126,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wa■■■■ha",
-          "desc": "[WhenUse] If the target does not have [Burst], Clash Power +1",
+          "name": "Va■■■■ha",
+          "desc": "[WhenUse] Eğer hedefte [Burst] yoksa, Çarpışma Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 2 SP damage"
+                  "desc": "[OnSucceedAttack] 2 SP hasarı uygula"
                 }
               ]
             }
@@ -148,29 +148,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "C■■an",
-          "desc": "[WhenUse] If the target has 5+ [Burst], Coin Power +1",
+          "name": "T■■iz",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Burst] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 3 SP damage"
+                  "desc": "[OnSucceedAttack] 3 SP hasarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 4 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Verilen hasar kadar can yenile (Maks 20)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] 5 SP hasarı uygula"
                 }
               ]
             }
@@ -183,39 +183,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ti■■ to E■■!",
-          "desc": "[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)",
+          "name": "S■■ Ge■■■!",
+          "desc": "[WhenUse] Hedefteki her 3 [Burst] için Jeton Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 4 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Verilen hasar kadar can yenile (Maks 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At less than 50% HP, Reuse Coin once"
+                  "desc": "[OnSucceedAttack] Can %50'den azsa, Jetonu bir defa daha kullan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 10 SP damage"
+                  "desc": "[OnSucceedAttack] 10 SP hasarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] VErilen hasar kadar can yenile (Maks 20)"
                 }
               ]
             }
@@ -228,8 +228,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "■■■rd",
-          "desc": "[WhenUse] Gain Shield HP for every 5 [Burst] on the target\n[EndBattle] Heal HP equal to the remaining Shield HP",
+          "name": "■■■■nma",
+          "desc": "[WhenUse] Hedefteki her 5 [Burst] için kalkan kazan\n[EndBattle] Kalan kalkan kadar can yenile",
           "coinlist": [
             {
               "coindescs": [
