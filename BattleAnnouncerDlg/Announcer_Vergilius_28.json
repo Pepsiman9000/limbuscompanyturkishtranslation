@@ -14,7 +14,7 @@
     },
     {
       "id": "announcer_specialcheer_28_2",
-      "dlg": "Hm, arta kalan kanla kaplanmış bir avuç paçavra... Geriye kalan Günahkârlarla yetinebilirmisin?"
+      "dlg": "Hm, arta kalan kanla kaplanmış bir avuç paçavra... Geriye kalan Günahkârlarla yetinebilir misin?"
     },
     {
       "id": "announcer_enemy_break_28_1",
@@ -22,7 +22,7 @@
     },
     {
       "id": "announcer_ally_break_28_1",
-      "dlg": "Onların acı çekmelerinden zevk almıyoru,… Odaklan, müdür. Günahkârlarına mukayyet ol."
+      "dlg": "Onların acı çekmelerinden zevk almıyorum… Odaklan, müdür. Günahkârlarına mukayyet ol."
     },
     {
       "id": "announcer_killenemy_28_1",
@@ -34,11 +34,11 @@
     },
     {
       "id": "announcer_enemy_adv_28_1",
-      "dlg": "Ahh... Bu böyle gitmez. Bildiğin üzere orada bulup sana yardım edemem. Dinlediğin şey sadece bir ses kaydı neticede. Geri çekil ve daha iyi bir strateji belirle... yahut belirleme, seçim senin."
+      "dlg": "Ahh... Bu böyle gitmez. Bildiğin üzere orada bulunup sana yardım edemem. Dinlediğin şey sadece bir ses kaydı neticede. Geri çekil ve daha iyi bir strateji belirle... yahut belirleme, seçim senin."
     },
     {
       "id": "announcer_ally_advex_28_1",
-      "dlg": "Hm... Hala şansımız var. İçinde bulunduğun durum ümitsiz görülebilir lakin bir çıkış var, sadece doğru yolu bulmalısın. Müdür Dante."
+      "dlg": "Hm... Hala şansımız var. İçinde bulunduğun durum ümitsiz görülebilir ancak bir çıkış var, sadece doğru yolu bulmalısın. Müdür Dante."
     },
     {
       "id": "announcer_danger_28_1",
@@ -50,11 +50,11 @@
     },
     {
       "id": "announcer_enemy_specialgimmick_28_1",
-      "dlg": "Aşkın bir güç gösterisi ile yaptıkları şaklabanlıklar alaşağı edebilir. Gerçi, sanırsam senin için böyle bir seçenek söz konusu değil."
+      "dlg": "Caydırıcı bir güç gösterisi ile yaptıkları şaklabanlıklar alaşağı edebilir. Gerçi, sanırsam senin için böyle bir seçenek söz konusu değil."
     },
     {
       "id": "announcer_advatk_physical_28_1",
-      "dlg": "Demek saati onca kez geri sarmak beyhude değilmiş, Anlıyorum. Kendini geliştirmişsin, Dante."
+      "dlg": "Demek saati onca kez geri sarmak boşuna değilmiş, Anlıyorum. Kendini geliştirmişsin, Dante."
     },
     {
       "id": "announcer_disadvatk_physical_28_1",
@@ -74,7 +74,7 @@
     },
     {
       "id": "announcer_enemy_specialdebuff_28_1",
-      "dlg": "Paranoya, korku, ve telaş... Tam da açık verdikleri o nadide an. Sende görüyormusun? Ofesnsife geç ve baskıyı arttır."
+      "dlg": "Paranoya, korku, ve telaş... Tam da açık verdikleri o nadide an. Sen de görüyormusun? Ofesnsife geç ve baskıyı arttır."
     },
     {
       "id": "announcer_ally_specialbuff_28_1",
@@ -90,11 +90,11 @@
     },
     {
       "id": "announcer_enemy_destroy_28_2",
-      "dlg": "Hm, ilginç. Demek bu spesifik düşmanın bu uzvunu koparmanın sonuçları böleymiş. Bana iyi bir sunum hazırlamışsın, Dante."
+      "dlg": "Hm, ilginç. Demek ki spesifik olarak bu düşmanın bu uzvunu koparmanın sonuçları böleymiş. Bana iyi bir sunum hazırlamışsın, Dante."
     },
     {
       "id": "announcer_round_takebigdmg_28_1",
-      "dlg": "... Peki. Bu hezimet için seni suçlamayacağım, o saldırının yoktan var olduğunu düşünürsek. Sonuçta göz göre göre o Günahkârı saldırının ortasına terk etmemişsindir, değil mi?"
+      "dlg": "...Peki. Bu hezimet için seni suçlamayacağım, o saldırının yoktan var olduğunu düşünürsek. Sonuçta göz göre göre o Günahkârı saldırının ortasına terk etmemişsindir, değil mi?"
     },
     {
       "id": "announcer_round_takebigdmg_28_2",
@@ -106,7 +106,7 @@
     },
     {
       "id": "announcer_round_givebigdmg_28_2",
-      "dlg": "Güçlü bir saldırı hedefini savaş alanından silmekle kalmaz, geriye kalan düşmanların iflahını keser. Onları akıllarında aynı hamleye maruz kalmak korkusuyla kaplayıp deliliğin eşiğine iter..."
+      "dlg": "Güçlü bir saldırı hedefini savaş alanından silmekle kalmaz, geriye kalan düşmanların iflahını keser. Onları akıllarında aynı hamleye maruz kalma korkusuyla kaplayıp deliliğin eşiğine iter..."
     },
     {
       "id": "announcer_multikillenemy_28_1",
@@ -123,7 +123,7 @@
     },
     {
       "id": "announcer_special_sinner_28_1",
-      "dlg": "Etkileyici, Günakâr #1. Kişilik ve E.G.O kullanımı konusunda şaşırtıcı derece yatkınlığın var.",
+      "dlg": "Etkileyici, Günakâr #1. Kişilik ve E.G.O kullanımı konusunda şaşırtıcı derecede yatkınlığın var.",
       "isHide": true
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "id": "announcer_special_sinner_28_4",
-      "dlg": "Hm, Savaş alanındaki marifetin hala ilk günkü gibi, bir Günahkâr olsan bile. Peki.. Şu huşunetli, anlaşılmaz kısaltmaların hakkında bir şey yapsan; Günahkâr #4?",
+      "dlg": "Hm, Savaş alanındaki marifetin hala ilk günkü gibi, bir Günahkâr olsan bile. Peki.. Şu huşunetli, anlaşılmaz kısaltmaların hakkında yapabileceğin bir şeyler yok mu; Günahkâr #4?",
       "isHide": true
     },
     {
@@ -148,12 +148,12 @@
     },
     {
       "id": "announcer_special_sinner_28_6",
-      "dlg": "... Sakın göz kanatıcı derecede rezil olan saldırını, o müsterih gülüşünle bertaraf edebileceğini sanma! Günahkâr #6.",
+      "dlg": "...Sakın göz kanatıcı derecede rezil olan saldırını, o masum gülüşünle bertaraf edebileceğini sanma! Günahkâr #6.",
       "isHide": true
     },
     {
       "id": "announcer_special_sinner_28_7",
-      "dlg": "Artık sonunda o kafanı nasıl çalıştırcağını kavradın sanmıştım... Anlaşılan Son danışmanlık fastımızın üzerinden sular geçmiş, değil mi? Günahkâr #7.",
+      "dlg": "Artık sonunda o kafanı nasıl çalıştırcağını kavradın sanmıştım... Anlaşılan Son danışmanlık fastımızın üzerinden çok sular akmış, değil mi? Günahkâr #7.",
       "isHide": true
     },
     {
@@ -163,12 +163,12 @@
     },
     {
       "id": "announcer_special_sinner_28_9",
-      "dlg": "Bu kadar hızlı tatmin olduğuna seviniyorum. Tabii ki de üstün başarı sergilemen konusunda sana şekerleme alacağım.  Günahkâr #9.",
+      "dlg": "Bu kadar hızlı tatmin olduğuna seviniyorum. Tabii ki de üstün başarı sergilemen konusunda sana şekerleme alacağım. Günahkâr #9.",
       "isHide": true
     },
     {
       "id": "announcer_special_sinner_28_10",
-      "dlg": "Gene eline yüzüne bulaştırdın, her tarafın kanla kaplandı, #11. ... Hm, Ama sanırsam son zamanlarda biraz olgunlaşmışsın. Şimdiye dizlerine kapanıp sızlarsın sanıyordum.",
+      "dlg": "Gene her tarafını kana bulamışsın, #11. ... Hm, Ama sanırsam son zamanlarda biraz olgunlaştın. Şimdiye dizlerine kapanıp sızlarsın sanıyordum.",
       "isHide": true
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "id": "announcer_special_sinner_28_12",
-      "dlg": "Meyusi tavurlarına ayıracak zamanımız yok, Sinner #13. İleri marş marş. Her zamanki vurdumduymaz mizacın nerde?",
+      "dlg": "Meyusi tavurlarına ayıracak zamanımız yok, Günahkâr #13. İleri marş marş. Her zamanki vurdumduymaz mizacın nerde?",
       "isHide": true
     }
   ]
