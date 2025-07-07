@@ -79,52 +79,51 @@
     },
     {
       "id": "AaCePcBp",
-      "name": "Starbuck's Ego",
-      "desc": "Turn Start: Gain 1 Protection for every 6 value.\nDecreases for every Coin destroyed in Clash against targets with Prey Mark.\nTurn End: If at 0, get Staggered.",
-      "summary": "Gain Protection by value. Reduce value when losing Clash against certain targets.",
+      "name": "Starbuck'ın Kişiliği",
+      "desc": "Tur Başında: Her 6 değer için 1 Koruma kazan.\nAv İşareti olan hedeflere karşı Çarpışmada kaybedilen her Jeton için değer azalır.\nTur Sonu: Değer 0 ise Sersemle.",
+      "summary": "Değere göre Koruma Kazan. Belirli hedeflere karşı Çarpışma kaybettiğinde değeri azalt.",
       "undefined": "-"
     },
     {
       "id": "AaCePcBq",
-      "name": "Queequeg's Ego",
-      "desc": "Turn End: Gain value if Shielded\nTurn End: Lose value when without Shield or when using Bleached Atonement.\nTurn End: At 0, get Staggered.",
-      "summary": "Turn End: Depending on whether this unit is Shielded or not, lose or gain value.",
+      "desc": "Tur Sonu: Kalkanlıysa değer kazanır.\nTur Sonu: Kalkan yoksa veya Beyazlatılmış Kefaret kullanıldığında değer kaybeder.\nTur Sonu: Değer 0 ise Sersemle.",
+      "summary": "Tur Sonu: Kalkan durumuna göre değer artar veya azalır.",
       "undefined": "-"
     },
     {
       "id": "AaCePcBe",
       "iconID": "AaCePbBb",
-      "name": "Pallid Panic",
-      "desc": "SP Loss Efficiency +2",
+      "name": "Solgun Panik",
+      "desc": "SP Kaybı Verimliliği +2",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCePcBf",
-      "name": "Pallid Panic",
+      "name": "Solgun Panik",
       "iconID": "AaCePbBb",
-      "desc": "Gain 2 Bind at Turn End.\nEvery Coin this unit flips lands on tails.",
+      "desc": "Tur Sonu: 2 Yavaşlama kazan.\nBu birimin attığı tüm Jetonlar tura gelir.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCePcBr",
-      "name": "Assist Barrier",
-      "desc": "Reduce value by the amount of damage taken.\nDoes not expire at the end of the turn.\nTurn End: If this value becomes 0 during Ahab's 1st phase, get Staggered next turn.",
+      "name": "Destek Bariyeri", 
+      "desc": "Alınan hasar kadar değeri azalt.\nTur sonunda sona ermez.\nTur Sonu: Değer Ahab'ın 1. aşamasındayken 0 olur ise, sonraki tur Sersemle.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCePcBs",
-      "name": "Assist Defense",
-      "desc": "Pull skills targeting Ahab to this unit's slot.\nThe unit with this effect has unlimited Slot Weight.",
+      "name": "Destek Koruması",
+      "desc": "Ahab'ı hedefleyen yetenekleri bu birimin yuvasına çeker.\nBu etkiye sahip birimin Yuva Ağırlığı sınırsızdır.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCePcBt",
-      "name": "Assist Attack",
-      "desc": "After Ahab's attack, commence unopposed attack against the same target Ahab attacked.\nThe Skill used in this action has the same Offense Level, Coin values and effects as this unit's 'I Follow Orders...' Skill.",
+      "name": "Destek Saldırısı",
+      "desc": "Ahab'ın saldırısından sonra, Ahab'ın saldırdığı aynı hedefe karşı karşılıksız saldırı başlat.\nBu eylemde kullanılan Yetenek, bu birimin 'Emirlere Uyuyorum...' yeteneğiyle aynı Saldırı Seviyesi, Jeton değerleri ve etkilerine sahiptir.",
       "summary": "",
       "undefined": "-"
     }
