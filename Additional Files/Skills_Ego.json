@@ -2642,7 +2642,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 40% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hasarın 40%'ı kadar HP yenile"
                 }
               ]
             }
@@ -2657,7 +2657,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 60% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hasarın 60%'ı kadar HP yenile"
                 }
               ]
             }
@@ -2672,15 +2672,15 @@
           "level": 1,
           "name": "Lantern",
           "abName": "Faelantern",
-          "desc": "[CantIdentify] \nTarget the unit with most health",
+          "desc": "[CantIdentify] \nEn yüksek cana sahip birimi hedefle",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hasarın 20%'si kadar HP yenile"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 RupTure"
+                  "desc": "[OnSucceedAttackHead] 3 [Rupture] uygula"
                 }
               ]
             }
@@ -2690,15 +2690,15 @@
           "level": 3,
           "name": "Lantern",
           "abName": "Faelantern",
-          "desc": "[CantIdentify] \nTarget the unit with most health",
+          "desc": "[CantIdentify] \nEn yüksek cana sahip birimi hedefle",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hasarın 30%'u kadar HP yenile"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 RupTure"
+                  "desc": "[OnSucceedAttackHead] 5 [Rupture] uygula"
                 }
               ]
             }
