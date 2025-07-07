@@ -2680,7 +2680,7 @@
                   "desc": "[OnSucceedAttack] Hasarın 20%'si kadar HP yenile"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 3 [Rupture] uygula"
+                  "desc": "[OnSucceedAttackHead] 3 Parçalanma uygula"
                 }
               ]
             }
@@ -2698,7 +2698,7 @@
                   "desc": "[OnSucceedAttack] Hasarın 30%'u kadar HP yenile"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 5 [Rupture] uygula"
+                  "desc": "[OnSucceedAttackHead] 5 Parçalanma uygula"
                 }
               ]
             }
