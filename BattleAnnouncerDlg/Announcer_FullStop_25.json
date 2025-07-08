@@ -2,137 +2,137 @@
   "dataList": [
     {
       "id": "announcer_cheer_25_1",
-      "dlg": "- Hm. I'd pull them back somewhat if I were you.\n- Hey, it says here that we only have to cheer them on, not give them tactical advice."
+      "dlg": "- Hm. Senin yerinde olsam onları azçok geri çekerdim.\n- Hey, burada diyorki onları sadece motive etmeliyiz, taktiksel öneriler vermemeliyiz."
     },
     {
       "id": "announcer_cheer_25_2",
-      "dlg": "- Mission start.\n- Read the patterns and stay focused, okay?\n- And once it starts, never stop pulling the trigger until it's over."
+      "dlg": "- Görev Başlangıcı.\n- Düzenlerini oku ve dikkatli ol, anlaşıldı?\n- Ve başlayınca, bitene kadar tetiği bırakmamayı unutma."
     },
     {
       "id": "announcer_specialcheer_25_1",
-      "dlg": "- Retreating and regrouping might be in order.\n- No enemies in the rear. If you're gonna retreat, now's the time.\n- I think they still have this. As long as they have something up their sleeves..."
+      "dlg": "- Geri çekilip, yeniden organize olmak iyi bir fikir olabilir.\n- Arkada düşman yok. Geri çekileceksen, tam vakti.\n- Bence bu iş hala onların elinde. Ellerinde bir koz olduğu sürece..."
     },
     {
       "id": "announcer_specialcheer_25_2",
-      "dlg": "- Hm... Looking a bit exhausted.\n- And so it goes.\n- Not to mention the breach of contract charges."
+      "dlg": "- Hm... Biraz yorgun gözüküyor.\n- Ve işte gidiyor.\n- Kontrakt kurallarını kırmanın cezasını söylemek istemiyorum bile."
     },
     {
       "id": "announcer_enemy_break_25_1",
-      "dlg": "- You've got an opening. A clear shot...\n- It only takes one shot.\n- ... Guys, this isn't our contract."
+      "dlg": "- Açıklık buldun. Temiz bir vuruş...\n- Sadece tek bir vuruş gerek.\n- ... Beyler, bu bizim kontraktımız değil."
     },
     {
       "id": "announcer_ally_break_25_1",
-      "dlg": "- They're all gonna die at this rate.\n- A tighter formation might help withstand the next few waves."
+      "dlg": "- Böyle giderse hepsi ölecek.\n- Daha sıkı bir formasyon sonraki birkaç dalgaya karşı dayanmalarını sağlayabilir."
     },
     {
       "id": "announcer_killenemy_25_1",
-      "dlg": "- Target elimination confirmed.\n- Now that's a positive sign. Don't lose focus now, though."
+      "dlg": "- Düşman ölümü onaylandı.\n- İşte bu pozitif bir işaret. Odağını sakın kaybetme."
     },
     {
       "id": "announcer_ally_dead_25_1",
-      "dlg": "- You're losing your ranks...\n- Well, that's the City for you. Stay on your toes, or you'll be the first in line to the slaughterhouse."
+      "dlg": "- Rütbelerini kaybediyorsun...\n- Yani, işte şehir böyle bir er. Her zaman pürdikkat ol, yoksa ıslahevine gidecek ilk kişi sen olursun."
     },
     {
       "id": "announcer_enemy_adv_25_1",
-      "dlg": "- They're still fighting? They should just drop their weapons and—\n- What the hell are you talking about?!\n- You don't just throw away your weapons."
+      "dlg": "- Hala çatışıyorlar mı? Silahlarını bırakıp—\n- Ağızından ne çıkıyor senin?!\n- Silahını asla bırakmazsın."
     },
     {
       "id": "announcer_ally_advex_25_1",
-      "dlg": "- I like a good turnabout.\n- Turnabout my ass, we always barely escape from the missions with our lives.\n- We've always won in the end. That's what matters."
+      "dlg": "- Güzel bir geri döünüşü severim .\n- Geri dönüşünü sikmişim, görevlerimizden her zaman zar zor canımızla kaçarız.\n- Eninde sonunda her zaman kazandık. Önemli olan nı."
     },
     {
       "id": "announcer_danger_25_1",
-      "dlg": "- Remember that one time? When we had just one bullet left between us.\n- And three remaining enemies. Tamaki finished them with a single shot, though.\n- Maybe they'll pull off something similar."
+      "dlg": "- Hatırlıyor musun? İkimiz için sadece tek bir mermi kaldığı zamanı.\n- Ve üç tane düşmanın kaldığı. Tamaki tek bir vuruşla hepsini öldürmeyi başarmıştı.\n- Belki onlarda bu tarz birşey yapacak."
     },
     {
       "id": "announcer_enemy_specialskill_25_1",
-      "dlg": "- Something's going on over there...\n- That one. It's getting ready for something, that's for sure."
+      "dlg": "- Orada birşeyler dönüyor...\n- İşte o. Birşey için hazırlanıyor, kesinlikle."
     },
     {
       "id": "announcer_enemy_specialgimmick_25_1",
-      "dlg": "- Which Workshop is that from? I've never seen anything like—\n- It might not be from a Workshop at all. What if it's a Singularity-based weapon?"
+      "dlg": "- O şey hangi atölyeden? O tarz birşeyi hiç—\n- Bir atölyeden bile olmayabilir. Tekillik temelli bir silah ise?"
     },
     {
       "id": "announcer_advatk_physical_25_1",
-      "dlg": "- Fire for effect. Very good.\n- Yep. Keep up the pace."
+      "dlg": "- Efekt için ateş et. Çok güzel.\n- Evet. Aynı ritimle devam."
     },
     {
       "id": "announcer_disadvatk_physical_25_1",
-      "dlg": "- What a waste of ammunition...\n- Just how many are they throwing away by shooting at something they can't even penetrate?"
+      "dlg": "- Boşuna mermi harcamışsınız...\n- Delemeyecekleri birşey için daha ne kadar mermi fırlatmaya devam edecekler?"
     },
     {
       "id": "announcer_advatk_attr_25_1",
-      "dlg": "- Ooh, that was a good call. \n- It's important to observe your enemies closely rather than firing blindly."
+      "dlg": "- Ooh, iyi uyarıydı. \n- Rastegele ateş etmek yerine düşmanlarını yakından izlemek önemlidir."
     },
     {
       "id": "announcer_disadvatk_attr_25_1",
-      "dlg": "- Gotta use the right bullet for the right target.\n- Well... I'm sure that's a piece of advice that applies to more than just the bullets. Probably."
+      "dlg": "- Doğru düşman için doğru mermi kullanılmalı.\n- Yani... O tavsiye mermiler dışında çoğu şey içinde kullanılabilir. İyi bir ihtimal."
     },
     {
       "id": "announcer_enemy_specialbuff_25_1",
-      "dlg": "- They look pretty fired up... Maybe they took something.\n- Yeah, no. This is not a good time for an attack."
+      "dlg": "- Çok hırslı görünüyorlar... Belki birşey aldılar.\n- Eveeeet, hayır. Saldırı için iyi bir vakit değil."
     },
     {
       "id": "announcer_enemy_specialdebuff_25_1",
-      "dlg": "- Zoom in over here.\n- Hm... They're not doing so good. Time to press the attack."
+      "dlg": "- Yaklaş şuraya.\n- Hm... Çok iyi yapmıyorlar. Saldırıya geçme vakti gibi gözüküyor."
     },
     {
       "id": "announcer_ally_specialbuff_25_1",
-      "dlg": "- Looking good.\n- At this rate, they might even be able to challenge contracts of a higher difficulty."
+      "dlg": "- İyi gözüküyor.\n- Böyle devam ederse, daha zor kontraktları bile yapmayı deneyebilirler."
     },
     {
       "id": "announcer_ally_specialdebuff_25_1",
-      "dlg": "- I'm going nuts over here... What are they waiting for?\n- Low morale, maybe. Might be a good idea to briefly regroup for now."
+      "dlg": "- Çıldıracağım burada... Beyi bekliyorlar?\n- Düşük moral, belki. Yeniden gruplanmak için iyi bir vakit olabilir."
     },
     {
       "id": "announcer_enemy_destroy_25_1",
-      "dlg": "- Target parts are blown off.\n- Good. That's one hole plugged."
+      "dlg": "- Hedeflenen parçalar yok edildi.\n- Güzel. Bir delik daha kapatıldı."
     },
     {
       "id": "announcer_enemy_destroy_25_2",
-      "dlg": "- Yes! Open fire!\n- Right. Let's not get too excited and take it slow—\n- Take it slow my ass! Can't they just focus fire at the broken part?"
+      "dlg": "- Evet! Ateş edin!\n- Tabi. Çok heyecanlanmayalım ve sakince işe devam edelim—\n- Sikmişim yavaş olmayı! Kırık parçaya odaklanamıyorlar mı?"
     },
     {
       "id": "announcer_round_takebigdmg_25_1",
-      "dlg": "- I don't know what else they can do against those enemies.\n- Yeah, I don't see a way to close that gap. Looks like they're shit outta luck."
+      "dlg": "- O tarz düşmanlara karşı daha ne yapabileceklerini bilmiyorum.\n- Evet, Açığı kapatmanın olası olduğunu düşünmüyorum. Şansları cidden bittmiş."
     },
     {
       "id": "announcer_round_takebigdmg_25_2",
-      "dlg": "- Just outta curiosity. What'll you do if I get blasted to near-death by an attack like that?\n- Leave you behind. Not much I can do.\n- ... Okay, I did expect that answer. But still."
+      "dlg": "- Sadece meraktan soruyorum. Beni neredeyse öldürecek bir saldırı yesem, ne yapardın?\n- Geride bırakırdım seni. Yapabileceğim çok birşey yok.\n- ... Tamam, Böyle bir cevap bekliyordum. Ama yinede."
     },
     {
       "id": "announcer_round_givebigdmg_25_1",
-      "dlg": "- We really gotta get someone like that on board...\n- We're not at financial liberty to hire more people."
+      "dlg": "- Cidden o tarz bir kişiyi ekibimize dahil etmeliyiz...\n- Daha çok kişi işe alabilecek finansal özgürlüğe sahip değiliz."
     },
     {
       "id": "announcer_round_givebigdmg_25_2",
-      "dlg": "- That was impressive.\n- A lot of damage coming from one person. That was something else."
+      "dlg": "- Güzel işti.\n- Sadece bir kişiden tonlarca hasar geliyordu. Normalden çok daha farklı birşeydi."
     },
     {
       "id": "announcer_multikillenemy_25_1",
-      "dlg": "- Wow, now that's a rare sight~ Damn!\n- This'll be worth looking into later.\n- Mhm. I'll remember this."
+      "dlg": "- Oha, işte bu nadir bir görüntü~ Vay be!\n- Sonradan bakmaya değer.\n- Mhm. Bunu hatırlayacağım."
     },
     {
       "id": "announcer_special_25_1",
-      "dlg": "The Church guys'll be swarming you soon... Stay sharp and check if your weapons are in good shape!",
+      "dlg": "O Kilise adamları yakında üstünüze üşüşmeye başlayacak... Dikkatli ol ve silahlarının düzgün çalıştığından emin ol!",
       "imgStr": "Stephan_announcer",
       "isHide": true
     },
     {
       "id": "announcer_special_25_2",
-      "dlg": "There's no end to them, these weirdos with gears crammed into their heads... Keep your eyes on your ammo count, okay?",
+      "dlg": "Sonları gözükmüyor, kafalarına dişli sıkışmış deliler... Mermi sayınıza dikkat edin, anlaşıldı?",
       "imgStr": "Stephan_announcer",
       "isHide": true
     },
     {
       "id": "announcer_special_25_3",
-      "dlg": "That's the last one... But something tells me they're dangerous. Don't get complacent.",
+      "dlg": "Ve bu son kişiydi... Ama birşey bana tehlikeli olduklarını söylüyor. Çok rahat olma.",
       "imgStr": "Stephan_announcer",
       "isHide": true
     },
     {
       "id": "announcer_equip_25_1",
-      "dlg": "- It's a simple contract this time. We just sit here, watch a video, and make some commentary.\n- Nice~ Looks like we'll get to save on some bullet expenses.\n- I appreciate opportunities to do some nonviolent work."
+      "dlg": "- Bu sefer basit bir kontrakt. Burda oturacağız, bir video izleyip, biraz yorum yapacağız.\n- Güzel~ Mermi için para ödemekten bu seferlik kaçınacağız gibi gözüküyor.\n- Şiddet içermeyen işleri bulma şansını takdir ediyorum."
     }
   ]
 }
