@@ -3,12 +3,12 @@
         {
             "id": "get_10107_1",
             "desc": "Identity Acquisition",
-            "dlg": "Bana Yi Sang diyebilirsin. I am the first mate of the Pequod."
+            "dlg": "Bana Yi Sang diyebilirsin. Ben Pequod'un ikinci kaptanıyım."
         },
         {
             "id": "lobby_morning_10107_1",
             "desc": "Morning Greeting",
-            "dlg": "I pray that the waves did not keep you up at night. The Lake remains tranquil today... Perhaps we may be availed a brief moment to savor its sights for once."
+            "dlg": "Umarım ki dalgaların sesleri sizi geceleyin uyanık tutmamıştır. Göl bugün hala durgun gibi... Belki de bir seferliğine onun güzelliğine şahit olma şanına sahip oluruz."
         },
         {
             "id": "lobby_noon_10107_1",
@@ -33,7 +33,7 @@
         {
             "id": "smalltalk_10107_3",
             "desc": "Chatter #3",
-            "dlg": "The life of a sailor is... Quite all right. Once this endeavor is complete, however, I wish to start a café of my own.\nI have begun dreaming of a leisurely life, free from urgency."
+            "dlg": "Bir denizcinin hayatı... gayet güzel. Lâkin, bu uğraş bittikten sonra , kendi kafemi açma isteğindeyim.\n Sakin bir hayatın hayalini kurmaya başladım, aciliyetlerden yoksun."
         },
         {
             "id": "smalltalk_10107_4",
@@ -43,12 +43,12 @@
         {
             "id": "smalltalk_10107_5",
             "desc": "Post-Uptie Chat 2",
-            "dlg": "Kaptan Ishmael size ölümü emretmedi! We must... All of us must kill it and return to where we belong!"
+            "dlg": "Kaptan Ishmael size ölümü emretmedi! Biz... Hepimiz onu öldürmeli ve ait olduğumuz yerlere dönmeliyiz!"
         },
         {
-            "id": "neglect_10107_1",
+            "id": "neglect_10107_1",s
             "desc": "Idle",
-            "dlg": "Hm... All is silent, save for the sound of the vessel hewing across the waters. This is also quite pleasant."
+            "dlg": "Hm... Her yer sükunet, geminin Gölü yararak ilerleme sesi hariç. Bu da çok hoş."
         },
         {
             "id": "gacksung_10107_1",
@@ -63,7 +63,7 @@
         {
             "id": "battleentry_10107_1",
             "desc": "Stage Entry",
-            "dlg": "Do not let go of the harpoon."
+            "dlg": "Sakın zıpkını bırakmayın."
         },
         {
             "id": "battle_select_10107_1",
@@ -78,7 +78,7 @@
         {
             "id": "battle_enemy_break_10107_1",
             "desc": "Enemy Stagger",
-            "dlg": "Hm! They appear to be quite spent."
+            "dlg": "Hm! Bitmiş gibi görünüyorlar."
         },
         {
             "id": "battle_break_10107_1",
@@ -88,7 +88,7 @@
         {
             "id": "battle_kill_10107_1",
             "desc": "Enemy Killed",
-            "dlg": "Cık. There is no oil to be gleaned from this fellow."
+            "dlg": "Cık. Bu elemandan çıkarılacak yağ yok."
         },
         {
             "id": "battle_dead_10107_1",
@@ -113,7 +113,7 @@
         {
             "id": "battle_clear_ex_10107_1",
             "desc": "Extra Conditions Fulfilled",
-            "dlg": "We have done it! Not many pirates or Whales shall dare attack this vessel again. Hm hm, this was quite the satisfactory outcome."
+            "dlg": "Başardık! Artık pek korsan veya Balina bu gemiye saldırmaya cürret edemeyecek. Hı hı, bu çok rahatlatıcı bir sonuç."
         },
         {
             "id": "battle_defeat_10107_1",
