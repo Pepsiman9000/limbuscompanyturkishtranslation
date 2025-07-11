@@ -5,26 +5,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Human-omes!",
+                    "name": "İnsan-omlar!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 4 [Breath]"
+                                    "desc": "[OnSucceedAttack] 4 [Breath] kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] 3 [Breath] kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Inflict 2 [Paralysis]"
+                                    "desc": "[CriticalOnSucceedAttack] 2 [Paralysis] uygula"
                                 }
                             ]
                         }
@@ -37,19 +37,19 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Capture them-ome",
-                    "desc": "[WinDuel] Heal 5 SP",
+                    "name": "Onları yakalayın-om",
+                    "desc": "[WinDuel] 5 SP iyileştir",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 4 [Breath]"
+                                    "desc": "[OnSucceedAttack] 4 [Breath] kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                                 },
                                 {
-                                    "desc": "+40% Damage on Critical Hit"
+                                    "desc": "Kritik vuruşta +40% daha fazla hasar uygula"
                                 }
                             ]
                         }
@@ -62,26 +62,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Ome, Ome!!",
+                    "name": "Om, Om!!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+30% Damage on Critical Hit"
+                                    "desc": "Kritik vuruşta +30% daha fazla hasar uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] 3 [Breath] kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+30% Damage on Critical Hit"
+                                    "desc": "Kritik vuruşta +30% daha fazla hasar uygula"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Breath] Miktarı kazan"
                                 }
                             ]
                         }
@@ -94,26 +94,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Fresh Meat-omes",
+                    "name": "Taze et-om",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 [Breath] and +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] 2 [Breath] ve +2 [Breath] Miktarı kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] 3 [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Inflict 3 [Binding] next turn"
+                                    "desc": "[CriticalOnSucceedAttack] Sonraki tur 3 [Binding] uygula"
                                 }
                             ]
                         }
@@ -126,16 +126,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Lookin' Lively-ome!",
-                    "desc": "[WinDuel] Heal 5 SP",
+                    "name": "Canlı görünen-om!",
+                    "desc": "[WinDuel] 5 SP iyileştir",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 [Breath] and +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] 2 [Breath] ve +2 [Breath] Miktarı kazan"
                                 },
                                 {
-                                    "desc": "+40% Damage on Critical Hit"
+                                    "desc": "Kritik vuruşta +40% daha fazla hasar uygula"
                                 }
                             ]
                         }
@@ -148,8 +148,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "No Use-ome!",
-                    "desc": "[EndBattle] If this unit has Shield, gain 1 [Enhancement] next turn.",
+                    "name": "İşe yaramaz-om!",
+                    "desc": "[EndBattle] Eğer bu karakterde Kalkan varsa, Sonraki tur 1 [Enhancement] kazan.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -167,26 +167,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Turn Ya Into Furniture-omes!",
+                    "name": "Mobilyalara dönüşecek-omlar!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +3 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] +3 [Breath] Miktarı kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] 3 [Breath] kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Inflict 2 [Paralysis]"
+                                    "desc": "[CriticalOnSucceedAttack] 2 [Paralysis] uygula"
                                 }
                             ]
                         }
@@ -199,19 +199,19 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Let's Get It Moving-ome",
-                    "desc": "[WinDuel] Heal 5 SP",
+                    "name": "Hadi devam-om",
+                    "desc": "[WinDuel] 5 SP iyileştir",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Breath] Miktarı kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] 3 [Breath] kazan"
                                 },
                                 {
-                                    "desc": "+40% Damage on Critical Hit"
+                                    "desc": "Kritik vuruşta +40% daha fazla hasar uygula"
                                 }
                             ]
                         }
@@ -225,7 +225,7 @@
                 {
                     "level": 1,
                     "name": "Hoom Hoom~",
-                    "desc": "[OnSucceedEvade] Gain 5 [Breath] and +2 [Breath] Count.\n[OnDefeatEvade] Raise Stagger Threshold by 10",
+                    "desc": "[OnSucceedEvade] 5 [Breath] ve +2 [Breath] Miktarı kazan.\n[OnDefeatEvade] Sersemlenme Eşiğini 10 arttır",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -243,16 +243,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "I'll Get You-ome",
+                    "name": "Seni yakalayacağım-om",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] 3 [Breath] kazan"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Inflict 2 [Binding] next turn"
+                                    "desc": "[CriticalOnSucceedAttack] Sonraki tur 2 [Binding] uygula"
                                 }
                             ]
                         }
@@ -265,26 +265,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "We Struck Gold-ome!",
-                    "desc": "[WinDuel] Heal 5 SP",
+                    "name": "Keseyi vurduk-om!",
+                    "desc": "[WinDuel] 5 SP iyileştir",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 [Breath] and +3 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] 2 [Breath] ve +3 [Breath] Miktarı kazan"
                                 },
                                 {
-                                    "desc": "+50% Damage on Critical Hit"
+                                    "desc": "Kritik vuruşta +50% daha fazla hasar uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 3 [Breath] and +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] 3 [Breath] ve +1 [Breath] Miktarı kazan"
                                 },
                                 {
-                                    "desc": "+50% Damage on Critical Hit"
+                                    "desc": "Kritik vuruşta +50% daha fazla hasar uygula"
                                 }
                             ]
                         }
@@ -297,33 +297,33 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Local Raw Material-omes!",
+                    "name": "Çiğ materyal-omlar!",
                     "desc": "[WinDuel] Gain 3 [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Damage +20% for the last Coin"
+                                    "desc": "[CriticalOnSucceedAttack] Son Jeton +20% daha fazla hasar vurur"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                                    "desc": "[OnSucceedAttack] 3 [Breath] kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Damage +20% for the last Coin"
+                                    "desc": "[CriticalOnSucceedAttack] Son Jeton +20% daha fazla hasar vurur"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] +2 [Breath] Miktarı kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Does not consume [Breath] Count. Deal bonus Blunt damage equal to [Breath]"
+                                    "desc": "[CriticalOnSucceedAttack] [Breath] Miktarı harcamaz. [Breath] kadar bonus Darbe hasarı vur"
                                 }
                             ]
                         }
@@ -336,8 +336,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "No Use-ome!",
-                    "desc": "[EndBattle] If this unit has Shield, gain 2 [Enhancement] next turn.",
+                    "name": "İşe yaramaz-om!",
+                    "desc": "[EndBattle] Eğer bu karakterde Kalkan varsa, sonraki tur 2 [Enhancement] kazan.",
                     "coinlist": [
                         {
                             "coindescs": [
