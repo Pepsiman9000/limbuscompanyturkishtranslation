@@ -5,30 +5,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sky-clearing Cut",
-          "desc": "[StartBattle] If the main target has 5+ [Laceration], Atk Weight +1\n[StartBattle] If this unit will use 4+ Attack Skills this turn, Final Power +5\n[WinDuel] All allies heal 15 SP\nIf the target has 7+ [Laceration], deal +30% more damage",
+          "name": "Gök Yaran Kesiş",
+          "desc": "[StartBattle] Eğer ana hedefte 5+ [Laceration] varsa, Saldırı Ağırlığı +1\n[StartBattle] Eğer bu karakter bu tur 4+ Saldırı Yeteneği kullanacaksa, Final Gücü +5\n[WinDuel] Tüm müttefikler 15 SP iyileştirir\nEğer hedefte 7+ [Laceration] varsa, +30% daha fazla hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] 3 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target has 7+ [Laceration], deal +50% damage"
+                  "desc": "Eğer hedefte 7+ [Laceration], +50% daha fazla hasar uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +10 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] +10 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -41,16 +41,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rules of the Backstreets",
-          "desc": "[WhenUse] Add 1 more coin per every surviving other ally (max 3)",
+          "name": "Arka Sokakların Kanunları",
+          "desc": "[WhenUse] Yaşayan her bir müttefik için bir Jeton daha ekle (maks 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] ve +2 [Laceration] Miktarı uygula"
                 },
                 {
-                  "desc": "[EnemyKill] All allies heal 20 SP"
+                  "desc": "[EnemyKill] Tüm müttefikler 20 SP iyileştirir"
                 }
               ]
             }
