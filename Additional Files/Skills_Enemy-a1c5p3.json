@@ -5,13 +5,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Stab",
+                    "name": "Saplama",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                                    "desc": "[OnSucceedAttackHead] 4 Kanama uygula"
                                 }
                             ]
                         }
@@ -24,27 +24,27 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Tear Up Wound",
-                    "desc": "[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration] on target",
+                    "name": "Yarayı Parçalama",
+                    "desc": "[WinDuel] 5 SP iyileştir.\nHedefteki her [Laceration] için +5% hasar ver",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] 2 Kanama uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] 2 Kanama uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] 2 Kanama uygula"
                                 }
                             ]
                         }
@@ -57,46 +57,46 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Protect the Town!",
-                    "desc": "[WhenUse] Gain 5 Poise",
+                    "name": "Köyü Koruyun!",
+                    "desc": "[WhenUse] 5 Nefes kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] +1 Nefes Miktarı kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] 4 SP iyileştir"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] +1 Nefes Miktarı kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] 4 SP iyileştir"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] +1 Nefes Miktarı kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] 4 SP iyileştir"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] +1 Nefes Miktarı kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] 4 SP iyileştir"
                                 }
                             ]
                         }
@@ -109,13 +109,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Javelin",
-                    "desc": "[WhenUse] Gain 5 Poise and +2 Poise Count",
+                    "name": "Mızrak",
+                    "desc": "[WhenUse] 5 Nefes ve +2 Nefes Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Damage Down next turn"
+                                    "desc": "[OnSucceedAttack] Sonraki tur 2 Yavaşlama ve 2 Hasar Düşüşü uygula"
                                 }
                             ]
                         }
@@ -128,8 +128,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Guard",
-                    "desc": "When attacked while this unit has Shield, gain 1 Offense Level Up next turn",
+                    "name": "Korunma",
+                    "desc": "Eğer bu karakterde kalkan varken saldırılırsa, sonraki tur 1 Saldırı Seviye Artışı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -147,20 +147,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Quick Jabs",
+                    "name": "Hızlı Yumruklar",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict +2 Bleed Count"
+                                    "desc": "[OnSucceedAttackHead] +2 Kanama Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttackHead] +1 Kanama Miktarı uygula"
                                 }
                             ]
                         }
@@ -173,34 +173,34 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Carve Wound",
-                    "desc": "[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration] on target",
+                    "name": "Yarayı Delme",
+                    "desc": "[WinDuel] 5 SP iyileştir.\nHedefteki her [Laceration] için +5% hasar ver",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] +1 Kanama Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] +1 Kanama Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] +1 Kanama Miktarı uygula"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] +1 Kanama Miktarı uygula"
                                 }
                             ]
                         }
@@ -213,46 +213,46 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Protect the Town!",
-                    "desc": "[WhenUse] Gain 5 Poise",
+                    "name": "Köyü Koruyun!",
+                    "desc": "[WhenUse] 5 Nefes kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] +1 Nefes Miktarı kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] 4 SP iyileştir"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] +1 Nefes Miktarı kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] 4 SP iyileştir"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] +1 Nefes Miktarı kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] 4 SP iyileştir"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] +1 Nefes Miktarı kazan"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] 4 SP iyileştir"
                                 }
                             ]
                         }
@@ -265,13 +265,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Javelin",
-                    "desc": "[WhenUse] Gain 5 Poise and +2 Poise Count",
+                    "name": "Mızrak",
+                    "desc": "[WhenUse] 5 Nefes ve +2 Nefes Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Fragile next turn"
+                                    "desc": "[OnSucceedAttack] Sonraki tur 2 Yavaşlama ve Kırılganlık uygula"
                                 }
                             ]
                         }
@@ -284,8 +284,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Evade",
-                    "desc": "[OnSucceedEvade] Gain 1 Offense Level Up next turn (Max 3)",
+                    "name": "Kaçınma",
+                    "desc": "[OnSucceedEvade] Sonraki tur 1 Saldırı Seviye Artışı kazan (Maks 3)",
                     "coinlist": [
                         {
                             "coindescs": [
