@@ -24,12 +24,12 @@
         {
             "id": 5,
             "model": "로쟈",
-            "content": "And so soon after our break started... Dante, let's try to not do anything like this again, hmm~?"
+            "content": "Ve tam da molamız başlamıştı... Dante, bir daha böyle bir şey yapmayı denemeyelim, tamam mı~?"
         },
         {
             "id": 6,
             "model": "오티스",
-            "content": "Even if you are the Executive Manager... rogue behavior such as this poses too great a risk. Please be wary of that."
+            "content": "İdari Müdür olsanız bile... bu tarz yaramaz davranışlar üzerlerinde büyük bir risk taşır. Lütfen dikkat ediniz."
         },
         {
             "id": 7,
@@ -84,12 +84,12 @@
         {
             "id": 17,
             "model": "뫼르소",
-            "content": "We engaged several entities of the corridor on our path to this door."
+            "content": "Bu kapıya geldiğimiz koridorda birkaç varlık ile çatıştık."
         },
         {
             "id": 18,
             "model": "로쟈",
-            "content": "Good thing we only ran into weaklings, though~"
+            "content": "Ama, sadece cılız olanlara rastlamamız ne iyi~"
         },
         {
             "id": 19,
@@ -109,26 +109,26 @@
         {
             "id": 22,
             "model": "뫼르소",
-            "content": "We could have been lost forever in some corner of the corridors as bodies, never to be revived nor retrieved."
+            "content": "Koridorların bir köşesinde ceset olarak, ne hayata geri getirilebilir ne de cenazemiz çıkarılabilir bir şekilde, edebiyen kayıp olabilirdik."
         },
         {
             "id": 23,
             "model": "오티스",
-            "content": "Please comprehend the weight of your responsibilities and the risks your independent action carries."
+            "content": "Lütfen sorumluluklarınızın ağırlığını ve başıboş davranışlarınızın taşıyabileceği riskleri kavrayınız."
         },
         {
             "id": 24,
             "model": "오티스",
-            "content": "You must survive, Executive Manager. No matter what."
+            "content": "Hayatta kalmalısınız, İdari Müdür. Ne olursa olsun."
         },
         {
             "id": 25,
             "model": "오티스",
-            "content": "... Do I make myself clear?"
+            "content": "... Anlaşıldı mı?"
         },
         {
             "id": 26,
-            "content": "I've never seen Outis look at me like that. Her gaze was cold and ruthless."
+            "content": "Daha önce hiç Outis'in bana böyle baktığını görmemiştim. Bakışları soğuk ve acımasızdı."
         },
         {
             "id": 27,
@@ -153,7 +153,7 @@
         {
             "id": 31,
             "model": "이스마엘",
-            "content": "Yeah. Don Quixote, Heathcliff... where'd the pair run off to?"
+            "content": "Evet. Don Quixote, Heathcliff... o ikili nereye kaçtı?"
         },
         {
             "id": 32,
@@ -162,22 +162,22 @@
         },
         {
             "id": 33,
-            "content": "I told them exactly how the events transpired."
+            "content": "Neler yaşandığını onlara anlattım."
         },
         {
             "id": 34,
             "model": "그레고르",
-            "content": "Seriously, how'd ya three even manage to survive this far?"
+            "content": "Harbiden, üçünüz nasıl buraya kadar hayatta kalmayı başarabildiniz?"
         },
         {
             "id": 35,
             "model": "그레고르",
-            "content": "All right, Manager Bud. I'm sure you've heard enough from the others, so I won't say more. But where exactly are we?"
+            "content": "Pekala, müdür ahbap. Eminim ki diğerleri kafanı iyice ütüledi, o yüzden ben de başlamayacağım. Ama biz tam olarak neredeyiz?"
         },
         {
             "id": 36,
             "model": "오티스",
-            "content": "Hey, which district is this? This cold... we must be somewhere in one of the northern districts of the City. Or..."
+            "content": "Hey, hangi eyalet burası? Bu soğukluk... şehirin kuzey eyaletlerinin bir yerinde olmalıyız. Veya..."
         },
         {
             "id": 37,
@@ -187,7 +187,7 @@
         {
             "id": 38,
             "model": "그레고르",
-            "content": "... What do you mean?"
+            "content": "... Nasıl yani?"
         },
         {
             "id": 39,
@@ -202,7 +202,7 @@
         {
             "id": 41,
             "model": "로쟈",
-            "content": "Eugh... Monsters again? After all that we faced at the Lake?"
+            "content": "Öh... Yine mi canavarlar? Gölde o kadar yaşadığımız şeyden sonra?"
         },
         {
             "id": 42,
@@ -212,12 +212,12 @@
         {
             "id": 43,
             "model": "이스마엘",
-            "content": "So we're in a completely different region of the Outskirts... I would have liked to explore the area if the circumstances permitted. Look, this structure seems to have been custom-built for the gnomes, considering how small everything is here."
+            "content": "Yani arka sokakların tamamen farklı bir bölgesindeyiz... Eğer şartlar olağan olsaydı bölgeyi dolaşmak isterdim. Bakın, buradaki her şeyin ne kadar minik olduğunu düşünür isek, bu bina cüceler için özel olarak yapılmış gibi görünüyor."
         },
         {
             "id": 44,
             "model": "홍루",
-            "content": "If this is the Outskirts... We can go back, right?"
+            "content": "Eğer burası arka sokaklar ise... Geri dönebiliriz, değil mi?"
         },
         {
             "id": 45,
@@ -227,12 +227,12 @@
         {
             "id": 46,
             "model": "뫼르소",
-            "content": "It is open. For now."
+            "content": "Açık. Şimdilik."
         },
         {
             "id": 47,
             "model": "싱클레어",
-            "content": "What if it... closes?"
+            "content": "Ya... kapanırsa?"
         },
         {
             "id": 48,
@@ -249,14 +249,14 @@
             "model": "검은노움",
             "teller": "Shadowy Gnome",
             "title": "Gift Factory",
-            "content": "Where's this sound coming from-ome... Eh?"
+            "content": "Bu ses de nereden geliyor-ome... Eh?"
         },
         {
             "id": 51,
             "model": "빨간노움",
             "teller": "Cherry Gnome",
             "title": "Gift Factory",
-            "content": "'Ome!! I struck gold-ome! Get your tool-omes!!!"
+            "content": "'Ome!! Turnayı gözünden vurdum-ome! Aletlerinizi alın-ome!!!"
         },
         {
             "id": 52,
@@ -265,7 +265,7 @@
         },
         {
             "id": 53,
-            "content": "The door slammed open, and gnomes began flooding into the room. We prepared ourselves for battle."
+            "content": "Kapı hızla açıldı, ve cüceler odaya dolmaya başladılar. Kendimizi muharebe için hazırladık."
         }
     ]
 }
