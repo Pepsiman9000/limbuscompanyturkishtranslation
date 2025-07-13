@@ -2285,14 +2285,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ebony Stem",
-          "abName": "Ebony Queen’s Apple",
+          "name": "Abanoz Kökü",
+          "abName": "Abanoz Kraliçesi'nin Elması",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 RupTure"
+                  "desc": "[OnSucceedAttack] 2 Rupture uygula"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
@@ -2303,20 +2303,20 @@
         },
         {
           "level": 3,
-          "name": "Ebony Stem",
-          "abName": "Ebony Queen’s Apple",
+          "name": "Abanoz Kökü",
+          "abName": "Abanoz Kraliçesi'nin Elması",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 RupTure"
+                  "desc": "[OnSucceedAttack] 2 RupTure Uygula"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Gluttony Fragility"
+                  "desc": "[OnSucceedAttack] 2 Oburluk Kırılganlığı Uygula"
                 }
               ]
             }
@@ -2329,17 +2329,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ebony Stem",
-          "abName": "Ebony Queen’s Apple",
+          "name": "Abanoz Kökü",
+          "abName": "Abanoz Kraliçesi'nin Elması",
           "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 RupTure"
+                  "desc": "[OnSucceedAttack] 3 RupTure Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttackHead] 3 [Laceration] Uygula"
                 }
               ]
             }
@@ -2347,20 +2347,20 @@
         },
         {
           "level": 3,
-          "name": "Ebony Stem",
-          "abName": "Ebony Queen’s Apple",
+          "name": "Abanoz Kökü",
+          "abName": "Abanoz Kraliçesi'nin Elması",
           "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 RupTure"
+                  "desc": "[OnSucceedAttack] 5 RupTure Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] 5 [Laceration] Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Gluttony Fragility"
+                  "desc": "[OnSucceedAttack] 3 Oburluk Kırılganlığı Uygula"
                 }
               ]
             }
@@ -2635,7 +2635,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lantern",
+          "name": "Fener",
           "abName": "Faelantern",
           "desc": "",
           "coinlist": [
@@ -2650,7 +2650,7 @@
         },
         {
           "level": 3,
-          "name": "Lantern",
+          "name": "Fener",
           "abName": "Faelantern",
           "desc": "",
           "coinlist": [
@@ -2670,7 +2670,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lantern",
+          "name": "Fener",
           "abName": "Faelantern",
           "desc": "[CantIdentify] \nEn yüksek cana sahip birimi hedefle",
           "coinlist": [
@@ -2688,7 +2688,7 @@
         },
         {
           "level": 3,
-          "name": "Lantern",
+          "name": "Fener",
           "abName": "Faelantern",
           "desc": "[CantIdentify] \nEn yüksek cana sahip birimi hedefle",
           "coinlist": [
@@ -2712,13 +2712,13 @@
         {
           "level": 1,
           "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "abName": "Arka Sokaklar Bekçi Köpeği",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +10 Charge Count"
+                  "desc": "[OnSucceedAttack] +10 Yük Miktarı kazan"
                 }
               ]
             }
@@ -2727,16 +2727,16 @@
         {
           "level": 3,
           "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "abName": "Arka Sokaklar Bekçi Köpeği",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +10 Charge Count"
+                  "desc": "[OnSucceedAttack] +10 Yük Miktarı kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Give Charge Count to all allies by Envy Reson."
+                  "desc": "[OnSucceedAttackHead] Haset Rezonansı kadar bütün müttefiklere yük miktarı uygula"
                 }
               ]
             }
@@ -2745,16 +2745,16 @@
         {
           "level": 4,
           "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "abName": "Arka Sokaklar Bekçi Köpeği",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +10 Charge Count"
+                  "desc": "[OnSucceedAttack] +10 Yük Miktarı kazan"
                 },
                 {
-                  "desc": "[EndSkill] Give Charge Count to all allies by Envy Reson."
+                  "desc": "[EndSkill] Haset Rezonansı kadar bütün müttefiklere yük miktarı uygula"
                 }
               ]
             }
@@ -2768,7 +2768,7 @@
         {
           "level": 1,
           "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "abName": "Arka Sokaklar Bekçi Köpeği",
           "desc": "",
           "coinlist": [
             {
@@ -2783,7 +2783,7 @@
         {
           "level": 3,
           "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "abName": "Arka Sokaklar Bekçi Köpeği",
           "desc": "",
           "coinlist": [
             {
@@ -2801,7 +2801,7 @@
         {
           "level": 4,
           "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "abName": "Arka Sokaklar Bekçi Köpeği",
           "desc": "",
           "coinlist": [
             {
@@ -2824,7 +2824,7 @@
         {
           "level": 1,
           "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "abName": "Arka Sokaklar Bekçi Köpeği",
           "desc": "",
           "coinlist": [
             {
@@ -2842,7 +2842,7 @@
         {
           "level": 3,
           "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "abName": "Arka Sokaklar Bekçi Köpeği",
           "desc": "",
           "coinlist": [
             {
@@ -2863,7 +2863,7 @@
         {
           "level": 4,
           "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "abName": "Arka Sokaklar Bekçi Köpeği",
           "desc": "",
           "coinlist": [
             {
@@ -2889,7 +2889,7 @@
         {
           "level": 1,
           "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "abName": "Arka Sokaklar Bekçi Köpeği",
           "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
@@ -2907,7 +2907,7 @@
         {
           "level": 3,
           "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "abName": "Arka Sokaklar Bekçi Köpeği",
           "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
@@ -2928,7 +2928,7 @@
         {
           "level": 4,
           "name": "Telepole",
-          "abName": "Alleyway Watchdog",
+          "abName": "Arka Sokaklar Bekçi Köpeği",
           "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
