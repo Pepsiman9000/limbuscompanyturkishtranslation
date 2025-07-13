@@ -3,16 +3,16 @@
         {
             "id": 1,
             "place": "Gift Factory Collection Line",
-            "content": "After spending some time battling gnomes and trashing the gift factory..."
+            "content": "Cücelerle savaşarak ve hediye fabrikasını talan ederek zaman geçirdikten az bir zaman sonra......"
         },
         {
             "id": 2,
-            "content": "... we soon realized that the 'gifts' the conveyor belts were moving weren't your average gifts."
+            "content": "... taşıma kayışındaki 'hediyelerin' sıradan hediyeler olmadığını fark ettik."
         },
         {
             "id": 3,
             "model": "로쟈",
-            "content": "Is that... a foot? Is that a sign with the drawing of a foot? What's that doing there?"
+            "content": "Ayak... mı o? Ayak çizimi olan bir tabela mı o? Orada onun ne işi var?"
         },
         {
             "id": 4,
@@ -52,32 +52,32 @@
         {
             "id": 11,
             "model": "로쟈",
-            "content": "Haah... more stuff made from human sacrifice? I guess the Outskirts isn't so different from the City, huh?"
+            "content": "Haah... daha fazla insan kurbanlardan yapılmış şeyler mi? Arka sokaklar da şehirden pek farklı değilmiş, ha?"
         },
         {
             "id": 12,
             "model": "이스마엘",
-            "content": "What's really concerning is... who are these gifts for?"
+            "content": "Gerçekten endişe verici şey ise... bu hediyeler kimin için?"
         },
         {
             "id": 13,
             "model": "싱클레어",
-            "content": "Who... in their right mind would want anything like these?"
+            "content": "Aklı başında kim böyle... bir şey ister ki?"
         },
         {
             "id": 14,
             "model": "로쟈",
-            "content": "Who knows. Rich folks with screwed-up perversions? Maybe that's who they're for."
+            "content": "Kim bilir. Sapkın zengin adamlar? Belki onlar içindir."
         },
         {
             "id": 15,
             "model": "홍루",
-            "content": "Uh... so..."
+            "content": "Uh... şey..."
         },
         {
             "id": 16,
             "model": "홍루",
-            "content": "If they're making gifts out of people... Heathcliff and Don Quixote... will the gnomes turn them into gifts, too?"
+            "content": "Eğer insanlardan hediye yapıyorlar ise... Heathcliff ve Don Quixote... cüceler onları da mı hediyeye dönüştürecek?"
         },
         {
             "id": 17,
@@ -92,16 +92,16 @@
         {
             "id": 19,
             "model": "뫼르소",
-            "content": "I have discovered a location with a high probability of their presence. Presuming that they haven't been turned into gifts yet."
+            "content": "Onların bulunma ihtimalinin yüksek olduğu bir yer keşfettim. Onların daha hediyelere dönüştürülmediğini sayarsak."
         },
         {
             "id": 20,
-            "content": "After a long silence, Meursault spoke up. He pointed in a direction."
+            "content": "Uzun bir sessizlikten sonra, Meursault konuştu. Bir yere işaret etti."
         },
         {
             "id": 21,
             "model": "뫼르소",
-            "content": "There. The placard says 'Gift Assembly'."
+            "content": "Orası. Levhada 'Hediye Montajı' yazıyor."
         }
     ]
 }
