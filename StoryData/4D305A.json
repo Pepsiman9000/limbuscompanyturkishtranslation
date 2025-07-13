@@ -84,12 +84,12 @@
         {
             "id": 13,
             "model": "단테",
-            "content": "<Screw yourself.>"
+            "content": "<Siktir git.>"
         },
         {
             "id": 14,
             "model": "단테",
-            "content": "<You also hired Shi Association's assassins to silence Shrenne, didn't you?>"
+            "content": "<Shrenne'i sessizleştirmek için Shi Birliği'ni tutan kişi de sendin, deği lmi?>"
         },
         {
             "id": 15,
@@ -209,19 +209,19 @@
         },
         {
             "id": 33,
-            "content": "In spite of Ryōshū's menacing intimidation..."
+            "content": "Ryōshū'nun etkileyici ve korkutucu bakışlarına rağmen..."
         },
         {
             "id": 34,
-            "content": "Following the unfriendly instructions of people who appeared to be K Corp's high-rank staff and Fixers, we were put through a memory wipe procedure, erasing every recollection of the tearful thing from the Sinners' heads."
+            "content": "K Kuruluşu'nun üst düzey yetkilileri ve işçözücülerinin yönergelerini takiben, Günahkar'ların zihninden ağlayan şey hakkındaki her şeyi sildiren bir hafıza silme prosedürüncen geçiverdik."
         },
         {
             "id": 35,
-            "content": "As we left, Alfonso told us to look forward to how the tears will be used in the future..."
+            "content": "Biz giderken ise Alfonso, göz yaşlarının ileride nasıl kullanılacağını takip etmemizi istemişti..."
         },
         {
             "id": 36,
-            "content": "The Sinners had memories of seeing something in the laboratory, but none of them could recall what it was, how the tears were collected, or how HP bullets were made."
+            "content": "Günahkarlar laboratuvarda bir şey gördüğünü hatırlıyordu, fakat hiç biri HP Mermileri'nin nasıl yapıldığını, yaşların nasıl toplandığını veya ne gördüklerini hatırlamıyordu."
         },
         {
             "id": 37
@@ -230,12 +230,12 @@
             "id": 38,
             "place": "Aboard Mephistopheles",
             "model": "단테",
-            "content": "<By the way, Yi Sang...>"
+            "content": "<Bu arada, Yi Sang...>"
         },
         {
             "id": 39,
             "model": "단테",
-            "content": "<Where did you want to fly?>"
+            "content": "<Neden uçmak istemiştin?>"
         },
         {
             "id": 40,
@@ -245,7 +245,7 @@
         {
             "id": 41,
             "model": "단테",
-            "content": "<What about now?>"
+            "content": "<Peki ya şimdi?>"
         },
         {
             "id": 42,
@@ -254,31 +254,31 @@
         },
         {
             "id": 43,
-            "content": "What they didn't notice, however..."
+            "content": "Farketmedikleri şey ise..."
         },
         {
             "id": 44,
-            "content": "Is that the memory wipe didn't work on me for some mysterious reason."
+            "content": "Gizemli bir sebepten ötürü hafıza silme prosedürünün bende çalışmamış olmasıydı."
         },
         {
             "id": 45,
-            "content": "Could I recover the Sinners' wiped memories somehow, like how I rewind their injuries using the clock?"
+            "content": "Saatim ile nasıl onların yaralarını geri sarabiliyorsam, hafızalarını da geri sarabilir miydim?"
         },
         {
             "id": 46,
-            "content": "The thought occurred to me, but alas..."
+            "content": "Bu düşünce aklıma takılsa da..."
         },
         {
             "id": 47,
-            "content": "I don't know how I would do that, and I'm not sure if it'd be possible at all."
+            "content": "Bunu nasıl yapabileceğimi, veya mümkün olup olmayacağını bilmiyordum."
         },
         {
             "id": 48,
-            "content": "I was sure about one thing."
+            "content": "Fakat emin olduğum bir şey vardı."
         },
         {
             "id": 49,
-            "content": "The fact that I am retaining the memories they tried to erase must be valuable... So I decided to stay quiet about it."
+            "content": "Silmeye çalıştıkları bilgilerin silinmemesinin değerli bir bilgi olduğu kesindi... Bu yüzden ise bu konuda sessiz kalacaktım."
         },
         {
             "id": 50,
@@ -328,23 +328,23 @@
         {
             "id": 59,
             "model": "단테",
-            "content": "<Of course.>"
+            "content": "<Elbette.>"
         },
         {
             "id": 60,
-            "content": "That's right. Even if their memories are taken, it won't gnaw away at the determination that has firmly taken root in their hearts."
+            "content": "Bu doğru. Hafızaları silinse dahi, kalplerine derin kökler salmış kararlılıklarını kemirmeyecektim."
         },
         {
             "id": 61,
-            "content": "Then, what is the determination that I have left?"
+            "content": "Peki, benim kalbimde kalan kararlılık neydi?"
         },
         {
             "id": 62,
-            "content": "How much must I remember and witness?"
+            "content": "Ne kadar şeye tanıklık edip hatırlamalıydım?"
         },
         {
             "id": 63,
-            "content": "Thinking such thoughts, I looked at Vergilius who was on the other side."
+            "content": "Bunları düşünürken, ötedeki Vergilius'a bakışlarımı yönlendirmiştim."
         },
         {
             "id": 64,
@@ -354,7 +354,7 @@
         {
             "id": 65,
             "model": "단테",
-            "content": "<You heard what I said?>"
+            "content": "<Ne dediğimi duydunuz mu?>"
         },
         {
             "id": 66,
@@ -364,16 +364,16 @@
         {
             "id": 67,
             "model": "베르길리우스",
-            "content": "...I couldn't hear the usual ticks, so I have no way to know if you even said something."
+            "content": "...Sıradan tıkırtıları duymamıştım. Eğer dediklerini duyabiliyor olsaydım bile, bundan bir şey çıkartamazdım."
         },
         {
             "id": 68,
             "model": "베르길리우스",
-            "content": "Of course, I can't hear your words, Manager Dante. It was just idle talk. The look on your face seemed to warrant it."
+            "content": "Elbette kelimelerinizi duyamıyorum, Müdür Dante. Sadece havaya konuşuyordum. Asıl sizi ele veren şey yüzünüzdeki mimiklerdi."
         },
         {
             "id": 69,
-            "content": "Did I have facial expressions...?"
+            "content": "Mimiklerim görünüyor muydu ki...?"
         },
         {
             "id": 70
@@ -406,67 +406,67 @@
         {
             "id": 75,
             "model": "이상",
-            "content": "<color=#d4e1e8>Have you been well?</color>"
+            "content": "<color=#d4e1e8>İyisin, değil mi?</color>"
         },
         {
             "id": 76,
             "model": "이상",
-            "content": "<color=#d4e1e8>Whenever I look at a mirror, I find myself greeting it.</color>"
+            "content": "<color=#d4e1e8>Ne zaman bir aynaya bakarsam, ona selam verdiğimi görürüm.</color>"
         },
         {
             "id": 77,
             "model": "이상",
-            "content": "<color=#d4e1e8>It is said that a greeting is only natural when it is mutually exchanged...</color>"
+            "content": "<color=#d4e1e8>Bir selamlaşmanın, sadece karşılıklı olduğunda doğal olduğu söylenir...</color>"
         },
         {
             "id": 78,
             "model": "이상",
-            "content": "<color=#d4e1e8>But I do not mind the one-sidedness, as I believe it will be conveyed someday.</color>"
+            "content": "<color=#d4e1e8>Fakat bir gün borcunun ödeneceği inancı ile, bu selamın tek taraflılığı bana sorun teşkil etmez.</color>"
         },
         {
             "id": 79,
             "model": "이상",
-            "content": "<color=#d4e1e8>I have decided that from now on, I will no longer be stopped in place.</color>"
+            "content": "<color=#d4e1e8>Bu andan itibaren, artık olduğum yerde durmamaya ant içtim.</color>"
         },
         {
             "id": 80,
             "model": "이상",
-            "content": "<color=#d4e1e8>Even if all will ultimately remain unchanging...</color>"
+            "content": "<color=#d4e1e8>Hiç bir şey eninde sonunda değişmez olsa dahi...</color>"
         },
         {
             "id": 81,
             "model": "이상",
-            "content": "<color=#d4e1e8>I, too, shan't change, either.</color>"
+            "content": "<color=#d4e1e8>Ben de, ne olursa olsun yolumu değiştirmeyeceğim.</color>"
         },
         {
             "id": 82,
             "model": "이상",
-            "content": "<color=#d4e1e8>You have no need to be overly concerned for me. I now have new companions by my side.</color>"
+            "content": "<color=#d4e1e8>Benim için endişelenmeye mahal yoktur, ki yeni dostlarım bana eşlik ediyor.</color>"
         },
         {
             "id": 83,
             "model": "이상",
-            "content": "<color=#d4e1e8>Though I cannot be sure what they will think of this... I intend to consider them as such.</color>"
+            "content": "<color=#d4e1e8>Bu dediklerim hakkında ne düşündüklerini bilmesem dahi... Onları böyle saymaya yelteneceğim.</color>"
         },
         {
             "id": 84,
             "model": "이상",
-            "content": "<color=#d4e1e8>To close off...</color>"
+            "content": "<color=#d4e1e8>Kapanış için ise...</color>"
         },
         {
             "id": 85,
             "model": "이상",
-            "content": "<color=#d4e1e8>Allow me one final remark.</color>"
+            "content": "<color=#d4e1e8>Son bir görüşte bulunmama izin verin.</color>"
         },
         {
             "id": 86,
             "model": "이상",
-            "content": "<color=#d4e1e8>May you all keep company with peace throughout your lives.</color>"
+            "content": "<color=#d4e1e8>Umarım ki, hepiniz hayatınız ile barışık bir şekilde ömür sürersiniz.</color>"
         },
         {
             "id": 87,
             "model": "이상",
-            "content": "<color=#d4e1e8>Yours sincerely, Yi Sang.</color>"
+            "content": "<color=#d4e1e8>Saygılarımla, Yi Sang.</color>"
         },
         {
             "id": 88
