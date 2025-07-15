@@ -24,7 +24,7 @@
         {
             "id": 4,
             "model": "단테",
-            "content": "<Y-You can skip those parts...>"
+            "content": "<O-o kısmı atlasan da olur...>"
         },
         {
             "id": 5,
@@ -34,14 +34,14 @@
         {
             "id": 6,
             "model": "뫼르소",
-            "content": "'Dediğin şeyin gerçekten doğru olup olmadığını anlamaya çalışıyordum, ama şu salak, işleri zorlaştırıyor.'"
+            "content": "'Dediğin şeyin gerçekten doğru olup olmadığını anlamaya çalışıyordum, ama şu salak işleri zorlaştırıyor.'"
         },
         {
             "id": 7,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "K Corp. Laboratory",
-            "content": "'Takım menejeri konumuna da yükseltildim, ama girmeme izin verilmedi... sırf şu aptal \"en iyi\" ödülünü kazanamadım diye.'"
+            "content": "'Takım menajeri konumuna da yükseltildim, ama girmeme izin verilmedi... sırf şu aptal \"en iyi\" ödülünü kazanamadım diye.'"
         },
         {
             "id": 8,
@@ -171,12 +171,12 @@
         {
             "id": 27,
             "model": "뫼르소",
-            "content": "There's a possibility that it may have been a sequence or cipher, so I deemed it reasonable to read it out and let the manager determine its significance rather than mull over whether I should dispense with it and discount the possibility that it may be necessary information."
+            "content": "Bu kısmın bir şifreli mesaj veya bir kod olma ihtimalini göze alarak, bunun bilinmesi gerekli bir bilgi olma ihtimalini göz ardı etmeyerek menajerimizin bu bilgi üzerinde bir yorumda bulunmak isteyebileceği ihtimalini düşündüm."
         },
         {
             "id": 28,
             "model": "단테",
-            "content": "<Good work...>"
+            "content": "<İyi iş...>"
         },
         {
             "id": 29,
