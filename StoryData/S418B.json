@@ -37,15 +37,15 @@
         {
             "id": 5,
             "model": "단테",
-            "content": "<...Let's get going.>"
+            "content": "<...Hadi gidelim.>"
         },
         {
             "id": 6,
-            "content": "Fortunately, I didn't see any killing machines here."
+            "content": "Çok şükür ki, karşımıza öldürme makineleri çıkmıyordu."
         },
         {
             "id": 7,
-            "content": "However, a couple of unwelcome figures appeared in front of us."
+            "content": "Fakat, birkaç tane hoş görünmeyen figür önümüzü kesmişti."
         },
         {
             "id": 8,
@@ -55,7 +55,7 @@
         {
             "id": 9,
             "model": "단테",
-            "content": "<Yeah, but they aren't holding any weapons...>"
+            "content": "<Tamam da, bunlar silahsız...>"
         },
         {
             "id": 10,
@@ -65,7 +65,7 @@
         {
             "id": 11,
             "model": "단테",
-            "content": "<...Um, thanks? Outis?>"
+            "content": "<...Um, Teşekkür ederim, Outis?>"
         },
         {
             "id": 12,
@@ -229,16 +229,16 @@
         },
         {
             "id": 36,
-            "content": "With an ear-piercing noise, the building was engulfed in an explosion."
+            "content": "Kulak çınlatan bir ses ile, tüm koridor patlamanın etkisi ile kaplanmıştı."
         },
         {
             "id": 37,
-            "content": "All that remains is a charred stain."
+            "content": "Kalan tek şey ise duman ve yanık kokusuydu."
         },
         {
             "id": 38,
             "model": "단테",
-            "content": "<Ngh... That hurt a lot.>"
+            "content": "<Ngh... Bu acıttı işte.>"
         },
         {
             "id": 39,
@@ -270,11 +270,11 @@
         },
         {
             "id": 43,
-            "content": "After taking the impact for others, Don Quixote and Meursault had been flung all the way to columns supporting the building, their backbones fully exposed."
+            "content": "Başkaları için patlamanın gücünü üstlendikten sonra, Don Quixote ve Meursault omurgaları tamamen ortada olacak şekilde binayı destekleyen kolonlara uçmuşlardı."
         },
         {
             "id": 44,
-            "content": "...Don Quixote in particular was impaled on a pillar."
+            "content": "...Özellikle Don Quixote, kolonlardan birine saplanmıştı."
         },
         {
             "id": 45,
@@ -292,7 +292,7 @@
         },
         {
             "id": 47,
-            "content": "Don Quixote couldn't give any answers, whether due to death or the pointed edge stabbing through her mouth."
+            "content": "Don Quixote ise, ölümünden veya ağzının içine saplanmış kolondan ötürü buna bir cevap veremiyordu."
         },
         {
             "id": 48,
@@ -302,7 +302,7 @@
         {
             "id": 49,
             "model": "단테",
-            "content": "<Meursault? You were alive...?>"
+            "content": "<Meursault? Hayatta mıydın sen...?>"
         },
         {
             "id": 50,
@@ -331,7 +331,7 @@
         {
             "id": 54,
             "model": "단테",
-            "content": "<I dunno, the ampule looks handier...>"
+            "content": "<Bilmiyorum, ampul daha kullanışlı görünüyor...>"
         },
         {
             "id": 55,
@@ -377,27 +377,27 @@
         },
         {
             "id": 61,
-            "content": "For some reason, Shrenne lets out a defeated laugh and drops the ampules in her bag to the floor."
+            "content": "Nedendir bilinmez, Shrenne kaybetmiş gibi bir kahkahadan sonra çantasındaki ampulleri yere bırakmıştı."
         },
         {
             "id": 62,
-            "content": "It's true... For them—looking at it from a perspective that excludes me—this is certainly a convenient power."
+            "content": "Doğruydu... Onlar için—benim dışımdaki bir perspektiften akacak olursak—bu gerçekten de faydalı bir güçtü."
         },
         {
             "id": 63,
-            "content": "Fatal consequences can be reversed, and the only price is me having to bear the pain."
+            "content": "Ölümcül yaralar bile, benim acısını çekme koşulu ile geri sarılabiliyordu."
         },
         {
             "id": 64,
-            "content": "No, wait."
+            "content": "Ya da, bekle."
         },
         {
             "id": 65,
-            "content": "Is this really fine?"
+            "content": "Bu gerçekten iyi bir şey mi?"
         },
         {
             "id": 66,
-            "content": "And where does all this time to rewind come from?"
+            "content": "Ve geri saracak bunca zaman nereden geliyordu?"
         },
         {
             "id": 67,
@@ -406,7 +406,7 @@
         },
         {
             "id": 68,
-            "content": "Thoroughly ravaged by the blast, Heathcliff pointed at Don Quixote."
+            "content": "Patlamadan tarumar olmuş Heathcliff, Don Quixote'u işaret ediyordu."
         },
         {
             "id": 69,
@@ -416,7 +416,7 @@
         {
             "id": 70,
             "model": "단테",
-            "content": "<...On it.>"
+            "content": "<...Hemen.>"
         }
     ]
 }
