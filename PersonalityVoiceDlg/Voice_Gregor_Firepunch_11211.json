@@ -3,7 +3,7 @@
         {
             "id": "get_11211_1",
             "desc": "Kişilik Edinme",
-            "dlg": "They're... all from our Office. Firefist Office."
+            "dlg": "Hepsi... bizim ofisimizden. Ateşyumruğu Ofisi."
         },
         {
             "id": "lobby_morning_11211_1",
@@ -58,7 +58,7 @@
         {
             "id": "formation_11211_1",
             "desc": "Sahaya Sürme",
-            "dlg": "I've prepped plenty of fuel."
+            "dlg": "Fazlaca yakıt hazırladım."
         },
         {
             "id": "battleentry_11211_1",
@@ -83,7 +83,7 @@
         {
             "id": "battle_break_11211_1",
             "desc": "Sersemleme",
-            "dlg": "Haah... don't worry. Wound's been cauterized."
+            "dlg": "Haah... merak etme. Yara dağlandı."
         },
         {
             "id": "battle_kill_11211_1",
@@ -108,7 +108,7 @@
         {
             "id": "battle_clear_11211_1",
             "desc": "Zafer Çığlığı",
-            "dlg": "So this is as far as I get this go around, huh... Next time, I'm coming back to burn that wretched parade alive."
+            "dlg": "So this is as far as I get this go around, huh... Bir dahaki sefere, o berbat töreni canlı canlı yakacağım."
         },
         {
             "id": "battle_clear_ex_11211_1",
@@ -118,7 +118,7 @@
         {
             "id": "battle_defeat_11211_1",
             "desc": "Mağlubiyet Feryadı",
-            "dlg": "... I'll leave nothing but ashes next time. I won't leave even a drop of blood for you to lap on."
+            "dlg": "... Bir dahakine sadece küller kalacak. Üstüne atlamanız için bir damla kan bile kalmayacak."
         }
     ]
 }
