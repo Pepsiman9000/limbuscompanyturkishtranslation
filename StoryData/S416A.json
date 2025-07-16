@@ -17,7 +17,7 @@
         },
         {
             "id": 2,
-            "content": "An ominous noise buzzed from the stopped machines."
+            "content": "Durmuş makinelerden, garip bir ses işitilmişti."
         },
         {
             "id": 3,
@@ -87,16 +87,16 @@
         },
         {
             "id": 13,
-            "content": "Gregor approached the speaker with a grumble, scratching the back of his head."
+            "content": "Gregor başının arkasını kaşıyarak, eğik bir bel ile makinelere yaklaşmıştı."
         },
         {
             "id": 14,
             "model": "단테",
-            "content": "<Wait, Gregor!>"
+            "content": "<Gregor, bekle!>"
         },
         {
             "id": 15,
-            "content": "After playing the voice, the machine suddenly starts to heat up and inflate."
+            "content": "Sesi oynattıktan sonra, makina bir anda ısınıp şişmeye başlamıştı."
         },
         {
             "id": 16,
@@ -124,7 +124,7 @@
         },
         {
             "id": 20,
-            "content": "Heathcliff kicked Gregor away from the machine."
+            "content": "Heathcliff, Gregor'u makineden uzağa tekmelemişti."
         },
         {
             "id": 21,
@@ -143,12 +143,12 @@
         {
             "id": 23,
             "model": "단테",
-            "content": "<Are all researchers like that? This really doesn't feel like the time for admirations.>"
+            "content": "<Tüm araştırmacılar böyle mi? Rakibi övmek için doğru zamanda olmadığımıza eminim.>"
         },
         {
             "id": 24,
             "model": "파우스트",
-            "content": "Such is our fate."
+            "content": "Kaderimizde yazılı."
         }
     ]
 }
