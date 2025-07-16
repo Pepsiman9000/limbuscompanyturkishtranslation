@@ -2,72 +2,72 @@
     "dataList": [
         {
             "id": 2027,
-            "name": "Black Ledger",
-            "desc": "First Turn Start of an Encounter: gain random E.G.O resources equal to the number of enemies.\n\nIf there are 4 or more Blade Lineage or Kurokumo Clan Identities participating in this Encounter, gain E.G.O resources for the least-owned E.G.O Affinity instead.",
+            "name": "Kara Defter",
+            "desc": "Karşılaşma başlangıcında: Düşman sayısı kadar rastgele E.G.O kaynağı kazan.\n\nEğer karşılaşmaya 4 veya daha fazla Kılıç Soyu veya Kurokumo Klanı kişiliği katılıyorsa en az sahip olunan E.G.O kaynağından kazan.",
             "simpleDesc": [
                 {
                     "abilityID": 2027,
-                    "simpleDesc": "Gain random E.G.O resources"
+                    "simpleDesc": "Rastgele E.G.O kaynağı kazan"
                 },
                 {
                     "abilityID": 20271,
-                    "simpleDesc": "Gain the least-owned E.G.O resources"
+                    "simpleDesc": "En az sahip olunan E.G.O kaynağından kazan"
                 }
             ]
         },
         {
             "id": 2028,
-            "name": "Rusted Hilt",
-            "desc": "Turn Start: all allies gain 1 Slash Power Up.\n\nBlade Lineage or Kurokumo Clan Identities gain 2 Slash Power Up instead.",
+            "name": "Paslı Kabza",
+            "desc": "Tur Başlangıcı: Bütün müttefikler 1 Kesme gücü kazanır.\n\nKılıç Soyu veya Kurokumo Klanı kişilikleri 2 Kesme Gücü kazanır.",
             "simpleDesc": [
                 {
                     "abilityID": 2028,
-                    "simpleDesc": "Gain 1 Slash Power Up"
+                    "simpleDesc": "1 [SlashResultUp] kazan"
                 },
                 {
                     "abilityID": 20281,
-                    "simpleDesc": "Gain 2 Slash Power Up"
+                    "simpleDesc": "2 [SlashResultUp] kazan"
                 }
             ]
         },
         {
             "id": 2029,
-            "name": "Fractured Blade",
-            "desc": "During this Encounter: when inflicting [Laceration] Potency or Unique Bleed for the first time against an enemy with an Attack Skill effect, inflict an additional +2 [Laceration] Count. (Once per Encounter)\n\nKurokumo Clan Identities, when inflicting damage against an enemy for the first time, inflict an additional 4 [Laceration] Potency and +4 [Laceration] Count instead.",
+            "name": "Çatlamış Kılıç",
+            "desc": "Bu karşılaşmada:Bir saldırı yeteneği ile bir düşmana ilk kez [Laceration] Şiddeti veya Eşsiz Kanama uygularken fazladan +2 [Laceration] miktarı uygula. (Karşılaşma başına bir kere)\n\nKurokumo Klanı kişilikleri önceki efektin yerine bir düşmana ilk kez hasar vurduklarında fazladan 4 [Laceration] Şiddeti ve +4 [Laceration] miktarı uygular.",
             "simpleDesc": [
                 {
                     "abilityID": 2029,
-                    "simpleDesc": "Inflict additional 2 [Laceration] Count"
+                    "simpleDesc": "Fazladan 2 [Laceration] miktarı uygula"
                 },
                 {
                     "abilityID": 20291,
-                    "simpleDesc": "Inflict additional 4 [Laceration] Potency and +4 [Laceration] Count"
+                    "simpleDesc": "Fazladan 4 [Laceration] şiddeti ve +4 [Laceration] miktarı uygula"
                 }
             ]
         },
         {
             "id": 2030,
-            "name": "Broken Blade",
-            "desc": "When an ally Critically Hits an enemy, deal an additional ([Breath] Potency/3) Pride damage.\n\nBlade Lineage Identities, when they Critically Hit an enemy, deal an additional ([Breath] Potency/2) Pride damage instead.",
+            "name": "Kırık Kılıç",
+            "desc": "Bir müttefik bir düşmana Kritik Vurduğunda, fazladan ([Breath] Şiddeti/3) Kibir hasarı vur.\n\nKılıç Soyu kişilikleri önceki efektin yerine Kritik Vuruşlarında fazladan ([Breath] Şiddeti/2) Kibir hasarı vurur.",
             "simpleDesc": [
                 {
                     "abilityID": 2030,
-                    "simpleDesc": "Deal an additional ([Breath] Potency/3) Pride damage."
+                    "simpleDesc": "Fazladan ([Breath] Şiddeti/3) Kibir hasarı vur."
                 },
                 {
                     "abilityID": 20301,
-                    "simpleDesc": "Deal an additional ([Breath] Potency/2) Pride damage."
+                    "simpleDesc": "Fazladan ([Breath] Şiddeti/2) Kibir hasarı vur."
                 }
             ]
         },
         {
             "id": 2031,
-            "name": "Red Tassel",
-            "desc": "If the target has 1.5 or lower Slash Resistance, Slash Resistance +0.3.",
+            "name": "Kırmızı Püskül",
+            "desc": "Hedefin 1.5 veya daha düşük bir Kesme Dayanıklılığı varsa, Kesme Dayanıklılığı +0.3",
             "simpleDesc": [
                 {
                     "abilityID": 2031,
-                    "simpleDesc": "Slash Resistance +0.3"
+                    "simpleDesc": "Kesme Dayanıklılığı +0.3"
                 }
             ]
         },
