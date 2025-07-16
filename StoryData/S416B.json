@@ -3,7 +3,7 @@
         {
             "id": 0,
             "place": "Nest K - LC Branch Interior",
-            "content": "...The group remained consistently noisy until the moment we arrived."
+            "content": "...Grup, oraya ulaşana kadar büyük bir gürültü içerisindeydi."
         },
         {
             "id": 1,
@@ -32,7 +32,7 @@
         {
             "id": 6,
             "model": "단테",
-            "content": "<Why does this person keep talking to me?>"
+            "content": "<Neden bu arkadaş bana konuşup duruyor?>"
         },
         {
             "id": 7,
@@ -63,7 +63,7 @@
         {
             "id": 11,
             "model": "단테",
-            "content": "<What's an \"age of humanity\"?>"
+            "content": "<\"İnsanlığın devri\" tam olarak ne ki?>"
         },
         {
             "id": 12,
@@ -75,11 +75,11 @@
         {
             "id": 13,
             "model": "단테",
-            "content": "<...Some one-sided conversation that was... Much worse than the ones I have with Vergilius.>"
+            "content": "<...Vegilius ile yaptıklarımdan bile beter bir tek taraflı konuşmaydı.>"
         },
         {
             "id": 14,
-            "content": "Was it even a conversation if one of us never communicated their thoughts to the other?"
+            "content": "Bir taraf görüşlerini belirtmediğine göre, buna bir konuşma denebilir miydi ki?"
         },
         {
             "id": 15,
@@ -90,7 +90,7 @@
         },
         {
             "id": 16,
-            "content": "I think you're the only one here who has to keep his mouth shut."
+            "content": "Bana sorarsan, burada çenesini kapatması gereken tek kişi sensin."
         }
     ]
 }
