@@ -2,11 +2,11 @@
     "dataList": [
         {
             "id": 0,
-            "content": "<color=#d4e1e8>Ne yüksekleri hedefliyorduk, ne de açgözlü kartallara benziyorduk; bizler yalnızca, teknolojiyi seven çocuklardan ibarettik.</color>"
+            "content": "<color=#d4e1e8>Ne yüksekleri hedefliyorduk, ne de açgözlü kartallara benziyorduk; </color> \n <color=#d4e1e8>bizler yalnızca, teknolojiyi seven çocuklardan ibarettik.</color>"
         },
         {
             "id": 1,
-            "content": "<color=#d4e1e8>İlk defa güzel bir nefes aldığımızı hissettiğimiz günü hatırlıyor musun?</color>"
+            "content": "<color=#d4e1e8>İlk defa güzel, ferah bir nefes aldığımızı hissettiğimiz günü hatırlıyor musun?</color>"
         },
         {
             "id": 2,
@@ -26,12 +26,12 @@
         },
         {
             "id": 6,
-            "place": "Nest K’s Ruined Streets",
-            "content": "Manzara, toz ve duman ile kaplıydı."
+            "place": "K Yuvasının harab olmuş sokakları",
+            "content": "Toz ve duman, görüşümüzü kısıtlıyordu."
         },
         {
             "id": 7,
-            "content": "Korku dolu çığlıklar, umutsuz feryatlar, ve objelerin kırılma sesleri büyük bir kargaşa ortaya döküyordu."
+            "content": "Korku dolu çığlıklar, umutsuz feryatlar, ve bir şeylerin kırılma sesleri büyük kakafony ortaya çıkarmıştı."
         },
         {
             "id": 8,
@@ -40,11 +40,11 @@
         },
         {
             "id": 9,
-            "content": "O sırada hayatta kalan teh Günahkar olan Yi Sang'ın, son bir cümle söylemek için gücünü toparladığına şahit oldum."
+            "content": "O sırada hayatta kalan tek Günahkâr olan Yi Sang'ın, son bir cümle söylemek için gücünü toparladığını duydum."
         },
         {
             "id": 10,
-            "content": "Diğerleri ise, güçten düşmüş kuklalar gibi dağınık cesetlerin arasındaydı."
+            "content": "Diğerleri ise, vantrologlarının eli kesilmiş kuklalar gibi cesetten farksızlardı. \n<size=24>vantrolog: elinde kukla tutup konuşturan kimse</size>"
         },
         {
             "id": 11,
@@ -52,7 +52,7 @@
         },
         {
             "id": 12,
-            "content": "Lakin, bir Yuva'nın içerisindeydik."
+            "content": "Fakat, bir Yuva'nın içerisinde değilmiydik?"
         },
         {
             "id": 13,
@@ -60,7 +60,7 @@
         },
         {
             "id": 14,
-            "content": "Ben bunu düşünürken, Anomali çokyan Yi Sang'ın karnını deşip geçmişti."
+            "content": "Ben bunu düşünürken, Anomali çoktan Yi Sang'ın ince bağırsaklarını kokoreçe çevirmişti bile."
         },
         {
             "id": 15,
@@ -68,7 +68,7 @@
         },
         {
             "id": 16,
-            "place": "Aboard Mephistopheles",
+            "place": "Mephistopheles'in içersi",
             "model": "홍루",
             "content": "Bu defa nereye gidiyoruz?"
         },
@@ -78,12 +78,12 @@
         },
         {
             "id": 18,
-            "content": "Sanki bir geziye çıkmışız edasında, bazı Günahkarlar nereye gideceğimizi sormaktan çekinmez olmuştu."
+            "content": "Sanki Yuvalar arası bir sınıf gezisine çıkmışız edasında, bazı Günahkarlar nereye gideceğimizi sormaktan çekinmez olmuştu."
         },
         {
             "id": 19,
             "model": "파우스트",
-            "content": "Bu pek doğru bir soru sayılmaz. Bu görev bir insan aksine, bir yer ile başlıyor."
+            "content": "Bu pek doğru bir soru sayılmaz. Bu görev bir yerin aksine, bir insan."
         },
         {
             "id": 20,
@@ -103,32 +103,32 @@
         {
             "id": 23,
             "model": "돈키호테",
-            "content": "Oho, hath our carriage begun to be frequented by requests already? ¡Excelente! It may take little time at all to become a renowned Fixer!"
+            "content": "Ooo, Emektar karıncamız taleplere arz olmaya başladı mı bile? Fevkül-âide! <size=24>-Fevkalde-</size> Böle giderse bifiil namı pek İşçözücüler oluruz nitekim! \n <size=24>Karınca: buradaki anlamı at arabası demek, bkz Atlı karınca</size> \n <size=24>Arz: “arz talep” durumundaki arz; üretim, karşılama demek</size>"
         },
         {
             "id": 24,
             "model": "베르길리우스",
-            "content": "Sessizlik, soruları ben cevaplayacağım."
+            "content": "Sessizlik, sorularınız varsa ben cevaplayacağım."
         },
         {
             "id": 25,
             "model": "베르길리우스",
-            "content": "Bildiğiniz üzere, Altın Dalların varlığı, oldukça güncel bir keşif."
+            "content": "Bildiğiniz üzere, Altın Dalların varlığı, görece güncel bir keşif."
         },
         {
             "id": 26,
             "model": "베르길리우스",
-            "content": "Şansımıza, J ve D Kuruluşları, eyaletlerini ziyaret ettiğimiz esnada Dallara ilgili değildi."
+            "content": "Neyse ki, J ve D Kuruluşları, eyaletlerini ziyaret ettiğimiz esnada Dallara özel ilgi duymuyorlardı."
         },
         {
             "id": 27,
             "model": "베르길리우스",
-            "content": "Bu yüzden ki, gittiğimiz dalların içinde sadece Arka Sokak fareleri ve Çete üyeleri mesken geziyordu."
+            "content": "Bu yüzden gittiğimiz Şubelerin içinde sadece Arka Sokak fareleri ve bir kaç çete üyesi mesken edinmişti."
         },
         {
             "id": 28,
             "model": "베르길리우스",
-            "content": "Fakat…Şu an topraklarında bulunduğumuz K Kuruluşu gibi, Dalların varlığını ve değerini erkenden kavramış kanatlar da mevcut."
+            "content": "Fakat… Şu an sınırları içersinde bulunduğumuz K Kuruluşu gibi, Dalların varlığını ve değerini erkenden kavramış kanatlar da mevcut."
         },
         {
             "id": 29,
@@ -138,17 +138,17 @@
         {
             "id": 30,
             "model": "베르길리우스",
-            "content": "Hiç bir zaman, bir eyalette sadece tek bir Dal bulunacağını söylemedim."
+            "content": "Hiç bir zaman bir eyalette sadece tek bir Dal bulunacağını söylemedim."
         },
         {
             "id": 31,
             "model": "베르길리우스",
-            "content": "Lobotomi Kuruluşu'nun dallarının dağılışı, düşündüğünüzden de karmaşık. Her yerde bulunabiliyorlar… tıpkı bir ağacın dalları gibi etrafa yayılmışlar."
+            "content": "Lobotomi Kuruluşu'nun Şubelerinin dağılışı, düşündüğünüzden de karmaşık. Her yerde bulunabiliyorlar… tıpkı bir ağacın dalları gibi etrafa yayılmışlar."
         },
         {
             "id": 32,
             "model": "싱클레어",
-            "content": "Bizim mülkümüzün bodrumunda bir tanesinin olması gibi…"
+            "content": "Bizim malikanemizin bodrumunda bir tanesinin olması gibi…"
         },
         {
             "id": 33,
@@ -158,47 +158,47 @@
         {
             "id": 34,
             "model": "베르길리우스",
-            "content": "Bu yüzdendir ki, bu yarıştaki herkes “Dal'ı bulan ilk kişi alır” kuralına göre oynuyor."
+            "content": "Bu yüzdendir ki, oyundaki herkes “Erken gelen Dal'ı kapar” kuralını benimsemiş halde."
         },
         {
             "id": 35,
             "model": "로쟈",
-            "content": "Well, gömülü hazine mevzuları genelde böyle ilerler~"
+            "content": "Yanii, gömülü hazine mevzuları genelde böyle ilerler~"
         },
         {
             "id": 36,
             "model": "그레고르",
-            "content": "Bu durumda… Bize bir Altın Dal'ı sahiplendirme teklifini kabul mu ettiğimizi ima ediyorsun?"
+            "content": "Bu durumda… Bizim bir Altın Dal'ın sahibi olma teklifini kabul ettiğimizi mi sölüyorsun?"
         },
         {
             "id": 37,
             "model": "베르길리우스",
-            "content": "Doğruyu söylemek gerekirse, teklif onlardan geldi."
+            "content": "Doğruyu söylemek gerekirse, teklif ilk onlardan geldi."
         },
         {
             "id": 38,
             "model": "베르길리우스",
-            "content": "İşin sonunda da bir Altın Dal olduğuna göre…"
+            "content": "İşin sonunda da bir Altın Dal olduğu sürece…"
         },
         {
             "id": 39,
             "model": "이스마엘",
-            "content": "Başka bir seçeneğimiz yoktu… Anlaşıldı."
+            "content": "Başka bir seçeneğimiz yok… Anlaşıldı."
         },
         {
             "id": 40,
             "model": "베르길리우스",
-            "content": "Yani… Haaa, Size bunu ne kadar hatırlatmam gerekir bilmiyorum, fakat müşteriyi kışkırtacak hareketlerde sakın bulunmayın."
+            "content": "Yani… Haaa, Size bunu ne kadar tembihlemek gerekir bilmiyorum ama... Müşterimizi kışkırtacak hareketlerde sakın bulunmayın."
         },
         {
             "id": 41,
             "model": "단테",
-            "content": "<Bu arada…>"
+            "content": "<Hazır konusu açılmışken…>"
         },
         {
             "id": 42,
             "model": "베르길리우스",
-            "content": "Şimdi, her zamanki gibi istikametimize ulaşana kadar o çenenizi kapatın."
+            "content": "Şimdi, her zamanki gibi, istikametimize ulaşana kadar o çenenizi kapatın."
         },
         {
             "id": 43,
@@ -218,17 +218,17 @@
         {
             "id": 46,
             "model": "베르길리우스",
-            "content": "Ah, kusura bakma, Dante. Umarım anlayış gösterebilirsin, takırdayan bir saate cevap vermemi gerektiren bir konsepte alışmak, elbette biraz alışması zor bir şey."
+            "content": "Ah, kusura bakma, Dante. Umarım takırdayan bir saate cevap vermemi gerektiren bir konsepte alışmanın ne kadar zor bir meziyet olduğunu anlayabilirsin."
         },
         {
             "id": 47,
             "model": "단테",
-            "content": "<…Altın Dallar ne için kullanılıyor ki?>"
+            "content": "<Anlıyorum… Peki Altın Dallar ne için kullanılıyor?>"
         },
         {
             "id": 48,
             "model": "단테",
-            "content": "<When I think about it, all we were told was a vague order to collect them… And nothing about what the company plans to do with them.>"
+            "content": "<Düşünecek olursak, Bize söylenen tek şey onları elde etemiz konusunda sönük bir emir… Ve Şirketin onlarla ne yaptığı hakkında verilmemiş açıklamalar.>"
         },
         {
             "id": 49,
@@ -243,17 +243,17 @@
         {
             "id": 51,
             "model": "베르길리우스",
-            "content": "…Ah-Hah."
+            "content": "…Ha."
         },
         {
             "id": 52,
             "model": "베르길리우스",
-            "content": "Sonunda bir şeylere kafanı çalıştırdığını görüyorum, Dante. Şirketin planlarını önemsemeye başladın."
+            "content": "Sonunda bir şeylere kafa yormaya başladığını görüyorum, Müdür Dante. Bir de bakmışım ki Şirketin planlarını önemsemeye başlamışsın."
         },
         {
             "id": 53,
             "model": "베르길리우스",
-            "content": "O halde ben de sana nazikçe sorunu cevaplayıp, yardımda bulunacağım."
+            "content": "O halde bana düşen de Rehber rolüme uyup, nazikçe sorunu cevaplayarak yardımda bulunmak olur."
         },
         {
             "id": 54,
@@ -263,24 +263,24 @@
         {
             "id": 55,
             "model": "베르길리우스",
-            "content": "Adından da anlaşılabileceği üzere, dallar. Ağaçların kalın kısmından yayılan ince şeylere diyoruz. Bu dallar ise altın renginde parıldıyor."
+            "content": "Adından da anlaşılabileceği üzere, daldırlar. Ağaçların kalın kısmından yayılan ince şeylere diyoruz. Bu Dallar ise altın renginde parıldıyor."
         },
         {
             "id": 56,
             "model": "돈키호테",
-            "content": "Ohoooo…"
+            "content": "Ohoooo… Filvaki."
         },
         {
             "id": 57,
-            "content": "Don Quixote bu bilgiye tutkulu bir şekilde cevap veren tek kişiydi."
+            "content": "Don Quixote bu bilgiyi tutkulu bir şekilde karşılayan tek kişiydi."
         },
         {
             "id": 58,
-            "content": "Bu tartışma sayesinde, bir tesisin bile ne olduğunu bilmeyen hödüğün teki gibi lanse edilmiştim."
+            "content": "Bu müzakere sayesinde, bir Şube'nin bile ne olduğunu bilmeyen ahmağın teki olarak lanse edilmiştim."
         },
         {
             "id": 59,
-            "content": "Rodya ise gerçek bir cevap beklediğim için benimle dalga geçermişcesine omuzlarını kaldırmıştı."
+            "content": "Rodya ise gerçek bir cevap beklediğim için benimle dalga geçermişcesine kıs kıs güldü."
         },
         {
             "id": 60,
@@ -304,27 +304,27 @@
         },
         {
             "id": 64,
-            "content": "Ishmael cümlesini bitiremeden, bir şeyin çarpma sesi lafını yarıda kesmişti."
+            "content": "Ishmael cümlesini bitiremeden, ön camdan gelen çarpışma sesi kafını yarıda kesti."
         },
         {
             "id": 65,
             "model": "로쟈",
-            "content": "…Bir şey otobüse fırlayıp, futbol topu gibi uçup gitti... İnsanın biriydi, değil mi?"
+            "content": "…Bir şey otobüse fırlayıp, futbol topu gibi uçup gitti... O bir insandı, değil mi?"
         },
         {
             "id": 66,
             "model": "뫼르소",
-            "content": "Aşağı yukarı 40 yaşlarında bulunan bir eril birey. Arka baş hizasında ciddi yaraları olduğu görülüyor. Çarpışma anından önce ölmüş."
+            "content": "40lı yaşlarının başında bulunan eril bir birey. Arka baş hizasında ciddi yaraları olduğu görülüyor. Çarpışma anından önce ölmüş."
         },
         {
             "id": 67,
             "model": "베르길리우스",
-            "content": "Evet, sıradan bir mevzu değil gibi."
+            "content": "Evet, sıradan bir kargaşa değil gibi."
         },
         {
             "id": 68,
             "model": "베르길리우스",
-            "content": "Pitstop. Eğer halledebileceğiniz bir sorun ise, işi çözüp gelin."
+            "content": "Pit-stop. Eğer halledebileceğiniz bir sorun ise, işi çözüp gelin."
         },
         {
             "id": 69,
@@ -339,7 +339,7 @@
         {
             "id": 71,
             "model": "단테",
-            "content": "<That’s one elegant way to tell us to go die a thousand deaths…>"
+            "content": "<“Bin ölümü tadın” demenin ne kadar da belagatik bir yolu…> \n <size=24>Belagat: güzel söz söyleme, ikna etme sanatı, gerçek vergilius dante tarafından belagat ustası olarak tanımlanır bkz İlahi Komedya Inferno Canto 1</size>"
         },
         {
             "id": 72,
@@ -349,7 +349,7 @@
         {
             "id": 73,
             "model": "로쟈",
-            "content": "Kalkın bakalım dostlar."
+            "content": "Herkes insin."
         },
         {
             "id": 74,
