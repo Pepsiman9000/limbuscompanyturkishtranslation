@@ -5,26 +5,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "...nocking",
-          "desc": "[WhenUse] If target has 5+ [Sinking], inflict 1 [AttackDown]",
+          "name": "...ıklıyor",
+          "desc": "[WhenUse] Eğer hedefte 5+ [Sinking] varsa, 1 [AttackDown] uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] 4 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] 4 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Paralysis] uygula"
                 }
               ]
             }
@@ -37,23 +37,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "...to Clean",
-          "desc": "[WhenUse] If the target is at 10 or less SP, inflict 2 [AttackDown]\n[WinDuel] Inflict 1 [Vulnerable]",
+          "name": "...Temizlememizi",
+          "desc": "[WhenUse] Eğer hedefin 10 veya daha az SP'si varsa, 2 [AttackDown] uygula\n[WinDuel] 1 [Vulnerable] uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PlusCoinValueDown] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [PlusCoinValueDown] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +3 [Sinking] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Vulnerable] uygula"
                 }
               ]
             }
@@ -66,36 +66,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "...mmands...!",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Sinking] on target (max 3)\n[WinDuel] All allies heal 5 SP",
+          "name": "...rediyor...!",
+          "desc": "[WhenUse] Hedefteki her 3 [Sinking] için Taban Gücü +1 (maks 3)\n[WinDuel] Tüm müttefikler 5 SP iyileştirir",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Sinking]"
+                  "desc": "[OnSucceedAttack] 8 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] +2 [Sinking] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Sinking]"
+                  "desc": "[OnSucceedAttack] 8 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] +2 [Sinking] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Sinking]"
+                  "desc": "[OnSucceedAttack] 8 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] +2 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -108,33 +108,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "...of Dust",
-          "desc": "[WhenUse] Base Power +1 for every 6 [Sinking] on target (max 3)\n[WhenUse] Deal +10% more damage for every 6 [Sinking] Count on target (max 30%)",
+          "name": "...Kirden",
+          "desc": "[WhenUse] Hedefteki her 6 [Sinking] için Taban Gücü +1 (maks 3)\n[WhenUse] Hedefteki her 6 [Sinking] için +10% daha fazla hasar uygula (maks 30%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom Affinity bonus damage equal to [Sinking] on target. Reduce [Sinking] Count on target by 1"
+                  "desc": "[OnSucceedAttack] Hedefteki [Sinking] kadar Hüzün Türünde bonus hasar uygula. Hedefin [Sinking] Miktarını 1 azalt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom Affinity bonus damage equal to [Sinking] on target. Reduce [Sinking] Count on target by 1"
+                  "desc": "[OnSucceedAttack] Hedefteki [Sinking] kadar Hüzün Türünde bonus hasar uygula. Hedefin [Sinking] Miktarını 1 azalt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom Affinity bonus damage equal to [Sinking] on target."
+                  "desc": "[OnSucceedAttack] Hedefteki [Sinking] kadar Hüzün Türünde bonus hasar uygula."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] 4 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 3+ [Sinking] Count, Reuse this Coin (twice)"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 3+ [Sinking] Miktarı varsa, Bu Jetonu yeniden kullan (iki defa)"
                 }
               ]
             }
@@ -147,8 +147,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slipp...",
-          "desc": "If this unit has remaining Shield HP at Turn End, lower Stagger threshold by 50",
+          "name": "Kayd...",
+          "desc": "Eğer tur sonunda bu karakterde kalkan kaldıysa, Sersemleme Eşiğini 50 azalt",
           "coinlist": [
             {}
           ]
@@ -160,20 +160,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Damn Pl...",
+          "name": "Lanet Olası Kö...",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackUp] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [AttackUp] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackUp] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [AttackUp] kazan"
                 }
               ]
             }
@@ -186,20 +186,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Remo...",
-          "desc": "[WinDuel] Base Power +1",
+          "name": "Sizi Yok...",
+          "desc": "[WinDuel] Taban Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has [AttackDown], deal 20% of damage dealt as bonus Blunt damage"
+                  "desc": "[OnSucceedAttack] Eğer hedefte [AttackDown] varsa, vurulan hasarın 20%'sini bonus Darbe hasarı olarak uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has [AttackDown], deal 20% of damage dealt as bonus Blunt damage"
+                  "desc": "[OnSucceedAttack] Eğer hedefte [AttackDown] varsa, vurulan hasarın 20%'sini bonus Darbe hasarı olarak uygula"
                 }
               ]
             }
@@ -212,28 +212,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Make Things...",
-          "desc": "[WinDuel] If the target has 2+ [AttackDown], Base Power +1\n[WhenUse] If the target has [DefenseDown], deal 30% of damage dealt as bonus Blunt damage",
+          "name": "Herşeyi Dü...",
+          "desc": "[WinDuel] Eğer hedefte 2+ [AttackDown] varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte [DefenseDown] varsa, vurulan hasarın 30%'unu bonus Darbe hasarı olarak uygula",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP on self"
+                  "desc": "[OnSucceedAttack] 4 SP iyileştir"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP on self"
+                  "desc": "[OnSucceedAttack] 4 SP iyileştir"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP on self"
+                  "desc": "[OnSucceedAttack] 4 SP iyileştir"
                 }
               ]
             }
@@ -246,19 +246,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "... ove You",
-          "desc": "Prioritizes targets with the most negative effects\n[WinDuel] Coin Power +1 for every 3 [DefenseDown] on target (max 3)",
+          "name": "... Edeceğim",
+          "desc": "En fazla negatif efekti olan karakterlere saldırı önceliği verir\n[WinDuel] Hedefteki her 3 [DefenseDown] için Jeton Gücü +1 (maks 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] 1 [Vulnerable] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Vulnerable] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Paralysis] uygula"
                 }
               ]
             },
