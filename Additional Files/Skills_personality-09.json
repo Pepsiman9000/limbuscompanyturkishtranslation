@@ -1088,7 +1088,7 @@
         },
         {
           "level": 4,
-          "name": "In Finely Ground Mistfall",
+          "name": "İnce Sisler İçinde",
           "desc": "[StartBattle] On self and 1 ally with the least max HP: apply 1 [Enhancement], consume up to 30 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies additional 1 [Enhancement] and 2 [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)</style>",
           "coinlist": [
             {
