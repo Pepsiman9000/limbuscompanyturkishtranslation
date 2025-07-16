@@ -2,14 +2,14 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Nest K’s Ruined Streets",
+            "place": "K Yuvasının harab olmuş sokakları",
             "model": "로쟈",
             "content": "Ve bu da sona kalanlar… Masrafları bize kitlemezler, değil mi?"
         },
         {
             "id": 1,
             "model": "파우스트",
-            "content": "Bunu savunma niyetine yaptığımızı rapor edeceğim."
+            "content": "Bunu nefs-i müdafa olarak yaptığımızı raporlamaya çalışacağım."
         },
         {
             "id": 2,
@@ -19,7 +19,7 @@
         {
             "id": 3,
             "model": "파우스트",
-            "content": "Fark etmekte pek bir gecikmişsin."
+            "content": "Fark etmekte nispeten geç kalmışsın."
         },
         {
             "id": 4,
@@ -39,32 +39,32 @@
         {
             "id": 7,
             "model": "로쟈",
-            "content": "Bu anomaliler de ne böyle… Nasıl oldu da bir Yuva'nın ortasında çıktılar, ve üstüne üstlük… daha korkunç hale geldiler?"
+            "content": "Bu anomaliler de ne böyle… Nasıl oldu da bir Yuva'nın ortasında çıktılar, ve üstüne üstlük… daha korkutucu hale geldiler?"
         },
         {
             "id": 8,
             "model": "단테",
-            "content": "<And I’ve seen that one in the Mirror Dungeons a few times, too. Never in a fight, though.>"
+            "content": "<Onu ben Ayna Zindanda bir kaç kez görmüştüm, savaş sırasında olmasa da.>"
         },
         {
             "id": 9,
             "model": "단테",
-            "content": "<Come to think of it… What was the deal with those Abnormalities in the Mirror Dungeons that didn’t fight us?>"
+            "content": "<Şimdi düşününce… Ayna Zindan'da olup da bizimle savaşmayan Anomaliler de ne?>"
         },
         {
             "id": 10,
             "model": "파우스트",
-            "content": "Onlar ayna dünyadaki çatlaklardan, Anomalilerin zihinleri ve doğal ortamlarına yaptığımız bir gözlemdi."
+            "content": "Onlar ayna dünyadaki çatlaklardan, Anomalilerin zihinleri ve doğal ortamlarını görebildiğimiz kısa anlar."
         },
         {
             "id": 11,
             "model": "이상",
-            "content": "Bir çatlak, pekala dar ve dengesiz."
+            "content": "Bir dar boğaz, pekala dar ve dengesiz."
         },
         {
             "id": 12,
             "model": "파우스트",
-            "content": "Kesinlikle. Bu yüzdendir ki, sadece kısıtlı bir etkileşim kurabiliyorduk."
+            "content": "Kesinlikle. Bu yüzdendir ki, sadece kısıtlı bir etkileşim kurabiliyoruz."
         },
         {
             "id": 13,
@@ -79,24 +79,24 @@
         {
             "id": 15,
             "model": "싱클레어",
-            "content": "Yanı sıra, şu… üstünden akan iğrenç sıvı da neyin nesi?"
+            "content": "Peki, şu… üstünden akan iğrenç sıvı da neyin nesi?"
         },
         {
             "id": 16,
-            "content": "As the Sinners pointed out, the Abnormalities here were clearly different from what we’ve encountered before."
+            "content": "Günahkârların da dediği gibi, bu Anomaliler daha önce karşılaştıklarımıza hiç mi hiç benzemiyor."
         },
         {
             "id": 17,
-            "content": "This is…"
+            "content": "Bu seferki…"
         },
         {
             "id": 18,
-            "content": "It oozes a mysterious liquid with a blue glint."
+            "content": "Mavi bir parıltıya sahip değişik, iğrenç bir sıvı sızdırıyor."
         },
         {
             "id": 19,
             "model": "파우스트",
-            "content": "Yapısını analiz edecek vaktimiz yok, yani bu sıvı ile etkileşime geçmeme hususunda dikkatli olmalıyız."
+            "content": "Yapısını analiz edecek vaktimiz yok, yani bu sıvı ile etkileşime geçmeme hususunda tetikte olmalıyız."
         },
         {
             "id": 20,
@@ -111,40 +111,40 @@
         {
             "id": 22,
             "model": "싱클레어",
-            "content": "Hah? Üsytünüzde, bay Heathcliff!"
+            "content": "Hah? Üstünüzde, bay Heathcliff!"
         },
         {
             "id": 23,
-            "content": "Heathcliff was knocked to the ground, unable to resist."
+            "content": "Heathcliff bir anda yere kapaklandı, karşı koyamayarak."
         },
         {
             "id": 24,
             "model": "이스마엘",
-            "content": "Müdür… Görünüşe bakılırsa işinizi yapmanıza engel oluyorlar."
+            "content": "Müdür bey… Görünüşe bakılırsa size yine iş çıktı."
         },
         {
             "id": 25,
             "model": "오티스",
-            "content": "…Lütfen size bir uyarıda bulunduğumu unutmayın, İdari Müdür."
+            "content": "…Lütfen size uyarımı verdiğimi unutmayın, İdari Müdür."
         },
         {
             "id": 26,
             "model": "오티스",
-            "content": "Herkes! Savaşa hazırlanın!"
+            "content": "Herkes! Savaşa hazırlansın!"
         },
         {
             "id": 27,
             "model": "단테",
-            "content": "<Figured it would come to this…>"
+            "content": "<İşlerin böyle sonuçlancağını tahmin etmiştim…>"
         },
         {
             "id": 28,
-            "content": "I’ve come too far to be afraid of pulling dead Sinners back to life."
+            "content": "Ölmüş Günahkâları Kapının ardından çekmekten korkmak için fazla ilerledim"
         },
         {
             "id": 29,
             "model": "단테",
-            "content": "<Let’s beat ‘em and head back.>"
+            "content": "<Hadi şu işi bitirip geri dönelim.>"
         }
     ]
 }
