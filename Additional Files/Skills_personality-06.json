@@ -431,7 +431,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Expend Knowledge",
+          "name": "Bilgiyi Tüket",
           "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots",
           "coinlist": [
             {
@@ -445,7 +445,7 @@
         },
         {
           "level": 2,
-          "name": "Expend Knowledge",
+          "name": "Bilgiyi Tüket",
           "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] At 3+ [KnowledgeExplored], Clash Power +1",
           "coinlist": [
             {
@@ -462,7 +462,7 @@
         },
         {
           "level": 4,
-          "name": "Expend Knowledge",
+          "name": "Bilgiyi Tüket",
           "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] Clash Power +([KnowledgeExplored] - 1)",
           "coinlist": [
             {
@@ -484,7 +484,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Unveil",
+          "name": "Açığa Çıkar",
           "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
           "coinlist": [
             {},
@@ -500,7 +500,7 @@
         },
         {
           "level": 2,
-          "name": "Unveil",
+          "name": "Açığa Çıkar",
           "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] At 3+ [KnowledgeExplored], Coin Power +1",
           "coinlist": [
             {},
@@ -516,7 +516,7 @@
         },
         {
           "level": 4,
-          "name": "Unveil",
+          "name": "Açığa Çıkar",
           "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] Coin Power +([KnowledgeExplored] - 1)",
           "coinlist": [
             {},
@@ -537,7 +537,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Cyclical Knowledge",
+          "name": "Döngüsel Bilgi",
           "desc": "[WhenUse] At 2+ [KnowledgeExplored], gain Coin Power equal to [KnowledgeExplored]\n[WhenUse] Deal +1.5% more damage per [Sinking] on target (Max 15%)",
           "coinlist": [
             {},
@@ -556,7 +556,7 @@
         },
         {
           "level": 4,
-          "name": "Cyclical Knowledge",
+          "name": "Döngüsel Bilgi",
           "desc": "[WhenUse] At 2+ [KnowledgeExplored], gain Coin Power equal to [KnowledgeExplored]\n[WhenUse] Deal +3% more damage per [Sinking] on target (Max 30%)",
           "coinlist": [
             {},
