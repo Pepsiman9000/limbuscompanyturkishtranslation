@@ -2,18 +2,18 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Nest K’s Streets",
+            "place": "K Yuvası",
             "model": "파우스트",
-            "content": "Otobüsün içinden de gördüğümüz üzere… Bir Yuvanın tam ortasındayız. Beklenmedik sorunlarla karşılaşabilecek son yerlerden birinde."
+            "content": "Otobüsün içinden de gördüğümüz üzere… Bir Yuvanın içindeyiz. Beklenmedik sorunlarla karşılaşabileceğiniz son yerlerden birinde."
         },
         {
             "id": 1,
             "model": "홍루",
-            "content": "Hmm… Yani bu yaşananlar değerli anlar mı?"
+            "content": "Hmm… Yani bir nevi bu yaşananlar değerli anlar mı?"
         },
         {
             "id": 2,
-            "content": "Hong Lu dışında herkes gerilmiş, ve olayı dikkatlice gözlemlemeye başlamıştı…"
+            "content": "Her zamanki gibi kayıtsız olan Hong Lu dışında herkes gerilmiş, ve olayı dikkatlice gözlemlemeye başlamıştı…"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
         },
         {
             "id": 4,
-            "content": "Diğer taraftan birisi, alelacele bir şekilde bize doğru koşturuyordu."
+            "content": "Diğer taraftan birisi, Palas Pandıras bir şekilde bize doğru koşturdu."
         },
         {
             "id": 5,
@@ -31,19 +31,19 @@
         {
             "id": 6,
             "model": "도망치던시민",
-            "teller": "Running Civilian",
-            "title": "Nest K",
+            "teller": "Aceleci Yuva Sakini",
+            "title": "K yuvası",
             "content": "Huff, huff… O-O Tarafa sakın gitmeyin!"
         },
         {
             "id": 7,
             "model": "돈키호테",
-            "content": "Come now, you may rest easy! We have galloped hither to save innocent lives such as yours for we are—"
+            "content": "Heyat, Heyhat! Müsterih olasın! Bizler yel gibi ivedikle nice mazlumların imdadına yetiştik ki bizim şanımız—"
         },
         {
             "id": 8,
             "model": "이스마엘",
-            "content": "Bizler kahraman falan değiliz, lütfen böylesine gereksiz şeyler söyleme."
+            "content": "Bizler kahraman falan değiliz, lütfen bir daha Asakir-i Mansureyi Limbus falan deme."
         },
         {
             "id": 9,
@@ -52,19 +52,19 @@
         },
         {
             "id": 10,
-            "content": "Heathcliff'in korkutucu bakışları, ve Ishmael'in öfkeli sözleri arasında sivil, ikisinden hangisinin daha çok tehdit teşkil ettiğini sorgulamıştı bir an."
+            "content": "Heathcliff'in korkutucu bakışları, ve Ishmael'in öfkeli sözleri arasında Yuva Sakini, ikisinden hangisinin daha çok tehditkâr olduğunu kararlaştıramadı bir an."
         },
         {
             "id": 11,
             "model": "도망치던시민",
-            "teller": "Running Civilian",
+            "teller": "Aceleci Yuva Sakini",
             "title": "Nest K",
             "content": "İleride… gerçek olmaması… gereken bir şey var…"
         },
         {
             "id": 12,
             "model": "도망치던시민",
-            "teller": "Running Civilian",
+            "teller": "Aceleci Yuva Sakini",
             "title": "Nest K",
             "content": "Ne olduğunu bilmiyorum, hayatımda böyle bir şey görmedim… Herkes bağırışıp çağırışıp kaçıyordu, ve… yerlerde yuvarlanıyorlardı… çoktan kül olmuş halde…"
         },
@@ -76,7 +76,7 @@
         {
             "id": 14,
             "model": "도망치던시민",
-            "teller": "Running Civilian",
+            "teller": "Aceleci Yuva Sakini",
             "title": "Nest K",
             "content": "…Evet, haklısınız, çok haklısınız…!"
         },
@@ -118,21 +118,21 @@
         {
             "id": 22,
             "model": "단테",
-            "content": "<Neden bu Anomali bir Yuva'nın ortasında?>"
+            "content": "<Neden bu Anomali bir Yuva'nın göbeğinde?>"
         },
         {
             "id": 23,
             "model": "파우스트",
-            "content": "Bu Faust'un bilgilendirilmediği bir fenomen. Çoğu Lobotomi Kuruluşu dalı, Kanat dağıldıktan hemen sonra kapartıldı."
+            "content": "Bu Faust'un bilgilendirilmediği bir fenomen. Çoğu Lobotomi Kuruluşu Şubesi, Kanat dağıldıktan hemen sonra kapartıldı."
         },
         {
             "id": 24,
-            "content": "Yuri'nin bize bahsettiği gömülü tesis aklıma gelmiş, fakat bu kötü anıları hemen düşüncemden kaldırmıştım."
+            "content": "Yuri ile birlikte gittiğimiz yer aklıma geldimi, fakat bu kötü anıları hemen aklımdan çıkardım."
         },
         {
             "id": 25,
             "model": "파우스트",
-            "content": "Bir Anomali bu esnada firar etmiş olsa dahi, bu görevden önce bize böyle bir olayın bilgisi muhakkak olaşırdı."
+            "content": "Bir Anomali bu esnada firar etmiş olsa dahi, bu görevden önce bize böyle bir olayın bilgisi muhakkak ulaşırdı."
         },
         {
             "id": 26,
@@ -152,16 +152,16 @@
         {
             "id": 29,
             "model": "그레고르",
-            "content": "Mmh… D Kuruluşu'nun eyaletinde sağlam dayak yediğimiz günleri hatırlatıyor…"
+            "content": "Mmh… D Kuruluşu'nun Eyaletinde sağlam dayak yediğimiz günleri hatırlatıyor…"
         },
         {
             "id": 30,
             "model": "로쟈",
-            "content": "Aw, hadi be~ Önce şu tavukçu herifin götü başı ayrı oynuyor, şimdi de bunun mu? Gerçekten de harika bir karşılama…"
+            "content": "Aaa, hadi be~ Önce şu tavukçu herifin götü başı ayrı oynuyor, şimdi de bunun mu? Gerçekten de harika bir karşılama…"
         },
         {
             "id": 31,
-            "content": "Tam da yakındıkları esnada…"
+            "content": "Onlar kendi aralarında sohbete dalmışken…"
         },
         {
             "id": 32,
@@ -170,12 +170,12 @@
         },
         {
             "id": 33,
-            "content": "Anomali tarafından dağıtılan molozlar, bizi teğet geçmişti."
+            "content": "Anomali'nin etrafa saçtığı molozlardan bir tanesi, bizi teğet geçti."
         },
         {
             "id": 34,
             "model": "히스클리프",
-            "content": "Hah, napıyoruz lan biz? Mevzuyu buradan top gibi izlemenin kimseye yararı yok!"
+            "content": "Hah, napıyoruz lan biz? Mevzuy buradan top gibi izlemenin kimseye yararı yok!"
         },
         {
             "id": 35,
@@ -190,12 +190,12 @@
         {
             "id": 37,
             "model": "오티스",
-            "content": "Çok yanılıyorsun. O deli veletin saçma sözleri sonunda senin de mi beynini yıkadı?"
+            "content": "Amatörce yanılıyorsun. O Delirmiş veletin saçma sözleri sonunda senin de mi beynini yıkadı?"
         },
         {
             "id": 38,
             "model": "돈키호테",
-            "content": "Ho, hark? I prithee, who dost thou mean by this “insane brat”?"
+            "content": "Ne? Affınıza sığınırım, Zatınız acaba neyi kastetmiştir bu “Delirmiş Veled” tamlamasından?"
         },
         {
             "id": 39,
@@ -215,7 +215,7 @@
         {
             "id": 42,
             "model": "히스클리프",
-            "content": "Şu bronzunu siktiğimin boğasını öldürsek bitecek ya her şey… Ne bekliyoruz? Banka oturup şu elemanın tavukları mideye mi indireceğiz lan?!"
+            "content": "Şu bronzunu siktiğimin boğasını öldürsek bitecek ya her şey… Ne bekliyoruz? Banka oturup şu elemanın tavuklarını mideye mi indirelim lan?!"
         },
         {
             "id": 43,
@@ -250,17 +250,17 @@
         {
             "id": 49,
             "model": "오티스",
-            "content": "Biraz zaman alacak olsa ve bir çok can kaybı olsa dahi… eninde sonunda bastıracaklar. Tıpkı bizim yapacağımız gibi."
+            "content": "Biraz zaman alacak olsa ve bir çok can kaybı olsa dahi… eninde sonunda bastırılacaktır. Tıpkı bizim yapacağımız gibi."
         },
         {
             "id": 50,
             "model": "오티스",
-            "content": "Ve demeliyim ki… Her ölüm öncesi ailesi için göz yaşları döken amatör bir veletten, canımızı feda etmemizi istemesini beklemezdim.."
+            "content": "Ve demeliyim ki… Her ölümünden önce anne anne diye mızmızlayan amatör bir veletten, canımızı feda etmemizi önermesini beklemezdim.."
         },
         {
             "id": 51,
             "model": "오티스",
-            "content": "Ölüm artık senin için bir hiç, değil mi?"
+            "content": "Ölüm artık senin için bir alışılmışlık oldu, değil mi?"
         },
         {
             "id": 52,
@@ -270,7 +270,7 @@
         {
             "id": 53,
             "model": "뫼르소",
-            "content": "Eğer Günahkarlar arasında verilebilecek en iyi kararı almak istiyorsak, onu dinlememiz doğru olandır."
+            "content": "Eğer Günahkârlar arasında verilebilecek en iyi kararı almak istiyorsak, onu dinlememiz doğru olandır."
         },
         {
             "id": 54,
@@ -283,11 +283,11 @@
         },
         {
             "id": 56,
-            "content": "Saati döndürmek, her döndürüşümde acıtıyor, ki bu acı asla alışabileceğim bir şey."
+            "content": "Evet Saati döndürdüğüm zaman büyük acılar çekiyorum ve bu acılara asla alışabilecek değilim."
         },
         {
             "id": 57,
-            "content": "Fakat her şeye rağmen…"
+            "content": "Fakat yine de…"
         },
         {
             "id": 58,
@@ -302,7 +302,7 @@
         {
             "id": 60,
             "model": "히스클리프",
-            "content": "Eğer onlarla aynı boku söyleseydin, yarrağımdan küçük yelkovanlı kafanı püreye çevirip oraya fırlardım, saat kafa."
+            "content": "Eğer onlarla aynı boku söyleseydin, yarrağımdan küçük yelkovanlı kafanı püreye çevirip oraya zorla ben çevirirdim, saat kafa."
         },
         {
             "id": 61,
@@ -327,20 +327,20 @@
         {
             "id": 65,
             "model": "오티스",
-            "content": "…Bu kadar siz, yani İdari Müdürümüzden başka kimsece kararlaştırılmadı."
+            "content": "…Bu kararı siz, yani İdari Müdürümüzden başka kimsece kararlaştırılamazdı."
         },
         {
             "id": 66,
-            "content": "The Sinners walk ahead after leaving me comments."
+            "content": "Günahkârlar bana konu hakkındaki görüşlerini bildirip ilerlediler."
         },
         {
             "id": 67,
-            "content": "While all the others moved forward, Faust remained and gave me a peculiar stare."
+            "content": "Diğerleri ilerlerken Faust yerinde kaldı ve bana uzunca bir bakış attı."
         },
         {
             "id": 68,
             "model": "단테",
-            "content": "<What is it? You think my judgement was inefficient?>"
+            "content": "<Noldu? Aldığım kararımda bir sakınca mı vardı?>"
         },
         {
             "id": 69,
@@ -349,16 +349,16 @@
         },
         {
             "id": 70,
-            "content": "Faust’s strange statement held me in place for a moment, but I decided I want to deal with the questions that are immediately ahead of me first."
+            "content": "Faust'un tuhaf açıklaması beni bir an duraksattı, Ama şu anlık hemen önümde olan sorulara odaklanmaya karar verdim."
         },
         {
             "id": 71,
             "model": "단테",
-            "content": "<Faust, I’ve been wondering for a while… Are you really okay with being treated like this, considering your talent and everything?>"
+            "content": "<Faust, bir süredir aklıma takılan bir şey var… Böle bir muamele görmekten memnunmusun, barındırdığın potansiyeli ve yeneteği düşünecek olursak?>"
         },
         {
             "id": 72,
-            "content": "Someone of her caliber should have no problem enjoying a luxurious life in the City."
+            "content": "Onun zekasına sahip birisi bu Şehir'de kolaylıkla lüks bir hayat geçine bilir."
         },
         {
             "id": 73,
@@ -373,20 +373,20 @@
         {
             "id": 75,
             "model": "파우스트",
-            "content": "Günahkarlar arasında, en yaygın kullanılan tabire göre yetenekli birisini söyleyecek olursak, bu kişi… Yi Sang olurdu. Bilin ki, ben bir dahiyim."
+            "content": "Günahkârlar arasında, en yaygın kullanılan tabire göre yetenekli birisini söyleyecek olursak, bu kişi… Yi Sang olurdu. Bilin ki, ben bir dahiyim."
         },
         {
             "id": 76,
-            "content": "Yi Sang stops walking behind the other Sinners and turns around to face me."
+            "content": "Bunu duyan Yi Sang Günahkârları takip etmeyi bırakıp dana doğruldu."
         },
         {
             "id": 77,
-            "content": "Looking again, his eyes actually stare into the emptiness behind me."
+            "content": "Tekrar bakınca, gözleri aslında benim arkama, boşluğa merkuzdu."
         },
         {
             "id": 78,
             "model": "이상",
-            "content": "…Ben öyle bir güruh değilim."
+            "content": "…Ben öyle bir güruhtan değilim."
         },
         {
             "id": 79,
@@ -396,7 +396,7 @@
         {
             "id": 80,
             "model": "이상",
-            "content": "Yani, yeteneklerimi konuşmak nafiledir, Müdür."
+            "content": "Ek olarak, yeteneklerimi konuşmak nafile olacaktır, Müdür."
         },
         {
             "id": 81,
@@ -405,7 +405,7 @@
         },
         {
             "id": 82,
-            "content": "Curiously enough, I find that some Sinners feel more distant as we spend more time together."
+            "content": "Şaşırtıcı şekilde, bazı Günahkârlarla ne kadar birlikte yol alsam, o kadar benden uzaklaştıklarını hissediyorum."
         },
         {
             "id": 83,
@@ -430,16 +430,16 @@
         {
             "id": 87,
             "model": "이스마엘",
-            "content": "Yani… Güzel mi güzel bir Yuva'nın içinde böylesine bir olay yaşanırken, biraz yakından bakmak pek bir mantıklı."
+            "content": "Yani… Yediği önünde yemediği arkasında bir Yuva'nın içinde böylesine bir olay yaşanırken, Tabii ki de insanlar yakından bakmak isteyecektir."
         },
         {
             "id": 88,
-            "content": "Abashed, Ishmael mumbled."
+            "content": "Utanan Ishmael, mırıldandı."
         },
         {
             "id": 89,
             "model": "돈키호테",
-            "content": "Ohh! Will we be featured on the thing called the “news”?"
+            "content": "Ohh! Namımız şu “Haberler” dedikleri duyuru araçlarında da mı yayımlanacaktı?"
         },
         {
             "id": 90,
@@ -484,12 +484,12 @@
         {
             "id": 98,
             "model": "싱클레어",
-            "content": "Şuna da bir bakın. Neden kamerası bana kitlendi…?"
+            "content": "Şuna da bir bakın. Neden kamerası bana kilitlendi…?"
         },
         {
             "id": 99,
             "model": "료슈",
-            "content": "…Ruhsuz izleyicilerden hiç hoşlanmam."
+            "content": "…Ruhsuz müşterilerden hiç hoşlanmam."
         },
         {
             "id": 100,
@@ -513,20 +513,20 @@
         },
         {
             "id": 104,
-            "content": "Now the drones have started lining up, and formed a wall as if to stop us from proceeding any farther."
+            "content": "Dronlar bir anda hareketlendi, kordine olarak birleşip bir duvar ördüler."
         },
         {
             "id": 105,
             "model": "K사드론들",
-            "teller": "Mysterious Drone",
-            "title": "K Corp.",
+            "teller": "Gizemli Dronlar",
+            "title": "K Kuruluşu.",
             "content": "Merhaba, vatandaşlar. Lütfen güvenliğiniz için, on metrelik mesafesinizi koruyun."
         },
         {
             "id": 106,
             "model": "K사드론들",
-            "teller": "Mysterious Drone",
-            "title": "K Corp.",
+            "teller": "Gizemli Dronlar",
+            "title": "K Kuruluşu.",
             "content": "K Kuruluşu yetkilileri olaya müdahale ediyor. Güvenliğiniz emin ellerde. Lütfen on metrelik mesafenizi koruyun."
         },
         {
@@ -537,8 +537,8 @@
         {
             "id": 108,
             "model": "K사드론들",
-            "teller": "Mysterious Drone",
-            "title": "K Corp.",
+            "teller": "Gizemli Dronlar",
+            "title": "K Kuruluşu.",
             "content": "Merhaba, vatandaşlar. Lütfen güvenliğiniz için, on metrelik mesafesinizi koruyun."
         },
         {
