@@ -2110,21 +2110,21 @@
         },
         {
             "id": "DevyatDimensionalSack",
-            "name": "Kurye Zulası - Rodion",
-            "desc": "- Base Value: 0\n- Turn Start: gain 3 Stack\n- Stack does not expire upon Retreat; it is stored instead\n- At 10+ Stack: raise Min & Maks Speed values by 1\n- At 20+ Stack: Gain 1 Clash Power Up and 1 Slash Damage Up\n- At 30+ Stack:\n· On Skill Use, take (Stack/3)% HP damage and (Stack/3) SP damage\n· On Turn End, take (Stack/2)% HP damage and (Stack/2) SP damage (applies before Retreat)",
+            "name": "Kurye Kasası - Rodion",
+            "desc": "- Taban Değer: 0\n- Tur Başlangıcı: 3 Yığın kazan\n- Yığın, Çekilince bitmez; depolanır\n- 10+ Yığında: Min & Maks Hız değerlerini 1 artır\n- 20+ Yığında: 1 Çarpışma Gücü Artışı ve 1 Kesme Hasarı Artışı kazan\n- 30+ Yığında:\n· Herhangi Yetenek Kullanıldığında, (Yığın/3)% HP hasarı ve (Yığın/3) SP hasarı al\n· Tur Sonu, (Yığın/2)% HP ve (Yığın/2) SP hasarı al (Çekilmeden önce hesaplanır)",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "Retreat",
-            "name": "Stratejik Dinlenme",
-            "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)",
+            "name": "Stratejik Git-Gel Modu",
+            "desc": "- Tur Sonu: Sersemlemeden kurtul ve Karşılaşmadan Çekil (zorunlu Sersemlemeyse aktive olmaz; aktive olduğunda ölüm sayılmaz)\n· Zincirleme Karşılaşmalarda, Yetenek Yuvalarını Yedekten gelen Müttefiğe ver ve sahaya sürülme sırasında en arkaya git (Yer değiştirecek bir Yedek Müttefik yoksa, karşılaşmadan tamamen kaçar.)\n· Savaşa dönerken, Çekilirken sahip olduğu HP ve SP miktarlarıyla döner (Eğer Çekilmeden önce 0'dan az SP vardı ise, SP'yi 0'a çek)",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "DefensiveStance",
-            "name": "Savunmaif Duruş",
+            "name": "Savunma Duruşu",
             "desc": "- Maks Değer: 2\n- This effect does not compound in potency; stacking it only extends its duration.\n- Reduced by 1 at Turn End\n- When a unit gains this effect, gain the following effects next turn:\n  · Fix this unit's Speed to its minimum value\n  · Gain 5 Defense Level Up\n  · Each of this unit's Slots gain +(10 / this unit's # of Slots) Aggro\n  · When chaining Skills, this unit can draw enemies' attack toward this unit regardless of Speed (Focused Encounters only)\n  · Upon Clash Win, trigger Tremor Burst\n  · Cannot be Staggered by damage",
             "summary": ""
         },
