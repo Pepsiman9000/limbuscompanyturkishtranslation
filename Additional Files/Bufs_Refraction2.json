@@ -2,64 +2,64 @@
   "dataList": [
     {
       "id": "TipsinessRail",
-      "name": "Tipsy",
-      "desc": "Clash Power -{0} (Max 5)",
-      "summary": "Lose Clash Power by the effect's Count"
+      "name": "Çakırkeyif",
+      "desc": "Çarpışma Gücü -{0} (Maks 5)",
+      "summary": "Bu etkinin Miktarı kadar Çarpışma Gücü kaybet"
     },
     {
       "id": "PassedPortal_Red",
-      "name": "Hemorrhaging Dimension",
-      "desc": "Pass through the Dimensional Rift to gain +{0}0% Damage Up"
+      "name": "Kanamalı Boyut",
+      "desc": "Boyutsal Yarıktan geçerek +{0}0% Hasar Artışı kazan"
     },
     {
       "id": "PassedPortal_Green",
-      "name": "Poisonous Dimension",
-      "desc": "Pass through the Dimensional Rift to gain +20% Max HP"
+      "name": "Zehirli Boyut",
+      "desc": "Boyutsal Yarıktan geçerek +%20 Maksimum HP kazan"
     },
     {
       "id": "PassedPortal_Yellow",
-      "name": "Tremoring Dimension",
-      "desc": "Pass through the Dimensional Rift to gain {0} Speed"
+      "name": "Sarsıntılı Boyut",
+      "desc": "Boyutsal Yarıktan geçerek {0} Hız kazan"
     },
     {
       "id": "PassedPortal_Blue",
-      "name": "Electrifying Dimension",
-      "desc": "Pass through the Dimensional Rift to gain Coin Power +{0}"
+      "name": "Elektrikli Boyut",
+      "desc": "Boyutsal Yarıktan geçerek Jeton Gücü +{0} kazan"
     },
     {
       "id": "FairyCharm",
-      "name": "Charmed",
-      "desc": "- All damage dealt to Fairy reduced to 0.\n- Expires when Fairy dies.",
-      "summary": "Damage fixed to 0"
+      "name": "Büyülenmiş",
+      "desc": "- Periye verilen tüm hasar 0'a düşer.\n- Peri öldüğünde sona erer.",
+      "summary": "Hasar 0'a sabitlendi"
     },
     {
       "id": "DecoyRegenerated",
-      "name": "Regenerate",
-      "desc": "Number of Charmed Units +1 every time a part is restored",
+      "name": "Yenilenme",
+      "desc": "Bir uzuv her yenilendiğinde Büyülenmiş Birim sayısı +1 artar",
       "summary": ""
     },
     {
       "id": "WaveFoxUmbrella",
-      "name": "Protection Umbrella",
-      "desc": "All parts gain Protection equal to {0}\nWhen using Waiting Skill, Summon {0} Old Umbrella\n1 Spent every time an Umbrella is broken."
+      "name": "Koruma Şemsiyesi",
+      "desc": "Tüm uzuvlar {0} kadar Korunma kazanır\nBekleme Yeteneği kullanıldığında, {0} Eski Şemsiye çağırır\nBir Şemsiye her kırıldığında 1 azalır."
     },
     {
       "id": "InterlockingTime_Re",
-      "name": "Interlocking Time",
-      "desc": "Reduce final damage by 30% and store it. At 3 Count, take fixed damage by 2 times the accumulated damage, and gain 3 Bind next turn.",
-      "summary": "Reduce final damage by 30% and store it. At 3 Count, take fixed damage by 2 times the accumulated damage, and gain 3 Bind next turn."
+      "name": "Kilitlenen Zaman",
+      "desc": "Final hasarı %30 azaltır ve biriktirir. 3 Miktara ulaşıldığında, biriken hasarın 2 katı kadar sabit hasar al ve sonraki tur 3 Yavaşlama kazan.",
+      "summary": "Final hasarı %30 azalt ve biriktir. 3 Miktara ulaşıldığında, biriken hasarın 2 katı kadar sabit hasar al ve sonraki tur 3 Yavaşlama kazan."
     },
     {
       "id": "TimeRental_Re",
-      "name": "Borrowed Time",
-      "desc": "At the end of the turn, gain 3 Haste, 2 Damage Up, and 2 Offense Level Up; If only 1 Count remains at the end of the turn, gain 3 Bind, 1 Attack Power Down, and 2 Fragile next turn",
-      "summary": "At the end of the turn, gain 3 Haste, 2 Damage Up, and 2 Offense Level Up; If only 1 Count remains at the end of the turn, gain 3 Bind, 1 Attack Power Down, and 2 Fragile next turn"
+      "name": "Ödünç Alınan Zaman",
+      "desc": "Tur sonunda 3 Hızlanma, 2 Hasar Artışı ve 2 Saldırı Seviyesi Artışı kazan; Eğer tur sonunda sadece 1 Miktar kalırsa, sonraki tur 3 Yavaşlama, 1 Saldırı Gücü Azalışı ve 2 Kırılganlık kazan",
+      "summary": "Tur sonunda 3 Hızlanma, 2 Hasar Artışı ve 2 Saldırı Seviyesi Artışı kazan; Eğer tur sonunda sadece 1 Miktar kalırsa, sonraki tur 3 Yavaşlama, 1 Saldırı Gücü Azalışı ve 2 Kırılganlık kazan"
     },
     {
       "id": "ReattachedCurseTag_Re",
-      "name": "Reattached Curse Talisman",
-      "desc": "At 9+, gain 5 Bind at the start of the turn.\nAt 12+, gain 5 Attack Power Down at the start of the turn. (Max 12)",
-      "summary": "At 9+, gain 5 Bind at the start of the turn.\nAt 12+, gain 5 Attack Power Down at the start of the turn."
+      "name": "Yeniden Takılmış Lanet Tılsımı",
+      "desc": "9+ olduğunda, tur başında 5 Yavaşlama kazan.\n12+ olduğunda, tur başında 5 Saldırı Gücü Azalışı kazan. (Maksimum 12)",
+      "summary": "9+ olduğunda, tur başında 5 Yavaşlama kazan.\n12+ olduğunda, tur başında 5 Saldırı Gücü Azalışı kazan."
     },
     {
       "id": "WrappedCurseTagRe",
