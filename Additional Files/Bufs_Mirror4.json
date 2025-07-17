@@ -2,238 +2,238 @@
   "dataList": [
     {
       "id": "MDEMaa",
-      "name": "Defense Level Up",
-      "desc": "Defense Level +2"
+      "name": "Savunma Seviyesi Artışı",
+      "desc": "Savunma Seviyesi +2"
     },
     {
       "id": "MDEMab",
-      "name": "Defense Skill Up",
-      "desc": "Defense Skill Final Power +1"
+      "name": "Savunma Yeteneği Artışı",
+      "desc": "Savunma Yeteneği Final Gücü +1"
     },
     {
       "id": "MDEMac",
-      "name": "Offense Level Up",
-      "desc": "Offense Level +1"
+      "name": "Saldırı Seviyesi Artışı",
+      "desc": "Saldırı Seviyesi +1"
     },
     {
       "id": "MDEMad",
-      "name": "Max HP Up",
-      "desc": "Max HP +5%"
+      "name": "Maksimum HP Artışı",
+      "desc": "Maksimum HP +%5"
     },
     {
       "id": "MDEMae",
-      "name": "Take Less Damage",
-      "desc": "Damage Taken -5%"
+      "name": "Daha Az Hasar Alma",
+      "desc": "Alınan Hasar -%5"
     },
     {
       "id": "MDEMca",
-      "name": "Body Corpulence",
-      "desc": "Offense Level +2, Defense Level +2, Max HP +5%"
+      "name": "Vücut İriliği",
+      "desc": "Saldırı Seviyesi +2, Savunma Seviyesi +2, Maksimum HP +%5"
     },
     {
       "id": "MDEMcb",
-      "name": "Body Reinforcement",
-      "desc": "Offense Level +2, Defense Level +4"
+      "name": "Vücut Takviyesi",
+      "desc": "Saldırı Seviyesi +2, Savunma Seviyesi +4"
     },
     {
       "id": "MDEMcc",
-      "name": "Max HP Up",
-      "desc": "Max HP +20%"
+      "name": "Maksimum HP Artışı",
+      "desc": "Maksimum HP +%20"
     },
     {
       "id": "MDEMcd",
-      "name": "Final Attack Boost",
-      "desc": "Final Power +1, Max HP +5%"
+      "name": "Final Saldırı Artışı",
+      "desc": "Final Gücü +1, Maksimum HP +%5"
     },
     {
       "id": "MDEMce",
-      "name": "Base Attack Boost",
-      "desc": "Base Power +1, Max HP +5"
+      "name": "Taban Saldırı Artışı",
+      "desc": "Taban Gücü +1, Maksimum HP +5"
     },
     {
       "id": "MDEMcf",
-      "name": "Clash Attack Boost",
-      "desc": "Clash Power +2, Defense Level -3"
+      "name": "Çarpışma Saldırı Artışı",
+      "desc": "Çarpışma Gücü +2, Savunma Seviyesi -3"
     },
     {
       "id": "MDEMcg",
-      "name": "Final Power Up",
-      "desc": "Final Power +1, Defense Skill Final Power+1"
+      "name": "Final Gücü Artışı",
+      "desc": "Final Gücü +1, Savunma Yeteneği Final Gücü+1"
     },
     {
       "id": "MDEMda",
-      "name": "Body Growth",
-      "desc": "Offense Level +3, Defense Level +2, Max HP +10%"
+      "name": "Vücut Gelişimi",
+      "desc": "Saldırı Seviyesi +3, Savunma Seviyesi +2, Maksimum HP +%10"
     },
     {
       "id": "MDEMdb",
-      "name": "Body Fortification",
-      "desc": "Offense Level +5, Max HP +7.5%"
+      "name": "Vücut Güçlendirmesi",
+      "desc": "Saldırı Seviyesi +5, Maksimum HP +%7.5"
     },
     {
       "id": "MDEMdc",
-      "name": "Base Combat Gear",
-      "desc": "Base Power +1, Defense Level +3, Max HP +5%"
+      "name": "Temel Çatışma Donanımı",
+      "desc": "Taban Gücü +1, Savunma Seviyesi +3, Maksimum HP +%5"
     },
     {
       "id": "MDEMdd",
-      "name": "Final Combat Gear",
-      "desc": "Final Power +1, Defense Level -2, Max HP +17.5%"
+      "name": "Final Çatışma Donanımı",
+      "desc": "Final Gücü +1, Savunma Seviyesi -2, Maksimum HP +%17.5"
     },
     {
       "id": "MDEMde",
-      "name": "Defense Gear",
-      "desc": "Defense Level +3, Max HP +22.5%"
+      "name": "Savunma Donanımı",
+      "desc": "Savunma Seviyesi +3, Maksimum HP +%22.5"
     },
     {
       "id": "MDEMdf",
-      "name": "Coin Attack Boost",
-      "desc": "Plus Coin Power +1, Minus Coin Power -1, Defense Level +2"
+      "name": "Jeton Saldırı Artışı",
+      "desc": "Pozitif Jeton Gücü +1, Negatif Jeton Gücü -1, Savunma Seviyesi +2"
     },
     {
       "id": "MDEMdg",
-      "name": "Peerless Might",
-      "desc": "Base Power +1, Plus Coin Power +1, Minus Coin Power -1"
+      "name": "Eşsiz Kudret",
+      "desc": "Taban Gücü +1, Pozitif Jeton Gücü +1, Negatif Jeton Gücü -1"
     },
     {
       "id": "MDEMdh",
-      "name": "Eyes and Teeth for an Eye",
-      "desc": "Damage Taken -25%, Damage Dealt +25%"
+      "name": "Göze Göz, Dişe Diş",
+      "desc": "Alınan Hasar -%25, Verilen Hasar +%25"
     },
     {
       "id": "MDHMaa",
-      "name": "Amplify Body I",
-      "desc": "Offense Level +1, Defense Level +1"
+      "name": "Vücut Güçlendirme I",
+      "desc": "Saldırı Seviyesi +1, Savunma Seviyesi +1"
     },
     {
       "id": "MDHMab",
-      "name": "Durable",
-      "desc": "Defense Level +2, Defense Skill Final Power +1"
+      "name": "Dayanıklı",
+      "desc": "Savunma Seviyesi +2, Savunma Yeteneği Final Gücü +1"
     },
     {
       "id": "MDHMac",
-      "name": "Expand Body I",
-      "desc": "Defense Level +1, Max HP +5%"
+      "name": "Vücut Genişletme I",
+      "desc": "Savunma Seviyesi +1, Maksimum HP +%5"
     },
     {
       "id": "MDHMad",
-      "name": "Max HP Boost I",
-      "desc": "Max HP +7.5%"
+      "name": "Maksimum HP Artışı I",
+      "desc": "Maksimum HP +%7.5"
     },
     {
       "id": "MDHMae",
-      "name": "Damage Taken Down",
-      "desc": "Damage Taken -7.5%"
+      "name": "Alınan Hasarı Azalt",
+      "desc": "Alınan Hasar -%7.5"
     },
     {
       "id": "MDHMba",
-      "name": "Amplify Body II",
-      "desc": "Offense Level +2, Defense Level +2, Max HP +5%"
+      "name": "Vücut Güçlendirme II",
+      "desc": "Saldırı Seviyesi +2, Savunma Seviyesi +2, Maksimum HP +%5"
     },
     {
       "id": "MDHMbb",
-      "name": "Expand Body II",
-      "desc": "Offense Level +2, Max HP +10%"
+      "name": "Vücut Genişletme II",
+      "desc": "Saldırı Seviyesi +2, Maksimum HP +%10"
     },
     {
       "id": "MDHMbc",
-      "name": "Final Power Boost I",
-      "desc": "Final Power +1, Max HP +5%"
+      "name": "Final Gücü Artışı I",
+      "desc": "Final Gücü +1, Maksimum HP +%5"
     },
     {
       "id": "MDHMbd",
-      "name": "Base Power Boost I",
-      "desc": "Base Power +1, Defense Level +1"
+      "name": "Taban Gücü Artışı I",
+      "desc": "Taban Gücü +1, Savunma Seviyesi +1"
     },
     {
       "id": "MDHMbe",
-      "name": "Resilient I",
-      "desc": "Defense Level +4, Max HP +10%"
+      "name": "Dirençli I",
+      "desc": "Savunma Seviyesi +4, Maksimum HP +%10"
     },
     {
       "id": "MDHMbf",
-      "name": "Take an Eye I",
-      "desc": "Damage Taken -10%, Damage Dealt +10%"
+      "name": "Göze Göz I",
+      "desc": "Alınan Hasar -%10, Verilen Hasar +%10"
     },
     {
       "id": "MDHMca",
-      "name": "Amplify Body III",
-      "desc": "Offense Level +4, Defense Level +3, Max HP +7.5%"
+      "name": "Vücut Güçlendirme III",
+      "desc": "Saldırı Seviyesi +4, Savunma Seviyesi +3, Maksimum HP +%7.5"
     },
     {
       "id": "MDHMcb",
-      "name": "Expand Body III",
-      "desc": "Offense Level +4, Max HP +15%"
+      "name": "Vücut Genişletme III",
+      "desc": "Saldırı Seviyesi +4, Maksimum HP +%15"
     },
     {
       "id": "MDHMcc",
-      "name": "Final Power Boost II",
-      "desc": "Final Power +1, Defense Level +6"
+      "name": "Final Gücü Artışı II",
+      "desc": "Final Gücü +1, Savunma Seviyesi +6"
     },
     {
       "id": "MDHMcd",
-      "name": "Base Power Boost II",
-      "desc": "Base Power +1, Defense Level +5"
+      "name": "Taban Gücü Artışı II",
+      "desc": "Taban Gücü +1, Savunma Seviyesi +5"
     },
     {
       "id": "MDHMce",
-      "name": "Final Power Boost III",
-      "desc": "Final Power +2, Defense Level -2, Max HP +5%"
+      "name": "Final Gücü Artışı III",
+      "desc": "Final Gücü +2, Savunma Seviyesi -2, Maksimum HP +%5"
     },
     {
       "id": "MDHMcf",
-      "name": "Max HP Boost II",
-      "desc": "Max HP +30%"
+      "name": "Maksimum HP Artışı II",
+      "desc": "Maksimum HP +%30"
     },
     {
       "id": "MDHMcg",
-      "name": "Clash Attack Boost I",
-      "desc": "Clash Power +2, Max HP +7.5%"
+      "name": "Çarpışma Gücü Artışı I",
+      "desc": "Çarpışma Gücü +2, Maksimum HP +%7.5"
     },
     {
       "id": "MDHMda",
-      "name": "Amplify Body IV",
-      "desc": "Offense Level +6, Defense Level +6, Max HP +15%"
+      "name": "Vücut Güçlendirme IV",
+      "desc": "Saldırı Seviyesi +6, Savunma Seviyesi +6, Maksimum HP +%15"
     },
     {
       "id": "MDHMdb",
-      "name": "Expand Body IV",
-      "desc": "Offense Level +4, Defense Level +3, Max HP +30%"
+      "name": "Vücut Genişletme IV",
+      "desc": "Saldırı Seviyesi +4, Savunma Seviyesi +3, Maksimum HP +%30"
     },
     {
       "id": "MDHMdc",
-      "name": "Final Power Boost IV",
-      "desc": "Final Power +2, Max HP +25%"
+      "name": "Final Gücü Artışı IV",
+      "desc": "Final Gücü +2, Maksimum HP +%25"
     },
     {
       "id": "MDHMdd",
-      "name": "Base Power Boost III",
-      "desc": "Base Power +1, Final Power +1, Max HP +20%"
+      "name": "Taban Gücü Artışı III",
+      "desc": "Taban Gücü +1, Final Gücü +1, Maksimum HP +%20"
     },
     {
       "id": "MDHMde",
-      "name": "Resilient II",
-      "desc": "Defense Level +9, Max HP +30%"
+      "name": "Dirençli II",
+      "desc": "Savunma Seviyesi +9, Maksimum HP +%30"
     },
     {
       "id": "MDHMdf",
-      "name": "Coin Power Boost",
-      "desc": "Plus Coin Power +2, Minus Coin Power -2"
+      "name": "Jeton Gücü Artışı",
+      "desc": "Pozitif Jeton Gücü +2, Negatif Jeton Gücü -2"
     },
     {
       "id": "MDHMdg",
-      "name": "Clash Attack Boost II",
-      "desc": "Clash Power +2, Max HP +30%"
+      "name": "Çarpışma Gücü Artışı II",
+      "desc": "Çarpışma Gücü +2, Maksimum HP +%30"
     },
     {
       "id": "MDHMdh",
-      "name": "Headstrong",
-      "desc": "Damage Taken -50%, Damage Dealt +50%"
+      "name": "Dik Başlı",
+      "desc": "Alınan Hasar -%50, Verilen Hasar +%50"
     },
     {
       "id": "AccumulatedPastMirror",
-      "name": "Accumulated Past",
-      "desc": "Gain 11 at the end of the Turn.\nSpent completely when the Body Part is broken."
+      "name": "Birikmiş Geçmiş",
+      "desc": "Tur sonunda 11 Kazan.\nParçalanmış Vücut Parçası kırıldığında tamamen kullanılır."
     }
   ]
 }
