@@ -5,7 +5,7 @@
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "The Middle",
-            "content": "'Bendeniz Ortanın küçük <ruby=   1>hemşiresi</ruby>  DON QUİXOTE... \n <size=24>1= küçük kardeş</size> "
+            "content": "Bendeniz Ortanın küçük hemşiresi<ruby=  1> </ruby>  DON QUİXOTE... \n <size=24>1= küçük kardeş</size> "
         },
         {
             "id": 1,
@@ -19,14 +19,14 @@
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "The Middle",
-            "content": "Bendeniz Ortanın küçük <ruby=*   1>hemşiresi</ruby>  DON QUİXOTE \n <size=24>1= küçük kardeş</size> "
+            "content": "Bendeniz Ortanın küçük hemşiresi <ruby=* 1> </ruby>  DON QUİXOTE \n <size=24>1= küçük kardeş</size> "
         },
         {
             "id": 3,
             "model": "돈키호테",
             "teller": "Don Quixote",
             "title": "The Middle",
-            "content": "Bendeniz Ortanın küçük <ruby=*      1>hemşiresi</ruby>  DON QUİXOTE \n <size=24>1= küçük kardeş</size> ?!"
+            "content": "<size=24>1= küçük kardeş</size> \n Bendeniz Ortanın küçük hemşiresi<ruby=* 1> </ruby> DON QUİXOTE \n ?!"
         },
         {
             "id": 4,
