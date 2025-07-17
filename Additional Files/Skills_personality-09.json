@@ -762,7 +762,7 @@
         {
           "level": 4,
           "name": "Kurye Çantası - Çürütme Bıçağı",
-          "desc": "<style=\"highlight\">Kendi üzerindeki her 10 [DevyatDimensionalSack] veya hedefteki her 6 [Burst] için Jeton Gücü +1 (maks 2)</style>\n[WhenUse] Eğer hedefte 15+ [Burst] ve 3+ [Burst] Miktarı varsa: Bu Yetenek vururken hedefin [Burst] Miktarını harcamaz, fakat vuruş etkileri ile [Burst] de uygulamaz",
+          "desc": "<style=\"highlight\">Kendi üzerindeki her 10 [DevyatDimensionalSack] veya hedefteki her 6 [Burst] başına Jeton Gücü +1 (maks 2)</style>\n[WhenUse] Eğer hedefte 15+ [Burst] ve 3+ [Burst] Miktarı varsa: Bu Yetenek vururken hedefin [Burst] Miktarını harcamaz, fakat vuruş etkileri ile [Burst] de uygulamaz",
           "coinlist": [
             {
               "coindescs": [
@@ -807,7 +807,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Kendi üzerindeki her 10 [DevyatDimensionalSack] veya hedefteki her 5 [Burst] için 1 [DefenseDown] uygula (maks 2, tur başına bir kere)"
+                  "desc": "[OnSucceedAttack] Kendi üzerindeki her 10 [DevyatDimensionalSack] veya hedefteki her 5 [Burst] başına 1 [DefenseDown] uygula (maks 2, tur başına bir kere)"
                 }
               ]
             }
@@ -816,7 +816,7 @@
         {
           "level": 2,
           "name": "Kurye Çantası - Açılış",
-          "desc": "<style=\"highlight\">Kendi üzerindeki her 10 [DevyatDimensionalSack] veya hedefteki her 6 [Burst] için Jeton Gücü +1 (maks 2)</style>\n[WhenUse] Eğer hedefte 15+ [Burst] ve 3+ [Burst] Miktarı varsa: Bu Yetenek vururken hedefin [Burst] Miktarını harcamaz",
+          "desc": "<style=\"highlight\">Kendi üzerindeki her 10 [DevyatDimensionalSack] veya hedefteki her 6 [Burst] başına Jeton Gücü +1 (maks 2)</style>\n[WhenUse] Eğer hedefte 15+ [Burst] ve 3+ [Burst] Miktarı varsa: Bu Yetenek vururken hedefin [Burst] Miktarını harcamaz",
           "coinlist": [
             {
               "coindescs": [
@@ -835,7 +835,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Kendi üzerindeki her <style=\"highlight\">5</style> [DevyatDimensionalSack] veya hedefteki her 5 [Burst] için 1 [DefenseDown] uygula (maks <style=\"highlight\">4</style>, tur başına bir kere)"
+                  "desc": "[OnSucceedAttack] Kendi üzerindeki her <style=\"highlight\">5</style> [DevyatDimensionalSack] veya hedefteki her 5 [Burst] başına 1 [DefenseDown] uygula (maks <style=\"highlight\">4</style>, tur başına bir kere)"
                 }
               ]
             }
@@ -844,26 +844,26 @@
         {
           "level": 4,
           "name": "Kurye Çantası - Açılış",
-          "desc": "<style=\"highlight\">Deal +2% more damage for every [DevyatDimensionalSack] on self (maks 40%)</style>\nCoin Power +1 for every 10 [DevyatDimensionalSack] or for every 6 [Burst] on target (maks 2)\n[WhenUse] Eğer hedefte 15+ [Burst] ve 3+ [Burst] Miktarı varsa: Bu Yetenek vururken hedefin [Burst] Miktarını harcamaz",
+          "desc": "<style=\"highlight\">Kendi üzerindeki her [DevyatDimensionalSack] başına +2% Hasar (maks 40%)</style>\nKendi üzerindeki her 10 [DevyatDimensionalSack] veya hedefteki her 6 [Burst] başına Jeton Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 15+ [Burst] ve 3+ [Burst] Miktarı varsa: Bu Yetenek vururken hedefin [Burst] Miktarını harcamaz",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 1 [DevyatDimensionalSack] kazan\n- If this unit has less than 15 [DevyatDimensionalSack], gain <style=\"highlight\">2</style> additional [DevyatDimensionalSack]"
+                  "desc": "[OnSucceedAttack] 1 [DevyatDimensionalSack] kazan\n- Eğer 15'ten daha az [DevyatDimensionalSack] varsa, <style=\"highlight\">2</style> tane daha [DevyatDimensionalSack] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Agility] kazan (tur başına bir kere)\n<style=\"highlight\">- At 15+ [DevyatDimensionalSack], gain 1 additional [Agility]</style>"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Agility] kazan (tur başına bir kere)\n<style=\"highlight\">- 15+ [DevyatDimensionalSack] varsa, l [Agility] daha kazan</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 5 [DevyatDimensionalSack] on self or for every 5 [Burst] on target (maks <style=\"highlight\">6</style>, tur başına bir kere)"
+                  "desc": "[OnSucceedAttack] Kendi üzerindeki her 5 [DevyatDimensionalSack] veya hedefteki her 5 [Burst] başına 1 [DefenseDown] uygula (maks <style=\"highlight\">6</style>, tur başına bir kere)"
                 }
               ]
             }
@@ -876,24 +876,24 @@
       "levelList": [
         {
           "level": 3,
-          "name": "I Trust Ya, Polu!",
-          "desc": "Deal +2% more damage for every [DevyatDimensionalSack] (maks 40%)\nAt 10+ [DevyatDimensionalSack] on self, or if target has 6+ [Burst], Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its On Hit effects; instead, Reuse its last Coin",
+          "name": "Güvendim Sana, Polu!",
+          "desc": "Her [DevyatDimensionalSack] başına +2% Hasar (maks 40%)\nKendi üzerinde 10+ [DevyatDimensionalSack], veya hedefte 6+ [Burst] varsa, Jeton Gücü +1\n[WhenUse] Eğer hedefte 15+ [Burst] ve 3+ [Burst] Miktarı varsa: Bu Yetenek vururken hedefin [Burst] Miktarını harcamaz, bunun yerine, son Jetonu yeniden kullan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count (tur başına bir kere)"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı uygula (tur başına bir kere)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 15+ [DevyatDimensionalSack], deal +15% more damage"
+                  "desc": "[OnSucceedAttack] 15+ [DevyatDimensionalSack] varsa, +15% Hasar"
                 },
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, Sonraki tur 1 [Agility] kazan (tur başına bir kere)"
+                  "desc": "[EndSkill] Eğer hedef ölmüş veya Sersemlemişse, sonraki tur 1 [Agility] kazan (tur başına bir kere)"
                 }
               ]
             }
@@ -901,24 +901,24 @@
         },
         {
           "level": 4,
-          "name": "I Trust Ya, Polu!",
-          "desc": "Deal <style=\"highlight\">+4%</style> more damage for every [DevyatDimensionalSack] (maks <style=\"highlight\">80%</style>)\n<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] on self or for every 6 [Burst] on target (maks 2)</style>\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its On Hit effects; instead, Reuse its last Coin",
+          "name": "Güvendim Sana, Polu!",
+          "desc": "Kendi üzerindeki her [DevyatDimensionalSack] başına <style=\"highlight\">+4%</style> Hasar (maks <style=\"highlight\">80%</style>)\n<style=\"highlight\">Kendi üzerindeki her 10 [DevyatDimensionalSack] veya hedefteki her 6 [Burst] başına Jeton Gücü +1 (maks 2)</style>\n[WhenUse] Eğer hedefte 15+ [Burst] ve 3+ [Burst] Miktarı varsa: Bu Yetenek vururken hedefin [Burst] Miktarını harcamaz, bunun yerine, son Jetonu yeniden kullan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count (tur başına bir kere)\n<style=\"highlight\">- Inflict +1 more [Burst] Count for every 10 [DevyatDimensionalSack] (maks 2)</style>"
+                  "desc": "[OnSucceedAttack] +3 [Burst] Miktarı uygula (tur başına bir kere)\n<style=\"highlight\">- Her 10 [DevyatDimensionalSack] başına +1 [Burst] Miktarı daha uygula (maks 2)</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 15+ [DevyatDimensionalSack], deal <style=\"highlight\">+25%</style> more damage"
+                  "desc": "[OnSucceedAttack] 15+ [DevyatDimensionalSack] varsa, <style=\"highlight\">+25%</style> Hasar"
                 },
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, gain <style=\"highlight\">2</style> [Agility] next turn (tur başına bir kere)"
+                  "desc": "[EndSkill] Eğer hedef ölmüş veya Sersemlemişse, sonraki tur <style=\"highlight\">2</style> [Agility] kazan (tur başına bir kere)"
                 }
               ]
             }
@@ -931,16 +931,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Courier Support & Control Sequence",
-          "desc": "[StartBattle] At 15+ [DevyatDimensionalSack], activate 'Just... a Strategic Time Off!' instead (tur başına bir kere)\n[StartBattle] If this Skill is to be activated, gain ([DevyatDimensionalSack]/2)% of this unit's max HP as Shield (maks 15%, tur başına bir kere)\n[WhenUse] Gain 2 [DevyatDimensionalSack] (tur başına bir kere)\n- At less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]",
+          "name": "Kurye Desteği & Kontrol Sırası",
+          "desc": "[StartBattle] 15+ [DevyatDimensionalSack] varsa, bu Yetenek yerine 'Yalnızca... Taktiksel Bir Mola!' kullan (tur başına bir kere)\n[StartBattle] (Bu birimin HP'sinin [DevyatDimensionalSack]/2)%si kadar kalkan kazan (maks 15%, tur başına bir kere)\n[WhenUse] 2 [DevyatDimensionalSack] kazan (tur başına bir kere)\n- Eğer 15'ten daha az [DevyatDimensionalSack] varsa, 1 tane daha [DevyatDimensionalSack] kazan",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Courier Support & Control Sequence",
-          "desc": "[StartBattle] At 15+ [DevyatDimensionalSack], activate 'Just... a Strategic Time Off!' instead (tur başına bir kere)\n[StartBattle] If this Skill is to be activated, gain <style=\"highlight\">([DevyatDimensionalSack])%</style> of this unit's max HP as Shield (maks <style=\"highlight\">25%</style>, tur başına bir kere)\n[WhenUse] Gain 2 [DevyatDimensionalSack] (tur başına bir kere)\n- At less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]",
+          "name": "Kurye Desteği & Kontrol Sırası",
+          "desc": "[StartBattle] 15+ [DevyatDimensionalSack] varsa, bu Yetenek yerine 'Yalnızca... Taktiksel Bir Mola!' kullan (tur başına bir kere)\n[StartBattle] (Bu birimin HP'sinin <style=\"highlight\">([DevyatDimensionalSack])%</style> kadar kalkan kazan (maks <style=\"highlight\">25%</style>, tur başına bir kere)\n[WhenUse] 2 [DevyatDimensionalSack] kazan (tur başına bir kere)\n- Eğer 15'ten daha az [DevyatDimensionalSack] varsa, 1 tane daha [DevyatDimensionalSack] kazan",
           "coinlist": [
             {}
           ]
@@ -952,16 +952,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Just... a Strategic Time Off!",
-          "desc": "[StartBattle] If this Skill is to be activated, gain ([DevyatDimensionalSack]/2)% of this unit's max HP as Shield (maks 15%, tur başına bir kere)\n[EndBattle] Activate [Retreat]",
+          "name": "Yalnızca... Taktiksel Bir Mola!",
+          "desc": "[StartBattle] (Bu birimin HP'sinin [DevyatDimensionalSack]/2)%si kadar kalkan kazan (maks 15%, tur başına bir kere)\n[EndBattle] [Retreat] aktive et",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Just... a Strategic Time Off!",
-          "desc": "[StartBattle] If this Skill is to be activated, gain <style=\"highlight\">([DevyatDimensionalSack])%</style> of this unit's max HP as Shield (maks <style=\"highlight\">25%</style>, tur başına bir kere)\n[EndBattle] Activate [Retreat]",
+          "name": "Yalnızca... Taktiksel Bir Mola!",
+          "desc": "[StartBattle] (Bu birimin HP'sinin <style=\"highlight\">([DevyatDimensionalSack])%</style> kadar kalkan kazan (maks <style=\"highlight\">25%</style>, tur başına bir kere)\n[EndBattle] [Retreat] aktive et",
           "coinlist": [
             {}
           ]
