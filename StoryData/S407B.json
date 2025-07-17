@@ -2,27 +2,27 @@
     "dataList": [
         {
             "id": 0,
-            "content": "As the futile conversations reached an end, the bus lazily pulled to a stop."
+            "content": "Beyhude konuşmanın sona ermesiyle birlikte; otobüs, tembelce durağına yanaştı."
         },
         {
             "id": 1,
-            "content": "We’d arrived… in front of a building so tall that it would take a while to count the floors."
+            "content": "Ve bir binaya varmıştık… Katlarının sayısını saymak bile fazlaca vakit alacak olan."
         },
         {
             "id": 2,
-            "content": "A few shrank down as if intimidated.\n(I understood Sinclair being one, but Heathcliff and Ishmael also seemed to be pressured.)"
+            "content": "Bazılarımızın gözünü korkutan.\n(Sinclair'ın korkmasını anlamıştım ama,Heathcliff ve Ishmael de sesli bir şekilde yutkunmadan edemedi.)"
         },
         {
             "id": 3,
-            "content": "A few looked around with curious eyes…"
+            "content": "Bazılarımızın da merakını celp edip etrafa hayret dolu nazarlar attıran…"
         },
         {
             "id": 4,
-            "content": "And some others walked and carried themselves as if they knew they deserved royal treatment."
+            "content": "Ve bazılarımız da hiç umursamayıp kendilerini içerisine attığı, sanki kendilerine hazırlanmış sıcak karşılamayı hak ettiklerinden eminlermişçesine."
         },
         {
             "id": 5,
-            "place": "K Corp. Laboratory Lobby",
+            "place": "K Kurluşu Laboratuvarı Lobisi",
             "model": "홍루",
             "content": "Fuhu, görünüşe bakılısa biraz ün elde ettik. Sonunda, sıradan insanların yaşayabileceği yerlere davet ediliyoruz."
         },
@@ -33,7 +33,7 @@
         },
         {
             "id": 7,
-            "content": "Heathcliff ground his teeth, whether by Hong Lu’s words or due to memories of what we got into last time we were here."
+            "content": "Heathcliff dişini sıktı, ya Hong lu'nun fevri tavırlarından yahut da en son bu kadar göz alıcı ve parlak beyaz-yeşil tonlarıyla karşılaştığımızda yaşananlardan ötürü."
         },
         {
             "id": 8,
@@ -45,7 +45,7 @@
         {
             "id": 9,
             "model": "단테",
-            "content": "<As expected?>"
+            "content": "<Beklendiği gibi?>"
         },
         {
             "id": 10,
@@ -61,7 +61,7 @@
         },
         {
             "id": 12,
-            "content": "A familiar face I never expected to see again greeted us."
+            "content": "Bir daha görmeyi ummadığımız, kendini zorla aşina etmiş bir yüzle karşılaştık."
         },
         {
             "id": 13,
@@ -71,7 +71,7 @@
         {
             "id": 14,
             "model": "단테",
-            "content": "<Give it a moment! Let’s at least hear what he has to say, okay?>"
+            "content": "<Bekle biraz! Bari en azından adamın ne diyeceğini dinleyelim.>"
         },
         {
             "id": 15,
@@ -121,7 +121,7 @@
         {
             "id": 22,
             "model": "돈키호테",
-            "content": "Fan??? Didst thou say just now that we have earned thine adoration?"
+            "content": "Hayran mıı??? Az önce “Hayran” sahibi mertebesine eriştiğimizi mi atfetti o?"
         },
         {
             "id": 23,
@@ -140,7 +140,7 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Evet, fikir bendenizden çıktı."
+            "content": "Evet, fikir maiyetinizden çıktı."
         },
         {
             "id": 26,
@@ -163,7 +163,7 @@
         },
         {
             "id": 29,
-            "content": "Ishmael asked for confirmation that this was indeed a direct request, her face seeming rather proud."
+            "content": "Ishmael hakkaten de onlar tarafından direkt bir talep olup olmadığını teyit etmek istedi, nispeten gururu okşanmış bir ifadeyle."
         },
         {
             "id": 30,
@@ -189,7 +189,7 @@
         {
             "id": 33,
             "model": "단테",
-            "content": "<Changing the subject so shamelessly is only gonna bother us more…>"
+            "content": "<Lönk diye konuyu değiştirmek, sadece bizi daha çok meraklandırır…>"
         },
         {
             "id": 34,
@@ -215,7 +215,7 @@
         {
             "id": 37,
             "model": "돈키호테",
-            "content": "Aha~ Thou hast heard? My, traces of heroic deeds indeed make themselves known to the masses in no time! Fufu…"
+            "content": "Aha~ Zatınız işitti mi? Amanın, yiğitlik öyküleri hakikatten de kendilerini tez zamanda duyurmak gibi bir mahirete mahzarlar! Fufu…"
         },
         {
             "id": 38,
@@ -233,7 +233,7 @@
         },
         {
             "id": 40,
-            "content": "Faust tried to say something to Dongrang, but he and Samjo pulled me far away by the time she stepped forward."
+            "content": "Faust Dongrang'a bir şey sölemek istiyor gibiydi ama, o araya girene kadar Dongrang ve Samjo beni çoktan bir köşeye çekmişlerdi bile."
         }
     ]
 }
