@@ -774,7 +774,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]<style=\"highlight\">3</style> [Burst] uygula"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Burst] uygula"
                 }
               ]
             }
@@ -856,7 +856,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Agility] kazan (tur başına bir kere)\n<style=\"highlight\">- 15+ [DevyatDimensionalSack] varsa, l [Agility] daha kazan</style>"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Agility] kazan (tur başına bir kere)\n<style=\"highlight\">- 15+ [DevyatDimensionalSack] varsa, 1 [Agility] daha kazan</style>"
                 }
               ]
             },
