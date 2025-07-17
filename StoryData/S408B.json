@@ -4,7 +4,7 @@
             "id": 0,
             "place": "K Corp. Laboratory Lobby",
             "model": "단테",
-            "content": "<I mean… I don’t mind, but you two can’t hear me anyway.>"
+            "content": "<Yani… Şahsen sakınca etmem ama, beni duyamayacaksınız ki.>"
         },
         {
             "id": 1,
@@ -16,7 +16,7 @@
         {
             "id": 2,
             "model": "단테",
-            "content": "<Oh, who is it?>"
+            "content": "<Oh, öle mi?>"
         },
         {
             "id": 3,
@@ -28,7 +28,7 @@
         {
             "id": 4,
             "model": "단테",
-            "content": "<Maybe you weren’t as close as you thought, then? …Wait, can you hear my voice?>"
+            "content": "<Belki de düşündüğün kadar da yakın değilsinizdir? …Bi' saniye, sen beni duyabiliyor musun ki?>"
         },
         {
             "id": 5,
@@ -46,12 +46,12 @@
         },
         {
             "id": 7,
-            "content": "…That all was a monologue?"
+            "content": "…Bunların hepsi bir monolog muydu?"
         },
         {
             "id": 8,
             "model": "단테",
-            "content": "<What are you two even doing?>"
+            "content": "<Sizin amacınız ne?>"
         },
         {
             "id": 9,
@@ -77,20 +77,20 @@
         {
             "id": 12,
             "model": "단테",
-            "content": "<You haven’t even told me who that friend is…>"
+            "content": "<Bana daha tanıdığın kişinin kim olduğunu sölemedin ki…>"
         },
         {
             "id": 13,
-            "content": "I could only let out a deep sigh and shake my head…"
+            "content": "Sadece iç çekmekle  yetindim…"
         },
         {
             "id": 14,
-            "content": "The conversation that never got through ended as arbitrarily as it began."
+            "content": "Bu hiç bir bağlantısı olmayan monolog başladığı amaçsızlıkla aynen sona erdi."
         },
         {
             "id": 15,
             "model": "단테",
-            "content": "<This isn’t asking a favor. You’re giving me a notice.>"
+            "content": "<Bu bir iyilik değil ki. Sadece bilgilendirme.>"
         },
         {
             "id": 16,
