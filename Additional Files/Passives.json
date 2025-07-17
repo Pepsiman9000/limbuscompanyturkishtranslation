@@ -1654,13 +1654,13 @@
         {
             "id": 1091001,
             "name": "Hızlı Teslimat",
-            "desc": "Tur Başlangıcı: 6+ Hızda, veya bu birim [Agility]ye sahipse, bu birimin maksimum HP'sinin ([DevyatDimensionalSack]/2)%'sini Kalkan olarak kazan (maksimum %15)\n\nÇekilme sırasında, bir sonraki turda 2 müttefike 1 [ParryingResultUp] uygula (ilk olarak Substituted birimler, sonra yerleştirme sırasına göre)",
+            "desc": "Tur Başlangıcı: 6+ Hızda, veya bu birim [Agility]a sahipse, bu birimin maksimum HP'sinin ([DevyatDimensionalSack]/2)%'sini Kalkan olarak kazan (maksimum %15)\n\nÇekilme sırasında, bir sonraki turda 2 müttefike 1 [ParryingResultUp] uygula (ilk olarak Substituted birimler, sonra yerleştirme sırasına göre)",
             "summary": "Bu birimin maksimum HP'sinin ([DevyatDimensionalSack]/2)%'sini Kalkan olarak kazan\nÇekilme sırasında, bir sonraki turda 2 rastgele müttefike [ParryingResultUp] uygula"
         },
         {
             "id": 1091011,
             "name": "Hızlı Teslimat",
-            "desc": "Tur Başlangıcı: 6+ Hızda, veya bu birim [Agility]ye sahipse, bu birimin maksimum HP'sinin <style=\"highlight\">([DevyatDimensionalSack])%</style>'sini Kalkan olarak kazan (maksimum <style=\"highlight\">%20</style>)\n\nÇekilme sırasında, bir sonraki turda 2 müttefike 1 [ParryingResultUp] uygula (ilk olarak Substituted birimler, sonra yerleştirme sırasına göre)\n<style=\"highlight\">- Kendisinde 15 [DevyatDimensionalSack] her bulunduğunda, bu etki 1 ek tura daha devam eder (maksimum 2 ek tur)</style>",
+            "desc": "Tur Başlangıcı: 6+ Hızda, veya bu birim [Agility]a sahipse, bu birimin maksimum HP'sinin <style=\"highlight\">([DevyatDimensionalSack])%</style>'sini Kalkan olarak kazan (maksimum <style=\"highlight\">%20</style>)\n\nÇekilme sırasında, bir sonraki turda 2 müttefike 1 [ParryingResultUp] uygula (ilk olarak Substituted birimler, sonra yerleştirme sırasına göre)\n<style=\"highlight\">- Kendisinde 15 [DevyatDimensionalSack] her bulunduğunda, bu etki 1 ek tura daha devam eder (maksimum 2 ek tur)</style>",
             "summary": "Bu birimin maksimum HP'sinin ([DevyatDimensionalSack])%'sini Kalkan olarak kazan\nÇekilme sırasında, bir sonraki turda 2 rastgele müttefike [ParryingResultUp] uygula"
         },
         {
@@ -1672,8 +1672,8 @@
         {
             "id": 1091021,
             "name": "Mükemmel Kurye",
-            "desc": "En hızlı Hıza sahip 1 müttefike: [Burst] Şiddeti veya Miktarı uygulayan Yetenekler için Clash Power +1 uygula",
-            "summary": "[Burst] Şiddeti veya Miktarı uygulayan Yetenekler için Clash Power +1 uygula"
+            "desc": "En hızlı Hıza sahip 1 müttefike: [Burst] Şiddeti veya Miktarı uygulayan Yetenekler için Çarpışma Gücü +1 uygula",
+            "summary": "[Burst] Şiddeti veya Miktarı uygulayan Yetenekler için Çarpışma Gücü +1 uygula"
         },
         {
             "id": 1081001,
@@ -2137,8 +2137,8 @@
         {
           "id": 1081201,
           "name": "Rupture-breathing Resolve",
-          "desc": "When killing the target with this unit's Attack Skills, gain [Breath] equal to [Burst] on target (3 per 1 enemy; once per turn)\n- If this unit gained 3 [Breath] with the above effect, gain [Breath] Count equal to [Burst] Count on target (2 per 1 enemy; once per turn)\n\nIn a Clash, if this unit's Offense Level is higher than the target's, Clash Power +1\n\nIn a Clash, if this unit's Offense Level is higher than the target's, inflict +1 more [Burst] Potency or [Burst] Count with this unit's Base Attack Skills (2 times per turn)",
-          "summary": "In a Clash, if this unit's Offense Level is higher than the target's, Clash Power +1\nInflict +1 more [Burst] Potency and [Burst] Count with this unit's Base Attack Skills"
+          "desc": "When killing the target with this unit's Attack Skills, gain [Breath] equal to [Burst] on target (3 per 1 enemy; once per turn)\n- If this unit gained 3 [Breath] with the above effect, gain [Breath] Count equal to [Burst] Count on target (2 per 1 enemy; once per turn)\n\nIn a Clash, if this unit's Offense Level is higher than the target's, Çarpışma Gücü +1\n\nIn a Clash, if this unit's Offense Level is higher than the target's, inflict +1 more [Burst] Potency or [Burst] Count with this unit's Base Attack Skills (2 times per turn)",
+          "summary": "In a Clash, if this unit's Offense Level is higher than the target's, Çarpışma Gücü +1\nInflict +1 more [Burst] Potency and [Burst] Count with this unit's Base Attack Skills"
         },
 {
       "id": 1081202,
