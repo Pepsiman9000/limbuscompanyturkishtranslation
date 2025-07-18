@@ -2,164 +2,164 @@
   "dataList": [
     {
       "id": "ColdBlackTear",
-      "name": "Cold, Black Tears",
-      "desc": "- Max Stack: 5\n- Turn Start: gain 1 Clash Power Down\n- If this unit is hit while it has this effect, lose (Stack x 2) SP (once per turn; does not activate when hit by a Cracked Coin)\n- If Queen of Hatred reduced this effect, heal 5 SP\n- This effect cannot reduce this unit's SP below -40",
+      "name": "Soğuk, Kara Gözyaşları",
+      "desc": "- Maksimum Yığın: 5\n- Tur Başlangıcı: 1 Çarpışma Gücü Azalması kazan\n- Eğer bu birim bu etkiye sahipken isabet alırsa, (Yığın x 2) SP kaybet (tur başına bir kez; Kırık Jeton ile vurulduğunda etkinleşmez)\n- Eğer Nefret Kraliçesi bu etkiyi azaltırsa, 5 SP yenile\n- Bu etki, bu birimin SP'sini -40'ın altına düşüremez",
       "summary": ""
     },
     {
       "id": "HelplessTear",
-      "name": "Helpless Tears",
-      "desc": "- Max Stack: 1\n- Gain 3 Offense Levels\n- Lose 6 Defense Levels\n- All Skills gain +1 Atk Weight\n- All Skills become Unbreakable Coins\n- Inflict +1 more Sinking Potency and Count",
+      "name": "Çaresiz Gözyaşları",
+      "desc": "- Maksimum Yığın: 1\n- 3 Saldırı Seviyesi Kazan\n- 6 Savunma Seviyesi Kaybet\n- Tüm Yetenekler +1 Saldırı Ağırlığı kazanır\n- Tüm Yetenekler Kırılamaz Jeton olur\n- +1 daha fazla Batış Şiddeti ve Miktarı uygula",
       "summary": ""
     },
     {
       "id": "WornOutKnight",
-      "name": "Weathered Knight",
-      "desc": "Take +100% damage for this turn\n\n<color=#2e72b9><i>The knight who wanted to redeem herself by saving others was now dishonorably called the Knight of Despair; forgotten from the people's memory, just like the others.</i></color>",
+      "name": "Yıpranmış Şövalye",
+      "desc": "Bu tur için +%100 hasar al\n\n<color=#2e72b9><i>Başkalarını kurtararak kendini affettirmek isteyen şövalye, şimdi onursuzca Yeis Şövalyesi olarak anılıyordu; tıpkı diğerleri gibi, insanların hafızasından unutulmuştu.</i></color>",
       "summary": ""
     },
     {
       "id": "SignOfDespair",
-      "name": "Blessing of Despair",
-      "desc": "After Attack: if there are targets without Cold, Black Tears, removes this effect next turn\n\nGain 1 Clash Power Up and 1 Damage Up\nInflict +1 more Cold, Black Tears",
+      "name": "Yeis'in Lütfu",
+      "desc": "Saldırıdan Sonra: eğer Soğuk, Kara Gözyaşları olmayan hedefler varsa, sonraki tur bu etkiyi kaldırır\n\n1 Çarpışma Gücü Artışı ve 1 Hasar Artışı kazan\n+1 daha fazla Soğuk, Kara Gözyaşları uygula",
       "summary": ""
     },
     {
       "id": "CollapsedPride",
-      "name": "Crumbled Pride",
-      "desc": "<i><color=#2e72b9>All that remains is the hollow pride of a weathered knight.</color></i>",
+      "name": "Yıkılmış Gurur",
+      "desc": "<i><color=#2e72b9>Geriye kalan tek şey, yıpranmış bir şövalyenin boş gururudur.</color></i>",
       "summary": ""
     },
     {
       "id": "FailedToAssistQueen",
-      "name": "What use... am I...?",
-      "desc": "- Max Stack: 1\n- Lose 3 Offense Levels\n- Lose 3 Defense Levels",
+      "name": "Ne işe... yararım ki...?",
+      "desc": "- Maksimum Yığın: 1\n- 3 Saldırı Seviyesi Kaybet\n- 3 Savunma Seviyesi Kaybet",
       "summary": ""
     },
     {
       "id": "UsedTooMuchPower",
-      "name": "I used too much power",
-      "desc": "- Max Stack: 1\n- Turn End: escapes from the Encounter\n\n<i><color=#ff3d8f>Exhausted and unable to move.</color></i>",
+      "name": "Çok fazla güç kullandım",
+      "desc": "- Maksimum Yığın: 1\n- Tur Sonu: Çatışmadan kaçar\n\n<i><color=#ff3d8f>Tükenmiş ve hareket edemez halde.</color></i>",
       "summary": ""
     },
     {
       "id": "ChasingArcana",
-      "name": "Chanting - Arcana Slave",
-      "desc": "- Max Stack: 3\n- Gain 1 at Turn Start\n- At 3 Stack, gains 20 Speed and uses ARCANA SLAVE next turn",
+      "name": "İlahi - Arcana Kulu",
+      "desc": "- Maksimum Yığın: 3\n- Tur Başlangıcında 1 Kazan\n- 3 Yığında, 20 Hız kazanır ve sonraki tur ARCANA SLAVE kullanır",
       "summary": ""
     },
     {
       "id": "PowerOfLoveAndJustice",
-      "name": "Love/Justice",
-      "desc": "- For every Stack, inflict +1 more Rupture Potency",
+      "name": "Aşk/Adalet",
+      "desc": "- Her Yığın için, +1 daha fazla Parçalanma Şiddeti uygula",
       "summary": ""
     },
     {
       "id": "CentralCommandTeamCaptain",
-      "name": "Central Command Team Captain",
-      "desc": "- Skill Slot +1\n- Modify Skill pool: Gain 1 use of Skill 3, but lose 1 use of Skill 1\n- Increase the amount of Burn, Bleed, Rupture, Sinking, or Tremor Potency inflicted with Skills by +1 (including 'Unique Status Effects')\n- Increase the amount of Poise Potency or Charge Count(including 'Unique Charge') gained from Skills by +1\n- Instead of Panicking or Corroding, reset SP to 0 next turn (once per Encounter)\n- Base Attack Skills with 2+ Atk Weight deal +30% damage\n- On Kill, Gain +2 E.G.O resource to the Affinity of the Skill that defeated the enemy; gain +1 E.G.O resource to rest of the Affinities",
+      "name": "Merkez Komuta Ekibi Kaptanı",
+      "desc": "- Yetenek Yuvası +1\n- Yetenek havuzunu değiştir: Yetenek 3'ten 1 kullanım kazan, ama Yetenek 1'den 1 kullanım kaybet\n- Yeteneklerle uygulanan Yanma, Kanama, Parçalanma, Batış veya Sarsıntı Şiddeti miktarını +1 artır ('Benzersiz Durum Etkileri' dahil)\n- Yeteneklerden kazanılan Nefes Şiddeti veya Yük Miktarı ('Benzersiz Yük' dahil) miktarını +1 artır\n- Paniklemek veya Korozyona Uğramak yerine, sonraki tur SP'yi 0'a sıfırla (Çatışma başına bir kez)\n- 2+ Saldırı Ağırlığına sahip Temel Saldırı Yetenekleri +%30 hasar verir\n- Öldürme üzerine, düşmanı yenen Yeteneğin Türüne +2 E.G.O. kaynağı kazan; geri kalan Türlere +1 E.G.O. kaynağı kazan",
       "summary": ""
     },
     {
       "id": "BestWelfareTeamMember",
-      "name": "Welfare Team Model Employee",
-      "desc": "- When inflicting Burn, Bleed, Rupture, Sinking, and Tremor Potency with this unit's Skills, inflict +1 more of each (including 'Unique Status Effects')\n- Instead of Panicking or Corroding, reset this unit's SP to 0 next turn (once per Encounter)\n- If this effect is applied to Lobotomy E.G.O::The Sword Sharpened with Tears Rodion, gain 1 Pierce DMG Up at every Turn Start",
+      "name": "Yardım Ekibi Örnek Çalışanı",
+      "desc": "- Bu birimin Yetenekleriyle Yanma, Kanama, Parçalanma, Batış ve Sarsıntı Şiddeti uygularken, her birinden +1 daha fazla uygula ('Benzersiz Durum Etkileri' dahil)\n- Paniklemek veya Korozyona Uğramak yerine, sonraki tur bu birimin SP'sini 0'a sıfırla (Çatışma başına bir kez)\n- Eğer bu etki Lobotomy E.G.O::Gözyaşlarıyla Bilenmiş Kılıç Rodion'a uygulanırsa, her Tur Başlangıcında 1 Delme Hasarı Artışı kazan",
       "summary": ""
     },
     {
       "id": "ChasingArcanahard",
-      "name": "Chanting - Arcana Slave",
-      "desc": "- Max Stack: 3\n- Gain 1 at Turn Start\n- At 3 Stack: next turn, gain 20 Bind and use ARCANA SLAVE",
+      "name": "İlahi - Arcana Kulu",
+      "desc": "- Maksimum Yığın: 3\n- Tur Başlangıcında 1 Kazan\n- 3 Yığında: sonraki tur, 20 Yavaşlama kazan ve ARCANA SLAVE kullan",
       "summary": ""
     },
     {
       "id": "HystericGauge",
-      "name": "Hysteria",
-      "desc": "- Base Stack: 0\n- Max Stack: 3\n- At Turn End...\n· At 0 or higher SP, lose 1 Stack\n· At less than 0 SP, gain 1 Stack",
+      "name": "Histeri",
+      "desc": "- Taban Yığın: 0\n- Maksimum Yığın: 3\n- Tur Sonunda...\n· 0 veya daha yüksek SP'de, 1 Yığın kaybet\n· 0'dan düşük SP'de, 1 Yığın kazan",
       "summary": ""
     },
     {
       "id": "MagicalGirlAppear",
-      "name": "Here Comes Magical Girl!",
-      "desc": "- For this turn, this unit uses Plus Coin Base Attack Skills\n\n- Base Attack Skills deal +3% damage for every Love/Hate on self (max 15%)",
+      "name": "Büyülü Kız Geliyor!",
+      "desc": "- Bu tur için, bu birim Pozitif Jeton Temel Saldırı Yetenekleri kullanır\n\n- Temel Saldırı Yetenekleri, kendindeki her Aşk/Nefret için +%3 hasar verir (maksimum %15)",
       "summary": ""
     },
     {
       "id": "NoVillain",
-      "name": "Regressive Transformation - Reversed",
-      "desc": "- For this turn, this unit uses Minus Coin Base Attack Skills",
+      "name": "Gerileyen Dönüşüm - Tersine Çevrilmiş",
+      "desc": "- Bu tur için, bu birim Negatif Jeton Temel Saldırı Yetenekleri kullanır",
       "summary": ""
     },
     {
       "id": "VillainMark",
-      "name": "Mark of Villainy",
-      "desc": "- Take +10% damage from Don Quixote\n\n- Applies only to the first target to receive the effect in each turn",
+      "name": "Kötülük Damgası",
+      "desc": "- Don Kişot'tan +%10 hasar al\n\n- Her turda etkiyi alan ilk hedefe uygulanır",
       "summary": ""
     },
     {
       "id": "ArcanaQueenOfHate",
-      "name": "Magical Arcana",
-      "desc": "- Max Stack: 3\n- Base Attack Skills deal +(Stack x 5)% damage\n- Turn End: At 3 Stack and with -25 or higher SP, change SP to -25",
+      "name": "Büyülü Arkana",
+      "desc": "- Maksimum Yığın: 3\n- Temel Saldırı Yetenekleri +(Yığın x 5)% hasar verir\n- Tur Sonu: 3 Yığında ve -25 veya daha yüksek SP ile, SP'yi -25'e değiştir",
       "summary": ""
     },
     {
       "id": "ThePowerOfLoveAndHate",
-      "name": "Love/Hate",
-      "desc": "- Max Count: 20\n- Unique Charge\n- Resource used by certain skills for additional effects. Its Count can go up to 20. Count lowers by 1 at the end of each turn.\n(Interacts the same way as normal Charge does to effects that raise or reduce Charge Potency/Count)",
+      "name": "Aşk/Nefret",
+      "desc": "- Maksimum Miktar: 20\n- Benzersiz Yük\n- Belirli yetenekler tarafından ek etkiler için kullanılan kaynak. Miktarı 20'ye kadar çıkabilir. Her tur sonunda Miktar 1 azalır.\n(Yük Şiddetini/Miktarını artıran veya azaltan etkilerle normal Yük ile aynı şekilde etkileşir)",
       "summary": ""
     },
     {
       "id": "MagicalGirlResponse",
-      "name": "Magical Girl's Chant",
-      "desc": "- Max Stack: 2\n- When gaining this effect, gain 1 Attack Power Up and 1 Damage Up\n- This unit's Attack Skills that gain or consume Charge Count gain Final Power +1 and deal +10% damage\n- Reduced by 1 at Turn End",
+      "name": "Büyülü Kızın İlahisi",
+      "desc": "- Maksimum Yığın: 2\n- Bu etkiyi kazanırken, 1 Saldırı Gücü Artışı ve 1 Hasar Artışı kazan\n- Bu birimin Yük Miktarı kazanan veya tüketen Saldırı Yetenekleri Final Gücü +1 kazanır ve +%10 hasar verir\n- Tur Sonunda 1 azalır",
       "summary": ""
     },
     {
       "id": "BlessingAlly",
-      "name": "Blessing",
-      "desc": "- Turn Start: gain 1 Protecting Sword for every 8 SP (max 5)\n- When Clash ends, inflict 2 Sinking (once per turn)\n- When hit, inflict 2 Sinking on the attacker (once per turn)\n- For every 20 SP, inflict +1 more Sinking Potency with above effects (max 2)\n- Replace this unit's Base Skills with Plus Coin Skills",
+      "name": "Lütuf",
+      "desc": "- Tur Başlangıcı: her 8 SP için 1 Koruyan Kılıç kazan (maksimum 5)\n- Çarpışma sona erdiğinde, 2 Batış uygula (tur başına bir kez)\n- İsabet aldığında, saldırgana 2 Batış uygula (tur başına bir kez)\n- Her 20 SP için, yukarıdaki etkilerle +1 daha fazla Batış Şiddeti uygula (maksimum 2)\n- Bu birimin Temel Yeteneklerini Pozitif Jeton Yetenekleri ile değiştir",
       "summary": ""
     },
     {
       "id": "ProtectiveSword",
-      "name": "Protecting Sword",
-      "desc": "- Turn Start: gain 1 Defense Level Up for every Stack (max 5)\n- Turn Start: +(Stack x 3) Aggro to the leftmost Skill Slot on the Dashboard (max 15)\n- Max Stack: 5\n- Expires at Turn End",
+      "name": "Koruyan Kılıç",
+      "desc": "- Tur Başlangıcı: her Yığın için 1 Savunma Seviyesi Artışı kazan (maksimum 5)\n- Tur Başlangıcı: Paneldeki en soldaki Yetenek Yuvasına +(Yığın x 3) Aggro (maksimum 15)\n- Maksimum Yığın: 5\n- Tur Sonunda sona erer",
       "summary": ""
     },
     {
       "id": "DespairAlly",
-      "name": "Despair",
-      "desc": "- Turn Start: gain 1 Piercing Sword for every -8 SP (max 5)\n- When Clash ends, inflict +1 Sinking Count (once per turn)\n- On Hit with the first Coin of a Base Attack Skill, inflict +1 Sinking Count (once per turn)\n- For every -20 SP, inflict +1 more Sinking Count with above effects (max 2)\n- Replace this unit's Base Skills with Minus Coin Skills",
+      "name": "Yeis",
+      "desc": "- Tur Başlangıcı: her -8 SP için 1 Delen Kılıç kazan (maksimum 5)\n- Çarpışma sona erdiğinde, +1 Batış Miktarı uygula (tur başına bir kez)\n- Bir Temel Saldırı Yeteneğinin ilk Jetonu ile Vuruşta, +1 Batış Miktarı uygula (tur başına bir kez)\n- Her -20 SP için, yukarıdaki etkilerle +1 daha fazla Batış Miktarı uygula (maksimum 2)\n- Bu birimin Temel Yeteneklerini Negatif Jeton Yetenekleri ile değiştir",
       "summary": ""
     },
     {
       "id": "PenetratingSword",
-      "name": "Piercing Sword",
-      "desc": "- Turn Start: gain 1 Offense Level Up for every Stack (max 5)\n- Turn Start: -(Stack x 0.15) Aggro to all Skill Slots on the Dashboard (max 0.75)\n- Max Stack: 5\n- Expires at Turn End",
+      "name": "Delen Kılıç",
+      "desc": "- Tur Başlangıcı: her Yığın için 1 Saldırı Seviyesi Artışı kazan (maksimum 5)\n- Tur Başlangıcı: Paneldeki tüm Yetenek Yuvalarına -(Yığın x 0.15) Aggro (maksimum 0.75)\n- Maksimum Yığın: 5\n- Tur Sonunda sona erer",
       "summary": ""
     },
     {
       "id": "SwordCutwithTear",
-      "name": "Tear-sharpened",
-      "desc": "- Turn Start: gain 5 Deep Tears\n· At 3 Stack, gain additional 5 Deep Tears\n- Turn End: lose (Stack x 15) SP\n- Base Attack Skills deal +(Stack x 10)% damage (max 30%)\n- If this unit has Blessing, gain Clash Power Up by the effect's Stack at Turn Start\n- If this unit has Despair, gain Pierce Power Up by the effect's Stack at Turn Start\n- Max Stack: 3",
+      "name": "Gözyaşıyla Bilenmiş",
+      "desc": "- Tur Başlangıcı: 5 Derin Gözyaşı kazan\n· 3 Yığında, ek 5 Derin Gözyaşı kazan\n- Tur Sonu: (Yığın x 15) SP kaybet\n- Temel Saldırı Yetenekleri +(Yığın x 10)% hasar verir (maksimum %30)\n- Eğer bu birim Lütuf'a sahipse, Tur Başlangıcında etkinin Yığını kadar Çarpışma Gücü Artışı kazan\n- Eğer bu birim Yeis'e sahipse, Tur Başlangıcında etkinin Yığını kadar Delme Gücü Artışı kazan\n- Maksimum Yığın: 3",
       "summary": ""
     },
     {
       "id": "BlackTearsAlly",
-      "name": "Deep Tears",
-      "desc": "- Unique Charge (fixed Potency)\n- Resource used by certain skills for additional effects\n- Max Stack: 20",
+      "name": "Derin Gözyaşları",
+      "desc": "- Benzersiz Yük (sabit Şiddet)\n- Belirli yetenekler tarafından ek etkiler için kullanılan kaynak\n- Maksimum Yığın: 20",
       "summary": ""
     },
     {
       "id": "KnightBless",
-      "name": "Blessing",
-      "desc": "- Turn Start: gain 2 Protection\n- Adjust any Attack Type Resistances exceeding 1 to 1 (unless Staggered)",
+      "name": "Lütuf",
+      "desc": "- Tur Başlangıcı: 2 Korunma kazan\n- 1'i aşan herhangi bir Saldırı Türü Zayıflığını 1'e ayarla (Sersemlemiş değilse)",
       "summary": ""
     },
     {
       "id": "TraumaShield",
-      "name": "Trauma Shield",
-      "desc": "- Reduce SP damage from enemies by 80%\n- Reduce Sinking damage taken by 80%\n- Reduced by 1 at Turn End",
+      "name": "Travma Kalkanı",
+      "desc": "- Düşmanlardan gelen SP hasarını %80 azalt\n- Alınan Batış hasarını %80 azalt\n- Tur Sonunda 1 azalır",
       "summary": ""
     }
   ]
