@@ -2987,7 +2987,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bat Bash",
+          "name": "Sopa Darbesi",
           "desc": "",
           "coinlist": [
             {
@@ -3001,13 +3001,13 @@
         },
         {
           "level": 2,
-          "name": "Bat Bash",
+          "name": "Sopa Darbesi",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] 3 [Vibration] uygula"
                 }
               ]
             }
@@ -3020,8 +3020,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Smackdown",
-          "desc": "[WhenUse] Gain 1 Attack Power Up next turn",
+          "name": "Yere Serme",
+          "desc": "[WhenUse] Sonraki Tur 1 [Enhancement] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -3034,8 +3034,8 @@
         },
         {
           "level": 2,
-          "name": "Smackdown",
-          "desc": "[WhenUse] Gain 1 Attack Power Up and Damage Up next turn",
+          "name": "Yere Serme",
+          "desc": "[WhenUse] Sonraki Tur 1 [Enhancement] ve [AttackDmgUp] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -3048,13 +3048,13 @@
         },
         {
           "level": 4,
-          "name": "Smackdown",
-          "desc": "[WhenUse] Gain 1 Attack Power Up and Damage Up next turn",
+          "name": "Yere Serme",
+          "desc": "[WhenUse] Sonraki Tur 1 [Enhancement] ve [AttackDmgUp] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] 2 [Vibration] uygula"
                 }
               ]
             }
@@ -3067,20 +3067,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Upheaval",
+          "name": "Altüst Etme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +2 Power"
+                  "desc": "[OnSucceedAttackHead] Sonraki Jeton +2 Güç kazanır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]'nı tetikle."
                 }
               ]
             }
