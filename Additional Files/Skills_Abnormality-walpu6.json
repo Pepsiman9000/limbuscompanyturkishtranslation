@@ -39,7 +39,7 @@
         {
           "level": 1,
           "name": "Keskin Gözyaşları",
-          "desc": "[WhenUse] Eğer hedefte +4 [Sinking] varsa, Jeton Gücü +\n[WhenUse] Eğer hedefte 20 veya daha fazla SP varsa, Temel Güç +1\n[WinDuel] Kalan # Jeton sayısı kadar [ColdBlackTear] uygula",
+          "desc": "[WhenUse] Eğer hedefte +4 [Sinking] varsa, Jeton Gücü +\n[WhenUse] Eğer hedefte 20 veya daha fazla SP varsa, Taban Güç +1\n[WinDuel] Kalan # Jeton sayısı kadar [ColdBlackTear] uygula",
           "coinlist": [
             {
               "coindescs": [
@@ -80,16 +80,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "River of Despairing Tears",
-          "desc": "[WhenUse] Base Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 1+ [ColdBlackTear], Coin Power +1\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "name": "Çaresiz Gözyaşları Nehri",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Taban Güç +1 (maks 2)\nEğer hedefte 1+ [ColdBlackTear] varsa, Jeton Gücü +1 uygula\n[DefeatDuel] -%80 hasar Ver ve bu Yetenek tarafından verilen hasar hedefi Sersemletemez",
           "coinlist": [
-            {
+              {
               "coindescs": [
                 {
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ColdBlackTear]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 1 [ColdBlackTear] uygula"
                 }
               ]
             },
@@ -99,7 +99,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ColdBlackTear]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 1 [ColdBlackTear] uygula"
                 }
               ]
             },
@@ -109,7 +109,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ColdBlackTear]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 1 [ColdBlackTear] uygula"
                 }
               ]
             },
@@ -119,7 +119,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ColdBlackTear]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 1 [ColdBlackTear] uygula"
                 }
               ]
             },
@@ -129,7 +129,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ColdBlackTear]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ColdBlackTear] uygula"
                 }
               ]
             }
@@ -142,13 +142,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shared Sorrow, Dulled",
-          "desc": "[WhenUse] Inflict 1 [ColdBlackTear]",
+          "name": "Paylaşılan Keder, Körelir",
+          "desc": "[WhenUse] 1 [ColdBlackTear] uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 3+ [ColdBlackTear], inflict 1 [Vulnerable]"
+                  "desc": "Eğer hedefte +3 [ColdBlackTear] varsa, 1 [Vulnerable] uygula"
                 }
               ]
             }
@@ -161,8 +161,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Violent Cascade of Hollow Despair",
-          "desc": "Prioritizes targets with the most [ColdBlackTear]\n[WhenUse] If the main target has 5+ [ColdBlackTear], Coin Power +5",
+          "name": "İçi Boş Çaresizliğin Şiddetli Şelalesi",
+          "desc": "En çok [ColdBlackTear] olan hedefi önceliklendirir\n[WhenUse] Eğer ana hedefte +5 [ColdBlackTear] varsa, Jeton Gücü +5",
           "coinlist": [
             {
               "coindescs": [
@@ -170,7 +170,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal fixed damage equal to ([ColdBlackTear] Stack on target x 6)% of target's max HP, then remove all [ColdBlackTear] on target"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hedefin maksimum HP'sinin %(hedefteki [ColdBlackTear] yığını x 6)'si kadar sabit hasar verir, sonrasında hedeteki bütün [ColdBlackTear] etkisini kaldır"
                 }
               ]
             }
@@ -183,8 +183,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Arcana: Tear and Pierce",
-          "desc": "Uses this Skill when an enemy uses Arcana[TabExplain] Slave, and when this unit does not have [CollapsedPride]\nCounterattacks only Arcana Slave",
+          "name": "Arkana: Gözyaşı ve Delme",
+          "desc": "Bu yeteneği düşman Arcana[TabExplain] Slave kullandığında ve bu birimde [CollapsedPride] olmadığında kullanılır\n Sadece Arcana Slave'e karşılık verir",
           "coinlist": [
             {
               "coindescs": [
@@ -192,7 +192,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [ColdBlackTear]"
+                  "desc": "[OnSucceedAttack] 2 [ColdBlackTear] uygula"
                 }
               ]
             },
@@ -202,7 +202,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ColdBlackTear]"
+                  "desc": "[OnSucceedAttack] 1 [ColdBlackTear] uygula"
                 }
               ]
             },
@@ -212,7 +212,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ColdBlackTear]"
+                  "desc": "[OnSucceedAttack] 1 [ColdBlackTear] uygula"
                 }
               ]
             },
@@ -222,7 +222,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ColdBlackTear]"
+                  "desc": "[OnSucceedAttack] 1 [ColdBlackTear] uygula"
                 }
               ]
             },
@@ -232,7 +232,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal fixed damage equal to ([ColdBlackTear] Stack on target x 6)% of target's max HP, then remove all [ColdBlackTear] on target (ignores Resistances)"
+                  "desc": "[OnSucceedAttack] Hedefin maks HP'sinin %(hedefteki [ColdBlackTear] yığını x 6)'si kadar sabit hasar verir, sonrasında bütün [ColdBlackTear] etkisini kaldır (bütün dirençleri görmezden gelir)"
                 }
               ]
             }
@@ -245,20 +245,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Faded Faith",
-          "desc": "[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1",
+          "name": "Solmuş İnanç",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 10 veya fazla SP varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte 20 veya fazla SP varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] 2 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] 2 [Sinking] uygula"
                 }
               ]
             }
@@ -271,23 +271,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Weathered Pride",
-          "desc": "[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1",
-          "coinlist": [
+          "name": "Aşınmış Gurur",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 10 veya daha fazla SP varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte 20 veya daha fazla SP varsa, Jeton Gücü +1",
+          "coinlist": [ 
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -300,26 +300,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Endless Despair",
-          "desc": "[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1",
+          "name": "Bitmeyen Çaresizlik",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 10 veya daha fazla SP varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte 20 veya daha fazla SP varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -332,13 +332,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sword Sharpened with Tears",
-          "desc": "[WhenUse] Coin Power +5 for every 6 [Sinking] on target (max 10)\n[WhenUse] If target has [ColdBlackTear], Final Power +1",
+          "name": "Gözyaşlarıyla Bilenmiş Kılıç",
+          "desc": "[WhenUse] Hedefteki her 6 [Sinking] için Jeton Gücü +5 (maks 10)\n[WhenUse] Eğer hedefte [ColdBlackTear] varsa, Son Güç +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict ([Sinking] on target / 10) [DefenseDown] next turn (rounded down)"
+                  "desc": "Eğer hedefte 6+ [Sinking] varsa, sonraki tur (hedefteki [Sinking] / 10) [DefenseDown] uygula (aşağı yuvarla)"
                 }
               ]
             }
@@ -351,8 +351,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sword Laced with Grief",
-          "desc": "[WhenUse] Coin Power +3 for every 6 [Sinking] on target (max 6)\n[WhenUse] Base Power +1 for every [ColdBlackTear] Count on target (max 3)",
+          "name": "Acıyla Bağlı Kılıç",
+          "desc": "[WhenUse] Hedefteki her 6 [Sinking] için Jeton Gücü +3 (maks 6)\n[WhenUse] Hedefteki her [ColdBlackTear] miktarı için +1 Taban Gücü (maks 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -360,7 +360,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal bonus Gloom damage equal to (Skill Power)% of target's max HP (max 30)\n- If target has 2+ [ColdBlackTear], deal bonus Gloom damage again"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hedefin maks HP'sinin %(Yetenek Gücü) kadar ilave sabit Hüzün hasarı ver (maks 30)\n- Eğer hedefte 2+ [ColdBlackTear] varsa, ilave Hüzün hasarını tekrar ver"
                 }
               ]
             }
@@ -373,20 +373,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Faded Faith",
-          "desc": "[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1",
+          "name": "Solmuş İnanç",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 10 veya fazla SP varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte 20 veya fazla SP varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] 2 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] 2 [Sinking] uygula"
                 }
               ]
             }
@@ -399,23 +399,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Weathered Pride",
-          "desc": "[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1",
+          "name": "Aşınmış Gurur",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 10 veya fazla SP varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte 20 veya fazla SP varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -428,26 +428,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Endless Despair",
-          "desc": "[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1",
+          "name": "Bitmeyen Çaresizlik",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 10 veya fazla SP varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte 20 veya fazla SP varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -460,13 +460,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sword Sharpened with Tears",
-          "desc": "[WhenUse] Coin Power +5 for every 6 [Sinking] on target (max 10)\n[WhenUse] If target has [ColdBlackTear], Final Power +1",
+          "name": "Gözyaşlarıyla Bilenmiş Kılıç",
+          "desc": "[WhenUse] Hedefteki her 6 [Sinking] için Jeton Gücü +5 (maks 10)\n[WhenUse] Eğer hedefte [ColdBlackTear] varsa, Son Güç +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict ([Sinking] on target / 10) [DefenseDown] next turn (rounded down)"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Sinking] varsa, sonraki tur (hedefteki [Sinking] / 10) [DefenseDown] uygula (aşağı yuvarla)"
                 }
               ]
             }
@@ -479,8 +479,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sword Laced with Grief",
-          "desc": "[WhenUse] Coin Power +3 for every 6 [Sinking] on target (max 6)\n[WhenUse] Base Power +1 for every [ColdBlackTear] Count on target (max 3)",
+          "name": "Acıyla Bağlı Kılıç",
+          "desc": "[WhenUse] Hedefteki her 6 [Sinking] için Jeton Gücü +3 (maks 6)\n[WhenUse] Hedefteki her [ColdBlackTear] miktarı için +1 Taban Gücü (maks 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -488,7 +488,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal bonus Gloom damage equal to (Skill Power)% of target's max HP (max 30)\n- If target has 2+ [ColdBlackTear], deal bonus Gloom damage again"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hedefin maks HP'sinin %(Yetenek Gücü) kadar ilave sabit Hüzün hasarı ver (maks 30)\n- Eğer hedefte 2+ [ColdBlackTear] varsa, ilave Hüzün hasarını tekrar ver"
                 }
               ]
             }
@@ -501,8 +501,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Faded Faith",
-          "desc": "[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1",
+          "name": "Solmuş İnanç",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 10 veya fazla SP varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte 20 veya fazla SP varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -527,23 +527,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Weathered Pride",
-          "desc": "[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1",
+          "name": "Aşınmış Gurur",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 10 veya fazla SP varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte 20 veya fazla SP varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -556,26 +556,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Endless Despair",
-          "desc": "[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1",
+          "name": "Bitmeyen Çaresizlik",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 10 veya fazla SP varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte 20 veya fazla SP varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -588,13 +588,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sword Sharpened with Tears",
-          "desc": "[WhenUse] Coin Power +5 for every 6 [Sinking] on target (max 10)\n[WhenUse] If target has [ColdBlackTear], Final Power +1",
+          "name": "Gözyaşlarıyla Bilenmiş Kılıç",
+          "desc": "[WhenUse] Hedefteki her 6 [Sinking] için Jeton Gücü +5 (maks 10)\n[WhenUse] Eğer hedefte [ColdBlackTear] varsa, Son Güç +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict ([Sinking] on target / 10) [DefenseDown] next turn (rounded down)"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Sinking] varsa, sonraki tur (hedefteki [Sinking] / 10) [DefenseDown] uygula (aşağı yuvarla)"
                 }
               ]
             }
@@ -607,8 +607,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sword Laced with Grief",
-          "desc": "[WhenUse] Coin Power +3 for every 6 [Sinking] on target (max 6)\n[WhenUse] Base Power +1 for every [ColdBlackTear] Count on target (max 3)",
+          "name": "Acıyla Bağlı Kılıç",
+          "desc": "[WhenUse] Hedefteki her 6 [Sinking] için Jeton Gücü +3 (maks 6)\n[WhenUse] Hedefteki her [ColdBlackTear] miktarı için +1 Taban Gücü (maks 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -616,7 +616,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal bonus Gloom damage equal to (Skill Power)% of target's max HP (max 30)\n- If target has 2+ [ColdBlackTear], deal bonus Gloom damage again"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hedefin maks HP'sinin %(Yetenek Gücü) kadar ilave sabit Hüzün hasarı ver (maks 30)\n- Eğer hedefte 2+ [ColdBlackTear] varsa, ilave Hüzün hasarını tekrar ver"
                 }
               ]
             }
@@ -629,8 +629,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Faded Faith",
-          "desc": "[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1",
+          "name": "Solmuş İnanç",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 10 veya fazla SP varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte 20 veya fazla SP varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -655,23 +655,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Weathered Pride",
-          "desc": "[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1",
+          "name": "Aşınmış Gurur",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 10 veya fazla SP varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte 20 veya fazla SP varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -684,26 +684,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Endless Despair",
-          "desc": "[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1",
+          "name": "Bitmeyen Çaresizlik",
+          "desc": "[WhenUse] Hedefteki her 4 [Sinking] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] Eğer hedefte 10 veya fazla SP varsa, Taban Gücü +1\n[WhenUse] Eğer hedefte 20 veya fazla SP varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -716,13 +716,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sword Sharpened with Tears",
-          "desc": "[WhenUse] Coin Power +5 for every 6 [Sinking] on target (max 10)\n[WhenUse] If target has [ColdBlackTear], Final Power +1",
+          "name": "Gözyaşlarıyla Bilenmiş Kılıç",
+          "desc": "[WhenUse] Hedefteki her 6 [Sinking] için Jeton Gücü +5 (maks 10)\n[WhenUse] Eğer hedefte [ColdBlackTear] varsa, Son Güç +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict ([Sinking] on target / 10) [DefenseDown] next turn (rounded down)"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Sinking] varsa, sonraki tur (hedefteki [Sinking] / 10) [DefenseDown] uygula (aşağı yuvarla)"
                 }
               ]
             }
@@ -735,8 +735,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sword Laced with Grief",
-          "desc": "[WhenUse] Coin Power +3 for every 6 [Sinking] on target (max 6)\n[WhenUse] Base Power +1 for every [ColdBlackTear] Count on target (max 3)",
+          "name": "Acıyla Bağlı Kılıç",
+          "desc": "[WhenUse] Hedefteki her 6 [Sinking] için Jeton Gücü +3 (maks 6)\n[WhenUse] Hedefteki her [ColdBlackTear] miktarı için +1 Taban Gücü (maks 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -744,7 +744,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal bonus Gloom damage equal to (Skill Power)% of target's max HP (max 30)\n- If target has 2+ [ColdBlackTear], deal bonus Gloom damage again"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hedefin maks HP'sinin %(Yetenek Gücü) kadar ilave sabit Hüzün hasarı ver (maks 30)\n- Eğer hedefte 2+ [ColdBlackTear] varsa, ilave Hüzün hasarını tekrar ver"
                 }
               ]
             }
