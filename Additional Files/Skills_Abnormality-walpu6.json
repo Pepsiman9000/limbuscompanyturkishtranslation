@@ -39,7 +39,7 @@
         {
           "level": 1,
           "name": "Keskin Gözyaşları",
-          "desc": "[WhenUse] Eğer hedefte +4 [Sinking] varsa, Jeton Gücü +\n[WhenUse] Eğer hedefte 20 veya daha fazla SP varsa, Taban Güç +1\n[WinDuel] Kalan # Jeton sayısı kadar [ColdBlackTear] uygula",
+          "desc": "[WhenUse] Eğer hedefte +4 [Sinking] varsa, Jeton Gücü +1\n[WhenUse] Eğer hedefte 20 veya daha fazla SP varsa, Taban Güç +1\n[WinDuel] Kalan # Jeton sayısı kadar [ColdBlackTear] uygula",
           "coinlist": [
             {
               "coindescs": [
