@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "With Love!",
-          "desc": "[WhenUse] Base Power +1 for every 5 (sum of [Burst] and [Sinking] on target) (max 2)\n[WhenUse] Gain +10 [PowerOfLoveAndJustice]",
+          "name": "Sevgiyle!", 
+          "desc": "[WhenUse] Hedefteki her 5 ([Burst] ve [Sinking] toplamı için) +1 Taban Gücü (maks 2)\n[WhenUse] +10 [PowerOfLoveAndJustice] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             }
@@ -31,16 +31,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "In the Name of Justice!",
-          "desc": "[WhenUse] Coin Power +1 for every 7 (sum of [Burst] and [Sinking] on target) (max 2)\n[WhenUse] Gain +10 [PowerOfLoveAndJustice] Count",
+          "name": "Adalet Adına!",
+          "desc": "[WhenUse] Hedefteki her 7 ([Burst] ve [Sinking] toplamı için) + 1 Jeton Gücü (maks 2)\n[WhenUse] +10 [PowerOfLoveAndJustice] Miktarı Kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı Uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ (sum of [Burst] and [Sinking]), inflict 1 [Binding] next turn"
+                  "desc": "Eğer hedefte 10+ ([Burst] ve [Sinking] toplamı varsa), bir sonraki tur 1 [Binding] uygula"
                 }
               ]
             }
@@ -54,35 +54,35 @@
         {
           "level": 1,
           "name": "Arcana Beats",
-          "desc": "Mainly targets 'The Knight of Despair'\nSub-targets the ally with the most [ColdBlackTear]\n- If there are none, sub-targets the ally with the least HP\nInflicts 0 damage and does not activate the effects of [Sinking] and [ColdBlackTear] against allies\n\n[WinDuel] Remove 1 [ColdBlackTear] from the sub-targeted ally",
+          "desc": "Ana hedef olarak 'Yeis Şövalyesini' hedef alır\n En çok [ColdBlackTear] olan müttefiki alt hedef alır\n- Eğer yoksa, en az HP olan müttefiği alt hedef olarak alır\n Müttefiklere karşı 0 hasar verir, [Sinking] ve [ColdBlackTear] etkilerini tetiklemez\n\n[WinDuel] Alt hedeflenen müttefikten 1 [ColdBlackTear] kaldırır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target is an enemy, Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Eğer hedef bir düşmansa, 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is an ally, heal 5 HP"
+                  "desc": "[OnSucceedAttack] Eğer hedef bir müttefikse, 5 HP iyileştir"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target is an enemy, Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Eğer hedef bir düşmansa, 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is an ally, heal 5 HP"
+                  "desc": "[OnSucceedAttack] Eğer hedef bir müttefikse, 5 HP iyileştir"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target is an enemy, Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Eğer hedef bir düşmansa, 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is an ally, heal 5 HP"
+                  "desc": "[OnSucceedAttack] Eğer hedef bir müttefikse, 5 HP iyileştir"
                 }
               ]
             }
@@ -95,8 +95,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Looks Like I'll Have to Use This Power!",
-          "desc": "[StartBattle] Gain 1 [ChasingArcana]\n[StartBattle] Gain 50 Shield\n[StartBattle] Gain 20 [Aggro] next turn",
+          "name": "Görünüşe Göre Bu Gücü Kullanmam Gerekecek!",
+          "desc": "[StartBattle] 1 [ChasingArcana] kazan\n[StartBattle] 50 Kalkan kazan\n[StartBattle] Sonraki tur 20 [Aggro] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -112,8 +112,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Chanting - Arcana Slave",
-          "desc": "[StartBattle] Gain 50 Shield\n[StartBattle] Gain 20 [Aggro] next turn\n[EndBattle] At 0 Shield HP, Retreats",
+          "name": "Hazırlanıyor - Arcana Slave",
+          "desc": "[StartBattle] 50 Kalkan kazan\n[StartBattle] Sonraki tur 20 [Aggro] kazan\n[EndBattle] 0 kalkan HP'sinde, Geri Çekilir",
           "coinlist": [
             {
               "coindescs": [
@@ -130,12 +130,12 @@
         {
           "level": 1,
           "name": "ARCANA SLAVE",
-          "desc": "[CantDuel]\nDoes not deal damage against Sword of a Forgotten Knight\nEnds Turn when hitting enemies with [WornOutKnight]\n[EndBattle] Gain [UsedTooMuchPower]",
+          "desc": "[CantDuel]\nUnutulmuş Şövalyenin Kılıcına karşı hasar vermez\nÜzerinde [WornOutKnight] etkisi olan düşmanlara vurduğunda Turu Sonlandırır\n[EndBattle] [UsedTooMuchPower] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's HP to (100 - ([CollapsedPride] Stack x 33))%"
+                  "desc": "[OnSucceedAttack] Hedefin HP'sini (100 - ([CollapsedPride] Yığını x 33))%'e düşürür"
                 }
               ]
             }
@@ -149,12 +149,12 @@
         {
           "level": 1,
           "name": "ARCANA SLAVE",
-          "desc": "[CantDuel]\nDeals damage only with Coin effects\nDoes not deal damage against Heart-breaking Sword, Heart-tearing Sword, and Heart-piercing Sword\nEnds Turn when hitting enemies that has [WornOutKnight] and 600- HP\n[EndBattle] Gain [UsedTooMuchPower]",
+          "desc": "[CantDuel]\nSadece Jeton etkileriyle hasar verir\nKalp-kıran Kılıç, Kalp-yırtan Kılıç ve Kalp-delici Kılıca karşı hasar vermez\nÜzerinde [WornOutKnight] etkisi olan ve 600'den HP'ye sahip düşmanlara vurduğunda Turu Sonlandır\n[EndBattle] [UsedTooMuchPower] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal ([CollapsedPride] x 200) fixed damage"
+                  "desc": "[OnSucceedAttack] ([CollapsedPride] x 200) kadar sabit hasar ver"
                 }
               ]
             }
@@ -167,8 +167,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Looks Like I'll Have to Use This Power!",
-          "desc": "[StartBattle] Gain 1 [ChasingArcanahard]\n[StartBattle] Gain 50 Shield\n[StartBattle] Gain 20 [Aggro] next turn",
+          "name": "Görünüşe Göre Bu Gücü Kullanmam Gerekecek!",
+          "desc": "[StartBattle] 1 [ChasingArcanahard] kazan\n[StartBattle] 50 Kalkan kazan\n[StartBattle] Sonraki tur 20 [Aggro] kazan",
           "coinlist": [
             {
               "coindescs": [
