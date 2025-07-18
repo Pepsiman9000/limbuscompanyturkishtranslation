@@ -22,7 +22,7 @@
             "id": 4,
             "place": "Aboard Mephistopheles",
             "model": "베르길리우스",
-            "content": "Beklediğimden daha geç geldiniz. Tam da uzunca zamandır dalmadığım ilk uykuma dalmak üzereydim."
+            "content": "Beklediğimden daha geç geldiniz. Tam da uzun bir süredir dalmadığım ilk uykuma dalmak üzereydim."
         },
         {
             "id": 5,
@@ -87,7 +87,7 @@
         {
             "id": 18,
             "model": "이스마엘",
-            "content": "Şu tek eliyle bizi doğrarken, diğer eliyle de fotoğraf çeken adam?"
+            "content": "Şu tek eliyle bizi doğrarken, diğer eliyle de fotoğraf çeken adam."
         },
         {
             "id": 19,
@@ -101,7 +101,7 @@
         {
             "id": 21,
             "model": "돈키호테",
-            "content": "Ona nakletmeye heveslenmiş idim… mazlum Şehir erbabını zimmet <size=24>-koruma-</size> altına almaya amaçlayan fedakâr eylemlerim…"
+            "content": "Ona nakletmeye heveslenmiş idim… mazlum Şehir erbabını zimmet <ruby=1> </ruby> altına almaya amaçlayan fedakâr eylemlerim… \n <size=24>1 koruma</size>"
         },
         {
             "id": 22,
@@ -121,7 +121,7 @@
         {
             "id": 25,
             "model": "베르길리우스",
-            "content": "Etrafta caka satabileceği bir çok seyircinin olduğu “vukuatlar” kaçıranacak birisi değil."
+            "content": "Etrafta caka satabileceği bir çok seyircinin olduğu “vukuatlar”ı kaçıranacak birisi değil."
         },
         {
             "id": 26,
@@ -146,12 +146,12 @@
         {
             "id": 30,
             "model": "돈키호테",
-            "content": " Lord Siegfried hakkında… bu tarz aşağılamalara kail <size=24>-razı-</size> olamam!"
+            "content": " Lord Siegfried hakkında… bu tarz aşağılamalara kail olamam! "
         },
         {
             "id": 31,
             "model": "돈키호테",
-            "content": "“Mert Dayanır Namer Kaçar” Adlı otobiyografisinin 42. sayfasının 5. satırında kendisi zikretiği üzere, behemehal <size=24>-nolursa olsun-</size> mazlumların yardımına koşacaktır! \n <size=24>Mert Dayanır Namert Kaçar-Şarkı, Hasan Mutlucan Kahramanlık Türküleri</size>"
+            "content": "“Mert Dayanır Namer Kaçar” Adlı otobiyografisinin 42. sayfasının 5. satırında kendisi zikretiği üzere, behemehal <ruby=1> </ruby> mazlumların yardımına koşacaktır! \n <size=24>1 ne olursa olsun</size>"
         },
         {
             "id": 32,
