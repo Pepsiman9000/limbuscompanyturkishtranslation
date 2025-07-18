@@ -2,108 +2,108 @@
   "dataList": [
     {
       "id": "get_10701_1",
-      "desc": "Identity Acquisition",
-      "dlg": "Name’s Heathcliff. Clobbering people is my specialty. ‘Course, only when I fancy it."
+      "desc": "Kimlik Edinildiğinde",
+      "dlg": "İsim Heathcliff. Milleti pataklamak uzmanlık alanım. Tabii… canım isterse."
     },
     {
       "id": "lobby_morning_10701_1",
-      "desc": "Morning Greeting",
-      "dlg": "Keep that clock away from my face… It’s irritating."
+      "desc": "Günaydın",
+      "dlg": "Şu saati yüzümden uzak tut...Sinir bozucu."
     },
     {
       "id": "lobby_noon_10701_1",
-      "desc": "Afternoon Greeting",
-      "dlg": "What? Expecting me to ask what scran you had for lunch or some mince?"
+      "desc": "Tünaydın",
+      "dlg": "Ne? Benden öğlen ne sik mideye gömdün ya da ne halt yedin diye sormamı mı bekliyorsun? Hadi oradan."
     },
     {
       "id": "lobby_night_10701_1",
-      "desc": "Evening Greeting",
-      "dlg": "Now stop your gob. If you’re thinking of ordering more training or missions, you’d best think twice."
+      "desc": "İyi Akşamlar",
+      "dlg": "Kapa çeneni. Yeni bir eğitim ya da görev falan dayatmayı düşünüyorsan, iki kere düşünsen iyi edersin."
     },
     {
       "id": "smalltalk_10701_1",
-      "desc": "Chatter #1",
-      "dlg": "Just ‘cause you’re the manager doesn’t mean you get to lecture me or shove me into shoddy plans. I don’t follow anyone’s orders."
+      "desc": "Muhabbet #1",
+      "dlg": "Kapa çeneni artık. Yeni bir eğitim ya da görev falan dayatmayı düşünüyorsan, iki kere düşünsen iyi edersin."
     },
     {
       "id": "smalltalk_10701_2",
-      "desc": "Chatter #2",
-      "dlg": "Don’t you ever get curious about what’s on the other side of that clock on your shoulders, mate? Hahah, I was just taking the piss. What’s got you shaking like timber?"
+      "desc": "Muhabbet #2",
+      "dlg": "Sırf müdürsün diye bana nutuk atabileceğini ya da beni dandik planlara sürükleyebileceğini sanma. Ben kimsenin emrini falan dinlemem."
     },
     {
       "id": "smalltalk_10701_3",
-      "desc": "Chatter #3",
-      "dlg": "No need for long gabs between us. Not about to turn down an exchange of punches, though."
+      "desc": "Muhabet #3",
+      "dlg": "Uzun uzun geyik yapmaya gerek yok. Ama yumruk alışverişine gelince, orada kaçmam haberin olsun."
     },
     {
       "id": "neglect_10701_1",
-      "desc": "Idle",
-      "dlg": "Right, so you wanna get smacked, ey? Stay right there."
+      "desc": "Boşta",
+      "dlg": "Haa, demek dayak yemek istiyorsun, ey? Kılını kımıldatma..."
     },
     {
       "id": "formation_10701_1",
-      "desc": "Deployment",
-      "dlg": "I was craving a workout. Time to smash stuff right up!"
+      "desc": "Yerleştirildiğine",
+      "dlg": "Tam da biraz antrenman istiyordum. Şimdi amı götü dağıtma vakti!"
     },
     {
       "id": "battleentry_10701_1",
-      "desc": "Stage Entry",
-      "dlg": "Don’t make it long, I’m going in!"
+      "desc": "Sahne Girişi",
+      "dlg": "Sakın uzatma, dalıyorum!"
     },
     {
       "id": "battle_select_10701_1",
-      "desc": "Viewed in Battle",
-      "dlg": "What? Why?"
+      "desc": "Üzerine Tıklandığında",
+      "dlg": "Ne? Neden?"
     },
     {
       "id": "battle_endcommand_10701_1",
-      "desc": "Commencing Attack",
-      "dlg": "Already there!"
+      "desc": "Saldırırken",
+      "dlg": "Çoktan oradayım!"
     },
     {
       "id": "battle_enemy_break_10701_1",
-      "desc": "Enemy Stagger",
-      "dlg": "Haha, how do ya like that?"
+      "desc": "Düşman Sersemlediğinde",
+      "dlg": "Haha, ne diyorsun buna?"
     },
     {
       "id": "battle_break_10701_1",
-      "desc": "Staggered",
+      "desc": "Sersemlediğinde",
       "dlg": "Grh…!"
     },
     {
       "id": "battle_kill_10701_1",
-      "desc": "Enemy Killed",
-      "dlg": "Piss easy."
+      "desc": "Düşman Ölünce",
+      "dlg": "Çok kolay lan."
     },
     {
       "id": "battle_allydead_10701_1",
-      "desc": "Ally Death",
-      "dlg": "What? When’d you get smashed to bits?"
+      "desc": "Müttefik Ölünce",
+      "dlg": "Lan? Ne zaman parça pinçik oldun?"
     },
     {
       "id": "choice_success_p_10701_1",
-      "desc": "Check Passed",
-      "dlg": "What’s that proud look? I’m the one who dealt with it."
+      "desc": "Kontrol Geçildi",
+      "dlg": "Ne o böbürlü bakış? Ben hallettim lan bunu!"
     },
     {
       "id": "choice_fail_n_10701_1",
-      "desc": "Check Failed",
-      "dlg": "…This is really narking me. Didn’t I tell you to get someone else?"
+      "desc": "Kontrol Geçilmedi",
+      "dlg": "…Amımı götümü dağıtıyor bu. Başkasını bul demedim mi?"
     },
     {
       "id": "battle_clear_10701_1",
-      "desc": "Victory Cry",
-      "dlg": "Well, don’t wanna giggle over small victories."
+      "desc": "Zafer",
+      "dlg": "E, küçük zaferlerle kıkırdamak istemem tabii."
     },
     {
       "id": "battle_clear_ex_10701_1",
-      "desc": "Extra Conditions Fulfilled",
-      "dlg": "Heh, see that? I did a real bang up job!"
+      "desc": "Ek Koşullar Sağlandı",
+      "dlg": "Heh, gördün mü? Gerçekten fena patlattım!"
     },
     {
       "id": "battle_defeat_10701_1",
-      "desc": "Defeat Wail",
-      "dlg": "Bugger all, this’s got me pure raging! You ain’t gonna let this go, right, mate?"
+      "desc": "Yenilgi Çığlığı",
+      "dlg": "Siktir lan, kızdırdı bu beni! Bu işin peşini bırakmayacaksın, değil mi lan?"
     }
   ]
 }
