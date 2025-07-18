@@ -18,12 +18,12 @@
     {
       "id": "lobby_night_11201_1",
       "desc": "İyi Akşamlar",
-      "dlg": "Another busy day, wasn’t it. Good work out there."
+      "dlg": "Yoğun bi' gün daha bitti, değil mi. İyi iş çıkardın."
     },
     {
       "id": "smalltalk_11201_1",
       "desc": "Muhabbet #1",
-      "dlg": "So, what do you usually do in your free time, Manager Bud? I’d lend you a cig… but I guess it won’t be useful for you."
+      "dlg": "Eee, genelde boş zamanlarında n'aparsın, Müdür Ahbap? Sana bi' sigara uzatırdım da… galiba senin çok işine yaramaz."
     },
     {
       "id": "smalltalk_11201_2",
@@ -33,22 +33,22 @@
     {
       "id": "smalltalk_11201_3",
       "desc": "Muhabbet #3",
-      "dlg": "Hey, Manager Bud, you got some lens cleaner…? Nevermind, forget I asked. Just be glad if you don’t have to wear glasses."
+      "dlg": "Hey, Müdür Ahbap, hiç cam temizleyicin var mı…? Amaan, sormadım say. Gözlük takmadığına şükret yeter."
     },
     {
       "id": "smalltalk_11201_4",
       "desc": "Muhabbet #4",
-      "dlg": "I know it’s not the most flattering thing to say to a pal suffering from amnesia…\nBut, I sometimes think there are a few memories I could do without. You get what I’m saying? It’s like waiting for the end of a war that’ll never come."
+      "dlg": "Bunu hafıza kaybı olan birisine demem çok hoş olmayabilir biliyorum…\nFakat, bazen onlarsız da yaparım dediğim bikaç anı geliyor aklıma. Anlıyor musun? Hiç bitmeyecek bir savaşın sonunu beklemek gibi."
     },
     {
       "id": "smalltalk_11201_5",
       "desc": "Muhabbet #5",
-      "dlg": "This thing would keep on regrowing every time I tried to cut it off. My arm, I mean. Or should I call it a leg…\nIt’s basically like family now. Well, that’s to say I had to accept that I’m stuck with it, like it or hate it."
+      "dlg": "Bu şeyi her kesmeye çalıştığımda yeniden çıkmaya devam ederdi. Kolumdan bahsediyorum. Yoksa ona bacak mı demeliyim…\n Artık aile bile sayılır. Yani, demek istediğim onunla olduğumu kabullenmiş olmam, sevsem de sevmesem de."
     },
     {
       "id": "neglect_11201_1",
-      "desc": "Idle",
-      "dlg": "Hm? Müdür ahbap? Nereye tüydün?"
+      "desc": "Boşta",
+      "dlg": "Hm? Müdür Ahbap? Nereye tüydün?"
     },
     {
       "id": "formation_11201_1",
@@ -73,7 +73,7 @@
     {
       "id": "battle_enemy_break_11201_1",
       "desc": "Enemy Stagger",
-      "dlg": "Vov, çok temiz bi' vuruştu."
+      "dlg": "Vay, çok temiz bi' vuruştu."
     },
     {
       "id": "battle_break_11201_1",
@@ -83,26 +83,26 @@
     {
       "id": "battle_allydead_11201_1",
       "desc": "Ally Death",
-      "dlg": "Oh boy… Guess you’ve got work to do, eh, Manager Bud?"
+      "dlg": "Aman… Sanırım sana iş düştü, he, Müdür Ahbap?"
     },
     {
       "id": "choice_success_p_11201_1",
       "desc": "Kontrol Başarılı",
-      "dlg": "Check this out, Manager Bud! Did a pretty neat job, right?"
+      "dlg": "Baksana, Müdür Ahbap! Gayet iyi iş yaptım, de' mi?"
     },
     {
       "id": "choice_fail_n_11201_1",
       "desc": "Kontrol Başarısız",
-      "dlg": "I’m pretty sure I did tell you… This was the best I could do."
+      "dlg": "Bunu sana dediğimden eminim… Yapabileceğimin en iyisi buydu."
     },
     {
       "id": "battle_clear_11201_1",
-      "desc": "Victory Cry",
+      "desc": "Zafer Çığlığı",
       "dlg": "Fiuv~ Bi' şekilde yendik. İyi iş, Müdür Ahbap."
     },
     {
       "id": "battle_clear_ex_11201_1",
-      "desc": "Extra Conditions Fulfilled",
+      "desc": "Ekstra Koşullar Sağlandı",
       "dlg": "Madalya falan istemez. Sigaraları ise, onun aksine, çok iyi karşılarım."
     },
     {
