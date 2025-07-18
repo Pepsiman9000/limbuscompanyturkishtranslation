@@ -543,7 +543,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this unit consumed [Charge] Count, inflict 2 [DefenseDown]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Eğer bu birim [Charge] Miktarı harcadıysa, 2 [DefenseDown] uygula</style>"
                 }
               ]
             },
@@ -1286,7 +1286,7 @@
         {
           "level": 4,
           "name": "AL-YH Parçalıyıcı Mermi",
-          "desc": "Eğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] i harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 25)% daha fazla hasar uygula\n<style=\"highlight\">[EndSkill] Gain +5 [Breath] Count</style>",
+          "desc": "Eğer bu Günahkarın hızı hedefin hızından fazlaysa, her 1 hız farkı için +10 daha fazla hasar uygula (En fazla 50%)\n[WhenUse] 5 [Breath] kazan\n[WhenUse] Günahkardaki bütün [LogicAtelierAM] i harca, (Harcanan Miktar x 2) [Breath] Miktarı kazan, ve +(Harcanan Miktar x 25)% daha fazla hasar uygula\n<style=\"highlight\">[EndSkill] +5 [Breath] Miktarı kazan</style>",
           "coinlist": [
             {
               "coindescs": [
