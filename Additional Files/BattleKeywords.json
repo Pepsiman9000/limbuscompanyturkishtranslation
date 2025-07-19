@@ -1243,7 +1243,7 @@
     {
       "id": "Discard",
       "name": "Kaldır",
-      "desc": "- Verilen koşullara uygun olan ve Panelde seçilebilir olan bir Yeteneği siler. (Savunma & E.G.O Yetenekleri sayılmaz.)\n- Kaldırılan Yetenekler herhangi bir 'Kullanıldığında' olan etkiyi etkinleştirmezler, E.G.O kaynağı vermezler."
+      "desc": "- Verilen koşullara uygun olan, Panelde seçilebilir olan fakat seçilmemiş bir Yeteneği siler. (Savunma & E.G.O Yetenekleri sayılmaz.)\n- Kaldırılan Yetenekler herhangi bir 'Kullanıldığında' olan etkiyi etkinleştirmezler, E.G.O kaynağı vermezler."
     },
     {
       "id": "KnowledgeExplored",
