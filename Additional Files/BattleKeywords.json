@@ -13,7 +13,7 @@
     {
       "id": "Agility",
       "name": "Hızlanma",
-      "desc": "Hız, bir tur boyunca efektin Miktarı kadar artar."
+      "desc": "Hız, bir tur boyunca etkinin Miktarı kadar artar."
     },
     {
       "id": "Endurance",
@@ -28,7 +28,7 @@
     {
       "id": "Binding",
       "name": "Bind",
-      "desc": "Hız, bir tur boyunca efektin Miktarı kadar azalır."
+      "desc": "Hız, bir tur boyunca etkinin Miktarı kadar azalır."
     },
     {
       "id": "Vulnerable",
@@ -1242,13 +1242,13 @@
     },
     {
       "id": "Discard",
-      "name": "Discard",
-      "desc": "- Delete Skills that fit the condition and are selectable during the Chaining Phase from the Dashboard. (Defensive & E.G.O Skills do not count. Does not delete the Skill from the upcoming Skills list)\n- Discarded Skills will not activate Skill effects or Coin effects other than effects from Discard, and will not give E.G.O resources."
+      "name": "Kaldır",
+      "desc": "- Verilen koşullara uygun olan ve Panelde seçilebilir olan bir Yeteneği siler. (Savunma & E.G.O Yetenekleri sayılmaz.)\n- Kaldırılan Yetenekler herhangi bir 'Kullanıldığında' olan etkiyi etkinleştirmezler, E.G.O kaynağı vermezler."
     },
     {
       "id": "KnowledgeExplored",
-      "name": "Insight",
-      "desc": "The rank of the last Skill Discarded by the unit with this effect (Base Value: 1)"
+      "name": "İçgörü",
+      "desc": "Bu birim tarafından Kaldırılan son Yeteneğin Rütbesi (Base Value: 1)"
     },
     {
       "id": "Unjust_Enrichment",
