@@ -122,7 +122,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 5+ Charge Count, gain 1 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> for every 5 Charge Count next turn (Max 4)"
+                  "desc": "[OnSucceedAttack] At 5+ Charge Count, gain 1 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> for every 5 Charge Count next turn (Maks 4)"
                 }
               ]
             }
@@ -278,7 +278,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, inflict Bleed Count equal to their Speed difference (Max 2)"
+                  "desc": "[OnSucceedAttack] If this unit is faster than the target, inflict Bleed Count equal to their Speed difference (Maks 2)"
                 }
               ]
             }
@@ -306,7 +306,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, inflict Bleed Count equal to their Speed difference (Max 3)"
+                  "desc": "[OnSucceedAttack] If this unit is faster than the target, inflict Bleed Count equal to their Speed difference (Maks 3)"
                 }
               ]
             }
@@ -334,7 +334,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, inflict Bleed Count equal to their Speed difference (Max 4)"
+                  "desc": "[OnSucceedAttack] If this unit is faster than the target, inflict Bleed Count equal to their Speed difference (Maks 4)"
                 }
               ]
             }
@@ -353,7 +353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 SP per Bleed on target (Max 5)"
+                  "desc": "[OnSucceedAttackHead] Heal 1 SP per Bleed on target (Maks 5)"
                 }
               ]
             },
@@ -382,7 +382,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 SP per Bleed on target (Max 10)"
+                  "desc": "[OnSucceedAttackHead] Heal 1 SP per Bleed on target (Maks 10)"
                 }
               ]
             },
@@ -431,13 +431,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bilgiyi Tüket",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots",
+          "name": "Ufku Genişlet",
+          "desc": "[WhenUse] Bu birimin bütün Yetenek Yuvalarındaki en yüksek rütbeye sahip Yeteneği [Discard]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -445,16 +445,16 @@
         },
         {
           "level": 2,
-          "name": "Bilgiyi Tüket",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] At 3+ [KnowledgeExplored], Clash Power +1",
+          "name": "Ufku Genişlett",
+          "desc": "[WhenUse] Bu birimin bütün Yetenek Yuvalarındaki en yüksek rütbeye sahip Yeteneği [Discard]\n[WhenUse] 3+ [KnowledgeExplored] varsa, Çarpışma Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Sinking] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 3+ [KnowledgeExplored], reuse Coin once"
+                  "desc": "[OnSucceedAttack] 3+ [KnowledgeExplored] varsa, bu Jetonu bir kez daha kullan"
                 }
               ]
             }
@@ -462,16 +462,16 @@
         },
         {
           "level": 4,
-          "name": "Bilgiyi Tüket",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] Clash Power +([KnowledgeExplored] - 1)",
+          "name": "Ufku Genişlet",
+          "desc": "[WhenUse] Bu birimin bütün Yetenek Yuvalarındaki en yüksek rütbeye sahip Yeteneği [Discard]\n[WhenUse] Çarpışma Gücü +([KnowledgeExplored] - 1)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Sinking] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reuse Coin ([KnowledgeExplored] - 1) times"
+                  "desc": "[OnSucceedAttack] Bu Jetonu ([KnowledgeExplored] - 1) kere yeniden kullan"
                 }
               ]
             }
@@ -485,14 +485,14 @@
         {
           "level": 1,
           "name": "Açığa Çıkar",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
+          "desc": "[WhenUse] Bu birimin bütün Yetenek Yuvalarındaki, rütbeleri artan sırayla 2 rastgele Yeteneği [Discard]\n    -Örnek: önce 1. rütbe, ardından 2. rütbe yeteneği kaldırır. [KnowledgeExplored] bu durumda 2 olur.",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttackHead] 3 [Sinking] uygula"
                 }
               ]
             }
@@ -501,14 +501,14 @@
         {
           "level": 2,
           "name": "Açığa Çıkar",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] At 3+ [KnowledgeExplored], Coin Power +1",
+          "desc": "[WhenUse] Bu birimin bütün Yetenek Yuvalarındaki, rütbeleri artan sırayla 2 rastgele Yeteneği [Discard]\n    -Örnek: önce 1. rütbe, ardından 2. rütbe yeteneği kaldırır. [KnowledgeExplored] bu durumda 2 olur.\n[WhenUse] 3+ [KnowledgeExplored] varsa, Jeton Gücü +1",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] 3 [Sinking] uygula"
                 }
               ]
             }
@@ -517,14 +517,14 @@
         {
           "level": 4,
           "name": "Açığa Çıkar",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] Coin Power +([KnowledgeExplored] - 1)",
+          "desc": "[WhenUse] Bu birimin bütün Yetenek Yuvalarındaki, rütbeleri artan sırayla 2 rastgele Yeteneği [Discard]\n    -Örnek: önce 1. rütbe, ardından 2. rütbe yeteneği kaldırır. [KnowledgeExplored] bu durumda 2 olur.\n[WhenUse] Jeton Gücü +([KnowledgeExplored] - 1)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] 4 [Sinking] uygula"
                 }
               ]
             }
@@ -538,17 +538,17 @@
         {
           "level": 3,
           "name": "Döngüsel Bilgi",
-          "desc": "[WhenUse] At 2+ [KnowledgeExplored], gain Coin Power equal to [KnowledgeExplored]\n[WhenUse] Deal +1.5% more damage per [Sinking] on target (Max 15%)",
+          "desc": "[WhenUse] 2+ [KnowledgeExplored] varsa, [KnowledgeExplored] kadar Jeton Gücü kazan\n[WhenUse] Hedefteki her [Sinking] başına +1.5% hasar (Maks 15%)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +3 [Sinking] Miktarı uygula"
                 },
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, heal 10 SP"
+                  "desc": "[EndSkill] Eğer hedef ölmüş veya Sersemlemişse, 10 SP yenile"
                 }
               ]
             }
@@ -557,17 +557,17 @@
         {
           "level": 4,
           "name": "Döngüsel Bilgi",
-          "desc": "[WhenUse] At 2+ [KnowledgeExplored], gain Coin Power equal to [KnowledgeExplored]\n[WhenUse] Deal +3% more damage per [Sinking] on target (Max 30%)",
+          "desc": "[WhenUse] 2+ [KnowledgeExplored] varsa, [KnowledgeExplored] kadar Jeton Gücü kazan\n[WhenUse] Hedefteki her [Sinking] başına +3% hasar (Maks 30%)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +4 [Sinking] Miktarı uygula"
                 },
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, heal 10 SP"
+                  "desc": "[EndSkill] Eğer hedef ölmüş veya Sersemlemişse, 10 SP yenile"
                 }
               ]
             }
@@ -580,16 +580,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guiding Steps",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
+          "name": "Yol Gösteren Adımlar",
+          "desc": "[WhenUse] Bu birimin bütün Yetenek Yuvalarındaki, rütbeleri artan sırayla 2 rastgele Yeteneği [Discard]",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Guiding Steps",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
+          "name": "Yol Gösteren Adımlar",
+          "desc": "[WhenUse] Bu birimin bütün Yetenek Yuvalarındaki, rütbeleri artan sırayla 2 rastgele Yeteneği [Discard]",
           "coinlist": [
             {}
           ]
@@ -788,7 +788,7 @@
         {
           "level": 4,
           "name": "Suçlu Sensin!",
-          "desc": "[WhenUse] Hedefteki her <style=\"highlight\">6</style> [Vibration] başına Çarpışma Gücü +1 <style=\"highlight\">(max 2)</style>\n[WhenUse]<style=\"highlight\"> Kendi üzerinde 15'den az [Vibration] Miktarı varsa</style>, +2 Jeton Gücü kazanmak için kendi üzerinden 10 [Vibration] kullan\n<style=\"highlight\">[WhenUse] +3 Jeton Gücü kazanmak için kendi üzerinden 10 [Vibration] kullan</style>",
+          "desc": "[WhenUse] Hedefteki her <style=\"highlight\">6</style> [Vibration] başına Çarpışma Gücü +1 <style=\"highlight\">(Maks 2)</style>\n[WhenUse]<style=\"highlight\"> Kendi üzerinde 15'den az [Vibration] Miktarı varsa</style>, +2 Jeton Gücü kazanmak için kendi üzerinden 10 [Vibration] kullan\n<style=\"highlight\">[WhenUse] +3 Jeton Gücü kazanmak için kendi üzerinden 10 [Vibration] kullan</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -828,7 +828,7 @@
         {
           "level": 1,
           "name": "Yoksa?!",
-          "desc": "[WhenUse] 2 * (Hedefteki [Vibration] Miktarı) Kalkan kazan (max 7)",
+          "desc": "[WhenUse] 2 * (Hedefteki [Vibration] Miktarı) Kalkan kazan (Maks 7)",
           "coinlist": [
             {}
           ]
@@ -836,7 +836,7 @@
         {
           "level": 4,
           "name": "Yoksa?!",
-          "desc": "[WhenUse] 2 * (Hedefteki [Vibration] Miktarı) Kalkan kazan (max <style=\"highlight\">13</style>)",
+          "desc": "[WhenUse] 2 * (Hedefteki [Vibration] Miktarı) Kalkan kazan (Maks <style=\"highlight\">13</style>)",
           "coinlist": [
             {}
           ]
@@ -1041,7 +1041,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Eğer rakipte 15+ [Burst] varsa, veya HP'si 30%dan az ise, bu Jetonu Yeniden kullan (Max 1)"
+                  "desc": "[OnSucceedAttack] Eğer rakipte 15+ [Burst] varsa, veya HP'si 30%dan az ise, bu Jetonu Yeniden kullan (Maks 1)"
                 }
               ]
             }
@@ -1766,12 +1766,12 @@
         {
           "level": 2,
           "name": "Energy Strike",
-          "desc": "<style=\"highlight\">Deal +2% damage for every [Charge] (max 10%)</style>\nAt 2+ [Charge], Coin Power +1\n[WhenUse] Gain +2 [Charge] Count",
+          "desc": "<style=\"highlight\">Deal +2% damage for every [Charge] (Maks 10%)</style>\nAt 2+ [Charge], Coin Power +1\n[WhenUse] Gain +2 [Charge] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain +([Charge] + 1) [Charge] Count (max 3)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain +([Charge] + 1) [Charge] Count (Maks 3)</style>"
                 }
               ]
             },
@@ -1787,12 +1787,12 @@
         {
           "level": 4,
           "name": "Energy Strike",
-          "desc": "Deal <style=\"highlight\">+3%</style> damage for every [Charge] (max <style=\"highlight\">15%</style>)\nAt 2+ [Charge], Coin Power +1\n<style=\"highlight\">At 5+ [Charge] Count, Coin Power +1</style>\n[WhenUse] Gain +2 [Charge] Count",
+          "desc": "Deal <style=\"highlight\">+3%</style> damage for every [Charge] (Maks <style=\"highlight\">15%</style>)\nAt 2+ [Charge], Coin Power +1\n<style=\"highlight\">At 5+ [Charge] Count, Coin Power +1</style>\n[WhenUse] Gain +2 [Charge] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] + 1) [Charge] Count (max <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] Gain +([Charge] + 1) [Charge] Count (Maks <style=\"highlight\">4</style>)"
                 }
               ]
             },
@@ -1848,7 +1848,7 @@
         {
           "level": 2,
           "name": "Mind Whip",
-          "desc": "<style=\"highlight\">Deal +2% damage for every [Charge] (max 10%)</style>\n[WhenUse] At 5~9 [Charge] Count:\n- Gain 15 [Sinking] and raise this unit's [Charge] Count to 10\n- This Skill gains the following attributes: [CantIdentify], [WideAreaRampage], and Atk Weight +1\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1",
+          "desc": "<style=\"highlight\">Deal +2% damage for every [Charge] (Maks 10%)</style>\n[WhenUse] At 5~9 [Charge] Count:\n- Gain 15 [Sinking] and raise this unit's [Charge] Count to 10\n- This Skill gains the following attributes: [CantIdentify], [WideAreaRampage], and Atk Weight +1\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1895,7 +1895,7 @@
         {
           "level": 4,
           "name": "Mind Whip",
-          "desc": "Deal <style=\"highlight\">+4%</style> damage for every [Charge] (max <style=\"highlight\">20%</style>)\n[WhenUse] At 5~9 [Charge] Count:\n- Gain <style=\"highlight\">10</style> [Sinking] and raise this unit's [Charge] Count to 10\n- This Skill gains the following attributes: [CantIdentify], [WideAreaRampage], and Atk Weight +1\n<style=\"highlight\">- [BeforeUse] At 5+ [Charge], this Skill does not gain the [CantIdentify] effect</style>\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power <style=\"highlight\">+2</style>\n<style=\"highlight\">[BeforeAttack] At 8+ remaining [Charge] Count, consume 8 [Charge] Count to deal +40% damage</style>",
+          "desc": "Deal <style=\"highlight\">+4%</style> damage for every [Charge] (Maks <style=\"highlight\">20%</style>)\n[WhenUse] At 5~9 [Charge] Count:\n- Gain <style=\"highlight\">10</style> [Sinking] and raise this unit's [Charge] Count to 10\n- This Skill gains the following attributes: [CantIdentify], [WideAreaRampage], and Atk Weight +1\n<style=\"highlight\">- [BeforeUse] At 5+ [Charge], this Skill does not gain the [CantIdentify] effect</style>\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power <style=\"highlight\">+2</style>\n<style=\"highlight\">[BeforeAttack] At 8+ remaining [Charge] Count, consume 8 [Charge] Count to deal +40% damage</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1947,15 +1947,15 @@
         {
           "level": 3,
           "name": "Concentration",
-          "desc": "Coin Power +1 for every [Charge] (max 5)\nAt 10+ [Charge] Count, Final Power +2\n[WhenUse] Gain +5 [Charge] Count",
+          "desc": "Coin Power +1 for every [Charge] (Maks 5)\nAt 10+ [Charge] Count, Final Power +2\n[WhenUse] Gain +5 [Charge] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +(this Skill's Power x 5)% damage (max 100%)"
+                  "desc": "Deal +(this Skill's Power x 5)% damage (Maks 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] + 1) [Charge] Count (max 6)"
+                  "desc": "[OnSucceedAttack] Gain +([Charge] + 1) [Charge] Count (Maks 6)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 [Sinking] and +2 [Sinking] Count"
@@ -1967,18 +1967,18 @@
         {
           "level": 4,
           "name": "Concentration",
-          "desc": "<style=\"highlight\">Base Power +1</style> and Coin Power +1 for every [Charge] <style=\"highlight\">(max 5 each)</style>\nAt 10+ [Charge] Count, Final Power <style=\"highlight\">+4</style>\n[WhenUse] Gain <style=\"highlight\">+7</style> [Charge] Count",
+          "desc": "<style=\"highlight\">Base Power +1</style> and Coin Power +1 for every [Charge] <style=\"highlight\">(Maks 5 each)</style>\nAt 10+ [Charge] Count, Final Power <style=\"highlight\">+4</style>\n[WhenUse] Gain <style=\"highlight\">+7</style> [Charge] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +(this Skill's Power x 5)% damage (max <style=\"highlight\">150%</style>)"
+                  "desc": "Deal +(this Skill's Power x 5)% damage (Maks <style=\"highlight\">150%</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">At 3+ [Charge], deal +20% damage for every [Charge] (max 100%)</style>"
+                  "desc": "<style=\"highlight\">At 3+ [Charge], deal +20% damage for every [Charge] (Maks 100%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] + <style=\"highlight\">3</style>) [Charge] Count (max <style=\"highlight\">8</style>)"
+                  "desc": "[OnSucceedAttack] Gain +([Charge] + <style=\"highlight\">3</style>) [Charge] Count (Maks <style=\"highlight\">8</style>)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 [Sinking] and <style=\"highlight\">+4</style> [Sinking] Count"
