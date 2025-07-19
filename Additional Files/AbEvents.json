@@ -42,59 +42,59 @@
     {
       "id": 800105,
       "title": "백설선택지5",
-      "eventDesc": "The Sinners peered at its face.\nThey gazed upon the weathered memories within…\n\nDown to the holes left by pests.\n\nAn apple does not culminate when it ripens to a glossy red.\nWhen the apple browns, cracks, shrivels, and attracts lowly creatures…\nThat is when it has met its golden bliss.\n\nThe Sinners knew now was the time to bring the apple to the earth.",
-      "prevDesc": "The fruit was borne again.\nMaybe this is a chance to destroy it once and for all?",
-      "behaveDesc": "The apple is open for attack.\nWho was the Sinner to bring down the apple in its moment of bliss?",
+      "eventDesc": "Günahkârlar, onun suratına doğru baktı.\nOndaki yıpranmış anılara doğru, gözlerini diktiler…\n\nZararlılar tarafından bırakılan deliklere doğru.\n\nOlgunlaştığı zaman, parlak kırmızı renge ulaşamayan bir elma.\nElmanın rengi kahverengiye döndüğünde, çatlar, büzülür, ve nihayetinde alçak yaratıkları kendine çekti…\nİşte bu, altın kadar değerli bir mutluluğa ulaştığı zamandı.\n\nGünâhkarlar, elmayı artık toprağa indirmenin zamanının geldiğinin farkındaydı.",
+      "prevDesc": "Meyve tekrar doğmuştu.\nBelki de bu, onu tamamen yok etmemiz için bir şanstır?",
+      "behaveDesc": "Elma saldırıya açıktı.\nHangi Günahkâr, elmanın bu mutlu anında onu indiren olacaktı?",
       "successDesc": [
-        "{0} brought the apple to the ground.\nThe fall left a dull thud.\n\nThe fruit was emptied of its lifeblood long ago; only futility remained.\nThis attack allowed the Sinners a brief moment of respite."
+        "{0} elmayı yere indirdi.\nDüşüş, donuk bir gümlemeye sebebiyet verdi.\n\nMeyvenin canlılığı, tamamen yok olmuş; geriye, yalnızca boşunalık kalmıştı.\nSaldırı sayesinde Günahkârların rahatlamak için belirli bir süresi olmuştu."
       ],
       "failureDesc": [
-        "{0} could not strike the apple.\nIt must have been the Sinner’s wavering heart that caused them to falter.\n\nThe mind is such a superficial thing.\nIn any mind, you will find a sense of inferiority that likes to belittle the self."
+        "{0} elmaya saldıramadı.\nSaldırının başarısız olma sebebi, Günahkârın tereddüt eden kalbiydi.\n\nZihin ayrımsız bir şeydir.\nHerhangi bir zihin, kendini küçümsemeyi sever."
       ]
     },
     {
       "id": 800801,
       "title": "구더기사과선택지1",
-      "eventDesc": "The apple’s body broke, and the raging fruit still grew.\nCould the Golden Bough really be in there?\n\n“I’ll go check it out!”\nYuri said to the others.\n\nThe Sinner with a bug’s arm seems nervous about this.\nDoes he want to go with her, perhaps?",
-      "prevDesc": "Maybe the Golden Bough lies inside the apple?",
-      "behaveDesc": "You can’t just send Yuri out there alone.\nWhat Sinner will be able to keep her safe?",
+      "eventDesc": "Elmanın gövdesi parçalandı ve öfkelenen meyve büyümeye devam etti.\nAltın Dal cidden orada olabilir miydi?\n\n“Gidip kontrol edeceğim!”\nDedi Yuri.\n\nBöcek koluna sahip olan Günahkâr bu konuda biraz endişeli görünüyordu.\nBelki de onunla beraber gitmek istiyordur?",
+      "prevDesc": "Belki de Altın Dal, elmanın içerisindedir?",
+      "behaveDesc": "Yuri'yi oracıkta yalnız bırakamazsın.\nHangi Günahkâr onu güvende tutacak?",
       "successDesc": [
-        "The fruit’s cracked shell suddenly began to rattle as if it would jump at any moment.\n\n{0} managed to escape, but it seems Yuri couldn’t.\nThe fruit’s flesh melted to form a new body.\n\nDon’t feel too guilty about it. One lost life is better than two."
+        "Meyvenin çatlamış olan kabuğundan, bir anda atlayacakmış gibi bir hırıltı sesi çıktı.\n\n{0} kaçmayı başardı, ama görünen o ki, Yuri başaramadı.\nMeyvenin iç kısmı, yeni bir form oluşturmak adına erimeye başladı.\n\nBu konuda suçlu hissetme. Tek bir canın kaybı, iki canın kaybından iyidir."
       ],
       "failureDesc": [
-        "The fruit’s cracked shell suddenly began to rattle as if it would jump at any moment.\n\n{0} was too occupied to notice it in time.\nThey managed to get away but ended up injured.\n\nYuri was even later to notice. The fruit’s flesh had already melted with her to form a new body.\n\nIt’s unfortunate, but there’s nothing we can do about it. One of our own got hurt, too."
+        "Meyvenin çatlamış olan kabuğundan, bir anda atlayacakmış gibi bir hırıltı sesi çıktı.\n\n{0} zamanında fark edemeyecek kadar kendini kaptırmıştı.\nÇıkmayı başarmış olsa bile yaralanmıştı.\n\nYuri ise fark etme konusunda daha da gecikmişti. Meyvenin iç kısmı; çoktan, onunla yeni bir form oluşturmak adına erimişti.\n\nBahtsız bir andı, ama bu konuda yapabileceğimiz hiçbir şey yoktu. Bizden birisi de yaralanmıştı."
       ]
     },
     {
       "id": 800201,
-      "prevDesc": "The Abnormality looks upset.\nIt seems to want something, but what should we give?"
+      "prevDesc": "Anomali üzgün görünüyordu.\nBir şey istiyor gibiydi, ama neydi?"
     },
     {
       "id": 800202,
       "title": "아즈텍원판선택지2",
-      "eventDesc": "It looks like one of the Sinners will have to do a clay doll’s job.",
-      "behaveDesc": "Who would appease the Abnormality?",
+      "eventDesc": "Görünüşe bakılırsa Günahkârlardan birisi kil oyuncağın görevini üstlenecek.",
+      "behaveDesc": "Anomaliyi yatıştıracak olan kimdi?",
       "successDesc": [
-        "It appears that {0}’s blood was fresh enough.\nSatiated, the Abnormality calmed down for a moment."
+        "Görünüşse bakılırsa {0}’ın kanı yeterince tazeydi.\nTatmin olmuş bir şekilde, Anomali sakinleşmişti."
       ],
       "failureDesc": [
-        "It didn’t seem to like {0}’s blood.\nThe Abnormality looks even madder than before."
+        "{0}’ın kanı yeterince taze değilmiş gibi görünüyordu.\nAnomali olması gerekenden daha da sinirlenmiş gibiydi."
       ]
     },
     {
       "id": 800203,
-      "prevDesc": "The heat of the Abnormality is wearing everyone down.\nWe’ll have to make an offering to calm its wrath."
+      "prevDesc": "Anomaliden yayılan ısı herkesi sarıyordu.\nÖfkesini dindirmek adına ona bir adak vermeliydik."
     },
     {
       "id": 800204,
       "title": "아즈텍원판선택지4",
-      "eventDesc": "It looks like one of the Sinners will have to do a clay doll’s job.",
-      "behaveDesc": "Whose heart would be the coldest among them?",
+      "eventDesc": "Görünüşe bakılırsa Günahkârlardan birisi kil oyuncağın görevini üstlenecek.",
+      "behaveDesc": "Aralarında, kalbi en soğuk olan kim olabilirdi?",
       "successDesc": [
-        "{0} was able to cool the Abnormality’s fervor.\nThe flame shrunk to a flicker."
+        "{0} Anomalinin ısısını dindirmeyi başardı.\nAlevler, titrek bir hâle gelmişti."
       ],
       "failureDesc": [
-        "Maybe {0} was warmer than we thought.\nThe Abnormality’s belching an even fiercer flame now."
+        "Belki de {0} düşündüğümüzden daha sıcaktı.\nAnomaliden yayılan alevler artık daha şiddetliydi."
       ]
     },
     {
