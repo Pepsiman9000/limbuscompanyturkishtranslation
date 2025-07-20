@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lantern",
+          "name": "Fener",
           "abName": "Faelantern",
           "desc": "",
           "coinlist": [
@@ -23,7 +23,7 @@
         },
         {
           "level": 3,
-          "name": "Lantern",
+          "name": "Fener",
           "abName": "Faelantern",
           "desc": "[BeforeAttack] At 50%- HP, Atk Weight +1",
           "coinlist": [
@@ -41,7 +41,7 @@
         },
         {
           "level": 4,
-          "name": "Lantern",
+          "name": "Fener",
           "abName": "Faelantern",
           "desc": "[BeforeAttack] At 50%- HP, Atk Weight +2",
           "coinlist": [
@@ -64,7 +64,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lantern",
+          "name": "Fener",
           "abName": "Faelantern",
           "desc": "[CantIdentify] \nTarget the unit with the most HP",
           "coinlist": [
@@ -82,7 +82,7 @@
         },
         {
           "level": 3,
-          "name": "Lantern",
+          "name": "Fener",
           "abName": "Faelantern",
           "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +1",
           "coinlist": [
@@ -103,7 +103,7 @@
         },
         {
           "level": 4,
-          "name": "Lantern",
+          "name": "Fener",
           "abName": "Faelantern",
           "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +2",
           "coinlist": [
@@ -130,7 +130,7 @@
         {
           "level": 1,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Deri Peygamberi",
           "desc": "",
           "coinlist": [
             {
@@ -148,7 +148,7 @@
         {
           "level": 3,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Deri Peygamberi",
           "desc": "[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1",
           "coinlist": [
             {
@@ -166,7 +166,7 @@
         {
           "level": 4,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Deri Peygamberi",
           "desc": "[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson.), additional Atk Weight +1",
           "coinlist": [
             {
@@ -192,7 +192,7 @@
         {
           "level": 1,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Deri Peygamberi",
           "desc": "[CantIdentify]\nTargets randomly",
           "coinlist": [
             {
@@ -210,7 +210,7 @@
         {
           "level": 3,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Deri Peygamberi",
           "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1",
           "coinlist": [
             {
@@ -231,7 +231,7 @@
         {
           "level": 4,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Deri Peygamberi",
           "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson), additional Atk Weight +1",
           "coinlist": [
             {
@@ -256,8 +256,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cavernous Wailing",
-          "abName": "Blubbering Toad",
+          "name": "Mağarasal Feryat",
+          "abName": "Ağlayan Kurbağa",
           "desc": "[BeforeAttack] At 4+ highest Reson., Atk Weight +1",
           "coinlist": [
             {
@@ -280,8 +280,8 @@
         },
         {
           "level": 3,
-          "name": "Cavernous Wailing",
-          "abName": "Blubbering Toad",
+          "name": "Mağarasal Feryat",
+          "abName": "Ağlayan Kurbağa",
           "desc": "<style=\"highlight\">[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)</style>",
           "coinlist": [
             {
@@ -301,8 +301,8 @@
         },
         {
           "level": 4,
-          "name": "Cavernous Wailing",
-          "abName": "Blubbering Toad",
+          "name": "Mağarasal Feryat",
+          "abName": "Ağlayan Kurbağa",
           "desc": "[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -327,8 +327,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cavernous Wailing",
-          "abName": "Blubbering Toad",
+          "name": "Mağarasal Feryat",
+          "abName": "Ağlayan Kurbağa",
           "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n[BeforeAttack] Gain +5 [Aggro] to this Skill Slot next turn",
           "coinlist": [
             {
@@ -351,8 +351,8 @@
         },
         {
           "level": 3,
-          "name": "Cavernous Wailing",
-          "abName": "Blubbering Toad",
+          "name": "Mağarasal Feryat",
+          "abName": "Ağlayan Kurbağa",
           "desc": "[CantIdentify]\nTargets Randomly\n<style=\"highlight\">[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)</style>\n[BeforeAttack] Gain <style=\"highlight\">+10 [Aggro]</style> to this Skill Slot next turn",
           "coinlist": [
             {
@@ -375,8 +375,8 @@
         },
         {
           "level": 4,
-          "name": "Cavernous Wailing",
-          "abName": "Blubbering Toad",
+          "name": "Mağarasal Feryat",
+          "abName": "Ağlayan Kurbağa",
           "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)\n[BeforeAttack] Gain +10 [Aggro] to this Skill Slot next turn<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -407,8 +407,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hex Nail",
-          "abName": "Hurting Teddy Bear",
+          "name": "Beddualı Çivi",
+          "abName": "Acıtan Oyuncak Ayı",
           "desc": "[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
           "coinlist": [
             {
@@ -432,8 +432,8 @@
         },
         {
           "level": 3,
-          "name": "Hex Nail",
-          "abName": "Hurting Teddy Bear",
+          "name": "Beddualı Çivi",
+          "abName": "Acıtan Oyuncak Ayı",
           "desc": "<style=\"highlight\">[BeforeAttack] At 4+ Envy Reson. including this Skill, Atk Weight +1</style>\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
           "coinlist": [
             {
@@ -460,8 +460,8 @@
         },
         {
           "level": 4,
-          "name": "Hex Nail",
-          "abName": "Hurting Teddy Bear",
+          "name": "Beddualı Çivi",
+          "abName": "Acıtan Oyuncak Ayı",
           "desc": "<style=\"highlight\">[BeforeAttack] For every 3 Envy Reson. including this Skill, Atk Weight +1 (max 2)</style>\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
           "coinlist": [
             {
@@ -496,8 +496,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hex Nail",
-          "abName": "Hurting Teddy Bear",
+          "name": "Beddualı Çivi",
+          "abName": "Acıtan Oyuncak Ayı",
           "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
           "coinlist": [
             {
@@ -521,8 +521,8 @@
         },
         {
           "level": 3,
-          "name": "Hex Nail",
-          "abName": "Hurting Teddy Bear",
+          "name": "Beddualı Çivi",
+          "abName": "Acıtan Oyuncak Ayı",
           "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -549,8 +549,8 @@
         },
         {
           "level": 4,
-          "name": "Hex Nail",
-          "abName": "Hurting Teddy Bear",
+          "name": "Beddualı Çivi",
+          "abName": "Acıtan Oyuncak Ayı",
           "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>",
           "coinlist": [
             {
