@@ -740,7 +740,7 @@
         {
           "level": 1,
           "name": "Maksimize Tersine Arcana Slave - Nefretin Silinişi",
-          "abName": "The Queen of Hatred",
+          "abName": "Nefretin Kraliçesi",
           "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain +([Charge]) Atk Weight (max 5)\n\n[BeforeAttack] Consume all [Charge] Count and deal +1% more damage for every [Charge] Count consumed (max 20%)\n\n[BeforeAttack] If the main target has [VillainMark], deal +3% damage for every [Charge] (max 15%)\n\n[BeforeAttack] Deal +5% damage for every 3 Envy Reson. (max 10%, rounded down)\n\n[BeforeAttack] Base Power -12 for every Cracked Coin (max -24)\n\n[EndSkill] If this unit is a Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [HystericGauge]",
           "coinlist": [
             {
@@ -771,7 +771,7 @@
         {
           "level": 3,
           "name": "Maksimize Tersine Arcana Slave - Nefretin Silinişi",
-          "abName": "The Queen of Hatred",
+          "abName": "Nefretin Kraliçesi",
           "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain +([Charge]) Atk Weight (max 5)\n<style=\"highlight\">- If this unit has [NoVillain], gain +([Charge] + 1) Atk Weight instead (max 5)</style>\n\n[BeforeAttack] Consume all [Charge] Count and deal +<style=\"highlight\">2</style>% more damage for every [Charge] Count consumed (max <style=\"highlight\">40</style>%)\n\n[BeforeAttack] If the main target has [VillainMark], deal +<style=\"highlight\">5</style>% damage for every [Charge] (max <style=\"highlight\">25</style>%)\n<style=\"highlight\">- If this unit has [HystericGauge], deal +7% damage for every [Charge] instead (max 35%)</style>\n\n[BeforeAttack] Deal +<style=\"highlight\">7</style>% damage for every 2 Envy Reson. (max <style=\"highlight\">21</style>%, rounded down)\n\n[BeforeAttack] Base Power -12 for every Cracked Coin (max -24)\n\n[EndSkill] If this unit is a Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [HystericGauge]",
           "coinlist": [
             {
@@ -802,7 +802,7 @@
         {
           "level": 4,
           "name": "Maksimize Tersine Arcana Slave - Nefretin Silinişi",
-          "abName": "The Queen of Hatred",
+          "abName": "Nefretin Kraliçesi",
           "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain +([Charge]) Atk Weight (max 5)\n- If this unit has [NoVillain], gain +([Charge] + 1) Atk Weight instead (max 5)\n\n[BeforeAttack] Consume all [Charge] Count and deal <style=\"highlight\">+2.5%</style> more damage for every [Charge] Count consumed (max <style=\"highlight\">50</style>%)\n\n[BeforeAttack] If the main target has [VillainMark], deal +5% damage for every [Charge] (max 25%)\n- If this unit has [HystericGauge], deal +<style=\"highlight\">10</style>% damage for every [Charge] instead (max <style=\"highlight\">50</style>%)\n\n[BeforeAttack] Deal+<style=\"highlight\">10</style>% damage for every 2 Envy Reson. (max <style=\"highlight\">30</style>%, rounded down)\n\n[BeforeAttack] Base Power -12 for every Cracked Coin (max -24)\n\n[EndSkill] If this unit is a Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [HystericGauge]",
           "coinlist": [
             {
