@@ -1845,477 +1845,475 @@
       ]
 },
     {
-      "id": 1031201,
-      "levelList": [
+  "id": 1031201,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Müdür Efendi'nin Emirleriyle Buradayım!",
+      "desc": "[WhenUse] +2 [ThePowerOfLoveAndHate] Miktar kazan",
+      "coinlist": [
         {
-          "level": 1,
-          "name": "By Manager Esquire's Orders, I Am Here!",
-          "desc": "[WhenUse] Gain +2 [ThePowerOfLoveAndHate] Count",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": ""
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
-                }
-              ]
+              "desc": ""
             }
           ]
         },
         {
-          "level": 2,
-          "name": "By Manager Esquire's Orders, I Am Here!",
-          "desc": "<style=\"highlight\">[WhenUse] Consume 5 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [ThePowerOfLoveAndHate] Count",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": ""
-                }
-              ]
+              "desc": "[OnSucceedAttack] +2 [ThePowerOfLoveAndHate] Miktar kazan"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Burst]"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "By Manager Esquire's Orders, I Am Here!",
-          "desc": "[WhenUse] Consume 5 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 2 [ThePowerOfLoveAndHate] (max 2)</style>\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count",
-          "coinlist": [
-            {
-              "coindescs": [
-                {}
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">3</style> [ThePowerOfLoveAndHate] Count"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Burst]"
-                }
-              ]
+              "desc": "[OnSucceedAttack] 1 [Burst] uygula"
             }
           ]
         }
       ]
     },
     {
-      "id": 1031202,
-      "levelList": [
+      "level": 2,
+      "name": "Müdür Efendi'nin Emirleriyle Buradayım!",
+      "desc": "<style=\"highlight\">[WhenUse] Kendindeki 5 [ThePowerOfLoveAndHate] Miktarını tüketerek Jeton Gücü +1 kazan</style>\n[WhenUse] +<style=\"highlight\">3</style> [ThePowerOfLoveAndHate] Miktar kazan",
+      "coinlist": [
         {
-          "level": 1,
-          "name": "With Love! Hyah!",
-          "desc": "[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
-                }
-              ]
+              "desc": ""
             }
           ]
         },
         {
-          "level": 2,
-          "name": "With Love! Hyah!",
-          "desc": "<style=\"highlight\">[WhenUse] Deal +6% damage for every [ThePowerOfLoveAndHate] on self (max 30%)\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1</style>\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">4</style> [ThePowerOfLoveAndHate] Count"
-                }
-              ]
+              "desc": "[OnSucceedAttack] +2 [ThePowerOfLoveAndHate] Miktar kazan<style=\"highlight\"></style>"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Burst]"
-                },
-                {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict [VillainMark] against the main target next turn</style>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "With Love! Hyah!",
-          "desc": "[WhenUse] Deal +<style=\"highlight\">10</style>% damage for every [ThePowerOfLoveAndHate] on self (max <style=\"highlight\">50</style>%)\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1\n[WhenUse] Gain +<style=\"highlight\">5</style> [ThePowerOfLoveAndHate] Count",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain +4 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Inflict [VillainMark] against the main target next turn"
-                }
-              ]
+              "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Burst] uygula"
             }
           ]
         }
       ]
     },
     {
-      "id": 1031203,
-      "levelList": [
+      "level": 4,
+      "name": "Müdür Efendi'nin Emirleriyle Buradayım!",
+      "desc": "[WhenUse] Kendindeki 5 [ThePowerOfLoveAndHate] Miktarını tüketerek Jeton Gücü +1 kazan\n<style=\"highlight\">[WhenUse] Her 2 [ThePowerOfLoveAndHate] için Jeton Gücü +1 (maks 2)</style>\n[WhenUse] +3 [ThePowerOfLoveAndHate] Miktar kazan",
+      "coinlist": [
         {
-          "level": 3,
-          "name": "Arcana Beats!! / Minor Arcana Slave!!!",
-          "desc": "Deal +15% damage for every [ArcanaQueenOfHate] on self (max 45%)\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], deal +([ThePowerOfLoveAndHate] x 15)% damage (max 75%)\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], Base Power +1\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Coin Power (Coin Power +1 for every 5 Count consumed, max 2)\n[WhenUse] Gain +6 [ThePowerOfLoveAndHate] Count\n[EndSkill] Gain 1 [ArcanaQueenOfHate]",
-          "coinlist": [
+          "coindescs": [
+            {}
+          ]
+        },
+        {
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                }
-              ]
+              "desc": "[OnSucceedAttack] +<style=\"highlight\">3</style> [ThePowerOfLoveAndHate] Miktar kazan"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
-                }
-              ]
-            },
+              "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Burst] uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1031202,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Aşkla! Hyah!",
+      "desc": "[WhenUse] +3 [ThePowerOfLoveAndHate] Miktar kazan",
+      "coinlist": [
+        {
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
-                }
-              ]
+              "desc": "[OnSucceedAttack] +3 [ThePowerOfLoveAndHate] Miktar kazan"
             }
           ]
         },
         {
-          "level": 4,
-          "name": "Arcana Beats!! / Minor Arcana Slave!!!",
-          "desc": "Deal +<style=\"highlight\">30</style>% damage for every [ArcanaQueenOfHate] on self (max <style=\"highlight\">90</style>%)\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], deal +([ThePowerOfLoveAndHate] x <style=\"highlight\">20</style>)% damage <style=\"highlight\">(max 100%)</style>\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], Base Power +<style=\"highlight\">2</style>\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Coin Power (Coin Power +1 for every 5 Count consumed, max <style=\"highlight\">4</style>)\n[WhenUse] Gain +6 [ThePowerOfLoveAndHate] Count\n[EndSkill] Gain 1 [ArcanaQueenOfHate]",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
-                }
-              ]
+              "desc": "[OnSucceedAttack] 1 [Burst] uygula"
             }
           ]
         }
       ]
     },
     {
-      "id": 1031204,
-      "levelList": [
+      "level": 2,
+      "name": "Aşkla! Hyah!",
+      "desc": "<style=\"highlight\">[WhenUse] Kendindeki her [ThePowerOfLoveAndHate] için +6% hasar ver (maks 30%)\n[WhenUse] Kendindeki 6 [ThePowerOfLoveAndHate] Miktarını tüketerek Jeton Gücü +1 kazan</style>\n[WhenUse] +3 [ThePowerOfLoveAndHate] Miktar kazan",
+      "coinlist": [
         {
-          "level": 1,
-          "name": "Rapid Chant",
-          "desc": "[CanDuelGuard]\n[WhenUse] Base Power +1 for every [HystericGauge] (max 2)\n[WhenUse] Gain +2 [ThePowerOfLoveAndHate] Count (2 times per turn)",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                }
-              ]
+              "desc": "[OnSucceedAttack] +<style=\"highlight\">4</style> [ThePowerOfLoveAndHate] Miktar kazan"
             }
           ]
         },
         {
-          "level": 4,
-          "name": "Rapid Chant",
-          "desc": "[CanDuelGuard]\n[WhenUse] Base Power +1 for every [HystericGauge] <style=\"highlight\">(max 3)</style>\n[WhenUse] Gain +<style=\"highlight\">4</style> [ThePowerOfLoveAndHate] Count (2 times per turn)",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                }
-              ]
+              "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Burst] uygula"
+            },
+            {
+              "desc": "<style=\"highlight\">[OnSucceedAttackHead] Ana hedefe bir sonraki tur [VillainMark] uygula</style>"
             }
           ]
         }
       ]
     },
     {
-      "id": 1031205,
-      "levelList": [
+      "level": 4,
+      "name": "Aşkla! Hyah!",
+      "desc": "[WhenUse] Kendindeki her [ThePowerOfLoveAndHate] için +<style=\"highlight\">10</style>% hasar ver (maks <style=\"highlight\">50</style>%)\n[WhenUse] Kendindeki 6 [ThePowerOfLoveAndHate] Miktarını tüketerek Jeton Gücü +1 kazan\n[WhenUse] +<style=\"highlight\">5</style> [ThePowerOfLoveAndHate] Miktar kazan",
+      "coinlist": [
         {
-          "level": 1,
-          "name": "Where are... the villains...?",
-          "desc": "Deal +3% damage for every [HystericGauge] on self (max 9%)\n[WhenUse] Gain +2 [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 5 SP",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": ""
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
-                }
-              ]
+              "desc": "[OnSucceedAttack] +4 [ThePowerOfLoveAndHate] Miktar kazan<style=\"highlight\"></style>"
             }
           ]
         },
         {
-          "level": 2,
-          "name": "Where are... the villains...?",
-          "desc": "Deal <style=\"highlight\">+4%</style> damage for every [HystericGauge] on self <style=\"highlight\">(max 12%)</style>\n<style=\"highlight\">[WhenUse] Consume 5 [ThePowerOfLoveAndHate] Count on self to gain Base Power +1</style>\n[WhenUse] Gain <style=\"highlight\">+3</style> [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 5 SP",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": ""
-                }
-              ]
+              "desc": "[OnSucceedAttack] 2 [Burst] uygula<style=\"highlight\"></style>"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Sinking]"
-                }
-              ]
+              "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Ana hedefe bir sonraki tur [VillainMark] uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1031203,
+  "levelList": [
+    {
+      "level": 3,
+      "name": "Arcana Beats!! / Minor Arcana Slave!!!",
+      "desc": "Kendindeki her [ArcanaQueenOfHate] için +15% hasar ver (maks 45%)\n[WhenUse] 3+ [ThePowerOfLoveAndHate] varsa, +([ThePowerOfLoveAndHate] x 15)% hasar ver (maks 75%)\n[WhenUse] 3+ [ThePowerOfLoveAndHate] varsa, Temel Güç +1\n[WhenUse] [ThePowerOfLoveAndHate] Miktarını tüketerek Jeton Gücü kazan (Her 5 Miktar için Jeton Gücü +1, maks 2)\n[WhenUse] +6 [ThePowerOfLoveAndHate] Miktar kazan\n[EndSkill] 1 [ArcanaQueenOfHate] kazan",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
             }
           ]
         },
         {
-          "level": 4,
-          "name": "Where are... the villains...?",
-          "desc": "Deal <style=\"highlight\">+5%</style> damage for every [HystericGauge] on self <style=\"highlight\">(max 15%)</style>\n<style=\"highlight\">[WhenUse] Consume 5 [ThePowerOfLoveAndHate] Count on self to gain Base Power +1</style>\n<style=\"highlight\">[WhenUse] Base Power +1 for every 2 [ThePowerOfLoveAndHate] on self (max 2)</style>\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 5 SP",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {}
-              ]
+              "desc": "[SuperCoin]"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">3</style> [ThePowerOfLoveAndHate] Count"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]"
-                }
-              ]
+              "desc": "[UnBrokenCoinOnSucceedAttack] 2 [Burst] uygula"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            },
+            {
+              "desc": "[UnBrokenCoinOnSucceedAttack] 2 [Burst] uygula"
             }
           ]
         }
       ]
     },
     {
-      "id": 1031206,
-      "levelList": [
+      "level": 4,
+      "name": "Arcana Beats!! / Minor Arcana Slave!!!",
+      "desc": "Kendindeki her [ArcanaQueenOfHate] için +<style=\"highlight\">30</style>% hasar ver (maks <style=\"highlight\">90</style>%)\n[WhenUse] 3+ [ThePowerOfLoveAndHate] varsa, +([ThePowerOfLoveAndHate] x <style=\"highlight\">20</style>)% hasar ver <style=\"highlight\">(maks 100%)</style>\n[WhenUse] 3+ [ThePowerOfLoveAndHate] varsa, Temel Güç +<style=\"highlight\">2</style>\n[WhenUse] [ThePowerOfLoveAndHate] Miktarını tüketerek Jeton Gücü kazan (Her 5 Miktar için Jeton Gücü +1, maks <style=\"highlight\">4</style>)\n[WhenUse] +6 [ThePowerOfLoveAndHate] Miktar kazan\n[EndSkill] 1 [ArcanaQueenOfHate] kazan",
+      "coinlist": [
         {
-          "level": 1,
-          "name": "Get out of my head...",
-          "desc": "If this unit has [HystericGauge], Clash Power +1\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 8 SP",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
-                }
-              ]
+              "desc": "[SuperCoin]"
             }
           ]
         },
         {
-          "level": 2,
-          "name": "Get out of my head...",
-          "desc": "If this unit has [HystericGauge], <style=\"highlight\">Base Power +1</style>\n<style=\"highlight\">[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Base Power +1</style>\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 8 SP",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
-                }
-              ]
+              "desc": "[SuperCoin]"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Sinking]"
-                },
-                {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Inflict [VillainMark] against the main target next turn</style>"
-                }
-              ]
+              "desc": "[UnBrokenCoinOnSucceedAttack] 2 [Burst] uygula"
             }
           ]
         },
         {
-          "level": 4,
-          "name": "Get out of my head...",
-          "desc": "<style=\"highlight\">Base Power +1 for every [HystericGauge] on self (max 2)\n- At 3 [HystericGauge], gain +1 Atk Weight\n- Deal -50% damage against sub-targets</style>\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Base Power +1\n[WhenUse] Gain +<style=\"highlight\">5</style> [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 8 SP",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
-                }
-              ]
+              "desc": "[SuperCoin]"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Inflict [VillainMark] against the main target next turn"
-                }
-              ]
+              "desc": "[UnBrokenCoinOnSucceedAttack] 2 [Burst] uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1031204,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Rapid Chant",
+      "desc": "[CanDuelGuard]\n[WhenUse] Her [HystericGauge] için Temel Güç +1 (maks 2)\n[WhenUse] +2 [ThePowerOfLoveAndHate] Miktar kazan (tur başına 2 kez)",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
             }
           ]
         }
       ]
     },
     {
-      "id": 1031207,
-      "levelList": [
+      "level": 4,
+      "name": "Rapid Chant",
+      "desc": "[CanDuelGuard]\n[WhenUse] Her [HystericGauge] için Temel Güç +1 <style=\"highlight\">(maks 3)</style>\n[WhenUse] +<style=\"highlight\">4</style> [ThePowerOfLoveAndHate] Miktar kazan (tur başına 2 kez)",
+      "coinlist": [
         {
-          "level": 3,
-          "name": "Reversed Beats / Reversed Arcana Slave",
-          "desc": "This Skill deals -50% damage against sub-targets\n\n[WhenUse] Consume all [HystericGauge] to gain Clash Power +1\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Clash Power (Clash Power +1 for every 8 Count consumed, max 2)\n[WhenUse] Deal +12% damage for every [ThePowerOfLoveAndHate] on self (max 60%)\n[BeforeAttack] Consume all [ArcanaQueenOfHate] on self to gain +1 Atk Weight\n[BeforeAttack] If this Skill only has a single target(for Focused Encounters, a Part), but has 2+ Atk Weight, deal +20% damage\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -18)\n[EndBattle] If this unit isn't at -45 SP, and is at less than 0 SP, heal 10 SP. Heal more SP the further this unit's SP value is from 0 (2 SP healed for every missing SP, max 50 SP)\n[WhenUse] Lose 10 SP",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                }
-              ]
-            },
+              "desc": "[SuperCoin]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1031205,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Kötüler... nerede...?",
+      "desc": "Kendindeki her [HystericGauge] için +3% hasar ver (maks 9%)\n[WhenUse] +2 [ThePowerOfLoveAndHate] Miktar kazan\n[WhenUse] 5 SP kaybet",
+      "coinlist": [
+        {
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]"
-                }
-              ]
+              "desc": ""
             }
           ]
         },
         {
-          "level": 4,
-          "name": "Reversed Beats / Reversed Arcana Slave",
-          "desc": "This Skill deals -50% damage against sub-targets\n\n[WhenUse] Consume all [HystericGauge]; <style=\"highlight\">Clash Power +1 for every Stack consumed (max 3)</style>\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Clash Power (Clash Power +1 for every <style=\"highlight\">5</style> Count consumed, max <style=\"highlight\">4</style>)\n[WhenUse] Deal +<style=\"highlight\">24</style>% damage for every [ThePowerOfLoveAndHate] on self (max <style=\"highlight\">120</style>%)\n[BeforeAttack] Consume all [ArcanaQueenOfHate] on self; <style=\"highlight\">gain +1 Atk Weight for every Stack consumed (max 3)\n- If this Skill consumed 3 [HystericGauge], gain +1 Atk Weight</style>\n[BeforeAttack] If this Skill only has a single target(for Focused Encounters, a Part), <style=\"highlight\">deal +(20 x (Atk Weight - 1))% damage (max 80%)</style>\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -18)\n[EndBattle] If this unit isn't at -45 SP, and is at less than 0 SP, heal 10 SP. Heal more SP the further this unit's SP value is from 0 (2 SP healed for every missing SP, max 50 SP)\n[WhenUse] Lose 10 SP",
-          "coinlist": [
+          "coindescs": [
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
-                }
-              ]
+              "desc": "[OnSucceedAttack] +2 [ThePowerOfLoveAndHate] Miktar kazan"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
-                }
-              ]
+              "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "name": "Kötüler... nerede...?",
+      "desc": "Kendindeki her [HystericGauge] için <style=\"highlight\">+4%</style> hasar ver <style=\"highlight\">(maks 12%)</style>\n<style=\"highlight\">[WhenUse] Kendindeki 5 [ThePowerOfLoveAndHate] Miktarını tüketerek Temel Güç +1 kazan</style>\n[WhenUse] <style=\"highlight\">+3</style> [ThePowerOfLoveAndHate] Miktar kazan\n[WhenUse] 5 SP kaybet",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] +2 [ThePowerOfLoveAndHate] Miktar kazan<style=\"highlight\"></style>"
             },
             {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
-                }
-              ]
+              "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Sinking] uygula"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "name": "Kötüler... nerede...?",
+      "desc": "Kendindeki her [HystericGauge] için <style=\"highlight\">+5%</style> hasar ver <style=\"highlight\">(maks 15%)</style>\n<style=\"highlight\">[WhenUse] Kendindeki 5 [ThePowerOfLoveAndHate] Miktarını tüketerek Temel Güç +1 kazan</style>\n<style=\"highlight\">[WhenUse] Kendindeki her 2 [ThePowerOfLoveAndHate] için Temel Güç +1 (maks 2)</style>\n[WhenUse] +3 [ThePowerOfLoveAndHate] Miktar kazan\n[WhenUse] 5 SP kaybet",
+      "coinlist": [
+        {
+          "coindescs": [
+            {}
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] +<style=\"highlight\">3</style> [ThePowerOfLoveAndHate] Miktar kazan"
+            },
+            {
+              "desc": "[OnSucceedAttack] <style=\"highlight\">3</style> [Sinking] uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1031206,
+  "levelList": [
+    {
+      "level": 1,
+      "name": "Kafamdan çık...",
+      "desc": "Bu birimde [HystericGauge] varsa, Çarpışma Gücü +1\n[WhenUse] +3 [ThePowerOfLoveAndHate] Miktar kazan\n[WhenUse] 8 SP kaybet",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] +3 [ThePowerOfLoveAndHate] Miktar kazan"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "name": "Kafamdan çık...",
+      "desc": "Bu birimde [HystericGauge] varsa, <style=\"highlight\">Temel Güç +1</style>\n<style=\"highlight\">[WhenUse] Kendindeki 6 [ThePowerOfLoveAndHate] Miktarını tüketerek Temel Güç +1 kazan</style>\n[WhenUse] +3 [ThePowerOfLoveAndHate] Miktar kazan\n[WhenUse] 8 SP kaybet",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] +3 [ThePowerOfLoveAndHate] Miktar kazan<style=\"highlight\"></style>"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Sinking] uygula"
+            },
+            {
+              "desc": "<style=\"highlight\">[OnSucceedAttackTail] Ana hedefe bir sonraki tur [VillainMark] uygula</style>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "name": "Kafamdan çık...",
+      "desc": "<style=\"highlight\">Kendindeki her [HystericGauge] için Temel Güç +1 (maks 2)\n- 3 [HystericGauge] varsa, +1 Atk Ağırlığı kazan\n- Yan hedeflere -50% hasar ver</style>\n[WhenUse] Kendindeki 6 [ThePowerOfLoveAndHate] Miktarını tüketerek Temel Güç +1 kazan\n[WhenUse] +<style=\"highlight\">5</style> [ThePowerOfLoveAndHate] Miktar kazan\n[WhenUse] 8 SP kaybet",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] +3 [ThePowerOfLoveAndHate] Miktar kazan<style=\"highlight\"></style>"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[OnSucceedAttack] 2 [Sinking] uygula<style=\"highlight\"></style>"
+            },
+            {
+              "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Ana hedefe bir sonraki tur [VillainMark] uygula"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1031207,
+  "levelList": [
+    {
+      "level": 3,
+      "name": "Ters Beats / Ters Arcana Slave",
+      "desc": "Bu Yetenek yan hedeflere -50% hasar verir\n\n[WhenUse] Tüm [HystericGauge]'ı tüketerek Çarpışma Gücü +1 kazan\n[WhenUse] [ThePowerOfLoveAndHate] Miktarını tüketerek Çarpışma Gücü kazan (Her 8 Miktar için Çarpışma Gücü +1, maks 2)\n[WhenUse] Kendindeki her [ThePowerOfLoveAndHate] için +12% hasar ver (maks 60%)\n[BeforeAttack] Kendindeki tüm [ArcanaQueenOfHate]'ı tüketerek +1 Atk Ağırlığı kazan\n[BeforeAttack] Bu Yetenek tek hedefe ise (Odaklanmış Karşılaşmalarda bir Parça), ancak 2+ Atk Ağırlığı varsa, +20% hasar ver\n[BeforeAttack] Kırık Jeton başına Temel Güç -6 (maks -18)\n[EndBattle] Bu birim -45 SP'de değilse ve 0 SP'nin altındaysa, 10 SP yenile. Bu birimin SP değeri 0'dan ne kadar uzaksa o kadar fazla SP yenile (Eksik her SP için 2 SP yenile, maks 50 SP)\n[WhenUse] 10 SP kaybet",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            },
+            {
+              "desc": "[UnBrokenCoinOnSucceedAttack] 2 [Sinking] uygula"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]"
+            },
+            {
+              "desc": "[UnBrokenCoinOnSucceedAttack] 2 [Sinking] uygula"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "name": "Ters Beats / Ters Arcana Slave",
+      "desc": "Bu Yetenek yan hedeflere -50% hasar verir\n\n[WhenUse] Tüm [HystericGauge]'ı tüket; <style=\"highlight\">Tüketilen her Yığın için Çarpışma Gücü +1 (maks 3)</style>\n[WhenUse] [ThePowerOfLoveAndHate] Miktarını tüketerek Çarpışma Gücü kazan (Her <style=\"highlight\">5</style> Miktar için Çarpışma Gücü +1, maks <style=\"highlight\">4</style>)\n[WhenUse] Kendindeki her [ThePowerOfLoveAndHate] için +<style=\"highlight\">24</style>% hasar ver (maks <style=\"highlight\">120</style>%)\n[BeforeAttack] Kendindeki tüm [ArcanaQueenOfHate]'ı tüket; <style=\"highlight\">Tüketilen her Yığın için +1 Atk Ağırlığı kazan (maks 3)\n- Eğer bu Yetenek 3 [HystericGauge] tükettiysen, +1 Atk Ağırlığı kazan</style>\n[BeforeAttack] Bu Yetenek tek hedefe ise (Odaklanmış Karşılaşmalarda bir Parça), <style=\"highlight\">+(20 x (Atk Ağırlığı - 1))% hasar ver (maks 80%)</style>\n[BeforeAttack] Kırık Jeton başına Temel Güç -6 (maks -18)\n[EndBattle] Bu birim -45 SP'de değilse ve 0 SP'nin altındaysa, 10 SP yenile. Bu birimin SP değeri 0'dan ne kadar uzaksa o kadar fazla SP yenile (Eksik her SP için 2 SP yenile, maks 50 SP)\n[WhenUse] 10 SP kaybet",
+      "coinlist": [
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]<style=\"highlight\"></style>"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]<style=\"highlight\"></style>"
+            },
+            {
+              "desc": "[UnBrokenCoinOnSucceedAttack] 2 [Sinking] uygula<style=\"highlight\"></style>"
+            }
+          ]
+        },
+        {
+          "coindescs": [
+            {
+              "desc": "[SuperCoin]<style=\"highlight\"></style>"
+            },
+            {
+              "desc": "[UnBrokenCoinOnSucceedAttack] 2 [Sinking] uygula<style=\"highlight\"></style>"
             }
           ]
         }
