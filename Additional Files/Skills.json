@@ -291,10 +291,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Pierce Fragility next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Delme Kırılganlığı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             }
@@ -691,7 +691,7 @@
         },
         {
           "level": 2,
-          "name": "Energy Cycle",
+          "name": "Enerji Döngüsü",
           "desc": "",
           "coinlist": [
             {
@@ -705,7 +705,7 @@
         },
         {
           "level": 4,
-          "name": "Energy Cycle",
+          "name": "Enerji Döngüsü",
           "desc": "[WhenUse] +2 [Charge] Miktarı kazan.",
           "coinlist": [
             {
@@ -797,7 +797,7 @@
         {
           "level": 4,
           "name": "Aşırı Yükleme",
-          "desc": "5+ [Charge] miktarına sahip olunduğunda, Clash Gücü +2.",
+          "desc": "5+ [Charge] miktarına sahip olunduğunda, Çarpışma Gücü +2.",
           "coinlist": [
             {},
             {},
@@ -1059,7 +1059,7 @@
         {
           "level": 3,
           "name": "Adalet için!",
-          "desc": "10+ Hızda, +2 Jeton Gücü",
+          "desc": "10+ Hızda, Jeton Gücü +2",
           "coinlist": [
             {},
             {},
@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "Adalet için!",
-          "desc": "10+ Hızda, +2 Jeton Gücü",
+          "desc": "10+ Hızda, Jeton Gücü +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1114,7 +1114,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Yırt",
+          "name": "Yırtma",
           "desc": "",
           "coinlist": [
             {
@@ -1128,7 +1128,7 @@
         },
         {
           "level": 2,
-          "name": "Yırt",
+          "name": "Yırtma",
           "desc": "",
           "coinlist": [
             {
@@ -1298,13 +1298,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Catch Breath",
+          "name": "Anlık Mola",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [Breath] next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 [Breath] kazan"
                 }
               ]
             }
@@ -1312,13 +1312,13 @@
         },
         {
           "level": 2,
-          "name": "Catch Breath",
+          "name": "Anlık Mola",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Breath] kazan"
                 }
               ]
             }
@@ -1327,12 +1327,12 @@
         {
           "level": 4,
           "name": "Catch Breath",
-          "desc": "[WhenUse] Gain 2 Haste next turn",
+          "desc": "[WhenUse] Sonraki tur 2 Hızlanma kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 [Breath] kazan"
                 }
               ]
             }
@@ -1345,20 +1345,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Dual Strike",
+          "name": "İkili Vuruş",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath] next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Haste next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Hızlanma kazan"
                 }
               ]
             }
@@ -1366,20 +1366,20 @@
         },
         {
           "level": 2,
-          "name": "Dual Strike",
-          "desc": "[WhenUse] At less than 50% HP, gain 2 Haste next turn",
+          "name": "İkili Vuruş",
+          "desc": "[WhenUse] Can 50%'den azsa, sonraki tur 2 Hızlanma kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Haste next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Hızlanma kazan"
                 }
               ]
             }
@@ -1387,20 +1387,20 @@
         },
         {
           "level": 4,
-          "name": "Dual Strike",
-          "desc": "[WhenUse] At less than 50% HP, gain 4 Haste next turn",
+          "name": "İkili Vuruş",
+          "desc": "[WhenUse] Can 50%'den azsa, sonraki tur 4 Hızlanma kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 Haste next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Hızlanma kazan"
                 }
               ]
             }
@@ -1413,16 +1413,16 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Overbreathe",
-          "desc": "At 10+ Speed, Skill Power +3",
+          "name": "Fazladan Nefes",
+          "desc": "Eğer hız 10+ ise, Yetenek Gücü +3",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Overbreathe",
-          "desc": "At 10+ Speed, Skill Power +5",
+          "name": "Fazladan Nefes",
+          "desc": "Eğer hız 10+ ise, Yetenek Gücü +5",
           "coinlist": [
             {}
           ]
@@ -1571,13 +1571,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slash",
+          "name": "Kesme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                 }
               ]
             }
@@ -1585,13 +1585,13 @@
         },
         {
           "level": 2,
-          "name": "Slash",
+          "name": "Kesme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -1604,13 +1604,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Upper Slash",
-          "desc": "[WinDuel] Gain 1 Attack Power Up next turn",
+          "name": "Yüksek Kesik",
+          "desc": "[WinDuel] Sonraki tur 1 Saldırı Güç Artışı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttackHead] 2 Defans Seviye Düşüşü uygula"
                 }
               ]
             }
@@ -1618,13 +1618,13 @@
         },
         {
           "level": 2,
-          "name": "Upper Slash",
-          "desc": "Skill Power +2 against units with Slash Fragility\n[WinDuel] Gain 1 Attack Power Up next turn",
+          "name": "Yüksek Kesik",
+          "desc": "Kesme Kırılganlığına sahip hedeflere karşı Yetenek Gücü +2\n[WinDuel] Sonraki tur 1 Saldırı Güç Artışı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] 2 Defans Seviye Düşüşü uygula"
                 }
               ]
             }
@@ -1637,13 +1637,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Swash",
-          "desc": "[WinDuel] This skill inflicts 2 additional Slash Fragility",
+          "name": "Çalkalama",
+          "desc": "[WinDuel] Bu yetenek ekstra 2 Kesme Kırılganlığı daha uygular",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Slash Fragility next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 3 Kesme Kırılganlığı uygula"
                 }
               ]
             },
@@ -1670,7 +1670,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Slash Fragility"
+                  "desc": "[OnSucceedAttack] 1 Kesme Kırılganlığı uygula"
                 }
               ]
             }
@@ -1683,13 +1683,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Focus Strike",
+          "name": "Odaklanma Vuruşu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] 1 [Paralysis] uygula"
                 }
               ]
             }
@@ -1697,13 +1697,13 @@
         },
         {
           "level": 2,
-          "name": "Focus Strike",
+          "name": "Odaklanma Vuruşu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -1711,13 +1711,13 @@
         },
         {
           "level": 4,
-          "name": "Focus Strike",
-          "desc": "If target has 2+ Bleed Count, deal +20% damage",
+          "name": "Odaklanma Vuruşu",
+          "desc": "Eğer hedefte 2+ Kanama Miktarı varsa, +20% daha fazla hasar vur",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] 3 [Paralysis] uygula"
                 }
               ]
             }
@@ -1730,20 +1730,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clean Up",
+          "name": "Temizleme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 Kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] +1 Kanama Miktarı uygula"
                 }
               ]
             }
@@ -1751,23 +1751,23 @@
         },
         {
           "level": 2,
-          "name": "Clean Up",
+          "name": "Temizleme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 Kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] +1 Kanama Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Damage Down"
+                  "desc": "[OnSucceedAttackHead] 2 Hasar Düşüşü uygula"
                 }
               ]
             }
@@ -1775,23 +1775,23 @@
         },
         {
           "level": 4,
-          "name": "Clean Up",
-          "desc": "If target has 5+ Bleed Count, deal +20% damage",
+          "name": "Temizleme",
+          "desc": "Eğer hedefte 5+ Kanama Miktarı varsa, +20% daha fazla hasar uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 Kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count "
+                  "desc": "[OnSucceedAttack] +3 Kanama Miktarı uygula "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Damage Down"
+                  "desc": "[OnSucceedAttackHead] 2 Hasar Düşüşü uygula"
                 }
               ]
             }
@@ -1804,23 +1804,23 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Lenticular Swirl",
+          "name": "Merceksi Girdap",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] 2 Kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] +3 Kanama Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [AttackDown]"
+                  "desc": "[OnSucceedAttack] 5 [AttackDown] uygula"
                 }
               ]
             }
@@ -1828,23 +1828,23 @@
         },
         {
           "level": 4,
-          "name": "Lenticular Swirl",
-          "desc": "If target has 9+ Bleed Count, deal +40% damage",
+          "name": "Merceksi Girdap",
+          "desc": "Eğer hedefte 9+ Kanama Miktarı varsa, +40% daha fazla hasar uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] 2 Kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] +3 Kanama Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [AttackDown]"
+                  "desc": "[OnSucceedAttack] 5 [AttackDown] uygula"
                 }
               ]
             }
@@ -1876,14 +1876,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 }
               ]
             }
@@ -1897,14 +1897,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] 1 Sarsıntı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] 1 Sarsıntı uygula"
                 }
               ]
             }
@@ -1917,13 +1917,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nailing Fist",
+          "name": "Çivileyen Yumruk",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle"
                 }
               ]
             }
@@ -1931,13 +1931,13 @@
         },
         {
           "level": 2,
-          "name": "Nailing Fist",
-          "desc": "[WhenUse] Gain 3 Defense Power Up next turn",
+          "name": "Çivileyen Yumruk",
+          "desc": "[WhenUse] Sonraki tur 3 Defans Güç Artışı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle"
                 }
               ]
             }
@@ -1951,7 +1951,7 @@
         {
           "level": 3,
           "name": "Des Coups",
-          "desc": "[WhenUse] Gain 3 Protection next turn",
+          "desc": "[WhenUse] Sonraki tur 3 Korunma kazan",
           "coinlist": [
             {},
             {},
@@ -1959,7 +1959,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] +2 Sarsıntı Miktarı uygula"
                 }
               ]
             }
@@ -1968,33 +1968,33 @@
         {
           "level": 4,
           "name": "Des Coups",
-          "desc": "[WhenUse] Gain 3 Protection next turn",
+          "desc": "[WhenUse] Sonraki tur 3 Korunma kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı uygula"
                 }
               ]
             }
@@ -2020,20 +2020,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Assault",
+          "name": "Saldırı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
                 }
               ]
             }
@@ -2041,20 +2041,20 @@
         },
         {
           "level": 2,
-          "name": "Assault",
+          "name": "Saldırı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             }
@@ -2062,20 +2062,20 @@
         },
         {
           "level": 4,
-          "name": "Assault",
+          "name": "Saldırı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] 2 Yanma uygula"
                 }
               ]
             }
@@ -2088,20 +2088,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stalwart Stance",
+          "name": "Korkusuz Duruş",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] 2 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
                 }
               ]
             }
@@ -2109,23 +2109,23 @@
         },
         {
           "level": 2,
-          "name": "Stalwart Stance",
+          "name": "Korkusuz Duruş",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] 2 Yanma uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Combustion] varsa, 2 rastgele düşmana 2 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             }
@@ -2133,23 +2133,23 @@
         },
         {
           "level": 4,
-          "name": "Stalwart Stance",
+          "name": "Korkusuz Duruş",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] 2 Yanma uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 3 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Combustion] varsa, 2 rastgele düşmana 3 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             }
@@ -2162,13 +2162,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Perfected Death Fist",
+          "name": "Mükemmelleştirilmiş Ölüm Yumruğu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttackHead] 3 Yanma uygula"
                 }
               ]
             },
@@ -2182,10 +2182,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Burn Count"
+                  "desc": "[OnSucceedAttack] +3 Yanma Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 3 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Combustion] varsa, 2 rastgele düşmana 3 Yanma uygula"
                 }
               ]
             }
@@ -2193,7 +2193,7 @@
         },
         {
           "level": 4,
-          "name": "Perfected Death Fist",
+          "name": "Mükemmelleştirilmiş Ölüm Yumruğu",
           "desc": "If target has 5+ Burn, Jeton Gücü +1",
           "coinlist": [
             {
@@ -2216,7 +2216,7 @@
                   "desc": "[OnSucceedAttack] Inflict +3 Burn Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 3 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Combustion] varsa, 2 rastgele düşmana 3 Yanma uygula"
                 }
               ]
             }
@@ -2243,7 +2243,7 @@
         {
           "level": 1,
           "name": "Yırt",
-          "desc": "[WhenUse] Gain 1 Slash Protection",
+          "desc": "[WhenUse] 1 Kesme Korunması kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -2257,12 +2257,12 @@
         {
           "level": 2,
           "name": "Yırt",
-          "desc": "[WhenUse] Gain 2 Slash Protection",
+          "desc": "[WhenUse] 2 Kesme Korunması kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +3 [Charge] Miktarı kazan"
                 }
               ]
             }
@@ -2271,12 +2271,12 @@
         {
           "level": 4,
           "name": "Yırt",
-          "desc": "[WhenUse] Gain 2 Slash Protection\nGain +3 [Charge] Count",
+          "desc": "[WhenUse] 2 Kesme Korunması kazan\n+3 [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +3 [Charge] Miktarı kazan"
                 }
               ]
             }
@@ -2289,27 +2289,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Energy Cycle",
+          "name": "Enerji Döngüsü",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -2317,30 +2317,30 @@
         },
         {
           "level": 2,
-          "name": "Energy Cycle",
+          "name": "Enerji Döngüsü",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 [Charge] Count to inflict 2 Slash Fragility"
+                  "desc": "[OnSucceedAttack] 3 [Charge] Miktarı harcayarak 2 Kesme Kırılganlığı uygula"
                 }
               ]
             }
@@ -2354,24 +2354,24 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 [Charge] Count to inflict 2 Slash Fragility"
+                  "desc": "[OnSucceedAttack] Spend 3 [Charge] Count to inflict 2 Kesme Kırılganlığı"
                 }
               ]
             }
@@ -2390,28 +2390,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to 2 Defans Seviye Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to 2 Defans Seviye Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to 2 Defans Seviye Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to 2 Defans Seviye Düşüşü uygula"
                 }
               ]
             }
@@ -2425,28 +2425,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to 2 Defans Seviye Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to 2 Defans Seviye Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to 2 Defans Seviye Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to 2 Defans Seviye Düşüşü uygula"
                 }
               ]
             }
@@ -2513,7 +2513,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Dual Strike",
+          "name": "İkili Vuruş",
           "desc": "",
           "coinlist": [
             {
@@ -2526,7 +2526,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                 }
               ]
             }
@@ -2534,7 +2534,7 @@
         },
         {
           "level": 2,
-          "name": "Dual Strike",
+          "name": "İkili Vuruş",
           "desc": "If user took no damage last turn, Jeton Gücü +1",
           "coinlist": [
             {
@@ -2547,7 +2547,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -2555,7 +2555,7 @@
         },
         {
           "level": 4,
-          "name": "Dual Strike",
+          "name": "İkili Vuruş",
           "desc": "If user took no damage last turn, Jeton Gücü +1",
           "coinlist": [
             {
@@ -2568,7 +2568,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -2609,7 +2609,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -3123,7 +3123,7 @@
         {
           "level": 4,
           "name": "Extreme Edge",
-          "desc": "At less than 50% HP, Skill Power +2\n[WhenUse] Gain +3 [Breath] Count",
+          "desc": "Can 50%'den azsa, Skill Power +2\n[WhenUse] Gain +3 [Breath] Count",
           "coinlist": [
             {}
           ]
@@ -3152,7 +3152,7 @@
         {
           "level": 4,
           "name": "Flying Sword",
-          "desc": "At less than 50% HP, +2 Skill Power\n[WhenUse] Gain 3 [Breath]",
+          "desc": "Can 50%'den azsa, +2 Skill Power\n[WhenUse] Gain 3 [Breath]",
           "coinlist": [
             {}
           ]
@@ -3186,7 +3186,7 @@
         {
           "level": 4,
           "name": "Flashing Strike",
-          "desc": "At 10+ [Breath] Count, Skill Power +2\nAt less than 50% HP, Atk Weight +1",
+          "desc": "At 10+ [Breath] Count, Skill Power +2\nCan 50%'den azsa, Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
@@ -3379,21 +3379,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             }
@@ -3797,7 +3797,7 @@
         {
           "level": 2,
           "name": "Flying Sword",
-          "desc": "At less than 50% HP, this skill gives 1 additional [Breath]",
+          "desc": "Can 50%'den azsa, this skill gives 1 additional [Breath]",
           "keywords": [],
           "coinlist": [
             {
@@ -3819,7 +3819,7 @@
         {
           "level": 4,
           "name": "Flying Sword",
-          "desc": "At less than 50% HP, this skill gives 3 additional [Breath]",
+          "desc": "Can 50%'den azsa, this skill gives 3 additional [Breath]",
           "keywords": [],
           "coinlist": [
             {
@@ -3868,7 +3868,7 @@
         {
           "level": 2,
           "name": "Flashing Strike",
-          "desc": "[WhenUse] At less than 50% HP, use Coin 1 and 2 an additional time",
+          "desc": "[WhenUse] Can 50%'den azsa, use Coin 1 and 2 an additional time",
           "keywords": [],
           "coinlist": [
             {
@@ -3890,7 +3890,7 @@
         {
           "level": 4,
           "name": "Flashing Strike",
-          "desc": "[WhenUse] At less than 50% HP, use Coin 1 and 2 an additional time",
+          "desc": "[WhenUse] Can 50%'den azsa, use Coin 1 and 2 an additional time",
           "keywords": [],
           "coinlist": [
             {
@@ -4083,14 +4083,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 8 Tremor; Inflict +2 Tremor Count"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 8 Tremor; +2 Sarsıntı Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 8 Tremor; Inflict +2 Tremor Count"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 8 Tremor; +2 Sarsıntı Miktarı uygula"
                 }
               ]
             }
@@ -4109,7 +4109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle"
                 }
               ]
             },
@@ -4144,7 +4144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle"
                 }
               ]
             },
@@ -4762,7 +4762,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                 }
               ]
             }
@@ -4776,7 +4776,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -4830,21 +4830,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             }
@@ -5181,7 +5181,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 Blunt Fragility"
@@ -5198,7 +5198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 5+ Tremor upon [VibrationExplosion], gain 2 Protection next turn"
@@ -5450,7 +5450,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                 }
               ]
             },
@@ -5466,7 +5466,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             },
@@ -5482,14 +5482,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             }
@@ -5897,7 +5897,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                 }
               ]
             }
@@ -5967,7 +5967,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 1 Pierce Fragility"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 2 [Burst] uygula"
                 }
               ]
             }
@@ -6028,14 +6028,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
                 }
               ]
             }
@@ -6049,14 +6049,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             }
@@ -6070,20 +6070,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
                 }
               ]
             }
@@ -6118,14 +6118,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
                 }
               ]
             },
@@ -6149,14 +6149,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
@@ -6185,21 +6185,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
                 }
               ]
             },
@@ -6220,21 +6220,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
@@ -6531,7 +6531,7 @@
         {
           "level": 4,
           "name": "Drive",
-          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\nAt less than 50% HP, Coin Power +2",
+          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\nCan 50%'den azsa, Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -6680,7 +6680,7 @@
         {
           "level": 1,
           "name": "Foolishness…!",
-          "desc": "[StartBattle] Gain 1 Protection\nAt less than 50% HP, Final Power +2",
+          "desc": "[StartBattle] Gain 1 Protection\nCan 50%'den azsa, Final Power +2",
           "coinlist": [
             {}
           ]
@@ -7300,7 +7300,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             }
@@ -7322,7 +7322,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] 2 Defans Seviye Düşüşü uygula next turn"
                 }
               ]
             },
@@ -7332,7 +7332,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] 2 Defans Seviye Düşüşü uygula next turn"
                 }
               ]
             }
@@ -7349,7 +7349,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] 2 Defans Seviye Düşüşü uygula next turn"
                 }
               ]
             },
@@ -7359,7 +7359,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] 2 Defans Seviye Düşüşü uygula next turn"
                 }
               ]
             }
@@ -7376,7 +7376,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] 2 Defans Seviye Düşüşü uygula next turn"
                 }
               ]
             },
@@ -7386,7 +7386,7 @@
                   "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] 2 Defans Seviye Düşüşü uygula next turn"
                 }
               ]
             }
@@ -7474,7 +7474,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             }
@@ -7489,7 +7489,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             }
@@ -8248,14 +8248,14 @@
                   "desc": "[OnSucceedAttackHead] Inflict 1 Nails"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 }
               ]
             }
@@ -8272,14 +8272,14 @@
                   "desc": "[OnSucceedAttackHead] Inflict 1 Nails"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] 1 Sarsıntı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] 1 Sarsıntı uygula"
                 }
               ]
             }
@@ -8296,7 +8296,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 2 Nails"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] 1 Sarsıntı uygula"
                 }
               ]
             },
@@ -8322,7 +8322,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle"
                 }
               ]
             }
@@ -8336,7 +8336,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle"
                 },
                 {
                   "desc": "+20% Damage to targets with 5+ Nails"
@@ -8353,7 +8353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle"
                 },
                 {
                   "desc": "+30% damage to targets with 5+ Nails"
@@ -8467,7 +8467,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
@@ -8491,7 +8491,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
@@ -8515,7 +8515,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] +4 [Charge] Miktarı kazan"
@@ -8551,8 +8551,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor\nAt 3+ [Charge] Count, reuse this Coin if it lands Heads (Up to 2 times)\nIf the Coin is reused twice, inflict Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst.\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict 2 Tremor\nAt 3+ [Charge] Count, reuse this Coin if it lands Heads (Up to 2 times)\nIf the Coin is reused twice, inflict Tremor, then Sarsıntı Patlamasını tetikle\nAfter Tremor Burst, reduce Tremor Count by 1",
+                  "summary": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle.\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, Sarsıntı Patlamasını tetikle, then reduce Tremor Count"
                 }
               ]
             }
@@ -8573,8 +8573,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor\nAt 3+ [Charge] Count, reuse this Coin if it lands Heads (Up to 2 times)\nInflict 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, inflict Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst.\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict 2 Tremor\nAt 3+ [Charge] Count, reuse this Coin if it lands Heads (Up to 2 times)\nInflict 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, inflict Tremor, then Sarsıntı Patlamasını tetikle\nAfter Tremor Burst, reduce Tremor Count by 1",
+                  "summary": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle.\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, Sarsıntı Patlamasını tetikle, then reduce Tremor Count"
                 }
               ]
             }
@@ -8595,8 +8595,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor\nAt 3+ [Charge] Count, reuse this Coin if it lands Heads (Up to 2 times)\nInflict 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, inflict Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict 2 Tremor\nAt 3+ [Charge] Count, reuse this Coin if it lands Heads (Up to 2 times)\nInflict 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, inflict Tremor, then Sarsıntı Patlamasını tetikle\nAfter Tremor Burst, reduce Tremor Count by 1",
+                  "summary": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, Sarsıntı Patlamasını tetikle, then reduce Tremor Count"
                 }
               ]
             }
@@ -8615,7 +8615,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı uygula"
                 }
               ]
             },
@@ -8625,14 +8625,14 @@
                   "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst.\nAfter Tremor Burst, reduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle.\nAfter Tremor Burst, reduce Tremor Count by 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst.\nAfter Tremor Burst, reduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle.\nAfter Tremor Burst, reduce Tremor Count by 1"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target is Staggered, deal 25% of damage dealt as bonus damage"
@@ -8797,7 +8797,7 @@
                   "desc": "[OnSucceedAttackHead]+1 [[Charge]] Sayısı kazan."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] 1 Sarsıntı uygula"
                 }
               ]
             },
@@ -8842,7 +8842,7 @@
                   "desc": "[OnSucceedAttackHead]+1 [[Charge]] Sayısı kazan."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] 1 Sarsıntı uygula"
                 }
               ]
             },
@@ -8903,7 +8903,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -8918,7 +8918,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -8933,10 +8933,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, 3 [Burst] uygula"
                 }
               ]
             }
@@ -8955,7 +8955,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
@@ -8972,7 +8972,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
@@ -8989,7 +8989,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
@@ -9011,14 +9011,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2;\nSpend up to 4 [Charge] Count to inflict [Burst] Count equal to [Charge] Count spent"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle, then reduce Tremor Count by 2;\nSpend up to 4 [Charge] Count to inflict [Burst] Count equal to [Charge] Count spent"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target is Staggered, deal +10% damage"
@@ -9028,7 +9028,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target is Staggered, deal +10% damage"
@@ -9045,33 +9045,33 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2;\nSpend up to 4 [Charge] Count to inflict [Burst] Count equal to [Charge] Count spent"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle, then reduce Tremor Count by 2;\nSpend up to 4 [Charge] Count to inflict [Burst] Count equal to [Charge] Count spent"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target is Staggered, deal +10% damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, 3 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target is Staggered, deal +10% damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, 3 [Burst] uygula"
                 }
               ]
             }
@@ -9600,7 +9600,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
@@ -9617,7 +9617,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
@@ -9639,7 +9639,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] 1 Sarsıntı uygula"
                 }
               ]
             },
@@ -9660,7 +9660,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] 1 Sarsıntı uygula"
                 }
               ]
             },
@@ -9681,7 +9681,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] 1 Sarsıntı uygula"
                 }
               ]
             },
@@ -9707,7 +9707,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAfter triggering Tremor Burst, reduce Tremor Count by 4. Inflict 5 [Burst]"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle\nAfter triggering Tremor Burst, reduce Tremor Count by 4. Inflict 5 [Burst]"
                 }
               ]
             }
@@ -9721,7 +9721,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAfter triggering Tremor Burst, reduce Tremor Count by 4. Inflict 5 [Burst]"
+                  "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle\nAfter triggering Tremor Burst, reduce Tremor Count by 4. Inflict 5 [Burst]"
                 }
               ]
             }
@@ -9790,14 +9790,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]\nIf target has 10+ [Burst], heal by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula\nIf target has 10+ [Burst], heal by 20% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]\nIf target has 10+ [Burst], heal by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula\nIf target has 10+ [Burst], heal by 20% of damage dealt"
                 }
               ]
             }
@@ -9811,14 +9811,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]\nIf target has 10+ [Burst], heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula\nIf target has 10+ [Burst], heal by 50% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]\nIf target has 10+ [Burst], heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula\nIf target has 10+ [Burst], heal by 50% of damage dealt"
                 }
               ]
             }
@@ -9832,14 +9832,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]\nIf target has 10+ [Burst], heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula\nIf target has 10+ [Burst], heal by 50% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]\nIf target has 10+ [Burst], heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula\nIf target has 10+ [Burst], heal by 50% of damage dealt"
                 }
               ]
             }
@@ -9926,7 +9926,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 }
               ]
             }
@@ -9940,7 +9940,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] If target has 5+ [Burst], gain 1 Talisman"
@@ -9957,7 +9957,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 2 [Burst] uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 5+ [Burst], gain 1 Talisman"
@@ -10140,14 +10140,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             }
@@ -10161,14 +10161,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             }
@@ -10182,14 +10182,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             }
@@ -10202,27 +10202,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Frontal Assault",
+          "name": "Frontal Saldırı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn Count"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], 2 Yanma uygula Count"
                 }
               ]
             }
@@ -10230,27 +10230,27 @@
         },
         {
           "level": 2,
-          "name": "Frontal Assault",
+          "name": "Frontal Saldırı",
           "desc": "If target has 6+ [Combustion], Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn Count"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], 2 Yanma uygula Count"
                 }
               ]
             }
@@ -10258,27 +10258,27 @@
         },
         {
           "level": 4,
-          "name": "Frontal Assault",
+          "name": "Frontal Saldırı",
           "desc": "Coin Power +1 for every 6 Burn on target (Max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn Count"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], 2 Yanma uygula Count"
                 }
               ]
             }
@@ -10297,14 +10297,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
@@ -10332,14 +10332,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] 1 Yanma uygula"
                 }
               ]
             },
@@ -10964,14 +10964,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             }
@@ -10985,14 +10985,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             }
@@ -11006,20 +11006,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             }
@@ -11098,21 +11098,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 },
                 {
                   "desc": "[EnemyKill] Inflict +2 [Burst] Count against the enemy with the lowest [Burst] Count"
@@ -11136,21 +11136,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 },
                 {
                   "desc": "[EnemyKill] Inflict +2 [Burst] Count against the enemy with the lowest [Burst] Count"
@@ -11198,7 +11198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             }
@@ -11219,7 +11219,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             }
@@ -11240,7 +11240,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             }
@@ -11259,7 +11259,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 3 [Burst] uygula"
                 }
               ]
             },
@@ -11281,7 +11281,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             },
@@ -11303,7 +11303,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             },
@@ -11337,7 +11337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             },
@@ -11365,7 +11365,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 }
               ]
             },
