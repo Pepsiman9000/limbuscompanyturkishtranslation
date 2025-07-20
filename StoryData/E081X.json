@@ -2,57 +2,57 @@
   "dataList": [
     {
       "id": 0,
-      "place": "L Corp. HQ Central Command",
+      "place": "L Kurul.. HQ Orta Katman",
       "model": "그레고르",
-      "content": "Ah... tsk, this one's uh... this one's kinda elaborate, huh."
+      "content": "Öfff,bu biraz... bu biraz sıkınıtlı..."
     },
-    {
-      "id": 1,
-      "model": "싱클레어",
-      "content": "Her floating swords are... so... hard to parry. It's got such a long reach, and it's so thin that I can hardly see where it's— aagh!"
-    },
-    {
-      "id": 2,
-      "content": "As if to prove Sinclair's words, the azure Abnormality fired another volley of thrusting swords in our direction."
-    },
-    {
-      "id": 3,
-      "content": "Just as we braced..."
-    },
-    {
-      "id": 4,
-      "teller": "???",
-      "title": "???",
-      "content": "Hiyah!"
-    },
-    {
-      "id": 5,
-      "content": "... rays of pink light coalesced before Sinclair, materializing... before someone rushed onto the scene and parried away the flying swords."
-    },
-    {
-      "id": 6,
-      "model": "티페리트",
-      "title": "Central Command Sephirah",
-      "content": "Haah... her again? Leaping right into the action the moment the Second Warning goes off..."
-    },
-    {
-      "id": 7,
-      "model": "싱클레어",
-      "content": "Huh...? You're...?"
-    },
-    {
-      "id": 8,
-      "model": "마법소녀",
-      "teller": "???",
-      "title": "???",
-      "content": "Sorry I'm late."
-    },
-    {
-      "id": 9,
-      "model": "마법소녀",
-      "teller": "Magical Girl?",
-      "title": "???",
-      "content": "Here comes~ Magical Girl!"
-    }
+    {{
+  "id": 1,
+  "model": "싱클레어",
+  "content": "Onun uçan kılıçları... çok... savuşturması zor. Çok uzun menzilli ve o kadar ince ki nereden geldiğini neredeyse göremiyor— aah!"
+},
+{
+  "id": 2,
+  "content": "Sinclair'in sözlerini kanıtlarcasına, mavi Anormallik bir voli daha kılıç fırlattı yönümüze."
+},
+{
+  "id": 3,
+  "content": "Tam savunmaya geçiyorduk ki..."
+},
+{
+  "id": 4,
+  "teller": "???",
+  "title": "???",
+  "content": "Hiyah!"
+},
+{
+  "id": 5,
+  "content": "... pembe ışık huzmeleri Sinclair'in önünde toplandı, bir şekil oluşturdu... ardından biri sahneye dalıp uçan kılıçları savuşturdu."
+},
+{
+  "id": 6,
+  "model": "티페리트",
+  "title": "Merkezi Komuta Sephirah'ı",
+  "content": "Haah... yine mi o? İkinci Uyarı verilir vermez hemen olaya atlıyor..."
+},
+{
+  "id": 7,
+  "model": "싱클레어",
+  "content": "Ha...? Yoksa sen...?"
+},
+{
+  "id": 8,
+  "model": "마법소녀",
+  "teller": "???",
+  "title": "???",
+  "content": "Geç kaldığım için üzgünüm."
+},
+{
+  "id": 9,
+  "model": "마법소녀",
+  "teller": "Sihirli Kız?",
+  "title": "???",
+  "content": "İşte geliyor~ Sihirli Kız!"
+}
   ]
 }
