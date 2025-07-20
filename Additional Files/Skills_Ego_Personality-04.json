@@ -235,7 +235,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hürmet, Huşu",
+          "name": "Tiksinti ve Saygı",
           "abName": "Öfke Sarmalı",
           "desc": "[BeforeAttack] Gain (highest Reson.) Atk Weight (max 2)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] (max 7)\n[EndSkill] For 2 turns, lose 10 SP at Turn End",
           "coinlist": [
@@ -251,7 +251,7 @@
         },
         {
           "level": 3,
-          "name": "Hürmet, Huşu",
+          "name": "Tiksinti ve Saygı",
           "abName": "Öfke Sarmalı",
           "desc": "[BeforeAttack] Gain (highest Reson.) Atk Weight (max <style=\"highlight\">4</style>)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] (max 7)\n[EndSkill] For 2 turns, lose 10 SP at Turn End",
           "coinlist": [
@@ -267,7 +267,7 @@
         },
         {
           "level": 4,
-          "name": "Hürmet, Huşu",
+          "name": "Tiksinti ve Saygı",
           "abName": "Öfke Sarmalı",
           "desc": "[BeforeAttack] Gain (highest Reson.) Atk Weight (max <style=\"highlight\">6</style>)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] <style=\"highlight\">this turn and next turn</style> (max 7)\n<style=\"highlight\">[EndSkill] If this Skill was part of a Lust Reson., gain 1 E.G.O resource in Affinities corresponding to each of this unit's Attack Skills</style>\n[EndSkill] For 2 turns, lose 10 SP at Turn End",
           "coinlist": [
@@ -288,7 +288,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hürmet, Huşu",
+          "name": "Tiksinti ve Saygı",
           "abName": "Öfke Sarmalı",
           "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]",
           "coinlist": [
@@ -309,7 +309,7 @@
         },
         {
           "level": 3,
-          "name": "Hürmet, Huşu",
+          "name": "Tiksinti ve Saygı",
           "abName": "Öfke Sarmalı",
           "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]",
           "coinlist": [
@@ -330,7 +330,7 @@
         },
         {
           "level": 4,
-          "name": "Hürmet, Huşu",
+          "name": "Tiksinti ve Saygı",
           "abName": "Öfke Sarmalı",
           "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] If this Skill was a part of a Lust Reson., gain 1 E.G.O resource in Affinities corresponding to each of this unit's Attack Skills</style>",
           "coinlist": [
