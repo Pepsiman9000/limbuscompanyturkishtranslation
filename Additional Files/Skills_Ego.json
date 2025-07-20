@@ -2506,7 +2506,7 @@
         {
           "level": 1,
           "name": "Legerdemain",
-          "abName": "Golden Apple",
+          "abName": "Altın Elma",
           "desc": "",
           "coinlist": [
             {
@@ -2524,7 +2524,7 @@
         {
           "level": 3,
           "name": "Legerdemain",
-          "abName": "Golden Apple",
+          "abName": "Altın Elma",
           "desc": "",
           "coinlist": [
             {
@@ -2545,7 +2545,7 @@
         {
           "level": 4,
           "name": "Legerdemain",
-          "abName": "Golden Apple",
+          "abName": "Altın Elma",
           "desc": "",
           "coinlist": [
             {
@@ -2571,7 +2571,7 @@
         {
           "level": 1,
           "name": "Legerdemain",
-          "abName": "Golden Apple",
+          "abName": "Altın Elma",
           "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
@@ -2589,7 +2589,7 @@
         {
           "level": 3,
           "name": "Legerdemain",
-          "abName": "Golden Apple",
+          "abName": "Altın Elma",
           "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
@@ -2610,7 +2610,7 @@
         {
           "level": 4,
           "name": "Legerdemain",
-          "abName": "Golden Apple",
+          "abName": "Altın Elma",
           "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
@@ -2953,7 +2953,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lifetime Stew",
+          "name": "Mercimek Çorbası",
           "abName": "Basilisoup",
           "desc": "[BeforeAttack] Boost damage based on current Lust resources (Up to 25%)",
           "coinlist": [
@@ -2968,7 +2968,7 @@
         },
         {
           "level": 3,
-          "name": "Lifetime Stew",
+          "name": "Mercimek Çorbası",
           "abName": "Basilisoup",
           "desc": "[BeforeAttack] Boost damage based on current Lust resources (Up to 50%)",
           "coinlist": [
@@ -2988,7 +2988,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lifetime Stew",
+          "name": "Mercimek Çorbası",
           "abName": "Basilisoup",
           "desc": "[CantIdentify]\nTargets the unit with the most HP\n\n[BeforeAttack] Boost damage based on current Lust resources (Up to 25%)\nThen spend Lust resources by (Lust Reson.); further boost damage by 5% per resource spent",
           "coinlist": [
@@ -3003,7 +3003,7 @@
         },
         {
           "level": 3,
-          "name": "Lifetime Stew",
+          "name": "Mercimek Çorbası",
           "abName": "Basilisoup",
           "desc": "[CantIdentify]\nTargets the unit with the most HP\n\n[BeforeAttack] Boost damage based on current Lust resources (Up to 50%)\nThen spend Lust resources by (Lust Reson.); further boost damage by 10% per resource spent",
           "coinlist": [
@@ -3023,7 +3023,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lifetime Stew",
+          "name": "Mercimek Çorbası",
           "abName": "Basilisoup",
           "desc": "[CantIdentify]\nTargets the unit with the least HP\nIf target is an ally, this deals 0 damage",
           "coinlist": [
@@ -3041,7 +3041,7 @@
         },
         {
           "level": 3,
-          "name": "Lifetime Stew",
+          "name": "Mercimek Çorbası",
           "abName": "Basilisoup",
           "desc": "[CantIdentify]\nTargets the unit with the least HP\nIf target is an ally, this deals 0 damage",
           "coinlist": [
@@ -3064,7 +3064,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lifetime Stew",
+          "name": "Mercimek Çorbası",
           "abName": "Basilisoup",
           "desc": "[CantIdentify]\nTargets the unit with the least HP\n\n[BeforeAttack] Spend 3 random E.G.O resources to boost damage by 10%",
           "coinlist": [
@@ -3079,7 +3079,7 @@
         },
         {
           "level": 3,
-          "name": "Lifetime Stew",
+          "name": "Mercimek Çorbası",
           "abName": "Basilisoup",
           "desc": "[CantIdentify]\nTargets the unit with the least HP\n\n[BeforeAttack] Spend 3 random E.G.O resources to boost damage by 20%",
           "coinlist": [
@@ -3094,7 +3094,7 @@
         },
         {
           "level": 4,
-          "name": "Lifetime Stew",
+          "name": "Mercimek Çorbası",
           "abName": "Basilisoup",
           "desc": "[CantIdentify]\nTargets the unit with the least HP\n\n[BeforeAttack] Spend 3 random E.G.O resources to boost damage by 30%",
           "coinlist": [
@@ -3114,8 +3114,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
+          "name": "Boyut Parçalayıcı",
+          "abName": "Asi Yolcu",
           "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Spend Charge Count to deal more damage (Max 50%)",
           "coinlist": [
             {
@@ -3129,8 +3129,8 @@
         },
         {
           "level": 3,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
+          "name": "Boyut Parçalayıcı",
+          "abName": "Asi Yolcu",
           "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Spend Charge Count to deal more damage (Max <style=\"highlight\">75</style>%)",
           "coinlist": [
             {
@@ -3147,8 +3147,8 @@
         },
         {
           "level": 4,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
+          "name": "Boyut Parçalayıcı",
+          "abName": "Asi Yolcu",
           "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Spend Charge Count to deal more damage (Max 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -3170,8 +3170,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
+          "name": "Boyut Parçalayıcı",
+          "abName": "Asi Yolcu",
           "desc": "[CantIdentify]\nTargets a random unit\n\n[BeforeAttack] Spend Charge Count to deal more damage (Max 50%)",
           "coinlist": [
             {
@@ -3188,8 +3188,8 @@
         },
         {
           "level": 3,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
+          "name": "Boyut Parçalayıcı",
+          "abName": "Asi Yolcu",
           "desc": "[CantIdentify]\nTargets a random unit\n\n[BeforeAttack] Spend Charge Count to deal more damage (Max <style=\"highlight\">75</style>%)",
           "coinlist": [
             {
@@ -3209,8 +3209,8 @@
         },
         {
           "level": 4,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
+          "name": "Boyut Parçalayıcı",
+          "abName": "Asi Yolcu",
           "desc": "[CantIdentify]\nTargets a random unit\n\n[BeforeAttack] Spend Charge Count to deal more damage (Max 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -3235,8 +3235,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
+          "name": "Boyut Parçalayıcı",
+          "abName": "Asi Yolcu",
           "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Gain +3 Charge Count; Gain 2 Haste next Turn",
           "coinlist": [
             {
@@ -3250,8 +3250,8 @@
         },
         {
           "level": 3,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
+          "name": "Boyut Parçalayıcı",
+          "abName": "Asi Yolcu",
           "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Gain +5 Charge Count; Gain 2 Haste next Turn",
           "coinlist": [
             {
@@ -3270,8 +3270,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
+          "name": "Boyut Parçalayıcı",
+          "abName": "Asi Yolcu",
           "desc": "[CantIdentify]\nTargets the unit with the most HP\n\n[BeforeAttack] Gain 2 Haste next Turn\nSpend 10 Charge Count to inflict +1 more Fragile and Dimensional Rift On Hit with this Skill",
           "coinlist": [
             {
@@ -3285,8 +3285,8 @@
         },
         {
           "level": 3,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
+          "name": "Boyut Parçalayıcı",
+          "abName": "Asi Yolcu",
           "desc": "[CantIdentify]\nTargets the unit with the most HP\n\n[BeforeAttack] Gain <style=\"highlight\">3</style> Haste next Turn\nSpend 10 Charge Count to inflict <style=\"highlight\">+2</style> more Fragile and Dimensional Rift On Hit with this Skill",
           "coinlist": [
             {
@@ -3306,7 +3306,7 @@
         {
           "level": 1,
           "name": "Capote",
-          "abName": "Brazen Bull",
+          "abName": "Tunç Boğa",
           "desc": "[EndSkill] Gain 1 Haste, 1 Wrath Power Up, and 1 Blunt Power Up next Turn",
           "coinlist": [
             {
@@ -3327,7 +3327,7 @@
         {
           "level": 3,
           "name": "Capote",
-          "abName": "Brazen Bull",
+          "abName": "Tunç Boğa",
           "desc": "[EndSkill] Gain 2 Haste, 1 Wrath Power Up, and 1 Blunt Power Up next Turn",
           "coinlist": [
             {
@@ -3351,7 +3351,7 @@
         {
           "level": 4,
           "name": "Capote",
-          "abName": "Brazen Bull",
+          "abName": "Tunç Boğa",
           "desc": "[EndSkill] Gain 2 Haste, 1 Wrath Power Up, and 1 Blunt Power Up next Turn",
           "coinlist": [
             {
@@ -3380,7 +3380,7 @@
         {
           "level": 1,
           "name": "Capote",
-          "abName": "Brazen Bull",
+          "abName": "Tunç Boğa",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Gain 1 Haste, 1 Wrath Power Up, and 1 Blunt Power Up next Turn",
           "coinlist": [
             {
@@ -3401,7 +3401,7 @@
         {
           "level": 3,
           "name": "Capote",
-          "abName": "Brazen Bull",
+          "abName": "Tunç Boğa",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Gain 2 Haste, 1 Wrath Power Up, and 1 Blunt Power Up next Turn",
           "coinlist": [
             {
@@ -3425,7 +3425,7 @@
         {
           "level": 4,
           "name": "Capote",
-          "abName": "Brazen Bull",
+          "abName": "Tunç Boğa",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Gain 2 Haste, 1 Wrath Power Up, and 1 Blunt Power Up next Turn",
           "coinlist": [
             {
@@ -3454,7 +3454,7 @@
         {
           "level": 1,
           "name": "Capote",
-          "abName": "Brazen Bull",
+          "abName": "Tunç Boğa",
           "desc": "[EndSkill] Apply 1 Wrath DMG Up to all allies next Turn",
           "coinlist": [
             {
@@ -3472,7 +3472,7 @@
         {
           "level": 3,
           "name": "Capote",
-          "abName": "Brazen Bull",
+          "abName": "Tunç Boğa",
           "desc": "[EndSkill] Apply 1 Wrath DMG Up to all allies next Turn",
           "coinlist": [
             {
@@ -3495,7 +3495,7 @@
         {
           "level": 1,
           "name": "Capote",
-          "abName": "Brazen Bull",
+          "abName": "Tunç Boğa",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Give 1 Wrath Fragility, and 1 Wrath DMG Up to all units next Turn",
           "coinlist": [
             {
@@ -3516,7 +3516,7 @@
         {
           "level": 3,
           "name": "Capote",
-          "abName": "Brazen Bull",
+          "abName": "Tunç Boğa",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Give 1 Wrath Fragility, and 1 Wrath DMG Up to all units next Turn",
           "coinlist": [
             {
@@ -3542,7 +3542,7 @@
         {
           "level": 1,
           "name": "Sunshower",
-          "abName": "Drifting Fox",
+          "abName": "Terkedilmiş Tilki",
           "desc": "[BeforeAttack] Gain +4 Poise Count",
           "coinlist": [
             {
@@ -3560,7 +3560,7 @@
         {
           "level": 3,
           "name": "Sunshower",
-          "abName": "Drifting Fox",
+          "abName": "Terkedilmiş Tilki",
           "desc": "[BeforeAttack] Gain +6 Poise Count",
           "coinlist": [
             {
@@ -3581,7 +3581,7 @@
         {
           "level": 4,
           "name": "Sunshower",
-          "abName": "Drifting Fox",
+          "abName": "Terkedilmiş Tilki",
           "desc": "[BeforeAttack] Gain +7 Poise Count",
           "coinlist": [
             {
@@ -3607,7 +3607,7 @@
         {
           "level": 1,
           "name": "Sunshower",
-          "abName": "Drifting Fox",
+          "abName": "Terkedilmiş Tilki",
           "desc": "[CantIdentify]\nTargets the unit with the least HP\n[BeforeAttack] Gain +5 Poise Count",
           "coinlist": [
             {
@@ -3625,7 +3625,7 @@
         {
           "level": 3,
           "name": "Sunshower",
-          "abName": "Drifting Fox",
+          "abName": "Terkedilmiş Tilki",
           "desc": "[CantIdentify]\nTargets the unit with the least HP\n[BeforeAttack] Gain +7 Poise Count",
           "coinlist": [
             {
@@ -3649,7 +3649,7 @@
         {
           "level": 4,
           "name": "Sunshower",
-          "abName": "Drifting Fox",
+          "abName": "Terkedilmiş Tilki",
           "desc": "[CantIdentify]\nTargets the unit with the least HP\n[BeforeAttack] Gain +7 Poise Count",
           "coinlist": [
             {
@@ -3678,7 +3678,7 @@
         {
           "level": 1,
           "name": "AEDD",
-          "abName": "Shock Centipede",
+          "abName": "Şoklu Kırkayak",
           "desc": "[BeforeAttack] Gain +5 Charge Count",
           "coinlist": [
             {
@@ -3693,7 +3693,7 @@
         {
           "level": 3,
           "name": "AEDD",
-          "abName": "Shock Centipede",
+          "abName": "Şoklu Kırkayak",
           "desc": "[BeforeAttack] Gain +7 Charge Count",
           "coinlist": [
             {
@@ -3708,7 +3708,7 @@
         {
           "level": 4,
           "name": "AEDD",
-          "abName": "Shock Centipede",
+          "abName": "Şoklu Kırkayak",
           "desc": "[BeforeAttack] Gain +10 Charge Count",
           "coinlist": [
             {
@@ -3728,7 +3728,7 @@
         {
           "level": 1,
           "name": "AEDD",
-          "abName": "Shock Centipede",
+          "abName": "Şoklu Kırkayak",
           "desc": "[CantIdentify]\nPrioritizes units with Charge\n[BeforeAttack] Gain +5 Charge Count",
           "coinlist": [
             {
@@ -3743,7 +3743,7 @@
         {
           "level": 3,
           "name": "AEDD",
-          "abName": "Shock Centipede",
+          "abName": "Şoklu Kırkayak",
           "desc": "[CantIdentify]\nPrioritizes units with Charge\n[BeforeAttack] Gain +7 Charge Count",
           "coinlist": [
             {
@@ -3758,7 +3758,7 @@
         {
           "level": 4,
           "name": "AEDD",
-          "abName": "Shock Centipede",
+          "abName": "Şoklu Kırkayak",
           "desc": "[CantIdentify]\nPrioritizes units with Charge\n[BeforeAttack] Gain +10 Charge Count",
           "coinlist": [
             {
@@ -3778,7 +3778,7 @@
         {
           "level": 1,
           "name": "AEDD",
-          "abName": "Shock Centipede",
+          "abName": "Şoklu Kırkayak",
           "desc": "[BeforeAttack] Gain +1 Charge Count for every 10% of missing HP (Max 5)\nGain 2 Haste next Turn",
           "coinlist": [
             {
@@ -3793,7 +3793,7 @@
         {
           "level": 3,
           "name": "AEDD",
-          "abName": "Shock Centipede",
+          "abName": "Şoklu Kırkayak",
           "desc": "[BeforeAttack] Gain +1 Charge Count for every 10% of missing HP (Max 7)\nGain 2 Haste next Turn",
           "coinlist": [
             {
@@ -3813,7 +3813,7 @@
         {
           "level": 1,
           "name": "AEDD",
-          "abName": "Shock Centipede",
+          "abName": "Şoklu Kırkayak",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] Gain +1 Charge Count for every 10% of missing HP (Max 5)\nGain 2 Haste next Turn",
           "coinlist": [
             {
@@ -3831,7 +3831,7 @@
         {
           "level": 3,
           "name": "AEDD",
-          "abName": "Shock Centipede",
+          "abName": "Şoklu Kırkayak",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] Gain +1 Charge Count for every 10% of missing HP (Max 7)\nGain 2 Haste next Turn",
           "coinlist": [
             {
@@ -3849,7 +3849,7 @@
         {
           "level": 4,
           "name": "AEDD",
-          "abName": "Shock Centipede",
+          "abName": "Şoklu Kırkayak",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] Gain +1 Charge Count for every 10% of missing HP (Max 7)\nGain 2 Haste next Turn",
           "coinlist": [
             {
@@ -3875,7 +3875,7 @@
         {
           "level": 1,
           "name": "Sunshower",
-          "abName": "Drifting Fox",
+          "abName": "Terkedilmiş Tilki",
           "desc": "[BeforeAttack] Give 1 Sloth Power Up, 1 Sloth DMG Up, and 2 Protection to all allies this Turn and next Turn",
           "coinlist": [
             {}
@@ -3884,7 +3884,7 @@
         {
           "level": 3,
           "name": "Sunshower",
-          "abName": "Drifting Fox",
+          "abName": "Terkedilmiş Tilki",
           "desc": "[BeforeAttack] Give 1 Sloth Power Up, 2 Sloth DMG Up, and 3 Protection to all allies this Turn and next Turn",
           "coinlist": [
             {
@@ -3904,7 +3904,7 @@
         {
           "level": 1,
           "name": "Sunshower",
-          "abName": "Drifting Fox",
+          "abName": "Terkedilmiş Tilki",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] Gain 1 Sloth Power Up and 1 Sloth DMG Up this Turn and the next 2 Turns",
           "coinlist": [
             {
@@ -3919,7 +3919,7 @@
         {
           "level": 3,
           "name": "Sunshower",
-          "abName": "Drifting Fox",
+          "abName": "Terkedilmiş Tilki",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] Gain 2 Sloth Power Up and 2 Sloth DMG Up this Turn and the next 2 Turns",
           "coinlist": [
             {
@@ -4047,7 +4047,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kızıl Gözler (Açılış)",
+          "name": "Kızıl Gözler (Açık)",
           "abName": "Örümcek Tomurcuğu",
           "desc": "If main target's Speed is slower than user's by 3 or more, Coin Power +4",
           "coinlist": [
@@ -4062,7 +4062,7 @@
         },
         {
           "level": 3,
-          "name": "Kızıl Gözler (Açılış)",
+          "name": "Kızıl Gözler (Açık)",
           "abName": "Örümcek Tomurcuğu",
           "desc": "If main target's Speed is slower than user's by 3 or more, Coin Power +4",
           "coinlist": [
@@ -4080,7 +4080,7 @@
         },
         {
           "level": 4,
-          "name": "Kızıl Gözler (Açılış)",
+          "name": "Kızıl Gözler (Açık)",
           "abName": "Örümcek Tomurcuğu",
           "desc": "If main target's Speed is slower than user's by 3 or more, Coin Power +7",
           "coinlist": [
@@ -4103,7 +4103,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kızıl Gözler (Açılış)",
+          "name": "Kızıl Gözler (Açık)",
           "abName": "Örümcek Tomurcuğu",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\nIf main target's Speed is slower than user's by 3 or more, Final Power +7",
           "coinlist": [
@@ -4118,7 +4118,7 @@
         },
         {
           "level": 3,
-          "name": "Kızıl Gözler (Açılış)",
+          "name": "Kızıl Gözler (Açık)",
           "abName": "Örümcek Tomurcuğu",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\nIf main target's Speed is slower than user's by 3 or more, Final Power +7",
           "coinlist": [
@@ -4136,7 +4136,7 @@
         },
         {
           "level": 4,
-          "name": "Kızıl Gözler (Açılış)",
+          "name": "Kızıl Gözler (Açık)",
           "abName": "Örümcek Tomurcuğu",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\nIf main target's Speed is slower than user's by 3 or more, Final Power +10",
           "coinlist": [
