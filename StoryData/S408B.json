@@ -2,7 +2,7 @@
     "dataList": [
         {
             "id": 0,
-            "place": "K Corp. Laboratory Lobby",
+            "place": "K Kuruluşu Laboratuvarı Lobby",
             "model": "단테",
             "content": "<Yani… Şahsen sakınca etmem ama, beni duyamayacaksınız ki.>"
         },
@@ -10,7 +10,7 @@
             "id": 1,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Tüm grubunuzun önünde söylemek utanç verici oludu, fakat bilin ki, çalışanlarınızdan birisi… benim eski bir dostum olur."
         },
         {
@@ -22,7 +22,7 @@
             "id": 3,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Bana bir selam bile vermedi. Belki o da benim gibi utanmıştır. Kalbimin ne kadar kırıldığını göstermemekte zorlanıyordum."
         },
         {
@@ -34,14 +34,14 @@
             "id": 5,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Bay Dongrang, bu birey sözlü olarak iletişim kuramıyor."
         },
         {
             "id": 6,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Tam olarak bu yüzden konuşuyorum, Bay Samjo. Oyuncaklarım ile konuştuğum zamanları hatırlatıyor, haksız mıyım?"
         },
         {
@@ -57,21 +57,21 @@
             "id": 9,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Daha çok onun varlığından dolayı, size bir istekte bulundum. Bir yabancıdan ziyade, bir tanıdık ile iş yapmak daha güvenilirdir her zaman."
         },
         {
             "id": 10,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Bakın, işte bu yüzden bile bir saniye olsun gardımı düşürmüyorum. İnsan ilişkilerinden çok kolay etkileniyorsunuz…"
         },
         {
             "id": 11,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Bu yüzden sizden bir ricada bulunacağım; düşünceli bir şekilde… onun ve benim aramdaki ilişkiyi hiç bilmiyormuş gibi davranın, tamam mı?"
         },
         {
@@ -81,7 +81,7 @@
         },
         {
             "id": 13,
-            "content": "Sadece iç çekmekle  yetindim…"
+            "content": "Sadece iç çekmekle yetindim…"
         },
         {
             "id": 14,
@@ -94,17 +94,17 @@
         },
         {
             "id": 16,
-            "place": "K Corp. Laboratory Hallway",
+            "place": "K Kuruluşu Laboratuvarı Hallway",
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Laboratuvar katındayız. Sıradan misafirlerin daha ileriye gitmesi yasak…"
         },
         {
             "id": 17,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Fakat Bay Dongrang tarafından davet edildiğiniz için… Size içeriyi gösterebilirim."
         },
         {
@@ -129,17 +129,17 @@
         },
         {
             "id": 22,
-            "content": "Ishmael’s remark gave me a good opportunity to bring up my earlier question."
+            "content": "Ishmael'in bilgilendirmeleri önceki sorumu tekrar gün yüzüne çıkarabilmem için bana fırsat vermişti."
         },
         {
             "id": 23,
             "model": "단테",
-            "content": "<Yeah, why did you choose to join Limbus Company out of all the options you had? There must’ve been better places to shoot for.>"
+            "content": "<Hakkaten, O kadar seçenekler arasından neden Limbus Şirketini seçtin ki? Eminim ki daha ideal mevkiler vardır.>"
         },
         {
             "id": 24,
             "model": "파우스트",
-            "content": "Çünkü benim adım Faust."
+            "content": "Çünkü ben Faustum."
         },
         {
             "id": 25,
@@ -148,12 +148,12 @@
         },
         {
             "id": 26,
-            "content": "There was a certain energy in her confidently clarifying tone that discouraged me from asking another question."
+            "content": "Kendinden emin bir şekilde doğrulayan tonunda daha fazla soru sormamı engelleyen bir tür bir enerji vardı."
         },
         {
             "id": 27,
             "model": "단테",
-            "content": "<What about you, Yi Sang?>"
+            "content": "<Ya sen, Yi Sang?>"
         },
         {
             "id": 28,
@@ -163,7 +163,7 @@
         {
             "id": 29,
             "model": "단테",
-            "content": "<I mean, that’s because I had no other choice.>"
+            "content": "<Yani, çünkü başka bir seçeneğim yoktu.>"
         },
         {
             "id": 30,
@@ -177,12 +177,12 @@
         },
         {
             "id": 32,
-            "content": "It looks like Ishmael wasn’t exaggerating about the qualifications it takes to join this firm."
+            "content": "Görünüşe göre Ishmael bu endüstriye katılım şartlarını sıralarken abartmıyormuş."
         },
         {
             "id": 33,
-            "place": "K Corp. Laboratory Room",
-            "content": "The laboratory was dominated by a stillness that could only be achieved with everyone in total focus."
+            "place": "K Kuruluşu. Laboratuvar Odası",
+            "content": "Laboratuvarı ancak herkesin pürdikkat odaklanmasıyla sağlanabilecek bir sessizlikle kaplıydı."
         },
         {
             "id": 34,
@@ -191,20 +191,20 @@
         },
         {
             "id": 35,
-            "content": "And we would break that stillness with nonchalance."
+            "content": "Ve soğuk kanlı bir umursamazlıkla sessizliği bozabilirdik."
         },
         {
             "id": 36,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "İstediğiniz kadar alabilirsiniz. Bay Samjo, dostlarımıza sonra vermek üzerine, mola odasından biraz atıştırmalık geitrip paketleyin lütfen."
         },
         {
             "id": 37,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Anlaşıldı."
         },
         {
@@ -236,48 +236,48 @@
             "id": 43,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Şimdi ise, size işinizi anlatma vakt—"
         },
         {
             "id": 44,
             "model": "슈렌느",
-            "title": "K Corp. Laboratory",
+            "title": "K Kuruluşu Laboratuvarı",
             "content": "Artık binaya yabancıları da getiriyorsun… Nesin sen, tur rehberi falan mı, Dongrang?"
         },
         {
             "id": 45,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Ah. Kusuruma bakmayın. Kendisi Shrenne. Benimle aynı zamanda bu şirkete katılan, ve laboratuvarımın hemen yanındaki departmanı yöneten kişi. Buraya kadar gelip kırıcı kelimeler söylemek, günlük rutininin büyük bir parçası."
         },
         {
             "id": 46,
             "model": "슈렌느",
             "teller": "Shrenne",
-            "title": "K Corp. Laboratory",
-            "content": "Şirketin sosyal yardımlarını sömüren takımına dikkat çekecek başka kimse yok da ondna."
+            "title": "K Kuruluşu Laboratuvarı",
+            "content": "Şirketin sosyal yardımlarını sömüren takımına dikkat çekecek başka kimse yok da ondan."
         },
         {
             "id": 47,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Ah, bize gelen sosyal yardımları nasıl harcadığımızı soracaksan… Cevabını Yılın Departmanı Ödülü verildiği gün alacaksın. Değil mi, Samjo?"
         },
         {
             "id": 48,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "En iyisi seçilen departmanın aldığı ayrıcalıkları saysam, bir günümü alır."
         },
         {
             "id": 49,
             "model": "슈렌느",
             "teller": "Shrenne",
-            "title": "K Corp. Laboratory",
+            "title": "K Kuruluşu Laboratuvarı",
             "content": "Öf, çok züppe heriflersiniz, ikiniz de."
         },
         {
@@ -289,14 +289,14 @@
             "id": 51,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Haset, beraberinde ilerlemeyi de getirir, yani arkamızdan takip edenlere alçak gönüllü davranmak, boynumuzun borcudur. Şu mağazadan aldığımız turtaların bazılarını Shrenne'in departmanına verelim mi, Bay Samjo?"
         },
         {
             "id": 52,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Zaten bunu planlıyordum. Spesifik olarak biber, çili, lahana, ve köri aromalıları."
         },
         {
@@ -308,21 +308,21 @@
             "id": 54,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Haha… O halde, ana konumuza geri dönelim."
         },
         {
             "id": 55,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Dedikoduları işittim. “Altın Dal” denilen organik objeleri toplamayı hedefleyen, yeni kurulmuş bir şirket hakkındaydı."
         },
         {
             "id": 56,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Ve bu Altın Dallar ise, sadece ama sadece kapatılmış Lobotomi Kuruluşu dallarında bulunabiliyor.."
         },
         {
@@ -334,7 +334,7 @@
             "id": 58,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Güncel bir keşif. Araştırma merkezimizin yakınındaki bir Lotobomi Kurulu dalını, birkaç ay öncesine kadar bir laboratuvar olarak kullanıyorduk."
         },
         {
@@ -361,7 +361,7 @@
             "id": 63,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Evet, elbette. Hiç bir araştırmacı, böyle ilgi çekici konuları göz ardı edemez."
         },
         {
@@ -383,13 +383,13 @@
             "id": 67,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Ahrmhrm…"
         },
         {
             "id": 68,
             "model": "파우스트",
-            "content": "Demeliyim ki, Heathcliff'in yersiz gözlemleri beni bazen şaşırtıyor."
+            "content": "Demeliyim ki, Heathcliff'in beklenmedik gözlemleri beni bazen şaşırtıyor."
         },
         {
             "id": 69,
@@ -400,21 +400,21 @@
             "id": 70,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Bay Samjo, rol yapmakta pek de iyi değil. Bana sorarsanız hayatının tekdüzeliğindendi."
         },
         {
             "id": 71,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Lütfen anlayış gösterin. Bir Bozukluk ile Anomaliyi ayırt edecek bilgiye sahip değildik."
         },
         {
             "id": 72,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Bir insan, “zihni paramparça olduğunda bozulur…” değil mi? Çok büyüleyici bir sözdü doğrusu. Parçalanmış zihnini geri birleştirebildiniz mi bari?"
         },
         {
@@ -431,7 +431,7 @@
             "id": 75,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Vay be, ne çok şey biliyorsun. Eğer biraz daha genç olsaydım, Size bir beşlik çakmak için havalabilirdim."
         },
         {
@@ -443,21 +443,21 @@
             "id": 77,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Bay Dongrang, tekrardan konudan sapıyorsunuz."
         },
         {
             "id": 78,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Ah, haklısın. Peki… şimdi bir gün, Lobotomi Kuruluşu'ndaki laboratuvarımızda mutlu mesut araştırmalarımızı yaparken, silahlı teröristler laboratuvarımıza saldırdı."
         },
         {
             "id": 79,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Daha önce hiç gözünüz önünde bir bombanın patladığını gördünüz mü? Çok muazzam bir manzaradır. Bir saniyede her şey olur, ve biter. Tıpkı evrenin kendisi gibi, değil mi?"
         },
         {
@@ -469,14 +469,14 @@
             "id": 81,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Üyelerin ortak yanları neredeyse yok, ve motivasyonlarını bilmiyoruz. Pek kısa zaman önce ortaya çıktılar."
         },
         {
             "id": 82,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Ve günün sonunda teröristler, Bay Dongrang'ın takımının kullandığı bu lavoratuvarı ele geçirdi."
         },
         {
@@ -497,14 +497,14 @@
             "id": 86,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Görüyorsun ki, o boş koltuklar…"
         },
         {
             "id": 87,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Bir süre boş kalacaklar. Sahipleri, o terör saldırısında öldüler."
         },
         {
@@ -515,7 +515,7 @@
             "id": 89,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Ah, bu kişinin sadece bir parmağını kurtarabilmiştik. Nereye koyabileceğimizi kestiremediğimizden, saklı olarak tutma kararı almıştık. İkinci katta bir yerlere asılı olsa gerek."
         },
         {
@@ -526,7 +526,7 @@
             "id": 91,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Geride bırakmamız gereken çok şey oldu."
         },
         {
@@ -538,7 +538,7 @@
             "id": 93,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Özellikle yüzüm gibi şekillenmiş olan o plakı özlüyorum, favori hatıramdı."
         },
         {
@@ -559,14 +559,14 @@
             "id": 97,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Ah, o masa rezerve."
         },
         {
             "id": 98,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Yeni bir çalışanın o masayı almasını bekliyoruz."
         },
         {
@@ -578,7 +578,7 @@
             "id": 100,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Öhöm."
         },
         {
@@ -589,21 +589,21 @@
             "id": 102,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Yazık, Bay Samjo gerçekten de çok rahatsız görünüyor. O halde asıl mevzuya geçelim mi, Samjo?"
         },
         {
             "id": 103,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Direkt meseleye gireceğim; İki partinin de kazançlı çıkacağı bir anlaşma yapalım."
         },
         {
             "id": 104,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Eğer laboratuvarı geri almamıza yardımcı olursanız, sahipliğinde bulunduğumuz Altın Dalı size vereceğiz."
         },
         {
@@ -615,7 +615,7 @@
             "id": 106,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Cevaplamama izin verin. Delegelerce temsil edilen, şimdiden geçerli olacak, garanti sorumluluğu bulunmayan bir antlaşma. 1.Sınıf bir Müzakere ofisinden gözlemciler eşliğinde, tez zamanda onaylanacak."
         },
         {
@@ -672,7 +672,7 @@
             "id": 117,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Aramızda sır olarak kalsın, fakat, Samjo'nun dediklerinin yarısını ben de anlamıyorum. Sadece başımı sallayıp “Ah, ne güzel~” diyip gidiyorum."
         },
         {
@@ -703,7 +703,7 @@
             "id": 123,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Ah, yani çoktan K Kuruluşu'nun rejeneratif teknolojisine şahitlik ettiniz."
         },
         {
@@ -720,21 +720,21 @@
             "id": 126,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Ah… O halde, size laboratuvarımı göstereyim mi? Burada değil gerçi... Bir kere daha asansörü kullanmamız gerekecek."
         },
         {
             "id": 127,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Geh? Sahiden o kadar şey gösterecek misiniz, Bay Dongrang? Davetsiz misafirler için oldukça yasaklı bir yeri hem de…"
         },
         {
             "id": 128,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
+            "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
             "content": "Hah, çok komik sesler çıkartıyorsun, Bay Samjo. Bir sorun teşkil etmemeli. Anlaşmanın imzalanmasını kutlamak için, biraz dolaşıyoruz sadece."
         },
         {
