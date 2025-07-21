@@ -736,8 +736,8 @@
     },
     {
       "id": "CyclingKarma",
-      "name": "Cyclical Karma",
-      "desc": "All units transfer their Karma to their targets after a successful attack.\nKarma is not transferred to My Form Empties as long as its allies are alive.",
+      "name": "Döngüsel Karma",
+      "desc": "Tüm birimler, başarılı bir saldırıda Karmalarını hedefe geçirirler.\nMüttefikleri hayatta olduğu sürece, Karma “Biçimim Boşluktur”a geçirilemez.",
       "summary": "Karma transferred on Clash win"
     },
     {
