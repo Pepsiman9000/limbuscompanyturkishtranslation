@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": 800101,
-      "name": "An Apple’s Twilight",
-      "desc": "When the Fruit is destroyed, all parts are inflicted with 2 Fragile.\nThe Fruit regenerates after 1 turn.",
-      "summary": "When the Fruit is destroyed, apply 2 Fragile to all parts"
+      "name": "Bir Elma'nın Alacakaranlığı",
+      "desc": "Meyve yok edildiğinde, bütün parçalara 2 [Vulnurable] uygula.\nMeyve 1 tur sonra yenilenir.",
+      "summary": "Meyve yok edildiğinde, bütün parçalara 2 [Vulnurable] uygula"
     },
     {
       "id": 800102,
@@ -18,9 +18,9 @@
     },
     {
       "id": 800104,
-      "name": "Entangling Roots",
-      "desc": "At the start of the turn, inflict 1 Bind on all enemies.\nThis lasts until the Roots have been broken.",
-      "summary": "Inflict 1 Bind on all enemies until Roots are broken"
+      "name": "Dolanan Kökler",
+      "desc": "Turun başlangıcında, bütün düşmanlara 1 [Binding] uygula.\nBu Kökler kırılana kadar devam eder.",
+      "summary": "Turun başlangıcında, bütün düşmanlara 1 [Binding] uygula"
     },
     {
       "id": 800105,
