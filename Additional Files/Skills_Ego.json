@@ -2374,7 +2374,7 @@
         {
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
+          "abName": "Biçimim Boşluktur",
           "desc": "[EndSkill] Heal 12 SP",
           "coinlist": [
             {
@@ -2389,7 +2389,7 @@
         {
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
+          "abName": "Biçimim Boşluktur",
           "desc": "[EndSkill] Heal 18 SP\n[EndSkill] Apply 1 [Enhancement] to 2 random other allies",
           "coinlist": [
             {
@@ -2409,7 +2409,7 @@
         {
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
+          "abName": "Biçimim Boşluktur",
           "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
@@ -2430,7 +2430,7 @@
         {
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
+          "abName": "Biçimim Boşluktur",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[EndSkill] Apply 1 [Enhancement] to 2 random other allies",
           "coinlist": [
             {
@@ -4160,7 +4160,7 @@
         {
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Formum Kayboluyor",
+          "abName": "Biçimim Boşluktur",
           "desc": "",
           "coinlist": [
             {
@@ -4178,7 +4178,7 @@
         {
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Formum Kayboluyor",
+          "abName": "Biçimim Boşluktur",
           "desc": "[BeforeAttack] 15+ SP'de, Saldırı Ağırlığı +1",
           "coinlist": [
             {
@@ -4196,7 +4196,7 @@
         {
           "level": 4,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Formum Kayboluyor",
+          "abName": "Biçimim Boşluktur",
           "desc": "[BeforeAttack] 15+ SP'de, Saldırı Ağırlığı +2",
           "coinlist": [
             {
@@ -4219,7 +4219,7 @@
         {
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Formum Kayboluyor",
+          "abName": "Biçimim Boşluktur",
           "desc": "[CantIdentify]\nRastgele Hedef Alır",
           "coinlist": [
             {
@@ -4240,7 +4240,7 @@
         {
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Formum Kayboluyor",
+          "abName": "Biçimim Boşluktur",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] -15 veya daha az SP'de, Saldırı Ağırlığı +1",
           "coinlist": [
             {
@@ -4264,7 +4264,7 @@
         {
           "level": 4,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Formum Kayboluyor",
+          "abName": "Biçimim Boşluktur",
           "desc": "[CantIdentify]\nRastgele Hedef Alır\n[BeforeAttack] -15 veya daha az SP'de, Saldırı Ağırlığı +2",
           "coinlist": [
             {
