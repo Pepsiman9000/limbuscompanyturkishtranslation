@@ -2,35 +2,35 @@
     "dataList": [
         {
             "id": 0,
-            "content": "<color=#4e3076>Come back, Heath.</color>"
+            "content": "<color=#4e3076>Geri gel, Heath.</color>"
         },
         {
             "id": 1,
-            "content": "<color=#4e3076>To the manor where the last vestiges of its beauty remain in its violet flowers.</color>"
+            "content": "<color=#4e3076>Güzelliğinin son izlerinin fundalarında kaldığı o malikaneye.</color>"
         },
         {
             "id": 2,
-            "content": "<color=#4e3076>To the manor where its storm-broken breach\nhas siphoned all that was once warm.</color>"
+            "content": "<color=#4e3076>Fırtınanın parçaladığı yarığından\nbir zamanlar sıcak olan her şeyi yutmuş olan o malikaneye.</color>"
         },
         {
             "id": 3,
-            "content": "<color=#4e3076>To the manor that gave you not only life...\nbut also scorn and desolation.</color>"
+            "content": "<color=#4e3076>Sana yalnızca hayatı değil...\nhor görülmüşlüğün ve kimsesizliğin iliklerine işlediği kaderi de sunan o malikaneye.</color>"
         },
         {
             "id": 4,
-            "content": "<color=#4e3076>To the manor where your place was the frozen corner\nthat couldn't be further from the hearth.</color>"
+            "content": "<color=#4e3076>Sıcaklığın kıyısından bile geçememiş, ocağa en uzak,\nbuz gibi köşeye ait olduğun o malikaneye.</color>"
         },
         {
             "id": 5,
-            "content": "<color=#4e3076>Return from the moors.</color>"
+            "content": "<color=#4e3076>O ıssız kırlardan geri dön.</color>"
         },
         {
             "id": 6,
-            "content": "<color=#4e3076>It’s time for you to come home.</color>"
+            "content": "<color=#4e3076>Eve gelme zamanı.</color>"
         },
         {
             "id": 7,
-            "place": "Aboard Mephistopheles",
+            "place": "Mephistopheles'in İçerisi",
             "model": "단테",
             "content": "<So this is what T Corp.’s Nest looks like...>"
         },
@@ -41,7 +41,7 @@
         {
             "id": 9,
             "model": "이스마엘",
-            "content": "Well... Somehow, we made it through this Nest checkpoint without any trouble."
+            "content": "Yani... Bir şekilde, sorun çıkarmadan başka bir Yuva'ya geçiş yapabildik."
         },
         {
             "id": 10,
@@ -51,12 +51,12 @@
         {
             "id": 11,
             "model": "그레고르",
-            "content": "But... we... didn't say anything...?"
+            "content": "Fakat... biz... hiçbir şey demedik...?"
         },
         {
             "id": 12,
             "model": "로쟈",
-            "content": "She's grown so much..."
+            "content": "Ne kadar da büyümüş..."
         },
         {
             "id": 13,
@@ -87,7 +87,7 @@
         {
             "id": 19,
             "model": "히스클리프",
-            "content": "Huh? Uh… yeah."
+            "content": "Huh? Uh… aynen."
         },
         {
             "id": 20,
@@ -96,22 +96,22 @@
         {
             "id": 21,
             "model": "이스마엘",
-            "content": "'Wuthering' Heights..."
+            "content": "'Uğultulu' Tepeler..."
         },
         {
             "id": 22,
             "model": "이스마엘",
-            "content": "That manor must’ve been built on one windy hill, huh?"
+            "content": "Bu malikane bayağı rüzgarlı bir tepeye yapılmış olmalı, eh?"
         },
         {
             "id": 23,
             "model": "히스클리프",
-            "content": "Yeah. Bloody 'wuthering', like its namesake."
+            "content": "Tabii. Feci 'uğultulu', adı gibi."
         },
         {
             "id": 24,
             "model": "히스클리프",
-            "content": "... Not a single corner of that place gave any comfort."
+            "content": "... Oranın bir köşesi bile bana komfor sunmadı."
         },
         {
             "id": 25,
@@ -120,82 +120,82 @@
         {
             "id": 26,
             "model": "이상",
-            "content": "A return to one’s homeland must bring forth quite the tangled mass of emotions."
+            "content": "Anavatanına dönüş, ruhunda düğümlenmiş bir hisler karmasını beraberinde getirmeli."
         },
         {
             "id": 27,
             "model": "히스클리프",
-            "content": "Homeland? Well..."
+            "content": "Anavatan? Yani..."
         },
         {
             "id": 28,
             "model": "히스클리프",
-            "content": "I wasn’t born here, I was raised here… I suppose that could still count as a ‘homeland’, in a way."
+            "content": "Burada doğmadım, burada büyütüldüm... Bir şekilde buna 'anavatan' diyebiliriz sanırım."
         },
         {
             "id": 29,
             "model": "히스클리프",
-            "content": "But it doesn’t conjure in me the same feeling that a ‘homeland’ is supposed to."
+            "content": "Ama bende 'anavatan'ın uyandırması gereken o aynı duyguyu çağrıştırmıyor."
         },
         {
             "id": 30,
             "model": "이상",
-            "content": "... That is to say...?"
+            "content": "... Öyle mi...?"
         },
         {
             "id": 31,
             "model": "히스클리프",
-            "content": "You’ve no idea how many times I imagined it, played it out in my head. Returning to that bloody manor, smashing every little thing in that place to bits until there is nothing left..."
+            "content": "O siktiğimin malikanesine dönüp, içindeki her şeyin teker teker amını götünü dağıtmayı kaç kere hayal ettim, kafamda oynattım bilmiyorsun."
         },
         {
             "id": 32,
             "model": "이스마엘",
-            "content": "Okay, so you’ll smash everything to bits. Then what?"
+            "content": "Tamam, her şeyi allak bullak edeceksin. Peki, sonra ne olacak?"
         },
         {
             "id": 33,
             "model": "이스마엘",
-            "content": "Did you really learn nothing from watching what I went through at the Lake?"
+            "content": "Göl’de yaşadıklarımdan gerçekten hiç mi ders çıkarmadın?"
         },
         {
             "id": 34,
             "model": "히스클리프",
-            "content": "... I did learn something."
+            "content": "... Bir şey öğrendim."
         },
         {
             "id": 35,
             "model": "히스클리프",
-            "content": "If I ever lose the plot and push myself to the brink of no return, I trust that one of you louts will pull me right out of it."
+            "content": "Eğer bir gün aklımı kaybeder ve geri dönüşü olmayan bir uçuruma sürüklenirsem, eminim ki içinizden biri beni oradan çeker çıkarır."
         },
         {
             "id": 36,
             "model": "이스마엘",
-            "content": "... Are you giving us permission to beat the sense back into you?"
+            "content": "... Aklını başına getirmemiz için seni dövmemize izin mi veriyorsun bize?"
         },
         {
             "id": 37,
             "model": "히스클리프",
-            "content": "Yeah. If that’s what it takes. "
+            "content": "Evet. Gereken şey o olursa. "
         },
         {
             "id": 38,
             "model": "료슈",
-            "content": "Interesting. How far are we allowed to go with bodily harm? Amputation? Nerve mutilation?"
+            "content": "İlginç. Bedensel zarar konusunda ne kadar ileri gidebiliriz? Amputasyon? Sinirleri parçalamak?"
         },
         {
             "id": 39,
             "model": "싱클레어",
-            "content": "Maybe we can at least smack his head really hard?"
+            "content": "Belki en azından kafasına sağlam bir şaplak atarız?"
         },
         {
             "id": 40,
             "model": "히스클리프",
-            "content": "All right, you cheeky bastards..."
+            "content": "Tamamdır, siz arsızlar..."
         },
         {
             "id": 41,
             "model": "히스클리프",
-            "content": "Seriously, this ain't an invitation to use me as your emotional punching bag. I’m not in the mood to—"
+            "content": "Cidden, beni duygusal bir dayak torbası olarak kullanmanız için bir davet değil bu. Modum yok—"
         },
         {
             "id": 42,
