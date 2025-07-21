@@ -2,146 +2,146 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Molar Boatworks Entrance",
+            "place": "Molar Boatworks'un Girişi",
             "model": "단테2",
             "content": "<Hey, Ishmael.>"
         },
         {
             "id": 1,
             "model": "이스마엘",
-            "content": "...Yes."
+            "content": "...Evet."
         },
         {
             "id": 2,
             "model": "단테2",
-            "content": "<Can we talk, at least for a bit?>"
+            "content": "<Birazcık konuşabilir miyiz?>"
         },
         {
             "id": 3,
-            "content": "I called over to Ishmael once the battle was over."
+            "content": "Savaş bitince Ishmael'i yanıma çağırdım."
         },
         {
             "id": 4,
-            "content": "Right, I've never done anything like this before... I don't even know if this is the right thing to do, or what kind of results this conversation is going to yield, but..."
+            "content": "tabii, daha önce hiç böyle bir şey yapmadım... Bunun doğru bir şey olup olmadığını veya bu konuşmanın ne tür sonuçlar vereceğini bile bilmiyorum ama..."
         },
         {
             "id": 5,
-            "content": "I can't just sit here and watch."
+            "content": "Burada sadece oturup bekleyemem."
         },
         {
             "id": 6,
             "model": "이스마엘",
-            "content": "Yeah. Whatever."
+            "content": "Evet. Herneyse."
         },
         {
             "id": 7,
             "model": "단테2",
-            "content": "<It looks to me that you've been preoccupied with something ever since we got here...>"
+            "content": "<Görüyorum ki buraya geldiğimizden beri bir şeyler seni rahatsız ediyor...>"
         },
         {
             "id": 8,
             "model": "단테2",
-            "content": "<You know, you're not really participating in group activities and things like that.>"
+            "content": "<Biliyorsun, grup aktivitelerine ve buna benzer şeylere hiç katılmıyorsun.>"
         },
         {
             "id": 9,
             "model": "이스마엘",
-            "content": "Isn't it obvious? There's something more important at hand, but they're all busy enjoying themselves, playing this stupid game."
+            "content": "Çok açık değil mi? Daha önemli bir şey var ama herkes şu aptal oyunu oynayıp eğleniyorlar."
         },
         {
             "id": 10,
             "model": "단테2",
-            "content": "<Something more important... is this about the Great Lake?>"
+            "content": "<Önemli bir şey mi... Bu Büyük Göl ile ilgili mi?>"
         },
         {
             "id": 11,
             "model": "이스마엘",
-            "content": "Yes."
+            "content": "Evet."
         },
         {
             "id": 12,
             "model": "단테2",
-            "content": "<That we, in our current state, shouldn't go there?>"
+            "content": "<Bizim şu anki halimizle oraya gitmememiz gerektiğini mi söylüyorsun?>"
         },
         {
             "id": 13,
             "model": "이스마엘",
-            "content": "No."
+            "content": "Hayır."
         },
         {
             "id": 14,
             "model": "단테2",
-            "content": "<Right... So, why do you think that we don't have a chance against whatever is there?>"
+            "content": "<O halde... Neden orada ne varsa ona karşı bir şansımız olmadığını düşünüyorsun?>"
         },
         {
             "id": 15,
             "model": "이스마엘",
-            "content": "I told you. We're not ready."
+            "content": "Sana söyledim ya. Hazır değiliz.."
         },
         {
             "id": 16,
             "model": "이스마엘",
-            "content": "We're going to need at least half a year to acclimate to the Great Lake and the things that are there."
+            "content": "Büyük Göl'e ve oradaki şeylere alışmamız için en az yarım yıla ihtiyacımız olacak."
         },
         {
             "id": 17,
             "model": "이스마엘",
-            "content": "Or, we could try to gain more experience, enough to overwhelm our disadvantages. And that goes the same for you, Dante. You need to be strong enough to at least take care of yourself."
+            "content": "Ya da dezavantajlarımızı aşmak için daha fazla deneyim kazanmaya çalışabiliriz. Aynı şey senin için de geçerli Dante. En azından kendini koruyabilecek kadar güçlü olmalısın."
         },
         {
             "id": 18,
             "model": "이스마엘",
-            "content": "Which I can help with. And Outis... I'm sure she can help with your training, too."
+            "content": "Ben de bu konuda yardımcı olabilirim. Ve Outis... Eminim o da senin eğitimine yardımcı olabilir."
         },
         {
             "id": 19,
             "model": "오티스",
-            "content": "...If push comes to shove, yes."
+            "content": "...İş ciddiye binerse, evet."
         },
         {
             "id": 20,
             "model": "단테2",
-            "content": "<W-wait. Wait.>"
+            "content": "<B-Bekle. Bekle>"
         },
         {
             "id": 21,
             "model": "단테2",
-            "content": "<Half a year, Ishmael...? We just don't have that much time to spare.>"
+            "content": "<Yarım yıl mı, Ishmael...? O kadar fazla zamanımız yok.>"
         },
         {
             "id": 22,
             "model": "이스마엘",
-            "content": "Really? Is that why we were playing beach volleyball? Because we don't have the time to spare?"
+            "content": "Gerçekten mi? Plaj voleybolu oynamamızın sebebi bu muydu? Çünkü ayıracak vaktimiz yok mu?"
         },
         {
             "id": 23,
             "model": "이스마엘",
-            "content": "And... it's not like I'm saying that we should just sit on our butts and do nothing for half a year. I'm saying that we should visit other destinations first before coming back here."
+            "content": "Ve... altı ay boyunca kıçımızın üstünde oturup hiçbir şey yapmamamız gerektiğini söylemiyorum. Buraya geri dönmeden önce başka yerleri ziyaret etmemiz gerektiğini söylüyorum."
         },
         {
             "id": 24,
             "model": "파우스트",
-            "content": "That is impossible. Not every location of Golden Boughs in the Nests has been identified, and the Before Team hasn't completed their preliminary surveys yet."
+            "content": "Bu imkansız. Yuvalardaki Altın Dallar'ın her yeri henüz tespit edilmedi ve Öncü Ekibi henüz ön araştırmalarını tamamlamadı."
         },
         {
             "id": 25,
             "model": "이스마엘",
-            "content": "Excuses."
+            "content": "Hepsi mazeretten başka bir şey değil."
         },
         {
             "id": 26,
             "model": "이스마엘",
-            "content": "I've known for a while that you've had some fancy ulterior motive."
+            "content": "Bir süredir senin süslü bir art niyetin olduğunu biliyordum."
         },
         {
             "id": 27,
             "model": "이스마엘",
-            "content": "...And whatever that is, this is a mistake you won't ever forget."
+            "content": "...Ve bu ne olursa olsun, bu asla unutamayacağın bir hata olacak."
         },
         {
             "id": 28,
             "model": "파우스트",
-            "content": "...Perhaps."
+            "content": "...Gerçi."
         },
         {
             "id": 29,
@@ -151,125 +151,125 @@
         {
             "id": 30,
             "model": "이스마엘",
-            "content": "Gah, what a mess."
+            "content": "Ah, ne karmaşa ama."
         },
         {
             "id": 31,
             "model": "이스마엘",
-            "content": "In that case, we should at least map a detailed sailing route and plan out a combat strategy..."
+            "content": "Bu durumda en azından detaylı bir seyir rotası çizmeli ve bir savaş stratejisi planlamalıyız...."
         },
         {
             "id": 32,
             "model": "히스클리프",
-            "content": "Prattling on and on and on..."
+            "content": "Gevezelik edip edip duruyoruz..."
         },
         {
             "id": 33,
-            "content": "Just when I thought our discussion was reaching a stalemate, Heathcliff butted in."
+            "content": "Tam tartışmamızın çıkmaza girdiğini düşündüğüm sırada Heathcliff araya girdi."
         },
         {
             "id": 34,
             "model": "이스마엘",
-            "content": "What's your problem?"
+            "content": "Senin sorunun ne?"
         },
         {
             "id": 35,
             "model": "히스클리프",
-            "content": "Shut your gob. Think you're the only one struggling here? We've all died more times than we can count. Every single one of us!"
+            "content": "Kapa çeneni. Burada mücadele eden tek kişinin sen olduğunu mu sanıyorsun? Hepimiz sayamayacağımız kadar çok öldük. Her birimiz...!"
         },
         {
             "id": 36,
             "model": "히스클리프",
-            "content": "So I'm telling you that it'll work out again, somehow!"
+            "content": "İşler bir şekilde bir yolla yoluna girecek!"
         },
         {
             "id": 37,
             "model": "이스마엘",
-            "content": "And I'm telling you that the Great Lake is different. What if the manager drowns? What if that thing eats us and our bodies can't be recovered?"
+            "content": "Ve size Büyük Göl'ün farklı olduğunu söylüyorum. Ya Dante boğulursa? Ya o şey bizi yerse ve bedenlerimiz kurtarılamazsa?"
         },
         {
             "id": 38,
             "model": "이스마엘",
-            "content": "Do you understand? This isn't anything like we've been through so far! This could be the end of us!"
+            "content": "Anlıyor musun? Bu şimdiye kadar yaşadıklarımıza hiç benzemiyor! Bu bizim sonumuz olabilir.!"
         },
         {
             "id": 39,
             "model": "이스마엘",
-            "content": "Then I... won't have the chance to kill that bastard..."
+            "content": "O zaman... o piçi öldürme şansım olmayacak..."
         },
         {
             "id": 40,
             "model": "히스클리프",
-            "content": "...Okay. Let's say that you're right. If we go now, we're all going to bite it and I won't be able to get Cath... I mean, get back up."
+            "content": "...Tamam. Diyelim ki haklısın. Şimdi gidersek, hepimiz ölüceğiz ve Cath'yi... Yani, bir daha canlanamayacağız..."
         },
         {
             "id": 41,
             "model": "히스클리프",
-            "content": "So what's wrong with faffin' about for a little while? What, are those whales working out or something?"
+            "content": "Peki, biraz oyalanmanın nesi yanlış? Ne, şu balinalar spor mu yapıyor yoksa?"
         },
         {
             "id": 42,
             "model": "히스클리프",
-            "content": "You've been mucking up the mood ever since we got here, so how about you use some bloody common sense to not bring everyone else down with you!"
+            "content": "Buraya geldiğimizden beri ortamın havasını bozuyorsun, o yüzden herkesi de beraberinde aşağı çekmemek yerine biraz sağduyulu davranmaya ne dersin?!"
         },
         {
             "id": 43,
             "model": "이스마엘",
-            "content": "That's rich coming from you, Heathcliff."
+            "content": "Ağzından bal damlıyor, Heathcliff."
         },
         {
             "id": 44,
             "model": "이스마엘",
-            "content": "What 'common sense' do you have of the Great Lake? Have you even seen a whale? Since when were you such a know-it-all?"
+            "content": "Büyük Göl hakkında ne kadar 'sağduyulu'sun? Hiç balina gördün mü ki konuşuyorsun? Ne zamandan beri bu kadar bilmişlik taslıyorsun?"
         },
         {
             "id": 45,
             "model": "이스마엘",
-            "content": "What do you even know about a sailor's life? Hah, how would you? All day you're whining about your girlfriend or something, dozing off in the bus, or throwing a hissy fit once in a while!"
+            "content": "Bir denizcinin hayatı hakkında ne biliyorsun ki? Hah, nasıl bilebilirsin ki? Bütün gün kız arkadaşın falan hakkında sızlanıyorsun, otobüste uyukluyorsun ya da arada bir öfke nöbeti geçiriyorsun!"
         },
         {
             "id": 46,
             "model": "히스클리프",
-            "content": "...Quit it."
+            "content": "...Kapat şu konuyu."
         },
         {
             "id": 47,
             "model": "이스마엘",
-            "content": "It's kill or be killed, by everything from the depths of the waters to the heights of the skies crawling and falling onto the deck..."
+            "content": "Öl ya da öldür durumundayız, suların derinliklerinden gökyüzünün yüksekliklerine kadar her şey seni bekliyor...."
         },
         {
             "id": 48,
             "model": "이스마엘",
-            "content": "Innumerable natural disasters like acid typhoons, tuna tsunamis, cerebra storms, and a multitude of other terrors of the lake I can't even recall the names of!"
+            "content": "Asit tayfunları, ton balığı tsunamileri, beyin fırtınaları ve gölde adını bile hatırlayamadığım bir sürü başka doğal felaket!"
         },
         {
             "id": 49,
             "model": "이스마엘",
-            "content": "And from the storms, high-waves as tall as mountains! Following that, those fucking monsters that wash up on the deck!"
+            "content": "Ve fırtınalardan, dağlar kadar yüksek dalgalar! Ardından, güverteye vuran o siktiğimin canavarları!"
         },
         {
             "id": 50,
             "model": "이스마엘",
-            "content": "Look away for a moment and your mate, whom you've trusted with your life, is slain! Everyone and every goddamn thing goes mad and is transformed into something else entirely on that abominable lake!"
+            "content": "Bir an için bakışlarını kaçırırsan, hayatını emanet ettiğin dostun ölüyor! Herkes ve her şey deliriyor ve o iğrenç gölde vücutları bambaşka bir canavara dönüşüyor!"
         },
         {
             "id": 51,
             "model": "이스마엘",
-            "content": "It's something that a pathetic lovey-dovey tenderfoot like you..."
+            "content": "Bu senin gibi zavallı, aşık bir aceminin yapabileceği bir şey değil..."
         },
         {
             "id": 52,
             "model": "이스마엘",
-            "content": "...Won't ever understand, not after dying a hundred deaths."
+            "content": "...Yüzlerce kez ölsen bile anlamayacaksın değil mi."
         },
         {
             "id": 53,
             "model": "히스클리프",
-            "content": "I told you to quit it!"
+            "content": "Konuyu kapat dedim!"
         },
         {
             "id": 54,
-            "content": "Before anyone could even step in, Heathcliff swung wildly at Ishmael."
+            "content": "Daha kimse adım atamadan Heathcliff, Ishmael'e sertçe vurdu."
         },
         {
             "id": 55,
@@ -279,20 +279,20 @@
         {
             "id": 56,
             "model": "히스클리프",
-            "content": "You don't know shite about me, a prick like you!"
+            "content": "Senin gibi bir pislik benim hakkımda hiç bir şey bilemez."
         },
         {
             "id": 57,
             "model": "이상",
-            "content": "F-fellows..."
+            "content": "D-Dostlar..."
         },
         {
             "id": 58,
-            "content": "The tussle was such a blitz that no one could even attempt to intervene; Yi Sang almost looked pitiful as he stood there bewildered."
+            "content": "Kavga o kadar şiddetliydi ki kimse müdahale etmeye bile çalışamadı; Yi Sang şaşkınlıkla orada dururken neredeyse acınası görünüyordu."
         },
         {
             "id": 59,
-            "content": "For a moment, it appeared as though Heathcliff had the upper hand as his fist struck Ishmael right in her jaw..."
+            "content": "Bir an için, Heathcliff'in yumruğu Ishmael'in çenesine isabet edince üstünlüğü ele geçirmiş gibi göründü..."
         },
         {
             "id": 60,
@@ -302,44 +302,44 @@
         {
             "id": 61,
             "model": "히스클리프",
-            "content": "Woah?!"
+            "content": "Voah?!"
         },
         {
             "id": 62,
-            "content": "Just as Ishmael appeared to throw a punch, she kicked Heathcliff's leg, throwing him to the ground."
+            "content": "Ishmael tam yumruk atacakken Heathcliff'in bacağına tekme attı ve onu yere serdi."
         },
         {
             "id": 63,
             "model": "단테2",
-            "content": "<I-Ishmael, wait!>"
+            "content": "<I-Ishmael, bekle!>"
         },
         {
             "id": 64,
-            "content": "In the blink of an eye, Ishmael took up her mace."
+            "content": "Göz açıp kapayıncaya kadar Ishmael topuzunu aldı."
         },
         {
             "id": 65,
-            "content": "She raises it high, as though she could strike it down at any moment. Her arm trembles with uncontrollable fury."
+            "content": "Sanki her an devirebilecekmiş gibi onu havaya kaldırdı. Kolu kontrol edilemeyen bir öfkeyle titriyordu.."
         },
         {
             "id": 66,
             "model": "히스클리프",
-            "content": "...Yeah, what'll you do? Bash my head in? Like I did you before?"
+            "content": "...Evet, ne yapacaksın? Kafamı mı patlatacaksın? Daha önce sana yaptığım gibi mi?"
         },
         {
             "id": 67,
             "model": "히스클리프",
-            "content": "Fine, kill me. No matter. I'll be right as rain in a minute."
+            "content": "Tamam, öldür beni. Önemli değil. Bir dakikaya geri dönerim."
         },
         {
             "id": 68,
             "model": "히스클리프",
-            "content": "...I was a fool to think you'd be any different from me."
+            "content": "...Senin benden farklı olacağını düşünmek aptallıktı."
         },
         {
             "id": 69,
             "model": "히스클리프",
-            "content": "Hah, everyone's the same, after all."
+            "content": "Hah, her şeyden sonra herkes aynı."
         },
         {
             "id": 70,
@@ -353,31 +353,31 @@
         },
         {
             "id": 72,
-            "content": "I wasn't sure what caused her sudden change of heart, but it was a relief of sorts, at least. She looked at Heathcliff with her eyes wide open... and dropped the mace to the ground."
+            "content": "Aniden fikrinin değişmesine neyin sebep olduğunu bilmiyordum ama en azından bir nevi rahatladı. Gözleri kocaman açılmış bir şekilde Heathcliff'e baktı... ve topuzunu yere düşürdü."
         },
         {
             "id": 73,
             "model": "이상",
-            "content": "I wished that I would not have to again be witness to such belligerency amongst friends..."
+            "content": "Keşke arkadaşlarım arasında böyle bir kavgaya bir daha tanık olmak zorunda kalmasaydım...."
         },
         {
             "id": 74,
             "model": "이상",
-            "content": "Yet, such quarrels among fellows is but an ineluctability, perhaps..."
+            "content": "Oysa, arkadaşlar arasında bu tür kavgalar belki de kaçınılmaz bir şeydir...."
         },
         {
             "id": 75,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "Hyaah~ Now that brings me back, watching them fight! We used to tussle just like they do now."
+            "content": "Hyaah~ İşte bu beni, onların kavgalarını izlerkenki anlara geri götürdü! Eskiden tıpkı şimdi yaptıkları gibi biz de kavga ederdik.."
         },
         {
             "id": 76,
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "Big Sis, shush! Shh!!"
+            "content": "Büyük abla, sussana!!"
         },
         {
             "id": 77,
@@ -389,72 +389,72 @@
         {
             "id": 78,
             "model": "파우스트",
-            "content": "Dante, I neglected to mention this to you since we have not had a dispute like this since our first mission..."
+            "content": "Dante, ilk görevimizden beri böyle bir anlaşmazlık yaşamadığımız için bunu sana söylemeyi unuttum...."
         },
         {
             "id": 79,
             "model": "파우스트",
-            "content": "But you could be held responsible in the future for management failure, should a similar workplace conflict arise."
+            "content": "Ancak gelecekte benzer bir kavga ortaya çıkarsa, yönetim başarısızlığından sorumlu tutulabilirsin."
         },
         {
             "id": 80,
             "model": "단테2",
-            "content": "<I...>"
+            "content": "<Ben...>"
         },
         {
             "id": 81,
-            "content": "What the hell was I supposed to do about this?"
+            "content": "Bu konu hakkında ne yapmam gerekiyordu ki?"
         },
         {
             "id": 82,
-            "content": "...Was what I wanted to say, but I managed to hold my metaphorical tongue."
+            "content": "...Söylemek istediğim buydu ama dilimin ucunu tutmayı başardım."
         },
         {
             "id": 83,
             "model": "오티스",
-            "content": "How does the fault lie with the Executive Manager, Faust? It's those two fools who got into this senseless altercation."
+            "content": "Suç nasıl İdari Müdürümüzde olabilir Bayan Faust? Bu anlamsız kavgaya giren iki aptalın suçu onlarda değil mi?."
         },
         {
             "id": 84,
             "model": "파우스트",
-            "content": "Preventing senseless altercations between coworkers is a job of a manager."
+            "content": "İş arkadaşları arasındaki anlamsız tartışmaları önlemek bir müdürün görevidir."
         },
         {
             "id": 85,
             "model": "오티스",
-            "content": "You..."
+            "content": "Sen..."
         },
         {
             "id": 86,
             "model": "싱클레어",
-            "content": "S-stop it, everyone..."
+            "content": "H-Herkes dursun..."
         },
         {
             "id": 87,
             "model": "돈키호테",
-            "content": "Indeed, such behavior ill fits the heroic nature of Limbus Company."
+            "content": "Gerçekten de, bu tür davranışlar Limbus Şirketi'nin kahramanca doğasına hiç uymuyor.."
         },
         {
             "id": 88,
-            "content": "Sinclair's hesitance, Don Quixote's attempts to defuse, Faust's impassive voice, and Outis's increasingly rising voice in my defense."
+            "content": "Sinclair'in tereddüdü, Don Quixote'nin kavgayı ayırma girişimleri, Faust'un duygusuz sesi ve Outis'in savunmamda giderek yükselen sesi."
         },
         {
             "id": 89,
-            "content": "All of that combined was starting to get incredibly irritating..."
+            "content": "Tüm bunların birleşimi inanılmaz derecede sinir bozucu olmaya başlıyordu..."
         },
         {
             "id": 90,
             "model": "단테2",
-            "content": "<Stop...>"
+            "content": "<Durun...>"
         },
         {
             "id": 91,
             "model": "단테2",
-            "content": "<Guys. Enough.>"
+            "content": "<Bu kadar yeter.>"
         },
         {
             "id": 92,
-            "content": "I had no other recourse left at this moment."
+            "content": "Şu anda başka başvurabileceğim bir yer kalmamıştı."
         },
         {
             "id": 93,
@@ -464,7 +464,7 @@
         {
             "id": 94,
             "model": "히스클리프",
-            "content": "...What."
+            "content": "...Ne."
         },
         {
             "id": 95,
@@ -474,33 +474,33 @@
         {
             "id": 96,
             "model": "단테2",
-            "content": "<The two of you, stop working together for a while. Distance yourselves.>"
+            "content": "<İkiniz de bir süre birlikte çalışmayı bırakın. Birbirinize mesafe koyun.>"
         },
         {
             "id": 97,
             "model": "단테2",
-            "content": "<At least... at least until I can think of a way to deal with you two.>"
+            "content": "<En azından... en azından ikinizle baş etmenin bir yolunu bulana kadar.>"
         },
         {
             "id": 98,
             "model": "히스클리프",
-            "content": "It's not like I enjoy looking at her mug."
+            "content": "Onun suratına bakmaktan hoşlandığımı söyleyemem."
         },
         {
             "id": 99,
             "model": "이스마엘",
-            "content": "...Ok."
+            "content": "...Tamam."
         },
         {
             "id": 100,
-            "content": "Thus the mood fell into a pit as depressing as this mudflat..."
+            "content": "Böylece ruh hali bu çamur düzlüğü kadar depresif bir çukura düştü..."
         },
         {
             "id": 101,
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "Okay, okay... We have an approximate quote now, so feel free to go collecting those scraps."
+            "content": "Tamam, tamam... Şu anda yaklaşık bir hurda kotamız var, o yüzden gidip o hurdaları toplamaktan çekinmeyin."
         },
         {
             "id": 102,
@@ -510,7 +510,7 @@
         },
         {
             "id": 103,
-            "content": "We spent the next few days collecting scraps with the rest of the Sinners."
+            "content": "Sonraki birkaç günü diğer Günahkarlarla birlikte hurda toplayarak geçirdik."
         }
     ]
 }
