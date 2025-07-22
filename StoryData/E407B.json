@@ -2,50 +2,50 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Molar Boatworks Entrance",
-            "content": "All the Sinners, save for Ishmael, gathered to behold the finished product."
+            "place": "Molar Boatworks'un Girişi",
+            "content": "Ishmael hariç tüm günahkarlar, tamamlanmış Mephistopheles'i görmek için toplandılar."
         },
         {
             "id": 1,
             "model": "돈키호테",
-            "content": "Ooh! Do I behold with mine eyes the transformed bus?"
+            "content": "Ooh! Gözlerimle dönüşmüş otobüsü görüyor muyum?"
         },
         {
             "id": 2,
             "model": "이상",
-            "content": "Would one call this a busboat, or a boatbus?"
+            "content": "Buna otobüs teknesi mi denir, yoksa tekne otobüsü mü?"
         },
         {
             "id": 3,
             "model": "단테2",
-            "content": "<I think I'll go with busboat?>"
+            "content": "<Sanırım tekne otobüsünü seçeceğim?>"
         },
         {
             "id": 4,
             "model": "싱클레어",
-            "content": "Where did the wheels go? We'll need them again once we're done with U Corp's District..."
+            "content": "Tekerlekler nereye gitti? U Kuruluşu'nun Eyaleti ile işimizi bitirdiğimizde onlara tekrar ihtiyacımız olacak...."
         },
         {
             "id": 5,
             "model": "오티스",
-            "content": "A needless concern. Of course it has been modified to be amphibious, with both a boat form and a bus form."
+            "content": "Gereksiz bir endişe. Elbette hem tekne hem de otobüs formunda amfibi olacak şekilde modifiye edildi."
         },
         {
             "id": 6,
             "model": "그레고르",
-            "content": "What is this, some kind of magic bus...?"
+            "content": "Bu ne, bir çeşit sihirli otobüs mü...?"
         },
         {
             "id": 7,
             "model": "파우스트",
-            "content": "The myriad of possibilities Mephistopheles holds means it has always been capable of various functions. Hasn't Faust expounded upon this detail once?"
+            "content": "Mephistopheles'in sahip olduğu sayısız olasılık, onun her zaman çeşitli işlevlere sahip olduğunu gösteriyor. Faust bu ayrıntıyı bir zamanlar açıklamamış mıydı?"
         },
         {
             "id": 8,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "Now now, that's enough of that... Let's start it up."
+            "content": "Hadi bakalım, yeter artık... Hadi başlayalım.."
         },
         {
             "id": 9,
@@ -54,54 +54,54 @@
         },
         {
             "id": 10,
-            "content": "As Mika fiddled with its controls, the bus... I mean, the boat... I mean, the busboat shuddered awake..."
+            "content": "Mika kontrolleriyle uğraşırken otobüs... Yani tekne... Yani otobüs teknesi titreyerek uyandı..."
         },
         {
             "id": 11,
             "model": "단테2",
-            "content": "<Huh?!>"
+            "content": "<Hah?!>"
         },
         {
             "id": 12,
-            "content": "And sputtered off with the odd screeching noise we heard earlier."
+            "content": "Ve daha önce duyduğumuz garip tiz sesle bitti."
         },
         {
             "id": 13,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "Nhgh... I think we're missing something. Maybe it's the form transmogrifier that's messing up."
+            "content": "Nhgh... Sanırım bir şeyi gözden kaçırıyoruz. Belki de sorun yaratan form değiştiricidir."
         },
         {
             "id": 14,
             "model": "로쟈",
-            "content": "Yeow~ I thought my eardrums were going to burst. What could possibly be causing that noise?"
+            "content": "Vay canına~ Kulak zarlarım patlayacak sandım. Bu sese ne sebep olabilir ki?"
         },
         {
             "id": 15,
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "Mika... I think it's that one part where we had to make do with what we had."
+            "content": "Mika... Sanırım elimizdekilerle yetinmek zorunda kaldığımız kısım burasıydı.."
         },
         {
             "id": 16,
             "model": "오티스",
-            "content": "What was that? Did you just say \"make do\"?"
+            "content": "Neydi o? Az önce “idare et” mi dedin?"
         },
         {
             "id": 17,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "W-we didn't have a choice! There weren't enough parts in stock..."
+            "content": "Başka seçeneğimiz yoktu! Stokta yeterli parça yoktu...."
         },
         {
             "id": 18,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "There's this one thing that was supposed to be irreplaceable, but the problem is..."
+            "content": "Değiştirilemez olması gereken bir şey var ama sorun şu ki..."
         },
         {
             "id": 19,
@@ -113,137 +113,137 @@
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "...This wasn't the sound of its engine, was it?"
+            "content": "...Bu onun motorunun sesi değildi, değil mi?"
         },
         {
             "id": 21,
             "model": "파우스트",
-            "content": "It's the gigantic mutant we've encountered before. It's headed this way."
+            "content": "Daha önce karşılaştığımız devasa mutant bu. Bu tarafa doğru geliyor.."
         },
         {
             "id": 22,
             "model": "이상",
-            "content": "It is likely drawn here by the same clamor as afore."
+            "content": "Muhtemelen buraya da daha önceki gürültü sebebiyle gelmiştir."
         },
         {
             "id": 23,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "Hmm hmm, that's good news~"
+            "content": "Hmm hmm, bu iyi haber.~"
         },
         {
             "id": 24,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "That big boy has the exact part we're missing on its back, don't it?"
+            "content": "Şu büyük oğlanın sırtında bizim eksik olan parçanın aynısı var, değil mi?"
         },
         {
             "id": 25,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "I-it does, I guess..."
+            "content": "Sanırım öyle..."
         },
         {
             "id": 26,
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "Big Sis, are you really...?"
+            "content": "Büyük abla, sen gerçekten...?"
         },
         {
             "id": 27,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "I am, really~ It's that one expensive and tricky to manufacture part, isn't it?"
+            "content": "Evet gerçekten~ Pahalı ve üretimi zor bir parça, değil mi?"
         },
         {
             "id": 28,
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "Don't you remember the way it killed the employees of other boat workshops?"
+            "content": "Diğer tekne atölyelerinin çalışanlarını nasıl öldürdüğünü hatırlamıyor musun?"
         },
         {
             "id": 29,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "Well, that's because it crashed into us, not because we were hunting the bastard for parts."
+            "content": "Aslında onun sebebi o salakların o yengeci parça için avlamaya çalışmasıydı, biz ise yengeç bize saldırdığı için saldıracağız.."
         },
         {
             "id": 30,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "But now~ I have these lads and lassies to help us."
+            "content": "Ama şimdi~ bize yardım edecek genç misafirlerimiz var."
         },
         {
             "id": 31,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "Besides, it killed the people that helped us start Molar Boatworks from our bum days, didn't it? Looks like this is just the time to give it a right smashing down its noggin."
+            "content": "Ayrıca, Molar Boatworks'ü kurmamıza yardım eden insanları da kötü günlerimizden beri öldürdü, değil mi? Anlaşılan şimdi onun kafasını kırmanın tam zamanı."
         },
         {
             "id": 32,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "And make me some more wine outta its brain juice, too..."
+            "content": "Ve beyin şarabı da yapmama yardımcı olacak..."
         },
         {
             "id": 33,
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "...Big Sis?"
+            "content": "...Büyük abla?"
         },
         {
             "id": 34,
             "model": "로쟈",
-            "content": "C-can we get some, too?"
+            "content": "Biz biraz beyin şarabı alabilirmiyiz?"
         },
         {
             "id": 35,
             "model": "싱클레어",
-            "content": "Wha, what do you mean, \"we\"?"
+            "content": "\"Biz\" derken neyi kastediyorsun?"
         },
         {
             "id": 36,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "Hmm, this king trash crab is supposed to be a few years old, so it has to be the same one from earlier."
+            "content": "Hmm, bu kral çöp yengecinin birkaç yaşında olması gerekiyor, bu yüzden daha öncekiyle aynı olmalı."
         },
         {
             "id": 37,
             "model": "히스클리프",
-            "content": "Anyway... all we need to do is catch and kill that prick, innit?"
+            "content": "Neyse... tek yapmamız gereken o pisliği yakalayıp öldürmek, değil mi?"
         },
         {
             "id": 38,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "Right on~"
+            "content": "Tamda öyle~"
         },
         {
             "id": 39,
             "model": "히스클리프",
-            "content": "You heard 'er, clockface."
+            "content": "Duydun onu , saat kafa."
         },
         {
             "id": 40,
-            "content": "Heathcliff turned to me, visibly eager to go up and crush some shells."
+            "content": "Heathcliff bana döndü, yukarı çıkıp birkaç yengeç kabuğu kırmak için istekli olduğu açıkça belliydi."
         },
         {
             "id": 41,
             "model": "이스마엘",
-            "content": "Let's not. Isn't this better for us?"
+            "content": "Yapmayalım. Bu bizim için daha iyi değil mi?"
         },
         {
             "id": 42,
@@ -253,42 +253,42 @@
         {
             "id": 43,
             "model": "로쟈",
-            "content": "Gee, Ishy... Where have you been all this time?"
+            "content": "Vay canına, Ishy... Bunca zaman neredeydin?"
         },
         {
             "id": 44,
             "model": "이스마엘",
-            "content": "I was making preparations for our survival on the Great Lake, obviously."
+            "content": "Açıkçası Büyük Göl'de hayatta kalma hazırlıkları yapıyordum."
         },
         {
             "id": 45,
             "model": "이스마엘",
-            "content": "The least I can do is make an exhaustive guide on whales you can study up on, right?"
+            "content": "En azından balinalar hakkında kapsamlı bir rehber hazırlayabilirim, değil mi?"
         },
         {
             "id": 46,
             "model": "로쟈",
-            "content": "You know I don't read that kinda stuff..."
+            "content": "Bilirsin ki ben bu tür şeyleri okumam..."
         },
         {
             "id": 47,
             "model": "이스마엘",
-            "content": "Then I'll keep reminding you until you have no choice but to read it."
+            "content": "O zaman okumaktan başka çaren kalmayana kadar sana hatırlatmaya devam edeceğim."
         },
         {
             "id": 48,
             "model": "이스마엘",
-            "content": "See, manager? We still need more time. There is so much more to prepare."
+            "content": "Gördün mü, müdür? Hâlâ daha zamana ihtiyacımız var. Hazırlanacak çok şey var.."
         },
         {
             "id": 49,
             "model": "이스마엘",
-            "content": "That king trash crab can be repelled, can't it? Then let's do that and finish modifying the bus later. With more time on our hands..."
+            "content": "O kral çöp yengecini öldürebiliriz, değil mi? Öyleyse şu işi bitirelim ve otobüsün modifikasyonunu daha sonra tamamlayalım. Daha fazla zamanımız varken...."
         },
         {
             "id": 50,
             "model": "단테2",
-            "content": "<Ishmael... I'm not sure. My lack of memory doesn't help, of course, but...>"
+            "content": "<Ishmael... Emin değilim. Hafızamın zayıflığı da yardımcı olmuyor tabii ama...>"
         },
         {
             "id": 51,
@@ -298,62 +298,62 @@
         {
             "id": 52,
             "model": "단테2",
-            "content": "<I don't get what you're so scared of, or what we're supposed to be preparing for.>"
+            "content": "<Neden bu kadar korktuğunu anlamıyorum, ya da neye hazırlanmamız gerektiğini.>"
         },
         {
             "id": 53,
             "model": "단테2",
-            "content": "<As much as I want to respect your opinions and reflect them... I don't think this is the best for all of us. So—>"
+            "content": "<Görüşlerine saygı duymak ve onları yansıtmak istesem de... Bunun hepimiz için en iyisi olduğunu düşünmüyorum.—>"
         },
         {
             "id": 54,
             "model": "이스마엘",
-            "content": "There is no \"all of us\"."
-        },
+            "content": "\"Hepimiz\" diye bir şey yok."
+        }
         {
             "id": 55,
             "model": "단테2",
-            "content": "<...Huh?>"
-        },
+            "content": "<...Ne?>"
+        }, 
         {
             "id": 56,
             "model": "이스마엘",
-            "content": "Let's be honest here. Is any one of us devoting themselves for the sake of this \"all of us\"?"
+            "content": "Dürüst olalım. İçimizden herhangi biri, bu \"hepimiz\" uğruna kendini adıyor mu??"
         },
         {
             "id": 57,
             "model": "이스마엘",
-            "content": "We all signed a contract with Limbus Company for our own goals. I did, Yi Sang did as we saw last time, and all the other Sinners did."
+            "content": "Hepimiz kendi hedeflerimiz için Limbus Şirketi ile bir sözleşme imzaladık. Ben yaptım, Yi Sang geçen sefer gördüğümüz gibi yaptı ve diğer tüm Günahkarlar da yaptı."
         },
         {
             "id": 58,
             "model": "이스마엘",
-            "content": "Aren't we only in this together to achieve our personal aims?"
+            "content": "Bizler sadece kişisel hedeflerimize ulaşmak için birlikte değil miyiz??"
         },
         {
             "id": 59,
             "model": "이스마엘",
-            "content": "And you, too..."
+            "content": "Ve sende öyle, tabiki..."
         },
         {
             "id": 60,
             "model": "이스마엘",
-            "content": "You're forcing yourself to look for those Golden Boughs, things you've probably never heard of once in your life, just so you can get your memories back."
+            "content": "Sadece anılarını geri kazanabilmek için, kendini hayatında muhtemelen hiç duymadığın o Altın Dalları aramaya zorluyorsun."
         },
         {
             "id": 61,
             "model": "이스마엘",
-            "content": "You have a more selfish motive than anyone else here, so why do you pretend like you're doing anything for all of us?"
+            "content": "Burada herkesten daha bencil bir amacın var, o zaman neden hepimiz için bir şeyler yapıyormuş gibi davranıyorsun?"
         },
         {
             "id": 62,
             "model": "오티스",
-            "content": "How dare you raise your voice against—"
+            "content": "Nasıl olur da İdari Müdürümüze sesini yükseltirsin?—"
         },
         {
             "id": 63,
             "model": "베르길리우스",
-            "content": "Enough."
+            "content": "Yeter."
         },
         {
             "id": 64,
@@ -362,50 +362,50 @@
         },
         {
             "id": 65,
-            "content": "Vergilius, who seemed to have been discreetly listening in on our conversation, joined as though he'd been a part of it from the start."
+            "content": "Konuşmamızı gizlice dinliyor gibi görünen Vergilius, sanki başından beri konuşmamızın bir parçasıymış gibi konuşmaya katıldı."
         },
         {
             "id": 66,
             "model": "베르길리우스",
-            "content": "Ishmael. I believe I made myself clear during our meeting."
+            "content": "Ishmael. Sanırım toplantımız sırasında kendimi açıkça ifade ettim.."
         },
         {
             "id": 67,
             "model": "베르길리우스",
-            "content": "The 'contract' comes first."
+            "content": "'Sözleşme' her şeyden önce gelir."
         },
         {
             "id": 68,
             "model": "이스마엘",
-            "content": "...The contract, huh."
+            "content": "...Sözleşme, ha."
         },
         {
             "id": 69,
             "model": "이스마엘",
-            "content": "Sure, this is a company I'm working for. Of course it does."
+            "content": "Elbette, bu çalıştığım bir şirket. Elbette öyle."
         },
         {
             "id": 70,
-            "content": "Ishmael glared at me with a face unlike anything she'd shown before."
+            "content": "Ishmael daha önce hiç göstermediği bir yüz ifadesiyle bana baktı."
         },
         {
             "id": 71,
-            "content": "I sensed... clear hostility in her eyes."
+            "content": "Gözlerinde... açık bir düşmanlık sezdim."
         },
         {
             "id": 72,
             "model": "이스마엘",
-            "content": "Fine, I'll abide by the oh-so honorable contract. Manager. Give me your orders, and I'll follow them."
+            "content": "Tamam, çok şerefli sözleşmeye uyacağım. Müdür. Bana emirlerini ver, ben de onları uygulayayım."
         },
         {
             "id": 73,
             "model": "이스마엘",
-            "content": "So, if there's anything you want from me from now on, state it. Clearly."
+            "content": "Yani, bundan sonra benden istediğin bir şey varsa, açıkça söyle."
         },
         {
             "id": 74,
             "model": "이스마엘",
-            "content": "I won't get out of line by providing unsolicited help or explanations anymore."
+            "content": "Artık istenmeyen yardım veya açıklamalar sağlayarak çizgiyi aşmayacağım."
         },
         {
             "id": 75,
@@ -415,28 +415,28 @@
         {
             "id": 76,
             "model": "이스마엘",
-            "content": "What are we waiting for? Weren't you going to order us to go kill that giant crustacean? I'll gladly obey as it is stipulated in the contract, Manager Dante."
+            "content": "Neyi bekliyoruz? O dev kabukluyu öldürmemizi emretmeyecek miydin? Sözleşmede belirtildiği gibi memnuniyetle itaat edeceğim, Müdür Dante."
         },
         {
             "id": 77,
-            "content": "After Ishmael finished speaking, she blankly stared at me as if awaiting my order..."
+            "content": "Ishmael konuşmasını bitirdikten sonra sanki emrimi bekliyormuş gibi boş boş bana baktı..."
         },
         {
             "id": 78,
-            "content": "To which I could only reply with:"
+            "content": "Ben de buna ancak şu şekilde cevap verebilirdim:"
         },
         {
             "id": 79,
             "model": "단테2",
-            "content": "<...Let's go.>"
+            "content": "<...Hadi gidelim.>"
         },
         {
             "id": 80,
-            "content": "As soon as I finished, Ishmael turned around and left the shop as if on cue."
+            "content": "Ben sözümü bitirir bitirmez, Ishmael arkasını döndü ve sanki işaret almış gibi dükkandan çıktı."
         },
         {
             "id": 81,
-            "content": "All I could do was lead the other Sinners and follow her."
+            "content": "Yapabildiğim tek şey diğer günahkarlara liderlik etmek ve onu takip etmekti."
         },
         {
             "id": 82,
@@ -445,27 +445,27 @@
         },
         {
             "id": 83,
-            "content": "Just then,"
+            "content": "Tam o sırada,"
         },
         {
             "id": 84,
-            "content": "I heard vicious sounds of crashing waves and roars of an all-crushing storm."
+            "content": "Çarpışan dalgaların vahşi seslerini ve her şeyi ezen bir fırtınanın kükremesini duydum."
         },
         {
             "id": 85,
-            "content": "Visions of destruction pass before me."
+            "content": "Yıkımın görüntüleri önümden geçti."
         },
         {
             "id": 86,
-            "content": "Limbs and bits of flesh tear off in the shredding storm that brings crashing waves, Ishmael clings to the ship for dear life..."
+            "content": "Parçalanan dalgaların getirdiği fırtınada uzuvlar ve et parçaları koparken, Ishmael can havliyle gemiye tutunuyordu..."
         },
         {
             "id": 87,
-            "content": "And a behemoth of an eye, its overwhelming and all-consuming size looming over the ship, watches her in silence."
+            "content": "Ve geminin üzerinde beliren, her şeyi tüketen ve ezici bir büyüklüğe sahip devasa bir göz, onu sessizce izliyordu."
         },
         {
             "id": 88,
-            "content": "Perhaps... This could be a clue to Ishmael's perplexing behavior."
+            "content": "Belki de... Bu, Ishmael'in şaşırtıcı davranışlarına dair bir ipucu olabilirdi."
         }
     ]
 }
