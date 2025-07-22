@@ -333,7 +333,7 @@
         {
             "id": 67,
             "model": "싱클레어",
-            "content": "I don't know what she's talking about... but that was kind of cool...! I can feel something rising from deep within my chest...!"
+            "content": "Ne hakkında konuştuğunu çözebilmiş değilim, fakat... kulağa çok havalı geldi...! Göğsümün derinliklerinden bir şeyin yükseldiğini hissedebiliyorum...!"
         },
         {
             "id": 68,
@@ -348,32 +348,32 @@
         {
             "id": 70,
             "model": "오티스",
-            "content": "I, Outis... Shall prove it to the world."
+            "content": "Bendeniz, Outis... Tüm dünyaya kanıtlayacağım."
         },
         {
             "id": 71,
             "model": "오티스",
-            "content": "That I don't need this high-tech junk to sail!"
+            "content": "Denizcilik için bu yüksek teknoloji külüstüre ihtiyacım olmadığını kanıtlayacağım!"
         },
         {
             "id": 72,
             "model": "오티스",
-            "content": "Now, seawoman Don Quixote, set the power lever to the maximum output!"
+            "content": "Hemen, denizci Don Quixote, güç çıkışını en yüksek seviyeye getir!"
         },
         {
             "id": 73,
             "model": "돈키호테",
-            "content": "Power lever to the maximum output! Aye aye, Captain!"
+            "content": "Güç çıkışı en yüksek seviyeye! Hay hay, Kaptan!"
         },
         {
             "id": 74,
             "model": "오티스",
-            "content": "Seaman Sinclair! Set the helm to the neutral position and hit the switch!"
+            "content": "Denizci Sinclair! Dümeni nötr hizaya getirip düğmeye bas !"
         },
         {
             "id": 75,
             "model": "싱클레어",
-            "content": "Set the helm to the neutral position, s-set the helm to the neutral position, and... h-hit the switch!"
+            "content": "Dümeni nötr hizaya getir, d-dümeni nötr hizaya getir, ve... d-düğmeye bas!"
         },
         {
             "id": 76,
@@ -383,32 +383,32 @@
         {
             "id": 77,
             "model": "이상",
-            "content": "The engine... has fallen silent."
+            "content": "Motor... sessizleşti."
         },
         {
             "id": 78,
             "model": "파우스트",
-            "content": "The automatic navigation system has failed. It is an old model; rebooting will be complete in approximately five hours."
+            "content": Otomatik mavigasyon sistemi çalışmayı durdurdu. Eski bir model; tekrardan çalışması yaklaşık beş saati bulacak."
         },
         {
             "id": 79,
             "model": "카론",
-            "content": "That's what you get for abandoning your bus driver."
+            "content": "Otobüs şoförünü terk edersen olacağı bu."
         },
         {
             "id": 80,
             "model": "단테2",
-            "content": "<Wait, wait. So we're just stuck here?>"
+            "content": "<Dur bir saniye... Şimdi, burada sıkışıp kaldık mı?>"
         },
         {
             "id": 81,
             "model": "파우스트",
-            "content": "Of course not. While Mephistopheles' engine may be inoperable as it has melded with the automatic navigation system, the ship itself can still move."
+            "content": "Elbette sıkışmadık. While Mephistopheles'in motoru, otomatik navigasyon sistemi ile birleştiğinden dolayı şu an çalışanilir bir durumda olmasa da, geminin kendisi hala hareket edebilir"
         },
         {
             "id": 82,
             "model": "파우스트",
-            "content": "We still have a manually activated backup power system on standby."
+            "content": "Hazırda çoktan bir yedek güç sistemi bekliyor."
         }
     ]
 }
