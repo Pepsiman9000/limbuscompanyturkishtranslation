@@ -2,27 +2,27 @@
     "dataList": [
         {
             "id": 0,
-            "content": "According to Vergilius..."
+            "content": "Vergilius'a göre..."
         },
         {
             "id": 1,
-            "content": "The people at the boatworks have been saving up for a trip back to V Corp's Backstreets where their Fixer Office used to be."
+            "content": "Boatworks çalışanları, V Kuruluşu'nun Arka Sokakları'ndaki İşçözücü Ofisi'ne geri dönmek için para biriktiriyorlardı."
         },
         {
             "id": 2,
-            "content": "After experiencing a WARP train malfunction, they apparently decided they'd rather take the car."
+            "content": "WARP treninde yaşanan bir arızayı deneyimledikten sonra arabayı tercih ettikleri anlaşılıyor."
         },
         {
             "id": 3,
-            "content": "...I considered telling them the truth I learned from a number of Identities, but I figured ignorance is bliss and kept my figurative mouth shut."
+            "content": "...Birçok Kimlikten öğrendiğim gerçeği onlara anlatmayı düşündüm, ama cehaletin mutluluk olduğunu düşündüm ve olmayan ağzımı kapalı tuttum."
         },
         {
             "id": 4,
-            "content": "...Maybe I feared that the things I said could bring bad results again."
+            "content": "...Belki de söylediğim şeylerin tekrar kötü sonuçlar doğurmasından korkuyordum."
         },
         {
             "id": 5,
-            "content": "Like how Ishmael has fallen out with me."
+            "content": "Tıpkı Ishmael'in benimle arasının bozulması gibi."
         },
         {
             "id": 6,
@@ -30,90 +30,90 @@
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "C'mon... Get working..."
+            "content": "Hadiii... İşe dönsenize..."
         },
         {
             "id": 7,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "Ohh, we've got 'em now!"
+            "content": "Aha, şimdi yakaladım seni."
         },
         {
             "id": 8,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "Phew... Looks like our job's done."
+            "content": "Puff... Görünüyor ki işimiz bitti."
         },
         {
             "id": 9,
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "And... lucky you, the tide is in. You should be able to set off now."
+            "content": "Ve... şanslısınız, gelgit başladı. Artık yelken açabilirsiniz."
         },
         {
             "id": 10,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "Now, then... Switch to boat mode!"
+            "content": "Hadi bakalım... Tekne moduna geçelim!"
         },
         {
             "id": 11,
             "model": "돈키호테",
-            "content": "Oooh?! It transforms thusly, then!"
+            "content": "Oooh?! Demek böyle dönüşüyor!"
         },
         {
             "id": 12,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "I've got to say, I have great admiration for whoever designed this vehicle. I heard stories of it, but to see it in motion firsthand..."
+            "content": "Şunu söylemeliyim ki, bu aracı tasarlayan kişiye büyük bir hayranlık duyuyorum. Hikayelerini duydum ama onu hareket halindeyken bizzat göremedim..."
         },
         {
             "id": 13,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "If you tried, it could most certainly change into other forms, as long as the core is intact."
+            "content": "Eğer denerseniz, çekirdek sağlam olduğu sürece kesinlikle başka biçimlere dönüşebilir.."
         },
         {
             "id": 14,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "How can such a core be real? I'm just... amazed, for lack of a better term."
+            "content": "Böyle bir çekirdek nasıl gerçek olabilir? Daha iyi bir terim bulamadığım için, sadece... şaşkınım."
         },
         {
             "id": 15,
             "model": "파우스트",
-            "content": "Indeed, Faust is amazing."
+            "content": "Gerçekten de Faust muhteşem."
         },
         {
             "id": 16,
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "Alright, now... Get in your vehicle. You can switch the mode again once you're in the water."
+            "content": "Tamam, şimdi... Aracınıza binin. Suya girdiğinizde modu tekrar değiştirebilirsiniz."
         },
         {
             "id": 17,
-            "place": "The Great Lake",
-            "content": "Aboard the now boat-shaped Mephistopheles, we forged ahead, into the ever-rising waters."
+            "place": "Büyük Göl",
+            "content": "Artık tekneye dönüşen Mephistopheles'e binerek, sürekli yükselen sulara doğru ilerledik."
         },
         {
             "id": 18,
-            "content": "My relationship with Ishmael was still precarious, which was something I still wasn't sure what to do about..."
+            "content": "Ishmaelle olan ilişkim hala istikrarsızdı ve bu konuda ne yapacağımı hâlâ bilmiyordum...."
         },
         {
             "id": 19,
-            "content": "But since some of the Sinners were also trying to be supportive towards Ishmael, I decided that it would be best if I tried to come up with a solution in the meantime."
+            "content": "Fakat bazı Günahkarlar da Ishmael'e destek olmaya çalıştıkları için, bu arada bir çözüm bulmaya çalışmanın en iyisi olacağına karar verdim."
         },
         {
             "id": 20,
-            "content": "Maybe I'll find out more the further we get from the shores of the Great Lake."
+            "content": "Belki Büyük Göl kıyılarından uzaklaştıkça daha fazlasını öğrenebilirim."
         },
         {
             "id": 21,
@@ -121,92 +121,92 @@
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "Mm. It's sailing, all right."
+            "content": "Mm. Evet, yelken açıyoruz."
         },
         {
             "id": 22,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "Does that mean we can get paid and go out for a meal now?"
+            "content": "Bu artık para kazanıp dışarıda yemek yiyebileceğimiz anlamına mı geliyor??"
         },
         {
             "id": 23,
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "We actually got our money a minute ago. As soon as we fulfilled our end of the contract, a delivery Fixer from the Devyat Association came by and paid us the remainder."
+            "content": "Aslında paramızı az önce aldık. Sözleşmenin tarafımıza düşen kısmını yerine getirir getirmez, Devyat Birliği'nden bir teslimatçı gelip kalanını bize ödedi."
         },
         {
             "id": 24,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "Oho~ Our contractor turned out to be a pretty big deal, huh?"
+            "content": "Oho~ Müşterimiz baya büyük biri çıktı, hah?"
         },
         {
             "id": 25,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "Hot damn, now that's a catch! How about we take a break from trash crabs and splurge for some pork? Pork belly barbecue!"
+            "content": "Değil mi, işte bu harika! Çöp yengeçlerden biraz uzaklaşıp biraz domuz eti yiyelim mi? Domuz göbeği barbeküsü!"
         },
         {
             "id": 26,
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "Sounds good, Big Sis."
+            "content": "Kulağa iyi geliyor, büyük abla."
         },
         {
             "id": 27,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "Hahaha! ...By the way, Mika?"
+            "content": "Hahaha! ...Ha bu arada, Mika?"
         },
         {
             "id": 28,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "Yes?"
+            "content": "Evet?"
         },
         {
             "id": 29,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "When did we add a submersible mode to the modifications?"
+            "content": "Modifikasyonlara ne zaman su altı modunu ekledik??"
         },
         {
             "id": 30,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "We... didn't?"
+            "content": "Eklemedik?"
         },
         {
             "id": 31,
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "The ship looks like it's listing..."
+            "content": "Gemi yan yatmış gibi görünüyor..."
         },
         {
             "id": 32,
             "model": "히스클리프",
-            "content": "Oi! Get the water out, quick!"
+            "content": "Oy! Gemi su alıyor!"
         },
         {
             "id": 33,
             "model": "싱클레어",
-            "content": "Buckets! Where are the buckets?!"
+            "content": "Kovalar! Kovalar da nerde?!"
         },
         {
             "id": 34,
             "model": "이상",
-            "content": "I have found a hole! This must be..."
+            "content": "Bir delik buldum! Bu şey olmalı..."
         },
         {
             "id": 35,
@@ -216,33 +216,33 @@
         {
             "id": 36,
             "model": "카론",
-            "content": "We're off, glub glub."
+            "content": "Batıyoruz, blub blub."
         },
         {
             "id": 37,
             "model": "이스마엘",
-            "content": "Sigh..."
+            "content": "Ahh..."
         },
         {
             "id": 38,
             "model": "레인",
             "teller": "Rain",
             "title": "Molar Boatworks",
-            "content": "...I'll get the lifeboat."
+            "content": "...Can kurtarma botunu hazırlayayım."
         },
         {
             "id": 39,
             "model": "미카",
             "teller": "Mika",
             "title": "Molar Boatworks",
-            "content": "Guess we should also prepare to pony up penalty fees..."
+            "content": "Sanırım ceza ücretlerini ödemeye de hazır olmalıyız..."
         },
         {
             "id": 40,
             "model": "올가",
             "teller": "Olga",
             "title": "Molar Boatworks",
-            "content": "Haha... We're so screwed."
+            "content": "Haha... Amı götü dağıttık (İşi batırdık)."
         },
         {
             "id": 41
@@ -252,15 +252,15 @@
         },
         {
             "id": 43,
-            "content": "...With our frantic attempts to drain the bus, and Charon's skillful rowing..."
+            "content": "...Otobüsü boşaltmak için çılgınca çabalamamız ve Charon'un ustaca kürek çekmesiyle..."
         },
         {
             "id": 44,
-            "content": "We managed to get back to the boatworks and have the bus repaired..."
+            "content": "Boatworks'a geri dönmeyi ve otobüsü tamir ettirmeyi başardık..."
         },
         {
             "id": 45,
-            "content": "With that, our voyage on the Great Lake began somehow in earnest..."
+            "content": "Bununla birlikte, Büyük Göl'deki yolculuğumuz bir şekilde ciddi bir şekilde başladı..."
         }
     ]
 }
