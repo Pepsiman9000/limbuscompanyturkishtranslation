@@ -24,12 +24,12 @@
     },
     {
       "id": 800105,
-      "name": "One Sole Root",
-      "desc": "The Roots gain 2 Attack Power Up for each intact Arm."
+      "name": "Tek Kök",
+      "desc": "Kökler her sağlam kol için 2 [Enhancement] kazan."
     },
     {
       "id": 800201,
-      "name": "Let the Blood Festival Flow",
+      "name": "Kan Festivali Aksın",
       "desc": "The battle proceeds to the next phase after all the Clay Dolls are defeated."
     },
     {
@@ -39,13 +39,13 @@
     },
     {
       "id": 800203,
-      "name": "Let the Fire Festival Ignite",
-      "desc": "If both Arms are destroyed or the main body’s HP is brought to 70%, the battle proceeds to the next phase."
+      "name": "Ateş Festivali Alevlensin",
+      "desc": "Bütün Kil Oyuncaklar öldüğünde savaşta sonraki aşamaya geç."
     },
     {
       "id": 800204,
-      "name": "Frenzy",
-      "desc": "During Phase 3\nAt the start of the turn, inflict 3 Burn on all enemies."
+      "name": "Cinnet",
+      "desc": "Aşama 3'te\nTurun başlangıcında, bütün düşmanlara 3 [Combustion] uygula."
     },
     {
       "id": 800205,
@@ -54,8 +54,8 @@
     },
     {
       "id": 800206,
-      "name": "Let the Star Festival Fall",
-      "desc": "When HP is brought to 25%, the battle proceeds to the next phase."
+      "name": "Yıldız Festivali Düşsün",
+      "desc": "HP 25%'e düştüğünde,Savaş sonraki aşamaya geçer."
     },
     {
       "id": 800207,
@@ -64,8 +64,8 @@
     },
     {
       "id": 800301,
-      "name": "Idolatry",
-      "desc": "Does not die at 0 HP; instead, remains on the stage as an immobile and untargetable unit.\nSuppressed when the Doomsday Calendar is suppressed."
+      "name": "Tapma",
+      "desc": "HP 0'a indiğinde ölmez; yerine, savaş alanında hareket etmeyen ve hedef alınamayan birim olarak kalır\nKıyamet Takvimi baskılandığında o da baskılanır."
     },
     {
       "id": 800801,
