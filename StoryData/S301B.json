@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
-      "content": "Güneş nerdeyse batmıştı, otobüsü kızılıklar içinde bırakarak."
+      "place": "Mephistopheles",
+      "content": "Güneş neredeyse batmıştı, otobüsü kızıllıklar içinde bırakarak."
     },
     {
       "id": 1,
@@ -16,12 +16,12 @@
     },
     {
       "id": 3,
-      "content": "Kendimi o garip bir biçimde tanıdık olan melodiyi mırıldanırken buldum, tabi ki kafamın içinde çünkü biliyorsunuz yani."
+      "content": "Kendimi o garip bir biçimde tanıdık olan melodiyi mırıldanırken buldum, tabii ki kafamın içinde çünkü biliyorsunuz yani."
     },
     {
       "id": 4,
       "model": "베르길리우스",
-      "content": "En güzel performanslar, kırık yahut bozuk enstrümanlardan doğar. İronik, bu dünyanın işleyişi.."
+      "content": "En güzel performanslar, kırık yahut bozuk enstrümanlardan doğar. İronik, bu dünyanın işleyişi..."
     },
     {
       "id": 5,
@@ -30,7 +30,7 @@
     {
       "id": 6,
       "model": "베르길리우스",
-      "content": "Ne yazık ki, kendi müziklerinin keyfini sürme ayrıcalığından bile yoksunlar… Oh, ne kadar adaletsiz."
+      "content": "Ne yazık ki, kendi müziklerinin keyfini sürme ayrıcalığından bile yoksunlar… Vah, ne kadar adaletsiz."
     },
     {
       "id": 7,
@@ -69,7 +69,7 @@
     {
       "id": 14,
       "model": "카론",
-      "content": "Charon'un öyle bir anısı bulnumuyor."
+      "content": "Charon'un öyle bir anısı bulunmuyor."
     },
     {
       "id": 15,
@@ -82,15 +82,15 @@
     },
     {
       "id": 17,
-      "content": "Öyle bir ton ki, birine yanlızlığı betimleyen bir renk seç denirse düşünmeden seçeceği bir renk."
+      "content": "Öyle bir karanlık ki, birine yanlızlığı betimleyen bir renk seç dense düşünmeden seçeceği bir renk."
     },
     {
       "id": 18,
-      "content": "Ama bu sahne <i>Ağzı Çiçekli Adam</i> gibi kısacıktı…"
+      "content": "Fakat bu sahne pek uzun sürmedi…"
     },
     {
       "id": 19,
-      "content": "Ben de bunu parlak gün batımının kandırmacasına yormuştum."
+      "content": "Ben de bunu parlak gün batımının kandırmacasına yordum."
     },
     {
       "id": 20,
@@ -104,11 +104,11 @@
     },
     {
       "id": 22,
-      "content": "Eminim ki, tıpkı benim hayatımın unutuğum hikayesi gibi…"
+      "content": "Eminim ki, tıpkı benim hayatımın unuttuğum hikayesi gibi…"
     },
     {
       "id": 23,
-      "content": "Charon ve Vergilius'un da kendilerine ait acımasız hatıra düğümleri vardır."
+      "content": "Charon ve Vergilius'un da kendilerine ait acımasız hatıraları vardır."
     },
     {
       "id": 24,
@@ -126,7 +126,7 @@
     },
     {
       "id": 27,
-      "content": "Onu bir kaç kez başımı sallayarak onayladım ve Günahkârları kontrol etmek için arkaya döndüm."
+      "content": "Onu birkaç kez başımı sallayarak onayladım ve Günahkârları kontrol etmek için arkaya döndüm."
     },
     {
       "id": 28,
@@ -134,11 +134,11 @@
     },
     {
       "id": 29,
-      "content": "İlk defa uğruna toplandıklar işi becerip bir Altın Dal'ı ele geçirmeleri buna yardımcı olmuştu."
+      "content": "İlk defa uğruna toplandıkları işi becerip bir Altın Dal'ı ele geçirmeleri sayesinde olsa gerek."
     },
     {
       "id": 30,
-      "content": "Tüm Günahkârlar J Kuruluşu'nun Eyaleti'nde yaptıkları hakkında konuşmakla meşguldü."
+      "content": "Günahkârların hepsi J Kuruluşu'nun Eyaletinde yaptıkları hakkında konuşmakla meşguldü."
     },
     {
       "id": 31,
@@ -153,7 +153,7 @@
     {
       "id": 33,
       "model": "베르길리우스",
-      "content": "Bir sonraki durak… K Kuruluşu'nun yuvası."
+      "content": "Bir sonraki durak… K Kuruluşu'nun Yuvası."
     },
     {
       "id": 34,
@@ -163,17 +163,17 @@
     {
       "id": 35,
       "model": "돈키호테",
-      "content": "O Eyalet ki başka bir Zat-ı şahaneye daha ev sahipliği yapsın! Hatta muhakkak ki Hediyelik Eşya dükkanıyla  müftehir! Ben şahsen Sınırlı-Sayı Figür setine muntazırımdır!"
+      "content": "O Eyalet ki başka bir Zat-ı şahaneye daha ev sahipliği yapsın! Hatta muhakkak ki Hediyelik Eşya dükkanıyla müftehir! Ben şahsen Sınırlı-Sayı Figür setine muntazırımdır!"
     },
     {
       "id": 36,
       "model": "로쟈",
-      "content": "Ooo~ Oranın hamburg bifteği ile bilinen bir restoran zinciri de yok muydu?"
+      "content": "Ooo~ Oranın Hamburg bifteği ile bilinen bir restoran zinciri de yok muydu?"
     },
     {
       "id": 37,
       "model": "오티스",
-      "content": "Hoff… Hayat artık ne kadar kolay, değil mi? Benim orduda görev sürdüğüm zamanlar, ağzımda sadece bir tutam tuzdan başka birşey yoktu."
+      "content": "Hoff… Hayat artık ne kadar kolay, değil mi? Benim orduda görev sürdüğüm zamanlar, ağzımda sadece bir tutam tuzdan başka bir şey yoktu."
     },
     {
       "id": 38,
@@ -202,7 +202,7 @@
     },
     {
       "id": 43,
-      "content": "Elle tutulur bir konuşma geçirme ve hikayeler paylaşma hasretinde olan Rodya, doğal olarak Sinclair'e dönmüştü."
+      "content": "Elle tutulur bir konuşma geçirme ve hikayeler paylaşma hasretinde olan Rodya, doğal olarak Sinclair'a dönmüştü."
     },
     {
       "id": 44,
@@ -221,7 +221,7 @@
     {
       "id": 47,
       "model": "뫼르소",
-      "content": "Benzi attı. Ayrıca normalden daha hızlı ve derin nefes alma ve titreme şikayetleri de var."
+      "content": "Benzi atmış. Ayrıca normalden daha hızlı ve derin nefes alma ve titreme durumları da var."
     },
     {
       "id": 48,
@@ -265,7 +265,7 @@
     {
       "id": 56,
       "model": "단테",
-      "content": "<Faust, berirli bir trend yakalıyorum ki ne zaman Vergilius durağımızı açıklasa; içimizden birisine inme iniyor.>"
+      "content": "<Faust, belirli bir trend yakalıyorum ki ne zaman Vergilius durağımızı açıklasa; içimizden birisine inme iniyor.>"
     },
     {
       "id": 57,
@@ -280,7 +280,7 @@
     {
       "id": 59,
       "model": "파우스트",
-      "content": "…Az önce Otobüs departmanına “biz” diye hitap ettiniz."
+      "content": "…Az önce Otobüs departmanına “biz” diye hitap ettin."
     },
     {
       "id": 60,
@@ -310,17 +310,17 @@
     {
       "id": 65,
       "model": "파우스트",
-      "content": "Hysteron proteron her zaman doğru bir kullanım değildir. Faust yalnızca mevcut durumda en etkili iletişim yöntemi hangisiyse onu seçmekte."
+      "content": "Histeron proteron her zaman doğru bir kullanım değildir. Faust yalnızca mevcut durumda en etkili iletişim yöntemi hangisiyse onu seçmekte."
     },
     {
       "id": 66,
       "model": "히스클리프",
-      "content": "Hyst… Hystero ne??"
+      "content": "His… Histero ney??"
     },
     {
       "id": 67,
       "model": "파우스트",
-      "content": "…Anlamı: Faust'u anlamak için zorlanmanın sebebi eğitimsizliğinden, Faust'un iyi eğitimliliğinden değil."
+      "content": "…Anlamı: Faust'u anlamakta zorlanmanın sebebi Faust'un iyi eğitimliliğinden değil, bilakis senin eğitimsizliğinden."
     },
     {
       "id": 68,
