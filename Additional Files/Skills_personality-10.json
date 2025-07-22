@@ -303,7 +303,7 @@
                 {
                     "level": 4,
                     "name": "Çatışma",
-                    "desc": "If this unit's Speed is faster than the target's, Coin Power +1 for euygulay 2 Speed difference (Max 2)\n[WinDuel] Gain +2 [Breath] Count",
+                    "desc": "If this unit's Speed is faster than the target's, Coin Power +1 for uygular 2 Speed difference (Max 2)\n[WinDuel] Gain +2 [Breath] Count",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -352,7 +352,7 @@
                 {
                     "level": 4,
                     "name": "Kontra Atak",
-                    "desc": "If this unit's Speed is faster than the target's, Coin Power +1 for euygulay 2 Speed difference (Max 3)\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed. Against targets with [DuelDeclaration_Sinclair], gain [Breath] equal to ([Breath] Count consumed x 2) instead\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, inflict 1 [Vulnerable] On Hit (Twice per turn)",
+                    "desc": "If this unit's Speed is faster than the target's, Coin Power +1 for uygular 2 Speed difference (Max 3)\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed. Against targets with [DuelDeclaration_Sinclair], gain [Breath] equal to ([Breath] Count consumed x 2) instead\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, inflict 1 [Vulnerable] On Hit (Twice per turn)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -666,7 +666,7 @@
                 {
                     "level": 4,
                     "name": "Kavurucu Darbe",
-                    "desc": "Jeton Gücü +<style=\"highlight\">2</style> for euygulay 4 (sum of [Combustion] Potency on all enemies) (maks 8)\n[WinDuel] 10 SP İyileş\n[DefeatDuel] 30 SP Kaybet\nHer Öfke Rezonansı için +<style=\"highlight\">10</style>% %10 daha fazla hasar vur. (maks <style=\"highlight\">60</style>%)\n<style=\"highlight\">Eğer 4+ Öfke M-Rezonansında ise., her Öfke Rezonansı için +20% daha fazla hasar vur. yerine (maks 120%)</style>\n[EndSkill] 15 SP Kaybet",
+                    "desc": "Jeton Gücü +<style=\"highlight\">2</style> uygular 4 (sum of [Combustion] Potency on all enemies) (maks 8)\n[WinDuel] 10 SP İyileş\n[DefeatDuel] 30 SP Kaybet\nHer Öfke Rezonansı için +<style=\"highlight\">10</style>% %10 daha fazla hasar vur. (maks <style=\"highlight\">60</style>%)\n<style=\"highlight\">Eğer 4+ Öfke M-Rezonansında ise., her Öfke Rezonansı için +20% daha fazla hasar vur. yerine (maks 120%)</style>\n[EndSkill] 15 SP Kaybet",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -780,7 +780,7 @@
                 {
                     "level": 2,
                     "name": "Combat Preparation",
-                    "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Gain 1 [DefenseUp] for euygulay 2 [Vibration] Count on self (max 3)\n[WhenUse] At 4+ [DefenseUp], Coin Power +1</style>\n[WinDuel] Gain +<style=\"highlight\">3</style> [Vibration] Count",
+                    "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Gain 1 [DefenseUp] for uygular 2 [Vibration] Count on self (max 3)\n[WhenUse] At 4+ [DefenseUp], Coin Power +1</style>\n[WinDuel] Gain +<style=\"highlight\">3</style> [Vibration] Count",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -801,7 +801,7 @@
                 {
                     "level": 4,
                     "name": "Combat Preparation",
-                    "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for euygulay 2 [Vibration] Count on self (max 3)\n[WhenUse] At 4+ [DefenseUp], Coin Power +1\n[WinDuel] Gain +3 [Vibration] Count<style=\"highlight\"></style>",
+                    "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for uygular 2 [Vibration] Count on self (max 3)\n[WhenUse] At 4+ [DefenseUp], Coin Power +1\n[WinDuel] Gain +3 [Vibration] Count<style=\"highlight\"></style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -827,7 +827,7 @@
                 {
                     "level": 3,
                     "name": "Fence",
-                    "desc": "[WhenUse] Gain 1 [DefenseUp] for euygulay 2 [Vibration] Count on self (max 2)\n[WhenUse] Coin Power +1 for euygulay 3 [DefenseUp] on self (max 2)",
+                    "desc": "[WhenUse] Gain 1 [DefenseUp] for uygular 2 [Vibration] Count on self (max 2)\n[WhenUse] Coin Power +1 for uygular 3 [DefenseUp] on self (max 2)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -858,7 +858,7 @@
                 {
                     "level": 4,
                     "name": "Fence",
-                    "desc": "[WhenUse] Gain 1 [DefenseUp] for euygulay 2 [Vibration] Count on self (max <style=\"highlight\">4</style>)\n[WhenUse] Coin Power +1 for euygulay 3 [DefenseUp] on self (max <style=\"highlight\">3</style>)",
+                    "desc": "[WhenUse] Gain 1 [DefenseUp] for uygular 2 [Vibration] Count on self (max <style=\"highlight\">4</style>)\n[WhenUse] Coin Power +1 for uygular 3 [DefenseUp] on self (max <style=\"highlight\">3</style>)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -969,7 +969,7 @@
                 {
                     "level": 4,
                     "name": "Courier Trunk - Decay Hammer",
-                    "desc": "Coin Power +1 for euygulay 10 [DevyatDimensionalSackSinclair] on self or for euygulay 6 [Burst] on target (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)",
+                    "desc": "Coin Power +1 for uygular 10 [DevyatDimensionalSackSinclair] on self or for uygular 6 [Burst] on target (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1051,7 +1051,7 @@
                 {
                     "level": 4,
                     "name": "Courier Trunk - Demolition Gadget",
-                    "desc": "Coin Power +1 for euygulay 10 [DevyatDimensionalSackSinclair] on self or for euygulay 6 [Burst] on target (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)\n[WhenUse] At 30- [DevyatDimensionalSackSinclair], gain 1 [Agility] next turn (once per turn)",
+                    "desc": "Coin Power +1 for uygular 10 [DevyatDimensionalSackSinclair] on self or for uygular 6 [Burst] on target (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)\n[WhenUse] At 30- [DevyatDimensionalSackSinclair], gain 1 [Agility] next turn (once per turn)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1084,19 +1084,19 @@
                 {
                     "level": 3,
                     "name": "Poludnitsa... I trust you!",
-                    "desc": "At 10+ [DevyatDimensionalSackSinclair], or if target has 6+ [Burst], Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, the final Coin gains +2 Coin Power\n[WhenUse] If target has 15+ [Burst], deal +3% more damage for euygulay [DevyatDimensionalSackSinclair] (max 90%)",
+                    "desc": "At 10+ [DevyatDimensionalSackSinclair], or if target has 6+ [Burst], Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, the final Coin gains +2 Coin Power\n[WhenUse] If target has 15+ [Burst], deal +3% more damage for uygular [DevyatDimensionalSackSinclair] (max 90%)",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count\n- Inflict +1 additional [Burst] Count for euygulay 10 [DevyatDimensionalSackSinclair] (max 2)"
+                                    "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count\n- Inflict +1 additional [Burst] Count for uygular 10 [DevyatDimensionalSackSinclair] (max 2)"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Burst]\n- Inflict +1 additional [Burst] for euygulay 10 [DevyatDimensionalSackSinclair] (max 2)"
+                                    "desc": "[OnSucceedAttack] Inflict 3 [Burst]\n- Inflict +1 additional [Burst] for uygular 10 [DevyatDimensionalSackSinclair] (max 2)"
                                 }
                             ]
                         },
@@ -1112,19 +1112,19 @@
                 {
                     "level": 4,
                     "name": "Poludnitsa... I trust you!",
-                    "desc": "Coin Power +1 for euygulay 10 [DevyatDimensionalSackSinclair] on self or for euygulay 6 [Burst] on target (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, the final Coin gains +4 Coin Power\n[WhenUse] If target has 15+ [Burst], deal +4% more damage for euygulay [DevyatDimensionalSackSinclair] (max 120%)",
+                    "desc": "Coin Power +1 for uygular 10 [DevyatDimensionalSackSinclair] on self or for uygular 6 [Burst] on target (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, the final Coin gains +4 Coin Power\n[WhenUse] If target has 15+ [Burst], deal +4% more damage for uygular [DevyatDimensionalSackSinclair] (max 120%)",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count\n- Inflict +1 additional [Burst] Count for euygulay 10 [DevyatDimensionalSackSinclair] (max <style=\"highlight\">3</style>)"
+                                    "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count\n- Inflict +1 additional [Burst] Count for uygular 10 [DevyatDimensionalSackSinclair] (max <style=\"highlight\">3</style>)"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Burst]\n- Inflict +1 additional [Burst] for euygulay <style=\"highlight\">8</style> [DevyatDimensionalSackSinclair] (max <style=\"highlight\">4</style>)"
+                                    "desc": "[OnSucceedAttack] Inflict 3 [Burst]\n- Inflict +1 additional [Burst] for uygular <style=\"highlight\">8</style> [DevyatDimensionalSackSinclair] (max <style=\"highlight\">4</style>)"
                                 }
                             ]
                         },
