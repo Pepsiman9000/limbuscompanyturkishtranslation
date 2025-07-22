@@ -85,12 +85,12 @@
         },
         {
             "id": 14,
-            "content": "Bu hiç bir bağlantısı olmayan monolog başladığı amaçsızlıkla aynen sona erdi."
+            "content": "Bu hiç bir bağlantısı olmayan monolog, başladığı amaçsızlıkla birlikte sona erdi."
         },
         {
             "id": 15,
             "model": "단테",
-            "content": "<Bu bir iyilik değil ki. Sadece bilgilendirme.>"
+            "content": "<İyi de... Bu bir iyilik değil ki. Sadece bilgilendirme.>"
         },
         {
             "id": 16,
@@ -148,7 +148,7 @@
         },
         {
             "id": 26,
-            "content": "Kendinden emin bir şekilde doğrulayan tonunda daha fazla soru sormamı engelleyen bir tür bir enerji vardı."
+            "content": "Kendinden emin bir şekilde doğrulayıcı olan tonunda daha fazla soru sormamı engelleyen bir tür bir enerji vardı."
         },
         {
             "id": 27,
@@ -168,7 +168,7 @@
         {
             "id": 30,
             "model": "이상",
-            "content": "…Bu size cevabınızı pekala vermiş olmalı."
+            "content": "…Bu size cevabınızı pekâla vermiş olmalı."
         },
         {
             "id": 31,
@@ -187,11 +187,11 @@
         {
             "id": 34,
             "model": "로쟈",
-            "content": "Dante, Dante, Dante, baksana… Görüyor musun? Dolap bir sürü atıştırmalık ile dolu… Bir tane de... on tane alabiliriz, ve ruhları duymaz bile!"
+            "content": "Dante, Dante, Dante, baksana… Görüyor musun? Dolap bir sürü atıştırmalık ile dolu… Bir tane ... ya da on tane alabiliriz, ve ruhları duymaz bile!"
         },
         {
             "id": 35,
-            "content": "Ve soğuk kanlı bir umursamazlıkla sessizliği bozabilirdik."
+            "content": "Ve biz de soğuk kanlı bir umursamazlıkla bu sessizliği bozabilirdik."
         },
         {
             "id": 36,
@@ -283,7 +283,7 @@
         {
             "id": 50,
             "model": "그레고르",
-            "content": "Hm. Rakibiniz mi o? Görünüşe bakılırsa mükemmelik, nerede olursa olsun haset tarafından peşleniyor."
+            "content": "Hm. Rakibiniz mi o? Eh, sanırsam mükemmellik her zaman kıskançlıkla birlikte geliyor."
         },
         {
             "id": 51,
@@ -350,7 +350,7 @@
         {
             "id": 61,
             "model": "그레고르",
-            "content": "Belki de kullanabilecekleri değerli kaynaklar ve dökümanlar vardı…"
+            "content": "Eh tabii... Belki de kullanabilecekleri değerli kaynaklar ve dökümanlar vardı…"
         },
         {
             "id": 62,
@@ -415,7 +415,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
-            "content": "Bir insan, “zihni paramparça olduğunda bozulur…” değil mi? Çok büyüleyici bir sözdü doğrusu. Parçalanmış zihnini geri birleştirebildiniz mi bari?"
+            "content": "Bir Bozukluğun nedeni, “zihnin mecazi parçalara ayrılmasıyla oluşmasıdır…” değil mi? Çok büyüleyici bir sözdü doğrusu. Parçalanmış zihnini geri birleştirebildiniz mi bari?"
         },
         {
             "id": 73,
@@ -437,7 +437,7 @@
         {
             "id": 76,
             "model": "파우스트",
-            "content": "Bunu denemeniz hiç hoş karşılanmaz."
+            "content": "Her zaman denememekte serbestsiniz."
         },
         {
             "id": 77,
@@ -491,7 +491,7 @@
         },
         {
             "id": 85,
-            "content": "Dongrang turned his gaze from Yi Sang to the sporadically unoccupied seats."
+            "content": "Dongrang nazarını Yi Sang'dan çekip gayrinizami<ruby=1> </ruby> bir şekilde boş kalmış koltuklara çevirdi. \n<size=24>1 düzensiz, rastgele</size>"
         },
         {
             "id": 86,
@@ -509,7 +509,7 @@
         },
         {
             "id": 88,
-            "content": "Looking closely, I saw snacks and flowers placed on their cushions, probably as a way to mourn the dead."
+            "content": "Dikkatlice bakınca, oturak kısımlarına bırakılmış çikolatalar ve çiçekler gördüm. Büyük ihtimalle bir çeşit matem."
         },
         {
             "id": 89,
@@ -520,7 +520,7 @@
         },
         {
             "id": 90,
-            "content": "A solemn silence filled the office, but Dongrang continued, brushing the empty desk with his hand."
+            "content": "Hicranlı bir sessizlik ortamı kaplamıştı, ne bir mendil ne de bir kol sallanmayacakmış gibi. Dongrang soğukkanlı bir şekilde devam etti."
         },
         {
             "id": 91,
