@@ -12,7 +12,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı Kazan"
+                                    "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı kazan"
                                 }
                             ]
                         },
@@ -20,7 +20,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı Kazan"
+                                    "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı kazan"
                                 }
                             ]
                         }
@@ -35,7 +35,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı Kazan"
+                                    "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı kazan"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] +1 [Vibration] Miktarı uygula"
@@ -46,7 +46,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı Kazan"
+                                    "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı kazan"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] +1 [Vibration] Miktarı uygula"
@@ -64,7 +64,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı Kazan"
+                                    "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı kazan"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı uygula"
@@ -75,7 +75,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı Kazan"
+                                    "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı kazan"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı uygula"
@@ -92,7 +92,7 @@
                 {
                     "level": 1,
                     "name": "Sakin Ol...",
-                    "desc": "[WhenUse] +2 [Vibration] Miktarı Kazan",
+                    "desc": "[WhenUse] +2 [Vibration] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -106,7 +106,7 @@
                 {
                     "level": 2,
                     "name": "Sakin ol...",
-                    "desc": "[WhenUse] +4 [Vibration] Miktarı Kazan",
+                    "desc": "[WhenUse] +4 [Vibration] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -120,7 +120,7 @@
                 {
                     "level": 4,
                     "name": "Sakin ol...",
-                    "desc": "[WhenUse] +6 [Vibration] Miktarı Kazan",
+                    "desc": "[WhenUse] +6 [Vibration] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -191,7 +191,7 @@
                 {
                     "level": 1,
                     "name": "Yenilenmiş Saldırı",
-                    "desc": "[WhenUse] +2 [Breath] Miktarı Kazan",
+                    "desc": "[WhenUse] +2 [Breath] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -212,7 +212,7 @@
                 {
                     "level": 2,
                     "name": "Yenilenmiş Saldırı",
-                    "desc": "[WhenUse] +2 [Breath] Kazan",
+                    "desc": "[WhenUse] +2 [Breath] kazan",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -233,19 +233,19 @@
                 {
                     "level": 4,
                     "name": "Yenilenmiş Saldırı",
-                    "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] +2 [Breath] Kazan",
+                    "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] +2 [Breath] kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Sonraki tur 1 [Agility] Kazan"
+                                    "desc": "[OnSucceedAttack] Sonraki tur 1 [Agility] kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Sonraki tur 1 [Agility] Kazan"
+                                    "desc": "[OnSucceedAttack] Sonraki tur 1 [Agility] kazan"
                                 }
                             ]
                         }
@@ -259,19 +259,19 @@
                 {
                     "level": 1,
                     "name": "Çatışma",
-                    "desc": "[WinDuel] +2 [Breath] Miktarı Kazan",
+                    "desc": "[WinDuel] +2 [Breath] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı Kazan"
+                                    "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı Kazan"
+                                    "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                                 }
                             ]
                         },
@@ -286,14 +286,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +1 [Breath] Miktarı Kazan"
+                                    "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +1 [Breath] Miktarı Kazan"
+                                    "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                                 }
                             ]
                         },
@@ -308,14 +308,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +1 [Breath] Miktarı Kazan"
+                                    "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +1 [Breath] Miktarı Kazan"
+                                    "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                                 }
                             ]
                         },
