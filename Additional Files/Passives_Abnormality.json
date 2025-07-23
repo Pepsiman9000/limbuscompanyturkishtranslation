@@ -30,7 +30,7 @@
     {
       "id": 800201,
       "name": "Kan Festivali Aksın",
-      "desc": "The battle proceeds to the next phase after all the Clay Dolls are defeated."
+      "desc": "Bütün Kil Oyuncaklar öldüğünde savaş sonraki aşamaya geçer."
     },
     {
       "id": 800202,
@@ -65,12 +65,12 @@
     {
       "id": 800301,
       "name": "Tapma",
-      "desc": "HP 0'a indiğinde ölmez; yerine, savaş alanında hareket etmeyen ve hedef alınamayan birim olarak kalır\nKıyamet Takvimi baskılandığında o da baskılanır."
+      "desc": "HP 0'a indiğinde ölmez; yerine, sahnede hareket etmeyen ve hedef alınamayan birim olarak kalır.\nKıyamet Takvimi baskılandığında o da baskılanır."
     },
     {
       "id": 800801,
-      "name": "Cracked Gold",
-      "desc": "Heals HP every turn based on the amount of Golden Sheen."
+      "name": "Çatlamış Altın",
+      "desc": "Her tur [BeingGolden] kadar HP iyileş."
     },
     {
       "id": 800901,
@@ -79,13 +79,13 @@
     },
     {
       "id": 800902,
-      "name": "Frail Core",
-      "desc": "When the Head is destroyed, all parts are inflicted with Immobilize next turn.\nThe Head regenerates after 1 turn."
+      "name": "Zayıf Çekirdek",
+      "desc": "Kafa yok edildiğinde, sonraki turda bütün parçalara [Immobilize] uygula.\nKafa bir tur sonra yenilenir."
     },
     {
       "id": 800903,
       "name": "Rotting Apple",
-      "desc": "After the body is destroyed, all parts are inflicted with 2 Attack Power Down every turn."
+      "desc": "Vücüt yok edildiğinde, bütün parçalara 2 [Reduction] uygula."
     },
     {
       "id": 800904,
