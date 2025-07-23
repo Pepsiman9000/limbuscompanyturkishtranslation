@@ -1548,20 +1548,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blinkstep",
-          "desc": "[WhenUse] If target has 6+ [Burst], Coin Power +1",
+          "name": "Ani Adım",
+          "desc": "[WhenUse] Hedefte 6+ [Burst] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -1569,23 +1569,23 @@
         },
         {
           "level": 2,
-          "name": "Blinkstep",
-          "desc": "[WhenUse] If target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[WinDuel] Inflict +1 [Burst] Count</style>",
+          "name": "Ani Adım",
+          "desc": "[WhenUse] Hedefte <style=\"highlight\">4</style>+ [Burst] varsa, Jeton Gücü +1\n<style=\"highlight\">[WinDuel] +1 [Burst] Miktarı uygula</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 10+ Hızda, Jetonu bir kez tekrar kullan (Yetenek başına 1 kez)</style>"
                 }
               ]
             }
@@ -1593,23 +1593,23 @@
         },
         {
           "level": 4,
-          "name": "Blinkstep",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If target has 4+ [Burst], Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
+          "name": "Ani Adım",
+          "desc": "<style=\"highlight\">Bu birimin Hızı hedefinkinden 3 veya daha fazla fazlaysa, Jeton Gücü +1</style>\n[WhenUse] Hedefte 4+ [Burst] varsa, Jeton Gücü +1\n[WinDuel] +1 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 10+ Hızda, Jetonu bir kez tekrar kullan (Yetenek başına 1 kez)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1622,20 +1622,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "As Written",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on target)% more damage (max 50%)\n[WhenUse] If target has 6+ [Burst], Coin Power +1",
+          "name": "Yazıldığı Gibi",
+          "desc": "Bu birimin Hızı hedefinkinden fazlaysa, (Hız farkı x hedefteki [Burst] Şiddeti)% daha fazla hasar ver (maks 50%)\n[WhenUse] Hedefte 6+ [Burst] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "At 10+ Speed, deal +10% more damage"
+                  "desc": "10+ Hızda, +10% daha fazla hasar ver"
                 }
               ]
             }
@@ -1643,23 +1643,23 @@
         },
         {
           "level": 2,
-          "name": "As Written",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on target)% more damage (max 50%)\n[WhenUse] If target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[WhenUse] Gain 2 [Agility] next turn (once per turn)\n[WinDuel] Inflict +1 [Burst] Count</style>",
+          "name": "Yazıldığı Gibi",
+          "desc": "Bu birimin Hızı hedefinkinden fazlaysa, (Hız farkı x hedefteki [Burst] Şiddeti)% daha fazla hasar ver (maks 50%)\n[WhenUse] Hedefte <style=\"highlight\">4</style>+ [Burst] varsa, Jeton Gücü +1\n<style=\"highlight\">[WhenUse] Sonraki turda 2 [Agility] kazan (tur başına 1 kez)\n[WinDuel] +1 [Burst] Miktarı uygula</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 10+ Speed, inflict +1 [Burst] Count</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 10+ Hızda, +1 [Burst] Miktarı uygula</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "At 10+ Speed, deal +<style=\"highlight\">20</style>% more damage"
+                  "desc": "10+ Hızda, +<style=\"highlight\">20</style>% daha fazla hasar ver"
                 }
               ]
             }
@@ -1667,26 +1667,26 @@
         },
         {
           "level": 4,
-          "name": "As Written",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on target)% more damage (max 50%)\n<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If target has 4+ [Burst], Coin Power +1\n[WhenUse] Gain 2 [Agility] next turn (once per turn)\n[WinDuel] Inflict +1 [Burst] Count",
+          "name": "Yazıldığı Gibi",
+          "desc": "Bu birimin Hızı hedefinkinden fazlaysa, (Hız farkı x hedefteki [Burst] Şiddeti)% daha fazla hasar ver (maks 50%)\n<style=\"highlight\">Bu birimin Hızı hedefinkinden 3 veya daha fazla fazlaysa, Jeton Gücü +1</style>\n[WhenUse] Hedefte 4+ [Burst] varsa, Jeton Gücü +1\n[WhenUse] Sonraki turda 2 [Agility] kazan (tur başına 1 kez)\n[WinDuel] +1 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Speed, inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 10+ Hızda, +1 [Burst] Miktarı uygula<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "At 10+ Speed, deal +<style=\"highlight\">30</style>% more damage"
+                  "desc": "10+ Hızda, +<style=\"highlight\">30</style>% daha fazla hasar ver"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Burst]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 1 [Burst] uygula</style>"
                 }
               ]
             }
@@ -1699,36 +1699,36 @@
       "levelList": [
         {
           "level": 3,
-          "name": "I'll gut you with a curse-engraved blade",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on target)% more damage (max 50%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count",
+          "name": "Lanetli bir bıçakla bağırsaklarını deşeceğim",
+          "desc": "Bu birimin Hızı hedefinkinden fazlaysa, (Hız farkı x hedefteki [Burst] Şiddeti)% daha fazla hasar ver (maks 50%)\nBu birimin Hızı hedefinkinden 2 veya daha fazla fazlaysa, Jeton Gücü +1\n[WhenUse] 3 [LegStrength] kazan\n[WinDuel] +2 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
+                  "desc": "[OnSucceedAttack] [BurstAgility] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "At 10+ Speed, deal +30% more damage"
+                  "desc": "10+ Hızda, +30% daha fazla hasar ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)"
+                  "desc": "[OnSucceedAttack] 10+ Hızda, Jetonu bir kez tekrar kullan (Yetenek başına 1 kez)"
                 }
               ]
             }
@@ -1736,39 +1736,39 @@
         },
         {
           "level": 4,
-          "name": "I'll gut you with a curse-engraved blade",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on target)% more damage (max 50%)\nIf this unit's Speed is faster than the target's, <style=\"highlight\">gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)\n[WhenUse] If target has 15+ [Burst], Coin Power +1</style>\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count",
+          "name": "Lanetli bir bıçakla bağırsaklarını deşeceğim",
+          "desc": "Bu birimin Hızı hedefinkinden fazlaysa, (Hız farkı x hedefteki [Burst] Şiddeti)% daha fazla hasar ver (maks 50%)\nBu birimin Hızı hedefinkinden fazlaysa, <style=\"highlight\">Hız farkına göre Jeton Gücü kazan (her 2 Hız farkı için Jeton Gücü +1; maks 2)\n[WhenUse] Hedefte 15+ [Burst] varsa, Jeton Gücü +1</style>\n[WhenUse] 3 [LegStrength] kazan\n[WinDuel] +2 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [BurstAgility] uygula<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Burst] uygula<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "At 10+ Speed, deal +30% more damage<style=\"highlight\"></style>"
+                  "desc": "10+ Hızda, +30% daha fazla hasar ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 10+ Hızda, Jetonu bir kez tekrar kullan (Yetenek başına 1 kez)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Inflict [BurstAgility]</style>"
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] [BurstAgility] uygula</style>"
                 }
               ]
             }
@@ -1781,13 +1781,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strider. Unleashed. Heh",
-          "desc": "[DuelCounter]\n[WhenUse] Gain 3 [LegStrength]",
+          "name": "Gezgin. Serbest. Heh",
+          "desc": "[DuelCounter]\n[WhenUse] 3 [LegStrength] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -1795,13 +1795,13 @@
         },
         {
           "level": 4,
-          "name": "Strider. Unleashed. Heh",
-          "desc": "[DuelCounter]\n[WhenUse] Gain 3 [LegStrength]\n<style=\"highlight\">[WhenUse] If this unit's Speed is faster than the target's, gain Base Power based on Speed difference (Base Power +1 for every 2 Speed difference; max 2)</style>",
+          "name": "Gezgin. Serbest. Heh",
+          "desc": "[DuelCounter]\n[WhenUse] 3 [LegStrength] kazan\n<style=\"highlight\">[WhenUse] Bu birimin Hızı hedefinkinden fazlaysa, Hız farkına göre Temel Güç kazan (her 2 Hız farkı için Temel Güç +1; maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Burst] Miktarı uygula<style=\"highlight\"></style>"
                 }
               ]
             }
