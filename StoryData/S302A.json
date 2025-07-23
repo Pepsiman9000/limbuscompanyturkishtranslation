@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Mephistopheles",
       "model": "카론",
-      "content": "Hoppa danak, Charon hoppa danak park ediyor."
+      "content": "Hoppadanak, Charon hoppadanak park ediyor."
     },
     {
       "id": 1,
@@ -14,12 +14,12 @@
     {
       "id": 2,
       "model": "베르길리우스",
-      "content": "Ah, eğer her zamanki ukala halinizde iseniz diye söyleyeyim."
+      "content": "Ah, eğer her zamanki ukala halinizde iseniz diye söyleyeyim…"
     },
     {
       "id": 3,
       "model": "베르길리우스",
-      "content": "Etrafta at koşturup prensesler kurtarmaya çalışmayın…"  
+      "content": "Etrafta at koşturup prensesler kurtarmaya çalışmayın,"  
     },
     {
       "id": 4,
@@ -36,22 +36,22 @@
       "model": "더미2",
       "teller": "Duyuru",
       "title": "K Kuruluşu Denetleme Noktası",
-      "content": "K Kuruluşu'nun yuvasına gelen tüm ziyaretcileri çanıgönülden karşılıyoruz."
+      "content": "K Kuruluşu'nun yuvasına gelen tüm ziyaretçileri canıgönülden karşılıyoruz."
     },
     {
       "id": 7,
       "model": "더미2",
-      "teller": "Announcement",
+      "teller": "Duyuru",
       "title": "K Kuruluşu Denetleme Noktası",
       "content": "Lütfen içeriye girerken düzenli bir sıraya girin ve talimatlarda belirtilen yerlerde durun."
     },
     {
       "id": 8,
-      "content": "Tehditkar ve sanki bir sorgudaymış hissi veren bu atmosfer, ilk kez gelen her ziyaretçinin şevkini kıra bilirdi ki Günahkârlar da buna istisna değilerdi."
+      "content": "Tehditkar ve sanki bir sorgudaymış hissi veren bu atmosfer, ilk kez gelen her ziyaretçinin şevkini kırabilirdi ki Günahkârlar da buna istisna değillerdi."
     },
     {
       "id": 9,
-      "content": "Arada sırada Sinclair'in telaşlandığını, ve Gregor ile Rodya'nın onu sakinleştirdiklerini duyabiliyordum."
+      "content": "Arada sırada Sinclair'ın telaşlandığını, ve Gregor ile Rodya'nın onu sakinleştirdiklerini duyabiliyordum."
     },
     {
       "id": 10,
@@ -89,7 +89,7 @@
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "Dante, söyle söyleyeyim. Üzerine yüklencek olan sorumluluk tek başına üstlenmen için biraz fazla olur."
+      "content": "Dante, şöyle söyleyeyim. Üzerine yüklenecek olan sorumluluk tek başına üstlenmen için biraz fazla olur."
     },
     {
       "id": 18,
@@ -97,11 +97,11 @@
     },
     {
       "id": 19,
-      "content": "Sanki “Sen teftiş eldilmeden gönderilebilecek kadar güvenilir değilsin.” diyormuş gibi geldi."
+      "content": "Sanki “Sen teftiş edilmeden gönderilebilecek kadar güvenilir değilsin.” diyormuş gibi geldi."
     },
     {
       "id": 20,
-      "content": "…Ama bu düşünceyi Vergilius'a karşı kendime saklamamın akıl kârı olacağını biliyordum."
+      "content": "…Ama bu düşünceyi kendime saklamamın akıl kârı olacağını biliyordum."
     }
   ]
 }
