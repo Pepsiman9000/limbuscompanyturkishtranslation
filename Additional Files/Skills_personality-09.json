@@ -1614,7 +1614,7 @@
         {
           "level": 2,
           "name": "Şövalye'nin Sığınağı",
-          "desc": "<style=\"highlight\">Eğer hedefin 6+ [Sinking]'i varsa, Jeton Gücü +1</style>",
+          "desc": "<style=\"highlight\">Eğer hedefin 6+ [Sinking]'ı varsa, Jeton Gücü +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1635,7 +1635,7 @@
         {
           "level": 4,
           "name": "Şövalye'nin Sığınağı",
-          "desc": "Eğer hedefin 6+ [Sinking]'i varsa, Jeton Gücü +1\n<style=\"highlight\">3+ [ProtectiveSword] olduğunda, Çarpışma Gücü +1</style>",
+          "desc": "Eğer hedefin 6+ [Sinking]'ı varsa, Jeton Gücü +1\n<style=\"highlight\">3+ [ProtectiveSword] olduğunda, Çarpışma Gücü +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1689,7 +1689,7 @@
         {
           "level": 2,
           "name": "Adaletin Gücüyle",
-          "desc": "<style=\"highlight\">Eğer hedefin 6+ [Sinking]'i varsa, Jeton Gücü +1</style>\n[WhenUse] 15+ [BlackTearsAlly] olduğunda, +%15 hasar vermek için 5 [BlackTearsAlly] kullan",
+          "desc": "<style=\"highlight\">Eğer hedefin 6+ [Sinking]'ıi varsa, Jeton Gücü +1</style>\n[WhenUse] 15+ [BlackTearsAlly] olduğunda, +%15 hasar vermek için 5 [BlackTearsAlly] kullan",
           "coinlist": [
             {},
             {
@@ -1714,7 +1714,7 @@
         {
           "level": 4,
           "name": "Adaletin Gücüyle",
-          "desc": "Eğer hedefin 6+ [Sinking]'i varsa, Jeton Gücü +1\n<style=\"highlight\">Her 2 [ProtectiveSword] için Çarpışma Gücü +1 (maks 2)</style>\n[WhenUse] 15+ [BlackTearsAlly] olduğunda, +%15 hasar vermek için 5 [BlackTearsAlly] kullan",
+          "desc": "Eğer hedefin 6+ [Sinking]'ı varsa, Jeton Gücü +1\n<style=\"highlight\">Her 2 [ProtectiveSword] için Çarpışma Gücü +1 (maks 2)</style>\n[WhenUse] 15+ [BlackTearsAlly] olduğunda, +%15 hasar vermek için 5 [BlackTearsAlly] kullan",
           "coinlist": [
             {},
             {
@@ -1744,7 +1744,7 @@
         {
           "level": 3,
           "name": "Arkana Delmesi",
-          "desc": "Eğer hedefin 6+ [Sinking]'i varsa, Jeton Gücü +1\nHer 2 [ProtectiveSword] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] 10+ [BlackTearsAlly] olduğunda, 20'ye kadar [BlackTearsAlly] kullan\n- +(Kullanılan Yığın x 1.5)% hasar ver\n[EndSkill] Eğer hedef yenilirse, bu Yetenek tarafından kullanılan [BlackTearsAlly]'nin yarısını geri kazan",
+          "desc": "Eğer hedefin 6+ [Sinking]'ı varsa, Jeton Gücü +1\nHer 2 [ProtectiveSword] için Çarpışma Gücü +1 (maks 2)\n[WhenUse] 10+ [BlackTearsAlly] olduğunda, 20'ye kadar [BlackTearsAlly] kullan\n- +(Kullanılan Yığın x 1.5)% hasar ver\n[EndSkill] Eğer hedef yenilirse, bu Yetenek tarafından kullanılan [BlackTearsAlly]'nin yarısını geri kazan",
           "coinlist": [
             {},
             {
@@ -1766,7 +1766,7 @@
         {
           "level": 4,
           "name": "Arkana Delmesi",
-          "desc": "Eğer hedefin 6+ [Sinking]'i varsa, Jeton Gücü +1\n<style=\"highlight\">Her</style> [ProtectiveSword] için Çarpışma Gücü +1 (maks <style=\"highlight\">5</style>)\n[WhenUse] 10+ [BlackTearsAlly] olduğunda, 20'ye kadar [BlackTearsAlly] kullan\n- +(Kullanılan Yığın x 1.5)% hasar ver\n<style=\"highlight\">- Her 5 kullanılan Yığın için Taban Gücü +1</style>\n[EndSkill] Eğer hedef yenilirse, bu Yetenek tarafından kullanılan [BlackTearsAlly]'nin yarısını geri kazan",
+          "desc": "Eğer hedefin 6+ [Sinking]'ı varsa, Jeton Gücü +1\n<style=\"highlight\">Her</style> [ProtectiveSword] için Çarpışma Gücü +1 (maks <style=\"highlight\">5</style>)\n[WhenUse] 10+ [BlackTearsAlly] olduğunda, 20'ye kadar [BlackTearsAlly] kullan\n- +(Kullanılan Yığın x 1.5)% hasar ver\n<style=\"highlight\">- Her 5 kullanılan Yığın için Taban Gücü +1</style>\n[EndSkill] Eğer hedef yenilirse, bu Yetenek tarafından kullanılan [BlackTearsAlly]'nin yarısını geri kazan",
           "coinlist": [
             {},
             {
