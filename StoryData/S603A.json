@@ -2,45 +2,45 @@
     "dataList": [
         {
             "id": 0,
-            "place": "T Corp.’s Streets",
+            "place": "T Kuruluşu’nun Sokakları",
             "model": "히스클리프",
             "content": "You..."
         },
         {
             "id": 1,
             "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
+            "teller": "Aşırı Dramatik Sivil",
+            "title": "T Kuruluşu",
             "content": "EEEEK!!!"
         },
         {
             "id": 2,
             "model": "히스클리프",
-            "content": "Quiet… Or you’ll attract even more of ‘em to us."
+            "content": "Sessiz ol… Yoksa daha fazlasını üzerimize çekeceksin."
         },
         {
             "id": 3,
             "model": "히스클리프",
-            "content": "Shut your gob right now or we’ll feed you to the meat grinder back at our rickety, cannibal bus. Is that clear?"
+            "content": "Ağzını hemen kapa, yoksa seni bizim sallantılı, koca taşşaklı, yamyam otobüsün kıyma makinesine atarız. Anlaşıldı mı?"
         },
         {
             "id": 4,
             "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "T-then..."
+            "teller": "Aşırı Dramatik Sivil",
+            "title": "T Kuruluşu",
+            "content": "O z-zaman..."
         },
         {
             "id": 5,
             "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "You’re not here to kidnap me?"
+            "teller": "Aşırı Dramatik Sivil",
+            "title": "T Kuruluşu",
+            "content": "Beni kaçırmak için burada değil misiniz?"
         },
         {
             "id": 6,
             "model": "그레고르",
-            "content": "No. For the… I don’t even know how many times we’ve told you."
+            "content": "Hayır. Kaçıncı defa- Artık sayısını bile bilmiyorum."
         },
         {
             "id": 7,
@@ -49,7 +49,7 @@
         },
         {
             "id": 8,
-            "content": "… She is trying so, so hard not to say it."
+            "content": "…Bunu söylememek için gerçekten, GERÇEKTEN çok çaba harcıyor."
         },
         {
             "id": 9,
@@ -59,107 +59,107 @@
         {
             "id": 10,
             "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "R-right… Passers-by of justice..."
+            "teller": "Aşırı Dramatik Sivil",
+            "title": "T Kuruluşu",
+            "content": "E-evet... Adaletin yolcuları..."
         },
         {
             "id": 11,
             "model": "홍루",
-            "content": "So why are they asking us for time, not money?"
+            "content": "Peki, neden bizden para değil de zaman istiyorlar?"
         },
         {
             "id": 12,
             "model": "로쟈",
-            "content": "… Maybe time’s just another commodity to be sold and bought here."
+            "content": "…Belki burada zaman da satılıp alınan bir mal gibidir."
         },
         {
             "id": 13,
             "model": "이스마엘",
-            "content": "Guys… is it just me again…? The T Corp. pamphlet guide... did no one really...?"
+            "content": "Guys… is it just me again…? The T Kuruluşu pamphlet guide... did no one really...?"
         },
         {
             "id": 14,
-            "content": "…Ishmael’s eyes start to glaze over. Once again, she may have been the only Sinner who bothered to read up on our destination…"
+            "content": "…Ishmael’in gözleri donuyor. Bir kez daha, bizim varış noktamız hakkında araştırma yapan tek Günahkar o olabilir…"
         },
         {
             "id": 15,
             "model": "이상",
-            "content": "In T Corp… also known as TimeTrack Corporation..."
+            "content": "T Kuruluşu, diğer adıyla ZamanTakip Kuruluşu..."
         },
         {
             "id": 16,
             "model": "이상",
-            "content": "… its citizenry utilizes timepieces as personal identification. They oft trade with ‘time’ instead of physical currency; their means of transaction done via the timepieces they carry. Most laborers in these lands are rewarded for their efforts with time."
+            "content": "… Vatandaşları, kimlik olarak zaman ölçerler kullanır. Fiziksel para yerine çoğunlukla 'zaman' ile ticaret yaparlar; işlemler ellerindeki zaman ölçerler aracılığıyla gerçekleştirilir. Bu topraklardaki çoğu emekçi, yaptıkları iş karşılığında zaman ile ödüllendirilir."
         },
         {
             "id": 17,
             "model": "이스마엘",
-            "content": "Haah… thanks for the explanation, Yi Sang. I’ll let it slide this time."
+            "content": "Haah… Açıklama için sağ ol, Yi Sang. Bu seferlik göz yumacağım sana."
         },
         {
             "id": 18,
             "model": "단테",
-            "content": "<So… is this going to be a problem? Outis is the only one of us who carries a watch.>"
+            "content": "<Peki… bu bir sorun olacak mı? Bizden sadece Outis’in kol saati var.>"
         },
         {
             "id": 19,
             "model": "홍루",
-            "content": "Ohh~ you mean her broken wristwatch? I always thought that wearing a stopped watch was a neat fashion statement—"
+            "content": "Ooo~ demek onun bozuk kol saatinden bahsediyorsun? Ben hep durmuş bir saat takmanın havalı bir moda öğesi olduğunu sanırdım—"
         },
         {
             "id": 20,
             "model": "오티스",
-            "content": "… It’s not a fashion item. It never was. How insolent of you to assume."
+            "content": "… O bir moda öğesi değil. Hiç olmadı. Böyle varsayman ne kadar küstahça."
         },
         {
             "id": 21,
             "model": "그레고르",
-            "content": "Right, I’ve been meaning to ask… what got ya so freaked out about a kidnapping earlier?"
+            "content": "Doğru, sormak istiyordum… Az önceki kaçırma meselesi seni neden bu kadar korkuttu?"
         },
         {
             "id": 22,
             "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "Oh… There’s a pretty scary rumor of indiscriminate kidnappings going around these T Corp. streets."
+            "teller": "Aşırı Dramatik Sivil",
+            "title": "T Kuruluşu",
+            "content": "Ah… Bu T Kuruluşu sokaklarında rastgele kaçırmalarla ilgili oldukça korkutucu bir söylenti dolanıyor."
         },
         {
             "id": 23,
             "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "These are abandoned streets, so when I saw a dozen or so people running around together, I was scared that you guys might be the infamous kidnapping Syndicate or something..."
+            "teller": "Aşırı Dramatik Sivil",
+            "title": "T Kuruluşu",
+            "content": "Buralar terk edilmiş sokaklar, o yüzden on-on iki kişinin birlikte koşturduğunu görünce, sizin meşhur kaçırma Çetesi falan olabileceğinizden korktum..."
         },
         {
             "id": 24,
             "model": "오티스",
-            "content": "We need more details. I want the who, when, where, what, how, and why. Proceed."
+            "content": "Daha fazla detaya ihtiyacımız var. Kim, ne zaman, nerede, ne, nasıl ve neden. Anlat devam et."
         },
         {
             "id": 25,
             "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "P-people have been going missing around here."
+            "teller": "Aşırı Dramatik Sivil",
+            "title": "T Kuruluşu",
+            "content": "B-buralarda insanlar kayboluyor."
         },
         {
             "id": 26,
             "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "This kinda became the last known location for a bunch of missing people. Everyone becomes a shut-in during the foggy days ‘cause they don’t wanna get kidnapped."
+            "teller": "Aşırı Dramatik Sivil",
+            "title": "T Kuruluşu",
+            "content": "Burası bir sürü kayıp kişinin son görüldüğü yer haline geldi. Sisli günlerde herkes evine kapanıyor çünkü kaçırılmak istemiyorlar."
         },
         {
             "id": 27,
             "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "L-look, it’s even on the front page of this T-Times newspaper here. Mysterious Kidnapping Fear Sweeps District.… Not Even A Single Body Found… I can keep reading, if you want...?"
+            "teller": "Aşırı Dramatik Sivil",
+            "title": "T Kuruluşu",
+            "content": "Ş-şey, bu T-Zaman gazetesinin ön sayfasında bile var. Gizemli Kaçırma Korkusu İlçeyi Sardı… Tek Bir Ceset Bile Bulunamadı… İstersen devamını da okuyabilirim...?"
         },
         {
             "id": 28,
-            "content": "Meursault, Rodya, and Don Quixote began enthusiastically reading the sensationalized titles and the attached articles on the newspaper he showed us."
+            "content": "Meursault, Rodya ve Don Quixote, bize gösterdiği gazetede abartılı başlıkları ve ekli makaleleri hevesle okumaya başladılar."
         },
         {
             "id": 29,
@@ -169,7 +169,7 @@
         {
             "id": 30,
             "model": "로쟈",
-            "content": "Oh… Ohoho… I gotta check out that award-winning eatery… it's not so far from where we are..."
+            "content": "Ah… Ohoho… O ödüllü lokantayı bir denemeliyim… Burası oraya çok uzak değil..."
         },
         {
             "id": 31,
@@ -179,40 +179,40 @@
         {
             "id": 32,
             "model": "단테",
-            "content": "<Are you guys even reading the same article?>"
+            "content": "<Siz gerçekten aynı makaleyi okuyor musunuz?>"
         },
         {
             "id": 33,
             "model": "히스클리프",
-            "content": "... Lad’s right. There’s a lot less people around here than I remember."
+            "content": "... Lavuk haklı. Buralarda hatırladığımdan daha az insan var."
         },
         {
             "id": 34,
             "model": "히스클리프",
-            "content": "This street used to be packed with workers headed to their factory jobs and inventors selling their useless trinkets… It’s never been this... empty."
+            "content": "Bu sokak, fabrikala işlerine giden işçiler ve işe yaramaz zamanzingolarını satan mucitlerle doluydu... Hiç bu kadar... boş olmamıştı."
         },
         {
             "id": 35,
-            "content": "This empty street of T Corp. was thick with fog, the bustling crowd from Heathcliff's memories nowhere to be seen."
+            "content": "T Kuruluşu'nun bu boş sokağı sisle kaplıydı, Heathcliff'in anılarındaki kalabalık sokak toz olup gitmişti."
         },
         {
             "id": 36,
-            "content": "Maybe the lack of color made the fog appear even thicker."
+            "content": "Belki de renklerin eksikliği sisi olduğundan daha kalın gösteriyordu."
         },
         {
             "id": 37,
             "model": "오티스",
-            "content": "This reminds me of the kidnapping ‘rumor’ we heard when we were working on the Blade Lineage case."
+            "content": "Bunu bana Kılıç Soyu vakasıyla ilgilenirken duyduğumuz kaçırılma 'rivayet'lerine benziyor."
         },
         {
             "id": 38,
             "model": "이스마엘",
-            "content": "Missing people… Maybe there really is a messed-up kidnapping, human trafficking Syndicate roaming this area."
+            "content": "Kayıp insanlar… Belki gerçekten buralarda dolanan feci bir kaçırma, insan ticareti ve benzeri şeyler yapan bir Çete vardır."
         },
         {
             "id": 39,
             "model": "히스클리프",
-            "content": "I’ve never heard of such Syndicate strutting about this place. Back when I lived here, at least."
+            "content": "Hiç buralarda kol gezdiren bir Çete duymadım daha önce. Burada yaşadığım dönem, en azından."
         },
         {
             "id": 40,
@@ -257,12 +257,12 @@
         {
             "id": 48,
             "model": "로쟈",
-            "content": "A single sweep from those Sweepers leaves nothing behind. Every trash in the Backstreets, including corpses, is completely cleaned up."
+            "content": "A single sweep from those Sweepers leaves nothing behind. Every trash in the Backstreets, including Kuruluşuses, is completely cleaned up."
         },
         {
             "id": 49,
             "model": "그레고르",
-            "content": "Right… They'd clean up even the corpses, yeah."
+            "content": "Right… They'd clean up even the Kuruluşuses, yeah."
         },
         {
             "id": 50,
