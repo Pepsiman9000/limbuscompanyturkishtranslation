@@ -3106,7 +3106,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sonuna Kadar",
+          "name": "Aşırı Nefes",
           "desc": "HP 25%'ten azsa, Yetenek Gücü +1",
           "coinlist": [
             {}
@@ -3114,16 +3114,16 @@
         },
         {
           "level": 2,
-          "name": "Sonuna Kadar",
-          "desc": "HP 25%'ten azsa, +2 Skill Power",
+          "name": "Aşırı Nefes",
+          "desc": "HP 25%'ten azsa, Yetenek Gücü +2",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Sonuna Kadar",
-          "desc": "HP 50%'den azsa, Skill Power +2\n[WhenUse] Gain +3 [Breath] Count",
+          "name": "Aşırı Nefes",
+          "desc": "HP 50%'den azsa, Yetenek Gücü +2\n[WhenUse] +3 [Breath] Miktarı kazan",
           "coinlist": [
             {}
           ]
@@ -3135,24 +3135,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flying Sword",
-          "desc": "HP 25%'ten azsa, +1 Skill Power",
+          "name": "Uçan Kılıç",
+          "desc": "HP 25%'ten azsa, Yetenek Gücü +1",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 2,
-          "name": "Flying Sword",
-          "desc": "HP 25%'ten azsa, +2 Skill Power",
+          "name": "Uçan Kılıç",
+          "desc": "HP 25%'ten azsa, Yetenek Gücü +2",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Flying Sword",
-          "desc": "HP 50%'den azsa, +2 Skill Power\n[WhenUse] Gain 3 [Breath]",
+          "name": "Uçan Kılıç",
+          "desc": "HP 50%'den azsa, Yetenek Gücü +2\n[WhenUse] 3 [Breath] kazan",
           "coinlist": [
             {}
           ]
@@ -3164,20 +3164,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Flashing Strike",
-          "desc": "HP 25%'ten azsa, +2 Skill Power",
+          "name": "Parlayan Vuruş",
+          "desc": "HP 25%'ten azsa, Yetenek Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[BeforeAttack] Lose 5 HP; +50% Skill Damage for this Coin"
+                  "desc": "[BeforeAttack] 5 HP kaybet; Bu Jeton ile +50% daha fazla Yetenek Hasarı vur"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BeforeAttack] Lose 5 HP; +50% Skill Damage for this Coin"
+                  "desc": "[BeforeAttack] 5 HP kaybet; Bu Jeton ile +50% daha fazla Yetenek Hasarı vur"
                 }
               ]
             }
@@ -3185,20 +3185,20 @@
         },
         {
           "level": 4,
-          "name": "Flashing Strike",
-          "desc": "At 10+ [Breath] Count, Skill Power +2\nHP 50%'den azsa, Atk Weight +1",
+          "name": "Parlayan Vuruş",
+          "desc": "10+ [Breath] Miktarı varsa, Yetenek Gücü +2\nHP 50%'den azsa, Saldırı Ağırlığı +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[BeforeAttack] Lose 5 HP; +50% Skill Damage for this Coin"
+                  "desc": "[BeforeAttack] 5 HP kaybet; Bu Jeton ile +50% daha fazla Yetenek Hasarı vur"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BeforeAttack] Lose 5 HP; +50% Skill Damage for this Coin"
+                  "desc": "[BeforeAttack] 5 HP kaybet; Bu Jeton ile +50% daha fazla Yetenek Hasarı vur"
                 }
               ]
             }
@@ -3220,7 +3220,7 @@
         {
           "level": 4,
           "name": "Basit Karşı Darbe",
-          "desc": "[WhenUse] Lose 5 HP\nAt 3+ [Breath] Count, Damage +50%",
+          "desc": "[WhenUse] 5 HP kaybet\nAt 3+ [Breath] Miktarı varsa, Hasar +50%",
           "coinlist": [
             {}
           ]
@@ -3232,27 +3232,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Graze the Grass",
+          "name": "Çimleri Biçme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo"
+                  "desc": "1 Mermi harca"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo"
+                  "desc": "1 Mermi harca"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]+1 [[Charge]] Sayısı kazan."
+                  "desc": "[OnSucceedAttack]+1 [[Charge]] Miktarı kazan."
                 }
               ]
             }
@@ -3260,13 +3260,13 @@
         },
         {
           "level": 2,
-          "name": "Graze the Grass",
+          "name": "Çimleri Biçme",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo"
+                  "desc": "1 Mermi harca"
                 },
                 {
                   "desc": ""
@@ -3276,14 +3276,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo"
+                  "desc": "1 Mermi harca"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Charge] Count"
+                  "desc": "[OnSucceedAttack] +3 [Charge] Miktarı kazan"
                 }
               ]
             }
@@ -3296,27 +3296,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Concentrated Fire",
+          "name": "Yoğun Ateş",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] 1 Kanama uygula"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 1 Kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] 1 Kanama uygula"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 1 Kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] 1 Kanama uygula"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 1 Kanama uygula"
                 }
               ]
             },
@@ -3325,27 +3325,27 @@
         },
         {
           "level": 2,
-          "name": "Concentrated Fire",
-          "desc": "Coin Power +1 at 6+ Speed",
+          "name": "Yoğun Ateş",
+          "desc": "6+ Hızda Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] 1 Kanama uygula"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 1 Kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] 1 Kanama uygula"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 1 Kanama uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] 1 Kanama uygula"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 1 Kanama uygula"
                 }
               ]
             },
@@ -3359,20 +3359,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Suppression",
-          "desc": "Coin Power +2 at 6+ Speed",
+          "name": "Hızlı Bastırma",
+          "desc": "6+ Hızda Jeton Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] 2 [Vulnerable] uygula"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 2 [Vulnerable] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] 2 [Vulnerable] uygula"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 2 [Vulnerable] uygula"
                 }
               ]
             },
@@ -3527,7 +3527,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mind Strike",
+          "name": "Zihin Darbesi",
           "desc": "",
           "coinlist": [
             {
@@ -3548,7 +3548,7 @@
         },
         {
           "level": 2,
-          "name": "Mind Strike",
+          "name": "Zihin Darbesi",
           "desc": "",
           "coinlist": [
             {
@@ -3557,7 +3557,7 @@
                   "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] +2 [[Charge]] Sayısı kazan."
+                  "desc": "[OnSucceedAttackHead] +2 [[Charge]] Miktarı kazan."
                 }
               ]
             },
@@ -3567,7 +3567,7 @@
                   "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] +2 [[Charge]] Sayısı kazan."
+                  "desc": "[OnSucceedAttackHead] +2 [[Charge]] Miktarı kazan."
                 }
               ]
             }
@@ -3575,8 +3575,8 @@
         },
         {
           "level": 4,
-          "name": "Mind Strike",
-          "desc": "[WhenUse] +2 [[Charge]] Sayısı kazan.",
+          "name": "Zihin Darbesi",
+          "desc": "[WhenUse] +2 [[Charge]] Miktarı kazan.",
           "coinlist": [
             {
               "coindescs": [
@@ -3584,7 +3584,7 @@
                   "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +2 [[Charge]] Sayısı kazan."
+                  "desc": "[OnSucceedAttack] +2 [[Charge]] Miktarı kazan."
                 }
               ]
             },
@@ -3594,7 +3594,7 @@
                   "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +2 [[Charge]] Sayısı kazan."
+                  "desc": "[OnSucceedAttack] +2 [[Charge]] Miktarı kazan."
                 }
               ]
             }
@@ -3607,13 +3607,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flaying Surge",
+          "name": "Yırtan Dalgalanma",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] +3 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -3621,13 +3621,13 @@
         },
         {
           "level": 2,
-          "name": "Flaying Surge",
-          "desc": "[WhenUse] Gain +5 [Charge] Count",
+          "name": "Yırtan Dalgalanma",
+          "desc": "[WhenUse] +5 [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] +3 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -3635,13 +3635,13 @@
         },
         {
           "level": 4,
-          "name": "Flaying Surge",
-          "desc": "[WhenUse] Gain +7 [Charge] Count",
+          "name": "Yırtan Dalgalanma",
+          "desc": "[WhenUse] +7 [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +3 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -3654,8 +3654,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Mind Whip",
-          "desc": "[StartBattle] Spend all [Charge] Count\nIf at less than 10 [Charge] Count at Combat Start, target a random unit for an unopposed attack",
+          "name": "Zihin Kırbacı",
+          "desc": "[StartBattle] Bütün [Charge] Miktarını kullan\nEğer savaş başlangıcında 10 [Charge] Miktarı yoksa, target a random unit for an unopposed attack",
           "coinlist": [
             {
               "coindescs": [
@@ -3774,7 +3774,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flying Sword",
+          "name": "Uçan Kılıç",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -3796,7 +3796,7 @@
         },
         {
           "level": 2,
-          "name": "Flying Sword",
+          "name": "Uçan Kılıç",
           "desc": "HP 50%'den azsa, this skill gives 1 additional [Breath]",
           "keywords": [],
           "coinlist": [
@@ -3818,7 +3818,7 @@
         },
         {
           "level": 4,
-          "name": "Flying Sword",
+          "name": "Uçan Kılıç",
           "desc": "HP 50%'den azsa, this skill gives 3 additional [Breath]",
           "keywords": [],
           "coinlist": [
@@ -4055,14 +4055,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 4 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 4 Tremor"
                 }
               ]
             }
@@ -4083,14 +4083,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 8 Tremor; +2 Sarsıntı Miktarı uygula"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 8 Tremor; +2 Sarsıntı Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 8 Tremor; +2 Sarsıntı Miktarı uygula"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 8 Tremor; +2 Sarsıntı Miktarı uygula"
                 }
               ]
             }
@@ -4116,21 +4116,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 4 [Burst]; Inflict +2 [Burst] Count"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 4 [Burst]; Inflict +2 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 4 [Burst]; Inflict +2 [Burst] Count"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 4 [Burst]; Inflict +2 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 5 [Vulnerable]"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 5 [Vulnerable]"
                 }
               ]
             }
@@ -4151,21 +4151,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 4 [Burst]; Inflict +2 [Burst] Count"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 4 [Burst]; Inflict +2 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 4 [Burst]; Inflict +2 [Burst] Count"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 4 [Burst]; Inflict +2 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 5 [Vulnerable]"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 5 [Vulnerable]"
                 }
               ]
             }
