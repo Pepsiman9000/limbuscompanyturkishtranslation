@@ -233,7 +233,7 @@
                 {
                     "level": 4,
                     "name": "Yenilenmiş Saldırı",
-                    "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] +2 [Breath] kazan",
+                    "desc": "Eğer bu birimin Hızı hedefinden 2 veya daha fazla ise, Jeton Gücü +1\n[WinDuel] +2 [Breath] Miktari Kazan",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -281,7 +281,7 @@
                 {
                     "level": 2,
                     "name": "Çatışma",
-                    "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Gain +2 [Breath] Count",
+                    "desc": "Eğer bu birimin Hızı hedefinden 2 veya daha fazla ise, Jeton Gücü +1\n[WinDuel] +2 [Breath] Miktari Kazan",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -303,7 +303,7 @@
                 {
                     "level": 4,
                     "name": "Çatışma",
-                    "desc": "If this unit's Speed is faster than the target's, Coin Power +1 for every 2 Speed difference (Max 2)\n[WinDuel] Gain +2 [Breath] Count",
+                    "desc": "Eğer bu birimin Hızı hedefinden fazla ise, her 2 Hız farkı için +1 Jeton Gücü (Maks 2)\n[WinDuel] +2 [Breath] Miktarı kazan",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -330,7 +330,7 @@
                 {
                     "level": 3,
                     "name": "Kontra Atak",
-                    "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed.\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, inflict 1 [Vulnerable] On Hit (Twice per turn)",
+                    "desc": "Eğer bu birimin Hızı hedefinden 2 veya daha fazla ise, Jeton Gücü +1\n[WinDuel] 10 [Breath] Miktarı Kullan. Harcanan [Breath] Miktarı kadar [Breath] Kazan.\n[WinDuel] Bu birim hedefinin Saldırı Yuvası ile [OneOnOneDuel] gerçekleştirir ise, Vuruşta 1 [Vulnerable] uygula (Tur başına 2 kez).",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -352,7 +352,7 @@
                 {
                     "level": 4,
                     "name": "Kontra Atak",
-                    "desc": "If this unit's Speed is faster than the target's, Coin Power +1 for every 2 Speed difference (Max 3)\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed. Against targets with [DuelDeclaration_Sinclair], gain [Breath] equal to ([Breath] Count consumed x 2) instead\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, inflict 1 [Vulnerable] On Hit (Twice per turn)",
+                    "desc": "Eğer bu birimin Hızı hedefinden fazla ise, her 2 Hız farkı için +1 Jeton Gücü (Maks 3)\n[WinDuel] 10 [Breath] Miktarı kullan. Kullanılan [Breath] Miktarı kadar [Breath] kazan.[DuelDeclaration_Sinclair] olan hedeflere karşı, (Kullanılan [Breath] Miktarı x 2) kadar [Breath] kazan\n[WinDuel] Bu birim hedefinin Saldırı Yuvası ile [OneOnOneDuel] gerçekleştirir ise, Vuruşta 1 [Vulnerable] uygula (Tur başına 2 kez).",
                     "coinlist": [
                         {
                             "coindescs": [
