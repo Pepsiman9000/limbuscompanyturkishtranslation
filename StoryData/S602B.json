@@ -2,53 +2,53 @@
     "dataList": [
         {
             "id": 0,
-            "place": "T Corp.’s Streets",
+            "place": "T Corp.’un Sokakları",
             "model": "T사갱단1",
-            "teller": "Urgent T Corp. Gangster",
+            "teller": "İvedi T Corp. Haydutu",
             "title": "T Corp.",
-            "content": "Away, ya gits. This one’s ours!"
+            "content": "Siktirin gidin, göttenbacaklılar. Bu bizim!"
         },
         {
             "id": 1,
             "model": "T사갱단1",
-            "teller": "Urgent T Corp. Gangster",
+            "teller": "İvedi T Corp. Haydutu",
             "title": "T Corp.",
-            "content": "Looks like you lot are running low on time as well… tough luck! We’ve only got thirty minutes ourselves!"
+            "content": "Görünüşe göre sizin de zamanınız daralıyor… kötü talih! Bizde de sadece otuz dakika var!"
         },
         {
             "id": 2,
             "model": "T사갱단2",
             "teller": "Scared T Corp. Gangster",
             "title": "T Corp.",
-            "content": "Oi, maybe they’re one of the Dead Rabbits or somethin’."
+            "content": "Oi, belki onlar Geberik Tavşanlar'dan falandır."
         },
         {
             "id": 3,
             "model": "그레고르",
-            "content": "Thirty minutes? Thirty minutes for what?"
+            "content": "Otuz dakika? Neye otuz dakika?"
         },
         {
             "id": 4,
             "model": "T사갱단1",
-            "teller": "Urgent T Corp. Gangster",
+            "teller": "İvedi T Corp. Haydutu",
             "title": "T Corp.",
-            "content": "Ain’t possible. The old Dead Rabbits and their vigilante ways are no more… All they do nowadays is starin’ at ya funny from behind those odd masks."
+            "content": "Olamaz. Eski Geberik Tavşanlar ve onların kanun adamı halleri artık yok... Şimdi sadece o garip maskelerin arkasından tuhaf tuhaf bakıyorlar insana."
         },
         {
             "id": 5,
             "model": "히스클리프",
-            "content": "Masks? What? What are you—"
+            "content": "Maskeler? Ne? Ne boş yapıyonuz amına—"
         },
         {
             "id": 6,
             "model": "T사갱단2",
-            "teller": "Scared T Corp. Gangster",
+            "teller": "Korkmuş T Corp. Haydutu",
             "title": "T Corp.",
-            "content": "Bollocks, we don’t got time for this… let’s kill 'em quick!"
+            "content": "Hassiktir, bunun için vaktimiz yok… Hadi çabukça halledelim onları!"
         },
         {
             "id": 7,
-            "content": "They began rushing at us with bloodshot eyes, not giving Heathcliff time to even finish his sentence."
+            "content": "Heathcliff’in cümlesini bitirmesine bile izin vermeden kızarmış gözlerle üzerimize koşmaya başladılar."
         }
     ]
 }
