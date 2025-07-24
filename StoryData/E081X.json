@@ -6,53 +6,53 @@
       "model": "그레고르",
       "content": "Öfff,bu biraz... bu biraz sıkınıtlı..."
     },
-    {{
-  "id": 1,
-  "model": "싱클레어",
-  "content": "Onun uçan kılıçları... çok... savuşturması zor. Çok uzun menzilli ve o kadar ince ki nereden geldiğini neredeyse göremiyor— aah!"
-},
-{
-  "id": 2,
-  "content": "Sinclair'in sözlerini kanıtlarcasına, mavi Anormallik bir voli daha kılıç fırlattı yönümüze."
-},
-{
-  "id": 3,
-  "content": "Tam savunmaya geçiyorduk ki..."
-},
-{
-  "id": 4,
-  "teller": "???",
-  "title": "???",
-  "content": "Hiyah!"
-},
-{
-  "id": 5,
-  "content": "... pembe ışık huzmeleri Sinclair'in önünde toplandı, bir şekil oluşturdu... ardından biri sahneye dalıp uçan kılıçları savuşturdu."
-},
-{
-  "id": 6,
-  "model": "티페리트",
-  "title": "Merkezi Komuta Sephirah'ı",
-  "content": "Haah... yine mi o? İkinci Uyarı verilir vermez hemen olaya atlıyor..."
-},
-{
-  "id": 7,
-  "model": "싱클레어",
-  "content": "Ha...? Yoksa sen...?"
-},
-{
-  "id": 8,
-  "model": "마법소녀",
-  "teller": "???",
-  "title": "???",
-  "content": "Geç kaldığım için üzgünüm."
-},
-{
-  "id": 9,
-  "model": "마법소녀",
-  "teller": "Sihirli Kız?",
-  "title": "???",
-  "content": "İşte geliyor~ Sihirli Kız!"
-}
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Onun uçan kılıçları... çok... savuşturması zor. Çok uzun menzilli ve o kadar ince ki nereden geldiğini neredeyse göremiyor— aah!"
+    },
+    {
+      "id": 2,
+      "content": "Sinclair'in sözlerini kanıtlarcasına, mavi Anormallik bir voli daha kılıç fırlattı yönümüze."
+    },
+    {
+      "id": 3,
+      "content": "Tam savunmaya geçiyorduk ki..."
+    },
+    {
+      "id": 4,
+      "teller": "???",
+      "title": "???",
+      "content": "Hiyah!"
+    },
+    {
+      "id": 5,
+      "content": "... pembe ışık huzmeleri Sinclair'in önünde toplandı, bir şekil oluşturdu... ardından biri sahneye dalıp uçan kılıçları savuşturdu."
+    },
+    {
+      "id": 6,
+      "model": "티페리트",
+      "title": "Merkezi Komuta Sephirah'ı",
+      "content": "Haah... yine mi o? İkinci Uyarı verilir vermez hemen olaya atlıyor..."
+    },
+    {
+      "id": 7,
+      "model": "싱클레어",
+      "content": "Ha...? Yoksa sen...?"
+    },
+    {
+      "id": 8,
+      "model": "마법소녀",
+      "teller": "???",
+      "title": "???",
+      "content": "Geç kaldığım için üzgünüm."
+    },
+    {
+      "id": 9,
+      "model": "마법소녀",
+      "teller": "Sihirli Kız?",
+      "title": "???",
+      "content": "İşte geliyor~ Sihirli Kız!"
+    }
   ]
 }
