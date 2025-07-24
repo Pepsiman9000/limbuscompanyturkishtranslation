@@ -74,7 +74,7 @@
     {
       "id": 19003,
       "name": "Küller küllere+",
-      "desc": "Çatışma Başlangıcı: <style=\"upgradeHighlight\">[Combustion] Veya Her 'Özgün Yanma' bulunduran rakibe 2 [Combustion] Miktarı uygula (veya her Anomali Uzuvuna)</style>.",
+      "desc": "Çatışma Başlangıcı: <style=\"upgradeHighlight\">[Combustion] Veya Her 'Özgün Yanma' bulunduran düşmana 2 [Combustion] Miktarı uygula (veya her Anomali Uzuvuna)</style>.",
       "simpleDesc": [
         {
           "abilityID": 19003,
@@ -85,7 +85,7 @@
     {
       "id": 29003,
       "name": "Küller küllere++",
-      "desc": "Çatışma Başlangıcı: <style=\"upgradeHighlight\">Her rakibe 3 [Combustion] Şiddeti uygula (veya her Anomali uzuvuna)</style>.",
+      "desc": "Çatışma Başlangıcı: <style=\"upgradeHighlight\">Her düşmana 3 [Combustion] Şiddeti uygula (veya her Anomali uzuvuna)</style>.",
       "simpleDesc": [
         {
           "abilityID": 29003,
@@ -96,7 +96,7 @@
     {
       "id": 9004,
       "name": "Kan Alım Kiti",
-      "desc": "Bir rakibe yetenek ile vurulduğuna, karakterin eksik HP'nın %12.5'ini yenile. (Her karakter için tur başına bir kez)\n\nEğer Yeteneğin türü Öfke ise, %25 Eksik HP yenile",
+      "desc": "Bir düşmana yetenek ile vurulduğuna, karakterin eksik HP'nın %12.5'ini yenile. (Her karakter için tur başına bir kez)\n\nEğer Yeteneğin türü Öfke ise, %25 Eksik HP yenile",
       "simpleDesc": [
         {
           "abilityID": 9004,
@@ -111,7 +111,7 @@
     {
       "id": 9005,
       "name": "Yara Clerid'i",
-      "desc": "Bir rakibe [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan bir Yetenek ile vuruşta, 4 [Laceration] Şiddeti uygula.",
+      "desc": "Bir düşmana [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan bir Yetenek ile vuruşta, 4 [Laceration] Şiddeti uygula.",
       "simpleDesc": [
         {
           "abilityID": 9005,
@@ -122,7 +122,7 @@
     {
       "id": 19005,
       "name": "Yara Clerid'i+",
-      "desc": "Eğer <style=\"upgradeHighlight\">rakibe [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan, yada Öfke Türü bir Yetenek ile vurulur ise</style>,<style=\"upgradeHighlight\">5 [Laceration] Şiddeti uygula</style>.",
+      "desc": "Eğer <style=\"upgradeHighlight\">düşmana [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan, yada Öfke Türü bir Yetenek ile vurulur ise</style>,<style=\"upgradeHighlight\">5 [Laceration] Şiddeti uygula</style>.",
       "simpleDesc": [
         {
           "abilityID": 19005,
@@ -133,7 +133,7 @@
     {
       "id": 29005,
       "name": "Yara Clerid'i++",
-      "desc": "Eğer rakibe [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan, yada Öfke Türü bir Yetenek ile vurulur ise, <style=\"upgradeHighlight\">5 [Laceration] Şiddeti ve +1 [Laceration] Miktarı uygula</style>.",
+      "desc": "Eğer düşmana [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan, yada Öfke Türü bir Yetenek ile vurulur ise, <style=\"upgradeHighlight\">5 [Laceration] Şiddeti ve +1 [Laceration] Miktarı uygula</style>.",
       "simpleDesc": [
         {
           "abilityID": 29005,
@@ -143,46 +143,46 @@
     },
     {
       "id": 9006,
-      "name": "Coffee and Cranes",
-      "desc": "Turn Start: Gain +1 E.G.O resource of a random Affinity that does not correspond to any Attack Skill Affinity used last turn.\n\nIf a Lust Affinity Attack Skill was used last turn: Gain 1 of every Affinity E.G.O resource that does not correspond to any Attack Skill Affinity used last turn instead.",
+      "name": "Kahve ve Turna",
+      "desc": "Tur Başında: Önce ki tur kullanılmayan Saldırı Yetenek Türlerinden rastgele bir tanesine + 1 E.G.O Kaynağı kazan. \n\nEğer önce ki tur Şehvet türü Yetenek Saldırısı kullanıldı ise: Önce ki tur kullanılmayan Saldırı Yetenek Türlerine +1 E.G.O Kaynağı kazan.",
       "simpleDesc": [
         {
           "abilityID": 9006,
-          "simpleDesc": "+1 E.G.O resource of a random Affinity not used in the previous turn"
+          "simpleDesc": "Önce ki tur kullanılmayan rastgele bir Türe +1 E.G.O Kaynağı"
         },
         {
           "abilityID": 90061,
-          "simpleDesc": "+1 E.G.O resource to all Affinities not used in the previous turn"
+          "simpleDesc": "Önce ki tur kullanılmayan Türlere +1 E.G.O kaynağı"
         }
       ]
     },
     {
       "id": 9007,
-      "name": "Eclipse of Scarlet Moths",
-      "desc": "Turn Start: When dealing damage with an Attack Skill for the first time, deal half its damage as fixed damage to a random enemy.\n\nIf the Attack Skill's Affinity was Lust, deal said damage to two random enemies instead.",
+      "name": "Kızıl Güvelerin Tutulması",
+      "desc": "Tur Başında: Bir Saldırı Yeteneği ile ilk kez hasar verirken, hasarın yarısını sabit hasar olarak rastgele bir düşmana vur.\n\nEğer Saldırı Yeteneğinin Türü Şehvet ise bahsedilen hasarı iki rastgele rakibe vur.",
       "simpleDesc": [
         {
           "abilityID": 9007,
-          "simpleDesc": "The first Attack Skill to deal damage to an enemy deals fixed damage by half of the damage dealt"
+          "simpleDesc": "Düşmana hasar veren ilk Saldırı Yeteneği, verilen hasarın yarısı kadar sabit hasar verir."
         },
         {
           "abilityID": 90071,
-          "simpleDesc": "The first Attack Skill to deal damage to an enemy deals fixed damage by half of the damage dealt"
+          "simpleDesc": "Düşmana hasar veren ilk Saldırı Yeteneği, verilen hasarın yarısı kadar sabit hasar verir."
         }
       ]
     },
     {
       "id": 9008,
-      "name": "Grimy Iron Stake",
-      "desc": "When hitting an enemy using a single-Coin Skill, inflict 1 [Laceration] Potency. Inflict 2 [DefenseDown] until the end of the next turn.\nIf the target already has [Laceration] or 'Özgün Bleed', inflict 3 [Laceration] Potency instead.",
+      "name": "Kirli Demir Çivi",
+      "desc": "Herhangi bir düşmana Tek-Jeton Yeteneği ile vurur iken, 1 [Laceration] Miktarı uygula. sonra ki turun sonuna kadar 2 [DefenseDown] uygula.\nEğer hedefte zaten [Laceration] veya 'Özgün Kanama' varsa, onun yerine 3 [Laceration] Miktarı uygula.",
       "simpleDesc": [
         {
           "abilityID": 9008,
-          "simpleDesc": "Inflict 1 [Laceration] Potency. Inflict 2 [DefenseDown] until the end of the next turn"
+          "simpleDesc": " 1 [Laceration] Miktarı Uygula. Sonra ki turun sonuna kadar 2 [DefenseDown] uygula"
         },
         {
           "abilityID": 90081,
-          "simpleDesc": "Inflict 3 [Laceration] Potency"
+          "simpleDesc": " 3 [Laceration] Miktarı uygula"
         }
       ]
     },
