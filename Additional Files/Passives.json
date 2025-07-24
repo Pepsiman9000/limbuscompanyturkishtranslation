@@ -1605,13 +1605,13 @@
         },
         {
             "id": 1041001,
-            "name": "Örümcek Başı ve Kurukafa",
+            "name": "Örümcekbaş/Kemiksurat",
             "desc": "Bir Coin ile düşmanı vurduğunda ve [RedEyeFirst] kazandığında:\n- +([RedEyeFirst]/2)% daha fazla hasar ver\n- Eğer hedef [Laceration] durumundaysa, 1 [RedEyeFirst] kazan (her turda 3 kez)\n\nBir Coin ile düşmanı vurduğunda ve [PenanceFirst] kazandığında:\n- +([PenanceFirst]/2)% daha fazla hasar ver\n- 20+ SP'de, 1 [PenanceFirst] kazan (her turda 3 kez)",
             "summary": "Kırmızı Göz kazanan Coin'ler daha fazla hasar verir; hedefin Kanama durumu varsa, 1 Kırmızı Göz kazan\nPişmanlık kazanan Coin'ler daha fazla hasar verir; 20+ SP'de, 1 Pişmanlık kazan"
         },
         {
             "id": 1041011,
-            "name": "Örümcek Başı ve Kurukafa",
+            "name": "Örümcekbaş/Kemiksurat",
             "desc": "Bir Coin ile düşmanı vurduğunda ve [RedEyeFirst] kazandığında:\n- +([RedEyeFirst]/2)% daha fazla hasar ver\n<style=\"highlight\">- Eğer bu birimin Hızı, hedefinkinden 3 veya daha fazla hızlıysa, +([RedEyeFirst]/2)% daha fazla hasar ver</style>\n- Eğer hedef [Laceration] durumundaysa, 1 [RedEyeFirst] kazan (her turda 3 kez)\n\nBir Coin ile düşmanı vurduğunda ve [PenanceFirst] kazandığında:\n- +([PenanceFirst]/2)% daha fazla hasar ver\n<style=\"highlight\">- Eğer hedefin SP'si, bu birimin SP'sinden düşükse, +([PenanceFirst]/2)% daha fazla hasar ver (SP'siz hedefler: SP'leri 0 kabul edilir)</style>\n- 20+ SP'de, 1 [PenanceFirst] kazan (her turda 3 kez)\n\n<style=\"highlight\">Bir düşman tarafından vurulduğunda, 1 [PenanceFirst] kazan (maksimum 3)</style>",
             "summary": "Kırmızı Göz kazanan Coin'ler daha fazla hasar verir; hedefin Kanama durumu varsa, 1 Kırmızı Göz kazan\nPişmanlık kazanan Coin'ler daha fazla hasar verir; 20+ SP'de, 1 Pişmanlık kazan\nBir düşman tarafından vurulduğunda, 1 Pişmanlık kazan (maksimum 3)"
         },
@@ -2140,7 +2140,7 @@
           "desc": "When killing the target with this unit's Attack Skills, gain [Breath] equal to [Burst] on target (3 per 1 enemy; once per turn)\n- If this unit gained 3 [Breath] with the above effect, gain [Breath] Count equal to [Burst] Count on target (2 per 1 enemy; once per turn)\n\nIn a Clash, if this unit's Offense Level is higher than the target's, Çarpışma Gücü +1\n\nIn a Clash, if this unit's Offense Level is higher than the target's, inflict +1 more [Burst] Potency or [Burst] Count with this unit's Base Attack Skills (2 times per turn)",
           "summary": "In a Clash, if this unit's Offense Level is higher than the target's, Çarpışma Gücü +1\nInflict +1 more [Burst] Potency and [Burst] Count with this unit's Base Attack Skills"
         },
-{
+    {
       "id": 1081202,
       "name": "Başlatma Manevrası [始動]",
       "desc": "Çekilme Durumunda: Müttefiklere bir sonraki turda 1 Saldırı Seviyesi Yükseltme uygula (Konuşlandırma sırasına göre)\n- Etkilenen müttefik sayısı = [StartXichun] Stack miktarı\n- Etkilenen müttefik \"Jia Ailesi\" üyesiyse, bir sonraki turda 2 Saldırı Seviyesi Yükseltme uygula\n- Bir sonraki turda Dönen veya Yer Değiştiren müttefikleri etkilemez\n\nBu birim sahneye Yer Değiştirme veya Dönüş yaptığı turda [WaitingXichun] kazanır; ardından Savaş Başlangıcında, Yetenek sırasındaki ilk Yetenek olarak rastgele bir hedefe 'Kızıl Darbe - Fırlatıcı【始】' kullanır.",
