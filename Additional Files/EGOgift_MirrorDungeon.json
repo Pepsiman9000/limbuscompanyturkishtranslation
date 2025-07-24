@@ -63,7 +63,7 @@
     {2
       "id": 9003,
       "name": "Küller küllere",
-      "desc": "Çatışma Başlangıcı: Eğer tüm düşmanlar (veya tüm Anormallik Uzuvları) [Combustion] veya 'Özgün Burn' etkisine sahipse, tüm düşmanlara (veya tüm Anormallik Uzuvlarına) [Combustion] 2 Şiddeti uygula.",
+      "desc": "Çatışma Başlangıcı: Eğer tüm düşmanlar (veya tüm Anormallik Uzuvları) [Combustion] veya 'Özgün Yanma' etkisine sahipse, tüm düşmanlara (veya tüm Anormallik Uzuvlarına) [Combustion] 2 Şiddeti uygula.",
       "simpleDesc": [
         {
           "abilityID": 9003,
@@ -74,7 +74,7 @@
     {
       "id": 19003,
       "name": "Küller küllere+",
-      "desc": "Combat Start: <style=\"upgradeHighlight\">inflict 2 [Combustion] Potency on all enemies (or all Abnormality parts) with [Combustion] or 'Özgün Burn'</style>.",
+      "desc": "Çatışma Başlangıcı: <style=\"upgradeHighlight\">[Combustion] Veya Her 'Özgün Yanma' bulunduran rakibe 2 [Combustion] Miktarı uygula (veya her Anomali Uzuvuna)</style>.",
       "simpleDesc": [
         {
           "abilityID": 19003,
@@ -85,7 +85,7 @@
     {
       "id": 29003,
       "name": "Küller küllere++",
-      "desc": "Combat Start: <style=\"upgradeHighlight\">inflict 3 [Combustion] Potency on all enemies (or all Abnormality parts)</style>.",
+      "desc": "Çatışma Başlangıcı: <style=\"upgradeHighlight\">Her rakibe 3 [Combustion] Şiddeti uygula (veya her Anomali uzuvuna)</style>.",
       "simpleDesc": [
         {
           "abilityID": 29003,
@@ -95,49 +95,49 @@
     },
     {
       "id": 9004,
-      "name": "Phlebotomy Pack",
-      "desc": "When hitting an enemy with a Skill, heal 12.5% of the character’s missing HP. (Once per character per turn.)\n\nIf the Skill’s Affinity was Wrath, heal 25% of missing HP instead.",
+      "name": "Kan Alım Kiti",
+      "desc": "Bir rakibe yetenek ile vurulduğuna, karakterin eksik HP'nın %12.5'ini yenile. (Her karakter için tur başına bir kez)\n\nEğer Yeteneğin türü Öfke ise, %25 Eksik HP yenile",
       "simpleDesc": [
         {
           "abilityID": 9004,
-          "simpleDesc": "Heal 12.5% of missing HP"
+          "simpleDesc": "Eksik HP'nın %12.5'ini yenile"
         },
         {
           "abilityID": 90041,
-          "simpleDesc": "Heal 25% of missing HP"
+          "simpleDesc": "Eksik HP'nın %25'ini yenile"
         }
       ]
     },
     {
       "id": 9005,
-      "name": "Wound Clerid",
-      "desc": "When hitting an enemy with a Skill that inflicts [Laceration] Potency or 'Özgün Bleed', inflict 4 [Laceration] Potency.",
+      "name": "Yara Clerid'i",
+      "desc": "Bir rakibe [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan bir Yetenek ile vuruşta, 4 [Laceration] Şiddeti uygula.",
       "simpleDesc": [
         {
           "abilityID": 9005,
-          "simpleDesc": "Inflict 4 [Laceration] Potency"
+          "simpleDesc": "4 [Laceration] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 19005,
-      "name": "Wound Clerid+",
-      "desc": "When <style=\"upgradeHighlight\">hitting an enemy with a Skill that inflicts [Laceration] Potency or 'Özgün Bleed', or with a Wrath Affinity Skill</style>, <style=\"upgradeHighlight\">inflict 5 [Laceration] Potency</style>.",
+      "name": "Yara Clerid'i+",
+      "desc": "Eğer <style=\"upgradeHighlight\">rakibe [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan, yada Öfke Türü bir Yetenek ile vurulur ise</style>,<style=\"upgradeHighlight\">5 [Laceration] Şiddeti uygula</style>.",
       "simpleDesc": [
         {
           "abilityID": 19005,
-          "simpleDesc": "Inflict 5 [Laceration] Potency"
+          "simpleDesc": "5 [Laceration] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 29005,
-      "name": "Wound Clerid++",
-      "desc": "When hitting an enemy with a Skill that inflicts [Laceration] Potency or 'Özgün Bleed', or with a Wrath Affinity Skill, <style=\"upgradeHighlight\">inflict 5 [Laceration] Potency and +1 [Laceration] Count</style>.",
+      "name": "Yara Clerid'i++",
+      "desc": "Eğer rakibe [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan, yada Öfke Türü bir Yetenek ile vurulur ise, <style=\"upgradeHighlight\">5 [Laceration] Şiddeti ve +1 [Laceration] Miktarı uygula</style>.",
       "simpleDesc": [
         {
           "abilityID": 29005,
-          "simpleDesc": "Inflict 5 [Laceration] Potency and +1 [Laceration] Count"
+          "simpleDesc": "5 [Laceration] Şiddeti ve +1 [Laceration] Miktarı uygula"
         }
       ]
     },
