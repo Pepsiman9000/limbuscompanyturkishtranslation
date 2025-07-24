@@ -2,24 +2,24 @@
     "dataList": [
         {
             "id": 0,
-            "place": "T Corp.’un Sokakları",
+            "place": "T Kuruluşu’un Sokakları",
             "model": "T사갱단1",
-            "teller": "İvedi T Corp. Haydutu",
-            "title": "T Corp.",
+            "teller": "İvedi T Kuruluşu Haydutu",
+            "title": "T Kuruluşu",
             "content": "Siktirin gidin, göttenbacaklılar. Bu bizim!"
         },
         {
             "id": 1,
             "model": "T사갱단1",
-            "teller": "İvedi T Corp. Haydutu",
-            "title": "T Corp.",
+            "teller": "İvedi T Kuruluşu Haydutu",
+            "title": "T Kuruluşu",
             "content": "Görünüşe göre sizin de zamanınız daralıyor… kötü talih! Bizde de sadece otuz dakika var!"
         },
         {
             "id": 2,
             "model": "T사갱단2",
-            "teller": "Scared T Corp. Gangster",
-            "title": "T Corp.",
+            "teller": "Korkmuş T Kuruluşu Haydutu",
+            "title": "T Kuruluşu",
             "content": "Oi, belki onlar Geberik Tavşanlar'dan falandır."
         },
         {
@@ -30,8 +30,8 @@
         {
             "id": 4,
             "model": "T사갱단1",
-            "teller": "İvedi T Corp. Haydutu",
-            "title": "T Corp.",
+            "teller": "İvedi T Kuruluşu Haydutu",
+            "title": "T Kuruluşu",
             "content": "Olamaz. Eski Geberik Tavşanlar ve onların kanun adamı halleri artık yok... Şimdi sadece o garip maskelerin arkasından tuhaf tuhaf bakıyorlar insana."
         },
         {
@@ -42,8 +42,8 @@
         {
             "id": 6,
             "model": "T사갱단2",
-            "teller": "Korkmuş T Corp. Haydutu",
-            "title": "T Corp.",
+            "teller": "Korkmuş T Kuruluşu Haydutu",
+            "title": "T Kuruluşu",
             "content": "Hassiktir, bunun için vaktimiz yok… Hadi çabukça halledelim onları!"
         },
         {
