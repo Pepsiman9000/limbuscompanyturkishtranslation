@@ -84,7 +84,7 @@
     },
     {
       "id": 800903,
-      "name": "Rotting Apple",
+      "name": "Çürüyen Elma",
       "desc": "Vücüt yok edildiğinde, bütün parçalara 2 [Reduction] uygula."
     },
     {
@@ -94,18 +94,18 @@
     },
     {
       "id": 801001,
-      "name": "Upgrade Factory at Work",
-      "desc": "When this unit is defeated, it revives the next turn and gains 1 Surgery."
+      "name": "İşte Fabrikayı Yükselt",
+      "desc": "Bu birim öldüğünde, sonraki tur yeniden canlanır ve 1 [Operation] kazan."
     },
     {
       "id": 801002,
-      "name": "You Must Become Strong",
-      "desc": "At the start of the turn, gain 1 Protection."
+      "name": "Güçlü Olmalısın",
+      "desc": "Turun başlangıcında, 1 [Protection] kazan."
     },
     {
       "id": 801201,
       "name": "You Must Become Strong",
-      "desc": "At the start of the turn, gain 2 Protection."
+      "desc": "Turun başlangıcında, 2 [Protection] kazan."
     },
     {
       "id": 801301,
