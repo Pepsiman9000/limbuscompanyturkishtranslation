@@ -971,20 +971,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Got a Screw Loose?",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count",
+          "name": "Vidan mı Gevşek?",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Vibration] Count equal to (([Vibration] Count on target)/2) (max 2)"
+                  "desc": "[OnSucceedAttack] (Hedefteki [Vibration] Miktarı / 2)'ye eşit [Vibration] Miktarı kazan (maks 2)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -992,20 +992,20 @@
         },
         {
           "level": 2,
-          "name": "Got a Screw Loose?",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] At 5+ [Vibration] Count, Clash Power +2</style>",
+          "name": "Vidan mı Gevşek?",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan\n<style=\"highlight\">[WhenUse] 5+ [Vibration] Miktarı olduğunda, Çarpışma Gücü +2</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Vibration] Count equal to (([Vibration] Count on target)/2) (max <style=\"highlight\">3</style>)"
+                  "desc": "[OnSucceedAttack] (Hedefteki [Vibration] Miktarı / 2)'ye eşit [Vibration] Miktarı kazan (maks <style=\"highlight\">3</style>)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -1013,20 +1013,20 @@
         },
         {
           "level": 4,
-          "name": "Got a Screw Loose?",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n[WhenUse] At <style=\"highlight\">4</style>+ [Vibration] Count, Clash Power +2",
+          "name": "Vidan mı Gevşek?",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan\n[WhenUse] <style=\"highlight\">4</style>+ [Vibration] Miktarı olduğunda, Çarpışma Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Vibration] Count equal to ([Vibration] Count on target) (max <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] Hedefteki [Vibration] Miktarına eşit [Vibration] Miktarı kazan (maks <style=\"highlight\">4</style>)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +<style=\"highlight\">2</style> [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -1039,21 +1039,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Compression Wind-up Spanner",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count",
+          "name": "Sıkıştırmalı Kurma Anahtarı",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Vibration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume [Vibration] Count on self, and inflict the same amount of [Vibration] Count on target (max 5)"
+                  "desc": "[OnSucceedAttack] Kendindeki [Vibration] Miktarını kullan ve hedefe aynı miktarda [Vibration] Miktarı uygula (maks 5)"
                 }
               ]
             }
@@ -1061,21 +1061,21 @@
         },
         {
           "level": 2,
-          "name": "Compression Wind-up Spanner",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">At 5+ [Vibration] Count, Coin Power +1</style>",
+          "name": "Sıkıştırmalı Kurma Anahtarı",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan\n<style=\"highlight\">5+ [Vibration] Miktarı olduğunda, Jeton Gücü +1</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Vibration] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume [Vibration] Count on self, and inflict the same amount of [Vibration] Count on target (max 5)"
+                  "desc": "[OnSucceedAttack] Kendindeki [Vibration] Miktarını kullan ve hedefe aynı miktarda [Vibration] Miktarı uygula (maks 5)"
                 }
               ]
             }
@@ -1083,21 +1083,21 @@
         },
         {
           "level": 4,
-          "name": "Compression Wind-up Spanner",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] At 4+ [Vibration] Count, Clash Power +1</style>\nAt <style=\"highlight\">4</style>+ [Vibration] Count, Coin Power +1",
+          "name": "Sıkıştırmalı Kurma Anahtarı",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan\n<style=\"highlight\">[WhenUse] 4+ [Vibration] Miktarı olduğunda, Çarpışma Gücü +1</style>\n<style=\"highlight\">4</style>+ [Vibration] Miktarı olduğunda, Jeton Gücü +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume [Vibration] Count on self, and inflict the same amount of [Vibration] Count on target (max 5)"
+                  "desc": "[OnSucceedAttack] Kendindeki [Vibration] Miktarını kullan ve hedefe aynı miktarda [Vibration] Miktarı uygula (maks 5)"
                 }
               ]
             }
@@ -1110,27 +1110,27 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Percussive Maintenance",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\nConsume 10 [Vibration] Count on self to gain Coin Power +1",
+          "name": "Darbeli Onarım",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan\nJeton Gücü +1 kazanmak için kendinden 10 [Vibration] Miktarı kullan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle; ardından, hedefin [Vibration] Miktarını 2 azalt"
                 }
               ]
             }
@@ -1138,27 +1138,27 @@
         },
         {
           "level": 4,
-          "name": "Percussive Maintenance",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\nConsume <style=\"highlight\">8</style> [Vibration] Count on self to gain Coin Power +1\n<style=\"highlight\">If target has 6+ [Vibration], Coin Power +1</style>",
+          "name": "Darbeli Onarım",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan\nJeton Gücü +1 kazanmak için kendinden <style=\"highlight\">8</style> [Vibration] Miktarı kullan\n<style=\"highlight\">Eğer hedefin 6+ [Vibration]'ı varsa, Jeton Gücü +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by <style=\"highlight\">1</style>"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] tetikle; ardından, hedefin [Vibration] Miktarını <style=\"highlight\">1</style> azalt"
                 }
               ]
             }
@@ -1171,16 +1171,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
-          "desc": "[WhenUse] Gain 2 x ([Vibration] Count on self) as Shield HP (max 5)",
+          "name": "Korunma",
+          "desc": "[WhenUse] Kendindeki ([Vibration] Miktarı) x 2 kadar Kalkan HP'si kazan (maks 5)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Guard",
-          "desc": "[WhenUse] Gain 2 x ([Vibration] Count on self) as Shield HP (max <style=\"highlight\">10</style>)",
+          "name": "Korunma",
+          "desc": "[WhenUse] Kendindeki ([Vibration] Miktarı) x 2 kadar Kalkan HP'si kazan (maks <style=\"highlight\">10</style>)",
           "coinlist": [
             {}
           ]
