@@ -5,15 +5,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Illuminate Thy Vacuity",
-          "desc": "Gain (Insight x 3% of Max HP) Shield if this Skill is Discarded",
+          "name": "Boşluğunu Aydınlat",
+          "desc": "Eğer bu Yetenek [Discard]ılırsa, (İçgörü x Maks HP'nin %3'ü) kadar Kalkan kazan",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold by 5"
+                  "desc": "[OnSucceedAttack] Kullanıcının Sersemleme Eşiğini 5 azalt"
                 }
               ]
             }
@@ -21,15 +21,15 @@
         },
         {
           "level": 2,
-          "name": "Illuminate Thy Vacuity",
-          "desc": "Gain (Insight x 4% of Max HP) Shield if this Skill is Discarded\n[WhenUse] If Insight is 2 or higher, gain Coin Power by (Insight -1)",
+          "name": "Boşluğunu Aydınlat",
+          "desc": "Eğer bu Yetenek [Discard]ılırsa, (İçgörü x Maks HP'nin %4'ü) kadar Kalkan kazan\n[WhenUse] Eğer İçgörü 2 veya daha fazla ise, (İçgörü -1) kadar Jeton Gücü kazan",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold by 8"
+                  "desc": "[OnSucceedAttack] Kullanıcının Sersemleme Eşiğini 8 azalt"
                 }
               ]
             }
@@ -37,15 +37,15 @@
         },
         {
           "level": 4,
-          "name": "Illuminate Thy Vacuity",
-          "desc": "Gain (Insight x 5% of Max HP) Shield if this Skill is Discarded\n[WhenUse] If Insight is 2 or higher, gain Coin Power by (Insight -1)",
+          "name": "Boşluğunu Aydınlat",
+          "desc": "Eğer bu Yetenek [Discard]ılırsa, (İçgörü x Maks HP'nin %5'ü) kadar Kalkan kazan\n[WhenUse] Eğer İçgörü 2 veya daha fazla ise, (İçgörü -1) kadar Jeton Gücü kazan",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold by 10"
+                  "desc": "[OnSucceedAttack] Kullanıcının Sersemleme Eşiğini 10 azalt"
                 }
               ]
             }
@@ -58,8 +58,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Weight of Knowledge",
-          "desc": "Gain (Insight x 5% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 2 Aggro next turn",
+          "name": "Bilginin Ağırlığı",
+          "desc": "Eğer bu Yetenek [Discard]ılırsa, (İçgörü x Maks HP'nin %5'ü) kadar Kalkan kazan\n[WhenUse] Bu birimin tüm Yetenek Yuvalarındaki en düşük seviyeli 1 Yeteneği [Discard]\n[WhenUse] Bu Yuva bir sonraki tur 2 [Aggro] kazanır",
           "coinlist": [
             {},
             {},
@@ -67,7 +67,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] 2 [Batış] uygula"
                 }
               ]
             }
@@ -75,8 +75,8 @@
         },
         {
           "level": 2,
-          "name": "Weight of Knowledge",
-          "desc": "Gain (Insight x 8% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 3 Aggro next turn",
+          "name": "Bilginin Ağırlığı",
+          "desc": "Eğer bu Yetenek [Discard]ılırsa, (İçgörü x Maks HP'nin %8'ü) kadar Kalkan kazan\n[WhenUse] Bu birimin tüm Yetenek Yuvalarındaki en düşük seviyeli 1 Yeteneği [Discard]\n[WhenUse] Bu Yuva bir sonraki tur 3 [Aggro] kazanır",
           "coinlist": [
             {},
             {},
@@ -84,7 +84,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] 3 [Batış] uygula"
                 }
               ]
             }
@@ -92,8 +92,8 @@
         },
         {
           "level": 4,
-          "name": "Weight of Knowledge",
-          "desc": "Gain (Insight x 10% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn\n[WhenUse] If target has 5+ [Sinking], gain Clash Power +2",
+          "name": "Bilginin Ağırlığı",
+          "desc": "Eğer bu Yetenek [Discard]ılırsa, (İçgörü x Maks HP'nin %10'u) kadar Kalkan kazan\n[WhenUse] Bu birimin tüm Yetenek Yuvalarındaki en düşük seviyeli 1 Yeteneği [Discard]\n[WhenUse] Bu Yuva bir sonraki tur 5 [Aggro] kazanır\n[WhenUse] Eğer hedefte 5+ [Batış] varsa, Çarpışma Gücü +2 kazan",
           "coinlist": [
             {},
             {},
@@ -101,7 +101,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] 5 [Batış] uygula"
                 }
               ]
             }
@@ -114,13 +114,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Excruciating Study",
-          "desc": "Gain (Insight x 15% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 2 Skills of the lowest ranks in all of this unit's Skill Slots\n[WhenUse] This Slot gains 3 Aggro next turn",
+          "name": "Acılı Çalışma",
+          "desc": "Eğer bu Yetenek [Discard]ılırsa, (İçgörü x Maks HP'nin %15'i) kadar Kalkan kazan\n[WhenUse] Bu birimin tüm Yetenek Yuvalarındaki en düşük seviyeli 2 Yeteneği [Discard]\n[WhenUse] Bu Yuva bir sonraki tur 3 [Aggro] kazanır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +4 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] +4 [Batış] Miktarı uygula"
                 }
               ]
             },
@@ -129,7 +129,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] +2 [Batış] Miktarı uygula"
                 }
               ]
             }
@@ -137,13 +137,13 @@
         },
         {
           "level": 4,
-          "name": "Excruciating Study",
-          "desc": "Gain (Insight x 20% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 2 Skills of the lowest ranks in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn\n[WhenUse] If target has 7+ [Sinking], gain Coin Power +1",
+          "name": "Acılı Çalışma",
+          "desc": "Eğer bu Yetenek [Discard]ılırsa, (İçgörü x Maks HP'nin %20'si) kadar Kalkan kazan\n[WhenUse] Bu birimin tüm Yetenek Yuvalarındaki en düşük seviyeli 2 Yeteneği [Discard]\n[WhenUse] Bu Yuva bir sonraki tur 5 [Aggro] kazanır\n[WhenUse] Eğer hedefte 7+ [Batış] varsa, Jeton Gücü +1 kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 Sinking Count"
+                  "desc": "[OnSucceedAttack] +4 [Batış] Miktarı uygula"
                 }
               ]
             },
@@ -152,7 +152,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] +2 [Batış] Miktarı uygula"
                 }
               ]
             }
@@ -165,16 +165,16 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Fixated Study",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 2 Aggro next turn",
+          "name": "Sabit Çalışma",
+          "desc": "[WhenUse] Bu birimin tüm Yetenek Yuvalarındaki en yüksek seviyeli 1 Yeteneği [Discard]\n[WhenUse] Bu Yuva bir sonraki tur 2 [Aggro] kazanır",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Fixated Study",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn",
+          "name": "Sabit Çalışma",
+          "desc": "[WhenUse] Bu birimin tüm Yetenek Yuvalarındaki en yüksek seviyeli 1 Yeteneği [Discard]\n[WhenUse] Bu Yuva bir sonraki tur 5 [Aggro] kazanır",
           "coinlist": [
             {}
           ]
@@ -186,20 +186,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flaming Fists",
+          "name": "Alevli Yumruklar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             }
@@ -207,20 +207,20 @@
         },
         {
           "level": 2,
-          "name": "Flaming Fists",
-          "desc": "If target has 3+ [Combustion], Coin Power +1",
+          "name": "Alevli Yumruklar",
+          "desc": "Eğer hedefte 3+ [Combustion] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             }
@@ -228,20 +228,20 @@
         },
         {
           "level": 4,
-          "name": "Flaming Fists",
-          "desc": "Coin Power +1 for every 3 [Combustion] on target (maks 2)",
+          "name": "Alevli Yumruklar",
+          "desc": "Hedefteki her 3 [Combustion] için Jeton Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             }
@@ -254,27 +254,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fiery Knifehand-Combust",
+          "name": "Alevli Bıçak El-Kavurma",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, apply 3 [Combustion] to 2 targets with no [Combustion] or with the least [Combustion] Count."
+                  "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Combustion] Miktarı varsa, [Combustion] olmayan veya en az [Combustion] Miktarına sahip 2 hedefe 3 [Combustion] uygula."
                 }
               ]
             }
@@ -282,30 +282,30 @@
         },
         {
           "level": 2,
-          "name": "Fiery Knifehand-Combust",
-          "desc": "If target has 6+ [Combustion], Coin Power +1",
+          "name": "Alevli Bıçak El-Kavurma",
+          "desc": "Eğer hedefte 6+ [Combustion] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Combustion] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, apply 3 [Combustion] to 2 targets with no [Combustion] or with the least [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Combustion] Miktarı varsa, [Combustion] olmayan veya en az [Combustion] Miktarına sahip 2 hedefe 3 [Combustion] uygula"
                 }
               ]
             }
@@ -313,30 +313,30 @@
         },
         {
           "level": 4,
-          "name": "Fiery Knifehand-Combust",
-          "desc": "Coin Power +1 for every 6 [Combustion] on target (maks 2)",
+          "name": "Alevli Bıçak El-Kavurma",
+          "desc": "Hedefteki her 6 [Combustion] için Jeton Gücü +1 (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Combustion] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, apply 3 [Combustion] to 2 targets with no [Combustion] or with the least [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Combustion] Miktarı varsa, [Combustion] olmayan veya en az [Combustion] Miktarına sahip 2 hedefe 3 [Combustion] uygula"
                 }
               ]
             }
@@ -349,34 +349,34 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Pinpoint Blitz",
-          "desc": "If target has 6+ [Combustion] and [Combustion] Count, Deal +30% more Damage",
+          "name": "Nokta Atışı Yıkım",
+          "desc": "Eğer hedefte 6+ [Combustion] ve [Combustion] Miktarı varsa, %30 daha fazla Hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Wrath Affinity damage equal to half of [Combustion] Potency on target. (maks 20) Reduce Target's [Combustion] Count by 2"
+                  "desc": "[OnSucceedAttack] Hedefteki [Combustion] Şiddetinin yarısı kadar Öfke Uyumlu hasar ver. (maks 20) Hedefin [Combustion] Miktarını 2 azalt"
                 }
               ]
             }
@@ -384,34 +384,34 @@
         },
         {
           "level": 4,
-          "name": "Pinpoint Blitz",
-          "desc": "<style=\"highlight\">If target has 6+ [Combustion], Coin Power +1</style>\nIf target has 6+ [Combustion] and [Combustion] Count, deal +30% more Damage",
+          "name": "Nokta Atışı Yıkım",
+          "desc": "<style=\"highlight\">Eğer hedefte 6+ [Combustion] varsa, Jeton Gücü +1</style>\nEğer hedefte 6+ [Combustion] ve [Combustion] Miktarı varsa, %30 daha fazla Hasar ver",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] 2 [Combustion] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potency on target. (maks 30) Reduce Target's [Combustion] Count by 2"
+                  "desc": "[OnSucceedAttack] Hedefteki [Combustion] Şiddeti kadar Öfke Uyumlu hasar ver. (maks 30) Hedefin [Combustion] Miktarını 2 azalt"
                 }
               ]
             }
@@ -424,13 +424,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Karşı Saldırı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             }
@@ -438,13 +438,13 @@
         },
         {
           "level": 4,
-          "name": "Counter",
+          "name": "Karşı Saldırı",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                 }
               ]
             }
@@ -457,23 +457,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prepare To Collect",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count",
+          "name": "Tahsilata Hazırlık",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı kazan"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict +1 [Vibration] Count"
+                  "desc": "[WinDuelAttack] +1 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -481,23 +481,23 @@
         },
         {
           "level": 2,
-          "name": "Prepare To Collect",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] If target has 6+ [Vibration], Clash Power +1</style>",
+          "name": "Tahsilata Hazırlık",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan\n<style=\"highlight\">[WhenUse] Eğer hedefte 6+ [Vibration] varsa, Çarpışma Gücü +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı kazan"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] +1 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -505,23 +505,23 @@
         },
         {
           "level": 4,
-          "name": "Prepare To Collect",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n[WhenUse] <style=\"highlight\">Clash Power +1 for every 6 [Vibration] on target (maks 2)</style>",
+          "name": "Tahsilata Hazırlık",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan\n[WhenUse] <style=\"highlight\">Hedefteki her 6 [Vibration] için Çarpışma Gücü +1 (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +1 [Vibration] Miktarı kazan"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] +1 [Vibration] Miktarı uygula"
                 }
               ]
             }
@@ -534,13 +534,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "T Corp. Martial Suppression",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count",
+          "name": "T Kurul. Savaş Bastırması",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı kazan"
                 }
               ]
             },
@@ -549,16 +549,16 @@
         },
         {
           "level": 2,
-          "name": "T Corp. Martial Suppression",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] If target has 6+ [Vibration], Clash Power +1</style>",
+          "name": "T Kurul. Savaş Bastırması",
+          "desc": "[WhenUse] +2 [Vibration] Miktarı kazan\n<style=\"highlight\">[WhenUse] Eğer hedefte 6+ [Vibration] varsa, Çarpışma Gücü +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı kazan"
                 },
                 {
-                  "desc": "<style=\"highlight\">[WinDuelAttack] Inflict +2 [Vibration] Count</style>"
+                  "desc": "<style=\"highlight\">[WinDuelAttack] +2 [Vibration] Miktarı uygula</style>"
                 }
               ]
             },
@@ -567,26 +567,26 @@
         },
         {
           "level": 4,
-          "name": "T Corp. Martial Suppression",
-          "desc": "<style=\"highlight\">Deal +5% more damage for every [Binding] on target (maks 15%)</style>\n[WhenUse] Gain +2 [Vibration] Count\n[WhenUse] <style=\"highlight\">Clash Power +1 for every 6 [Vibration] on target (maks 2)</style>",
+          "name": "T Kurul. Savaş Bastırması",
+          "desc": "<style=\"highlight\">Hedefteki her [Yavaşlama] için %5 daha fazla hasar ver (maks 15%)</style>\n[WhenUse] +2 [Vibration] Miktarı kazan\n[WhenUse] <style=\"highlight\">Hedefteki her 6 [Vibration] için Çarpışma Gücü +1 (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı kazan"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict +<style=\"highlight\">3</style> [Vibration] Count"
+                  "desc": "[WinDuelAttack] +<style=\"highlight\">3</style> [Vibration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Binding] next turn</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Bir sonraki tur 1 [Yavaşlama] uygula</style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If target has 6+ [Vibration], inflict 1 [Binding] next turn</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Eğer hedefte 6+ [Vibration] varsa, bir sonraki tur 1 [Yavaşlama] uygula</style>"
                 }
               ]
             }
@@ -599,37 +599,37 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Execute Collections",
-          "desc": "[WhenUse] If target has 8+ [Vibration], Clash Power +1\n[WhenUse] Consume 8 [Vibration] Count on self to gain Coin Power +1",
+          "name": "Tahsilat İcra Et",
+          "desc": "[WhenUse] Eğer hedefte 8+ [Vibration] varsa, Çarpışma Gücü +1\n[WhenUse] Kendindeki 8 [Vibration] Miktarını harcayarak Jeton Gücü +1 kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +2 [Vibration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Bir sonraki tur 1 [Yavaşlama] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit is in a [TimeRentalTwoPersonality] state, inflict 2 [TimeSuspend]"
+                  "desc": "[OnSucceedAttack] Eğer bu birim [TimeRentalTwoPersonality] durumundaysa, 2 [TimeSuspend] uygula"
                 }
               ]
             }
@@ -637,43 +637,43 @@
         },
         {
           "level": 4,
-          "name": "Execute Collections",
-          "desc": "<style=\"highlight\">Deal +5% more damage for every [Binding] on target (maks 20%)</style>\n[WhenUse] If target has 8+ [Vibration], Clash Power +<style=\"highlight\">2</style>\n[WhenUse] Consume 8 [Vibration] Count on self to gain Coin Power +1",
+          "name": "Tahsilat İcra Et",
+          "desc": "<style=\"highlight\">Hedefteki her [Yavaşlama] için %5 daha fazla hasar ver (maks 20%)</style>\n[WhenUse] Eğer hedefte 8+ [Vibration] varsa, Çarpışma Gücü +<style=\"highlight\">2</style>\n[WhenUse] Kendindeki 8 [Vibration] Miktarını harcayarak Jeton Gücü +1 kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">3</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] +<style=\"highlight\">3</style> [Vibration] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Vibration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Bir sonraki tur 1 [Yavaşlama] uygula"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this unit consumed [Vibration] Count with Skill use, inflict 2 [Binding] next turn</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Eğer bu Yetenek kullanımıyla [Vibration] Miktarı harcandıysa, bir sonraki tur 2 [Yavaşlama] uygula</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit is in a [TimeRentalTwoPersonality] state, inflict 2 [TimeSuspend]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Eğer bu birim [TimeRentalTwoPersonality] durumundaysa, 2 [TimeSuspend] uygula"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion] tetikle; ardından, hedefin [Vibration] Miktarını 1 azalt</style>"
                 }
               ]
             }
@@ -686,13 +686,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Borrow Time",
+          "name": "Zaman Borcu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, gain 3 [TimeRentalTwoPersonality] at Turn End (tur başına bir kere)\n[WhenUse] For this turn: when hit by an enemy, inflict 2 [Vibration] on target next turn (2 times per turn)"
+                  "desc": "[StartBattle] Eğer bu birim [TimeRentalTwoPersonality] durumunda değilse, Tur Sonunda 3 [TimeRentalTwoPersonality] kazan (tur başına bir kez)\n[WhenUse] Bu tur için: bir düşman tarafından vurulduğunda, bir sonraki tur hedefe 2 [Vibration] uygula (tur başına 2 kez)"
                 }
               ]
             }
@@ -700,13 +700,13 @@
         },
         {
           "level": 4,
-          "name": "Borrow Time",
+          "name": "Zaman Borcu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, gain 3 [TimeRentalTwoPersonality] at Turn End (tur başına bir kere)\n[WhenUse] For this turn: when hit by an enemy, inflict 2 [Vibration] on target next turn (<style=\"highlight\">6 times</style> per turn)"
+                  "desc": "[StartBattle] Eğer bu birim [TimeRentalTwoPersonality] durumunda değilse, Tur Sonunda 3 [TimeRentalTwoPersonality] kazan (tur başına bir kez)\n[WhenUse] Bu tur için: bir düşman tarafından vurulduğunda, bir sonraki tur hedefe 2 [Vibration] uygula (tur başına <style=\"highlight\">6 kez</style>)"
                 }
               ]
             }
