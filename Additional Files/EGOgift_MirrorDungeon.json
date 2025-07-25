@@ -148,11 +148,11 @@
       "simpleDesc": [
         {
           "abilityID": 9006,
-          "simpleDesc": "Önce ki tur kullanılmayan rastgele bir Türe +1 E.G.O Kaynağı"
+          "simpleDesc": "Önceki tur kullanılmayan rastgele bir Türe +1 E.G.O Kaynağı"
         },
         {
           "abilityID": 90061,
-          "simpleDesc": "Önce ki tur kullanılmayan Türlere +1 E.G.O kaynağı"
+          "simpleDesc": "Önceki tur kullanılmayan Türlere +1 E.G.O kaynağı"
         }
       ]
     },
@@ -174,232 +174,232 @@
     {
       "id": 9008,
       "name": "Kirli Demir Çivi",
-      "desc": "Herhangi bir düşmana Tek-Jeton Yeteneği ile vurur iken, 1 [Laceration] Miktarı uygula. sonra ki turun sonuna kadar 2 [DefenseDown] uygula.\nEğer hedefte zaten [Laceration] veya 'Özgün Kanama' varsa, onun yerine 3 [Laceration] Miktarı uygula.",
+      "desc": "Herhangi bir düşmana Tek-Jeton Yeteneği ile vurur iken, 1 [Laceration] Şiddeti uygula. sonra ki turun sonuna kadar 2 [DefenseDown] uygula.\nEğer hedefte zaten [Laceration] veya 'Özgün Kanama' varsa, onun yerine 3 [Laceration] Şiddeti uygula.",
       "simpleDesc": [
         {
           "abilityID": 9008,
-          "simpleDesc": " 1 [Laceration] Miktarı Uygula. Sonra ki turun sonuna kadar 2 [DefenseDown] uygula"
+          "simpleDesc": " 1 [Laceration] Şiddeti Uygula. Sonra ki turun sonuna kadar 2 [DefenseDown] uygula"
         },
         {
           "abilityID": 90081,
-          "simpleDesc": " 3 [Laceration] Miktarı uygula"
+          "simpleDesc": " 3 [Laceration] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 9009,
-      "name": "Fiery Down",
-      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Özgün Burn', inflict 3 [Combustion] Potency.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, (Current [Combustion] Potency on enemy) x2",
+      "name": "Yanan Tüy",
+      "desc": "Bir düşmana Şehvet Saldırı Yeteneği veya [Combustion] Şiddeti veya 'Özgün Yanma' uygulayan Yeteneklerde, 3 [Combustion] Şiddeti Uygula.\n\nTur başında: Eğer düşman 20+ [Combustion] Şiddetine sahip ise, (Düşmanda bulunan şimdiki [Combustion] Şiddeti) x2",
       "simpleDesc": [
         {
           "abilityID": 9009,
-          "simpleDesc": "Inflict 3 [Combustion] Potency"
+          "simpleDesc": "3 [Combustion] Şiddeti uygula"
         },
         {
           "abilityID": 90091,
-          "simpleDesc": "[Combustion] Potency on target x2"
+          "simpleDesc": "Hedefde ki [Combustion] Şiddeti x2"
         }
       ]
     },
     {
       "id": 19009,
-      "name": "Fiery Down+",
-      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Özgün Burn', <style=\"upgradeHighlight\">inflict 4 [Combustion] Potency</style>.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, (Current [Combustion] Potency on enemy) x2",
+      "name": "Yanan Tüy+",
+      "desc": "Bir düşmana Şehvet Saldırı Yeteneği veya [Combustion] Şiddeti veya 'Özgün Yanma' uygulayan Yeteneklerde, <style=\"upgradeHighlight\"> 4 [Combustion] Şiddeti uygula</style>. \nTur başında: Eğer düşman 20+ [Combustion] Şiddetine sahip ise, (Düşmanda bulunan şimdiki [Combustion] Şiddeti) x2",
       "simpleDesc": [
         {
           "abilityID": 19009,
-          "simpleDesc": "Inflict 4 [Combustion] Potency"
+          "simpleDesc": "4 [Combustion] Şiddeti uygula"
         },
         {
           "abilityID": 190091,
-          "simpleDesc": "[Combustion] Potency on target x2"
+          "simpleDesc": "Hedefde ki [Combustion] Şiddeti x2"
         }
       ]
     },
     {
       "id": 29009,
-      "name": "Fiery Down++",
-      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Özgün Burn', inflict 4 [Combustion] Potency.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, <style=\"upgradeHighlight\">(Current [Combustion] Potency on enemy) x2.5</style>",
+      "name": "Yanan Tüy++",
+      "desc": "Bir düşmana Şehvet Saldırı Yeteneği veya [Combustion] Miktarı veya 'Özgün Yanma' uygulayan Yeteneklerde, 4 [Combustion] Şiddeti uygula\nTur başında: Eğer düşman 20+ [Combustion] Şiddetine sahip ise, <style=\"upgradeHighlight\">(Düşmanda bulunan şimdiki [Combustion] Şiddeti) x2.5</style>",
       "simpleDesc": [
         {
           "abilityID": 29009,
-          "simpleDesc": "Inflict 4 [Combustion] Potency"
+          "simpleDesc": "4 [Combustion] Şiddeti uygula"
         },
         {
           "abilityID": 290091,
-          "simpleDesc": "[Combustion] Potency on target x2.5"
+          "simpleDesc": "Hedefde ki [Combustion] Şiddeti x2.5"
         }
       ]
     },
     {
       "id": 9010,
-      "name": "Bloody Gadget",
-      "desc": "Turn Start: apply 2 [AttackDmgUp] to a random ally.\n\nPrioritizes allies with Lust Affinity Attack Skills; apply 1 additional [AttackDmgUp] to the said ally.",
+      "name": "Kanlı Araç",
+      "desc": "Tur Başlangıcı: Rastgele bir müttefike 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; Söz konusu müttefike 1 ekstra [AttackDmgUp] uygula",
       "simpleDesc": [
         {
           "abilityID": 9010,
-          "simpleDesc": "Gain 2 [AttackDmgUp]"
+          "simpleDesc": "2 [AttackDmgUp] Kazan"
         },
         {
           "abilityID": 90101,
-          "simpleDesc": "Gain 3 [AttackDmgUp]"
+          "simpleDesc": "3 [AttackDmgUp] Kazan"
         }
       ]
     },
     {
       "id": 19010,
-      "name": "Bloody Gadget+",
-      "desc": "Turn Start: apply 2 [AttackDmgUp] to a random ally.\n\nPrioritizes allies with Lust Affinity Attack Skills; <style=\"upgradeHighlight\">apply 2 additional [AttackDmgUp]</style> to the said ally.",
+      "name": "Kanlı Araç+",
+      "desc": "Tur Başlangıcı: Rastgele bir müttefike 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; <style=\"upgradeHighlight\">Söz konusu müttefike 2 ekstra [AttackDmgUp] uygula</style>",
       "simpleDesc": [
         {
           "abilityID": 19010,
-          "simpleDesc": "Gain 2 [AttackDmgUp]"
+          "simpleDesc": " 2 [AttackDmgUp] kazan"
         },
         {
           "abilityID": 190101,
-          "simpleDesc": "Gain 4 [AttackDmgUp]"
+          "simpleDesc": "4 [AttackDmgUp] kazan"
         }
       ]
     },
     {
       "id": 29010,
-      "name": "Bloody Gadget++",
-      "desc": "Turn Start: apply 2 [AttackDmgUp] to <style=\"upgradeHighlight\">2 random allies</style>.\n\nPrioritizes allies with Lust Affinity Attack Skills; apply 2 additional [AttackDmgUp] to the said allies.",
+      "name": "Kanlı Araçt++",
+      "desc": "Tur Başlangıcı: Rastgele <style=\"upgradeHighlight\">2 müttefike</style>. 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; Söz konusu müttefike 2 ekstra [AttackDmgUp] uygula",
       "simpleDesc": [
         {
           "abilityID": 29010,
-          "simpleDesc": "Gain 2 [AttackDmgUp]"
+          "simpleDesc": "2 [AttackDmgUp] Kazan"
         },
         {
           "abilityID": 290101,
-          "simpleDesc": "Gain 4 [AttackDmgUp]"
+          "simpleDesc": "4 [AttackDmgUp] Kazan"
         }
       ]
     },
     {
       "id": 9011,
-      "name": "Sunshower",
-      "desc": "When activating Sloth Absolute Resonance or using a Skill with 2+ Atk Weight:\n\nAll allies gain +2 Skill Power at Combat Start.",
+      "name": "Güneş Sağnağı",
+      "desc": "Tembellik Tam Rezonansı yada 2+ Saldırı Ağırlığı olan bir Yetenek kullanırken:\n\nÇatışma Başlangıcında Her müttefik +2 Yetenek Gücü kazanır",
       "simpleDesc": [
         {
           "abilityID": 9011,
-          "simpleDesc": "Skill Power +2"
+          "simpleDesc": "Yetenek Gücü +2"
         }
       ]
     },
     {
       "id": 9012,
-      "name": "Today’s Expression",
-      "desc": "After defeating an enemy by using a Sloth Affinity or Blunt Skill, raise the unit's Blunt Skill Power by 2 until the end of the next turn.",
+      "name": " Bugünün İfadesi",
+      "desc": "Bir düşmanı Tembellik Türü ya da Darbe Türü Yetenek ile öldürülür ise, Bu birimin Darbe Yetenek Gücünü sonra ki turun sonuna kadar 2 ile arttır.",
       "simpleDesc": [
         {
           "abilityID": 9012,
-          "simpleDesc": "Blunt Skill Power +2"
+          "simpleDesc": "Darbe Yetenek Gücü +2"
         }
       ]
     },
     {
       "id": 9013,
-      "name": "Talisman Bundle",
-      "desc": "Whenever an ally deals 12+ HP damage to an enemy with a Skill, inflict 2 [Burst] Potency on target.\n\nWhen using a Slash Skill, inflict 4 [Burst] Potency instead.",
+      "name": "Tılsım Paketi",
+      "desc": "Ne zaman Bir müttefik bir düşmana Yetenek ile +12 HP vurursa, 2 [Burst] Şiddeti uygula.\n\nEğer Kesme Yeteneği kullanılır ise, onun yerine 4 [Burst] Şiddeti uygula.",
       "simpleDesc": [
         {
           "abilityID": 9013,
-          "simpleDesc": "Inflict 2 [Burst] Potency"
+          "simpleDesc": " 2 [Burst] Şiddeti uygula"
         },
         {
           "abilityID": 90131,
-          "simpleDesc": "Inflict 4 [Burst] Potency"
+          "simpleDesc": "2 [Burst] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 19013,
-      "name": "Talisman Bundle+",
-      "desc": "Whenever an ally deals 12+ HP damage to an enemy with a Skill, inflict <style=\"upgradeHighlight\">3 [Burst] Potency</style> on target.\n\nWhen using a Slash Skill, inflict <style=\"upgradeHighlight\">5 [Burst] Potency</style> instead.",
+      "name": "Tılsım Paketi+",
+      "desc": "Ne zaman Bir müttefik bir düşmana Yetenek ile +12 HP vurursa,<style=\"upgradeHighlight\">3 [Burst] Şiddeti</style> uygula.\n\nEğer Kesme Yeteneği kullanılır ise,onun yerine<style=\"upgradeHighlight\"> 5 [Burst] Şiddeti uygula </style>",
       "simpleDesc": [
         {
           "abilityID": 19013,
-          "simpleDesc": "Inflict 3 [Burst] Potency"
+          "simpleDesc": "3 [Burst] Şiddeti uygula"
         },
         {
           "abilityID": 190131,
-          "simpleDesc": "Inflict 5 [Burst] Potency"
+          "simpleDesc": "5 [Burst] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 29013,
-      "name": "Talisman Bundle++",
-      "desc": "Whenever an ally deals <style=\"upgradeHighlight\">1+ HP damage to an enemy with a Skill</style>, inflict 3 [Burst] Potency on target.\n\nWhen using a Slash Skill, inflict 5 [Burst] Potency and <style=\"upgradeHighlight\">+1 [Burst] Count</style> instead.",
+      "name": "Tılsım Paketi++",
+      "desc": "Ne zaman Bir müttefik bir düşmana Yetenek ile <style=\"upgradeHighlight\">+1 HP vurursa</style>, 3 [Burst] Şiddeti uygula.\n\nEğer Kesme Yeteneği kullanılır ise, onun yerine 5 [Burst] Şiddeti ve <style=\"upgradeHighlight\"> +1 [Burst] Miktarı </style> uygula.",
       "simpleDesc": [
         {
           "abilityID": 9013,
-          "simpleDesc": "Inflict 3 [Burst] Potency"
+          "simpleDesc": "3 [Burst] Şiddeti uygula"
         },
         {
           "abilityID": 90131,
-          "simpleDesc": "Inflict 5 [Burst] Potency and +1 [Burst] Count"
+          "simpleDesc": "5 [Burst] Şiddeti ve +1 [Burst] Miktarı uygula"
         }
       ]
     },
     {
       "id": 9014,
-      "name": "Rusty Commemorative Coin",
-      "desc": "If the first single-Coin Attack Skill that an ally uses during the combat phase doesn’t defeat any enemies, use the Skill one more time.\n\nAfter defeating an enemy by using a Sloth or single-Coin Skill, the ally gains +1 Skill Power for the next turn.",
+      "name": "Paslı Hatıra Parası",
+      "desc": "Eğer savaş esnasında ilk Tek-Jeton Saldırı Yeteneği kullanan müttefik herhangi bir düşmanı öldüremez ise, Yeteneği bir kez daha kullan.\n\nBir düşman Tembellik Yeteneği ya da Tek-Jeton Yeteneği kullanılarak öldürülür ise, müttefik sonra ki tur için +1 Yetenek Gücü kazanır.",
       "simpleDesc": [
         {
           "abilityID": 9014,
-          "simpleDesc": "Reuse Skill"
+          "simpleDesc": "Yeteneği Tekrar Kullan"
         },
         {
           "abilityID": 90141,
-          "simpleDesc": "Skill Power +1"
+          "simpleDesc": "Yetenek Gücü +1"
         }
       ]
     },
     {
       "id": 9015,
-      "name": "Blood, Sweat, and Tears",
-      "desc": "Skills deal +10% damage to Staggered enemies.\n\nIf the Skill's Affinity was Sloth, deal +20% damage instead.",
+      "name": "Kan, Ter, ve Gözyaşı",
+      "desc": "Yetenekler Sersemlemiş düşmanlara %10 daha fazla vurur.\n\nEğer Yeteneğin Türü Tembellik ise, onun yerine %20 daha fazla hasar vur.",
       "simpleDesc": [
         {
           "abilityID": 9015,
-          "simpleDesc": "Deal +10% damage"
+          "simpleDesc": "%10 daha fazla hasar vur"
         },
         {
           "abilityID": 90151,
-          "simpleDesc": "Deal +20% damage"
+          "simpleDesc": "%20 Daha fazla hasar vur"
         }
       ]
     },
     {
       "id": 19015,
-      "name": "Blood, Sweat, and Tears+",
-      "desc": "Skills deal <style=\"upgradeHighlight\">+12.5% damage</style> to Staggered enemies.\n\nIf the Skill's Affinity was Sloth, deal <style=\"upgradeHighlight\">+25% damage</style> instead.",
+      "name": "Kan, Ter, ve Gözyaşı+",
+      "desc": "Yetenekler Sersemlemiş düşmanlara <style=\"upgradeHighlight\">%12.5 daha fazla vurur</style>.\n\nEğer Yeteneğin Türü Tembellik ise, onun yerine<style=\"upgradeHighlight\"> %25 daha fazla hasar vur</style>.",
       "simpleDesc": [
         {
           "abilityID": 19015,
-          "simpleDesc": "Deal +12.5% damage"
+          "simpleDesc": "%12.5 daha fazla hasar vur"
         },
         {
           "abilityID": 190151,
-          "simpleDesc": "Deal +25% damage"
+          "simpleDesc": "%25 daha fazla hasar vur"
         }
       ]
     },
     {
       "id": 29015,
-      "name": "Blood, Sweat, and Tears++",
-      "desc": "Skills deal <style=\"upgradeHighlight\">+15% damage</style> to Staggered enemies.\n\nIf the Skill's Affinity was Sloth, deal <style=\"upgradeHighlight\">+30% damage</style> instead.",
+      "name": "Kan, Ter, ve Gözyaşı++",
+      "desc": "Yetenekler Sersemlemiş düşmanlara <style=\"upgradeHighlight\">%15 daha fazla vurur</style>.\n\nEğer Yeteneğin Türü Tembellik ise, onun yerine<style=\"upgradeHighlight\"> %30 daha fazla hasar vur</style>..",
       "simpleDesc": [
         {
           "abilityID": 29015,
-          "simpleDesc": "Deal +15% damage"
+          "simpleDesc": "%15 daha fazla hasar vur"
         },
         {
           "abilityID": 290151,
-          "simpleDesc": "Deal +30% damage"
+          "simpleDesc": "%30 daha fazla hasar vur"
         }
       ]
     },
