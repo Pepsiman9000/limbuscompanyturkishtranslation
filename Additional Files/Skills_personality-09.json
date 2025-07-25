@@ -1122,7 +1122,7 @@
                 {
                     "level": 3,
                     "name": "Şenlikler Sona Erecek!",
-                    "desc": "[BeforeUse] 25+ [BloomingThornsRodionFirst] varken, bunun yerine 'Ascendant Don Quixote Hardblood[TabExplain] Sanatlar - Final'ı etkinleştir\n[WhenUse] Kendine ve (en yüksek Rezon.) müttefiklerine: bu birim tarafından biriken her 50 [BloodDinner_Accumulation] için (3 + 1) [FestivalFeverRodion] bu tur ve sonraki tur uygula (maks 10)\n[WhenUse] Kendine ve (en yüksek Rezon.) müttefiklerine: 3 [BloomingThornsRodionFirst] uygula",
+                    "desc": "[BeforeUse] 25+ [BloomingThornsRodionFirst] varken, Bu Yetenek yerine 'Yükselmiş Yükselmiş Don Quixote Varyantı Sertkan Tekniği - Final'i etkinleştir\n[WhenUse] Kendine ve (en yüksek Rezon.) müttefiklerine: bu birim tarafından biriken her 50 [BloodDinner_Accumulation] için (3 + 1) [FestivalFeverRodion] bu tur ve sonraki tur uygula (maks 10)\n[WhenUse] Kendine ve (en yüksek Rezon.) müttefiklerine: 3 [BloomingThornsRodionFirst] uygula",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1159,7 +1159,7 @@
                 {
                     "level": 4,
                     "name": "Şenlikler Sona Erecek!",
-                    "desc": "[BeforeUse] 25+ [BloomingThornsRodionFirst] varken, bunun yerine 'Ascendant Don Quixote Hardblood[TabExplain] Sanatlar - Final'ı etkinleştir\n<style=\"highlight\">[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1</style>\n[WhenUse] Kendine ve (en yüksek Rezon.) müttefiklerine: bu birim tarafından biriken her 50 [BloodDinner_Accumulation] için (3 + 1) [FestivalFeverrRodion] bu tur ve sonraki tur uygula (maks 10)\n[WhenUse] Kendine ve (en yüksek Rezon.) müttefiklerine: 3 [BloomingThornsRodionFirst] uygula",
+                    "desc": "[BeforeUse] 25+ [BloomingThornsRodionFirst] varken, Bu Yetenek yerine 'Yükselmiş Yükselmiş Don Quixote Varyantı Sertkan Tekniği - Final'i etkinleştir\n<style=\"highlight\">[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1</style>\n[WhenUse] Kendine ve (en yüksek Rezon.) müttefiklerine: bu birim tarafından biriken her 50 [BloodDinner_Accumulation] için (3 + 1) [FestivalFeverrRodion] bu tur ve sonraki tur uygula (maks 10)\n[WhenUse] Kendine ve (en yüksek Rezon.) müttefiklerine: 3 [BloomingThornsRodionFirst] uygula",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1247,7 +1247,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Don Quixote Varyantı Sertkan Tekniği - Final",
+                    "name": "Yükselmiş Don Quixote Varyantı Sertkan Tekniği - Final",
                     "desc": "[WhenUse] Kendine ve (en yüksek Rezon.) müttefiklerine: bu birim tarafından biriken her 50 [BloodDinner_Accumulation] için (5 + 1) [FestivalFeverRodion] bu tur ve sonraki tur uygula (maks 10)\n[WhenUse] Kendine ve (en yüksek Rezon.) müttefiklerine: 5 [BloomingThornsRodionFirst] uygula\n[WhenUse] Bu birim tarafından biriken her 5 [BloodDinner_Accumulation] için %1 daha fazla hasar ver (maks %50)\n[EndSkill] Kendindeki tüm [BloomingThornsRodionFirst]'i tüket",
                     "coinlist": [
                         {
@@ -1284,7 +1284,7 @@
                 },
                 {
                     "level": 4,
-                    "name": "Don Quixote Varyantı Sertkan Tekniği - Final",
+                    "name": "Yükselmiş Don Quixote Varyantı Sertkan Tekniği - Final",
                     "desc": "<style=\"highlight\">[WhenUse] Eğer hedefte 6+ [Laceration] varsa, Jeton Gücü +1</style>\n[WhenUse] Kendine ve (en yüksek Rezon.) müttefiklerine: bu birim tarafından biriken her 50 [BloodDinner_Accumulation] için (5 + 1) [FestivalFeuygularRodion] bu tur ve sonraki tur uygula (maks 10)\n[WhenUse] Kendine ve (en yüksek Rezon.) müttefiklerine: 5 [BloomingThornsRodionFirst] uygula\n[WhenUse] Bu birim tarafından biriken her 5 [BloodDinner_Accumulation] için %1 daha fazla hasar ver (maks %50)\n[EndSkill] Kendindeki tüm [BloomingThornsRodionFirst]'i tüket",
                     "coinlist": [
                         {
