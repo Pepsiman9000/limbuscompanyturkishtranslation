@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Energy Cycle",
-          "desc": "[WhenUse] Gain +2 Charge Count",
+          "name": "Enerji Döngüsü",
+          "desc": "[WhenUse] +2 [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Charge Count"
+                  "desc": "[OnSucceedAttack] +1 [Charge] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Charge Count"
+                  "desc": "[OnSucceedAttack] +1 [Charge] Miktarı kazan"
                 }
               ]
             }
@@ -26,20 +26,20 @@
         },
         {
           "level": 2,
-          "name": "Energy Cycle",
-          "desc": "[WhenUse] Gain +3 Charge Count",
+          "name": "Enerji Döngüsü",
+          "desc": "[WhenUse] +3 [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Charge Count"
+                  "desc": "[OnSucceedAttack] +1 [Charge] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Charge Count"
+                  "desc": "[OnSucceedAttack] +1 [Charge] Miktarı kazan"
                 }
               ]
             }
@@ -47,20 +47,20 @@
         },
         {
           "level": 4,
-          "name": "Energy Cycle",
-          "desc": "[WhenUse] Gain +4 Charge Count",
+          "name": "Enerji Döngüsü",
+          "desc": "[WhenUse] +4 [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Charge Count"
+                  "desc": "[OnSucceedAttack] +1 [Charge] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Charge Count"
+                  "desc": "[OnSucceedAttack] +1 [Charge] Miktarı kazan"
                 }
               ]
             }
@@ -73,14 +73,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cleanup Support",
-          "desc": "[WhenUse] Gain +2 Charge Count\nClash Power +1 when Shielded",
+          "name": "Temizlik Desteği",
+          "desc": "[WhenUse] +2 [Charge] Miktarı kazan\nKalkanlıyken Çarpışma Gücü +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] At 10+ Charge Count, gain 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> next turn"
+                  "desc": "[OnSucceedAttackHead] 10+ [Charge] Miktarında, sonraki tur 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> kazan"
                 }
               ]
             }
@@ -88,20 +88,20 @@
         },
         {
           "level": 2,
-          "name": "Cleanup Support",
-          "desc": "[WhenUse] Gain +3 Charge Count\nClash Power +2 when Shielded",
+          "name": "Temizlik Desteği",
+          "desc": "[WhenUse] +3 [Charge] Miktarı kazan\nKalkanlıyken Çarpışma Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Charge Count"
+                  "desc": "[OnSucceedAttack] +3 [Charge] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Charge Count, gain 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> next turn"
+                  "desc": "[OnSucceedAttack] 10+ [Charge] Miktarında, sonraki tur 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> kazan"
                 }
               ]
             }
@@ -109,20 +109,20 @@
         },
         {
           "level": 4,
-          "name": "Cleanup Support",
-          "desc": "[WhenUse] Gain +3 Charge Count\nClash Power +2 when Shielded",
+          "name": "Temizlik Desteği",
+          "desc": "[WhenUse] +3 [Charge] Miktarı kazan\nKalkanlıyken Çarpışma Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Charge Count"
+                  "desc": "[OnSucceedAttack] +3 [Charge] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 5+ Charge Count, gain 1 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> for every 5 Charge Count next turn (Maks 4)"
+                  "desc": "[OnSucceedAttack] 5+ [Charge] Miktarında, her 5 [Charge] Miktarı için sonraki tur 1 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> kazan (Maks 4)"
                 }
               ]
             }
@@ -135,18 +135,18 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Deploy Charge Barrier",
-          "desc": "[WhenUse] At 10+ Charge Count, consume all Charge Count to apply (Consumed Charge Count / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (Rounded Down) to 2 allies with the lowest HP percentage",
+          "name": "[Charge] Bariyeri Konuşlandır",
+          "desc": "[WhenUse] 10+ [Charge] Miktarında, tüm [Charge] Miktarını tüketerek (Tüketilen [Charge] Miktarı / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (Aşağı Yuvarlanır) HP yüzdesi en düşük 2 müttefike uygula",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] 3 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> kazan"
                 }
               ]
             }
@@ -154,18 +154,18 @@
         },
         {
           "level": 4,
-          "name": "Deploy Charge Barrier",
-          "desc": "[WhenUse] At 10+ Charge Count, consume all Charge Count to apply (Consumed Charge Count / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (Rounded Down) to 2 allies with the lowest HP percentage",
+          "name": "[Charge] Bariyeri Konuşlandır",
+          "desc": "[WhenUse] 10+ [Charge] Miktarında, tüm [Charge] Miktarını tüketerek (Tüketilen [Charge] Miktarı / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (Aşağı Yuvarlanır) HP yüzdesi en düşük 2 müttefike uygula",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] 5 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> kazan"
                 }
               ]
             }
@@ -178,16 +178,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
-          "desc": "[WhenUse] Gain 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (3 times per turn)",
+          "name": "Koruma",
+          "desc": "[WhenUse] 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> kazan (tur başına 3 kez)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Guard",
-          "desc": "[WhenUse] Gain <style=\"highlight\">3</style> <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (3 times per turn)",
+          "name": "Koruma",
+          "desc": "[WhenUse] <style=\"highlight\">3</style> <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> kazan (tur başına 3 kez)",
           "coinlist": [
             {}
           ]
@@ -199,17 +199,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Track",
+          "name": "İz Sürme",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] 1 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -217,17 +217,17 @@
         },
         {
           "level": 2,
-          "name": "Track",
+          "name": "İz Sürme",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -235,17 +235,17 @@
         },
         {
           "level": 4,
-          "name": "Track",
-          "desc": "At 2+ Haste, Final Power +1",
+          "name": "İz Sürme",
+          "desc": "2+ Hızlanma varken, Final Gücü +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Laceration] Miktarı uygula"
                 }
               ]
             }
@@ -258,27 +258,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Goin' First",
-          "desc": "[WhenUse] Gain 1 Haste next turn",
+          "name": "Önde Gitmek",
+          "desc": "[WhenUse] Sonraki tur 1 Hızlanma kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, inflict Bleed Count equal to their Speed difference (Maks 2)"
+                  "desc": "[OnSucceedAttack] Eğer bu birim hedeften daha hızlıysa, hız farkı kadar [Laceration] Miktarı uygula (Maks 2)"
                 }
               ]
             }
@@ -286,27 +286,27 @@
         },
         {
           "level": 2,
-          "name": "Goin' First",
-          "desc": "[WhenUse] Gain 2 Haste next turn",
+          "name": "Önde Gitmek",
+          "desc": "[WhenUse] Sonraki tur 2 Hızlanma kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, inflict Bleed Count equal to their Speed difference (Maks 3)"
+                  "desc": "[OnSucceedAttack] Eğer bu birim hedeften daha hızlıysa, hız farkı kadar [Laceration] Miktarı uygula (Maks 3)"
                 }
               ]
             }
@@ -314,27 +314,27 @@
         },
         {
           "level": 4,
-          "name": "Goin' First",
-          "desc": "At 6+ Speed, Coin Power +1\n[WhenUse] Gain 2 Haste next turn",
+          "name": "Önde Gitmek",
+          "desc": "6+ Hız varken, Jeton Gücü +1\n[WhenUse] Sonraki tur 2 Hızlanma kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, inflict Bleed Count equal to their Speed difference (Maks 4)"
+                  "desc": "[OnSucceedAttack] Eğer bu birim hedeften daha hızlıysa, hız farkı kadar [Laceration] Miktarı uygula (Maks 4)"
                 }
               ]
             }
@@ -347,13 +347,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Rampage",
-          "desc": "At 8+ Speed, Coin Power +1\nDeal more damage based on target's missing HP (+0.3% damage per 1% missing HP)",
+          "name": "Yıkım",
+          "desc": "8+ Hız varken, Jeton Gücü +1\nHedefin kayıp HP'sine göre daha fazla hasar ver (+%1 kayıp HP başına +%0.3 hasar)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 SP per Bleed on target (Maks 5)"
+                  "desc": "[OnSucceedAttackHead] Hedefteki her [Laceration] başına 1 SP yenile (Maks 5)"
                 }
               ]
             },
@@ -361,14 +361,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -376,13 +376,13 @@
         },
         {
           "level": 4,
-          "name": "Rampage",
-          "desc": "At 6+ Speed, Coin Power +1\nDeal more damage based on target's missing HP (+0.5% damage per 1% missing HP)",
+          "name": "Yıkım",
+          "desc": "6+ Hız varken, Jeton Gücü +1\nHedefin kayıp HP'sine göre daha fazla hasar ver (+%1 kayıp HP başına +%0.5 hasar)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 SP per Bleed on target (Maks 10)"
+                  "desc": "[OnSucceedAttackHead] Hedefteki her [Laceration] başına 1 SP yenile (Maks 10)"
                 }
               ]
             },
@@ -390,14 +390,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] 1 [Laceration] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] 2 [Laceration] uygula"
                 }
               ]
             }
@@ -410,16 +410,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quickness",
-          "desc": "[OnSucceedEvade] Gain 1 Haste next turn (3 times per turn)",
+          "name": "Çeviklik",
+          "desc": "[OnSucceedEvade] Sonraki tur 1 Hızlanma kazan (tur başına 3 kez)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Quickness",
-          "desc": "If target has 7+ Bleed, gain +2 Coin Power\n[OnSucceedEvade] Gain 1 Haste next turn (3 times per turn)",
+          "name": "Çeviklik",
+          "desc": "Eğer hedefte 7+ [Laceration] varsa, +2 Jeton Gücü kazan\n[OnSucceedEvade] Sonraki tur 1 Hızlanma kazan (tur başına 3 kez)",
           "coinlist": [
             {}
           ]
@@ -1085,35 +1085,35 @@
     {
       "id": 1061101,
       "levelList": [
-        {
+       {
           "level": 1,
-          "name": "Take the Shot",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Ateş Et",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": "1 [Bullet] harca"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": "1 [Bullet] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": "1 [Bullet] harca"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan"
                 }
               ]
             }
@@ -1121,33 +1121,33 @@
         },
         {
           "level": 2,
-          "name": "Take the Shot",
-          "desc": "[WhenUse] Gain +2 [Breath] Count<style=\"highlight\"></style>",
+          "name": "Ateş Et",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "1 [Bullet] harca<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "1 [Bullet] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">2</style> [Breath]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "1 [Bullet] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">2</style> [Breath]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [Breath] kazan"
                 }
               ]
             }
@@ -1155,33 +1155,33 @@
         },
         {
           "level": 4,
-          "name": "Take the Shot",
-          "desc": "[WhenUse] Gain +<style=\"highlight\">3</style> [Breath] Count",
+          "name": "Ateş Et",
+          "desc": "[WhenUse] +<style=\"highlight\">3</style> [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "1 [Bullet] harca<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "1 [Bullet] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "1 [Bullet] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1194,30 +1194,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Target Marked",
-          "desc": "Base Power +1 for every [Bullet] about to be spent by this Skill\n[WhenUse] If Full-Stop Office Fixer Heathcliff is on the field, every Reson. of the highest Reson. adds 20% chance that this unit activates [CoveringFire]\n[WhenUse] Gain +1 [Breath] Count",
+          "name": "Hedef İşaretlendi",
+          "desc": "Bu Yetenek tarafından harcanacak her [Bullet] için Taban Gücü +1\n[WhenUse] Eğer sahadaki Full-Stop Office İşçözücü Heathcliff ise, en yüksek Rezon. her Rezon. için bu birimin [CoveringFire] etkinleştirme şansına %20 ekler\n[WhenUse] +1 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 3 [Bullet]"
+                  "desc": "En fazla 3 [Bullet] harca"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x 10)% more damage"
+                  "desc": "Harcanan [Bullet] x %10 daha fazla hasar ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Reduction] uygula"
                 }
               ]
             }
@@ -1225,33 +1225,33 @@
         },
         {
           "level": 2,
-          "name": "Target Marked",
-          "desc": "Base Power +1 for every [Bullet] about to be spent by this Skill\n[WhenUse] If Full-Stop Office Fixer Heathcliff is on the field, every Reson. of the highest Reson. adds 20% chance that this unit activates [CoveringFire]\n[WhenUse] Gain +<style=\"highlight\">2</style> [Breath] Count",
+          "name": "Hedef İşaretlendi",
+          "desc": "Bu Yetenek tarafından harcanacak her [Bullet] için Taban Gücü +1\n[WhenUse] Eğer sahadaki Full-Stop Office İşçözücü Heathcliff ise, en yüksek Rezon. her Rezon. için bu birimin [CoveringFire] etkinleştirme şansına %20 ekler\n[WhenUse] +<style=\"highlight\">2</style> [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 3 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "En fazla 3 [Bullet] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x 10)% more damage<style=\"highlight\"></style>"
+                  "desc": "Harcanan [Bullet] x %10 daha fazla hasar ver<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Binding] next turn</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Sonraki tur 1 [Binding] uygula</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Reduction] uygula<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1259,39 +1259,39 @@
         },
         {
           "level": 4,
-          "name": "Target Marked",
-          "desc": "Base Power +1 for every [Bullet] about to be spent by this Skill\n[WhenUse] If Full-Stop Office Fixer Heathcliff is on the field, every Reson. of the highest Reson. adds 25% chance that this unit activates [CoveringFire]\n[WhenUse] Gain +<style=\"highlight\">3</style> [Breath] Count",
+          "name": "Hedef İşaretlendi",
+          "desc": "Bu Yetenek tarafından harcanacak her [Bullet] için Taban Gücü +1\n[WhenUse] Eğer sahadaki Full-Stop Office İşçözücü Heathcliff ise, en yüksek Rezon. her Rezon. için bu birimin [CoveringFire] etkinleştirme şansına %25 ekler\n[WhenUse] +<style=\"highlight\">3</style> [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 3 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "En fazla 3 [Bullet] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x 10)% more damage<style=\"highlight\"></style>"
+                  "desc": "Harcanan [Bullet] x %10 daha fazla hasar ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+([Bullet] spent x 10)% Damage on Critical Hit</style>"
+                  "desc": "<style=\"highlight\">Kritik Vuruşta +([Bullet] harcanan x %10) hasar</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">+20% Damage on Critical Hit</style>"
+                  "desc": "<style=\"highlight\">Kritik Vuruşta +%20 hasar</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Reduction] uygula<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1304,45 +1304,45 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Full-Stop to Life",
-          "desc": "Base Power +1 for every [Bullet] about to be spent by this Skill\n[WhenUse] If Full-Stop Office Fixer Heathcliff is on the field, activate [CoveringFire]\n[WhenUse] Gain 5 [Breath]",
+          "name": "Hayata Tam Durak",
+          "desc": "Bu Yetenek tarafından harcanacak her [Bullet] için Taban Gücü +1\n[WhenUse] Eğer sahadaki Full-Stop Office İşçözücü Heathcliff ise, [CoveringFire] etkinleştir\n[WhenUse] 5 [Breath] kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": "1 [Bullet] harca"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x 10)% more damage"
+                  "desc": "Harcanan [Bullet] x %10 daha fazla hasar ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by 10% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hedefin Sersemleme Eşiğini verilen hasarın %10'u kadar artır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 2 [Bullet]"
+                  "desc": "En fazla 2 [Bullet] harca"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x 10)% more damage"
+                  "desc": "Harcanan [Bullet] x %10 daha fazla hasar ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by 10% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hedefin Sersemleme Eşiğini verilen hasarın %10'u kadar artır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target is Staggered, +30% Damage on Critical Hit"
+                  "desc": "Eğer hedef Sersemlemişse, Kritik Vuruşta +%30 hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] 1 [PenetrateTakeDamageUp] uygula"
                 }
               ]
             }
@@ -1350,45 +1350,45 @@
         },
         {
           "level": 4,
-          "name": "Full-Stop to Life",
-          "desc": "Base Power +1 for every [Bullet] about to be spent by this Skill\n[WhenUse] If Full-Stop Office Fixer Heathcliff is on the field, activate [CoveringFire]\n[WhenUse] Gain 5 [Breath]\n<style=\"highlight\">[WinDuel] Gain +2 [Breath] Count</style>",
+          "name": "Hayata Tam Durak",
+          "desc": "Bu Yetenek tarafından harcanacak her [Bullet] için Taban Gücü +1\n[WhenUse] Eğer sahadaki Full-Stop Office İşçözücü Heathcliff ise, [CoveringFire] etkinleştir\n[WhenUse] 5 [Breath] kazan\n<style=\"highlight\">[WinDuel] +2 [Breath] Miktarı kazan</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "1 [Bullet] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x <style=\"highlight\">15</style>)% more damage"
+                  "desc": "Harcanan [Bullet] x <style=\"highlight\">%15</style> daha fazla hasar ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by <style=\"highlight\">15</style>% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hedefin Sersemleme Eşiğini verilen hasarın <style=\"highlight\">%15</style>'i kadar artır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 2 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "En fazla 2 [Bullet] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x <style=\"highlight\">15</style>)% more damage"
+                  "desc": "Harcanan [Bullet] x <style=\"highlight\">%15</style> daha fazla hasar ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by <style=\"highlight\">15</style>% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hedefin Sersemleme Eşiğini verilen hasarın <style=\"highlight\">%15</style>'i kadar artır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target is Staggered, +30% Damage on Critical Hit<style=\"highlight\"></style>"
+                  "desc": "Eğer hedef Sersemlemişse, Kritik Vuruşta +%30 hasar<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur <style=\"highlight\">2</style> [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [PenetrateTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [PenetrateTakeDamageUp] uygula"
                 }
               ]
             }
@@ -1401,8 +1401,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Combat Poise",
-          "desc": "Turn Start: at 0 [Bullet], activate 'Beyond the Shadow' instead\n[OnSucceedEvade] Gain 1 [Breath] (3 times per turn)",
+          "name": "Dövüş Duruşu",
+          "desc": "Tur Başlangıcı: 0 [Bullet] varken, bunun yerine 'Gölgenin Ötesinde' etkinleştir\n[OnSucceedEvade] 1 [Breath] kazan (tur başına 3 kez)",
           "coinlist": [
             {
               "coindescs": [
@@ -1415,8 +1415,8 @@
         },
         {
           "level": 4,
-          "name": "Combat Poise",
-          "desc": "Turn Start: at 0 [Bullet], activate 'Beyond the Shadow' instead\n[OnSucceedEvade] Gain 1 [Breath] (<style=\"highlight\">5</style> times per turn)",
+          "name": "Dövüş Duruşu",
+          "desc": "Tur Başlangıcı: 0 [Bullet] varken, bunun yerine 'Gölgenin Ötesinde' etkinleştir\n[OnSucceedEvade] 1 [Breath] kazan (<style=\"highlight\">5</style> kez tur başına)",
           "coinlist": [
             {
               "coindescs": [
@@ -1434,33 +1434,33 @@
       "levelList": [
         {
           "level": 2,
-          "name": "Combo: Target Marked",
-          "desc": "Base Power +1 for every [Bullet] about to be spent by this Skill\n[WhenUse] Gain +2 [Breath] Count\n[DefeatDuel] Final Power +5",
+          "name": "Kombinasyon: Hedef İşaretlendi",
+          "desc": "Bu Yetenek tarafından harcanacak her [Bullet] için Taban Gücü +1\n[WhenUse] +2 [Breath] Miktarı kazan\n[DefeatDuel] Final Gücü +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 3 [Bullet]"
+                  "desc": "En fazla 3 [Bullet] harca"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x 10)% more damage"
+                  "desc": "Harcanan [Bullet] x %10 daha fazla hasar ver"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Reduction] uygula"
                 }
               ]
             },
@@ -1470,7 +1470,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta +%30 hasar"
                 }
               ]
             }
@@ -1478,39 +1478,39 @@
         },
         {
           "level": 4,
-          "name": "Combo: Target Marked",
-          "desc": "Base Power +1 for every [Bullet] about to be spent by this Skill\n[WhenUse] Gain +<style=\"highlight\">3</style> [Breath] Count\n[DefeatDuel] Final Power +5",
+          "name": "Kombinasyon: Hedef İşaretlendi",
+          "desc": "Bu Yetenek tarafından harcanacak her [Bullet] için Taban Gücü +1\n[WhenUse] +<style=\"highlight\">3</style> [Breath] Miktarı kazan\n[DefeatDuel] Final Gücü +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 3 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "En fazla 3 [Bullet] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x 10)% more damage<style=\"highlight\"></style>"
+                  "desc": "Harcanan [Bullet] x %10 daha fazla hasar ver<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+([Bullet] spent x 10)% Damage on Critical Hit</style>"
+                  "desc": "<style=\"highlight\">Kritik Vuruşta +([Bullet] harcanan x %10) hasar</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">+20% Damage on Critical Hit</style>"
+                  "desc": "<style=\"highlight\">Kritik Vuruşta +%20 hasar</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Reduction] uygula<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1520,7 +1520,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "+30% Damage on Critical Hit<style=\"highlight\"></style>"
+                  "desc": "Kritik Vuruşta +%30 hasar<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1533,45 +1533,45 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Combo: Full-Stop to Life",
-          "desc": "Base Power +1 for every [Bullet] about to be spent by this Skill\n[WhenUse] Gain 5 [Breath]\n[DefeatDuel] Final Power +5",
+          "name": "Kombinasyon: Hayata Tam Durak",
+          "desc": "Bu Yetenek tarafından harcanacak her [Bullet] için Taban Gücü +1\n[WhenUse] 5 [Breath] kazan\n[DefeatDuel] Final Gücü +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]"
+                  "desc": "1 [Bullet] harca"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x 10)% more damage"
+                  "desc": "Harcanan [Bullet] x %10 daha fazla hasar ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by 10% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hedefin Sersemleme Eşiğini verilen hasarın %10'u kadar artır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 2 [Bullet]"
+                  "desc": "En fazla 2 [Bullet] harca"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x 10)% more damage"
+                  "desc": "Harcanan [Bullet] x %10 daha fazla hasar ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by 10% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hedefin Sersemleme Eşiğini verilen hasarın %10'u kadar artır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target is Staggered, +30% Damage on Critical Hit"
+                  "desc": "Eğer hedef Sersemlemişse, Kritik Vuruşta +%30 hasar"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] 1 [PenetrateTakeDamageUp] uygula"
                 }
               ]
             },
@@ -1581,10 +1581,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "Kritik Vuruşta +%30 hasar"
                 },
                 {
-                  "desc": "Deal +(target's Pierce Res. x 50)% more damage"
+                  "desc": "Hedefin Delme Direnci x %50 daha fazla hasar ver"
                 }
               ]
             }
@@ -1592,45 +1592,45 @@
         },
         {
           "level": 4,
-          "name": "Combo: Full-Stop to Life",
-          "desc": "Base Power +1 for every [Bullet] about to be spent by this Skill\n[WhenUse] Gain 5 [Breath]\n<style=\"highlight\">[WinDuel] Gain +2 [Breath] Count</style>\n[DefeatDuel] Final Power +5",
+          "name": "Kombinasyon: Hayata Tam Durak",
+          "desc": "Bu Yetenek tarafından harcanacak her [Bullet] için Taban Gücü +1\n[WhenUse] 5 [Breath] kazan\n<style=\"highlight\">[WinDuel] +2 [Breath] Miktarı kazan</style>\n[DefeatDuel] Final Gücü +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "1 [Bullet] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x <style=\"highlight\">15</style>)% more damage"
+                  "desc": "Harcanan [Bullet] x <style=\"highlight\">%15</style> daha fazla hasar ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by <style=\"highlight\">15</style>% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hedefin Sersemleme Eşiğini verilen hasarın <style=\"highlight\">%15</style>'i kadar artır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 2 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "En fazla 2 [Bullet] harca<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x <style=\"highlight\">15</style>)% more damage"
+                  "desc": "Harcanan [Bullet] x <style=\"highlight\">%15</style> daha fazla hasar ver"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by <style=\"highlight\">15</style>% of damage dealt"
+                  "desc": "[OnSucceedAttack] Hedefin Sersemleme Eşiğini verilen hasarın <style=\"highlight\">%15</style>'i kadar artır"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target is Staggered, +30% Damage on Critical Hit<style=\"highlight\"></style>"
+                  "desc": "Eğer hedef Sersemlemişse, Kritik Vuruşta +%30 hasar<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur <style=\"highlight\">2</style> [Binding] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [PenetrateTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">2</style> [PenetrateTakeDamageUp] uygula"
                 }
               ]
             },
@@ -1640,10 +1640,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+50% Damage on Critical Hit</style>"
+                  "desc": "<style=\"highlight\">Kritik Vuruşta +%50 hasar</style>"
                 },
                 {
-                  "desc": "Deal +(target's Pierce Res. x 50)% more damage<style=\"highlight\"></style>"
+                  "desc": "Hedefin Delme Direnci x %50 daha fazla hasar ver<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1656,20 +1656,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Beyond the Shadow",
-          "desc": "[DuelCounter]\n[WhenUse] Gain +2 [Breath] Count\n[EndBattle] [FullReload] (once per Encounter)",
+          "name": "Gölgenin Ötesinde",
+          "desc": "[DuelCounter]\n[WhenUse] +2 [Breath] Miktarı kazan\n[EndBattle] [FullReload] (Karşılaşma başına 1 kez)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan"
                 }
               ]
             }
@@ -1677,20 +1677,20 @@
         },
         {
           "level": 4,
-          "name": "Beyond the Shadow",
-          "desc": "[DuelCounter]\n<style=\"highlight\">+20% Damage on Critical Hit</style>\n[WhenUse] Gain +2 [Breath] Count\n[EndBattle] [FullReload] (once per Encounter)",
+          "name": "Gölgenin Ötesinde",
+          "desc": "[DuelCounter]\n<style=\"highlight\">Kritik Vuruşta +%20 hasar</style>\n[WhenUse] +2 [Breath] Miktarı kazan\n[EndBattle] [FullReload] (Karşılaşma başına 1 kez)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1703,20 +1703,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Melee Support",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Yakın Dövüş Desteği",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan"
                 }
               ]
             }
@@ -1724,20 +1724,20 @@
         },
         {
           "level": 4,
-          "name": "Melee Support",
-          "desc": "<style=\"highlight\">+20% Damage on Critical Hit</style>\n[WhenUse] Gain +2 [Breath] Count",
+          "name": "Yakın Dövüş Desteği",
+          "desc": "<style=\"highlight\">Kritik Vuruşta +%20 hasar</style>\n[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1745,19 +1745,19 @@
         }
       ]
     },
-        {
+    {
       "id": 1061201,
       "levelList": [
         {
           "level": 1,
-          "name": "Energy Strike",
-          "desc": "At 2+ [Charge], Coin Power +1\n[WhenUse] Gain +2 [Charge] Count",
+          "name": "Enerji Vuruşu",
+          "desc": "2+ [Charge] varken, Jeton Gücü +1\n[WhenUse] +2 [Charge] Miktarı kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             }
@@ -1765,20 +1765,20 @@
         },
         {
           "level": 2,
-          "name": "Energy Strike",
-          "desc": "<style=\"highlight\">Deal +2% damage for every [Charge] (Maks 10%)</style>\nAt 2+ [Charge], Coin Power +1\n[WhenUse] Gain +2 [Charge] Count",
+          "name": "Enerji Vuruşu",
+          "desc": "<style=\"highlight\">Her [Charge] için +%2 hasar (Maks %10)</style>\n2+ [Charge] varken, Jeton Gücü +1\n[WhenUse] +2 [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain +([Charge] + 1) [Charge] Count (Maks 3)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] +([Charge] + 1) [Charge] Miktarı kazan (Maks 3)</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1786,20 +1786,20 @@
         },
         {
           "level": 4,
-          "name": "Energy Strike",
-          "desc": "Deal <style=\"highlight\">+3%</style> damage for every [Charge] (Maks <style=\"highlight\">15%</style>)\nAt 2+ [Charge], Coin Power +1\n<style=\"highlight\">At 5+ [Charge] Count, Coin Power +1</style>\n[WhenUse] Gain +2 [Charge] Count",
+          "name": "Enerji Vuruşu",
+          "desc": "Her [Charge] için <style=\"highlight\">+%3</style> hasar (Maks <style=\"highlight\">%15</style>)\n2+ [Charge] varken, Jeton Gücü +1\n<style=\"highlight\">5+ [Charge] Miktarında, Jeton Gücü +1</style>\n[WhenUse] +2 [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] + 1) [Charge] Count (Maks <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] +([Charge] + 1) [Charge] Miktarı kazan (Maks <style=\"highlight\">4</style>)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1812,34 +1812,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mind Whip",
-          "desc": "[WhenUse] At 5~9 [Charge] Count:\n- Gain 15 [Sinking] and raise this unit's [Charge] Count to 10\n- This Skill gains the following attributes: [CantIdentify], [WideAreaRampage], and Atk Weight +1\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1",
+          "name": "Zihin Kırbacı",
+          "desc": "[WhenUse] 5~9 [Charge] Miktarında:\n- 15 [Sinking] kazan ve bu birimin [Charge] Miktarını 10'a yükselt\n- Bu Yetenek şu nitelikleri kazanır: [CantIdentify], [WideAreaRampage] ve Atk Weight +1\n[WhenUse] 10 [Charge] Miktarı tüketerek Jeton Gücü +1 kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +2 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -1847,46 +1847,46 @@
         },
         {
           "level": 2,
-          "name": "Mind Whip",
-          "desc": "<style=\"highlight\">Deal +2% damage for every [Charge] (Maks 10%)</style>\n[WhenUse] At 5~9 [Charge] Count:\n- Gain 15 [Sinking] and raise this unit's [Charge] Count to 10\n- This Skill gains the following attributes: [CantIdentify], [WideAreaRampage], and Atk Weight +1\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1",
+          "name": "Zihin Kırbacı",
+          "desc": "<style=\"highlight\">Her [Charge] için +%2 hasar (Maks %10)</style>\n[WhenUse] 5~9 [Charge] Miktarında:\n- 15 [Sinking] kazan ve bu birimin [Charge] Miktarını 10'a yükselt\n- Bu Yetenek şu nitelikleri kazanır: [CantIdentify], [WideAreaRampage] ve Atk Weight +1\n[WhenUse] 10 [Charge] Miktarı tüketerek Jeton Gücü +1 kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Verilen hasarın %5'i kadar Sersemleme Eşiği artır</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Verilen hasarın %5'i kadar Sersemleme Eşiği artır</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Verilen hasarın %5'i kadar Sersemleme Eşiği artır</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +2 [Sinking] Miktarı uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Verilen hasarın %10'u kadar Sersemleme Eşiği artır</style>"
                 }
               ]
             }
@@ -1894,46 +1894,46 @@
         },
         {
           "level": 4,
-          "name": "Mind Whip",
-          "desc": "Deal <style=\"highlight\">+4%</style> damage for every [Charge] (Maks <style=\"highlight\">20%</style>)\n[WhenUse] At 5~9 [Charge] Count:\n- Gain <style=\"highlight\">10</style> [Sinking] and raise this unit's [Charge] Count to 10\n- This Skill gains the following attributes: [CantIdentify], [WideAreaRampage], and Atk Weight +1\n<style=\"highlight\">- [BeforeUse] At 5+ [Charge], this Skill does not gain the [CantIdentify] effect</style>\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power <style=\"highlight\">+2</style>\n<style=\"highlight\">[BeforeAttack] At 8+ remaining [Charge] Count, consume 8 [Charge] Count to deal +40% damage</style>",
+          "name": "Zihin Kırbacı",
+          "desc": "Her [Charge] için <style=\"highlight\">+%4</style> hasar (Maks <style=\"highlight\">%20</style>)\n[WhenUse] 5~9 [Charge] Miktarında:\n- <style=\"highlight\">10</style> [Sinking] kazan ve bu birimin [Charge] Miktarını 10'a yükselt\n- Bu Yetenek şu nitelikleri kazanır: [CantIdentify], [WideAreaRampage] ve Atk Weight +1\n<style=\"highlight\">- [BeforeUse] 5+ [Charge] varken, bu Yetenek [CantIdentify] etkisi kazanmaz</style>\n[WhenUse] 10 [Charge] Miktarı tüketerek Jeton Gücü <style=\"highlight\">+2</style> kazan\n<style=\"highlight\">[BeforeAttack] 8+ kalan [Charge] Miktarında, 8 [Charge] Miktarı tüketerek +%40 hasar ver</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Verilen hasarın %5'i kadar Sersemleme Eşiği artır<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Verilen hasarın %5'i kadar Sersemleme Eşiği artır<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 1 [Sinking] uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Verilen hasarın %5'i kadar Sersemleme Eşiği artır<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] +2 [Sinking] Miktarı uygula<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Verilen hasarın %10'u kadar Sersemleme Eşiği artır<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1946,19 +1946,19 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Concentration",
-          "desc": "Coin Power +1 for every [Charge] (Maks 5)\nAt 10+ [Charge] Count, Final Power +2\n[WhenUse] Gain +5 [Charge] Count",
+          "name": "Konsantrasyon",
+          "desc": "Her [Charge] için Jeton Gücü +1 (Maks 5)\n10+ [Charge] Miktarında, Final Gücü +2\n[WhenUse] +5 [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +(this Skill's Power x 5)% damage (Maks 100%)"
+                  "desc": "Bu Yeteneğin Gücü x %5 daha fazla hasar ver (Maks %100)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] + 1) [Charge] Count (Maks 6)"
+                  "desc": "[OnSucceedAttack] +([Charge] + 1) [Charge] Miktarı kazan (Maks 6)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking] and +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] 4 [Sinking] ve +2 [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -1966,22 +1966,22 @@
         },
         {
           "level": 4,
-          "name": "Concentration",
-          "desc": "<style=\"highlight\">Base Power +1</style> and Coin Power +1 for every [Charge] <style=\"highlight\">(Maks 5 each)</style>\nAt 10+ [Charge] Count, Final Power <style=\"highlight\">+4</style>\n[WhenUse] Gain <style=\"highlight\">+7</style> [Charge] Count",
+          "name": "Konsantrasyon",
+          "desc": "<style=\"highlight\">Taban Gücü +1</style> ve her [Charge] için Jeton Gücü +1 <style=\"highlight\">(Her biri maks 5)</style>\n10+ [Charge] Miktarında, Final Gücü <style=\"highlight\">+4</style>\n[WhenUse] <style=\"highlight\">+7</style> [Charge] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +(this Skill's Power x 5)% damage (Maks <style=\"highlight\">150%</style>)"
+                  "desc": "Bu Yeteneğin Gücü x %5 daha fazla hasar ver (Maks <style=\"highlight\">%150</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">At 3+ [Charge], deal +20% damage for every [Charge] (Maks 100%)</style>"
+                  "desc": "<style=\"highlight\">3+ [Charge] varken, her [Charge] için +%20 hasar (Maks %100)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] + <style=\"highlight\">3</style>) [Charge] Count (Maks <style=\"highlight\">8</style>)"
+                  "desc": "[OnSucceedAttack] +([Charge] + <style=\"highlight\">3</style>) [Charge] Miktarı kazan (Maks <style=\"highlight\">8</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking] and <style=\"highlight\">+4</style> [Sinking] Count"
+                  "desc": "[OnSucceedAttack] 4 [Sinking] ve <style=\"highlight\">+4</style> [Sinking] Miktarı uygula"
                 }
               ]
             }
@@ -1994,16 +1994,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Energy Condensation",
-          "desc": "[WhenUse] At 10+ [Charge] Count, Coin Power +2\n[WhenUse] Gain +3 [Charge] Count (once per turn)",
+          "name": "Enerji Yoğunlaştırma",
+          "desc": "[WhenUse] 10+ [Charge] Miktarında, Jeton Gücü +2\n[WhenUse] +3 [Charge] Miktarı kazan (tur başına 1 kez)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Energy Condensation",
-          "desc": "[WhenUse] At 10+ [Charge] Count, Coin Power <style=\"highlight\">+4</style>\n[WhenUse] Gain +3 [Charge] Count (<style=\"highlight\">2 times</style> per turn)",
+          "name": "Enerji Yoğunlaştırma",
+          "desc": "[WhenUse] 10+ [Charge] Miktarında, Jeton Gücü <style=\"highlight\">+4</style>\n[WhenUse] +3 [Charge] Miktarı kazan (<style=\"highlight\">2 kez</style> tur başına)",
           "coinlist": [
             {}
           ]
