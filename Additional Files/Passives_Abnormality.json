@@ -65,7 +65,7 @@
     {
       "id": 800301,
       "name": "Tapma",
-      "desc": "HP 0'a indiğinde ölmez; yerine, sahnede hareket etmeyen ve hedef alınamayan birim olarak kalır.\nKıyamet Takvimi yenildiğinde o da yenilir."
+      "desc": "HP 0'a indiğinde ölmez; yerine, sahnede hareket etmeyen ve hedef alınamayan birim olarak kalır.\nKıyamet Takvimi baskılandığında o da baskılanır."
     },
     {
       "id": 800801,
