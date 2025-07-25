@@ -2,9 +2,9 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Lobotomy Corp. Drilling Ship Entrance",
+            "place": "Lobotomy Kuruluşu Drilling Ship Entrance",
             "model": "단테2",
-            "content": "<We're fending them off somehow, but...>"
+            "content": "<Bir şekilde onları idare edebiliyoruz, fakat...>"
         },
         {
             "id": 1,
@@ -33,7 +33,7 @@
         {
             "id": 6,
             "model": "단테2",
-            "content": "<That weird guy up there? He's been posing like that over there ever since this whole mess started.>"
+            "content": "<Oradaki garip adam mı? Bütün bu olaylar yaşanmaya başladığından beridir orada ölece poz veriyor.>"
         },
         {
             "id": 7,
@@ -58,7 +58,7 @@
         {
             "id": 11,
             "model": "로쟈",
-            "content": "... Sanıyorum ki 'Büyük Birader' demek istiyordu...?"
+            "content": "... Sanırım 'Büyük Birader' demek istiyordu...?"
         },
         {
             "id": 12,
@@ -78,17 +78,17 @@
         {
             "id": 15,
             "model": "단테2",
-            "content": "<Sorry about bringing this up now, but...>"
+            "content": "<Şimdi birden bire bunu sorduğum için üzgünüm, ama...>"
         },
         {
             "id": 16,
             "model": "단테2",
-            "content": "<What's... the Middle?>"
+            "content": "<Orta da... ne demek?>"
         },
         {
             "id": 17,
             "model": "단테2",
-            "content": "<Just a mere mention, or a mere sight of them alone seems to... shock and intimidate a lot of people. Remember how they pretty much traumatized Pilot?...>"
+            "content": "<Sadece küçük bir itaf, ya da azıcık görmek bile... insanları şok edip korkutuyor. Pilot'u ne kadar tramatize emişlerdi...>"
         },
         {
             "id": 18,
@@ -118,7 +118,7 @@
         {
             "id": 23,
             "model": "단테2",
-            "content": "<... Ryōshū, even you...?>"
+            "content": "<... Ryōshū, Sen bile mi...?>"
         },
         {
             "id": 24,
@@ -128,20 +128,20 @@
         {
             "id": 25,
             "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Pekala. Isınma turu nasıl geçti?"
         },
         {
             "id": 26,
-            "teller": "Little Brother",
-            "title": "The Middle",
+            "teller": "Küçük Kardeş",
+            "title": "Orta",
             "content": "Büyük Biraderiniz size ısınmanız için zaman bile tanıyor! Az şükredin!"
         },
         {
             "id": 27,
             "model": "단테2",
-            "content": "<He's wearing Sunglasses? In this gloomy weather...?>"
+            "content": "<Güneş gözlüğü mü takıyor? Bu bozuk havada mı...?>"
         },
         {
             "id": 28,
@@ -161,8 +161,8 @@
         {
             "id": 31,
             "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Sıktı ama. Isınmanızın bu kadar uzun süreceğini düşünmüyordum."
         },
         {
@@ -173,7 +173,7 @@
         {
             "id": 33,
             "model": "돈키호테",
-            "content": "Negotiate with a villain such as he...? How..."
+            "content": "Onun gibi zalim bir despotla müzakere mi...? Ne kadar..."
         },
         {
             "id": 34,
@@ -183,48 +183,48 @@
         {
             "id": 35,
             "model": "로쟈",
-            "content": "B-Buraya bizzat olarak Orta'nın bir Büyük Birader'in geleceğini kırk yıl olsa düşünemezdim..."
+            "content": "B-Buraya bizzat Orta'nın bir Büyük Biraderinin geleceğini kırk yıl olsa düşünemezdim..."
         },
         {
             "id": 36,
             "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Evet. Ama buradayım işte."
         },
         {
             "id": 37,
             "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Bakın... Orta'nın bir parçası olarak geçirdiğim bunca yılda..."
         },
         {
             "id": 38,
             "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Asla kırmadığım BİR tane altın kuralım vardı."
         },
         {
             "id": 39,
             "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "... Bugüne kadar, tabii ki."
         },
         {
             "id": 40,
             "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Kişisel kasama yaptığınız soygun, beni bunlara zorladı!"
         },
         {
             "id": 41,
             "model": "작은아우",
             "teller": "Little Brother",
-            "title": "The Middle",
+            "title": "Orta",
             "content": "Oha ama... İnanılmaz! Böylesine alçakça bir şeyi hangi akılla yapabilirler ki...?"
         },
         {
@@ -234,20 +234,20 @@
         },
         {
             "id": 43,
-            "content": "Kalın, ve sert zincirlerle yerinde tutulan eski bir kitap, belinden sarkıyordu. Kitabı eli ile kaldırmıştı."
+            "content": "Belinden Kalın ve sert zincirlerle yerinde tutturulmuş Büyük, eskimiş, hantal bir kitap sarkıyordu. Kitabı eli ile kaldırdı."
         },
         {
             "id": 44,
             "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Tam olarak şu an, siz suçluların günahlarını ilan ediyorum."
         },
         {
             "id": 45,
             "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Bağışlanamaz günahlarınızı...!"
         },
         {
@@ -268,28 +268,28 @@
         {
             "id": 49,
             "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "......"
         },
         {
             "id": 50,
             "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Smee? O kim lan?"
         },
         {
             "id": 51,
             "model": "작은아우",
             "teller": "Little Brother",
-            "title": "The Middle",
+            "title": "Orta",
             "content": "Oh, ah... fısır fısır..."
         },
         {
             "id": 52,
             "model": "단테2",
-            "content": "<... No way. He didn't know...?>"
+            "content": "<... Nasıl yani. Haberi yok muymuş...?>"
         },
         {
             "id": 53,
@@ -299,13 +299,13 @@
         {
             "id": 54,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Pekala... eh, tamamdır. Bakalım... Bu günahı da ekleyecek olursak..."
         },
         {
             "id": 55,
-            "content": "Büyük Birader, parmaklarını ıslata ıslata sayfaları yavaşça çevirmeye başlamıştı..."
+            "content": "Büyük Birader, parmaklarını ıslatarak sayfaları yavaşça çevirmeye başladı..."
         },
         {
             "id": 56,
@@ -315,8 +315,8 @@
         {
             "id": 57,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Dinleyin. İkili bir dünyada yaşıyoryz. Çekici olan dünya... ve kıllı olan dünya. İkisinin farkını idrak edebiliyor musunuz?"
         },
         {
@@ -325,34 +325,34 @@
         },
         {
             "id": 59,
-            "content": "The urge to blurt out \"what the hell are you talking about?\" was palpable, yet it was suppressed by an unknown, incredibly patient, force."
+            "content": "\"Sen ne halttan söz ediyorsun be adam?\" deme isteği göz ardı edilemezdi; yine de bilinmeyen, inanılmaz sakinlikte bir güç tarafından baskılanıyordu ."
         },
         {
             "id": 60,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Çekici olan..."
         },
         {
             "id": 61,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Parmaklarını içine soktuğunda elini bir yastık gibi nazikçe saran..."
         },
         {
             "id": 62,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Ve kıllı ise... kaba bir şekilde parmaklarını delendir."
         },
         {
             "id": 63,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Sabır, azim, ve yetenekli bir çift el, olabileceğin kadar çekici olmak için çok ama çok önemlidir."
         },
         {
@@ -363,36 +363,36 @@
         {
             "id": 65,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Anlıyor musunuz lan?"
         },
         {
             "id": 66,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Bu saçı mükemmel çekiciliğine ve asıl şekline kavuşturmak için çekilen onca zorlukları anlıyor musunuz siz?"
         },
         {
             "id": 67,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Bir zamanlar bir kupon vardı. Kullanmak için can attığım, kişisel bir temas terapisi..."
         },
         {
             "id": 68,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "... U Kuruluşu'nun en zengin limanlarından biri olan Stingray Limanı'nın en lüks saç salonunda, bizzat oranın direktörü tarafından! Dur durak bilmeden, BEŞ SAAT BOYUNCA!"
         },
         {
             "id": 69,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Bir efsaneye göre, o kupona sahip olan herkes çekiciliğin dünyasına girebilirdi! Ve o kupona sahip olan kimsenin rezervasyon almasına da gerek olmazdı!"
         },
         {
@@ -408,7 +408,7 @@
         {
             "id": 72,
             "model": "단테2",
-            "content": "<So... we're being accused of taking his... coupons for a hair salon?>"
+            "content": "<Yani... bu saç salonu kuponlarını... çaldığımızı mı iddia ediyor?>"
         },
         {
             "id": 73,
@@ -428,38 +428,38 @@
         {
             "id": 76,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Çekicilik dünyasına ilk adımımı atmamı sağlayacaklardı."
         },
         {
             "id": 77,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Lakin, bu kupon hırsızı..."
         },
         {
             "id": 78,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "... beni ebediyen kılların dünyasında hapsolmaya mahkum etti..."
         },
         {
             "id": 79,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "İzleyin. Günahlarınızın faturasına bir bakın hele."
         },
         {
             "id": 80,
-            "content": "Büyük birader bize bir kağıt parçası fırlatmıştı."
+            "content": "Büyük birader bize bir kağıt parçası gösterdi."
         },
         {
             "id": 81,
-            "content": "Üstünde ise... bir resim vardı."
+            "content": "Üstünde... bir fotoğraf vardı."
         },
         {
             "id": 82,
@@ -469,20 +469,20 @@
         {
             "id": 83,
             "model": "히스클리프",
-            "content": "K-Kasanın onun olduğunu bilmiyordum! Baksana! Üstünde renkli kedi çıkartmaları var! Kasanın bir Orta'nın Biraderi'nin zimmeti olduğunu düşünmek için kafadan çatlak olmak gerekir, değil mi?!"
+            "content": "K-Kasanın onun olduğunu bilmiyordum! Baksana! Üstünde renkli kedi çıkartmaları var! Kasanın bir Orta'nın Biraderi'nin malı olduğunu düşünmek için kafadan çatlak olmak gerekir, değil mi?!"
         },
         {
             "id": 84,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Herkesin... farklı tatları vardır, tıpkı Büyük Göl'ün renkli renkli gölleri gibi."
         },
         {
             "id": 85,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Zevklere renklere olan hayasız saygısızlığın da İntikam Kitabı'na eklenecek."
         },
         {
@@ -498,12 +498,12 @@
         {
             "id": 88,
             "model": "단테2",
-            "content": "<Heathcliff... Did you even know who, what, or where these coupons were for?>"
+            "content": "<Heathcliff... o kuponların kim ya da neye ait olduğunu biliyormuydun?>"
         },
         {
             "id": 89,
             "model": "히스클리프",
-            "content": "Neden bileyim ben amına koyayim..."
+            "content": "Nerden bileyim ben amına koyayim..."
         },
         {
             "id": 90,
@@ -528,12 +528,12 @@
         {
             "id": 94,
             "model": "뫼르소",
-            "content": "Kuponları geri versen bile, affedilme ihtimalın sıfıra yakın. Hatta, sıfıra sonsuzluk kadar yakın."
+            "content": "Kuponları geri versen bile, affedilme ihtimalın sıfıra yakın. Hatta, sıfıra limit <ruby=1> </ruby> durumunda. \n <size=24>1 bir sayıya x-y grafiğinde sonsuza kadar yaklaşma durumu</size> "
         },
         {
             "id": 95,
             "model": "뫼르소",
-            "content": "Yani, kuponları elinde tutmak bu karşılaşmanın sonucunu değiştirmeyecek, Heathcliff. Artık kuponla senin."
+            "content": "Yani, kuponları elinde tutmak bu karşılaşmanın sonucunu değiştirmeyecek, Heathcliff. Artık kuponlar senin."
         },
         {
             "id": 96,
@@ -547,46 +547,46 @@
         },
         {
             "id": 98,
-            "content": "Bu uzun, tutku dolu konuşmanın sona ermesi ile, Büyük Birader ve Don Quixote, gözlerindeki yaşları silmişti."
+            "content": "Fazlaca uzatışmış, tutku dolu konuşmasının sona ermesi ile, Orta'nın Büyük Biraderi ve Don Quixote, birlikte gözlerindeki yaşları sildiler."
         },
         {
             "id": 99,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Ve günahlarınızın bedeli..."
         },
         {
             "id": 100,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Ah... Bakalım. 8.Başlık , 20.Bölüm diyor ki..."
+            "teller": "Büyük Bilader",
+            "title": "Orta",
+            "content": "Ah... Bakalım. 8. Başlık , 20. Bölüm diyor ki..."
         },
         {
             "id": 101,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "A Fıkrası... Satır 6... Saç Salonu Kuponları..."
         },
         {
             "id": 102,
             "model": "단테2",
-            "content": "<That book has instructions in case someone steals their hair salon coupons?!>"
+            "content": "<O fazlaca köhne kitap birisi saç kuponlarını çalarsa diye yönelgelere mi sahip?!>"
         },
         {
             "id": 103,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Aha! Buldum."
         },
         {
             "id": 104,
             "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
+            "teller": "Büyük Bilader",
+            "title": "Orta",
             "content": "Dahil olan tüm partilerin derhal yok edilmesi; kupon hırsızının ve bağlantılı herkesin idamı. Tam olarak şu an geçerli."
         },
         {
@@ -598,12 +598,12 @@
             "id": 106,
             "model": "작은형님발광",
             "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "Adım Ricardo, Orta'nın bir Büyük Biraderi'yim. Ölmeden önce hatırladığınız son şeyin adım olmasına dikkat edin. Hatıralar önemlidir malum."
+            "title": "Orta's Büyük Bilader",
+            "content": "Adım Ricardo, Orta'nın bir Büyük Biraderiyim. Ölmeden önce hatırladığınız son şeyin adım olmasına dikkat edin. Hatıralar önemlidir malum."
         },
         {
             "id": 107,
-            "content": "Ryōshū, sonuna kadar tüttürdüğü sigarasını yere fırlatmıştı..."
+            "content": "Ryōshū, dinine kadar içtiği sigarasını yere fırlattı..."
         },
         {
             "id": 108,
@@ -612,7 +612,7 @@
         },
         {
             "id": 109,
-            "content": "Ve Büyük Birader, kelimenin tam anlamıyla havaya uçmuştu."
+            "content": "Ve Büyük Birader, kelimenin tam anlamıyla havayla bir oldu."
         }
     ]
 }

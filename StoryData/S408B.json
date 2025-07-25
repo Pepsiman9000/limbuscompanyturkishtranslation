@@ -520,7 +520,7 @@
         },
         {
             "id": 90,
-            "content": "Hicranlı bir sessizlik ortamı kaplamıştı, ne bir mendil ne de bir kol sallanmayacakmış gibi. Dongrang soğukkanlı bir şekilde devam etti."
+            "content": "Hicran dolu bir sessizlik ortamı kaplamıştı. Dongrang ise soğukkanlı bir şekilde devam etti."
         },
         {
             "id": 91,
@@ -553,14 +553,14 @@
         },
         {
             "id": 96,
-            "content": "Our attention was brought to a white desk that was completely empty."
+            "content": "Bütün dikkatimiz üstünde hiçbir şey olmayan beyaz bir masaya çevrildi."
         },
         {
             "id": 97,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
-            "content": "Ah, o masa rezerve."
+            "content": "Ah, görüyorsunuz ki o masa rezerve."
         },
         {
             "id": 98,
@@ -583,7 +583,7 @@
         },
         {
             "id": 101,
-            "content": "Ishmael’s bright-eyed inquisition was interrupted by Samjo’s displeased utterance."
+            "content": "Ishmael’in parlayan gözlerle yaptığı soruşturma Samjo’nun asıl konudan sapmak istemeyen ifadesiyle bölündü."
         },
         {
             "id": 102,
@@ -621,12 +621,12 @@
         {
             "id": 107,
             "model": "단테",
-            "content": "<A Contract Office…? I-I dunno what’s going on… Does it really have to be so complicated?>"
+            "content": "<Müzakere Ofisi mi…? N-Noluyor birdne bire… Cidden bu kadar karmaşık bir konu mu?>"
         },
         {
             "id": 108,
             "model": "이스마엘",
-            "content": "J Kuruluşu'nun eyaletinde kazandığımız halde Altın Dalı, antlaşma hemen yürürlüğe girmediğinden dolayı hemen alamamııtık ."
+            "content": "J Kuruluşu'nun eyaletinde kazandığımız halde Altın Dalı, antlaşmayı denetleyen birileri olmadığından dolayı hemen alamamıştık ."
         },
         {
             "id": 109,
@@ -650,7 +650,7 @@
         },
         {
             "id": 113,
-            "content": "Ishmael explained like it was common knowledge. I guess it’s something well-known among City folks…"
+            "content": "Ishmael bunu sanki genel kültürmüş gibi anlattı. Sanırım Şehir sakinleri için çok bilindik bir şey…"
         },
         {
             "id": 114,
@@ -666,7 +666,7 @@
         },
         {
             "id": 116,
-            "content": "…We watched with our mouths agape as the two declared the conclusion at once."
+            "content": "…Ağızımız açık bir şekilde kalakaldık, iki formal ses anlaşmyı ahenk içinde kararlaştırınca."
         },
         {
             "id": 117,
@@ -697,7 +697,7 @@
         },
         {
             "id": 122,
-            "content": "The team fell into a somber silence. All the memories related to them were filled with misery and suffering."
+            "content": "Günahkârlar sesizliğe gömüldüler. Onları barındıran bütün anıları ızdırap ve acı doluydu"
         },
         {
             "id": 123,
@@ -728,18 +728,18 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
-            "content": "Geh? Sahiden o kadar şey gösterecek misiniz, Bay Dongrang? Davetsiz misafirler için oldukça yasaklı bir yeri hem de…"
+            "content": "Geh? Sahiden o kadar şey gösterecek misiniz, Bay Dongrang? Yetkilendirilmemiş misafirler için oldukça yasaklı bir yeri hem de…"
         },
         {
             "id": 128,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "K Kurulu Gıda Kaynakları Geliştirme Departmanı",
-            "content": "Hah, çok komik sesler çıkartıyorsun, Bay Samjo. Bir sorun teşkil etmemeli. Anlaşmanın imzalanmasını kutlamak için, biraz dolaşıyoruz sadece."
+            "content": "Hah, çok komik sesler çıkartıyorsun, Bay Samjo. Bir sorun teşkil etmemeli. Anlaşmanın imzalanmasını kutlamak için biraz dolaşıyoruz sadece."
         },
         {
             "id": 129,
-            "content": "I wasn’t sure if that was an appropriate way to celebrate things… but since no one on the team objected, I decided to follow him."
+            "content": "Bunun bir şeyleri kutlamak için manalı bir yol olduğunu sanmıyorum… Ama kimseden bir itiraz işitmeyince, bende onları takip ettim."
         }
     ]
 }

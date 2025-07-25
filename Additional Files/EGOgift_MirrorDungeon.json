@@ -48,7 +48,7 @@
     {
       "id": 9002,
       "name": "Çarpıtma",
-      "desc": "1 veya daha fazla dümanı bir Saldırı Yeteneği kullanarak yendikten sonra, bir sonraki Turun Başlangıcında o Saldırı Yeteneğinin Türünü E.G.O kaynağı olarak kazanırsın.\n\nEğer Saldırı Yeteneğinin Günah Türü Öfke ise, bir sonraki Turun Başlangıcında müttefiğin sahip olduğu tüm Türlerin +1 E.G.O kaynağını kazanırsın.",
+      "desc": "1 veya daha fazla düşmanı bir Saldırı Yeteneği kullanarak yendikten sonra, bir sonraki Turun Başlangıcında o Saldırı Yeteneğinin Türünü E.G.O kaynağı olarak kazanırsın.\n\nEğer Saldırı Yeteneğinin Günah Türü Öfke ise, bir sonraki Turun Başlangıcında müttefiğin sahip olduğu tüm Türlerie +1 E.G.O kaynağını kazanırsın.",
       "simpleDesc": [
         {
           "abilityID": 9002,
@@ -60,10 +60,10 @@
         }
       ]
     },
-    {2
+    {
       "id": 9003,
       "name": "Küller küllere",
-      "desc": "Çatışma Başlangıcı: Eğer tüm düşmanlar (veya tüm Anormallik Uzuvları) [Combustion] veya 'Özgün Yanma' etkisine sahipse, tüm düşmanlara (veya tüm Anormallik Uzuvlarına) [Combustion] 2 Şiddeti uygula.",
+      "desc": "Çatışma Başlangıcı: Eğer tüm düşmanlar (veya tüm Anormallik Uzuvları) [Combustion] veya 'Özgün Yanma' etkisine sahipse, tüm düşmanlara (veya tüm Anormallik Uzuvlarına) 2 [Combustion] Şiddeti uygula.",
       "simpleDesc": [
         {
           "abilityID": 9003,
@@ -122,7 +122,7 @@
     {
       "id": 19005,
       "name": "Yara Clerid'i+",
-      "desc": "Eğer <style=\"upgradeHighlight\">düşmana [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan, yada Öfke Türü bir Yetenek ile vurulur ise</style>,<style=\"upgradeHighlight\">5 [Laceration] Şiddeti uygula</style>.",
+      "desc": "Bir <style=\"upgradeHighlight\">düşmana [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan, yada Öfke Türü bir Yetenek ile vurulur ise</style>,<style=\"upgradeHighlight\">5 [Laceration] Şiddeti uygula</style>.",
       "simpleDesc": [
         {
           "abilityID": 19005,
@@ -133,7 +133,7 @@
     {
       "id": 29005,
       "name": "Yara Clerid'i++",
-      "desc": "Eğer düşmana [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan, yada Öfke Türü bir Yetenek ile vurulur ise, <style=\"upgradeHighlight\">5 [Laceration] Şiddeti ve +1 [Laceration] Miktarı uygula</style>.",
+      "desc": "Bir düşmana [Laceration] Şiddeti veya 'Özgün Kanama' uygulayan, yada Öfke Türü bir Yetenek ile vurulur ise, <style=\"upgradeHighlight\">5 [Laceration] Şiddeti ve +1 [Laceration] Miktarı uygula</style>.",
       "simpleDesc": [
         {
           "abilityID": 29005,
@@ -234,7 +234,7 @@
     {
       "id": 9010,
       "name": "Kanlı Araç",
-      "desc": "Tur Başlangıcı: Rastgele bir müttefike 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; Söz konusu müttefike 1 ekstra [AttackDmgUp] uygula",
+      "desc": "Tur Başlangıcı: Rastgele bir müttefiğe 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; Söz konusu müttefiğe 1 ekstra [AttackDmgUp] uygula",
       "simpleDesc": [
         {
           "abilityID": 9010,
@@ -249,7 +249,7 @@
     {
       "id": 19010,
       "name": "Kanlı Araç+",
-      "desc": "Tur Başlangıcı: Rastgele bir müttefike 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; <style=\"upgradeHighlight\">Söz konusu müttefike 2 ekstra [AttackDmgUp] uygula</style>",
+      "desc": "Tur Başlangıcı: Rastgele bir müttefiğe 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; <style=\"upgradeHighlight\">Söz konusu müttefiğe 2 ekstra [AttackDmgUp] uygula</style>",
       "simpleDesc": [
         {
           "abilityID": 19010,
@@ -264,7 +264,7 @@
     {
       "id": 29010,
       "name": "Kanlı Araçt++",
-      "desc": "Tur Başlangıcı: Rastgele <style=\"upgradeHighlight\">2 müttefike</style>. 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; Söz konusu müttefike 2 ekstra [AttackDmgUp] uygula",
+      "desc": "Tur Başlangıcı: Rastgele <style=\"upgradeHighlight\">2 müttefiğe</style>. 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; Söz konusu müttefiğe 2 ekstra [AttackDmgUp] uygula",
       "simpleDesc": [
         {
           "abilityID": 29010,
@@ -279,7 +279,7 @@
     {
       "id": 9011,
       "name": "Güneş Sağnağı",
-      "desc": "Tembellik Tam Rezonansı yada 2+ Saldırı Ağırlığı olan bir Yetenek kullanırken:\n\nÇatışma Başlangıcında Her müttefik +2 Yetenek Gücü kazanır",
+      "desc": "Tembellik Mutlak Rezonansı yada 2+ Saldırı Ağırlığı olan bir Yetenek kullanırken:\n\nÇatışma Başlangıcında Her müttefik +2 Yetenek Gücü kazanır",
       "simpleDesc": [
         {
           "abilityID": 9011,
@@ -289,8 +289,8 @@
     },
     {
       "id": 9012,
-      "name": " Bugünün İfadesi",
-      "desc": "Bir düşmanı Tembellik Türü ya da Darbe Türü Yetenek ile öldürülür ise, Bu birimin Darbe Yetenek Gücünü sonra ki turun sonuna kadar 2 ile arttır.",
+      "name": "Bugünün İfadesi",
+      "desc": "Bir düşmanı Tembellik Türü ya da Darbe Türü Yetenek ile öldürülür ise, O birimin Darbe Yetenek Gücünü sonra ki turun sonuna kadar 2 ile arttır.",
       "simpleDesc": [
         {
           "abilityID": 9012,
@@ -391,7 +391,7 @@
     {
       "id": 29015,
       "name": "Kan, Ter, ve Gözyaşı++",
-      "desc": "Yetenekler Sersemlemiş düşmanlara <style=\"upgradeHighlight\">%15 daha fazla vurur</style>.\n\nEğer Yeteneğin Türü Tembellik ise, onun yerine<style=\"upgradeHighlight\"> %30 daha fazla hasar vur</style>..",
+      "desc": "Yetenekler Sersemlemiş düşmanlara <style=\"upgradeHighlight\">%15 daha fazla vurur</style>.\n\nEğer Yeteneğin Türü Tembellik ise, onun yerine<style=\"upgradeHighlight\"> %30 daha fazla hasar vur</style>.",
       "simpleDesc": [
         {
           "abilityID": 29015,
@@ -405,138 +405,138 @@
     },
     {
       "id": 9016,
-      "name": "Green Spirit",
-      "desc": "After hitting a non-Staggered enemy by using a Gluttony Affinity Skill, or inflicting [Vibration] Potency using Skill effects, randomly inflict a total of 4 [Vibration] Potency between all enemies(or all Abnormality parts).",
+      "name": "Yeşil ruh",
+      "desc": "Sersemlememiş bir düşmana Oburluk Türü Yetenek, veya [Vibration] Şiddeti uygulayan bir Yetenek ile vurulduğunda, tüm düşmanlar arasında rastgele toplam 4 [Vibration] Şiddeti uygula(Veya tüm Anomali uzuvlarında).",
       "simpleDesc": [
         {
           "abilityID": 9016,
-          "simpleDesc": "Randomly inflict 4 [Vibration] Potency"
+          "simpleDesc": "Rastgele 4 [Vibration] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 19016,
-      "name": "Green Spirit+",
-      "desc": "After hitting a non-Staggered enemy by using a Gluttony Affinity Skill, or inflicting [Vibration] Potency using Skill effects, randomly inflict a total of <style=\"upgradeHighlight\">6 [Vibration] Potency</style> between all enemies(or all Abnormality parts).",
+      "name": "Yeşil ruh+",
+      "desc": "Sersemlememiş bir düşmana Oburluk Türü Yetenek, veya [Vibration] Şiddeti uygulayan bir Yetenek ile vurulduğunda, tüm düşmanlar arasında rastgele toplam <style=\"upgradeHighlight\">6 [Vibration] Şiddeti</style> uygula(Veya tüm Anomali uzuvlarında).",
       "simpleDesc": [
         {
           "abilityID": 19016,
-          "simpleDesc": "Randomly inflict 6 [Vibration] Potency"
+          "simpleDesc": "Rastgele 6 [Vibration] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 29016,
-      "name": "Green Spirit++",
-      "desc": "After hitting a non-Staggered enemy by using a Gluttony Affinity Skill, or inflicting [Vibration] Potency using Skill effects, randomly inflict a total of <style=\"upgradeHighlight\">8 [Vibration] Potency</style> between all enemies(or all Abnormality parts).",
+      "name": "Yeşil ruh++",
+      "desc": "Sersemlememiş bir düşmana Oburluk Türü Yetenek, veya [Vibration] Şiddeti uygulayan bir Yetenek ile vurulduğunda, tüm düşmanlar arasında rastgele toplam <style=\"upgradeHighlight\">8 [Vibration] Şiddeti</style> uygula(Veya tüm Anomali uzuvlarında).",
       "simpleDesc": [
         {
           "abilityID": 29016,
-          "simpleDesc": "Randomly inflict 8 [Vibration] Potency"
+          "simpleDesc": "Rastgele 8 [Vibration] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 9017,
-      "name": "Lithograph",
-      "desc": "Whenever an enemy is Staggered, the ally with the least HP heals 5% of their Max HP.\n\nIf said ally has Gluttony Affinity Attack Skills, heal 10% of Max HP instead.",
+      "name": "Litografi",
+      "desc": "Bir düşman sersemletildiğinde, HP'nı en az olan müttefik Maks HP'nın %5'ini yeniler.\n\nEğer bahsedilen müttefik Oburluk Türü Saldırı Yeteneğine sahipse, onun yerine Max HP'nın %10'unu yeniler.",
       "simpleDesc": [
         {
           "abilityID": 9017,
-          "simpleDesc": "Heal 5% of Max HP"
+          "simpleDesc": "Max HP'nın %5'ini yenile"
         },
         {
           "abilityID": 90171,
-          "simpleDesc": "Heal 10% of Max HP"
+          "simpleDesc": "Max HP'nın %10'ini yenile"
         }
       ]
     },
     {
       "id": 9018,
-      "name": "Crown of Roses",
-      "desc": "Turn Start: inflict 4 [Burst] Potency on a random enemy(or all Abnormality parts).\n\nWhen activating Gluttony Absolute Resonance, inflict 2 [Burst] Potency on all enemies at Combat Start.",
+      "name": "Güllerden Taç",
+      "desc": "Tur Başında: Rastgele bir düşmana (veya tüm Anomali uzuvlarına) 4 [Burst] Şiddeti uygula.\n\nEğer Oburluk Mutlak Rezonansı aktif olduysa, Çatışma Başlangıcında tüm rakiplere 2 [Burst] Şiddeti uygula.",
       "simpleDesc": [
         {
           "abilityID": 9018,
-          "simpleDesc": "Inflict 4 [Burst] Potency"
+          "simpleDesc": "4 [Burst] Şiddeti uygula"
         },
         {
           "abilityID": 90181,
-          "simpleDesc": "Inflict 2 [Burst] Potency"
+          "simpleDesc": "2 [Burst] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 19018,
-      "name": "Crown of Roses+",
-      "desc": "Turn Start: inflict 4 [Burst] Potency on <style=\"upgradeHighlight\">2 random enemies</style>(or all Abnormality parts).\n\nWhen activating Gluttony Absolute Resonance, inflict <style=\"upgradeHighlight\">3 [Burst] Potency</style> on all enemies at Combat Start.",
+      "name": "Güllerden Taç+",
+      "desc": "Tur Başında: <style=\"upgradeHighlight\">Rastgele 2 düşmana (veya tüm Anomali uzuvlarına)</style> 4 [Burst] Şiddeti uygula.\n\nEğer Oburluk Mutlak Rezonansı aktif olduysa, Çatışma Başlangıcında tüm rakiplere<style=\"upgradeHighlight\"> 3 [Burst] Şiddeti</style> uygula.",
       "simpleDesc": [
         {
           "abilityID": 19018,
-          "simpleDesc": "Inflict 4 [Burst] Potency"
+          "simpleDesc": "4 [Burst] Şiddeti uygula"
         },
         {
           "abilityID": 190181,
-          "simpleDesc": "Inflict 3 [Burst] Potency"
+          "simpleDesc": "3 [Burst] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 29018,
-      "name": "Crown of Roses++",
-      "desc": "Turn Start: inflict 4 [Burst] Potency on <style=\"upgradeHighlight\">3 random enemies</style>(or all Abnormality parts).\n\nWhen activating Gluttony Absolute Resonance, inflict <style=\"upgradeHighlight\">4 [Burst] Potency</style> on all enemies at Combat Start.",
+      "name": "Güllerden Taç++",
+      "desc": "Tur Başında: <style=\"upgradeHighlight\">Rastgele 3 düşmana (veya tüm Anomali uzuvlarına)</style> 4 [Burst] Şiddeti uygula.\n\nEğer Oburluk Mutlak Rezonansı aktif olduysa, Çatışma Başlangıcında tüm rakiplere<style=\"upgradeHighlight\"> 4 [Burst] Şiddeti</style> uygula.",
       "simpleDesc": [
         {
           "abilityID": 29018,
-          "simpleDesc": "Inflict 4 [Burst] Potency"
+          "simpleDesc": "4 [Burst] Şiddeti uygula"
         },
         {
           "abilityID": 290181,
-          "simpleDesc": "Inflict 4 [Burst] Potency"
+          "simpleDesc": "4 [Burst] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 9019,
-      "name": "Sticky Muck",
-      "desc": "When hitting an enemy with a Pierce Skill or a Gluttony Affinity Skill, inflict 2 [DefenseDown].",
+      "name": "Yapışkan balçık",
+      "desc": "Bir düşmana Delme Yeteneği veya Oburluk Türü Yetenek ile vururken, 2 [DefenseDown] uygula.",
       "simpleDesc": [
         {
           "abilityID": 9019,
-          "simpleDesc": "Inflict 2 [DefenseDown]"
+          "simpleDesc": "2 [DefenseDown] uygula"
         }
       ]
     },
     {
       "id": 9020,
-      "name": "White Gossypium",
-      "desc": "Turn Start: If there are Staggered enemies, un-Stagger enemies. Then, inflict (8 + Stagger LV x 4) [Laceration] Potency and (8 + Stagger LV x4)/2 [AttackDown] on them. (Activates once per enemy per Encounter. Does not activate against certain enemies that do not recover from Stagger)",
+      "name": "Beyaz Pamuk",
+      "desc": "Tur Başında: Eğer Sersemlemiş düşman var ise, düşmanları ayılt, düşmanlara (8 + Sersemlik SVY x 4) kadar [Laceration] Şiddeti ve (8 + Sersemlik SVY x4)/2 kadar [AttackDown] Uygula. (Her karşılaşmada düşman başına bir kez aktif olabilir. Sersemleşmeden ayılamayan düşmanlara karşı çalışmaz.)",
       "simpleDesc": [
         {
           "abilityID": 9020,
-          "simpleDesc": "Inflict (8 + Stagger Level x 4) [Laceration] Potency"
+          "simpleDesc": "(8 + Sersemlik Seviyesi x 4) [Laceration] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 19020,
-      "name": "White Gossypium+",
-      "desc": "Turn Start: If there are Staggered enemies, un-Stagger enemies. Then, inflict <style=\"upgradeHighlight\">(10 + Stagger LV x 5) [Laceration] Potency</style> and <style=\"upgradeHighlight\">(10 + Stagger LV x 5)</style> [AttackDown]. (Activates once per enemy per Encounter. Does not activate against certain enemies that do not recover from Stagger)",
+      "name": "Beyaz Pamuk+",
+      "desc": "Tur Başında: Eğer Sersemlemiş düşman var ise, düşmanları ayılt, düşmanlara <style=\"upgradeHighlight\">(10 + Sersemlik SVY x 5) kadar [Laceration] Şiddeti</style> ve (10 + Sersemlik SVY x5)/2</style> kadar [AttackDown] Uygula. (Her karşılaşmada düşman başına bir kez aktif olabilir. Sersemleşmeden ayılamayan düşmanlara karşı çalışmaz.) ",
       "simpleDesc": [
         {
           "abilityID": 19020,
-          "simpleDesc": "Inflict (10 + Stagger Level x 5) [Laceration] Potency"
+          "simpleDesc": "(10 + Sersemlik Seviyesi x 5) [Laceration] Şiddeti uygula"
         }
       ]
     },
     {
       "id": 29020,
-      "name": "White Gossypium++",
-      "desc": "Turn Start: If there are Staggered enemies, un-Stagger enemies. Then, inflict <style=\"upgradeHighlight\">(12 + Stagger LV x 6) [Laceration] Potency</style> and <style=\"upgradeHighlight\">(12 + Stagger LV x 6)</style> [AttackDown] and <style=\"upgradeHighlight\">[DefenseDown]</style> on them. (Activates once per enemy per Encounter. Does not activate against certain enemies that do not recover from Stagger)",
+      "name": "Beyaz Pamuk++",
+      "desc": "Tur Başında: Eğer Sersemlemiş düşman var ise, düşmanları ayılt, düşmanlara <style=\"upgradeHighlight\">(12 + Sersemlik SVY x 6) kadar [Laceration] Şiddeti</style> ve (12 + Sersemlik SVY x6)/2</style> kadar [AttackDown] ve <style=\"upgradeHighlight\">[DefenseDown]</style> Uygula. (Her karşılaşmada düşman başına bir kez aktif olabilir. Sersemleşmeden ayılamayan düşmanlara karşı çalışmaz.) ",
       "simpleDesc": [
         {
           "abilityID": 29020,
-          "simpleDesc": "Inflict (12 + Stagger Level x 6) [Laceration] Potency"
+          "simpleDesc": "(12 + Sersemlik Seviyesi x 6) [Laceration] Şiddeti uygula"
         }
       ]
     },

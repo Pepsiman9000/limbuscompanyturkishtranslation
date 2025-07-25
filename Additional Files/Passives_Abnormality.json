@@ -85,7 +85,7 @@
     {
       "id": 800903,
       "name": "Çürüyen Elma",
-      "desc": "Vücüt yok edildiğinde, bütün parçalara 2 [Reduction] uygula."
+      "desc": "Vücut yok edildiğinde, bütün parçalara 2 [Reduction] uygula."
     },
     {
       "id": 800904,
@@ -95,7 +95,7 @@
     {
       "id": 801001,
       "name": "İşte Fabrikayı Yükselt",
-      "desc": "Bu birim öldüğünde, sonraki tur yeniden canlanır ve 1 [Operation] kazan."
+      "desc": "Bu birim öldüğünde, sonraki tur yeniden canlanır ve 1 [Operation] kazanır."
     },
     {
       "id": 801002,
@@ -104,13 +104,13 @@
     },
     {
       "id": 801201,
-      "name": "You Must Become Strong",
+      "name": "Güçlü Olmalısın",
       "desc": "Turun başlangıcında, 2 [Protection] kazan."
     },
     {
       "id": 801301,
-      "name": "Wavering Desires",
-      "desc": "While Desirous, the unit gains 2 Fragile and 10 Bind, gains 1 skill slot, and changes behavior."
+      "name": "Tereddütlü Arzu",
+      "desc": "[Greedy] iken, birim 2 [Vulnurable] ve 10 [Binding] kazanır, 1 yetenek yuvası kazanır ve davranış değiştirir"
     },
     {
       "id": 801302,
