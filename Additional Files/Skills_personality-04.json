@@ -1266,7 +1266,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ö.B./K.K.",
+          "name": "Ö.B./K.S.",
           "desc": "Eğer [RedEyeFirst] ve [PenanceFirst] toplamı 20 veya daha yüksekse, Jeton Gücü +1",
           "coinlist": [
             {
@@ -1291,7 +1291,7 @@
         },
         {
           "level": 2,
-          "name": "Ö.B./K.K.",
+          "name": "Ö.B./K.S.",
           "desc": "Eğer [RedEyeFirst] ve [PenanceFirst] toplamı 20 veya daha yüksekse, Jeton Gücü +1\n<style=\"highlight\">Eğer hedefin 6+ [Laceration]'sı varsa, Jeton Gücü +1</style>",
           "coinlist": [
             {
@@ -1322,7 +1322,7 @@
         },
         {
           "level": 4,
-          "name": "Ö.B./K.K.",
+          "name": "Ö.B./K.S.",
           "desc": "Eğer [RedEyeFirst] ve [PenanceFirst] toplamı <style=\"highlight\">15</style> veya daha yüksekse, Jeton Gücü +1\nEğer hedefin 6+ [Laceration]'ı varsa, Jeton Gücü +1",
           "coinlist": [
             {
