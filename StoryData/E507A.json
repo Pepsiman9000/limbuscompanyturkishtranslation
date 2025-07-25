@@ -11,7 +11,7 @@
         },
         {
             "id": 3,
-            "content": "Don Quixote ve Heathcliff herkesin önünde dizlerine çöktüler."
+            "content": "Don Quixote ve Heathcliff herkesin önünde dizlerine düştüler."
         },
         {
             "id": 4,
@@ -97,7 +97,7 @@
         },
         {
             "id": 24,
-            "content": "Crayon başlangıçta ona gelen soru yağmuru karşısında biraz ürkmüş görünüyordu. Ama sonrasında açıldı."
+            "content": "Crayon başlangıçta ona gelen soru yağmuru karşısında biraz ürkmüş gibi görünüyordu. Ama sonrasında açıldı."
         },
         {
             "id": 25,
@@ -158,77 +158,77 @@
         {
             "id": 36,
             "model": "그레고르",
-            "content": "Oh... We forced you to talk about something that couldn't have been easy to go through. I'm sorry."
+            "content": "Oh... Seni katlanması zor olan bir durum hakkında konuşmaya zorladık. Üzgünüm."
         },
         {
             "id": 37,
             "model": "크레용",
-            "content": "N-no, it's okay... Can I... ask things, too?"
+            "content": "H-Hayır, sorun yok... Ben de... bir şeyler sorabilir miyim?"
         },
         {
             "id": 38,
             "model": "그레고르",
-            "content": "Anything."
+            "content": "Sor gitsin."
         },
         {
             "id": 39,
             "model": "크레용",
-            "content": "Is it right that crayon boxes in the City have 48 different colors? And they have gold and silver colored crayons, too?"
+            "content": "Şehirdeki boya kalemlerinin 48 farklı rengi olduğu doğru mu? Altın ve gümüş renkli boyaları da var mı?"
         },
         {
             "id": 40,
             "model": "그레고르",
-            "content": "Um... Probably..."
+            "content": "Aaa... Herhalde..."
         },
         {
             "id": 41,
             "model": "크레용",
-            "content": "And..."
+            "content": "Ve..."
         },
         {
             "id": 42,
             "model": "크레용",
-            "content": "... there's just people in the City, right? No... monsters like the gnomes that try to kill us, right?"
+            "content": "... Şehirde sadece insanlar var, değil mi? Hiç... cüceler gibi bizi öldürmeye çalışan canavarlar yok, değil mi?"
         },
         {
             "id": 43,
             "model": "로쟈",
-            "content": "Hmm... It's kinda hard to answer that, actually."
+            "content": "Hmm... Aslında, buna cevap vermesi zor."
         },
         {
             "id": 44,
             "model": "크레용",
-            "content": "Sometimes, I'd climb a high hill to look at the City. I always saw pretty, colorful lights from up there... So colorful that I don't have enough colors in my crayon box to draw them all."
+            "content": "Bazen, Şehire bakmak için uzun bir tepeye tırmanırım. Orada hep rengarenk, güzel ışıklar görürüm... Öyle renkli ki hepsini boyamak için boya kutumda yeterli renk yok."
         },
         {
             "id": 45,
             "model": "크레용",
-            "content": "I wish I could live in the City. If I lived there, I'd never have to worry about getting attacked by monsters. I could live happily with all my neighbors..."
+            "content": "Keşke Şehirde yaşayabilsem. Eğer orada yaşasaydım, canavarlar tarafından saldırıya uğramak endişesi yaşamazdım. Tüm komşularımla birlikte mutluca yaşardım..."
         },
         {
             "id": 46,
             "model": "로쟈",
-            "content": "... You've really never been to the City, huh."
+            "content": "... Hiç Şehire gitmedin, huh."
         },
         {
             "id": 47,
             "model": "료슈",
-            "content": "S.S.E."
+            "content": "H.A.M."
         },
         {
             "id": 48,
             "model": "크레용",
-            "content": "I'm sorry...?"
+            "content": "Pardon...?"
         },
         {
             "id": 49,
             "model": "료슈",
-            "content": "Same story everywhere. Doesn't matter where you are. Death always stalks us."
+            "content": "Hep Aynı Mevzu. Nerede olduğun önemsiz. Ölüm her zaman boynumuzda."
         },
         {
             "id": 50,
             "model": "크레용",
-            "content": "Woah... that was so cool! Can you say that again?"
+            "content": "Vay... bu çok havalıydı! Bunu tekrar söyleyebilir misin?"
         },
         {
             "id": 51,
@@ -238,27 +238,27 @@
         {
             "id": 52,
             "model": "크레용",
-            "content": "... Oh! Uh, did you guys see anyone else nearby, by any chance?"
+            "content": "... Oh! Uh, yakınlarda başka birisini gördünüz mü, acaba?"
         },
         {
             "id": 53,
             "model": "이스마엘",
-            "content": "I don't think we ran into any other humans out here."
+            "content": "Başka kimseyle karşılaştığımızı sanmıyorum."
         },
         {
             "id": 54,
             "model": "크레용",
-            "content": "No... But he has to be here to save us..."
+            "content": "Hayır... Ama bizi kurtarması için burada olması gerekirdi..."
         },
         {
             "id": 55,
             "model": "홍루",
-            "content": "Who do you mean?"
+            "content": "Kimden bahsediyorsun?"
         },
         {
             "id": 56,
             "model": "크레용",
-            "content": "The best Hunter of Cloud Town... If he was at the village, the gnomes wouldn't have..."
+            "content": "Bulut Kasabası'nın en iyi Avcısı... Köyde bulunsaydı, cüceler asla..."
         },
         {
             "id": 57,
@@ -268,17 +268,17 @@
         {
             "id": 58,
             "model": "로쟈",
-            "content": "But... Wait."
+            "content": "Ama... Bekle."
         },
         {
             "id": 59,
             "model": "로쟈",
-            "content": "So if they're kidnapping and killing humans for these gifts..."
+            "content": "Eğer insanları hediye yapmak için kaçırıp öldürüyorlar ise..."
         },
         {
             "id": 60,
             "model": "로쟈",
-            "content": "... Who are these gifts for?"
+            "content": "... Bu hediyeler kimin için?"
         },
         {
             "id": 61,
@@ -292,34 +292,34 @@
             "model": "산타타",
             "teller": "???",
             "title": "???",
-            "content": "Of course, the gifts are for our poor and kind neighbors who do not cry!"
+            "content": "Tabii, hediyeler bizim ağlamayan fakir ve nazik komşularımız için!"
         },
         {
             "id": 63,
             "model": "오티스",
-            "content": "Executive Manager! Retreat!"
+            "content": "İdari Müdür! Geri çekilin!"
         },
         {
             "id": 64,
-            "content": "I don't know when it happened... but a large shadow was looming over us."
+            "content": "Ne zaman gelmişti bilmiyordum... ama büyük bir gölge bizim üzerimizdeydi."
         },
         {
             "id": 65,
             "model": "로쟈",
-            "content": "Augh! What is that thing?!"
+            "content": "Augh! O da ne be?!"
         },
         {
             "id": 66,
             "model": "산타타",
-            "content": "I am Santata, bringer of gifts to our neighbors! HO! HO! HO!"
+            "content": "Ben Santata, komşularımıza hediyeleri getirenim! HO! HO! HO!"
         },
         {
             "id": 67,
-            "content": "The guffawing giant, garbed in red, carried a massive gift sack on his shoulder."
+            "content": "Kahkaha atan, kırmızılara bürünmüş dev, omzunda kocaman bir hediye çuvalı taşıyordu."
         },
         {
             "id": 68,
-            "content": "It was definitely not a human."
+            "content": "Kesinlikle bir insan değildi."
         },
         {
             "id": 69,
@@ -333,7 +333,7 @@
         },
         {
             "id": 71,
-            "content": "The pair immediately jumped up from their knees and began shouting in unison."
+            "content": "İkili hemen ayağa kalkıp birlikte bağırmaya başladılar."
         },
         {
             "id": 72,
@@ -348,16 +348,16 @@
         {
             "id": 74,
             "model": "오티스",
-            "content": "Shut it! Cut the useless chatter, for once..."
+            "content": "Kesin sesinizi! Boş boş konuşmayı kesin hemen..."
         },
         {
             "id": 75,
-            "content": "After silencing the pair with a short, stern command, Outis approached me and spoke in a low voice."
+            "content": "İkiliyi kısa, sert bir emir ile susturduktan sonra, Outis yanıma gelip kısık sesle benimle konuştu."
         },
         {
             "id": 76,
             "model": "오티스",
-            "content": "Executive Manager. Since he appears to be of an intelligent species, I will attempt to parlay with it. ... But we best prepare for battle in case the talks fall through."
+            "content": "İdari Müdür. Akıllı bir canlı türündenmiş gibi göründüğü için, onunla ateşkes hakkında pazarlık yapmaya çalışacağım. ... Ama konuşmak başarısız olursa diye savaşmaya hazır olalım."
         },
         {
             "id": 77,
@@ -367,17 +367,17 @@
         {
             "id": 78,
             "model": "이스마엘",
-            "content": "What do you mean by neighbors...? Wings? Clients from the City?"
+            "content": "Komşu derken neyden bahsediyorsun...? Kanatlar? Şehirden müşteriler?"
         },
         {
             "id": 79,
             "model": "산타타",
-            "content": "HO! HO! HO! But we are denied entry to the City, are we not?"
+            "content": "HO! HO! HO! Ama Şehire girişimiz yasak, değil mi ya?"
         },
         {
             "id": 80,
             "model": "로쟈",
-            "content": "Is that big lump of meat a gnome, too...?"
+            "content": "Bu kocaman et yığını da mı cüce ya...?"
         },
         {
             "id": 81,
@@ -387,12 +387,12 @@
         {
             "id": 82,
             "model": "그레고르",
-            "content": "A giant...? There really are all kinds of monsters out here, huh."
+            "content": "Bir dev...? Harbiden de birsürü canavar türü varmış, ha."
         },
         {
             "id": 83,
             "model": "로쟈",
-            "content": "Dante, that's not an Abnormality, is it?"
+            "content": "Dante, bu bir Anomali değil, değil mi?"
         },
         {
             "id": 84,
@@ -402,42 +402,42 @@
         {
             "id": 85,
             "model": "산타타",
-            "content": "HO! HO! Do you yearn for gifts, too? Yet your kind already owns all there is to own!"
+            "content": "HO! HO! Sen de hediye ister miydin? Ama sizin türünüz zaten sahip olunacak her şeye sahip!"
         },
         {
             "id": 86,
             "model": "산타타",
-            "content": "We and our neighbors in the Outskirts wish so dearly for that very day. The only day we are allowed joy and comfort in human gifts."
+            "content": "Biz ve Arka Sokaklardaki komşularımız o günü iple çeker. İnsan hediyelerindeki neşe ve refahlığa kavuşabildiğimiz o gün."
         },
         {
             "id": 87,
             "model": "뫼르소",
-            "content": "I see. You produce toys out of humans and gift them to those who harbor hatred for humans."
+            "content": "Anladım. İyi niyetinizle..."
         },
         {
             "id": 88,
             "model": "뫼르소",
-            "content": "Out of the pure goodness of your heart."
+            "content": "İnsanlardan hediyeler yapıp, insanlardan nefret edenlere armağan ediyorsunuz."
         },
         {
             "id": 89,
             "model": "산타타",
-            "content": "Here, where all those who have been marginalized and exiled by humans gather and wallow..."
+            "content": "Burada, insanlar tarafından dışlanıp sürgün edilenlerin toplandığı yerde..."
         },
         {
             "id": 90,
             "model": "산타타",
-            "content": "... we pour our infinite hatred and care into packaging these gifts. HO! HO! HO!"
+            "content": "... sonsuz nefretimiz ve özenimiz ile bu hediyeleri paketleriz. HO! HO! HO!"
         },
         {
             "id": 91,
             "model": "오티스",
-            "content": "Quite the verbose way of saying 'I refuse to negotiate'."
+            "content": "'Müzakerede bulunmayacağım' demenin ne laklaklı hali."
         },
         {
             "id": 92,
             "model": "산타타",
-            "content": "HO! HO! HO! Why don't you come here and join us, become joy to those who need it?"
+            "content": "HO! HO! HO! Niye gelip bize katılıp, ihtiyacı olanlara neşe olmuyorsunuz?"
         }
     ]
 }
