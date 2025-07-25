@@ -279,7 +279,7 @@
                 {
                     "level": 4,
                     "name": "Bana Gel!",
-                    "desc": "<style=\"highlight\">[StartBattle] Dashboard'da bu birime bitişik 2 müttefike 2 Defans Seviyesi Yükselt uygula</style>\n[WhenUse] Sonraki turda, en yüksek Max HP'ye sahip 1 diğer müttefikin en soldaki Yetenek Yuvasına +(en yüksek Rezon.) [Aggro] kazan (turda bir kez)\n- 4+ en yüksek A-Rezon. varsa, müttefik Aggro kazandığında sonraki turda 1 Korunma uygula (turda bir kez)",
+                    "desc": "<style=\"highlight\">[StartBattle] Panel'de bu birime bitişik 2 müttefike 2 Defans Seviyesi Yükselt uygula</style>\n[WhenUse] Sonraki turda, en yüksek Max HP'ye sahip 1 diğer müttefikin en soldaki Yetenek Yuvasına +(en yüksek Rezon.) [Aggro] kazan (turda bir kez)\n- 4+ en yüksek A-Rezon. varsa, müttefik Aggro kazandığında sonraki turda 1 Korunma uygula (turda bir kez)",
                     "coinlist": [
                         {},
                         {
@@ -299,7 +299,7 @@
                 {
                     "level": 1,
                     "name": "Sonuna Kadar Takip Edin!",
-                    "desc": "[WhenUse] En yüksek Rezon. değerinin her bir rezonansı için, bu birimin Dashboard'da hemen sağındaki müttefiğe bu turda [CoverAttack] kullanmasını emretme şansına %10 ekler.",
+                    "desc": "[WhenUse] En yüksek Rezon. değerinin her bir rezonansı için, bu birimin Panel'de hemen sağındaki müttefiğe bu turda [CoverAttack] kullanmasını emretme şansına %10 ekler.",
                     "coinlist": [
                         {},
                         {
@@ -312,7 +312,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] 1 Yanma uygula"
+                                    "desc": "[OnSucceedAttackHead] 1 [Combustion] uygula"
                                 }
                             ]
                         }
@@ -321,7 +321,7 @@
                 {
                     "level": 2,
                     "name": "Sonuna Kadar Takip Edin!",
-                    "desc": "[WhenUse] En yüksek Rezon. değerinin her bir rezonansı için, bu birimin Dashboard'da hemen sağındaki müttefiğe bu turda [CoverAttack] kullanmasını emretme şansına %15 ekler.\n- 4+ en yüksek A-Rezon. varsa, müttefiğe 1 Hasar Yükselt uygula\n- 4+ Kibir A-Rezon. varsa, ek olarak 1 Kibir Güç Yükselt uygula",
+                    "desc": "[WhenUse] En yüksek Rezon. değerinin her bir rezonansı için, bu birimin Panel'de hemen sağındaki müttefiğe bu turda [CoverAttack] kullanmasını emretme şansına %15 ekler.\n- 4+ en yüksek A-Rezon. varsa, müttefiğe 1 Hasar Yükselt uygula\n- 4+ Kibir A-Rezon. varsa, ek olarak 1 Kibir Güç Yükselt uygula",
                     "coinlist": [
                         {},
                         {
@@ -334,7 +334,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 1 Yanma uygula"
+                                    "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                                 }
                             ]
                         }
@@ -343,7 +343,7 @@
                 {
                     "level": 4,
                     "name": "Sonuna Kadar Takip Edin!",
-                    "desc": "[StartBattle] Dashboard'da bu birime bitişik 2 müttefiğe 3 Saldırı Seviyesi Yükselt uygula\n[WhenUse] En yüksek Rezon. değerinin her bir rezonansı için, bu birimin Dashboard'da hemen sağındaki müttefiğe bu turda [CoverAttack] kullanmasını emretme şansına %20 ekler.\n- 4+ en yüksek A-Rezon. varsa, müttefiğe 2 Hasar Yükselt uygula\n- 4+ Kibir A-Rezon. varsa, ek olarak 2 Kibir Güç Yükselt uygula",
+                    "desc": "[StartBattle] Panel'de bu birime bitişik 2 müttefiğe 3 Saldırı Seviyesi Yükselt uygula\n[WhenUse] En yüksek Rezon. değerinin her bir rezonansı için, bu birimin Panel'de hemen sağındaki müttefiğe bu turda [CoverAttack] kullanmasını emretme şansına %20 ekler.\n- 4+ en yüksek A-Rezon. varsa, müttefiğe 2 Hasar Yükselt uygula\n- 4+ Kibir A-Rezon. varsa, ek olarak 2 Kibir Güç Yükselt uygula",
                     "coinlist": [
                         {},
                         {
@@ -356,7 +356,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 1 Yanma uygula"
+                                    "desc": "[OnSucceedAttack] 1 [Combustion] uygula"
                                 }
                             ]
                         }
@@ -390,7 +390,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +1 Yanma Miktarı uygula"
+                                    "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı uygula"
                                 }
                             ]
                         }
@@ -419,7 +419,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +1 Yanma Miktarı uygula"
+                                    "desc": "[OnSucceedAttack] +1 [Combustion] Miktarı uygula"
                                 }
                             ]
                         }
@@ -433,7 +433,7 @@
                 {
                     "level": 1,
                     "name": "Korkma",
-                    "desc": "[WhenUse] Dashboard'da bu birime bitişik 2 müttefik için 3 SP yenile (maks 2 kez)",
+                    "desc": "[WhenUse] Panel'de bu birime bitişik 2 müttefik için 3 SP yenile (maks 2 kez)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -447,7 +447,7 @@
                 {
                     "level": 4,
                     "name": "Korkma",
-                    "desc": "[WhenUse] Dashboard'da bu birime bitişik 2 müttefik için 5 SP yenile (maks 2 kez)",
+                    "desc": "[WhenUse] Panel'de bu birime bitişik 2 müttefik için 5 SP yenile (maks 2 kez)",
                     "coinlist": [
                         {}
                     ]
@@ -967,8 +967,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Your Shield",
-                    "desc": "[CanDuelGuard]\n[StartBattle] Gain 2 [DefensiveStance]. (once per turn)\n[WhenUse] Gain +10 [Vibration] Count (once per turn)",
+                    "name": "Senin Kalkanın",
+                    "desc": "[CanDuelGuard]\n[StartBattle] 2 [DefensiveStance] Kazan. (Tur başına bir kez)\n[WhenUse] +10 [Vibration] Miktarı Kazan. (Tur başına bir kez)",
                     "coinlist": [
                         {
                             "coindescs": [
