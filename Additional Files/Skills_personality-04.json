@@ -1482,7 +1482,7 @@
         {
           "level": 3,
           "name": "Ciddi Kafakıran",
-          "desc": "[WhenUse] Kendindeki tüm [RedEyeFirst] ve [PenanceFirst]'i kullan\n- Her 5 kullanılan [RedEyeFirst] için Jeton Gücü +1 (maks 4)\n- Her 5 kullanılan [PenanceFirst] için Taban Gücü +1 (maks 4)\n[EndSkill] 15 SP kaybet ve sonraki tur [Emptiness] kazan",
+          "desc": "[WhenUse] Kendindeki tüm [RedEyeFirst] ve [PenanceFirst]'i kullan\n- Kullanılan her 5 [RedEyeFirst] için Jeton Gücü +1 (maks 4)\n- Kullanılan her 5 [PenanceFirst] için Taban Gücü +1 (maks 4)\n[EndSkill] 15 SP kaybet ve sonraki tur [Emptiness] kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -1513,7 +1513,7 @@
         {
           "level": 4,
           "name": "Ciddi Kafakıran",
-          "desc": "[WhenUse] Kendindeki tüm [RedEyeFirst] ve [PenanceFirst]'i kullan\n- Her 5 kullanılan [RedEyeFirst] için Jeton Gücü +1 (maks 4)\n- Her 5 kullanılan [PenanceFirst] için Taban Gücü +1 (maks 4)\n[EndSkill] 15 SP kaybet ve sonraki tur [Emptiness] kazan",
+          "desc": "[WhenUse] Kendindeki tüm [RedEyeFirst] ve [PenanceFirst]'i kullan\n- Kullanılan her 5 [RedEyeFirst] için Jeton Gücü +1 (maks 4)\n- Kullanılan her 5 [PenanceFirst] için Taban Gücü +1 (maks 4)\n[EndSkill] 15 SP kaybet ve sonraki tur [Emptiness] kazan",
           "coinlist": [
             {
               "coindescs": [
