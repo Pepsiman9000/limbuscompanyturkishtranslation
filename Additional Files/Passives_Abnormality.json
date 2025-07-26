@@ -125,12 +125,12 @@
     {
       "id": 802401,
       "name": "Titreyen Kollar",
-      "desc": "At the start of the turn, gain Attack Power Up and Protection by the Count of Instincts."
+      "desc":"Turun başlangıcında, [Agressive] miktarı kadar [Enhancement] ve [Protection] kazan."
     },
     {
       "id": 802402,
-      "name": "Damaged Arms",
-      "desc": "Lose 1 Instincts whenever the unit takes damage from attacks."
+      "name": "Hasarlı Kollar",
+      "desc": "Birim saldırılardan hasar aldığında 1 [Agressive] kaybet."
     },
     {
       "id": 802403,
