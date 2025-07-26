@@ -6,26 +6,26 @@
             "model": "쌍갈고리파조직원2",
             "teller": "Kidnapper 2",
             "title": "???",
-            "content": "Ye bastards... When our boss hears of this, yer all finished...!"
+            "content": "Ula' kahbeler... Patronumuz bunu duyduğunda, amı götü dağıtacaksınız...!"
         },
         {
             "id": 1,
             "model": "쌍갈고리파조직원2",
             "teller": "Kidnapper 2",
             "title": "???",
-            "content": "So if ye... uh, bow down and... beg fer..."
+            "content": "Yani... şey, ona diz çöküb... yalvarırsanız..."
         },
         {
             "id": 2,
             "model": "쌍갈고리파조직원2",
             "teller": "Kidnapper 2",
             "title": "???",
-            "content": "W-wait! I'm not finished! Get away! Git!"
+            "content": "B-Bekle lan! İşim bitmedi! Öte dur lan, şerro!"
         },
         {
             "id": 3,
             "model": "이스마엘",
-            "content": "Oh, that's convenient."
+            "content": "Oh, ne de münasıp bir zamanda."
         },
         {
             "id": 4,
@@ -35,17 +35,17 @@
         {
             "id": 5,
             "model": "이스마엘",
-            "content": "Nice. Now we know we can go up the chain and talk to their 'boss' in charge. Let's stop wasting our time here."
+            "content": "Güzel. Artık komuta zincirini tırmanıp 'patron'ları her kimse konuşabiliriz. Burada durup vaktimizi çöp etmeyelim."
         },
         {
             "id": 6,
             "model": "이스마엘",
-            "content": "I don't want to have to crack open these shipping containers one by one and go through mountains of rotting corpses."
+            "content": "Şu konteynırları teker teker açıp, dağ gizi dizilmiş cesetleri incelemek istemiyorum."
         },
         {
             "id": 7,
             "model": "이스마엘",
-            "content": "You can still point, right?"
+            "content": "Hala işaret edebiliyorsun, değil mi?"
         },
         {
             "id": 8,
@@ -59,74 +59,74 @@
             "model": "쌍갈고리파조직원2",
             "teller": "Kidnapper 2",
             "title": "???",
-            "content": "P... please..."
+            "content": "L... Lütfen..."
         },
         {
             "id": 10,
             "model": "이스마엘",
-            "content": "The location of your boss. Mark it on this map with your finger."
+            "content": "Patronunuzun konumu. Parmağın ile işaretle bakalım."
         },
         {
             "id": 11,
-            "content": "I wasn't sure when she picked it up, but Ishmael was carrying a travel brochure of Marlin Port. She shoved it in the pirate's face, who struggled for a moment before pointing to a location on the map."
+            "content": "Ishmael, ne zaman aldığından emin olmadığım bir şekilde Marlin Limanı'nın bir turistik haritasını tutuyordu. Korsanın yüzüne haritayı tutuşturmuş, ve korsan biraz zorlandıktan sonra bir konumu işaret etmişti."
         },
         {
             "id": 12,
-            "content": "As soon as her trembling finger reached the paper..."
+            "content": "Titreyen parmakları kağıda ulaştığı anda ise..."
         },
         {
             "id": 13,
             "model": "단테2",
-            "content": "<Ishmael, Wait—>"
+            "content": "<Ishmael, Bekle—>"
         },
         {
             "id": 14,
             "model": "이스마엘",
-            "content": "Well, we have our next stop. What are we waiting for?"
+            "content": "İşte sıradaki durağımız. Neyi bekliyoruz ki?"
         },
         {
             "id": 15,
-            "content": "Ishmael walked out, leaving nothing but shipping containers full of both old and fresh bodies behind."
+            "content": "Ishmael dışarı çıkmış, ve arkasında gerek çürük, gerek taze tonlarca ceset bırakmıştı."
         },
         {
             "id": 16,
             "model": "그레고르",
-            "content": "What are the odds that the LCCB Agent we were supposed to meet is still alive...?"
+            "content": "Buluşmamız gereken LŞTÖ Ajanının hayatta olma ihtimali ne kadar...?"
         },
         {
             "id": 17,
             "model": "이스마엘",
-            "content": "Depends on how rich they think we are."
+            "content": "Ne kadar zengin olduğumuzu düşünmelerine bağlı."
         },
         {
             "id": 18,
             "model": "그레고르",
-            "content": "... He could already be dead, then."
+            "content": "... Çoktan ölmüş de olabilir yani."
         },
         {
             "id": 19,
             "model": "이스마엘",
-            "content": "Even if the worst comes to pass, we should still find his body. That'll at least give us something."
+            "content": "En kötü senaryo gerçekleşse dahi, bedenini bulabiliriz. En azından bu bize bir şey kazandırır."
         },
         {
             "id": 20,
             "model": "싱클레어",
-            "content": "... If that's all we find at the end of this, his corpse... Ishmael..."
+            "content": "... Eğer günün sonunda bulduğumuz tek şey cesedi olursa... Ishmael..."
         },
         {
             "id": 21,
             "model": "싱클레어",
-            "content": "I... don't think I could forgive..."
+            "content": "Sanırım... affedemem..."
         },
         {
             "id": 22,
             "model": "이스마엘",
-            "content": "Ha... who, me?"
+            "content": "Ha... kimi, beni mi?"
         },
         {
             "id": 23,
             "model": "싱클레어",
-            "content": "No. Us. We who... didn't even try to save them."
+            "content": "Hayır. Bizi... Onu kurtarmaya bile çalışmayan bizi."
         },
         {
             "id": 24,
@@ -136,116 +136,116 @@
         {
             "id": 25,
             "model": "파우스트",
-            "content": "I am listening."
+            "content": "Dinliyorum."
         },
         {
             "id": 26,
             "model": "단테2",
-            "content": "<Should we do something? Is she going to be okay? I mean, Ishmael...>"
+            "content": "<Bir şey yapmalı mıyız? Sence iyi olacak mıdır? Yani, Ishmael...>"
         },
         {
             "id": 27,
             "model": "파우스트",
-            "content": "I can give you answers regarding her insubordination and her emotional state."
+            "content": "İtaatsizliği ve ruhsal durumu üzerine bilgiler verebilirim."
         },
         {
             "id": 28,
             "model": "파우스트",
-            "content": "But this is not a matter in which Faust's answers can be of much assistance."
+            "content": "Fakat Faust'un yardımının çok fark yaratmayacağı bir durumdayız."
         },
         {
             "id": 29,
             "model": "오티스",
-            "content": "Executive Manager, such insubordination and nigh rogue behavior would have resulted in an on-the-spot execution in any other organization."
+            "content": "İdari Müdür. Böylesine bir itaatsizlik ve başına buyrukluk, başka bir organizasyonda failin olay yerinde idamı ile sonuçlanırdı."
         },
         {
             "id": 30,
             "model": "오티스",
-            "content": "I am aware that punishing the Sinners is not a part of the authority given to you, but there must be penalties befitting her actions for proper management."
+            "content": "Günahkarlar'a ceza vermenin sizin sorumluluğunuz olmadığının farkındayım, fakat bu yaptıklarına karşın bir tür ceza alması elzem."
         },
         {
             "id": 31,
             "model": "단테2",
-            "content": "<Outis, you're always on my side.>"
+            "content": "<Outis, her zaman benim tarafımı tutuyorsun.>"
         },
         {
             "id": 32,
             "model": "단테2",
-            "content": "<Pretty much always, now that I think about it...>"
+            "content": "<Hatta biraz düşününce, gerçekten her zaman...>"
         },
         {
             "id": 33,
             "model": "오티스",
-            "content": "I have been... a leader of men once, as you are now. I can sympathize with your troubles."
+            "content": "Ben de geçmişte... Sizin gibi bir liderdim. Dertlerinizi anlayabiliyorum."
         },
         {
             "id": 34,
             "model": "단테2",
-            "content": "<I don't know if I can manage Ishmael anymore... I just don't.>"
+            "content": "<Artık Ishmael'i idare edebileceğimi... gerçekten düşünmüyorum.>"
         },
         {
             "id": 35,
             "model": "단테2",
-            "content": "<Though it looked like she was acting rash, maybe it was... maybe she knew the right thing to do in this scenario.>"
+            "content": "<Biraz düşüncesiz davranmış gibi görünse de, belki... belki de bu senaryoda yapılması gerekeni bildiğinden böyle davranmıştır.>"
         },
         {
             "id": 36,
             "model": "단테2",
-            "content": "<If Ishmael suddenly decides to quit, or something...>"
+            "content": "<Eğer Ishmael bir anda işi bırakmaya karar verirse...>"
         },
         {
             "id": 37,
-            "content": "Faust will doubtless proceed to educate me on the various clauses that prevent Ishmael from quitting..."
+            "content": "Faust, şüphesiz bir şekilde Ishmael'in işten ayrılmasını engelleyen sayısız fıkradan bahsedecekti..."
         },
         {
             "id": 38,
-            "content": "But it's not like I could force her to come along should this hostility escalate. Besides, she'd already acted without my orders earlier."
+            "content": "Fakat bu düşmanlığı devam edecekse, onu bizimle beraber kalmaya zorlayamam. Yanı sıra, önceden de çoktan emirlerime itaatsizlikte bulunmuştu."
         },
         {
             "id": 39,
-            "content": "She did say that she'd follow my orders. But I wasn't sure how long that would last."
+            "content": "Emirlerimi takip edeceğini söylemişti. Fakat bu ne kadar sürecek, bilmiyordum."
         },
         {
             "id": 40,
             "model": "오티스",
-            "content": "Executive Manager. That doesn't matter."
+            "content": "İdari Müdür, bunun bir önemi yok."
         },
         {
             "id": 41,
             "model": "오티스",
-            "content": "We don't need there to be 12 Sinners."
+            "content": "12 tane Günahkar'ımızın olması gerekmiyor."
         },
         {
             "id": 42,
             "model": "단테2",
-            "content": "<... Are you saying that we leave Ishmael?>"
+            "content": "<... Ishmael'i bırakalım mı diyorsun?>"
         },
         {
             "id": 43,
             "model": "오티스",
-            "content": "Executive Manager. I have wandered for many years in far, far lands before making my journey here. And I have done so with steadfast determination—for a single clause on my contract with the company."
+            "content": "İdari Müdür. Buraya gelmeden önce uzak, çok uzak yerlerde uzun süre maceralarda bulundum. Ve bunu tek bir fıkra için, Şirket adına büyük bir azim ile yaptım."
         },
         {
             "id": 44,
             "model": "오티스",
-            "content": "I came ready to face all the hardships that the journey entails. Adversity, conflict, and loss of comrades are simply facts of this quest that I must weather. Truth be told, I expect all of them to happen at some point in our journey."
+            "content": "Bu yolculuğun yükleyeceği tüm zorlukları bilerek geldim. Düşmanlık, çatışma ve yoldaşlarımı kaybetmek sadece üstesinden gelmem gereken sınamalardır. Doğrusu, bunların hepsinin yolculuğumuz sırasında yaşanmasını bekliyordum."
         },
         {
             "id": 45,
             "model": "오티스",
-            "content": "Oh, I will always remain by your side, of course."
+            "content": "Ah, ben elbette her zaman yanınızda olacağım."
         },
         {
             "id": 46,
-            "content": "She smoothly added the last part, but..."
+            "content": "Son cümleyi de usulca eklemişti, fakat..."
         },
         {
             "id": 47,
-            "content": "But there was a growing suspicion at the back of my mind that, maybe, not everyone felt a sense of belonging from this group."
+            "content": "Kafamda, belki de buradaki herkesin bu gruba bir aidiyet hissi duymadığı şüphesi gittikçe artıyordu."
         },
         {
             "id": 48,
-            "content": "Maybe I was the only one who sought a sense of belonging from them. That we'd fight as one no matter what ordeal this journey threw in our way."
+            "content": "Belki de bu birliktelik hissini duyan tek kişi bendim. Karşımıza gelen her sınamayı var gücümüzle aşacağımıza inanan tek kişi bendim."
         }
     ]
 }
