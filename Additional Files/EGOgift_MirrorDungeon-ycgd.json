@@ -88,16 +88,16 @@
         },
         {
             "id": 2033,
-            "name": "Unbending",
-            "desc": "Encounter Start: activates when there are 3 or more Blade Lineage Identities.\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to [Breath] Potency on self.",
+            "name": "Kararlılık",
+            "desc": "Karşılaşma başlangıcında: 3 veya daha fazla Kılıç Soyu kişiliği varsa aktifleşir.\n\nTur başlangıcında : Bütün müttefikler 2 [SlashResultUp] kazanir ve %35 daha fazla kesme hasarı vururlar.\n\nTur başlangıcında: Bir Kılıç Soyu kişiliği kritik vurduğunda, Kendindeki [Breath] şiddetine eşit fazladan kibir hasarı uygular.",
             "simpleDesc": [
                 {
                     "abilityID": 2033,
-                    "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
+                    "simpleDesc": "2 [SlashResultUp] Kazan ve %35 daha fazla hasar vur"
                 },
                 {
                     "abilityID": 20331,
-                    "simpleDesc": "Deal additional Pride damage equal to [Breath] Potency on self"
+                    "simpleDesc": "Kendindeki [Breath] Şiddetine eşit kibir hasarı uygular."
                 }
             ]
         },
