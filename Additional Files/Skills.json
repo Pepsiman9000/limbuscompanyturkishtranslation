@@ -1326,7 +1326,7 @@
         },
         {
           "level": 4,
-          "name": "Catch Breath",
+          "name": "Soluklanma",
           "desc": "[WhenUse] Sonraki tur 2 Hızlanma kazan",
           "coinlist": [
             {
@@ -1610,7 +1610,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 2 Defans Seviye Düşüşü uygula"
+                  "desc": "[OnSucceedAttackHead] 2 Savunma Seviyesi Düşüşü uygula"
                 }
               ]
             }
@@ -1624,7 +1624,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 Defans Seviye Düşüşü uygula"
+                  "desc": "[OnSucceedAttack] 2 Savunma Seviyesi Düşüşü uygula"
                 }
               ]
             }
@@ -2390,28 +2390,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Defans Seviye Düşüşü uygula"
+                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Savunma Seviyesi Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Defans Seviye Düşüşü uygula"
+                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Savunma Seviyesi Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Defans Seviye Düşüşü uygula"
+                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Savunma Seviyesi Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Defans Seviye Düşüşü uygula"
+                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Savunma Seviyesi Düşüşü uygula"
                 }
               ]
             }
@@ -2425,28 +2425,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Defans Seviye Düşüşü uygula"
+                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Savunma Seviyesi Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Defans Seviye Düşüşü uygula"
+                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Savunma Seviyesi Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Defans Seviye Düşüşü uygula"
+                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Savunma Seviyesi Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Defans Seviye Düşüşü uygula"
+                  "desc": "[OnSucceedAttack] 2 [Charge] Miktarı harcayarak 2 Savunma Seviyesi Düşüşü uygula"
                 }
               ]
             }
@@ -3220,7 +3220,7 @@
         {
           "level": 4,
           "name": "Basit Karşı Darbe",
-          "desc": "[WhenUse] 5 HP kaybet\nAt 3+ [Breath] Miktarı varsa, Hasar +50%",
+          "desc": "[WhenUse] 5 HP kaybet\nAt 3+ [Breath] Miktarında, Hasar +50%",
           "coinlist": [
             {}
           ]
@@ -3655,7 +3655,7 @@
         {
           "level": 3,
           "name": "Zihin Kırbacı",
-          "desc": "[StartBattle] Bütün [Charge] Miktarını kullan\nEğer savaş başlangıcında 10 [Charge] Miktarı yoksa, target a random unit for an unopposed attack",
+          "desc": "[StartBattle] Bütün [Charge] Miktarını kullan\nEğer savaş başlangıcında 10 [Charge] Miktarı yoksa, rastgele bir karaktere karşılıksız saldırı yap",
           "coinlist": [
             {
               "coindescs": [
@@ -3663,7 +3663,7 @@
                   "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 40% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini verinlen hasarın %40'ı kadar arttır"
                 }
               ]
             },
@@ -3673,7 +3673,7 @@
                   "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini verinlen hasarın %30'u kadar arttır"
                 }
               ]
             },
@@ -3683,7 +3683,7 @@
                   "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini verinlen hasarın %20'si kadar arttır"
                 }
               ]
             },
@@ -3693,7 +3693,7 @@
                   "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini verinlen hasarın %10'u kadar arttır"
                 }
               ]
             }
@@ -3701,8 +3701,8 @@
         },
         {
           "level": 4,
-          "name": "Mind Whip",
-          "desc": "[StartBattle] Spend 8 [Charge] Count\nIf at less than 8 [Charge] Count at Combat Start, target a random unit for an unopposed attack",
+          "name": "Zihin Kırbacı",
+          "desc": "[StartBattle] 8 [Charge] Miktarı kullan\nEğer savaş başlangıcında 8 [Charge] Miktarı yoksa, rastgele bir karaktere karşılıksız saldırı yap",
           "coinlist": [
             {
               "coindescs": [
@@ -3710,7 +3710,7 @@
                   "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 40% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini verinlen hasarın %40'ı kadar arttır"
                 }
               ]
             },
@@ -3720,7 +3720,7 @@
                   "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini verinlen hasarın %30'u kadar arttır"
                 }
               ]
             },
@@ -3730,7 +3730,7 @@
                   "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini verinlen hasarın %20'si kadar arttır"
                 }
               ]
             },
@@ -3740,7 +3740,7 @@
                   "desc": "[OnSucceedAttack] 1 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt"
+                  "desc": "[OnSucceedAttack] Sersemleme Eşiğini verinlen hasarın %10'u kadar arttır"
                 }
               ]
             }
@@ -3788,7 +3788,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 2 [Breath] kazan"
                 }
               ]
             }
@@ -3797,7 +3797,7 @@
         {
           "level": 2,
           "name": "Uçan Kılıç",
-          "desc": "HP 50%'den azsa, this skill gives 1 additional [Breath]",
+          "desc": "HP 50%'den azsa, bu yetenek 1 ekstra [Breath] uygular",
           "keywords": [],
           "coinlist": [
             {
@@ -3810,7 +3810,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 }
               ]
             }
@@ -3819,7 +3819,7 @@
         {
           "level": 4,
           "name": "Uçan Kılıç",
-          "desc": "HP 50%'den azsa, this skill gives 3 additional [Breath]",
+          "desc": "HP 50%'den azsa, bu yetenek 3 ekstra [Breath] uygular",
           "keywords": [],
           "coinlist": [
             {
@@ -3832,7 +3832,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 }
               ]
             }
@@ -3845,21 +3845,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flashing Strike",
+          "name": "Parlayan Vuruş",
           "desc": "",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                 }
               ]
             }
@@ -3867,21 +3867,21 @@
         },
         {
           "level": 2,
-          "name": "Flashing Strike",
+          "name": "Parlayan Vuruş",
           "desc": "[WhenUse] HP 50%'den azsa, Jeton 1 ve 2'yi birer defa daha kullan",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                 }
               ]
             }
@@ -3889,21 +3889,21 @@
         },
         {
           "level": 4,
-          "name": "Flashing Strike",
+          "name": "Parlayan Vuruş",
           "desc": "[WhenUse] HP 50%'den azsa, Jeton 1 ve 2'yi birer defa daha kullan",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count "
+                  "desc": "[OnSucceedAttack] +2 [Breath] Miktarı kazan "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count "
+                  "desc": "[OnSucceedAttack] +2 [Breath] Miktarı kazan "
                 }
               ]
             }
@@ -3916,21 +3916,21 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Catch Breath",
+          "name": "Soluklanma",
           "desc": "",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 2 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] HP 25%'ten azsa, heal 100% of damage dealt"
+                  "desc": "[CriticalOnSucceedAttack] HP 25%'ten azsa, verilen hasarın 100%'ü kadar can yenile"
                 }
               ]
             }
@@ -3938,21 +3938,21 @@
         },
         {
           "level": 4,
-          "name": "Catch Breath",
-          "desc": "At 5+ [Breath] Count, +50% Critical Damage",
+          "name": "Soluklanma",
+          "desc": "5+ [Breath] Miktarında, +50% Kiritk Vuruş hasarı",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 2 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] HP 25%'ten azsa, heal 100% of damage dealt"
+                  "desc": "[CriticalOnSucceedAttack] HP 25%'ten azsa, verilen hasarın 100%'ü kadar can yenile"
                 }
               ]
             }
@@ -3976,13 +3976,13 @@
         {
           "level": 4,
           "name": "Basit Karşı Darbe",
-          "desc": "At 5+ [Breath] Count, +50% Critical Damage",
+          "desc": "5+ [Breath] Miktarında, +50% Kiritik Vuruş hasarı",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                 }
               ]
             }
@@ -3995,7 +3995,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shove",
+          "name": "İtme",
           "desc": "",
           "coinlist": [
             {
@@ -4009,7 +4009,7 @@
         },
         {
           "level": 2,
-          "name": "Shove",
+          "name": "İtme",
           "desc": "",
           "coinlist": [
             {
@@ -4023,8 +4023,8 @@
         },
         {
           "level": 4,
-          "name": "Shove",
-          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\nIf target has 8+ [Vibration], Skill Power +2",
+          "name": "İtme",
+          "desc": "[WhenUse] Sonraki tur bu Yetenek Yuvası +4  [Aggro] kazanır\nEğer hedefte 8+ [Vibration] varsa, Yetenek Gücü +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4042,27 +4042,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quake Rounds",
+          "name": "Titrek Şarjörler",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Attack Power Down"
+                  "desc": "[OnSucceedAttackHead] 1 Saldırı Güç Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 4 Sarsıntı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 4 Sarsıntı uygula"
                 }
               ]
             }
@@ -4070,27 +4070,27 @@
         },
         {
           "level": 2,
-          "name": "Quake Rounds",
+          "name": "Titrek Şarjörler",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Attack Power Down"
+                  "desc": "[OnSucceedAttack] 1 Saldırı Güç Düşüşü uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 8 Tremor; +2 Sarsıntı Miktarı uygula"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 8 Sarsıntı uygula; +2 Sarsıntı Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 8 Tremor; +2 Sarsıntı Miktarı uygula"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 8 Sarsıntı uygula; +2 Sarsıntı Miktarı uygula"
                 }
               ]
             }
@@ -4103,7 +4103,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Suppress",
+          "name": "Bastırma",
           "desc": "",
           "coinlist": [
             {
@@ -4116,21 +4116,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 4 [Burst]; Inflict +2 [Burst] Count"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 4 [Burst] uygula; +2 [Burst] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 4 [Burst]; Inflict +2 [Burst] Count"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 4 [Burst] uygula; +2 [Burst] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 5 [Vulnerable]"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 5 [Vulnerable] uygula"
                 }
               ]
             }
@@ -4138,8 +4138,8 @@
         },
         {
           "level": 4,
-          "name": "Suppress",
-          "desc": "If target has 5+ Tremor Count, Jeton Gücü +1",
+          "name": "Bastırma",
+          "desc": "Eğer hedefte 5+ Sarsıntı Miktarı varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -4151,21 +4151,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 4 [Burst]; Inflict +2 [Burst] Count"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 4 [Burst] uygula; +2 [Burst] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 4 [Burst]; Inflict +2 [Burst] Count"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 4 [Burst] uygula; +2 [Burst] Miktarı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "1 Mermi harca\n[OnSucceedAttack] Inflict 5 [Vulnerable]"
+                  "desc": "1 Mermi harca\n[OnSucceedAttack] 5 [Vulnerable] uygula"
                 }
               ]
             }
@@ -4187,7 +4187,7 @@
         {
           "level": 4,
           "name": "Basit Korunma",
-          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\nAt 0 Ammo, gain 2 more  [Aggro] ",
+          "desc": "[WhenUse] Sonraki tur bu Yetenek Yuvası +4 [Aggro] kazanır\n0 Mermi varsa, +2 daha fazla [Aggro] kazan",
           "coinlist": [
             {}
           ]
@@ -4303,8 +4303,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Slay",
-          "desc": "Skill Power +1 when below 0 SP",
+          "name": "Katletme",
+          "desc": "0 SP'nin altında Yetenek Gücü +1",
           "coinlist": [
             {},
             {},
@@ -4312,7 +4312,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Laceration], deal +20% more damage"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Laceration] varsa, +20% daha fazla hasar uygula"
                 }
               ]
             }
@@ -4320,8 +4320,8 @@
         },
         {
           "level": 4,
-          "name": "Slay",
-          "desc": "Skill Power +1 when below 0 SP",
+          "name": "Katletme",
+          "desc": "0 SP'nin altında Yetenek Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -4347,7 +4347,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Laceration], deal +20% more damage"
+                  "desc": "[OnSucceedAttack] Eğer hedefte 6+ [Laceration] varsa, +20% daha fazla hasar uygula"
                 }
               ]
             }
@@ -4373,13 +4373,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sharpened Blade",
+          "name": "Keskinleştirilmiş Kılıç",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 2 [Breath] kazan"
                 }
               ]
             }
@@ -4387,13 +4387,13 @@
         },
         {
           "level": 2,
-          "name": "Sharpened Blade",
+          "name": "Keskinleştirilmiş Kılıç",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 4 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 4 [Breath] kazan"
                 }
               ]
             }
@@ -4401,13 +4401,13 @@
         },
         {
           "level": 4,
-          "name": "Sharp Edge",
-          "desc": "At 4+ [Breath], Coin Power +2",
+          "name": "Keskin Kenar",
+          "desc": "4+ [Breath] varsa, Jeton Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [Breath]"
+                  "desc": "[OnSucceedAttack] 4 [Breath] kazan"
                 }
               ]
             }
@@ -4420,13 +4420,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scattering Slash",
+          "name": "Saçılan Kesik",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 1 [Breath] kazan"
                 },
                 {
                   "desc": "[OnSucceedAttack] 1 Kanama uygula"
@@ -4436,7 +4436,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 2 [Breath] kazan"
                 },
                 {
                   "desc": "[OnSucceedAttack] 2 Kanama uygula"
@@ -4447,13 +4447,13 @@
         },
         {
           "level": 2,
-          "name": "Scattering Slash",
-          "desc": "[WhenUse] Gain +1 [Breath] Count",
+          "name": "Saçılan Kesik",
+          "desc": "[WhenUse] +1 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 },
                 {
                   "desc": "[OnSucceedAttack] 2 Kanama uygula"
@@ -4463,7 +4463,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] 3 [Breath] kazan"
                 },
                 {
                   "desc": "[OnSucceedAttack] 3 Kanama uygula"
@@ -4474,13 +4474,13 @@
         },
         {
           "level": 4,
-          "name": "Scattering Slash",
-          "desc": "[WhenUse] Gain +2 [Breath] Count\nAt 5+ [Breath], Coin Power +2",
+          "name": "Saçılan Kesik",
+          "desc": "[WhenUse] +2 [Breath] Miktarı kazan\n5+ [Breath] varsa, Jeton Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 },
                 {
                   "desc": "[OnSucceedAttack] 2 Kanama uygula"
@@ -4490,7 +4490,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] 3 [Breath] kazan"
                 },
                 {
                   "desc": "[OnSucceedAttack] 3 Kanama uygula"
@@ -4506,13 +4506,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Sky-clearing Cut",
-          "desc": "If target has 6+ [Laceration], double the crit chance",
+          "name": "Hava Açan Kesiş",
+          "desc": "Eğer hedefte 6+ [Laceration] varsa, kritik hasar şansını ikiye katla",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 10 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 10 Kanama uygula"
                 }
               ]
             }
@@ -4520,13 +4520,13 @@
         },
         {
           "level": 4,
-          "name": "Sky-clearing Cut",
-          "desc": "If target has 6+ [Laceration], double the crit chance\nAt 10+ [Breath], +100% Critical Damage",
+          "name": "Hava Açan Kesiş",
+          "desc": "Eğer hedefte 6+ [Laceration] varsa, kritik hasar şansını ikiye katla\n 10+ [Breath] varsa, +100% Kiritk Hasar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 10 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 10 Kanama uygula"
                 }
               ]
             }
@@ -4540,7 +4540,7 @@
         {
           "level": 1,
           "name": "Basit Karşı Darbe",
-          "desc": "[WhenUse] Gain 1 Protection",
+          "desc": "[WhenUse] 1 Korunma kazan",
           "coinlist": [
             {}
           ]
@@ -4548,7 +4548,7 @@
         {
           "level": 4,
           "name": "Basit Karşı Darbe",
-          "desc": "[WhenUse] Gain 1 Protection\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] 1 Korunma kazan\n[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {}
           ]
@@ -4560,13 +4560,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Sky-clearing Cut",
-          "desc": "If target has 6+ [Laceration], double the crit chance",
+          "name": "Hava Açan Kesiş",
+          "desc": "Eğer hedefte 6+ [Laceration] varsa, Kritik Hasar şansını ikiye katla",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 10 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 10 Kanama uygula"
                 }
               ]
             }
@@ -4574,13 +4574,13 @@
         },
         {
           "level": 4,
-          "name": "Sky-clearing Cut",
-          "desc": "If target has 6+ [Laceration], double the crit chance\nAt 10+ [Breath], +100% Critical Damage",
+          "name": "Hava Açan Kesiş",
+          "desc": "Eğer hedefte 6+ [Laceration] varsa, Kritik Hasar şansını ikiye katla\n10+ [Breath] varsa, +100% Kritik hasar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 10 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] 10 Kanama uygula"
                 }
               ]
             }
@@ -4593,7 +4593,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bludgeon",
+          "name": "Zorlama",
           "desc": "",
           "coinlist": [
             {
@@ -4607,7 +4607,7 @@
         },
         {
           "level": 2,
-          "name": "Bludgeon",
+          "name": "Zorlama",
           "desc": "",
           "coinlist": [
             {
@@ -4621,8 +4621,8 @@
         },
         {
           "level": 4,
-          "name": "Bludgeon",
-          "desc": "If the next skill on the Dashboard does Blunt DMG, this skill's Coin Power +2",
+          "name": "Zorlama",
+          "desc": "Eğer panel üzerinde sonraki Yetenek Darbe Hasarı vuruyorsa, bu yeneteğin Jeton Gücü +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4640,14 +4640,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thrust",
+          "name": "Saplama",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Disarming]"
+                  "desc": "[OnSucceedAttack] 2 [Disarming] uygula"
                 }
               ]
             }
@@ -4655,14 +4655,14 @@
         },
         {
           "level": 2,
-          "name": "Thrust",
+          "name": "Saplama",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Disarming]"
+                  "desc": "[OnSucceedAttack] 4 [Disarming] uygula"
                 }
               ]
             }
@@ -4670,14 +4670,14 @@
         },
         {
           "level": 4,
-          "name": "Thrust",
-          "desc": "If the next skill on the Dashboard does Blunt DMG, this skill's Coin Power +2",
+          "name": "Saplama",
+          "desc": "Eğer panel üzerinde sonraki Yetenek Darbe Hasarı vuruyorsa, bu yeneteğin Jeton Gücü +2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Disarming]"
+                  "desc": "[OnSucceedAttack] 4 [Disarming] uygula"
                 }
               ]
             }
@@ -4690,16 +4690,16 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Suppress",
-          "desc": "If target took no damage from attacks this turn, Coin Power +2",
+          "name": "Bastırma",
+          "desc": "Eğer hedef bu tur yeteneklerden hiç hasar yemediyse, Jeton Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 [Disarming]"
+                  "desc": "[OnSucceedAttackHead] 4 [Disarming] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Level Down"
+                  "desc": "[OnSucceedAttack] 4 Savunma Seviyesi Düşüşü uygula"
                 }
               ]
             },
@@ -4714,16 +4714,16 @@
         },
         {
           "level": 4,
-          "name": "Suppress",
-          "desc": "If target took no damage from attacks this turn, Coin Power +3",
+          "name": "Bastırma",
+          "desc": "Eğer hedef bu tur yeteneklerden hiç hasar yemediyse, Jeton Gücü +3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 [Disarming]"
+                  "desc": "[OnSucceedAttackHead] 4 [Disarming] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Level Down"
+                  "desc": "[OnSucceedAttack] 4 Savunma Seviyesi Düşüşü uygula"
                 }
               ]
             },
@@ -4756,7 +4756,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Downward Swing",
+          "name": "Aşağı Sallama",
           "desc": "",
           "coinlist": [
             {
@@ -4770,7 +4770,7 @@
         },
         {
           "level": 2,
-          "name": "Downward Swing",
+          "name": "Aşağı Sallama",
           "desc": "",
           "coinlist": [
             {
@@ -4789,8 +4789,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Halberd Combo",
-          "desc": "[WinDuel] +10% damage",
+          "name": "Teber Kombosu",
+          "desc": "[WinDuel] +10% hasar",
           "coinlist": [
             {},
             {},
@@ -4799,8 +4799,8 @@
         },
         {
           "level": 2,
-          "name": "Halberd Combo",
-          "desc": "[WinDuel] +30% damage",
+          "name": "Teber Kombosu",
+          "desc": "[WinDuel] +30% hasar",
           "coinlist": [
             {},
             {},
@@ -4814,8 +4814,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Ravaging Cut",
-          "desc": "[WinDuel] Gain 1 Attack Power Up",
+          "name": "Tahrip Kesişi",
+          "desc": "[WinDuel] 1 Saldırı Güç Artışı kazan",
           "coinlist": [
             {},
             {},
@@ -4824,8 +4824,8 @@
         },
         {
           "level": 4,
-          "name": "Ravaging Cut",
-          "desc": "[WinDuel] Gain 1 Attack Power Up",
+          "name": "Tahrip Kesişi",
+          "desc": "[WinDuel] 1 Saldırı Güç Artışı kazan",
           "coinlist": [
             {
               "coindescs": [
@@ -4870,14 +4870,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice then Stab",
+          "name": "Kes ve Sapla",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                 }
               ]
             }
@@ -4885,14 +4885,14 @@
         },
         {
           "level": 2,
-          "name": "Slice then Stab",
+          "name": "Kes ve Sapla",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +2 [Breath] Miktarı kazan"
                 }
               ]
             }
@@ -4900,14 +4900,14 @@
         },
         {
           "level": 4,
-          "name": "Slice then Stab",
-          "desc": "If at 3+ [Breath] Count, Jeton Gücü +1",
+          "name": "Kes ve Sapla",
+          "desc": "3+ [Breath] Miktarında, Jeton Gücü +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count "
+                  "desc": "[OnSucceedAttack] +2 [Breath] Miktarı kazan "
                 }
               ]
             }
@@ -4920,27 +4920,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slash Series",
+          "name": "Kesme Serileri",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 2 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 1 [Breath] kazan"
                 }
               ]
             }
@@ -4948,27 +4948,27 @@
         },
         {
           "level": 2,
-          "name": "Slash Series",
-          "desc": "[DefeatDuel] Gain 2 Attack Power Up next turn",
+          "name": "Kesme Serileri",
+          "desc": "[DefeatDuel] Sonraki tur 2 Saldırı Güç Artışı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan"
                 }
               ]
             }
@@ -4976,27 +4976,27 @@
         },
         {
           "level": 4,
-          "name": "Slash Series",
-          "desc": "[DefeatDuel] Gain 2 Attack Power Up next turn\n[WinDuel] Do not spend [Breath] Count with critical attacks landed with this skill",
+          "name": "Kesme Serileri",
+          "desc": "[DefeatDuel] Sonraki tur 2 Saldırı Güç Artışı kazan\n[WinDuel] Bu Yetenekle vurulan Kritik Hasarlarda [Breath] Miktarı harcama",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] 1 [Breath] kazan"
                 }
               ]
             }
@@ -5009,7 +5009,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "To Claim Their Bones",
+          "name": "Onların Kemiklerini Almak İçin",
           "desc": "",
           "coinlist": [
             {
@@ -5026,8 +5026,8 @@
         },
         {
           "level": 4,
-          "name": "To Claim Their Bones",
-          "desc": "At 10+ [Breath] Count, +150% Critical Damage",
+          "name": "Onların Kemiklerini Almak İçin",
+          "desc": "10+ [Breath] Miktarında, +150% Kritik Vuruş Hasarı",
           "coinlist": [
             {
               "coindescs": [
@@ -5048,16 +5048,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Newsprung Basit Karşı Darbe",
-          "desc": "[WhenUse] Gain 1 Damage Up next turn",
+          "name": "Yeni Basit Karşı Darbe",
+          "desc": "[WhenUse] Sonraki tur 1 Hasar Artışı kazan",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Newsprung Basit Karşı Darbe",
-          "desc": "[WhenUse] Gain 1 Damage Up next turn\n[WhenUse] Gain +3 [Breath] Count",
+          "name": "Yeni Basit Karşı Darbe",
+          "desc": "[WhenUse] Sonraki tur 1 Hasar Artışı kazan\n[WhenUse] +3 [Breath] Miktarı kazan",
           "coinlist": [
             {}
           ]
@@ -5075,7 +5075,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] 2 Sarsıntı uygula"
                 }
               ]
             }
@@ -5089,7 +5089,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula"
                 }
               ]
             }
@@ -5098,12 +5098,12 @@
         {
           "level": 4,
           "name": "Baton",
-          "desc": "[DefeatDuel] Gain 2 Protection",
+          "desc": "[DefeatDuel] 2 Korunma kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula"
                 }
               ]
             }
@@ -5116,17 +5116,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suppress",
+          "name": "Bastırma",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] 3 Sarsıntı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 1 Hasar Düşüşü uygula"
                 }
               ]
             }
@@ -5134,17 +5134,17 @@
         },
         {
           "level": 2,
-          "name": "Suppress",
+          "name": "Bastırma",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Tremor"
+                  "desc": "[OnSucceedAttack] 6 Sarsıntı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Hasar Düşüşü uygula"
                 }
               ]
             }
@@ -5152,17 +5152,17 @@
         },
         {
           "level": 4,
-          "name": "Suppress",
-          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\n[DefeatDuel] Inflict 6 Tremor",
+          "name": "Bastırma",
+          "desc": "[WhenUse] Sonraki tur bu Yetenek Yuvası +4  [Aggro]  kazanır\n[DefeatDuel] 6 Sarsıntı uygula",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Tremor"
+                  "desc": "[OnSucceedAttack] 6 Sarsıntı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] Sonraki tur 2 Hasar Düşüşü uygula"
                 }
               ]
             }
@@ -5175,8 +5175,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Strong Strike",
-          "desc": "[WhenUse] Give 1 Protection to the ally with the least HP next turn",
+          "name": "Güçlü Vuruş",
+          "desc": "[WhenUse] Sonraki tur canı en az olanm üttefiğe 1 Korunma uygula",
           "coinlist": [
             {
               "coindescs": [
@@ -5184,7 +5184,7 @@
                   "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] 2 Darbe Kırılganlığı uygula"
                 }
               ]
             }
@@ -5192,8 +5192,8 @@
         },
         {
           "level": 4,
-          "name": "Strong Strike",
-          "desc": "[WhenUse] Give 1 Protection to the ally with the least HP next turn\n[WhenUse] Gain +10  [Aggro]  to this Skill Slot next turn",
+          "name": "Güçlü Vuruş",
+          "desc": "[WhenUse] Sonraki tur canı en az olanm üttefiğe 1 Korunma uygula\n[WhenUse] Sonraki tur bu Yetenek Yuvası +10  [Aggro]  kazanır",
           "coinlist": [
             {
               "coindescs": [
@@ -5201,10 +5201,10 @@
                   "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Tremor upon [VibrationExplosion], gain 2 Protection next turn"
+                  "desc": "[OnSucceedAttack] Eğer [VibrationExplosion] tetiklenmeden önce hedefte 5+ Sarsıntı varsa, Sonraki tur 2 Korunma kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] 2 Darbe Kırılganlığı uygula"
                 }
               ]
             }
@@ -5226,7 +5226,7 @@
         {
           "level": 4,
           "name": "Basit Korunma",
-          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn",
+          "desc": "[WhenUse] Sonraki tur bu Yetenek Yuvası +4  [Aggro]  kazanır",
           "coinlist": [
             {}
           ]
@@ -5259,7 +5259,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttackHead] 4 [Sinking] uygula"
                 }
               ]
             },
@@ -5269,12 +5269,12 @@
         {
           "level": 4,
           "name": "Muta Madre Muchacho",
-          "desc": "If target has 4+  [Sinking], Jeton Gücü +1",
+          "desc": "Eğer hedefte 4+  [Sinking] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] 4 [Sinking] uygula"
                 }
               ]
             },
@@ -5294,7 +5294,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 }
               ]
             },
@@ -5322,10 +5322,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                 }
               ]
             },
@@ -5335,7 +5335,7 @@
                   "desc": "[OnSucceedAttack] 2 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Sinking] Miktarı uygula"
                 }
               ]
             },
@@ -5351,15 +5351,15 @@
         {
           "level": 4,
           "name": "Senior por favor",
-          "desc": "If target has 6+  [Sinking], Coin Power +2",
+          "desc": "Eğer hedefte 6+  [Sinking] varsa, Jeton Gücü +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] 2 [Breath] kazan"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                 }
               ]
             },
@@ -5369,7 +5369,7 @@
                   "desc": "[OnSucceedAttack] 2 [Sinking] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] +1 [Sinking] Miktarı uygula"
                 }
               ]
             },
@@ -5390,12 +5390,12 @@
         {
           "level": 3,
           "name": "Quieres Taco?",
-          "desc": "If target’s SP is below 0, boost crit chance proportional to target’s SP",
+          "desc": "Eğer hedefin SP'si 0'ın altındaysa, hedefin SP'sine göre kritik hasar şansını arttır",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Lower user’s Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] Vurulan hasarın 50%'si kadar kullanıcının Sersemleme Eşiğini düşür"
                 }
               ]
             }
@@ -5404,12 +5404,12 @@
         {
           "level": 4,
           "name": "Quieres Taco?",
-          "desc": "If target's SP is below 0, boost crit chance proportional to target's SP\nIf user has 5+ [Breath] Count, +30% Critical Damage",
+          "desc": "Eğer hedefin SP'si 0'ın altındaysa, hedefin SP'sine göre kritik hasar şansını arttır\nEğer kullanıcıda 5+ [Breath] Miktarı varsa, +30% Kritik Vuruş Hasarı",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Vurulan hasarın 50%'si kadar kullanıcının Sersemleme Eşiğini düşür"
                 }
               ]
             }
@@ -5431,7 +5431,7 @@
         {
           "level": 4,
           "name": "¿demasiado piHPte?",
-          "desc": "[OnSucceedBasit Kaçınma] Gain +1 [Breath] Count",
+          "desc": "[OnSucceedBasit Kaçınma] +1 [Breath] Miktarı kazan",
           "coinlist": [
             {}
           ]
@@ -5443,7 +5443,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pulled Blade",
+          "name": "Çekilmiş Kılıç",
           "desc": "",
           "coinlist": [
             {},
@@ -5459,7 +5459,7 @@
         },
         {
           "level": 2,
-          "name": "Pulled Blade",
+          "name": "Çekilmiş Kılıç",
           "desc": "",
           "coinlist": [
             {},
@@ -5475,7 +5475,7 @@
         },
         {
           "level": 4,
-          "name": "Pulled Blade",
+          "name": "Çekilmiş Kılıç",
           "desc": "",
           "coinlist": [
             {},
@@ -5502,20 +5502,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Backslash",
+          "name": "Ters Kesiş",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "If user’s Speed is faster than target’s, +10% Damage"
+                  "desc": "Eğer kullanıcı hedeften daha hızlıysa, +10% hasar"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If user’s Speed is faster than target’s, +10% Damage"
+                  "desc": "Eğer kullanıcı hedeften daha hızlıysa, +10% hasar"
                 }
               ]
             }
@@ -5523,20 +5523,20 @@
         },
         {
           "level": 2,
-          "name": "Backslash",
+          "name": "Ters Kesiş",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "If user’s Speed is faster than target’s, +20% Damage"
+                  "desc": "Eğer kullanıcı hedeften daha hızlıysa, +20% hasar"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If user’s Speed is faster than target’s, +20% Damage"
+                  "desc": "Eğer kullanıcı hedeften daha hızlıysa, +20% hasar"
                 }
               ]
             }
@@ -5549,16 +5549,16 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Piercing Thrust",
-          "desc": "If target’s HP is above 50%, deal +20% damage",
+          "name": "Delici Saplama",
+          "desc": "Eğer hedefin HP'si 50%'nin üzerindeyse, +20% hasar uygula",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Piercing Thrust",
-          "desc": "If target’s HP is above 50%, deal +20% damage",
+          "name": "Piercing Saplama",
+          "desc": "Eğer hedefin HP'si 50%'nin üzerindeyse, deal +20% hasar",
           "coinlist": [
             {
               "coindescs": [
@@ -5589,13 +5589,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Draw of the Sword",
+          "name": "Kılıcın Çekilişi",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 2 [Breath] kazan"
                 }
               ]
             }
@@ -5603,13 +5603,13 @@
         },
         {
           "level": 2,
-          "name": "Draw of the Sword",
+          "name": "Kılıcın Çekilişi",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 4 [Breath]"
+                  "desc": "[OnSucceedAttackHead] 4 [Breath] kazan"
                 }
               ]
             }
@@ -5617,13 +5617,13 @@
         },
         {
           "level": 4,
-          "name": "Draw of the Sword",
-          "desc": "At 5+ [Breath], Jeton Gücü +1",
+          "name": "Kılıcın Çekilişi",
+          "desc": "5+ [Breath] varsa, Jeton Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [Breath]"
+                  "desc": "[OnSucceedAttack] 4 [Breath] kazan"
                 }
               ]
             }
@@ -5636,14 +5636,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Acupuncture",
+          "name": "Akupunktur",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 Slash DMG Up next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 1 Kesme Hasar Artışı kazan"
                 }
               ]
             }
@@ -5651,14 +5651,14 @@
         },
         {
           "level": 2,
-          "name": "Acupuncture",
-          "desc": "[WinDuel] Gain +1 [Breath] Count",
+          "name": "Akupunktur",
+          "desc": "[WinDuel] +1 [Breath] Miktarı kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 Slash DMG Up next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Kesme Hasar Artışı kazan"
                 }
               ]
             }
@@ -5666,14 +5666,14 @@
         },
         {
           "level": 4,
-          "name": "Acupuncture",
-          "desc": "[WinDuel] Gain +2 [Breath] Count",
+          "name": "Akupunktur",
+          "desc": "[WinDuel] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 Slash DMG Up next turn"
+                  "desc": "[OnSucceedAttackHead] Sonraki tur 2 Kesme Hasar Artışı kazan"
                 }
               ]
             }
@@ -5686,8 +5686,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Decisive Dive",
-          "desc": "If target’s HP is below 25%, Final Power +2",
+          "name": "Kararlı Dalış",
+          "desc": "Eğer hedefin canı 25%'in altındaysa, Final Gücü +2",
           "coinlist": [
             {},
             {
@@ -5702,7 +5702,7 @@
         {
           "level": 4,
           "name": "Decisive Dive",
-          "desc": "If target’s HP is below 50%, Final Power +2",
+          "desc": "If target’s HP is below 50%, Final Gücü +2",
           "coinlist": [
             {},
             {
@@ -5911,7 +5911,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttackHead] 4 [Burst] uygula"
                 }
               ]
             }
@@ -5986,14 +5986,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Burst], +10% Damage"
+                  "desc": "[OnSucceedAttack] If target has [Burst], +10% hasar"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Burst], +10% Damage"
+                  "desc": "[OnSucceedAttack] If target has [Burst], +10% hasar"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Heal by 30% of damage dealt"
@@ -6215,7 +6215,7 @@
         {
           "level": 4,
           "name": "Perfected Palm Strike",
-          "desc": "If target has 6+ [Combustion], deal +10% damage",
+          "desc": "If target has 6+ [Combustion], deal +10% hasar",
           "coinlist": [
             {
               "coindescs": [
@@ -6268,7 +6268,7 @@
         {
           "level": 1,
           "name": "Hack",
-          "desc": "[WinDuel] +20% damage",
+          "desc": "[WinDuel] +20% hasar",
           "coinlist": [
             {
               "coindescs": [
@@ -6680,7 +6680,7 @@
         {
           "level": 1,
           "name": "Foolishness…!",
-          "desc": "[StartBattle] Gain 1 Protection\nHP 50%'den azsa, Final Power +2",
+          "desc": "[StartBattle] 1 Korunma kazan\nHP 50%'den azsa, Final Gücü +2",
           "coinlist": [
             {}
           ]
@@ -7322,7 +7322,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 2 Defans Seviye Düşüşü uygula next turn"
+                  "desc": "[OnSucceedAttackHead] 2 Savunma Seviyesi Düşüşü uygula next turn"
                 }
               ]
             },
@@ -7332,7 +7332,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 2 Defans Seviye Düşüşü uygula next turn"
+                  "desc": "[OnSucceedAttackHead] 2 Savunma Seviyesi Düşüşü uygula next turn"
                 }
               ]
             }
@@ -7349,7 +7349,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 Defans Seviye Düşüşü uygula next turn"
+                  "desc": "[OnSucceedAttack] 2 Savunma Seviyesi Düşüşü uygula next turn"
                 }
               ]
             },
@@ -7359,7 +7359,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 Defans Seviye Düşüşü uygula next turn"
+                  "desc": "[OnSucceedAttack] 2 Savunma Seviyesi Düşüşü uygula next turn"
                 }
               ]
             }
@@ -7376,17 +7376,17 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 Defans Seviye Düşüşü uygula next turn"
+                  "desc": "[OnSucceedAttack] 2 Savunma Seviyesi Düşüşü uygula next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 2 Defans Seviye Düşüşü uygula next turn"
+                  "desc": "[OnSucceedAttack] 2 Savunma Seviyesi Düşüşü uygula next turn"
                 }
               ]
             }
@@ -7586,7 +7586,7 @@
                   "desc": "[OnSucceedAttackHead] Heal 6 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, raise Stagger Threshold by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, Sersemleme Eşiğini verinlen hasarın %30'u kadar arttır"
                 }
               ]
             }
@@ -7610,7 +7610,7 @@
                   "desc": "[OnSucceedAttackHead] Heal 6 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, raise Stagger Threshold by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, Sersemleme Eşiğini verinlen hasarın %30'u kadar arttır"
                 }
               ]
             }
@@ -7799,7 +7799,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +10% damage"
+                  "desc": "[OnSucceedAttackHead] The final Coin deals +10% hasar"
                 }
               ]
             },
@@ -8303,7 +8303,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula"
                 }
               ]
             }
@@ -8339,7 +8339,7 @@
                   "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle"
                 },
                 {
-                  "desc": "+20% Damage to targets with 5+ Nails"
+                  "desc": "+20% hasar to targets with 5+ Nails"
                 }
               ]
             }
@@ -8392,7 +8392,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target has 5+ Nails, inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] If target has 5+ Nails, 1 Saldırı Güç Düşüşü uygula next turn"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] If target has 5+ Nails, 2 [Paralysis] uygula next turn"
@@ -8429,7 +8429,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target has 5+ Nails, inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] If target has 5+ Nails, 1 Saldırı Güç Düşüşü uygula next turn"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] If target has 5+ Nails, 2 [Paralysis] uygula next turn"
@@ -8551,7 +8551,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor\nAt 3+ [Charge] Count, reuse this Coin if it lands Heads (Up to 2 times)\nIf the Coin is reused twice, inflict Tremor, then Sarsıntı Patlamasını tetikle\nAfter Tremor Burst, reduce Tremor Count by 1",
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula\nAt 3+ [Charge] Count, reuse this Coin if it lands Heads (Up to 2 times)\nIf the Coin is reused twice, inflict Tremor, then Sarsıntı Patlamasını tetikle\nAfter Tremor Burst, reduce Tremor Count by 1",
                   "summary": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle.\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, Sarsıntı Patlamasını tetikle, then reduce Tremor Count"
                 }
               ]
@@ -8573,7 +8573,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor\nAt 3+ [Charge] Count, reuse this Coin if it lands Heads (Up to 2 times)\nInflict 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, inflict Tremor, then Sarsıntı Patlamasını tetikle\nAfter Tremor Burst, reduce Tremor Count by 1",
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula\nAt 3+ [Charge] Count, reuse this Coin if it lands Heads (Up to 2 times)\nInflict 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, inflict Tremor, then Sarsıntı Patlamasını tetikle\nAfter Tremor Burst, reduce Tremor Count by 1",
                   "summary": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle.\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, Sarsıntı Patlamasını tetikle, then reduce Tremor Count"
                 }
               ]
@@ -8595,7 +8595,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor\nAt 3+ [Charge] Count, reuse this Coin if it lands Heads (Up to 2 times)\nInflict 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, inflict Tremor, then Sarsıntı Patlamasını tetikle\nAfter Tremor Burst, reduce Tremor Count by 1",
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula\nAt 3+ [Charge] Count, reuse this Coin if it lands Heads (Up to 2 times)\nInflict 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, inflict Tremor, then Sarsıntı Patlamasını tetikle\nAfter Tremor Burst, reduce Tremor Count by 1",
                   "summary": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, Sarsıntı Patlamasını tetikle, then reduce Tremor Count"
                 }
               ]
@@ -8622,7 +8622,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] 2 Sarsıntı uygula"
                 },
                 {
                   "desc": "[OnSucceedAttack] Sarsıntı Patlamasını tetikle.\nAfter Tremor Burst, reduce Tremor Count by 1"
@@ -8667,7 +8667,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula"
                 }
               ]
             }
@@ -8681,10 +8681,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] 2 Sarsıntı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula"
                 }
               ]
             }
@@ -8698,10 +8698,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] 2 Sarsıntı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula"
                 }
               ]
             }
@@ -8720,14 +8720,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] 3 Sarsıntı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], 1 Saldırı Güç Düşüşü uygula next turn"
                 }
               ]
             }
@@ -8741,17 +8741,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] 2 Sarsıntı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] 3 Sarsıntı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], 1 Saldırı Güç Düşüşü uygula next turn"
                 }
               ]
             }
@@ -8760,22 +8760,22 @@
         {
           "level": 4,
           "name": "Forced Break",
-          "desc": "If target has 7+ Tremor Count, Final Power +1",
+          "desc": "If target has 7+ Tremor Count, Final Gücü +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] 2 Sarsıntı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] 3 Sarsıntı uygula"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], 1 Saldırı Güç Düşüşü uygula next turn"
                 }
               ]
             }
@@ -8807,7 +8807,7 @@
                   "desc": "[OnSucceedAttackHead] +2 [[Charge]] Sayısı kazan."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula"
                 }
               ]
             },
@@ -8817,7 +8817,7 @@
                   "desc": "[OnSucceedAttackHead] +2 [[Charge]] Sayısı kazan."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] 3 Sarsıntı uygula"
                 }
               ]
             },
@@ -8852,7 +8852,7 @@
                   "desc": "[OnSucceedAttackHead] +2 [[Charge]] Sayısı kazan."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula"
                 }
               ]
             },
@@ -8862,7 +8862,7 @@
                   "desc": "[OnSucceedAttackHead] +2 [[Charge]] Sayısı kazan."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] 3 Sarsıntı uygula"
                 }
               ]
             },
@@ -8992,7 +8992,7 @@
                   "desc": "[OnSucceedAttack] +2 Sarsıntı Miktarı uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -9021,7 +9021,7 @@
                   "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is Staggered, deal +10% damage"
+                  "desc": "[OnSucceedAttack] If target is Staggered, deal +10% hasar"
                 }
               ]
             },
@@ -9031,7 +9031,7 @@
                   "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is Staggered, deal +10% damage"
+                  "desc": "[OnSucceedAttack] If target is Staggered, deal +10% hasar"
                 }
               ]
             }
@@ -9055,7 +9055,7 @@
                   "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is Staggered, deal +10% damage"
+                  "desc": "[OnSucceedAttack] If target is Staggered, deal +10% hasar"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, 3 [Burst] uygula"
@@ -9068,7 +9068,7 @@
                   "desc": "[OnSucceedAttack] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is Staggered, deal +10% damage"
+                  "desc": "[OnSucceedAttack] If target is Staggered, deal +10% hasar"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, 3 [Burst] uygula"
@@ -9612,7 +9612,7 @@
         {
           "level": 4,
           "name": "It's Heavy...!",
-          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\n[DefeatDuel] Inflict 2 Tremor and 2 [Burst]",
+          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\n[DefeatDuel] 2 Sarsıntı uygula and 2 [Burst]",
           "coinlist": [
             {
               "coindescs": [
@@ -9646,7 +9646,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] 2 Sarsıntı uygula"
                 }
               ]
             }
@@ -9667,7 +9667,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula"
                 }
               ]
             }
@@ -9676,7 +9676,7 @@
         {
           "level": 4,
           "name": "It's Churning...!",
-          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\n[DefeatDuel] Inflict 3 Tremor and 3 [Burst]",
+          "desc": "[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\n[DefeatDuel] 3 Sarsıntı uygula and 3 [Burst]",
           "coinlist": [
             {
               "coindescs": [
@@ -9688,7 +9688,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] 2 Sarsıntı uygula"
                 }
               ]
             }
@@ -9858,7 +9858,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 4 [Burst] uygula"
                 }
               ]
             },
@@ -9879,7 +9879,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 4 [Burst] uygula"
                 }
               ]
             },
@@ -10386,7 +10386,7 @@
         {
           "level": 1,
           "name": "Weighty Bash",
-          "desc": "At 10+ [Charge] Count, Final Power +1",
+          "desc": "At 10+ [Charge] Count, Final Gücü +1",
           "coinlist": [
             {
               "coindescs": [
@@ -10400,7 +10400,7 @@
         {
           "level": 2,
           "name": "Weighty Bash",
-          "desc": "At 10+ [Charge] Count, Final Power +1\nAt 7+ Speed, deal +25% Damage",
+          "desc": "At 10+ [Charge] Count, Final Gücü +1\nAt 7+ Speed, deal +25% Damage",
           "coinlist": [
             {
               "coindescs": [
@@ -10414,7 +10414,7 @@
         {
           "level": 4,
           "name": "Weighty Bash",
-          "desc": "At 10+ [Charge] Count, Final Power +2\nAt 7+ Speed, deal +25% Damage\n[WhenUse] +2 [[Charge]] Sayısı kazan.",
+          "desc": "At 10+ [Charge] Count, Final Gücü +2\nAt 7+ Speed, deal +25% Damage\n[WhenUse] +2 [[Charge]] Sayısı kazan.",
           "coinlist": [
             {
               "coindescs": [
@@ -10621,14 +10621,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                 }
               ]
             }
@@ -10642,14 +10642,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttackHead] +1 [Breath] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                 }
               ]
             }
@@ -10658,19 +10658,19 @@
         {
           "level": 4,
           "name": "Careful Obstruction",
-          "desc": "[WhenUse] Gain +2  [Aggro]  to this Skill Slot next turn\n[DefeatDuel] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] Gain +2  [Aggro]  to this Skill Slot next turn\n[DefeatDuel] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +1 [Breath] Miktarı kazan"
                 }
               ]
             }
@@ -10684,7 +10684,7 @@
         {
           "level": 1,
           "name": "Focused Defense",
-          "desc": "[WhenUse] At 15+ Shield, gain +2 [Breath] Count",
+          "desc": "[WhenUse] At 15+ Shield, +2 [Breath] Miktarı kazan",
           "coinlist": [
             {}
           ]
@@ -10692,12 +10692,12 @@
         {
           "level": 2,
           "name": "Focused Defense",
-          "desc": "[WhenUse] At 15+ Shield, gain +2 [Breath] Count",
+          "desc": "[WhenUse] At 15+ Shield, +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +2 [Breath] Miktarı kazan"
                 }
               ]
             },
@@ -10707,12 +10707,12 @@
         {
           "level": 4,
           "name": "Focused Defense",
-          "desc": "[WhenUse] At 15+ Shield, gain +2 [Breath] Count\n[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] At 15+ Shield, +2 [Breath] Miktarı kazan\n[WhenUse] Gain +4  [Aggro]  to this Skill Slot next turn\n[WhenUse] +2 [Breath] Miktarı kazan",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] +2 [Breath] Miktarı kazan"
                 }
               ]
             },
@@ -11038,7 +11038,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -11055,7 +11055,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Defense Level Down next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -11072,7 +11072,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Defense Level Down next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] +2 [Burst] Miktarı uygula"
                 }
               ]
             }
@@ -11115,7 +11115,7 @@
                   "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict +2 [Burst] Count against the enemy with the lowest [Burst] Count"
+                  "desc": "[EnemyKill] +2 [Burst] Miktarı uygula against the enemy with the lowest [Burst] Count"
                 }
               ]
             }
@@ -11153,7 +11153,7 @@
                   "desc": "[OnSucceedAttackHead] 1 [Burst] uygula"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict +2 [Burst] Count against the enemy with the lowest [Burst] Count"
+                  "desc": "[EnemyKill] +2 [Burst] Miktarı uygula against the enemy with the lowest [Burst] Count"
                 }
               ]
             }
@@ -11325,7 +11325,7 @@
         {
           "level": 3,
           "name": "Profiling",
-          "desc": "[WhenUse] Deal +10% damage for every 3 [Burst] on target (Max 20%)",
+          "desc": "[WhenUse] Deal +10% hasar for every 3 [Burst] on target (Max 20%)",
           "coinlist": [
             {
               "coindescs": [
@@ -11353,7 +11353,7 @@
         {
           "level": 4,
           "name": "Profiling",
-          "desc": "[WhenUse] Deal +10% damage for every 3 [Burst] on target (Max 50%)\n[WinDuel] Inflict +2 [Burst] Count",
+          "desc": "[WhenUse] Deal +10% hasar for every 3 [Burst] on target (Max 50%)\n[WinDuel] +2 [Burst] Miktarı uygula",
           "coinlist": [
             {
               "coindescs": [
