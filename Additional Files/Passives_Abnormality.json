@@ -114,17 +114,17 @@
     },
     {
       "id": 801302,
-      "name": "Ensnaring Desires",
-      "desc": "The unit becomes Desirous every time it loses 30% of its HP."
+      "name": "Kıstıran Arzu",
+      "desc": "Birim her 30% HP'si düştüğünde [Greedy] olur."
     },
     {
       "id": 801904,
-      "name": "Shuddering Terror",
-      "desc": "Gain 1 Protection for every ally that died this wave. (Max 5.)"
+      "name": "Titreyen Terör",
+      "desc": "Bu dalga her ölen müttefik için 1 [Protection] kazan. (Maks 5.)"
     },
     {
       "id": 802401,
-      "name": "Pulsating Arms",
+      "name": "Titreyen Kollar",
       "desc": "At the start of the turn, gain Attack Power Up and Protection by the Count of Instincts."
     },
     {
