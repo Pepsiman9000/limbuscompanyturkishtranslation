@@ -4,21 +4,21 @@
             "id": 1,
             "place": "Gift Assembly",
             "model": "산타타",
-            "content": "Humans... I'll separate the flesh from your bones...!"
+                "content": "İnsanlar... Etinizi kemiklerinizden sıyıracağım...!"
         },
         {
             "id": 2,
-            "content": "Santata's gut suddenly began to expand."
+            "content": "Santata'nın karnı birden bire büyümeye başladı."
         },
         {
             "id": 3,
             "teller": "???",
             "title": "???",
-            "content": "All of you! Hold your breaths!"
+            "content": "Hepiniz! Nefesinizi tutun!"
         },
         {
             "id": 4,
-            "content": "Suddenly, a large figure leaped out of the dark and slammed what looked like a stake into Santata's gut."
+            "content": "Birden bire, karanlıkten iri bir figür fırlayıp Santata'nın karnına kazığa benzeyen bir şey soktu."
         },
         {
             "id": 5,
@@ -28,16 +28,16 @@
         {
             "id": 6,
             "model": "싱클레어",
-            "content": "I-I think I'm about to pass out..."
+            "content": "S-Sanırsam ben bayılacağım..."
         },
         {
             "id": 7,
             "model": "이상",
-            "content": "A scent of potently fetid refuse lingers..."
+            "content": "Pis bir koku etrafa yayıldı..."
         },
         {
             "id": 8,
-            "content": "Some Sinners drop to the floor, while the others gag profusely. Clearly, this was a rather painful experience for all."
+            "content": "Bazı Günahkârlar yere düşer iken, diğerleri öğürüyordu. Belli ki, bu herkes için acı verici bir deneyimdi"
         },
         {
             "id": 9,
@@ -49,30 +49,30 @@
             "model": "도미노",
             "teller": "???",
             "title": "???",
-            "content": "So you've defeated a northern giant... yet you don't seem to know the proper procedure for what to do afterward. Are you Hunters from the City?"
+            "content": "Demek ki kuzey devlerinden birini öldürdünüz... ama sonrasında uygulanacak uygun prosedürün ne olduğunu bilmiyorsunuz. Şehirden avcılar mısınız siz?"
         },
         {
             "id": 11,
             "model": "이스마엘",
-            "content": "Proper procedure?"
+            "content": "Uygun prosedür?"
         },
         {
             "id": 12,
             "model": "도미노",
             "teller": "???",
             "title": "???",
-            "content": "Immediately before death, a northern giant's body fills with noxious gas before exploding in a rain of acid."
+            "content": "Kuzey devlerinin vücudu, ölümden tam önce zehirli gazla dolar ve sonrasında asit yağmuruyla patlar."
         },
         {
             "id": 13,
-            "content": "The man who staked Santata's gut explained as he approached us."
+            "content": "Santata'nın karnını deşen adam bize doğru gelir iken açıklıyordu."
         },
         {
             "id": 14,
             "model": "도미노",
             "teller": "???",
             "title": "???",
-            "content": "You have to puncture a hole in its gut to let out the gas before its internal organs condense it into acidic fluid. Allowing it to cause a chain reaction could... complicate things."
+            "content": "Organları gazı asidik bir sıvıya dönüştürmeden önce gazı dışarı salmak için karnında bir delik açmak gerekir. Zincirleme bir reaksiyona neden olmasına izin vermek... işleri karıştırabilir."
         }
     ]
 }
