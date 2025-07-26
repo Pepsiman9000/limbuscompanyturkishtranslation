@@ -50,13 +50,13 @@
     },
     {
       "id": "announcer_911407_90001_2",
-      "dlg": "All things went as expected in this suppression. Well, I don't suppose there's any need for me to make any adjustments to this variable.",
+      "dlg": "Bu bastırmada herşey umulduğu gibi gitti. Yani, Bu değişkene hiç ayarlama yapmama gerek yok.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911407_90001_3",
-      "dlg": "Bu beklenilenden daha uzun sürüyor. Hopefully you'll be able to end the fight with this command phase.",
+      "dlg": "Bu beklenilenden daha uzun sürüyor. Umarım bu komuta etabında bitirebilirsin bunu.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
@@ -74,91 +74,91 @@
     },
     {
       "id": "announcer_911407_90001_6",
-      "dlg": "That did not meet the criteria for the test. Well... keep trying, then.",
+      "dlg": "Testin kriterlerini karşılayamadın. Peki... denemeye devam.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911408_90001_1",
-      "dlg": "This one may be quite complicated for you to handle. Dispose of the entities before they do it themselves.",
+      "dlg": "Bu senin için biraz zor olabilir. Varlıkları kendilerini öldürmeden önce öldür.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911408_90001_2",
-      "dlg": "Quite the skilled response. Perhaps you have faced these forms of Peccatula often in the past?",
+      "dlg": "Profesyonel bir cevap. Bu tarz peccatulalar'ı önceden görmüş olabilirsin.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911408_90001_3",
-      "dlg": "Hm. Not bad, considering the demanding conditions. Very good. Let us proceed to the next test.",
+      "dlg": "Hm. Fena değil, zor kondisyonları hesaba katarsak. Çok güzel. Sonraki teste geçelim.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911408_90001_4",
-      "dlg": "It seems that you should first focus on not getting your Sinners killed before trying to defeat the Peccatula in time... Well, don't give up now.",
+      "dlg": "Peccatulaları yenmeden önce günâhkarlarının hayatta kalmasına odaklan... Yani, daha pes etme.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911408_90001_5",
-      "dlg": "That did not meet the criteria for the test. Well... keep trying, then.",
+      "dlg": "Testin kriterlerini karşılayamadın. Peki... denemeye devam.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911409_90001_1",
-      "dlg": "This time, we will observe your evasion abilities. Try to defeat them without getting hit once, save for attacks that are entirely unavoidable.",
+      "dlg": "Bu sefer, kaçınma yeteneklerini inceleyeceğiz. Vurulmadan kazanmayı dene, kaçınılmaz saldırılar dışında.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911409_90001_2",
-      "dlg": "So the manager's concern for the Sinners weren't just empty words, I see... Very well, this matches the preliminary reports we had on hand.",
+      "dlg": "Müdürün günâhkarlarla ilgili sözleri boş değildi demek, Anlıyorum... Tamamdır, bu elimizdeki ön raporlarla uyuşuyor.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911409_90001_3",
-      "dlg": "Hm, was this a mistake on the Sinner's part? Let us hope that this was not a failure of the command system.",
+      "dlg": "Hm, bu günâhkarın bir hatası mıydı? Umarım komuta sisteminin bir hatası değildir.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911409_90001_4",
-      "dlg": "Ten consecutive mistakes seems to imply that there <i>was</i> a failure of the commander's part, but... hm, please do continue.",
+      "dlg": "Üst üste on hata kumandanın <i>tarafında</i> bir hata, ama... hm, lütfen devam et.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911410_90001_1",
-      "dlg": "Given that this is our final test of the day, let's make this a tad more challenging. Try to ensure that each Sinner defeats their own Peccatulum Invidiae.",
+      "dlg": "Günün son testi olduğunu var sayarak, bunu azıcık daha zor yapalım. Her günahkarın kendi Peccatulum Invidiae'sini öldürüğünden emin ol.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911410_90001_2",
-      "dlg": "I have heard many tales of your genius even before you became the company's asset. It seems they were all true. Congratulations.",
+      "dlg": "Senin dahiliğini bu şirketin bir aleti olmadan önce duymuştum. Görünüşe göre duyduklarım doğruymuş. Tebrikler.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911410_90001_3",
-      "dlg": "… Hm. It seems that the binding force of the artifact has been copied to the Peccatulum as well. This is actually quite interesting.",
+      "dlg": "… Hm. Görünüşe göre eserin felç edici gücü Peccatulum'a kopyalanmış. Bu baya ilginç.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911410_90001_4",
-      "dlg": "When I present you with conditions to be followed, you follow the condi— mm, don't worry about it. Please complete the remaining tests as dictated, at least.",
+      "dlg": "Sana takip edilmesi gerekilen kondisyonları gösterdiğimde, kondisyonları taki— mm, takma kafana. Lütfen kalan testleri belirtildiği gibi bitir, en azından.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911410_90001_5",
-      "dlg": "Well... I can understand how this has happened, given the difficulty of the test. But a failure is a failure nonetheless.",
+      "dlg": "Ehh... Bunun nasıl yaşandığını anlayabiliyorum, testin zorluğuna bakarak. Ama farketmeksizin bir başarısızlık, bir başarısızlıktır.",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     }
