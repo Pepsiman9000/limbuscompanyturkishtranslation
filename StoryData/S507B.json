@@ -4,20 +4,20 @@
             "id": 0,
             "place": "Marlin Port Club Entrance",
             "model": "홍루",
-            "content": "Woah, I can't believe they're letting us in like this!"
+            "content": "Vay canına, bizi böyle bir şekilde içeri aldıklarına inanamıyorum!"
         },
         {
             "id": 1,
             "model": "단테2",
-            "content": "<... Let's go.>"
+            "content": "<... Hadi gidelim.>"
         },
         {
             "id": 2,
-            "content": "I wanted to correct him that the bouncers weren't letting us in, that they were either face-down in some ditch or fleeing, and we were just letting ourselves in..."
+            "content": "Ona aslında fedailerin bizi içeri almadığını, sadece bizle karşılaşan fedailerin ya kaçıyor ya da köşenin birinde çürüyor olduğunu söylemek isterdim..."
         },
         {
             "id": 3,
-            "content": "But I guess I wasn't in the mood."
+            "content": "Fakat sanırım bunun için havamda değildim."
         },
         {
             "id": 4,
@@ -25,68 +25,68 @@
             "model": "클럽손님",
             "teller": "Guest",
             "title": "U Corp.",
-            "content": "Heyy... you here with anyone?"
+            "content": "Heyy... dostun falan var mı?"
         },
         {
             "id": 5,
             "model": "파우스트",
-            "content": "Yes. I have twelve companions with me."
+            "content": "Var. Ben de oniki yoldaşım."
         },
         {
             "id": 6,
             "model": "클럽손님",
             "teller": "Guest",
             "title": "U Corp.",
-            "content": "T-twelve...?"
+            "content": "O-Oniki...?"
         },
         {
             "id": 7,
             "model": "쌍갈고리파조직원4",
             "teller": "Twinhook Pirates?",
             "title": "???",
-            "content": "There! Get 'em!"
+            "content": "Oradalar, yakalayın!"
         },
         {
             "id": 8,
             "model": "클럽손님",
             "teller": "Guest",
             "title": "U Corp.",
-            "content": "Aaah! S-sorry for disturbing you!"
+            "content": "Aaah! R-Rahatsız ettiğim için özür dilerim!"
         },
         {
             "id": 9,
             "teller": "Club DJ",
             "title": "U Corp.",
-            "content": "Okay everyone~ Let's do the famous 'Marlin Dance' of our beloved Marlin port!"
+            "content": "Haydi millet~ Hadi sevgili Marlin Limanı'mızın meşhur 'Marlin Dansı'nı yapalım!"
         },
         {
             "id": 10,
             "teller": "Club DJ",
             "title": "U Corp.",
-            "content": "Arms out~ Like this! Swing~ and lock! Swing~ and lock!"
+            "content": "Kollar dışarı~ böyle! Sallaaa~ ve dur! Sallaaa~ ve dur!"
         },
         {
             "id": 11,
             "model": "히스클리프",
-            "content": "Ngh... what's with all the booming bass?"
+            "content": "Ngh... bu müzik de neyin nesi lan şimdi?"
         },
         {
             "id": 12,
             "model": "이상",
-            "content": "It feels as though the sound waves are vibrating my entire brain matter..."
+            "content": "Sanki ses dalgaları, tüm beyin yapımı sarsıyor..."
         },
         {
             "id": 13,
             "model": "이스마엘",
-            "content": "Get out of my way or you'll all be sorry."
+            "content": "Yolumdan çekilmezseniz, sizi çok pis üzerin."
         },
         {
             "id": 14,
-            "content": "Ishmael swung her mace, shattering a nearby table to pieces..."
+            "content": "Ishmael gürzünü savurmuş, ve yakınlardaki bir masayı paramparça etmişti..."
         },
         {
             "id": 15,
-            "content": "And that was more than enough for the clubbers to realize the seriousness of the situation. They quickly ran to the exit and vacated the club."
+            "content": "Ve bu, kulüptekilerin durumun ciddiyetini anlamasına yetmişti. Çabukcak çıkışa koşup kulübü tahliye etmişlerdi."
         }
     ]
 }
