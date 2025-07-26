@@ -4,55 +4,55 @@
             "id": 0,
             "place": "Marlin Port Club",
             "model": "싱클레어",
-            "content": "Y-you better tell us where your boss is before t-things turn ugly..."
+            "content": "İşler b-boka sarmadan, bize p-patronunuzun nerede olduğunu söyleyin..."
         },
         {
             "id": 1,
             "model": "쌍갈고리파조직원4",
             "teller": "Twinhook Pirates?",
             "title": "???",
-            "content": "Hmph... Go drink some more milk before ye start tossin' around threats like that, laddie."
+            "content": "Hmph... Millete böyle rastgele sallamadan önce, sütünü iç de yat."
         },
         {
             "id": 2,
             "model": "싱클레어",
-            "content": "I-I'm serious! Talk, or the next thing getting s-smashed is your h-h-..."
+            "content": "C-Ciddiyim! Konuş, yoksa parçalara ayrılacak ş-ş-ş-ş..."
         },
         {
             "id": 3,
             "model": "싱클레어",
-            "content": "... Your skull."
+            "content": "... Kafatasın olur."
         },
         {
             "id": 4,
             "model": "쌍갈고리파조직원4",
             "teller": "Twinhook Pirates?",
             "title": "???",
-            "content": "Ha... ha ha... O-okay. Let's calm down."
+            "content": "Ha... ha ha... T-Tamam be, sakin ol."
         },
         {
             "id": 5,
             "model": "쌍갈고리파조직원4",
             "teller": "Twinhook Pirates?",
             "title": "???",
-            "content": "Captain ain't 'ere. If it's hostages yer lookin' for... the first mate should know."
+            "content": "Kaptan burada değil. Eğer rehineyi arıyorsanız... birinci zabit biliyor olmalı."
         },
         {
             "id": 6,
             "model": "싱클레어",
-            "content": "Directions."
+            "content": "Yolu göster."
         },
         {
             "id": 7,
             "model": "쌍갈고리파조직원4",
             "teller": "Twinhook Pirates?",
             "title": "???",
-            "content": "The last room... at the end of that... uh, corridor..."
+            "content": "Şu koridorun.... Son... Odası..."
         },
         {
             "id": 8,
             "model": "싱클레어",
-            "content": "... Go."
+            "content": "... Git."
         },
         {
             "id": 9,
@@ -64,29 +64,29 @@
         {
             "id": 10,
             "model": "싱클레어",
-            "content": "Not that way...! Get out of this club."
+            "content": "Oraya değil lan...! Kulüpten git."
         },
         {
             "id": 11,
             "model": "쌍갈고리파조직원4",
             "teller": "Twinhook Pirates?",
             "title": "???",
-            "content": "Huhh?! A-aye! I'm sorry!!"
+            "content": "Hahh?! H-Hay hay! Özür dilerim!!"
         },
         {
             "id": 12,
             "model": "히스클리프",
-            "content": "... Oi, kid... You're getting better at this, aren't you?"
+            "content": "... La', oğlum... İyi gidiyorsun ha, değil mi?"
         },
         {
             "id": 13,
             "model": "싱클레어",
-            "content": "I don't want to get complimented for doing something like this..."
+            "content": "Böyle bir şey yaptığım için övgü almak istemiyorum..."
         },
         {
             "id": 14,
             "model": "싱클레어",
-            "content": "I just... I just think we have to get to the hostage as soon as possible."
+            "content": "Sadece... Rehineyi en kısa sürede kurtarmamız gerektiğini düşünüyorum."
         }
     ]
 }
