@@ -234,7 +234,7 @@
     {
       "id": 9010,
       "name": "Kanlı Araç",
-      "desc": "Tur Başlangıcı: Rastgele bir müttefiğe 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; Söz konusu müttefiğe 1 ekstra [AttackDmgUp] uygula",
+      "desc": "Tur Başlangıcı: Rastgele bir müttefike 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; Söz konusu müttefike 1 ekstra [AttackDmgUp] uygula",
       "simpleDesc": [
         {
           "abilityID": 9010,
@@ -249,7 +249,7 @@
     {
       "id": 19010,
       "name": "Kanlı Araç+",
-      "desc": "Tur Başlangıcı: Rastgele bir müttefiğe 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; <style=\"upgradeHighlight\">Söz konusu müttefiğe 2 ekstra [AttackDmgUp] uygula</style>",
+      "desc": "Tur Başlangıcı: Rastgele bir müttefike 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; <style=\"upgradeHighlight\">Söz konusu müttefike 2 ekstra [AttackDmgUp] uygula</style>",
       "simpleDesc": [
         {
           "abilityID": 19010,
@@ -264,7 +264,7 @@
     {
       "id": 29010,
       "name": "Kanlı Araçt++",
-      "desc": "Tur Başlangıcı: Rastgele <style=\"upgradeHighlight\">2 müttefiğe</style>. 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; Söz konusu müttefiğe 2 ekstra [AttackDmgUp] uygula",
+      "desc": "Tur Başlangıcı: Rastgele <style=\"upgradeHighlight\">2 müttefike</style>. 2 [AttackDmgUp] uygula.\n\nŞehvet Saldırı Yeteneği olan birimlere öncelik ver; Söz konusu müttefike 2 ekstra [AttackDmgUp] uygula",
       "simpleDesc": [
         {
           "abilityID": 29010,
@@ -542,161 +542,161 @@
     },
     {
       "id": 9021,
-      "name": "Blue Zippo Lighter",
-      "desc": "Turn Start: gain +1 Gloom E.G.O resource and +1 E.G.O resource of 2 other random Affinities.",
+      "name": "Mavi Zippo Çakmağı",
+      "desc": "Tur Başında: +1 Hüzün E.G.O Kaynağı ve başka 2 rastgele Türden +1 E.G.O Kaynağı kazan",
       "simpleDesc": [
         {
           "abilityID": 9021,
-          "simpleDesc": "Gain +1 Gloom E.G.O resource and +1 E.G.O resource of 2 other random Affinities."
+          "simpleDesc": "+1 Hüzün E.G.O Kaynağı ve başka 2 rastgele Türden +1 E.G.O Kaynağı kazan"
         }
       ]
     },
     {
       "id": 9022,
-      "name": "Phantom Pain",
-      "desc": "Skills with 1 Atk Weight deal +15% damage.\n\nWhen activating Gloom Absolute Resonance, apply 2 [AttackUp] to all allies at Combat Start.",
+      "name": "Hayalet Acı",
+      "desc": "1 Saldırı Ağırlığı olan yetenekler %15 daha fazla hasar verir.\n\nEğer Hüzün Mutlak Rezonansı aktif edilirse, Çatışma Başında her müttefike 2 [AttackUp] uygula.",
       "simpleDesc": [
         {
           "abilityID": 9022,
-          "simpleDesc": "Deal +15% damage"
+          "simpleDesc": "%15 daha fazla hasar ver"
         },
         {
           "abilityID": 90221,
-          "simpleDesc": "Gain 2 [AttackUp]"
+          "simpleDesc": "2 [AttackUp] kazan"
         }
       ]
     },
     {
       "id": 9023,
-      "name": "Thunderbranch",
-      "desc": "When inflicting [Burst] Potency with Skill effects, Inflict 1 [Burst] Potency and +1 [Burst] Count on target.",
+      "name": "Fırtına Dalı",
+      "desc": "Yetenekler ile [Burst] Şiddeti uygularken, hedefe 1 [Burst] Şiddeti ve +1 [Burst] Miktarı uygula.",
       "simpleDesc": [
         {
           "abilityID": 9023,
-          "simpleDesc": "Inflict 1 [Burst] Potency and +1 [Burst] Count"
+          "simpleDesc": "1 [Burst] Şiddeti ve +1 [Burst] Miktarı uygula."
         }
       ]
     },
     {
       "id": 19023,
-      "name": "Thunderbranch+",
-      "desc": "When inflicting [Burst] Potency with Skill effects, Inflict <style=\"upgradeHighlight\">2 [Burst] Potency</style> and +1 [Burst] Count on target.",
+      "name": "Fırtına Dalı+",
+      "desc": "Yetenekler ile [Burst] Şiddeti uygularken, hedefe <style=\"upgradeHighlight\">2 [Burst] Şiddeti</style> ve +1 [Burst] Miktarı uygula.",
       "simpleDesc": [
         {
           "abilityID": 19023,
-          "simpleDesc": "Inflict 2 [Burst] Potency and +1 [Burst] Count"
+          "simpleDesc": "2 [Burst] Şiddeti ve +1 [Burst] Miktarı uygula."
         }
       ]
     },
     {
       "id": 29023,
-      "name": "Thunderbranch++",
-      "desc": "When inflicting [Burst] Potency with Skill effects, Inflict <style=\"upgradeHighlight\">3 [Burst] Potency</style> and +1 [Burst] Count on target.\n\n<style=\"upgradeHighlight\">If the Skill's Affinity was Gloom, inflict 3 [Burst] Potency and +2 [Burst] Count instead.</style>",
+      "name": "Fırtına Dalı++",
+      "desc": "Yetenekler ile [Burst] Şiddeti uygularken, hedefe <style=\"upgradeHighlight\">3 [Burst] Şiddeti</style> ve +1 [Burst] Miktarı uygula.\n\n<style=\"upgradeHighlight\">Eğer Yeteneğin Türü Hüzün ise, onun yerine 3 [Burst] Şiddeti ve +2 [Burst] Miktarı uygula.</style>",
       "simpleDesc": [
         {
           "abilityID": 29023,
-          "simpleDesc": "Inflict 3 [Burst] Potency and +1 [Burst] Count"
+          "simpleDesc": "3 [Burst] Şiddeti ve +1 [Burst] Miktarı uygula."
         },
         {
           "abilityID": 290231,
-          "simpleDesc": "Inflict 3 [Burst] Potency and +2 [Burst] Count"
+          "simpleDesc": "3 [Burst] Şiddeti ve +2 [Burst] Miktarı uygula."
         }
       ]
     },
     {
       "id": 9024,
-      "name": "Melted Eyeball",
-      "desc": "Inflict 5 [AttackDown] and 5 [DefenseDown] next turn against enemies affected by [VibrationExplosion]. (3 times per turn)",
+      "name": "Erimiş Göz Küresi",
+      "desc": "[VibrationExplosion]'ndan etkilenen düşmanlara sonra ki tur 5 [AttackDown] ve 5 [DefenseDown] uygula. (tur başına 3 defa)",
       "simpleDesc": [
         {
           "abilityID": 9024,
-          "simpleDesc": "Inflict 5 [AttackDown] and 5 [DefenseDown]"
+          "simpleDesc": "5 [AttackDown] ve 5 [DefenseDown] uygula"
         }
       ]
     },
     {
       "id": 9025,
-      "name": "Grey Coat",
-      "desc": "When using a Skill with 2+ Atk Weight, increase its damage by 20%.\n\nWhen hitting an enemy with a Skill with 2+ Atk Weight or a Gloom Affinity Skill, heal by 20% of the damage dealt.",
+      "name": "Gri palto",
+      "desc": "2+ Saldırı Ağırlığı olan bir Yetenek kullanırken, hasarını %20 kadar arttır.\n\nEğer bir düşmana 2+ Saldırı Ağırlığı veya Hüzün Türü Yetenek ile vurulduğunda, verilen hasarın %20'si kadar can yenile",
       "simpleDesc": [
         {
           "abilityID": 9025,
-          "simpleDesc": "Deal +20% damage"
+          "simpleDesc": "%20 Daha fazla hasar ver"
         },
         {
           "abilityID": 90251,
-          "simpleDesc": "Heal 20% of damage dealt"
+          "simpleDesc": "Verilen hasarin %20'sini yenile"
         }
       ]
     },
     {
       "id": 9026,
-      "name": "Late-bloomer’s Tattoo",
-      "desc": "When hitting an enemy with a single-Coin Skill or a Pride Affinity Skill, gain 2 [AttackUp] and 2 [DefenseUp] next turn. (Max 5)",
+      "name": "Geç Çiçek Açanların Damgası",
+      "desc": "Bir düşmana Tek-Jeton Yeteneği ya da Kibir Türü Yetenek ile vurulduysa, sonra ki tur 2 [AttackUp] ve 2 [DefenseUp] kazan (Maks 5)",
       "simpleDesc": [
         {
           "abilityID": 9026,
-          "simpleDesc": "Gain 2 [AttackUp] and 2 [DefenseUp]"
+          "simpleDesc": "2 [AttackUp] ve 2 [DefenseUp] kazan"
         }
       ]
     },
     {
       "id": 9027,
-      "name": "Lowest Star",
-      "desc": "When hitting an enemy with a Blunt Skill or a Pride Affinity Skill, inflict 2 fixed SP damage on target.\n\nAllies with less than 0 SP deal 10% more damage.",
+      "name": "En Düşük Yıldız",
+      "desc": "Düşmanlara Darbe Yeteneği ya da Kibir Türü Yetenek ile vururken, hedefe sabit 2 SP hasarı vur.\n\nSakinlik Puanı 0'dan az olan müttefikler %10 daha fazla hasar verir.",
       "simpleDesc": [
         {
           "abilityID": 9027,
-          "simpleDesc": "Deal 2 SP damage"
+          "simpleDesc": "2 SP hasarı ver"
         },
         {
           "abilityID": 90271,
-          "simpleDesc": "Deal +10% damage"
+          "simpleDesc": "%10 daha fazla hasar ver"
         }
       ]
     },
     {
       "id": 19027,
-      "name": "Lowest Star+",
-      "desc": "When hitting an enemy with a Blunt Skill or a Pride Affinity Skill, inflict <style=\"upgradeHighlight\">3 fixed SP damage on target</style>.\n\nAllies with less than 0 SP deal <style=\"upgradeHighlight\">15% more damage</style>.",
+      "name": "En Düşük Yıldız+",
+      "desc": "Düşmanlara Darbe Yeteneği ya da Kibir Türü Yetenek ile vururken, hedefe sabit <style=\"upgradeHighlight\">3 SP hasarı vur</style>.\n\nSakinlik Puanı 0'dan az olan müttefikler <style=\"upgradeHighlight\">%15 daha fazla hasar verir</style>.",
       "simpleDesc": [
         {
           "abilityID": 19027,
-          "simpleDesc": "Deal 3 SP damage"
+          "simpleDesc": "3 SP hasarı ver"
         },
         {
           "abilityID": 190271,
-          "simpleDesc": "Deal +15% damage"
+          "simpleDesc": "%15 daha fazla hasar ver"
         }
       ]
     },
     {
       "id": 29027,
-      "name": "Lowest Star++",
-      "desc": "When hitting an enemy with a Blunt Skill or a Pride Affinity Skill, inflict <style=\"upgradeHighlight\">5 fixed SP damage on target</style>.\n\nAllies with less than 0 SP deal <style=\"upgradeHighlight\">25% more damage</style>.",
+      "name": "En Düşük Yıldız++",
+      "desc": "Düşmanlara Darbe Yeteneği ya da Kibir Türü Yetenek ile vururken, hedefe sabit <style=\"upgradeHighlight\">5 SP hasarı vur</style>.\n\nSakinlik Puanı 0'dan az olan müttefikler <style=\"upgradeHighlight\">%25 daha fazla hasar verir</style>.",
       "simpleDesc": [
         {
           "abilityID": 29027,
-          "simpleDesc": "Deal 5 SP damage"
+          "simpleDesc": "5 SP hasarı ver"
         },
         {
           "abilityID": 290271,
-          "simpleDesc": "Deal +25% damage"
+          "simpleDesc": "%25 daha fazla hasar ver"
         }
       ]
     },
     {
       "id": 9028,
-      "name": "Prejudice",
-      "desc": "First Turn Start of an Encounter: the ally with the least HP heals 15% of their Max HP.\n\nWhen activating Pride Absolute Resonance, the ally with the least HP heals 12.5% of their missing HP at Combat Start.",
+      "name": "Önyargı",
+      "desc": "Karşılaşmanın İlk Turunda: En az HP'na sahip olan müttefik Maks HP'nın %15'ini yeniler.\n\nEğer Kibir Tam Rezonansı aktif edilirse, En az HP'na sahip olan müttefik Çatışma Başlangıcında Maks HP'nın %15'ini yeniler",
       "simpleDesc": [
         {
           "abilityID": 9028,
-          "simpleDesc": "Heal 15% of Max HP"
+          "simpleDesc": "Max HP'nın %15'ini yeniler"
         },
         {
           "abilityID": 90281,
-          "simpleDesc": "Heal 12.5% of missing HP"
+          "simpleDesc": "Max HP'nın %12.5'ini yeniler"
         }
       ]
     },
